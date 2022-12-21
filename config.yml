@@ -1,12 +1,12 @@
 baseURL: "https://www.osoappliance.com"
 languageCode: en-us
-title: OSO Appliance Repository
+title: OSO Appliance
 theme: PaperMod
 
 params:
 
   homeInfoParams:
-      Title: ‘OSO Appliance Repository’
+      Title: ‘OSO Appliance
       Content: Welcome to the most comprehensive blog about appliances on the internet.
       
   socialIcons:
