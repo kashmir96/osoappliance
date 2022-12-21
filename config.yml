@@ -1,0 +1,55 @@
+baseURL: "osoappliance.com"
+languageCode: en-us
+title: OSO Appliance Repository
+theme: PaperMod
+
+params:
+
+  homeInfoParams:
+      Title: ‘OSO Appliance Repository’
+      Content: Welcome to the most comprehensive blog about appliances on the internet.
+      
+  socialIcons:
+  Name: facebook
+  Url: “https://facebook.com/”
+  Name: twitter
+  Url: “https://twitter.com/”
+
+  cover: 
+      linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+
+menu: 
+  main: 
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+
+    - identifier: tags
+      name: Tags
+      url: /tags
+      weight: 20
+
+    - identifier: categories
+      name: Categories
+      url: /categories
+      weight: 30
+
+    - identifier: archives
+      name: Archives
+      url: /archives
+      weight: 40
+
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 50
