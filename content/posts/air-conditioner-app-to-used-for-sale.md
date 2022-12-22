@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner App To Used For Sale
-description: "Are you looking for a way to sell your used air conditioners? Look no further than online marketplaces such as eBay, Trade Me, and...see more detail"
+description: "Are you looking for a way to sell your used air conditioners? Look no further than online marketplaces such as eBay, Trade Me, and...check it out to learn"
 keywords: air conditioner sale
-publishDate: 45016
+publishDate: 3/31/2023
 tags: ["Heat Pump", "Appliance Consumption", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/374.webp
- alt: 'someones helpful heat pump being used'
+ image: /img/heatpump/373.webp
+ alt: 'a rarely used heat pump dazzling all involved'
 
 ---
 

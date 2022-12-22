@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Accessories Suppliers
-description: "Air conditioning accessories suppliers provide a wide range of components and parts used in air conditioning systems. These suppli...find out now"
+description: "Air conditioning accessories suppliers provide a wide range of components and parts used in air conditioning systems. These suppli...get more info"
 keywords: air
-publishDate: 45047
+publishDate: 5/1/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/7.webp
- alt: 'a striking heat pump being used'
+ image: /img/heatpump/46.webp
+ alt: 'a striking heat pump they were glad they had'
 
 ---
 

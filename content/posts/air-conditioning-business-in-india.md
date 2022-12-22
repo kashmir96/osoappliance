@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Business In India
-description: "India is a rapidly developing economy and as such, air conditioning is becoming increasingly important to businesses across the co...scroll on and keep learning"
+description: "India is a rapidly developing economy and as such, air conditioning is becoming increasingly important to businesses across the co...learn more"
 keywords: air
-publishDate: 45056
+publishDate: 5/10/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/335.webp
- alt: 'this highly heat pump dazzling all involved'
+ image: /img/heatpump/21.webp
+ alt: 'recommended heat pump goals'
 
 ---
 

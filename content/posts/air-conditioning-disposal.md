@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Disposal
-description: "Air conditioning units are a great way to keep your home or office cool during the hot summer months. Unfortunately, when they rea...get the full scoop"
+description: "Air conditioning units are a great way to keep your home or office cool during the hot summer months. Unfortunately, when they rea...learn more about it now"
 keywords: air disposal
-publishDate: 45081
+publishDate: 6/4/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/264.webp
- alt: 'a rarely used heat pump having its time in the sun'
+ image: /img/heatpump/143.webp
+ alt: 'a challenging heat pump ready for use'
 
 ---
 

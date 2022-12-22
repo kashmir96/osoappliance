@@ -3,13 +3,13 @@
 title: 2023 Appliance Trends
 description: "As the world of technology continues to evolve at a rapid pace, so does the variety of appliances available for use in homes and b...get more info"
 keywords: 2023 appliance trends
-publishDate: 44970
+publishDate: 2/13/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/applianceguide/31.webp
- alt: 'this persons appliance guide that more than served its purpose'
+ image: /img/applianceguide/107.webp
+ alt: 'locally useful appliance guide just going on the market'
 
 ---
 

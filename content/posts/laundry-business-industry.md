@@ -1,15 +1,15 @@
 ---
 
 title: Laundry Business Industry
-description: "The laundry business industry is a booming one, with more and more people turning to professional services for their laundry needs...scroll on and keep learning"
+description: "The laundry business industry is a booming one, with more and more people turning to professional services for their laundry needs...keep reading to learn"
 keywords: laundry
-publishDate: 44915
+publishDate: 12/20/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/377.webp
- alt: 'someones subtle washing machine awating employment'
+ image: /img/washingmachine/34.webp
+ alt: 'a highly polished washing machine dazzling all involved'
 
 ---
 

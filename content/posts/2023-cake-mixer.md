@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Cake Mixer
-description: "2023 is an exciting year for cake mixers! With new technology and advancements in the culinary industry, bakers have access to mor...swipe up to find out"
+description: "2023 is an exciting year for cake mixers! With new technology and advancements in the culinary industry, bakers have access to mor...keep reading to learn"
 keywords: 2023 cake mixer
-publishDate: 44977
+publishDate: 2/20/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/kitchenappliances/127.webp
- alt: 'a handy kitchen appliances just going on the market'
+ image: /img/kitchenappliances/172.webp
+ alt: 'this guys kitchen appliances showing encouraging signs'
 
 ---
 

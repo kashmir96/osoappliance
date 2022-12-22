@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Hazards Workplace
-description: "Air conditioning is a modern convenience that can make life in the workplace much more comfortable, but it can also pose some seri...scroll on and keep learning"
+description: "Air conditioning is a modern convenience that can make life in the workplace much more comfortable, but it can also pose some seri...get more detail"
 keywords: air
-publishDate: 45094
+publishDate: 6/17/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/46.webp
- alt: 'someones heat pump they had every difficulty with prior'
+ image: /img/heatpump/67.webp
+ alt: 'the true heat pump that saved huge amounts of work'
 
 ---
 

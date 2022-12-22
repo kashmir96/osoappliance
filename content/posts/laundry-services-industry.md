@@ -1,15 +1,15 @@
 ---
 
 title: Laundry Services Industry
-description: "The laundry services industry is a booming business, with an ever-growing demand for its services. The industry provides a wide ar...keep reading to learn"
+description: "The laundry services industry is a booming business, with an ever-growing demand for its services. The industry provides a wide ar...see more"
 keywords: laundry
-publishDate: 44910
+publishDate: 12/15/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/305.webp
- alt: 'a fit for purpose washing machine that has shown great potential '
+ image: /img/washingmachine/155.webp
+ alt: 'this guys washing machine just going on the market'
 
 ---
 

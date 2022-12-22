@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Learn How To Use It
-description: "Air conditioning is a modern marvel that keeps us comfortable in hot weather. It works by circulating cooled air into a closed spa...swipe up to find out"
+description: "Air conditioning is a modern marvel that keeps us comfortable in hot weather. It works by circulating cooled air into a closed spa...read now to learn more"
 keywords: air how to use
-publishDate: 45098
+publishDate: 6/21/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/342.webp
- alt: 'this guys heat pump ready for use'
+ image: /img/heatpump/116.webp
+ alt: 'spirited heat pump ready for a new home'
 
 ---
 

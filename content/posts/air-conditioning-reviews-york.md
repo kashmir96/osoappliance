@@ -3,13 +3,13 @@
 title: Air Conditioning Reviews York
 description: "Air conditioning is one of the most important factors when it comes to a comfortable home or office. York air conditioners are kno...you wont regret reading on"
 keywords: air reviews
-publishDate: 45122
+publishDate: 7/15/2023
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/19.webp
- alt: 'effective heat pump just going on the market'
+ image: /img/heatpump/329.webp
+ alt: 'locally useful heat pump which showed great potential'
 
 ---
 

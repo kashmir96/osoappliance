@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Appliance Rebates
-description: "As the world continues to embrace energy efficiency, appliance rebates are becoming increasingly popular. These rebates provide in...check it out to learn"
+description: "As the world continues to embrace energy efficiency, appliance rebates are becoming increasingly popular. These rebates provide in...learn more"
 keywords: 2023 appliance rebates
-publishDate: 44969
+publishDate: 2/12/2023
 tags: ["Appliance Rules and Regulations", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/appliancerulesandregulations/261.webp
- alt: 'not so trivial appliance rules and regulations ready for use'
+ image: /img/appliancerulesandregulations/388.webp
+ alt: 'cost effective appliance rules and regulations they had every difficulty with prior'
 
 ---
 

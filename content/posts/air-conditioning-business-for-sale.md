@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Business For Sale
-description: "Are you considering buying an air conditioning business for sale? If so, you are making a smart investment decision that can reap ...get the full scoop"
+description: "Are you considering buying an air conditioning business for sale? If so, you are making a smart investment decision that can reap ...check it out to learn"
 keywords: air sale
-publishDate: 45055
+publishDate: 5/9/2023
 tags: ["Heat Pump", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/84.webp
- alt: 'the true heat pump showing encouraging signs'
+ image: /img/heatpump/238.webp
+ alt: 'this persons heat pump ready for use'
 
 ---
 

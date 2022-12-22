@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Electrical Connection
-description: "Air conditioning systems rely on electricity to power their components. Electrical connections are essential for keeping air condi...get more info"
+description: "Air conditioning systems rely on electricity to power their components. Electrical connections are essential for keeping air condi...lets find out"
 keywords: air
-publishDate: 45085
+publishDate: 6/8/2023
 tags: ["Heat Pump", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/367.webp
- alt: 'someones subtle heat pump shiny and new'
+ image: /img/heatpump/171.webp
+ alt: 'cost effective heat pump not long acquired'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Options
-description: "If you’re considering the installation of an air conditioning system for your home or business, there are a variety of options to ...lets find out"
+description: "If you’re considering the installation of an air conditioning system for your home or business, there are a variety of options to ...check it out to learn"
 keywords: air
-publishDate: 45101
+publishDate: 6/24/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/41.webp
- alt: 'one personal heat pump that more than served its purpose'
+ image: /img/heatpump/383.webp
+ alt: 'elusive heat pump that has shown great potential '
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Problems And Solutions
-description: "Air conditioning problems can be a huge inconvenience, especially during the summer months. From strange noises to increased energ...you wont regret reading on"
+description: "Air conditioning problems can be a huge inconvenience, especially during the summer months. From strange noises to increased energ...read now to learn more"
 keywords: air
-publishDate: 45112
+publishDate: 7/5/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/181.webp
- alt: 'a highly polished heat pump that more than served its purpose'
+ image: /img/heatpump/146.webp
+ alt: 'spirited heat pump dazzling all involved'
 
 ---
 

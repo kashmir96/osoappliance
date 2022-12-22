@@ -1,15 +1,15 @@
 ---
 
 title: Air Cleaner Accessories Hs Code
-description: "Air cleaner accessories are essential components of air purifiers, which are used to filter air and improve air quality. Air clean...learn about it in this post"
+description: "Air cleaner accessories are essential components of air purifiers, which are used to filter air and improve air quality. Air clean...keep reading to learn"
 keywords: air
-publishDate: 45003
+publishDate: 3/18/2023
 tags: ["Heat Pump", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/218.webp
- alt: 'elusive heat pump ready for a new home'
+ image: /img/heatpump/312.webp
+ alt: 'a well loved heat pump effective at its task'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Dryer
-description: "In the year 2023, dryers have come a long way from their predecessors. No longer do you have to worry about waiting hours for your...learn about it in this post"
+description: "In the year 2023, dryers have come a long way from their predecessors. No longer do you have to worry about waiting hours for your...learn more about it now"
 keywords: 2023 dryer
-publishDate: 44982
+publishDate: 2/25/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/255.webp
- alt: 'a fit for purpose washing machine not long acquired'
+ image: /img/washingmachine/331.webp
+ alt: 'industrious washing machine ready for use'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Wholesale Suppliers Offer
-description: "Air conditioning wholesale suppliers offer a variety of products that can help you keep your home or office cool during the hot su...swipe up to find out"
+description: "Air conditioning wholesale suppliers offer a variety of products that can help you keep your home or office cool during the hot su...continue on"
 keywords: air conditioner
-publishDate: 45039
+publishDate: 4/23/2023
 tags: ["Heat Pump", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/304.webp
- alt: 'their sisters heat pump giving light'
+ image: /img/heatpump/83.webp
+ alt: 'a well loved heat pump that saved huge amounts of work'
 
 ---
 

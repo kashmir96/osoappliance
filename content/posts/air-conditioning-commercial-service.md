@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Commercial Service
-description: "Air conditioning is an essential part of keeping your home or business comfortable during the hot summer months. While it’s easy e...lets find out"
+description: "Air conditioning is an essential part of keeping your home or business comfortable during the hot summer months. While it’s easy e...continue on"
 keywords: air
-publishDate: 45078
+publishDate: 6/1/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/346.webp
- alt: 'not so trivial heat pump that has shown great potential '
+ image: /img/heatpump/277.webp
+ alt: 'spirited heat pump goals'
 
 ---
 

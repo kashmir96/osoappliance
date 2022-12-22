@@ -1,15 +1,15 @@
 ---
 
 title: Appliance Retailer Magazine
-description: "When it comes to shopping for appliances, most of us turn to the internet or head down to our local store. But what if there was a...learn more about it now"
+description: "When it comes to shopping for appliances, most of us turn to the internet or head down to our local store. But what if there was a...scroll on and keep learning"
 keywords: appliance
-publishDate: 44950
+publishDate: 1/24/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/applianceguide/17.webp
- alt: 'quietly satisfying appliance guide ready for use'
+ image: /img/applianceguide/124.webp
+ alt: 'the true appliance guide exploited'
 
 ---
 

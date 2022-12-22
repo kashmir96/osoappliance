@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Commercial
-description: "Air conditioning is a necessity for businesses, especially during the hot summer months. Commercial air conditioning systems are d...learn more about it now"
+description: "Air conditioning is a necessity for businesses, especially during the hot summer months. Commercial air conditioning systems are d...get the full scoop"
 keywords: air
-publishDate: 45072
+publishDate: 5/26/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/167.webp
- alt: 'a definitely exciting heat pump thats found its true home'
+ image: /img/heatpump/92.webp
+ alt: 'someones heat pump showing value for the user'
 
 ---
 

@@ -3,13 +3,13 @@
 title: Commercial Oven Second Hand
 description: "When it comes to buying a commercial oven, second-hand is often the most cost-effective option. Not only can you save money on the...see more"
 keywords: oven
-publishDate: 44941
+publishDate: 1/15/2023
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/oven/42.webp
- alt: 'elusive oven awating employment'
+ image: /img/oven/163.webp
+ alt: 'someones subtle oven that more than served its purpose'
 
 ---
 

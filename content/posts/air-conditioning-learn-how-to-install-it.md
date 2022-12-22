@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Learn How To Install It
-description: "Air conditioning is an incredibly useful tool for keeping your house or office cool in the summer months. It can be a lifesaver du...learn more about it now"
+description: "Air conditioning is an incredibly useful tool for keeping your house or office cool in the summer months. It can be a lifesaver du...get more info"
 keywords: air how to install
-publishDate: 45097
+publishDate: 6/20/2023
 tags: ["Heat Pump", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/195.webp
- alt: 'a striking heat pump ready for use'
+ image: /img/heatpump/208.webp
+ alt: 'not so trivial heat pump exploited'
 
 ---
 

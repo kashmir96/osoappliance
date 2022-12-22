@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Dryer Repair
-description: "When it comes to keeping your commercial dryer running, regular maintenance and repair is a must. Whether you have a gas or electr...learn about it in this post"
+description: "When it comes to keeping your commercial dryer running, regular maintenance and repair is a must. Whether you have a gas or electr...see more detail"
 keywords: dryer repair
-publishDate: 44963
+publishDate: 2/6/2023
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Appliance Repair", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/307.webp
- alt: 'A household washing machine exploited'
+ image: /img/washingmachine/27.webp
+ alt: 'mildly useful washing machine ready for a new home'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Hazards
-description: "Air conditioning has become an integral part of modern life, providing much-needed relief from the heat and humidity of summer. Ho...learn more about it now"
+description: "Air conditioning has become an integral part of modern life, providing much-needed relief from the heat and humidity of summer. Ho...check it out to learn"
 keywords: air
-publishDate: 45093
+publishDate: 6/16/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/173.webp
- alt: 'not so trivial heat pump that saved huge amounts of work'
+ image: /img/heatpump/388.webp
+ alt: 'a striking heat pump showing value for the user'
 
 ---
 

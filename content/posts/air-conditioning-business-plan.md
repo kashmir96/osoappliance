@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Business Plan
-description: "When starting an air conditioning business, it's important to have a solid plan in place. A good business plan will help you ident...lets find out"
+description: "When starting an air conditioning business, it's important to have a solid plan in place. A good business plan will help you ident...get more detail"
 keywords: air
-publishDate: 45059
+publishDate: 5/13/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/236.webp
- alt: 'spirited heat pump acquisition'
+ image: /img/heatpump/8.webp
+ alt: 'a fit for purpose heat pump awating employment'
 
 ---
 

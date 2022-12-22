@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Appliances
-description: "It’s no secret that technology is changing the way we live. From smart homes to connected appliances, the world of home appliances...find out now"
+description: "It’s no secret that technology is changing the way we live. From smart homes to connected appliances, the world of home appliances...keep going and find out"
 keywords: 2023 appliances
-publishDate: 44971
+publishDate: 2/14/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/applianceguide/389.webp
- alt: 'a challenging appliance guide goals'
+ image: /img/applianceguide/243.webp
+ alt: 'a handy appliance guide dazzling all involved'
 
 ---
 

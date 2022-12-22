@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Problems
-description: "Air conditioning is a luxury that many of us take for granted until it stops working. Unfortunately, air conditioning problems are...learn more about it now"
+description: "Air conditioning is a luxury that many of us take for granted until it stops working. Unfortunately, air conditioning problems are...get the full scoop"
 keywords: air
-publishDate: 45111
+publishDate: 7/4/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/25.webp
- alt: 'a striking heat pump shiny and new'
+ image: /img/heatpump/14.webp
+ alt: 'someones subtle heat pump which showed great potential'
 
 ---
 

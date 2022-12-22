@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Dangers
-description: "Air conditioning is a great way to keep cool during hot summer days, but there are dangers associated with using it that should be...scroll on and keep learning"
+description: "Air conditioning is a great way to keep cool during hot summer days, but there are dangers associated with using it that should be...take a moment to check it out "
 keywords: air
-publishDate: 45080
+publishDate: 6/3/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/226.webp
- alt: 'someones heat pump having its time in the sun'
+ image: /img/heatpump/251.webp
+ alt: 'spirited heat pump exploited'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Ovens For Sale
-description: "If you’re in the market for an oven, whether it’s for a restaurant, bakery, or other commercial kitchen, you’ll want to make sure ...scroll on and keep learning"
+description: "If you’re in the market for an oven, whether it’s for a restaurant, bakery, or other commercial kitchen, you’ll want to make sure ...get more detail"
 keywords: sale
-publishDate: 44940
+publishDate: 1/14/2023
 tags: ["Oven", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/oven/207.webp
- alt: 'effective oven employed at the highest level'
+ image: /img/oven/259.webp
+ alt: 'someones prized oven they really enjoyed'
 
 ---
 

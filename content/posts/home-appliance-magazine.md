@@ -1,15 +1,15 @@
 ---
 
 title: Home Appliance Magazine
-description: "Home appliance magazines are a great way to stay informed on the latest products, trends, and technological developments in home a...check it out to learn"
+description: "Home appliance magazines are a great way to stay informed on the latest products, trends, and technological developments in home a...take a moment to check it out "
 keywords: appliance
-publishDate: 44952
+publishDate: 1/26/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/applianceguide/319.webp
- alt: 'a highly polished appliance guide thing'
+ image: /img/applianceguide/28.webp
+ alt: 'elusive appliance guide which showed great potential'
 
 ---
 

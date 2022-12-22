@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Spare Parts Near Me
-description: "Air conditioning is a crucial aspect of modern life. Many people rely on air conditioning to keep their homes and offices comforta...check it out to learn"
+description: "Air conditioning is a crucial aspect of modern life. Many people rely on air conditioning to keep their homes and offices comforta...get more info"
 keywords: air parts near
-publishDate: 45127
+publishDate: 7/20/2023
 tags: ["Heat Pump", "Buy Appliance", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/333.webp
- alt: 'a well loved heat pump just going on the market'
+ image: /img/heatpump/336.webp
+ alt: 'industrious heat pump showing encouraging signs'
 
 ---
 

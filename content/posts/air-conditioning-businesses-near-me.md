@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Businesses Near Me
-description: "If you're looking for air conditioning businesses near you, there are a few options to consider. Depending on the type of service ...get more info"
+description: "If you're looking for air conditioning businesses near you, there are a few options to consider. Depending on the type of service ...get more detail"
 keywords: air near
-publishDate: 45060
+publishDate: 5/14/2023
 tags: ["Heat Pump", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/388.webp
- alt: 'one personal heat pump showing value for the user'
+ image: /img/heatpump/90.webp
+ alt: 'the true heat pump that took less attention than they thought'
 
 ---
 

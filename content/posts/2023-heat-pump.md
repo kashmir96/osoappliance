@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Heat Pump
-description: "As the world moves towards more energy efficient solutions, heat pumps have become increasingly popular. Heat pumps are a form of ...lets find out"
+description: "As the world moves towards more energy efficient solutions, heat pumps have become increasingly popular. Heat pumps are a form of ...see more detail"
 keywords: 2023 heat pump
-publishDate: 44983
+publishDate: 2/26/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/19.webp
- alt: 'a well loved heat pump well loved'
+ image: /img/heatpump/311.webp
+ alt: 'the true heat pump exploited'
 
 ---
 

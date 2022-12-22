@@ -3,13 +3,13 @@
 title: Air Conditioning Accessories
 description: "Air conditioning accessories are important components that help to enhance the performance of your air conditioning system and mak...you wont regret reading on"
 keywords: air
-publishDate: 45044
+publishDate: 4/28/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/143.webp
- alt: 'a highly polished heat pump thing'
+ image: /img/heatpump/239.webp
+ alt: 'a striking heat pump that has shown great potential '
 
 ---
 

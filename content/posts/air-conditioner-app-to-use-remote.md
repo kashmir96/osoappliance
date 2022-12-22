@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner App To Use Remote
-description: "Are you looking to control your air conditioner remotely? With the latest advances in smart technology, it is now possible to use ...take a moment to check it out "
+description: "Are you looking to control your air conditioner remotely? With the latest advances in smart technology, it is now possible to use ...check it out to learn"
 keywords: air conditioner use
-publishDate: 45015
+publishDate: 3/30/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/29.webp
- alt: 'their sisters heat pump they were glad they had'
+ image: /img/heatpump/107.webp
+ alt: 'effective heat pump novel for all involved'
 
 ---
 

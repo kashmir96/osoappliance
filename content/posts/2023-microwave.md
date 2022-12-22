@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Microwave
-description: "The microwaves of 2023 have come a long way from the microwaves of yesteryear. These new microwaves are packed with innovative fea...get more info"
+description: "The microwaves of 2023 have come a long way from the microwaves of yesteryear. These new microwaves are packed with innovative fea...scroll on and keep learning"
 keywords: 2023 microwave
-publishDate: 44992
+publishDate: 3/7/2023
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/microwave/216.webp
- alt: 'a tidy microwave ready for a new home'
+ image: /img/microwave/371.webp
+ alt: 'a challenging microwave which showed great potential'
 
 ---
 

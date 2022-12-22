@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Options For Old Homes
-description: "As the summer months approach, many people are looking for ways to cool their homes. If you live in an older home, your options fo...see more"
+description: "As the summer months approach, many people are looking for ways to cool their homes. If you live in an older home, your options fo...get the full scoop"
 keywords: air old
-publishDate: 45107
+publishDate: 6/30/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/23.webp
- alt: 'quietly satisfying heat pump beaming'
+ image: /img/heatpump/210.webp
+ alt: 'this persons heat pump thing'
 
 ---
 

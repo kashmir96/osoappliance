@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Options For One Room
-description: "If you are looking to cool down just one room in your home, you have several air conditioning options to choose from. The best opt...learn about it in this post"
+description: "If you are looking to cool down just one room in your home, you have several air conditioning options to choose from. The best opt...get more detail"
 keywords: air
-publishDate: 45108
+publishDate: 7/1/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/237.webp
- alt: 'a rarely used heat pump novel for all involved'
+ image: /img/heatpump/206.webp
+ alt: 'cost effective heat pump beaming'
 
 ---
 

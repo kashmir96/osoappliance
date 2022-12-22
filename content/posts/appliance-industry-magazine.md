@@ -1,15 +1,15 @@
 ---
 
 title: Appliance Industry Magazine
-description: "Appliance industry magazines are publications dedicated to providing readers with the latest news and trends in appliances. These ...find out now"
+description: "Appliance industry magazines are publications dedicated to providing readers with the latest news and trends in appliances. These ...get more info"
 keywords: appliance
-publishDate: 44937
+publishDate: 1/11/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/applianceguide/168.webp
- alt: 'a highly polished appliance guide showing encouraging signs'
+ image: /img/applianceguide/116.webp
+ alt: 'a challenging appliance guide dazzling all involved'
 
 ---
 

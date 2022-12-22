@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Spare Parts
-description: "Air conditioning is an essential part of modern life, and when it breaks down, you’re likely to feel the effects quickly. Having a...see more detail"
+description: "Air conditioning is an essential part of modern life, and when it breaks down, you’re likely to feel the effects quickly. Having a...lets find out"
 keywords: air parts
-publishDate: 45125
+publishDate: 7/18/2023
 tags: ["Heat Pump", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/366.webp
- alt: 'the true heat pump effective at its task'
+ image: /img/heatpump/106.webp
+ alt: 'someones helpful heat pump thats found its true home'
 
 ---
 

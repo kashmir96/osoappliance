@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Large Spaces
-description: "Air conditioning large spaces is an important part of maintaining a comfortable environment in public places, such as offices, gym...get the full scoop"
+description: "Air conditioning large spaces is an important part of maintaining a comfortable environment in public places, such as offices, gym...get more detail"
 keywords: air
-publishDate: 45095
+publishDate: 6/18/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/212.webp
- alt: 'a handy heat pump they were glad they had'
+ image: /img/heatpump/65.webp
+ alt: 'a rarely used heat pump ready for use'
 
 ---
 

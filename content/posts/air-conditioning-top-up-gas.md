@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Top Up Gas
-description: "When it comes to air conditioning top up gas, this is an essential part of maintaining a functional air conditioning system and en...get more info"
+description: "When it comes to air conditioning top up gas, this is an essential part of maintaining a functional air conditioning system and en...get the full scoop"
 keywords: air top gas
-publishDate: 45133
+publishDate: 7/26/2023
 tags: ["Heat Pump", "Stove", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/165.webp
- alt: 'a tidy heat pump just going on the market'
+ image: /img/heatpump/140.webp
+ alt: 'mildly useful heat pump that has shown great potential '
 
 ---
 

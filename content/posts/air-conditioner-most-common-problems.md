@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Most Common Problems
-description: "When it comes to air conditioners, there are a number of common problems that can arise. While some of these issues may be easy to...check it out to learn"
+description: "When it comes to air conditioners, there are a number of common problems that can arise. While some of these issues may be easy to...get more detail"
 keywords: air conditioner most
-publishDate: 45034
+publishDate: 4/18/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/370.webp
- alt: 'a rarely used heat pump a recent addition '
+ image: /img/heatpump/298.webp
+ alt: 'a handy heat pump well loved'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Cleaner
-description: "Air conditioning cleaners are essential for keeping your air conditioner in good working order. They help to remove dirt, dust, an...see more detail"
+description: "Air conditioning cleaners are essential for keeping your air conditioner in good working order. They help to remove dirt, dust, an...scroll on and keep learning"
 keywords: air
-publishDate: 45061
+publishDate: 5/15/2023
 tags: ["Heat Pump", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/77.webp
- alt: 'effective heat pump purchase'
+ image: /img/heatpump/307.webp
+ alt: 'industrious heat pump thing'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Crock Pot
-description: "In the year 2023, Crock-Pots have become even more popular than ever before! People are using them to make all kinds of delicious ...keep going and find out"
+description: "In the year 2023, Crock-Pots have become even more popular than ever before! People are using them to make all kinds of delicious ...learn more about it now"
 keywords: 2023 crock pot
-publishDate: 44979
+publishDate: 2/22/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/kitchenappliances/278.webp
- alt: 'recommended kitchen appliances exploited'
+ image: /img/kitchenappliances/130.webp
+ alt: 'a handy kitchen appliances dazzling all involved'
 
 ---
 

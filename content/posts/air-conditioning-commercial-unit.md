@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Commercial Unit
-description: "Commercial air conditioning units provide an efficient and reliable way to cool buildings and other large spaces. They are typical...lets find out"
+description: "Commercial air conditioning units provide an efficient and reliable way to cool buildings and other large spaces. They are typical...learn about it in this post"
 keywords: air
-publishDate: 45079
+publishDate: 6/2/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/71.webp
- alt: 'their sisters heat pump showing value for the user'
+ image: /img/heatpump/218.webp
+ alt: 'recommended heat pump thing'
 
 ---
 

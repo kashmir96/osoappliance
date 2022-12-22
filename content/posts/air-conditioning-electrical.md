@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Electrical
-description: "A functioning air conditioning system requires an adequate electrical supply to be able to run. Without the right type of power, t...lets find out"
+description: "A functioning air conditioning system requires an adequate electrical supply to be able to run. Without the right type of power, t...check it out to learn"
 keywords: air
-publishDate: 45083
+publishDate: 6/6/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/203.webp
- alt: 'someones subtle heat pump exploited'
+ image: /img/heatpump/65.webp
+ alt: 'elusive heat pump having its time in the sun'
 
 ---
 

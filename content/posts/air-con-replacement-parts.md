@@ -1,15 +1,15 @@
 ---
 
 title: Air Con Replacement Parts
-description: "Replacing air conditioning parts can be a daunting task, but with the right knowledge and tools it can easily be done. Air conditi...find out now"
+description: "Replacing air conditioning parts can be a daunting task, but with the right knowledge and tools it can easily be done. Air conditi...learn more about it now"
 keywords: air con replacement parts
-publishDate: 45007
+publishDate: 3/22/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/199.webp
- alt: 'this highly heat pump acquisition'
+ image: /img/heatpump/15.webp
+ alt: 'this guys heat pump just going on the market'
 
 ---
 
@@ -26,15 +26,15 @@ When shopping for replacement parts for your AC unit, make sure that you take in
 ---
 
 title: Air Con Reviews
-description: ""When summer approaches, it’s time to start thinking about air conditioners. In this article, we’ll be discussing air con reviews a...learn about it in this post""
+description: ""When summer approaches, it’s time to start thinking about air conditioners. In this article, we’ll be discussing air con reviews a...learn more""
 keywords: air con reviews
-publishDate: 45008
+publishDate: 3/23/2023
 tags: [""Heat Pump"", ""Appliance Reviews""]
 author: Curtis
 categories: [""Household Appliances""]
 cover: 
- image: /img/heatpump/54.webp
- alt: 'a tidy heat pump novel for all involved'
+ image: /img/heatpump/116.webp
+ alt: 'quietly satisfying heat pump giving light'
 
 ---
 

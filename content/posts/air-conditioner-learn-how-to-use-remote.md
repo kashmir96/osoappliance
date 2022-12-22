@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Learn How To Use Remote
-description: "As the weather heats up and summer approaches, it’s time to think about how you will cool your home. Many people rely on air condi...take a moment to check it out "
+description: "As the weather heats up and summer approaches, it’s time to think about how you will cool your home. Many people rely on air condi...scroll on and keep learning"
 keywords: air conditioner how to use
-publishDate: 45033
+publishDate: 4/17/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/357.webp
- alt: 'a definitely exciting heat pump ready for use'
+ image: /img/heatpump/285.webp
+ alt: 'this guys heat pump not long acquired'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Fridge Second Hand
-description: "When it comes to buying a commercial fridge, you may be considering whether or not it is a wise investment to go for a second-hand...find out now"
+description: "When it comes to buying a commercial fridge, you may be considering whether or not it is a wise investment to go for a second-hand...get more info"
 keywords: fridge
-publishDate: 44923
+publishDate: 12/28/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/kitchenappliances/6.webp
- alt: 'this guys kitchen appliances acquisition'
+ image: /img/kitchenappliances/24.webp
+ alt: 'A household kitchen appliances ready for a new home'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Recommendations
-description: "As the summer months approach, it is important to ensure that your air conditioning system is functioning properly. To help keep y...lets find out"
+description: "As the summer months approach, it is important to ensure that your air conditioning system is functioning properly. To help keep y...get more info"
 keywords: air
-publishDate: 45116
+publishDate: 7/9/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/102.webp
- alt: 'a barely heat pump ready for use'
+ image: /img/heatpump/203.webp
+ alt: 'recommended heat pump shiny and new'
 
 ---
 

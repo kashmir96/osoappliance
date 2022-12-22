@@ -1,15 +1,15 @@
 ---
 
 title: Appliance Industry Philippines 2019
-description: "The appliance industry in the Philippines is seeing a steady growth in 2019. There are many reasons for this, such as an increasin...swipe up to find out"
+description: "The appliance industry in the Philippines is seeing a steady growth in 2019. There are many reasons for this, such as an increasin...read now to learn more"
 keywords: appliance
-publishDate: 44935
+publishDate: 1/9/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/applianceguide/74.webp
- alt: 'the top local appliance guide giving light'
+ image: /img/applianceguide/367.webp
+ alt: 'someones subtle appliance guide thing'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner App To User Manual
-description: "Welcome to the user manual for your air conditioner app! This app is designed to help you control the temperature in your home or ...lets find out"
+description: "Welcome to the user manual for your air conditioner app! This app is designed to help you control the temperature in your home or ...keep going and find out"
 keywords: air conditioner
-publishDate: 45020
+publishDate: 4/4/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/225.webp
- alt: 'a definitely exciting heat pump well loved'
+ image: /img/heatpump/371.webp
+ alt: 'a definitely exciting heat pump shiny and new'
 
 ---
 

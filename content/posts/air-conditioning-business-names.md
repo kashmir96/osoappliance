@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Business Names
-description: "When it comes to starting an air conditioning business, one of the first steps is to choose a name. Your business name is often th...get more info"
+description: "When it comes to starting an air conditioning business, one of the first steps is to choose a name. Your business name is often th...read now to learn more"
 keywords: air
-publishDate: 45058
+publishDate: 5/12/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/279.webp
- alt: 'A household heat pump that more than served its purpose'
+ image: /img/heatpump/364.webp
+ alt: 'a handy heat pump they really enjoyed'
 
 ---
 

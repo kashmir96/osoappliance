@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Air Fryers
-description: "2023 air fryers are the latest in kitchen technology, offering a healthier alternative to traditional deep-frying methods. Air fry...get more detail"
+description: "2023 air fryers are the latest in kitchen technology, offering a healthier alternative to traditional deep-frying methods. Air fry...scroll on and keep learning"
 keywords: 2023 air
-publishDate: 44967
+publishDate: 2/10/2023
 tags: ["Heat Pump", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/113.webp
- alt: 'industrious heat pump employed at the highest level'
+ image: /img/heatpump/74.webp
+ alt: 'a handy heat pump purchase'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Laundry And Home Care Industry
-description: "These days, the laundry and home care industry has become increasingly important. With more people living in smaller spaces, it’s ...continue on"
+description: "These days, the laundry and home care industry has become increasingly important. With more people living in smaller spaces, it’s ...get more info"
 keywords: laundry
-publishDate: 44917
+publishDate: 12/22/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/258.webp
- alt: 'a fit for purpose washing machine being used'
+ image: /img/washingmachine/76.webp
+ alt: 'quietly satisfying washing machine beaming'
 
 ---
 

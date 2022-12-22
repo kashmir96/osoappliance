@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Most Efficient Temperature
-description: "Air conditioning is an important part of keeping your home comfortable throughout the year. It can also help save on energy costs ...learn more about it now"
+description: "Air conditioning is an important part of keeping your home comfortable throughout the year. It can also help save on energy costs ...get more info"
 keywords: air most efficient
-publishDate: 45099
+publishDate: 6/22/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/110.webp
- alt: 'not so trivial heat pump not long acquired'
+ image: /img/heatpump/62.webp
+ alt: 'a handy heat pump that more than served its purpose'
 
 ---
 

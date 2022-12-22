@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Commercial Cost
-description: "If you're in the market for an air conditioning system for your commercial space, you may be wondering what kind of costs you can ...scroll on and keep learning"
+description: "If you're in the market for an air conditioning system for your commercial space, you may be wondering what kind of costs you can ...read now to learn more"
 keywords: air
-publishDate: 45074
+publishDate: 5/28/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/145.webp
- alt: 'a barely heat pump they were glad they had'
+ image: /img/heatpump/287.webp
+ alt: 'not so trivial heat pump purchase'
 
 ---
 

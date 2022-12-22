@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Washing Machine
-description: "In the year 2023, washing machines are set to revolutionize the way we do laundry. As technology continues to advance, manufacture...read now to learn more"
+description: "In the year 2023, washing machines are set to revolutionize the way we do laundry. As technology continues to advance, manufacture...learn about it in this post"
 keywords: 2023 washing machine
-publishDate: 45001
+publishDate: 3/16/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/331.webp
- alt: 'their sisters washing machine having its time in the sun'
+ image: /img/washingmachine/51.webp
+ alt: 'a well loved washing machine that took less attention than they thought'
 
 ---
 

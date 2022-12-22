@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Learn How To Use In Car
-description: "It's summertime and the heat is on! You're probably in need of some relief from the sweltering temperatures, and one of the best w...see more detail"
+description: "It's summertime and the heat is on! You're probably in need of some relief from the sweltering temperatures, and one of the best w...get more detail"
 keywords: air conditioner how to use
-publishDate: 45032
+publishDate: 4/16/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/165.webp
- alt: 'locally useful heat pump that saved huge amounts of work'
+ image: /img/heatpump/166.webp
+ alt: 'effective heat pump they were glad they had'
 
 ---
 

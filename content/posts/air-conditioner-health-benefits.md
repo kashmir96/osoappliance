@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Health Benefits
-description: "When the summer months arrive and the mercury on thermometers rises, many of us take refuge in air-conditioned rooms to escape the...lets find out"
+description: "When the summer months arrive and the mercury on thermometers rises, many of us take refuge in air-conditioned rooms to escape the...get the full scoop"
 keywords: air conditioner
-publishDate: 45028
+publishDate: 4/12/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/34.webp
- alt: 'recommended heat pump being used'
+ image: /img/heatpump/365.webp
+ alt: 'recommended heat pump giving light'
 
 ---
 

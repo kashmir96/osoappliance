@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Top Up Cost
-description: "When it comes to keeping your home or business comfortable, air conditioning is an essential piece of equipment. Unfortunately, ov...swipe up to find out"
+description: "When it comes to keeping your home or business comfortable, air conditioning is an essential piece of equipment. Unfortunately, ov...keep reading to learn"
 keywords: air top
-publishDate: 45132
+publishDate: 7/25/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/216.webp
- alt: 'this highly heat pump well loved'
+ image: /img/heatpump/212.webp
+ alt: 'someones subtle heat pump beaming'
 
 ---
 

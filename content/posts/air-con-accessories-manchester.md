@@ -1,15 +1,15 @@
 ---
 
 title: Air Con Accessories Manchester
-description: "As the weather heats up and summer gets closer, it’s time to start thinking about cooling down your home or office with air condit...learn about it in this post"
+description: "As the weather heats up and summer gets closer, it’s time to start thinking about cooling down your home or office with air condit...lets find out"
 keywords: air con
-publishDate: 45005
+publishDate: 3/20/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/265.webp
- alt: 'a handy heat pump thing'
+ image: /img/heatpump/363.webp
+ alt: 'a rarely used heat pump ready for a new home'
 
 ---
 

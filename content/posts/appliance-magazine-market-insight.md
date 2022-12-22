@@ -1,15 +1,15 @@
 ---
 
 title: Appliance Magazine Market Insight
-description: "When it comes to selecting an oven for your commercial kitchen, the price of the oven is a major factor to consider. Commercial ov...read now to learn more"
+description: "When it comes to selecting an oven for your commercial kitchen, the price of the oven is a major factor to consider. Commercial ov...learn about it in this post"
 keywords: appliance
-publishDate: 44949
+publishDate: 1/23/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/applianceguide/173.webp
- alt: 'a striking appliance guide dazzling all involved'
+ image: /img/applianceguide/96.webp
+ alt: 'someones prized appliance guide purchase'
 
 ---
 

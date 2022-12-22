@@ -1,15 +1,15 @@
 ---
 
 title: Air Cond Scrap Value
-description: "Air Conditioners are one of the most important appliances in any home or business. As such, they can be a valuable asset to any ho...find out now"
+description: "Air Conditioners are one of the most important appliances in any home or business. As such, they can be a valuable asset to any ho...keep going and find out"
 keywords: air cond scrap value
-publishDate: 45012
+publishDate: 3/27/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/118.webp
- alt: 'someones helpful heat pump being used'
+ image: /img/heatpump/377.webp
+ alt: 'this highly heat pump being used'
 
 ---
 
@@ -26,15 +26,15 @@ No matter which option you choose – selling an old air conditioner for scrap v
 ---
 
 title: Air Conditioner App To Use
-description: ""In this day and age, air conditioners are becoming increasingly popular in homes and businesses. With the rise of global temperatu...get more info""
+description: ""In this day and age, air conditioners are becoming increasingly popular in homes and businesses. With the rise of global temperatu...you wont regret reading on""
 keywords: air conditioner use
-publishDate: 45013
+publishDate: 3/28/2023
 tags: [""Heat Pump"", ""Appliance Consumption""]
 author: Curtis
 categories: [""Household Appliances""]
 cover: 
- image: /img/heatpump/183.webp
- alt: 'A household heat pump that saved huge amounts of work'
+ image: /img/heatpump/205.webp
+ alt: 'elusive heat pump novel for all involved'
 
 ---
 

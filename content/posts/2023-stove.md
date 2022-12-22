@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Stove
-description: "2023 is an exciting time for stove technology. As technology advances and energy efficiency becomes more important, the latest sto...learn about it in this post"
+description: "2023 is an exciting time for stove technology. As technology advances and energy efficiency becomes more important, the latest sto...swipe up to find out"
 keywords: 2023 stove
-publishDate: 44998
+publishDate: 3/13/2023
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/stove/66.webp
- alt: 'spirited stove showing encouraging signs'
+ image: /img/stove/63.webp
+ alt: 'their sisters stove that took less attention than they thought'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Problems In
-description: "It's no surprise that air conditioning problems are a common issue for car owners. Whether it's not blowing cold enough, not worki...learn about it in this post"
+description: "It's no surprise that air conditioning problems are a common issue for car owners. Whether it's not blowing cold enough, not worki...take a moment to check it out "
 keywords: air
-publishDate: 45113
+publishDate: 7/6/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/48.webp
- alt: 'the top local heat pump used completely'
+ image: /img/heatpump/146.webp
+ alt: 'a barely heat pump dazzling all involved'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Scrap Value
-description: "In today's world, air conditioners are a popular home appliance. But what happens when it’s time to replace your old air condition...keep going and find out"
+description: "In today's world, air conditioners are a popular home appliance. But what happens when it’s time to replace your old air condition...see more"
 keywords: air conditioner scrap value
-publishDate: 45037
+publishDate: 4/21/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/277.webp
- alt: 'a fit for purpose heat pump employed at the highest level'
+ image: /img/heatpump/213.webp
+ alt: 'this persons heat pump effective at its task'
 
 ---
 

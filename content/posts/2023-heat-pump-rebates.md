@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Heat Pump Rebates
-description: "As more and more homeowners are looking for ways to lower their energy bills, heat pump rebates have become a popular option. But ...continue on"
+description: "As more and more homeowners are looking for ways to lower their energy bills, heat pump rebates have become a popular option. But ...check it out to learn"
 keywords: 2023 heat pump rebates
-publishDate: 44986
+publishDate: 3/1/2023
 tags: ["Heat Pump", "Appliance Rules and Regulations", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/336.webp
- alt: 'elusive heat pump dazzling all involved'
+ image: /img/heatpump/373.webp
+ alt: 'cost effective heat pump employed at the highest level'
 
 ---
 

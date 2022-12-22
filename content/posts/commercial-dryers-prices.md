@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Dryers Prices
-description: "When it comes to purchasing a commercial dryer, the cost can be a major factor in deciding which one is right for you. Commercial ...see more detail"
+description: "When it comes to purchasing a commercial dryer, the cost can be a major factor in deciding which one is right for you. Commercial ...learn more about it now"
 keywords: dryers
-publishDate: 44961
+publishDate: 2/4/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/242.webp
- alt: 'a tidy washing machine thats found its true home'
+ image: /img/washingmachine/160.webp
+ alt: 'not so trivial washing machine ready for use'
 
 ---
 

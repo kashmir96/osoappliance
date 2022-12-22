@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Oven
-description: "A commercial oven is a large appliance used to prepare food in commercial kitchens. These ovens are typically larger and more powe...take a moment to check it out "
+description: "A commercial oven is a large appliance used to prepare food in commercial kitchens. These ovens are typically larger and more powe...read now to learn more"
 keywords: oven
-publishDate: 44938
+publishDate: 1/12/2023
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/oven/209.webp
- alt: 'effective oven acquisition'
+ image: /img/oven/172.webp
+ alt: 'someones helpful oven giving light'
 
 ---
 

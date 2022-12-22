@@ -1,15 +1,15 @@
 ---
 
 title: Air Cond Accessories
-description: "Air conditioners are a great way to keep your home comfortable in the hot summer months. But did you know there are several air co...see more"
+description: "Air conditioners are a great way to keep your home comfortable in the hot summer months. But did you know there are several air co...lets find out"
 keywords: air cond
-publishDate: 45010
+publishDate: 3/25/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/63.webp
- alt: 'one personal heat pump which showed great potential'
+ image: /img/heatpump/323.webp
+ alt: 'a striking heat pump showing encouraging signs'
 
 ---
 

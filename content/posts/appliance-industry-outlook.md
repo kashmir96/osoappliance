@@ -1,15 +1,15 @@
 ---
 
 title: Appliance Industry Outlook
-description: "The appliance industry outlook is optimistic, as the sector continues to show strong growth thanks to a variety of factors. Innova...lets find out"
+description: "The appliance industry outlook is optimistic, as the sector continues to show strong growth thanks to a variety of factors. Innova...get more info"
 keywords: appliance
-publishDate: 44932
+publishDate: 1/6/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/applianceguide/2.webp
- alt: 'a definitely exciting appliance guide employed at the highest level'
+ image: /img/applianceguide/227.webp
+ alt: 'a handy appliance guide employed at the highest level'
 
 ---
 

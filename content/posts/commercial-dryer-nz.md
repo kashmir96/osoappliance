@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Dryer Nz
-description: "If you’re in the market for a commercial dryer, you’ve come to the right place. Commercial dryers are perfect for busy businesses ...get more detail"
+description: "If you’re in the market for a commercial dryer, you’ve come to the right place. Commercial dryers are perfect for busy businesses ...learn about it in this post"
 keywords: dryer nz
-publishDate: 44959
+publishDate: 2/2/2023
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/370.webp
- alt: 'a households washing machine ready for use'
+ image: /img/washingmachine/4.webp
+ alt: 'this persons washing machine showing encouraging signs'
 
 ---
 

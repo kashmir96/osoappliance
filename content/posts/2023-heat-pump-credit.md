@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Heat Pump Credit
-description: "The 2023 Heat Pump Tax Credit is a federal tax credit aimed at encouraging homeowners to invest in energy-efficient heat pumps. Th...get more info"
+description: "The 2023 Heat Pump Tax Credit is a federal tax credit aimed at encouraging homeowners to invest in energy-efficient heat pumps. Th...keep going and find out"
 keywords: 2023 heat pump
-publishDate: 44985
+publishDate: 2/28/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/199.webp
- alt: 'a highly polished heat pump thats found its true home'
+ image: /img/heatpump/172.webp
+ alt: 'a well loved heat pump which showed great potential'
 
 ---
 

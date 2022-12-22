@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Options For Homes Without Ductwork
-description: "If you live in an older home that doesn’t have ductwork, you may be wondering what your air conditioning options are. The good new...continue on"
+description: "If you live in an older home that doesn’t have ductwork, you may be wondering what your air conditioning options are. The good new...get more info"
 keywords: air
-publishDate: 45106
+publishDate: 6/29/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/72.webp
- alt: 'this persons heat pump novel for all involved'
+ image: /img/heatpump/176.webp
+ alt: 'a barely heat pump goals'
 
 ---
 

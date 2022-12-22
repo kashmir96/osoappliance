@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Dehumidifier
-description: "In 2023, dehumidifiers have become a household essential. With rising temperatures and more humid climates, dehumidifiers are a gr...learn more"
+description: "In 2023, dehumidifiers have become a household essential. With rising temperatures and more humid climates, dehumidifiers are a gr...see more"
 keywords: 2023 dehumidifier
-publishDate: 44980
+publishDate: 2/23/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/341.webp
- alt: 'someones prized heat pump which showed great potential'
+ image: /img/heatpump/40.webp
+ alt: 'the top local heat pump purchase'
 
 ---
 

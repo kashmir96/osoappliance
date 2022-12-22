@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Residential Best Practice Guideline
-description: "Summertime is here and the heat is on. As temperatures begin to soar, it’s time to think about air conditioning in your home. Air ...get more detail"
+description: "Summertime is here and the heat is on. As temperatures begin to soar, it’s time to think about air conditioning in your home. Air ...learn more about it now"
 keywords: air best
-publishDate: 45119
+publishDate: 7/12/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/173.webp
- alt: 'locally useful heat pump which showed great potential'
+ image: /img/heatpump/333.webp
+ alt: 'a challenging heat pump exploited'
 
 ---
 

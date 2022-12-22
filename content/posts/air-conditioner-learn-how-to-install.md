@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Learn How To Install
-description: "Are you looking to install an air conditioner in your home? Whether you are replacing an old system or installing a new one, there...swipe up to find out"
+description: "Are you looking to install an air conditioner in your home? Whether you are replacing an old system or installing a new one, there...scroll on and keep learning"
 keywords: air conditioner how to install
-publishDate: 45029
+publishDate: 4/13/2023
 tags: ["Heat Pump", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/83.webp
- alt: 'quietly satisfying heat pump dazzling all involved'
+ image: /img/heatpump/370.webp
+ alt: 'not so trivial heat pump goals'
 
 ---
 

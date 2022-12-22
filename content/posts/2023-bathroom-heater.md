@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Bathroom Heater
-description: "The bathroom is one of the most important areas in a home, as it provides comfort and convenience. But in cold winter months, it c...swipe up to find out"
+description: "The bathroom is one of the most important areas in a home, as it provides comfort and convenience. But in cold winter months, it c...learn more"
 keywords: 2023 bathroom heater
-publishDate: 44972
+publishDate: 2/15/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/336.webp
- alt: 'this guys heat pump effective at its task'
+ image: /img/heatpump/342.webp
+ alt: 'a tidy heat pump they were glad they had'
 
 ---
 

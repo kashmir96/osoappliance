@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Oven Nz
-description: "A commercial oven is an essential piece of equipment for any food-serving business. Whether you’re a bakery, cafeteria, restaurant...you wont regret reading on"
+description: "A commercial oven is an essential piece of equipment for any food-serving business. Whether you’re a bakery, cafeteria, restaurant...check it out to learn"
 keywords: oven nz
-publishDate: 44939
+publishDate: 1/13/2023
 tags: ["Oven", "New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/oven/138.webp
- alt: 'locally useful oven not long acquired'
+ image: /img/oven/175.webp
+ alt: 'someones prized oven that has shown great potential '
 
 ---
 

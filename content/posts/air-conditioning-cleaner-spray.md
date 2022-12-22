@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Cleaner Spray
-description: "Air conditioning cleaner spray is a great way to keep your air conditioner running at peak efficiency. It helps keep the system fr...keep going and find out"
+description: "Air conditioning cleaner spray is a great way to keep your air conditioner running at peak efficiency. It helps keep the system fr...learn more about it now"
 keywords: air
-publishDate: 45065
+publishDate: 5/19/2023
 tags: ["Heat Pump", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/214.webp
- alt: 'recommended heat pump goals'
+ image: /img/heatpump/74.webp
+ alt: 'this persons heat pump effective at its task'
 
 ---
 

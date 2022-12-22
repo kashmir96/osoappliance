@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Commercial Kitchen
-description: "Air conditioning is a must-have in any commercial kitchen. Without it, food preparation could become difficult and dangerous. Not ...see more"
+description: "Air conditioning is a must-have in any commercial kitchen. Without it, food preparation could become difficult and dangerous. Not ...keep reading to learn"
 keywords: air kitchen
-publishDate: 45076
+publishDate: 5/30/2023
 tags: ["Heat Pump", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/213.webp
- alt: 'a households heat pump which showed great potential'
+ image: /img/heatpump/4.webp
+ alt: 'a barely heat pump shiny and new'
 
 ---
 

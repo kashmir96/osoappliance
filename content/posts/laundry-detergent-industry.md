@@ -1,15 +1,15 @@
 ---
 
 title: Laundry Detergent Industry
-description: "Laundry detergent is a necessary part of everyday life. It helps us keep our clothes clean, fresh and smelling good. As such, the ...see more"
+description: "Laundry detergent is a necessary part of everyday life. It helps us keep our clothes clean, fresh and smelling good. As such, the ...learn about it in this post"
 keywords: laundry
-publishDate: 44912
+publishDate: 12/17/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/110.webp
- alt: 'a tidy washing machine that has shown great potential '
+ image: /img/washingmachine/285.webp
+ alt: 'a striking washing machine thats found its true home'
 
 ---
 

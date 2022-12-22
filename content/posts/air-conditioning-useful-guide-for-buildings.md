@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Useful Guide For Buildings
-description: "Air conditioning is an incredibly useful and necessary component of modern buildings. Not only does it provide a comfortable indoo...check it out to learn"
+description: "Air conditioning is an incredibly useful and necessary component of modern buildings. Not only does it provide a comfortable indoo...get more info"
 keywords: air guide
-publishDate: 45136
+publishDate: 7/29/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/36.webp
- alt: 'someones helpful heat pump having its time in the sun'
+ image: /img/heatpump/248.webp
+ alt: 'mildly useful heat pump that more than served its purpose'
 
 ---
 

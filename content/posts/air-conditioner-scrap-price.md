@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Scrap Price
-description: "Air conditioners are essential for staying comfortable in the summer months, but when it comes time to replace them, you may be wo...swipe up to find out"
+description: "Air conditioners are essential for staying comfortable in the summer months, but when it comes time to replace them, you may be wo...scroll on and keep learning"
 keywords: air conditioner scrap
-publishDate: 45036
+publishDate: 4/20/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/251.webp
- alt: 'quietly satisfying heat pump exploited'
+ image: /img/heatpump/174.webp
+ alt: 'this guys heat pump thats found its true home'
 
 ---
 

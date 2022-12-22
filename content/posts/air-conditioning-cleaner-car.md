@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Cleaner Car
-description: "When it comes to car maintenance, many people overlook the importance of air conditioning cleaning. A clean and well-functioning a...keep going and find out"
+description: "When it comes to car maintenance, many people overlook the importance of air conditioning cleaning. A clean and well-functioning a...keep reading to learn"
 keywords: air
-publishDate: 45063
+publishDate: 5/17/2023
 tags: ["Heat Pump", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/104.webp
- alt: 'a households heat pump beaming'
+ image: /img/heatpump/177.webp
+ alt: 'a highly polished heat pump giving light'
 
 ---
 

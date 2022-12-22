@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Dryer
-description: "When it comes to keeping your home safe and healthy, one important part of regular maintenance is dryer vent cleaning. Commercial ...you wont regret reading on"
+description: "When it comes to keeping your home safe and healthy, one important part of regular maintenance is dryer vent cleaning. Commercial ...swipe up to find out"
 keywords: dryer
-publishDate: 44958
+publishDate: 2/1/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/279.webp
- alt: 'the true washing machine used completely'
+ image: /img/washingmachine/295.webp
+ alt: 'a rarely used washing machine thing'
 
 ---
 

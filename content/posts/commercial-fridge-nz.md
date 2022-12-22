@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Fridge Nz
-description: "When it comes to keeping food fresh and safe, having the right commercial fridge is essential. Commercial fridges are necessary fo...scroll on and keep learning"
+description: "When it comes to keeping food fresh and safe, having the right commercial fridge is essential. Commercial fridges are necessary fo...you wont regret reading on"
 keywords: fridge nz
-publishDate: 44919
+publishDate: 12/24/2022
 tags: ["New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/newzealand/315.webp
- alt: 'someones new zealand they had every difficulty with prior'
+ image: /img/newzealand/174.webp
+ alt: 'this persons new zealand purchase'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Options For Apartments
-description: "Are you looking for air conditioning options for your apartment? Many apartments are not equipped with central air conditioning, s...scroll on and keep learning"
+description: "Are you looking for air conditioning options for your apartment? Many apartments are not equipped with central air conditioning, s...keep going and find out"
 keywords: air
-publishDate: 45102
+publishDate: 6/25/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/37.webp
- alt: 'effective heat pump purchase'
+ image: /img/heatpump/96.webp
+ alt: 'effective heat pump shiny and new'
 
 ---
 

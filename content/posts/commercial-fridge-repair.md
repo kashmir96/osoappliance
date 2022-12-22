@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Fridge Repair
-description: "Whether you own a restaurant, bakery, cafe, or grocery store, having a functioning commercial refrigerator is essential for keepin...find out now"
+description: "Whether you own a restaurant, bakery, cafe, or grocery store, having a functioning commercial refrigerator is essential for keepin...get more info"
 keywords: fridge repair
-publishDate: 44922
+publishDate: 12/27/2022
 tags: ["Heat Pump", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/64.webp
- alt: 'one personal heat pump they were glad they had'
+ image: /img/heatpump/48.webp
+ alt: 'quietly satisfying heat pump exploited'
 
 ---
 

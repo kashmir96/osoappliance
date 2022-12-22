@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Cleaner Bunnings
-description: "Do you have an air conditioner that needs a deep cleaning? Are you looking for a product to help make the job easier? Look no furt...continue on"
+description: "Do you have an air conditioner that needs a deep cleaning? Are you looking for a product to help make the job easier? Look no furt...keep going and find out"
 keywords: air
-publishDate: 45062
+publishDate: 5/16/2023
 tags: ["Heat Pump", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/291.webp
- alt: 'effective heat pump ready for a new home'
+ image: /img/heatpump/242.webp
+ alt: 'someones subtle heat pump ready for use'
 
 ---
 

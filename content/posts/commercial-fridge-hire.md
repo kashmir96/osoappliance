@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Fridge Hire
-description: "Commercial fridge hire is an increasingly popular option for businesses that need refrigeration equipment but don't have the neces...learn more about it now"
+description: "Commercial fridge hire is an increasingly popular option for businesses that need refrigeration equipment but don't have the neces...you wont regret reading on"
 keywords: fridge
-publishDate: 44925
+publishDate: 12/30/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/kitchenappliances/114.webp
- alt: 'someones subtle kitchen appliances that more than served its purpose'
+ image: /img/kitchenappliances/19.webp
+ alt: 'mildly useful kitchen appliances not long acquired'
 
 ---
 

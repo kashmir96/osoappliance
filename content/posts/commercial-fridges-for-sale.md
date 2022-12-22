@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Fridges For Sale
-description: "If you're looking to purchase a commercial fridge, you'll want to make sure that you get the right one for your business's needs. ...get more detail"
+description: "If you're looking to purchase a commercial fridge, you'll want to make sure that you get the right one for your business's needs. ...read now to learn more"
 keywords: sale
-publishDate: 44920
+publishDate: 12/25/2022
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/kitchenappliances/37.webp
- alt: 'mildly useful kitchen appliances novel for all involved'
+ image: /img/kitchenappliances/10.webp
+ alt: 'a definitely exciting kitchen appliances ready for a new home'
 
 ---
 

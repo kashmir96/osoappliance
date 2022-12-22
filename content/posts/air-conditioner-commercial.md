@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Commercial
-description: "When summer hits, there’s no better way to cope than with a good air conditioner. Not only do they keep us cool and comfortable, b...see more detail"
+description: "When summer hits, there’s no better way to cope than with a good air conditioner. Not only do they keep us cool and comfortable, b...check it out to learn"
 keywords: air conditioner
-publishDate: 45021
+publishDate: 4/5/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/283.webp
- alt: 'someones heat pump thats found its true home'
+ image: /img/heatpump/74.webp
+ alt: 'this guys heat pump a recent addition '
 
 ---
 

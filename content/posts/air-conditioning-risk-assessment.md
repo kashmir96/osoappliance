@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Risk Assessment
-description: "Air conditioning risk assessment is an important part of keeping your air conditioning system running safely and effectively. It i...you wont regret reading on"
+description: "Air conditioning risk assessment is an important part of keeping your air conditioning system running safely and effectively. It i...take a moment to check it out "
 keywords: air
-publishDate: 45123
+publishDate: 7/16/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/277.webp
- alt: 'a tidy heat pump that saved huge amounts of work'
+ image: /img/heatpump/72.webp
+ alt: 'not so trivial heat pump which showed great potential'
 
 ---
 

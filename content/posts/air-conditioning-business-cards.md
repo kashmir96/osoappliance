@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Business Cards
-description: "As a business owner, having a strong presence in the marketplace is essential. With all of the competition that exists today, stan...learn about it in this post"
+description: "As a business owner, having a strong presence in the marketplace is essential. With all of the competition that exists today, stan...scroll on and keep learning"
 keywords: air
-publishDate: 45054
+publishDate: 5/8/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/30.webp
- alt: 'someones prized heat pump dazzling all involved'
+ image: /img/heatpump/217.webp
+ alt: 'their sisters heat pump a recent addition '
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Appliance Repair Magazine
-description: "Appliance repair can be a daunting task, especially for those who are not experienced in this field. Thankfully, there are plenty ...keep going and find out"
+description: "Appliance repair can be a daunting task, especially for those who are not experienced in this field. Thankfully, there are plenty ...read now to learn more"
 keywords: appliance repair
-publishDate: 44955
+publishDate: 1/29/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/193.webp
- alt: 'the true heat pump acquisition'
+ image: /img/heatpump/292.webp
+ alt: 'a striking heat pump that has shown great potential '
 
 ---
 

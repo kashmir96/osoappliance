@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Commercial Cool
-description: "When the summer months come around, it's time to start thinking about ways to keep your home cool and comfortable. Air conditioner...see more detail"
+description: "When the summer months come around, it's time to start thinking about ways to keep your home cool and comfortable. Air conditioner...scroll on and keep learning"
 keywords: air conditioner
-publishDate: 45022
+publishDate: 4/6/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/315.webp
- alt: 'someones heat pump acquisition'
+ image: /img/heatpump/28.webp
+ alt: 'elusive heat pump ready for use'
 
 ---
 

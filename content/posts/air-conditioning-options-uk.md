@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Options Uk
-description: "Are you looking for air conditioning options in the UK? With the warmer months of summer coming up, now is the perfect time to con...scroll on and keep learning"
+description: "Are you looking for air conditioning options in the UK? With the warmer months of summer coming up, now is the perfect time to con...get more info"
 keywords: air
-publishDate: 45110
+publishDate: 7/3/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/362.webp
- alt: 'A household heat pump giving light'
+ image: /img/heatpump/264.webp
+ alt: 'a rarely used heat pump well loved'
 
 ---
 

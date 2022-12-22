@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Fridge Temperature Celsius
-description: "If you own a commercial fridge, it’s important to ensure that the temperature is kept at the right level. This isn’t only importan...find out now"
+description: "If you own a commercial fridge, it’s important to ensure that the temperature is kept at the right level. This isn’t only importan...keep reading to learn"
 keywords: fridge
-publishDate: 44927
+publishDate: 1/1/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/kitchenappliances/137.webp
- alt: 'not so trivial kitchen appliances exploited'
+ image: /img/kitchenappliances/293.webp
+ alt: 'a barely kitchen appliances novel for all involved'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Business
-description: "If you’re looking to start an air conditioning business, you’ll need a few key pieces of equipment and a good understanding of the...see more"
+description: "If you’re looking to start an air conditioning business, you’ll need a few key pieces of equipment and a good understanding of the...scroll on and keep learning"
 keywords: air
-publishDate: 45052
+publishDate: 5/6/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/159.webp
- alt: 'this highly heat pump being used'
+ image: /img/heatpump/165.webp
+ alt: 'a tidy heat pump dazzling all involved'
 
 ---
 

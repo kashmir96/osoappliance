@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Options For Renters
-description: "Summer is here, and with it comes the heat. For renters, air conditioning can be a tricky thing. Depending on the rental agreement...keep going and find out"
+description: "Summer is here, and with it comes the heat. For renters, air conditioning can be a tricky thing. Depending on the rental agreement...see more"
 keywords: air conditioner
-publishDate: 45035
+publishDate: 4/19/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/95.webp
- alt: 'someones helpful heat pump purchase'
+ image: /img/heatpump/195.webp
+ alt: 'not so trivial heat pump that more than served its purpose'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Disposal
-description: "As the weather begins to warm up, many people are turning on their air conditioners for relief from the heat. But as the summer mo...read now to learn more"
+description: "As the weather begins to warm up, many people are turning on their air conditioners for relief from the heat. But as the summer mo...find out now"
 keywords: air conditioner disposal
-publishDate: 45025
+publishDate: 4/9/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/392.webp
- alt: 'this highly heat pump having its time in the sun'
+ image: /img/heatpump/52.webp
+ alt: 'someones prized heat pump that saved huge amounts of work'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Best Practices
-description: "When it comes to air conditioning, there are many best practices that can help you keep your home comfortable and energy efficient...see more detail"
+description: "When it comes to air conditioning, there are many best practices that can help you keep your home comfortable and energy efficient...find out now"
 keywords: air best
-publishDate: 45051
+publishDate: 5/5/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/101.webp
- alt: 'a challenging heat pump thats found its true home'
+ image: /img/heatpump/38.webp
+ alt: 'a striking heat pump shiny and new'
 
 ---
 

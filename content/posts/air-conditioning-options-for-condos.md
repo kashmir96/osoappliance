@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Options For Condos
-description: "Living in a condo can be a great way to feel part of a community and enjoy the convenience of urban living. However, one of the ch...read now to learn more"
+description: "Living in a condo can be a great way to feel part of a community and enjoy the convenience of urban living. However, one of the ch...find out now"
 keywords: air
-publishDate: 45103
+publishDate: 6/26/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/208.webp
- alt: 'a fit for purpose heat pump showing encouraging signs'
+ image: /img/heatpump/146.webp
+ alt: 'someones subtle heat pump not long acquired'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Air Purifier
-description: "As air pollution continues to worsen, the need for air purifiers is becoming more and more evident. An air purifier is an applianc...check it out to learn"
+description: "As air pollution continues to worsen, the need for air purifiers is becoming more and more evident. An air purifier is an applianc...learn more about it now"
 keywords: 2023 air purifier
-publishDate: 44968
+publishDate: 2/11/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/222.webp
- alt: 'locally useful heat pump goals'
+ image: /img/heatpump/272.webp
+ alt: 'someones subtle heat pump used completely'
 
 ---
 

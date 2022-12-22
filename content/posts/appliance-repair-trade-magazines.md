@@ -1,15 +1,15 @@
 ---
 
 title: Appliance Repair Trade Magazines
-description: "Appliance repair trade magazines are a great resource for anyone who works in the appliance repair industry. They provide informat...get more detail"
+description: "Appliance repair trade magazines are a great resource for anyone who works in the appliance repair industry. They provide informat...learn more"
 keywords: appliance repair
-publishDate: 44956
+publishDate: 1/30/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/18.webp
- alt: 'spirited heat pump showing encouraging signs'
+ image: /img/heatpump/316.webp
+ alt: 'this persons heat pump effective at its task'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Units Scrap Value Uk
-description: "Air conditioner units can be a valuable asset, but when it's time to replace them, you may be wondering what the scrap value of th...lets find out"
+description: "Air conditioner units can be a valuable asset, but when it's time to replace them, you may be wondering what the scrap value of th...scroll on and keep learning"
 keywords: air scrap value
-publishDate: 45135
+publishDate: 7/28/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/26.webp
- alt: 'a rarely used heat pump well loved'
+ image: /img/heatpump/355.webp
+ alt: 'their sisters heat pump showing encouraging signs'
 
 ---
 

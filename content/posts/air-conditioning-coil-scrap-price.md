@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Coil Scrap Price
-description: "These days, air conditioner coils are becoming increasingly popular due to their ability to reduce energy costs and improve effici...keep going and find out"
+description: "These days, air conditioner coils are becoming increasingly popular due to their ability to reduce energy costs and improve effici...get more info"
 keywords: air scrap
-publishDate: 45071
+publishDate: 5/25/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/221.webp
- alt: 'this highly heat pump awating employment'
+ image: /img/heatpump/365.webp
+ alt: 'this persons heat pump employed at the highest level'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Top Brands
-description: "Air conditioning is a must-have for many modern homes. With so many air conditioning brands on the market, it can be hard to decid...learn more"
+description: "Air conditioning is a must-have for many modern homes. With so many air conditioning brands on the market, it can be hard to decid...lets find out"
 keywords: air top brands
-publishDate: 45129
+publishDate: 7/22/2023
 tags: ["Heat Pump", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/42.webp
- alt: 'someones subtle heat pump showing value for the user'
+ image: /img/heatpump/170.webp
+ alt: 'a highly polished heat pump that has shown great potential '
 
 ---
 

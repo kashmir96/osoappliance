@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Electrical Requirements
-description: "Air conditioning is a vital element of modern living, allowing us to stay cool and comfortable in the hot summer months. As such, ...take a moment to check it out "
+description: "Air conditioning is a vital element of modern living, allowing us to stay cool and comfortable in the hot summer months. As such, ...read now to learn more"
 keywords: air
-publishDate: 45087
+publishDate: 6/10/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/376.webp
- alt: 'mildly useful heat pump thing'
+ image: /img/heatpump/94.webp
+ alt: 'a highly polished heat pump used completely'
 
 ---
 

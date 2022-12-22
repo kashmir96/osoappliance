@@ -1,15 +1,15 @@
 ---
 
 title: 2023 Range Hood Trends
-description: "As the kitchen is often the largest and most important room in a home, it’s no surprise that range hood trends have also been evol...lets find out"
+description: "As the kitchen is often the largest and most important room in a home, it’s no surprise that range hood trends have also been evol...keep going and find out"
 keywords: 2023 range trends
-publishDate: 44996
+publishDate: 3/11/2023
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/stove/2.webp
- alt: 'a rarely used stove that more than served its purpose'
+ image: /img/stove/254.webp
+ alt: 'this guys stove which showed great potential'
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Ovens For Sale Nz
-description: "Are you looking to purchase a commercial oven for your business in New Zealand? If so, there are many options available to suit yo...get the full scoop"
+description: "Are you looking to purchase a commercial oven for your business in New Zealand? If so, there are many options available to suit yo...learn more"
 keywords: sale nz
-publishDate: 44945
+publishDate: 1/19/2023
 tags: ["Oven", "New Zealand", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/oven/146.webp
- alt: 'elusive oven which showed great potential'
+ image: /img/oven/289.webp
+ alt: 'a rarely used oven exploited'
 
 ---
 

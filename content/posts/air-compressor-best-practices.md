@@ -1,15 +1,15 @@
 ---
 
 title: Air Compressor Best Practices
-description: "Compressors are essential components of many industrial and commercial operations. Whether you’re a professional mechanic or a hob...read now to learn more"
+description: "Compressors are essential components of many industrial and commercial operations. Whether you’re a professional mechanic or a hob...learn more"
 keywords: air best
-publishDate: 45004
+publishDate: 3/19/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/55.webp
- alt: 'a highly polished heat pump not long acquired'
+ image: /img/heatpump/152.webp
+ alt: 'cost effective heat pump awating employment'
 
 ---
 

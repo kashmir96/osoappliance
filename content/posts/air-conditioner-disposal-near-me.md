@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Disposal Near Me
-description: "Are you looking for a way to dispose of an old air conditioner near you? If so, you’ve come to the right place! Air conditioners a...learn about it in this post"
+description: "Are you looking for a way to dispose of an old air conditioner near you? If so, you’ve come to the right place! Air conditioners a...swipe up to find out"
 keywords: air conditioner disposal near
-publishDate: 45026
+publishDate: 4/10/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/214.webp
- alt: 'this highly heat pump goals'
+ image: /img/heatpump/290.webp
+ alt: 'someones subtle heat pump well loved'
 
 ---
 

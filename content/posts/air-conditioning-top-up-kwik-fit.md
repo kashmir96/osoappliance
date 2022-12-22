@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Top Up Kwik Fit
-description: "As temperatures rise in the summer months, having a functioning air conditioning system in your car can become vital. Sadly, air c...swipe up to find out"
+description: "As temperatures rise in the summer months, having a functioning air conditioning system in your car can become vital. Sadly, air c...continue on"
 keywords: air top
-publishDate: 45134
+publishDate: 7/27/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/325.webp
- alt: 'a barely heat pump not long acquired'
+ image: /img/heatpump/80.webp
+ alt: 'the true heat pump beaming'
 
 ---
 

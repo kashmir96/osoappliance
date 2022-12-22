@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Negative Effects
-description: "Air conditioning has become a staple of modern life, providing us with a cool and comfortable atmosphere in homes, offices, and ot...see more detail"
+description: "Air conditioning has become a staple of modern life, providing us with a cool and comfortable atmosphere in homes, offices, and ot...learn more about it now"
 keywords: air
-publishDate: 45100
+publishDate: 6/23/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/359.webp
- alt: 'elusive heat pump showing encouraging signs'
+ image: /img/heatpump/1.webp
+ alt: 'quietly satisfying heat pump being used'
 
 ---
 

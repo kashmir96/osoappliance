@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Fridge Repairs Near Me
-description: "When it comes to finding commercial fridge repairs near me, there are a few things to consider. Commercial fridges are designed to...scroll on and keep learning"
+description: "When it comes to finding commercial fridge repairs near me, there are a few things to consider. Commercial fridges are designed to...learn more"
 keywords: fridge near
-publishDate: 44926
+publishDate: 12/31/2022
 tags: ["Heat Pump", "Appliance Repair", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/72.webp
- alt: 'cost effective heat pump beaming'
+ image: /img/heatpump/293.webp
+ alt: 'spirited heat pump exploited'
 
 ---
 

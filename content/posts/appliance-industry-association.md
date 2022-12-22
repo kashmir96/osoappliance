@@ -1,15 +1,15 @@
 ---
 
 title: Appliance Industry Association
-description: "The appliance industry is an important part of the economy, providing consumers with a wide variety of products ranging from refri...take a moment to check it out "
+description: "The appliance industry is an important part of the economy, providing consumers with a wide variety of products ranging from refri...continue on"
 keywords: appliance
-publishDate: 44931
+publishDate: 1/5/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/applianceguide/302.webp
- alt: 'recommended appliance guide effective at its task'
+ image: /img/applianceguide/149.webp
+ alt: 'a highly polished appliance guide giving light'
 
 ---
 

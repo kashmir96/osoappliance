@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner App To Use In Car
-description: "Air conditioners are one of the most popular and essential pieces of equipment that we use in our cars. They help to keep us cool ...lets find out"
+description: "Air conditioners are one of the most popular and essential pieces of equipment that we use in our cars. They help to keep us cool ...continue on"
 keywords: air conditioner use
-publishDate: 45014
+publishDate: 3/29/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/106.webp
- alt: 'someones prized heat pump novel for all involved'
+ image: /img/heatpump/121.webp
+ alt: 'a fit for purpose heat pump which showed great potential'
 
 ---
 

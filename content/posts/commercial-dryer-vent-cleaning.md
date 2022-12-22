@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Dryer Vent Cleaning
-description: "Having a clean and properly functioning dryer vent is essential for preventing fires, avoiding costly repairs, and ensuring that y...check it out to learn"
+description: "Having a clean and properly functioning dryer vent is essential for preventing fires, avoiding costly repairs, and ensuring that y...get the full scoop"
 keywords: dryer
-publishDate: 44964
+publishDate: 2/7/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/4.webp
- alt: 'a highly polished washing machine goals'
+ image: /img/washingmachine/373.webp
+ alt: 'industrious washing machine thats found its true home'
 
 ---
 

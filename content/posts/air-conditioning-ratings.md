@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Ratings
-description: "Air conditioners are rated according to the amount of cooling they can provide. The rating is usually expressed in British Thermal...learn more about it now"
+description: "Air conditioners are rated according to the amount of cooling they can provide. The rating is usually expressed in British Thermal...see more"
 keywords: air ratings
-publishDate: 45115
+publishDate: 7/8/2023
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/5.webp
- alt: 'someones helpful heat pump they had every difficulty with prior'
+ image: /img/heatpump/233.webp
+ alt: 'someones subtle heat pump that took less attention than they thought'
 
 ---
 

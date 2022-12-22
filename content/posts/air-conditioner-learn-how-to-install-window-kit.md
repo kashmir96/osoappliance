@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioner Learn How To Install Window Kit
-description: "The summer months are here, and with them comes the need to keep cool. If your home doesn’t have central air conditioning, you may...learn more about it now"
+description: "The summer months are here, and with them comes the need to keep cool. If your home doesn’t have central air conditioning, you may...scroll on and keep learning"
 keywords: air conditioner how to install
-publishDate: 45030
+publishDate: 4/14/2023
 tags: ["Heat Pump", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/120.webp
- alt: 'not so trivial heat pump that has shown great potential '
+ image: /img/heatpump/349.webp
+ alt: 'a definitely exciting heat pump that took less attention than they thought'
 
 ---
 

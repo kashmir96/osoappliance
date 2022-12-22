@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Reviews
-description: "Air conditioning reviews can provide invaluable insight into the best air conditioning systems available on the market today. With...take a moment to check it out "
+description: "Air conditioning reviews can provide invaluable insight into the best air conditioning systems available on the market today. With...see more detail"
 keywords: air reviews
-publishDate: 45121
+publishDate: 7/14/2023
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/344.webp
- alt: 'their sisters heat pump ready for a new home'
+ image: /img/heatpump/199.webp
+ alt: 'the top local heat pump thats found its true home'
 
 ---
 

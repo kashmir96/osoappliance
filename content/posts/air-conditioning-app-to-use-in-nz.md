@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning App To Use In Nz
-description: "In New Zealand, air conditioning has become an increasingly popular way to keep homes and businesses cool during the hot summer mo...lets find out"
+description: "In New Zealand, air conditioning has become an increasingly popular way to keep homes and businesses cool during the hot summer mo...scroll on and keep learning"
 keywords: air use nz
-publishDate: 45050
+publishDate: 5/4/2023
 tags: ["Heat Pump", "New Zealand", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/328.webp
- alt: 'a barely heat pump not long acquired'
+ image: /img/heatpump/210.webp
+ alt: 'a barely heat pump showing value for the user'
 
 ---
 

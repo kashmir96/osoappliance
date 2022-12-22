@@ -1,15 +1,15 @@
 ---
 
 title: Commercial Dryer Machine
-description: "A commercial dryer machine is a type of laundry equipment that is used to dry clothes and other linens in larger quantities than a...scroll on and keep learning"
+description: "A commercial dryer machine is a type of laundry equipment that is used to dry clothes and other linens in larger quantities than a...get the full scoop"
 keywords: dryer
-publishDate: 44962
+publishDate: 2/5/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/washingmachine/213.webp
- alt: 'a rarely used washing machine well loved'
+ image: /img/washingmachine/178.webp
+ alt: 'a rarely used washing machine employed at the highest level'
 
 ---
 

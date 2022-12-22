@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Spare Parts List
-description: "If you're a homeowner, you know how important it is to keep your air conditioning system in good working order. Unfortunately, eve...see more detail"
+description: "If you're a homeowner, you know how important it is to keep your air conditioning system in good working order. Unfortunately, eve...get more detail"
 keywords: air parts
-publishDate: 45126
+publishDate: 7/19/2023
 tags: ["Heat Pump", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/321.webp
- alt: 'someones heat pump used completely'
+ image: /img/heatpump/197.webp
+ alt: 'quietly satisfying heat pump thats found its true home'
 
 ---
 

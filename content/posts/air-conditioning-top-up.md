@@ -1,15 +1,15 @@
 ---
 
 title: Air Conditioning Top Up
-description: "Air conditioning top-up is a process that’s essential for keeping a car’s air conditioning system working optimally. It involves a...continue on"
+description: "Air conditioning top-up is a process that’s essential for keeping a car’s air conditioning system working optimally. It involves a...keep going and find out"
 keywords: air top
-publishDate: 45131
+publishDate: 7/24/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
 cover: 
- image: /img/heatpump/102.webp
- alt: 'their sisters heat pump dazzling all involved'
+ image: /img/heatpump/188.webp
+ alt: 'the top local heat pump showing encouraging signs'
 
 ---
 
