@@ -1,9 +1,9 @@
 ---
 
-title: Washing Machine With Dryer With Price
+title: Washing Machine With Dryer Price
 description: "If you're looking for a way to save time and money on laundry, consider investing in a washing machine with dryer. Washing machine...scroll on and keep learning"
 keywords: washing machine dryer
-publishDate: 44907
+publishDate: 09/03/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Wood Stove
 description: "A wood stove is an efficient and cost-effective way to heat your home. They offer a variety of benefits that make them a great alt...you wont regret reading on"
 keywords: stove
-publishDate: 44907
+publishDate: 08/09/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

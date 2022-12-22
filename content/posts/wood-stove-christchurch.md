@@ -3,7 +3,7 @@
 title: Wood Stove Christchurch
 description: "Are you looking for a way to cook with natural heat and efficiency? Wood stoves are a great option, and they are becoming increasi...get more detail"
 keywords: stove christchurch
-publishDate: 44907
+publishDate: 26/08/2022
 tags: ["Stove", "Christchurch", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
