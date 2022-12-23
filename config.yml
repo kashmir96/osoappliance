@@ -46,7 +46,7 @@ menu:
 
     - identifier: repairs
       name: Appliance Repair Technicians
-      url: /pages/appliance-repair-technicians-in-new-zealand/
+      url: /pages/appliance-repair-technicians/
       weight: 40
 
     - identifier: contact
