@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-date: 2022-12-24T14:47:13+13:00
 draft: false
 ---
 
