@@ -39,9 +39,9 @@ menu:
       url: /tags
       weight: 20
 
-    - identifier: categories
-      name: Categories
-      url: /categories
+    - identifier: parts
+      name: Appliance Parts Suppliers
+      url: /pages/appliance-parts-suppliers
       weight: 30
 
     - identifier: repairs
