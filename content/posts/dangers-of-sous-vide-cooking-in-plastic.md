@@ -3,7 +3,7 @@
 title: Dangers Of Sous Vide Cooking In Plastic
 description: "Sous vide cooking or slow cooking in plastic can be a potentially dangerous method of food preparation if not done properly. Sous ...scroll on and keep learning"
 keywords: sous cooking
-publishDate: 45747
+publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Dishwasher Electrical Requirements
 description: "When you are outfitting your kitchen with the latest appliances, it is important to understand the dishwasher electrical requireme...get more detail"
 keywords: dishwasher
-publishDate: 45826
+publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

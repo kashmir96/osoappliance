@@ -3,7 +3,7 @@
 title: Dishwasher Electrical Code 2023
 description: "The electrical code for dishwashers has been revised in 2021 and is now referred to as the 2021 National Electrical Code (NEC). Th...get more detail"
 keywords: dishwasher 2023
-publishDate: 45822
+publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

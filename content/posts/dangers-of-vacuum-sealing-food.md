@@ -3,7 +3,7 @@
 title: Dangers Of Vacuum Sealing Food
 description: "Vacuum sealing food is a popular method for preserving and storing food, but it can also be dangerous if done incorrectly. Vacuum ...get the full scoop"
 keywords: vacuum
-publishDate: 45768
+publishDate: 12/12/2022
 tags: ["Vacuum"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Effects Of Air Conditioning
 description: "Air conditioning has become an essential component of modern life. It provides the necessary cooling for our homes, offices and ve...check it out to learn"
 keywords: air
-publishDate: 45674
+publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

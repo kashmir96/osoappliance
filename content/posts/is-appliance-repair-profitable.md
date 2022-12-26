@@ -3,7 +3,7 @@
 title: Is Appliance Repair Profitable
 description: "Appliance repair is a great business that can be very profitable and rewarding. With the right tools, know-how, and dedication you...see more"
 keywords: appliance repair
-publishDate: 45781
+publishDate: 25/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

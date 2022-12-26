@@ -3,7 +3,7 @@
 title: Robotic Vacuums Nz
 description: "Robotic vacuums are quickly becoming a popular choice for many homeowners in New Zealand. Robotic vacuums are designed to automate...get the full scoop"
 keywords: vacuums nz
-publishDate: 45794
+publishDate: 25/12/2022
 tags: ["Vacuum", "New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

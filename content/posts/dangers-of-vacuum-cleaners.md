@@ -3,7 +3,7 @@
 title: Dangers Of Vacuum Cleaners
 description: "Vacuum cleaners are a convenient and effective tool for keeping your home clean. However, it’s important to understand the dangers...you wont regret reading on"
 keywords: vacuum
-publishDate: 45772
+publishDate: 12/12/2022
 tags: ["Vacuum", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

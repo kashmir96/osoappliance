@@ -3,7 +3,7 @@
 title: Electrical Appliance Repairs
 description: "When it comes to electrical appliance repairs, there is no one-size-fits all solution. Depending on the appliance, the type of rep...learn more about it now"
 keywords: appliance
-publishDate: 45644
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

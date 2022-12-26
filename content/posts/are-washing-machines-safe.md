@@ -3,7 +3,7 @@
 title: Are Washing Machines Safe
 description: "Are washing machines safe to use? The answer is a resounding yes! Modern washing machines are designed with your safety in mind, a...read now to learn more"
 keywords: washing machines
-publishDate: 45786
+publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

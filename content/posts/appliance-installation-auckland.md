@@ -3,7 +3,7 @@
 title: Appliance Installation Auckland
 description: "If you are looking to install new appliances in your home, the Auckland area offers a variety of services for you to choose from. ...read now to learn more"
 keywords: appliance installation
-publishDate: 45745
+publishDate: 25/12/2022
 tags: ["Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

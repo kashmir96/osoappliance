@@ -3,7 +3,7 @@
 title: What Is The Best Robot Vacuum Nz
 description: "Robot vacuums have become increasingly popular over recent years due to their convenience and ease of use. For busy households, a ...get more detail"
 keywords: best vacuum nz
-publishDate: 45795
+publishDate: 25/12/2022
 tags: ["Vacuum", "New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

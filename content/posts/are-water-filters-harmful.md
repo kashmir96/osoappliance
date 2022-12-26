@@ -3,7 +3,7 @@
 title: Are Water Filters Harmful
 description: "Are water filters harmful? The short answer is: it depends....take a moment to check it out "
 keywords: water
-publishDate: 45728
+publishDate: 12/12/2022
 tags: ["Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

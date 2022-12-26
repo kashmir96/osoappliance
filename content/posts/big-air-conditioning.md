@@ -3,7 +3,7 @@
 title: Big Air Conditioning
 description: "Big air conditioning is a term that is used to describe the use of large-scale air conditioning systems in commercial and industri...see more"
 keywords: air
-publishDate: 45713
+publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

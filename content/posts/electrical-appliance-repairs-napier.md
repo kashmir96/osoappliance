@@ -3,7 +3,7 @@
 title: Electrical Appliance Repairs Napier
 description: "If you live in Napier, you may have experienced the need for electrical appliance repairs at some point. Whether it’s a broken fri...get more detail"
 keywords: appliance
-publishDate: 45651
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

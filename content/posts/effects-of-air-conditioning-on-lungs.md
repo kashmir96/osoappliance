@@ -3,7 +3,7 @@
 title: Effects Of Air Conditioning On Lungs
 description: "It’s no secret that air conditioning can be a lifesaver in the summer months, but did you know that air conditioning can also have...take a moment to check it out "
 keywords: air
-publishDate: 45672
+publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

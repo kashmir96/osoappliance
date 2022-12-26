@@ -3,7 +3,7 @@
 title: Electrical Appliance Repair Shop Near Me
 description: "If you’re in need of an electrical appliance repair shop near you, chances are that you’ve already done your research and know wha...swipe up to find out"
 keywords: appliance repair shop near
-publishDate: 45652
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

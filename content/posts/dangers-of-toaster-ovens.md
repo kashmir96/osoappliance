@@ -3,7 +3,7 @@
 title: Dangers Of Toaster Ovens
 description: "Toaster ovens are a popular appliance for busy households and their compact size makes them ideal for small kitchens. While toaste...lets find out"
 keywords: toaster
-publishDate: 45765
+publishDate: 12/12/2022
 tags: ["Oven", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Electrical Appliance Repairs New Plymouth
 description: "Welcome to the blog on electrical appliance repairs in New Plymouth! If you’re looking for reliable, professional service when it ...keep going and find out"
 keywords: appliance
-publishDate: 45646
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Dangers Of Electric Stove
 description: "As much as electric stoves provide convenience and ease of operation, there are certain dangers that come with using them. Underst...continue on"
 keywords: stove
-publishDate: 45759
+publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

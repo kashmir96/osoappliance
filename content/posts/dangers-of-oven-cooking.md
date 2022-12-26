@@ -3,7 +3,7 @@
 title: Dangers Of Oven Cooking
 description: "Oven cooking is a convenient and popular way of preparing food, but it can be dangerous if not done carefully. Here are some tips ...get more detail"
 keywords: oven cooking
-publishDate: 45724
+publishDate: 12/12/2022
 tags: ["Oven", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Electrical Appliance Repairs Rotorua
 description: "If you’re a resident of Rotorua, New Zealand, you know that your electrical appliances are essential to keeping your home running ...learn about it in this post"
 keywords: appliance
-publishDate: 45648
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

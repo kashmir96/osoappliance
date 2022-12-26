@@ -3,7 +3,7 @@
 title: Negative Effects Of Rice Cooker
 description: "Rice cookers are popular kitchen appliances that can heat and cook rice quickly, but they also come with a few drawbacks. In this ...take a moment to check it out "
 keywords: cooker
-publishDate: 45806
+publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

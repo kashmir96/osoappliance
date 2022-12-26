@@ -3,7 +3,7 @@
 title: Electrical Appliance Repairs Tauranga
 description: "Are you looking for an expert to help you repair your electrical appliances in Tauranga? Well, you’ve come to the right place! Ele...get the full scoop"
 keywords: appliance
-publishDate: 45650
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

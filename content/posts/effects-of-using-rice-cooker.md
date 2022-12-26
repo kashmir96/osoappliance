@@ -3,7 +3,7 @@
 title: Effects Of Using Rice Cooker
 description: "Rice cookers are a staple in many Asian households, but the benefits of using one go far beyond just making an easy-to-prepare mea...continue on"
 keywords: cooker
-publishDate: 45809
+publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

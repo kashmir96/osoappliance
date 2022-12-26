@@ -3,7 +3,7 @@
 title: Electrical Appliance Repairs Christchurch
 description: "If you live in Christchurch, New Zealand and find yourself in need of electrical appliance repairs, you’ve come to the right place...keep going and find out"
 keywords: appliance christchurch
-publishDate: 45643
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Christchurch", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

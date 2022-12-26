@@ -3,7 +3,7 @@
 title: Do Range Hoods Really Work
 description: "Do range hoods really work? That is a question that many cooks have asked. The answer is yes, range hoods do work to reduce kitche...learn about it in this post"
 keywords: range
-publishDate: 45813
+publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

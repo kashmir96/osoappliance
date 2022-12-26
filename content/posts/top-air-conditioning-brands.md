@@ -3,7 +3,7 @@
 title: Top Air Conditioning Brands
 description: "When it comes to air conditioning brands, there are many to choose from. With so many choices out there, it can be difficult to de...see more"
 keywords: top air brands
-publishDate: 45715
+publishDate: 25/12/2022
 tags: ["Heat Pump", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Does Water In A Water Cooler Go Bad
 description: "Water coolers are an incredibly convenient way to access cold, filtered water with the simple push of a button. But does water in ...lets find out"
 keywords: water water
-publishDate: 45790
+publishDate: 12/12/2022
 tags: ["Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

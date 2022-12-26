@@ -3,7 +3,7 @@
 title: Is Air Conditioning Hard To Learn
 description: "When it comes to air conditioning, the technology behind it can seem complicated. However, the basics of air conditioning are rela...scroll on and keep learning"
 keywords: air
-publishDate: 45734
+publishDate: 25/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

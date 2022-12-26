@@ -3,7 +3,7 @@
 title: How Long Does It Take To Learn Appliance Repair
 description: "Appliance repair is a skill that can be acquired through research, practice and education. As with any other job-related skill, th...get more info"
 keywords: appliance repair
-publishDate: 45780
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: How To Install Built In Appliances
 description: "If you’re looking to upgrade your kitchen, installing built-in appliances is a great way to add value and style. Built-in applianc...learn more about it now"
 keywords: how to install appliances
-publishDate: 45742
+publishDate: 12/12/2022
 tags: ["Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

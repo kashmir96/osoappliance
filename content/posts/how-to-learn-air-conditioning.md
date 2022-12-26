@@ -3,7 +3,7 @@
 title: How To Learn Air Conditioning
 description: "Learning air conditioning doesn’t have to be a daunting task. With the right resources and a bit of dedication, anyone can become ...lets find out"
 keywords: how to air
-publishDate: 45733
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

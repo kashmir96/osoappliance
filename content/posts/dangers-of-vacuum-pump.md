@@ -3,7 +3,7 @@
 title: Dangers Of Vacuum Pump
 description: "Vacuum pumps are essential tools used in a variety of industries, from automotive repair to construction. However, if not managed ...learn more about it now"
 keywords: vacuum
-publishDate: 45776
+publishDate: 12/12/2022
 tags: ["Vacuum"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Biggest Air Conditioning Manufacturers
 description: "Although there are many manufacturers of air conditioning systems across the globe, some of the largest and most well-known compan...lets find out"
 keywords: air
-publishDate: 45711
+publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

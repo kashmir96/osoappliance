@@ -3,7 +3,7 @@
 title: Is Toaster Harmful
 description: "Toasters are a common kitchen appliance that many people use every day. While toasters may seem harmless, there are some potential...lets find out"
 keywords: toaster
-publishDate: 45767
+publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

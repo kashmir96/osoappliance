@@ -3,7 +3,7 @@
 title: Dangers Of Ovens
 description: "Ovens are an essential part of modern cooking, but they can also be very dangerous. Ovens generate high temperatures that can easi...swipe up to find out"
 keywords: 
-publishDate: 45721
+publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

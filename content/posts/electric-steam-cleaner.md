@@ -3,7 +3,7 @@
 title: Electric Steam Cleaner
 description: "Steam cleaning is the use of steam to clean surfaces and fabrics. It involves the use of high-pressure steam to lift dirt and odor...learn more"
 keywords: 
-publishDate: 45705
+publishDate: 12/12/2022
 tags: ["Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

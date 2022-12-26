@@ -3,7 +3,7 @@
 title: Electric Vacuum Cleaner For Car
 description: "When it comes to cleaning your car, an electric vacuum cleaner for car is a must-have tool. It’s not only incredibly convenient, b...see more detail"
 keywords: vacuum
-publishDate: 45706
+publishDate: 12/12/2022
 tags: ["Vacuum", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

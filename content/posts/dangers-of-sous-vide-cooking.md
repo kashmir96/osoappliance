@@ -3,7 +3,7 @@
 title: Dangers Of Sous Vide Cooking
 description: "Sous vide cooking has become increasingly popular in recent years, as it offers a range of benefits, including the ability to cook...get more detail"
 keywords: sous cooking
-publishDate: 45746
+publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Did Electrical Blender
 description: "A blender is an incredibly handy kitchen appliance that has become a staple in many modern households. It’s used to blend, puree a...swipe up to find out"
 keywords: blender
-publishDate: 45821
+publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

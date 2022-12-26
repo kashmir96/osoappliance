@@ -3,7 +3,7 @@
 title: Robot Mower Reviews Nz
 description: "Robot mower reviews NZ can provide valuable insight into the different models of robot mowers available in New Zealand. Robot mowe...get more info"
 keywords: reviews nz
-publishDate: 45797
+publishDate: 25/12/2022
 tags: ["New Zealand", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

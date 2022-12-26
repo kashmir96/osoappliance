@@ -3,7 +3,7 @@
 title: What Happens If You Sous Vide Too Long
 description: "Sous vide cooking is a popular method of cooking food in vacuum sealed bags or jars in hot water. It is praised for its ability to...get the full scoop"
 keywords: sous
-publishDate: 45752
+publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Safety Precautions Of Rice Cooker
 description: "Cooking meals with a rice cooker is an easy way to prepare healthy and delicious meals. However, it's important to be mindful of s...learn more"
 keywords: cooker
-publishDate: 45808
+publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

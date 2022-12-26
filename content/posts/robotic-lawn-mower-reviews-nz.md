@@ -3,7 +3,7 @@
 title: Robotic Lawn Mower Reviews Nz
 description: "Robotic lawn mowers are becoming increasingly popular, as they allow you to enjoy a perfectly manicured lawn without the added has...learn more"
 keywords: reviews nz
-publishDate: 45800
+publishDate: 25/12/2022
 tags: ["New Zealand", "Appliance Rules and Regulations", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

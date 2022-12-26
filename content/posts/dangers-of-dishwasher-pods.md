@@ -3,7 +3,7 @@
 title: Dangers Of Dishwasher Pods
 description: "If you own a dishwasher, you may be familiar with the convenience of using pre-measured dishwasher pods for cleaning. But did you ...swipe up to find out"
 keywords: dishwasher
-publishDate: 45664
+publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

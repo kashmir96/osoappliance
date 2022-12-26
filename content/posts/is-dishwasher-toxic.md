@@ -3,7 +3,7 @@
 title: Is Dishwasher Toxic
 description: "When it comes to kitchen appliances, the dishwasher is essential for keeping your dishes clean and sparkling. However, many people...continue on"
 keywords: dishwasher
-publishDate: 45667
+publishDate: 25/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

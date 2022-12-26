@@ -3,7 +3,7 @@
 title: Dangers Of Microwaved Food
 description: "As convenient as microwaving food can be, it is important to remember that it can come with some health risks. Microwaving food ca...keep going and find out"
 keywords: 
-publishDate: 45685
+publishDate: 12/12/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

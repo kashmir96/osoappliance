@@ -3,7 +3,7 @@
 title: Dangers Of Appliance Parts
 description: "Appliance parts are the components that make up an appliance. While appliance parts may seem harmless, they can actually pose cert...learn more"
 keywords: appliance parts
-publishDate: 45656
+publishDate: 12/12/2022
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

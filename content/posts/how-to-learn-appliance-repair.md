@@ -3,7 +3,7 @@
 title: How To Learn Appliance Repair
 description: "If you want to learn how to repair appliances, there are a few steps you can take to get started. Learning appliance repair can be...keep reading to learn"
 keywords: how to appliance repair
-publishDate: 45778
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

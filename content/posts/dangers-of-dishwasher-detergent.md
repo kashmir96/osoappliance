@@ -3,7 +3,7 @@
 title: Dangers Of Dishwasher Detergent
 description: "Are you considering switching to dishwasher detergent for doing your dishes? Dishwasher detergent may seem like a convenient and e...see more detail"
 keywords: dishwasher
-publishDate: 45663
+publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

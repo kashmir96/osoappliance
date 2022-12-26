@@ -3,7 +3,7 @@
 title: Effects Of Air Conditioning On Arthritis
 description: "When it comes to arthritis, air conditioning can be a blessing and a curse. On the one hand, air conditioning helps reduce humidit...continue on"
 keywords: air
-publishDate: 45679
+publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

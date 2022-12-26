@@ -3,7 +3,7 @@
 title: Risks Of Sous Vide Cooking
 description: "Sous vide cooking has become increasingly popular in recent years due to its convenience and delicious results. However, it is imp...keep going and find out"
 keywords: sous cooking
-publishDate: 45749
+publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

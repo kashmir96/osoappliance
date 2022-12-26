@@ -3,7 +3,7 @@
 title: How Long Can Water Sit In Water Cooler
 description: "Water coolers are a great way to have access to cold, refreshing water throughout your day. But like with any appliance, it’s impo...continue on"
 keywords: water water
-publishDate: 45791
+publishDate: 12/12/2022
 tags: ["Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

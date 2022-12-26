@@ -3,7 +3,7 @@
 title: Dangers Of Range Hood
 description: "If you are a homeowner and have enjoyed cooking in your kitchen for some time, you may have noticed that a range hood is an import...learn more about it now"
 keywords: range
-publishDate: 45811
+publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

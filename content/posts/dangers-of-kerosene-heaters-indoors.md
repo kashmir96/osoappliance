@@ -3,7 +3,7 @@
 title: Dangers Of Kerosene Heaters Indoors
 description: "Kerosene heaters are a popular option for providing supplemental heating during cold weather. However, if operated improperly or u...see more detail"
 keywords: 
-publishDate: 45693
+publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

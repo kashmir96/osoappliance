@@ -3,7 +3,7 @@
 title: Dangers Of Microwaves Electromagnetic Spectrum
 description: "Microwaves are a type of electromagnetic radiation that falls within the higher frequency end of the radio spectrum. With this in ...check it out to learn"
 keywords: 
-publishDate: 45680
+publishDate: 12/12/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

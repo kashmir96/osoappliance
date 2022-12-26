@@ -3,7 +3,7 @@
 title: Best Electric Cooker
 description: "The electric cooker is one of the most popular kitchen appliances on the market today, and for good reason. With its convenience, ...get more info"
 keywords: best cooker
-publishDate: 45818
+publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

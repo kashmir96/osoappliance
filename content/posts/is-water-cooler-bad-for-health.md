@@ -3,7 +3,7 @@
 title: Is Water Cooler Bad For Health
 description: "Water coolers are a common sight in offices, gyms, and homes. They provide a convenient source of cold drinking water and can even...get the full scoop"
 keywords: water
-publishDate: 45789
+publishDate: 25/12/2022
 tags: ["Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

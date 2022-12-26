@@ -3,7 +3,7 @@
 title: Electric Vacuum Cleaner For Home
 description: "If you’re looking for a powerful and versatile cleaning solution for your home, then the electric vacuum cleaner is the perfect ch...take a moment to check it out "
 keywords: vacuum
-publishDate: 45708
+publishDate: 12/12/2022
 tags: ["Vacuum", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

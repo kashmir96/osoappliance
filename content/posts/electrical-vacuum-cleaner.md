@@ -3,7 +3,7 @@
 title: Electrical Vacuum Cleaner
 description: "Today, the world is becoming increasingly reliant on technology and one of the most useful pieces of technology available to us is...scroll on and keep learning"
 keywords: vacuum
-publishDate: 45703
+publishDate: 12/12/2022
 tags: ["Vacuum", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Dangers Of Toaster Oven Fires
 description: "Toaster ovens offer a convenient way to heat and toast food, but they can also present a serious fire hazard if you don’t take pro...keep reading to learn"
 keywords: toaster oven
-publishDate: 45766
+publishDate: 12/12/2022
 tags: ["Oven", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: How To Learn Heating And Air Conditioning
 description: "Learning how to work with heating and air conditioning is no small feat. It requires knowledge in electrical, mechanical, and ther...read now to learn more"
 keywords: how to air
-publishDate: 45731
+publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

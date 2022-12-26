@@ -3,7 +3,7 @@
 title: Dangers Of Microwave Waves
 description: "Microwave radiation – often referred to as microwaves – is the form of energy produced by microwave ovens. Although microwaves can...take a moment to check it out "
 keywords: microwave
-publishDate: 45684
+publishDate: 12/12/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

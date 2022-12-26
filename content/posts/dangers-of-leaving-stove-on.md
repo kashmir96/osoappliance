@@ -3,7 +3,7 @@
 title: Dangers Of Leaving Stove On
 description: "When it comes to safety in the home, one of the most important considerations is to be aware of the dangers that can arise from le...take a moment to check it out "
 keywords: stove
-publishDate: 45760
+publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Dangers Of Pellet Stoves
 description: "Pellet stoves are becoming an increasingly popular alternative to traditional wood burning stoves as they are often more efficient...get the full scoop"
 keywords: 
-publishDate: 45757
+publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Buy Electrical Appliances Near Me
 description: "When it comes to buying electrical appliances, it's important to know where to find reliable and quality products. Whether you’re ...find out now"
 keywords: buy appliances near
-publishDate: 45819
+publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

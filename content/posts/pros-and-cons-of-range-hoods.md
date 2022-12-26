@@ -3,7 +3,7 @@
 title: Pros And Cons Of Range Hoods
 description: "Are you considering installing a range hood in your kitchen? Range hoods are an important part of any kitchen, as they help keep t...keep reading to learn"
 keywords: range
-publishDate: 45812
+publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

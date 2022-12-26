@@ -3,7 +3,7 @@
 title: Robotic Vacuum Cleaner Reviews Nz
 description: "Robotic vacuum cleaners are the latest craze in the home cleaning market. They offer consumers a convenient way to keep their floo...find out now"
 keywords: vacuum reviews nz
-publishDate: 45793
+publishDate: 25/12/2022
 tags: ["Vacuum", "New Zealand", "Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]
