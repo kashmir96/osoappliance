@@ -3,7 +3,7 @@
 title: Can You Sous Vide For Too Long
 description: "Sous vide is a cooking technique that involves placing food in a vacuum-sealed bag and immersing it in water at a precisely contro...learn more"
 keywords: sous
-publishDate: 45753
+publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
