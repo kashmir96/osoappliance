@@ -3,7 +3,7 @@
 title: Electric Dehydrator Jerky
 description: "One of the tastiest and healthiest snacks you can find is jerky, but did you know that you can make it yourself at home with an el...scroll on and keep learning"
 keywords: dehydrator
-publishDate: 45835
+publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Electric Dehydrator Temperature
 description: "Temperature is an important factor when it comes to using an electric dehydrator. The right temperature will dry your food without...learn more"
 keywords: dehydrator
-publishDate: 45841
+publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

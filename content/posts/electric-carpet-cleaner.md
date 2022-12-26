@@ -3,7 +3,7 @@
 title: Electric Carpet Cleaner
 description: "When it comes to deep cleaning carpets and rugs, an electric carpet cleaner can be a great tool. This type of floor cleaner uses a...scroll on and keep learning"
 keywords: 
-publishDate: 45828
+publishDate: 25/12/2022
 tags: ["Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Electric Carpet Cleaners Reviews
 description: "Electric carpet cleaners are quickly becoming a must-have for homeowners. Not only are they easy to use, but they also offer a num...you wont regret reading on"
 keywords: reviews
-publishDate: 45830
+publishDate: 25/12/2022
 tags: ["Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

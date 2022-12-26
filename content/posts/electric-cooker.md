@@ -3,7 +3,7 @@
 title: Electric Cooker
 description: "An electric cooker is a kitchen appliance that uses electricity to heat up food. It is a convenient and efficient way to prepare m...keep reading to learn"
 keywords: cooker
-publishDate: 45831
+publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,7 @@
 title: Electric Dehydrator Machine
 description: "A food dehydrator is a machine that is used to remove moisture from food by blowing warm, dry air over the surface of the food. Th...check it out to learn"
 keywords: dehydrator
-publishDate: 45837
+publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]
