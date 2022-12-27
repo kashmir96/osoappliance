@@ -24,3 +24,5 @@ It can also be helpful to look into any warranties or guarantees offered by the 
 Finally, make sure that the company is upfront about their prices and fees before signing any contracts or agreements. Oven repair services can vary greatly in cost depending on what needs to be done so it pays to shop around and compare prices between different companies before making your final decision. 
 
 By taking these few simple steps, you can ensure that you get quality oven repair services in Christchurch at a fair price without sacrificing quality or safety.
+
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that operate in your area.

@@ -26,3 +26,5 @@ If your washing machine is not spinning, it could be due to a variety of reasons
 5. Worn Bearings: Worn bearings can cause the drum to not spin. This is a more serious problem that may require professional repair.
 
 If your washing machine is not spinning, it’s important to identify the cause of the problem so that it can be fixed properly. If you’re not sure what’s causing the issue, contact a professional for assistance.
+
+Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> who will restore functionality.

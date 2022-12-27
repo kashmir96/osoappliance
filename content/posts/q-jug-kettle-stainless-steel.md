@@ -1,6 +1,6 @@
 ---
 
-title: Q Jug Kettle Stainless Steel
+title: Jug Kettle Stainless Steel
 description: "A jug kettle is a type of electric kettle designed to quickly and efficiently boil water for hot beverages such as coffee, tea, or...get more info"
 keywords: jug kettle
 publishDate: 4/29/2023
