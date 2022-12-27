@@ -24,3 +24,5 @@ It is also important to check that none of your oven’s buttons are stuck down 
 Finally, if none of these solutions have worked then there may be an issue with your oven’s thermostat or heating element. This could be causing your oven to overheat and not turn off when it should do so. In this instance you should contact an engineer for repairs as soon as possible in order to prevent any further damage or safety hazards from occurring. 
 
 By following these steps you should hopefully have fixed any issues with your oven not turning off properly and can now enjoy using it safely again!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is going to help reactivate processes.

@@ -28,3 +28,5 @@ In addition to regular testing and tagging, any electrical equipment that has be
 Testing and tagging is also important in the home, as it helps to ensure that all electrical items are safe to use. This includes appliances such as microwaves, toasters, kettles and dishwashers. Testing and tagging should be done at least once a year, or whenever the appliance is damaged, modified or repaired.
 
 Ultimately, testing and tagging is an important part of electrical safety, and all electrical equipment should be tested and tagged at regular intervals. This helps to ensure that all electrical items are working safely and compliant with relevant electrical standards.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is helpful to rekindle them with excitement.

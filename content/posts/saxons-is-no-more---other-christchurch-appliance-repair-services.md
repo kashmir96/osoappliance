@@ -24,3 +24,5 @@ Unfortunately, Saxons closed its doors in 2022 due to a downturn in business. Th
 These companies offer similar services as Saxon did such as installation advice and servicing so customers can trust these businesses with their appliance needs too! Some even specialize further such as providing repair kits or parts for specific brands or models of an appliance which may be hard to find elsewhere. Additionally they also offer same day service so customers won't have to wait long before getting their faulty appliances fixed up again! 
 
 Overall while it’s sad that Saxons is no more there are still plenty of reliable Christchurch based appliance repairing companies that can fix up any problems you may have with your appliances quickly – restoring them back into perfect working order!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> revamp your appliances.

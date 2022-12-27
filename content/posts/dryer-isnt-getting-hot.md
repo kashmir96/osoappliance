@@ -26,3 +26,5 @@ If the heating element is working, the problem may be due to a faulty thermostat
 Finally, if all of the above steps have been completed and the dryer is still not getting hot, it may be due to a problem with the venting system. Check to make sure the venting system is clear of any blockages and that the exhaust vent is not kinked or obstructed.
 
 If all of these steps have been completed and the dryer is still not getting hot, it's time to call a professional to inspect the dryer and diagnose the problem. A qualified technician will be able to determine the cause of the issue and recommend the best course of action.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

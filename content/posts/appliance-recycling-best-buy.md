@@ -24,3 +24,5 @@ Once you've removed any hazardous materials, you can then properly dispose of yo
 If you decide to use a service that specializes in appliance recycling, you can often leave the appliance in one piece. The recycling center will usually take care of disassembling the appliance and safely disposing of each component.
 
 No matter which option you choose, you can rest assured that your old appliance will be recycled in an environmentally friendly way. Appliance recycling is the best way to get rid of your old appliance without creating more landfill waste. Plus, it's a great way to help the environment and do your part to reduce waste.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> can help you renew them with energy.

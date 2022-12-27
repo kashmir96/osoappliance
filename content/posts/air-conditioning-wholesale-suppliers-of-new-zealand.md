@@ -22,3 +22,5 @@ These suppliers also provide professional services such as installation, repair 
 Finally, when working with an air conditioning wholesale supplier in New Zealand you want to ensure that they provide excellent customer service so that all queries or concerns are promptly addressed and resolved quickly and efficiently. Reputable suppliers understand how important customer satisfaction is and will go above and beyond to ensure their customers get the best possible experience when dealing with them. 
 
 If you are looking for a reliable supplier of quality air conditioners in New Zealand then look no further than one of the many reputable wholesale suppliers available today! With their commitment to providing exceptional products at competitive prices combined with professional services and excellent customer service, these companies are sure to meet all of your air conditioning needs!
+
+Is your appliance on the blink? This selection of <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> will revive activity.

@@ -22,3 +22,5 @@ For those who don't want to bother with doing their own laundry, there are also 
 Finally, if your current washing machine needs repair or servicing, there are experienced technicians in the area who can provide quick repairs at an affordable rate. They can diagnose any issue with your appliance so it will be running smoothly again in no time! 
 
 No matter what kind of laundry service you need in Christchurch, there’s certainly plenty of options available to keep your clothes looking great without breaking the bank!
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will help refresh them with spark.

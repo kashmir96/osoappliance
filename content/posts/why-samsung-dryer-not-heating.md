@@ -22,3 +22,5 @@ Another potential cause of a Samsung dryer not heating is clogged vents or ducts
 Finally, if your Samsung dryer still isn’t heating after checking both the heating element and vents/ducts, then you may have an issue with the thermostat. The thermostat controls how hot the dryer gets and if it isn’t functioning properly then your dryer won’t heat up properly either. To check if this is an issue, use a multimeter to test for continuity in the thermostat wires and replace any faulty components as needed. 
 
 By following these steps, you should be able to diagnose why your Samsung dryer isn’t heating up properly and take appropriate action to fix it!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

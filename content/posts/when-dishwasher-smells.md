@@ -22,3 +22,5 @@ Another cause of bad odors in your dishwasher is mold or mildew growth. This can
 Finally, smelly odors can also come from food particles that have been left behind on dishes or stuck in crevices inside the dishwasher itself. To eliminate such odors, make sure to pre-scrub dishes before loading them into the machine and use an approved detergent designed for removing tough food residue from plates and utensils. Additionally, you may want to consider running an empty cycle with vinegar every few months to help remove any lingering food particles inside your machine. 
 
 By following these tips and taking the time for regular maintenance on your appliance, you should be able to keep unpleasant smells away from your kitchen for good!
+
+Get your appliances to go even further with <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will restore functionality.

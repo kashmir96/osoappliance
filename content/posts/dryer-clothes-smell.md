@@ -22,3 +22,5 @@ The next step is to check the dryer vent for any blockages. Over time, lint and 
 Finally, make sure you’re regularly cleaning the inside of the dryer. Over time, lint and other debris can accumulate inside the dryer, leading to a musty smell. To clean the inside of the dryer, you’ll need to unplug it and then use a vacuum or soft brush to remove any lint or debris. 
 
 By following these steps, you can ensure that your dryer is free of lint and other debris and that your clothes will smell fresh and clean every time.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

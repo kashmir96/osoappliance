@@ -25,3 +25,5 @@ If your washing machine isn't working as it should, there are a few common probl
 
 
 By following these steps you should have no problem getting your washing machine back into shape in no time! If however none of these solutions work then it may be best to call out an experienced technician who will know exactly what needs doing in order to repair it correctly without causing further damage down the line!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is going to help reactivate processes.

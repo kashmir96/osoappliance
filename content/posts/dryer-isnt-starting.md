@@ -24,3 +24,5 @@ If your dryer isn't starting, it can be a frustrating experience. Fortunately, t
 4. Check the Timer: The timer controls when the dryer turns on and off. If the timer is not working properly, then the dryer won't start. To check the timer, remove the control panel and inspect the timer for any visible damage. If the timer looks okay, then replace it.
 
 These are some of the most common causes of a dryer not starting. If you've checked all of these and the dryer still won't start, then it may be time to call a professional for help.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

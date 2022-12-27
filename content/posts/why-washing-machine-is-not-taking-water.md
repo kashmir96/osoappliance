@@ -22,3 +22,5 @@ Another possible cause could be a faulty water inlet valve. This valve is respon
 Finally, the issue could be a problem with the water pressure. If the pressure is too low, then the water will not be able to flow into the machine. To check this, you can use a water pressure gauge to measure the water pressure. If it is too low, then you will need to contact your local water authority to increase the pressure.
 
 These are the most common causes for a washing machine not taking water. If you are still having issues, then it is best to contact a professional for help. They will be able to inspect the machine and identify the issue, so that you can get your laundry done as soon as possible.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

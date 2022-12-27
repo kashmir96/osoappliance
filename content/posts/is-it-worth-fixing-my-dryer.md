@@ -24,3 +24,5 @@ You should also think about how often you use your dryer, as this will have an e
 Finally, think about how important having a working dryer is for your lifestyle - do you have any other options for drying clothes such as hanging them up outside or using an alternate appliance? If not, then investing in repairs might be worthwhile since not being able to get by without one could cause major inconveniences in your life. 
 
 Ultimately, deciding whether or not to fix your dryer comes down to personal preference and finances - there isn’t a one-size-fits-all answer for everyone since every situation is different. Consider all of these factors before making any hasty decisions so that you can make an informed decision that will benefit both your wallet and lifestyle!
+
+Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help you revive them with enthusiasm.

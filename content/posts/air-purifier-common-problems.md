@@ -25,3 +25,5 @@ Air purifiers are essential appliances that remove contaminants from the air in 
 
  
 All these tips should help you troubleshoot any issues related to your air purifier so that you get optimal performance out of it! If these tips don't seem effective enough then it's best advised contacting a professional technician who might prove useful in diagnosing & resolving deeper technical issues involved here!
+
+Is your appliance playing up? This collection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will get operations moving.

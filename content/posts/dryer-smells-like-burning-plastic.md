@@ -22,3 +22,5 @@ To prevent this from happening, it’s important to clean out your lint trap aft
 In some cases, a burning plastic smell may not be caused by lint buildup but instead by an electrical issue such as worn wiring or an overloaded circuit breaker. If you suspect this is the case, unplug your dryer immediately and call an electrician for assistance.
 
 No matter what’s causing your dryer to smell like burning plastic, it’s important to address it right away in order to prevent further damage and potential fire hazards. Make sure you clean out your lint traps regularly and check for any signs of wear on internal components so that you can keep your appliance running safely and efficiently for years to come!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

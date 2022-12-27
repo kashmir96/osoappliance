@@ -20,3 +20,5 @@ When it comes to dishwasher repair, there are many potential causes of a malfunc
 At Appliance Repair of Canton, we use only the highest quality parts and materials. We also use the latest diagnostic tools to ensure that your dishwasher is repaired properly. We can also provide advice on how to maintain your dishwasher and prevent future problems.
 
 If you’re in need of dishwasher repair in Canton, Michigan, don’t hesitate to give us a call. We’ll be happy to answer any questions you may have and provide you with a free estimate. We look forward to helping you get your dishwasher back in working order!
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help you resume operations.

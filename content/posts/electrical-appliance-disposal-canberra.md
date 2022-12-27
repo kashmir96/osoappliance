@@ -22,3 +22,5 @@ Alternatively, you can also contact your local council who may provide collectio
 If you’re looking to get rid of smaller electronic items such as phones and computers, then there are organisations such as MobileMuster who will collect these free-of-charge and recycle them appropriately. This helps prevent valuable resources from ending up in landfill sites where they could potentially cause environmental damage due to their hazardous components. 
 
 Finally, it’s important to remember that certain types of electrical waste must not be placed in regular rubbish bins as this can lead to potential health risks due to their hazardous components such as mercury, lead and cadmium which can leak out into the environment if not disposed of properly. Therefore, if you have any questions regarding your local regulations related to electrical appliance disposal then it would be best to contact your local council who should be ableto provide further advice on how best to dispose off these items safely and responsibly
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

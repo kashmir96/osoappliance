@@ -24,3 +24,5 @@ On the other hand, if your washing machine is older and the repair cost is high,
 Finally, if you are unable to find a replacement part for your washing machine, then it may not be worth it (or even possible) to repair your machine. In this case, you may be better off replacing your machine with a new one, as the effort of sourcing parts for the repair may be more than the cost of a new machine.
 
 Ultimately, the decision of whether it is worth repairing your washing machine is a personal one. Consider the age of your machine, the cost of the repair, and the availability of a replacement before making your decision.
+
+Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help you revive them with enthusiasm.

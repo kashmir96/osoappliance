@@ -20,3 +20,5 @@ Another potential issue is a clogged filter. The filter is responsible for catch
 Finally, the issue may be due to a faulty thermostat. The thermostat is responsible for regulating the temperature of the water in the dishwasher. If it is not working properly, it may not be able to accurately detect the temperature of the water, resulting in a lack of hot water.
 
 If your dishwasher isn't getting hot, it is important to identify and address the issue as soon as possible. If left unchecked, it can lead to a buildup of bacteria and other contaminants, which can be harmful to your health. If you need assistance diagnosing and repairing the issue, it is best to contact a professional.
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

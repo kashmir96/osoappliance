@@ -20,3 +20,5 @@ First off, there are a number of local appliance stores that carry a wide select
 In addition to local appliance stores, there are also online retailers that specialize in selling replacement dryer parts for all major brands. This is often a great option as these retailers tend to stock more obscure parts than local stores do. Plus, with online shopping it’s easier to compare prices between different retailers so that you can find the best deal possible on the part or service that you need. 
 
 Finally, if neither of these options works for you then it may be worth considering contacting a professional repair service in Christchurch who has experience working on dryers specifically. These services can be somewhat expensive but they offer expertise when it comes to diagnosing problems as well as sourcing hard-to-find spare parts quickly and efficiently – something which is invaluable when time is of the essence!
+
+Avoid breaking the bank on new appliances, just get <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> known to do a good job.

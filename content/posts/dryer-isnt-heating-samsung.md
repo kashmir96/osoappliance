@@ -26,3 +26,5 @@ If the air flow is not the issue, the next step is to check the heating element.
 Finally, if all else fails, it may be time to call a professional. A specialist Samsung dryer technician can diagnose the problem and provide the necessary repairs to get your dryer heating up again.
 
 No matter what the issue is, if your Samsung dryer isn't heating, there are steps you can take to troubleshoot the problem. Check the power cord, reset the dryer, check the air flow, and test the heating element. If all else fails, it may be time to call a professional.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

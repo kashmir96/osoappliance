@@ -24,3 +24,5 @@ Many local governments offer curbside recycling programs where you can place you
 When disposing of an air purifier it’s important to check with local authorities first as some areas have specific rules about how this type of appliance must be recycled or disposed of legally. Additionally, if possible you should remove any filters before sending the unit off for recycling as these may contain hazardous material such as asbestos which should not be released into the environment without proper precautions being taken first by qualified personnel who specialize in hazardous materials removal services. 
 
 By following these simple steps you can help ensure that your old air purifier does not end up polluting our planet when it finally reaches its end-of-life cycle!
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> make things run again.

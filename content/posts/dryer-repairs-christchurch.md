@@ -22,3 +22,5 @@ Next, ask your chosen technician about their availability. Some repair technicia
 Finally, check online reviews before making your decision on who to hire. Read up on customer experiences with different technicians – this will give you an idea of who is reliable and trustworthy when it comes to dryer repairs in Christchurch. You can also get an idea of pricing from these reviews; although prices may vary depending on the type of repair needed, getting a general sense of cost will help when making your decision! 
 
 We hope this blog post has helped you figure out how to pick the right person for dryer repairs in Christchurch! By following these tips and doing some research beforehand, you can ensure that you get quality service from reliable professionals who will get the job done quickly and efficiently. Good luck with finding a great technician for all your appliance needs!
+
+Is your appliance malfunctioning? This compilation of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will help get your appliance running like new

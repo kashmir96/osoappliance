@@ -24,3 +24,5 @@ If the bake element appears to be working properly, then you will need to check 
 Finally, if all else fails, you may need to replace your oven's control board. This board controls all of its functions including temperature settings and heating elements so if it's not working properly, it could be causing your oven not to heat up correctly. 
 
 In conclusion, if your oven isn't heating up correctly there are several possible causes ranging from a faulty power source or bake element all the way down to a malfunctioning control board. To diagnose and solve this problem it's best to consult with an experienced appliance technician who can help you identify which component is causing your oven not to heat up correctly and provide advice on how best to fix it.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

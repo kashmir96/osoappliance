@@ -25,4 +25,6 @@ Once all refrigerant gases have been removed from the unit, there are several wa
 
 3. Have It Hauled Away: If you don’t want to deal with transporting or disposing of your old air conditioner yourself, many companies offer hauling services that will come pick up large appliances from your home and dispose of them properly for a fee. This is often a convenient option for those who don’t have access to recycling centers or donation locations nearby. 
 
- No matter which option you choose for disposing of an old air conditioning unit, make sure that all safety precautions are taken into consideration before disposal takes place – especially when handling refrigerants! By following these guidelines you can help ensure that dangerous gases are not released into the atmosphere while also making sure that usable items don’t end up in landfills unnecessarily
+No matter which option you choose for disposing of an old air conditioning unit, make sure that all safety precautions are taken into consideration before disposal takes place – especially when handling refrigerants! By following these guidelines you can help ensure that dangerous gases are not released into the atmosphere while also making sure that usable items don’t end up in landfills unnecessarily
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

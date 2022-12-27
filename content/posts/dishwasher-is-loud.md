@@ -26,3 +26,5 @@ If you’ve noticed that your dishwasher is making a lot of noise, you should ha
 In the meantime, you can also try to reduce the noise by making sure that the dishwasher is properly balanced. Make sure that the dishes are evenly distributed in the dishwasher and that the spray arm is not blocked. You can also try adding a few rubber mats or pieces of foam to the bottom of the dishwasher to help reduce the noise. 
 
 A loud dishwasher can be a major annoyance, but with the right diagnosis and repairs, it can be fixed. If you’ve noticed that your dishwasher is making a lot of noise, contact a professional and have it inspected.
+
+Lengthen the lifespan of your appliances with <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> can help you renew them with energy.

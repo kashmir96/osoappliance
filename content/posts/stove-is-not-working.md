@@ -24,3 +24,5 @@ If neither of these components appears faulty, then you may have an issue with y
 Finally, if none of these steps have fixed your stove issue then it may be time for professional help from an appliance repair technician who can diagnose and repair any underlying issues with your appliance quickly and efficiently. 
 
 No matter what type of problem you’re having with your stove, it’s important to take steps towards troubleshooting it before calling in a professional repairman as this will help minimize costs associated with repairs down the line.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

@@ -22,3 +22,5 @@ Another potential cause of a dryer that won't start is a faulty thermal fuse. Th
 The last potential cause of a dryer that won't start is a faulty start switch. The start switch is responsible for sending an electrical signal to the motor when the dryer is turned on. If the start switch is faulty, then the dryer will not start. To test the start switch, you can use a multimeter to measure the voltage. If the voltage is low, then the start switch needs to be replaced.
 
 If your dryer tries to start but won't, then one of the above issues could be the cause. It is important to troubleshoot the issue and identify the cause before attempting to repair the dryer. If you are not confident in your ability to repair the dryer yourself, then it is best to contact a professional for assistance.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

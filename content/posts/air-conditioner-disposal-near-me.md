@@ -22,3 +22,5 @@ If these services aren’t available near you, then the next best option is to l
 Finally, if all else fails, then you can always contact an appliance removal service who will come out and haul away your old unit at a price that fits within your budget. These services often charge by the hour or by the piece so it pays off to shop around and compare prices before making a decision. 
 
 Regardless of which disposal method you choose, make sure that all refrigerant is safely removed from the unit before disposing it according to local regulations. Doing so will help keep our environment clean and safe for future generations!
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

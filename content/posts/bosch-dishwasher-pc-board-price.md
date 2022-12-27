@@ -20,3 +20,5 @@ A PCB is a board that contains interconnected electrical components and is used 
 Unfortunately, PCB repairs can often be costly. This is because repairing or replacing a PCB requires highly trained technicians who need to diagnose and fix any underlying problems with intricate precision and accuracy. The cost of these repairs can vary depending on the severity of any damage as well as on how hard it is to access the component that needs fixing within the machine itself. 
 
 The good news is that with proper maintenance, you should be able to minimize your chances of needing such costly repairs in the future by regularly cleaning your machine’s parts and filters, performing routine checks for signs of wear and tear, and making sure all its components are working properly. Doing this will help keep your Bosch dishwasher running smoothly for years to come!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> that'll help them them go another mile.

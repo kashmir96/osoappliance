@@ -13,8 +13,6 @@ cover:
 
 ---
 
-# Why buy second hand washing machine
-
 Buying a second-hand washing machine can be a great way to save money and still get a quality machine. There are a few things to consider when making this purchase, but overall, it can be a great choice.
 
 First of all, when buying a second-hand washing machine, it is important to do your research. Take the time to read reviews of the model you are considering, and make sure to ask the seller plenty of questions about the condition of the machine. This will help you make sure the machine is in good working condition and that it is a reliable investment.
@@ -26,3 +24,5 @@ Thirdly, buying a second-hand washing machine can potentially save money on repa
 Finally, buying a second-hand washing machine can be a great way to help the environment. By buying used, you are keeping an item out of the landfill and helping to reduce waste. This is an especially important consideration if you are looking to be more eco-friendly.
 
 Overall, buying a second-hand washing machine can be a great way to save money and help the environment. Just make sure to do your research and ask plenty of questions to make sure you are getting a quality machine.
+
+Is your appliance out of order? This series of <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> is going to help reactivate processes.

@@ -22,3 +22,5 @@ Another great place to find appliance parts in Christchurch is Smart Appliance P
 Finally, if you’re looking for a more budget-friendly option, you can try shopping at the Christchurch Salvage Centre. This business carries a wide selection of used and reconditioned appliance parts for all types of appliances. They also offer a two-year warranty on all products so you can shop with confidence.
 
 No matter what type of appliance you’re looking for parts for, you’re sure to find what you need in Christchurch. With a wide selection of local businesses and parts available, you’ll be able to find the right part for your appliance and get it fixed quickly and easily.
+
+Lengthen the lifespan of your appliances with <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> nearby that can take care of the job for you.

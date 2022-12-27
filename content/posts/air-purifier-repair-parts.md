@@ -25,4 +25,6 @@ Air purifiers are essential for maintaining a healthy indoor environment, especi
 
 5. Sensors: Sensors control how much power goes into fans and motors as well as other components within an air purifier system, such as UV lights or ionizers if they're present in yours too! If these sensors aren't functioning correctly then replacing them can help ensure that all components continue operating properly once again - just be sure to double-check which type works best for their specific model first before buying any replacements online! 
 
- With these five common parts available for purchase online and at stores near by, fixing up an old or malfunctioning air filter shouldn't be too difficult at all - just make sure that each part ordered is compatible with its respective model beforehand so nothing gets wasted during installation either way!
+With these five common parts available for purchase online and at stores near by, fixing up an old or malfunctioning air filter shouldn't be too difficult at all - just make sure that each part ordered is compatible with its respective model beforehand so nothing gets wasted during installation either way!
+
+Is your appliance on the blink? This selection of <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers in new zealand</a> should help you energize them with freshness.

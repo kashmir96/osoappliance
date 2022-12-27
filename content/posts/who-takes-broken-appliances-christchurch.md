@@ -26,3 +26,5 @@ You can also contact a local appliance repair service. Many repair services spec
 Finally, you can also try to sell your broken appliance. There are a number of online marketplaces, such as Trade Me, where you can list your appliance and see if anyone is interested in buying it. This can be a great way to get some money back for your broken appliance and put it to good use. 
 
 No matter what you decide to do, there are a number of ways to get rid of your broken appliances in Christchurch. Whether you choose to donate, recycle, repair, or sell, you can help reduce the amount of waste that ends up in landfills and help the environment.
+
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.

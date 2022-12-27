@@ -26,3 +26,5 @@ If your dishwasher won't open, it can be a frustrating experience. Fortunately, 
 5. The hinges are worn out: Over time, hinges can wear out and become loose, preventing the door from opening properly. If this is the case, you will need to replace the hinges with new ones that are compatible with your model of dishwasher.
 
 By following these steps, you should be able to get your dishwasher door open again in no time!
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is going to help reactivate processes.

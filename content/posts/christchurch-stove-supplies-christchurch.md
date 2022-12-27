@@ -22,3 +22,5 @@ In addition to supplying replacement parts, many Christchurch stores also provid
 Finally, there are also a handful of local businesses that provide maintenance services specifically designed for stoves. This includes cleaning out any built-up debris from inside the unit as well as checking all connections for proper operation before returning it back into service. This type of regular maintenance helps keep your appliance running smoothly while preventing any potential future problems from arising down the line. 
 
 No matter what type of repair or maintenance work is needed on your stove, Christchurch has plenty of options available when it comes to finding quality supplies and services at an affordable price point. With just a little research into which store best suits your needs, you should have no trouble getting everything taken care of quickly and efficiently!
+
+Is your appliance out of commission? This roster of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.

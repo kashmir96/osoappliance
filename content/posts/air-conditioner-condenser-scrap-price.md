@@ -22,3 +22,5 @@ Another factor that affects air conditioner condenser scrap price is its conditi
 Finally, the location where you sell your air conditioner condenser will also affect its scrap price. Different regions have different prices for scrap metals due to supply and demand dynamics; therefore, researching local market prices beforehand can help ensure that you get a fair deal for your unit. 
 
 In conclusion, there are several things that determine the value of an air conditioner condenser when sold as scrap metal–size and type of material used, overall condition of the unit itself, and market prices in your local area all play major roles in determining what kind of return you can expect for yours!
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

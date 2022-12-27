@@ -26,3 +26,5 @@ The third error code to be aware of is IE or “INLET ERROR” code. This usuall
 Finally, we have LE or “LEAK ERROR CODE” which typically occurs due to excessive amounts of soap suds accumulating inside the drum during washing cycles and spilling over onto other components in their vicinity such as a control panel etc..This can be fixed by reducing laundry detergent usage when running washing cycles on your device and making sure not to overload it with too many clothes at one time as well! 
 
 If any other issues arise with respect to these Samsung washing machine errors in New Zealand then do not hesitate to contact customer service for more information about them! They will be able to provide further assistance in identifying what might be wrong with your machine and how best it can resolved so you can get back up & running without delay once more!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> revamp your appliances.

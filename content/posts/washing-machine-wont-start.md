@@ -28,3 +28,5 @@ If the timer and settings are correct, check the water supply. Make sure the wat
 Finally, check the drain hose. Make sure the drain hose is not clogged or kinked. If the hose is clogged, clear the blockage and try again.
 
 If none of these steps solve the problem, it may be time to call a repairman. Washing machines can be complex, and a professional may be able to diagnose and fix the issue.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

@@ -28,3 +28,5 @@ Another option is to post on marketplace advertising free scrap, where people ca
 Finally, you could also contact an appliance repair company. These companies may be able to repair the appliance, or they may be able to salvage parts from it. In either case, this is a great way to make sure that your old appliance doesn’t end up in a landfill and to help people out who might need some extra cash.
 
 No matter which option you choose, it’s important to make sure that you dispose of your appliances responsibly. Not only will this help to protect the environment, but it will also help to keep everyone in your neighbourhood safe.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

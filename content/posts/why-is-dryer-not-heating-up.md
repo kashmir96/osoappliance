@@ -22,3 +22,6 @@ Another possible cause of a non-heating dryer is a clogged vent or lint filter. 
 Finally, if none of these issues are present, there might be an issue with the motor or belt in your dryer. The motor is responsible for powering the drum and belt that turn during a cycle; if either of these components isn’t working correctly, they won’t generate enough heat for drying clothes effectively. 
 
 If you suspect any of these issues may be causing your dryer not to heat up properly, we recommend calling a professional technician for help with repairs or replacements. A technician will be able to diagnose and fix any issues quickly and safely so you can get back to drying your laundry as soon as possible!
+
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

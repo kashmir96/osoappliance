@@ -24,3 +24,5 @@ You may also find that certain dishes take longer than others due to their size 
 Finally, poor insulation can cause slow cooking times as well; if your oven isn’t properly insulated with thick walls and a tight-fitting door seal, heat can escape which could lead to uneven temperatures and overall long cooktimes. If this might be an issue with your model of oven, consider investing in some high-quality insulation materials so you can get back on track with all those delicious dishes! 
 
 Overall, understanding why your oven takes so long to cook food can help you better prepare meals and avoid any delays in dinner time!
+
+Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians-in-auckland/">appliance repair technicians in auckland</a> bring them back from the dead.

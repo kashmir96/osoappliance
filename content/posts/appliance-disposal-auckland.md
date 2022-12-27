@@ -24,3 +24,5 @@ You may also find that some businesses will offer free disposal services for cer
 Finally, there are also some specialist recycling centres around Auckland that accept appliances and electronic items for responsible disposal at no charge (although fees may apply depending on the size/weight of the item). These facilities follow strict guidelines when disposing of these items so make sure you check what they require before taking yours down there – most require proof of ownership such as a receipt or invoice so have these ready when making enquiries! 
 
 In conclusion, appliance disposal in Auckland doesn't need to be difficult or expensive! There are plenty of options available depending on whether you're looking at donating, giving away or responsibly disposing your unwanted goods - just make sure you research all available options first so that whatever method(s) chosen ensure minimal environmental impact while keeping costs low too!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

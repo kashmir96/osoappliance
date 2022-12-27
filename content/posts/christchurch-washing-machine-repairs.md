@@ -26,3 +26,5 @@ If you live in Christchurch and are in need of washing machine repair, you may w
 5. Ask questions about how long it will take them to complete the job and what type of parts they use in order to determine if they are qualified enough for the job at hand - this will also give you peace of mind knowing that your appliance is being repaired by someone who knows what they’re doing! 
 
 Choosing a good Christchurch washing machine repair technician doesn’t have to be difficult – just use these tips as guidelines when selecting one! Good luck with finding the right professional for your needs!
+
+You don't need to buy new appliances, you can just get <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.

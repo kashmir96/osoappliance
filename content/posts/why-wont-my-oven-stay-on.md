@@ -24,3 +24,5 @@ Another potential cause is a faulty wiring connection. If the wiring connections
 Finally, your oven may not be staying on because it is not receiving enough power. If this is the case, you may need to check your circuit breaker and make sure it is not tripped. If it is, you will need to reset it in order to restore power to the oven.
 
 If your oven won’t stay on, it could be due to one of these potential causes. To determine the cause, you may need to inspect the wiring connections, check the thermostat, and inspect the heating element. Once you have identified the cause, you can take the necessary steps to fix the problem.
+
+Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> who will restore functionality.

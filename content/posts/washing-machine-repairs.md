@@ -24,3 +24,5 @@ Another common issue with washing machines is noise during operation which can i
 Finally, if your washer isn't spinning correctly then this could indicate a broken drive belt or motor failure - both of which require professional assistance for repair depending on exactly what's wrong with them! Make sure you take note of any error codes displayed on display board (if applicable) as these codes will give technicians vital information about what's actually wrong inside your machine so they can get started on fixing it quickly! 
 
 By following these tips for basic washing machine repairs and paying attention to possible warning signs such as vibrations or strange noises during operation, you should be able to identify potential problems early on and avoid major breakdowns down the line by getting them fixed promptly by professionals who specialize in appliance repair services!
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

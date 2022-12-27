@@ -13,8 +13,6 @@ cover:
 
 ---
 
-# Broken washing machine door
-
 If you have ever had a broken washing machine door, you know it can be quite an inconvenience. It can also be dangerous if your washing machine is left in an unsecured position. In this blog, we’ll discuss the most common causes of a broken washing machine door and how you can fix the issue.
 
 One of the most common causes of a broken washing machine door is the door latch. This is the piece of metal that connects the door to the main body of the washing machine and stops it from opening while the machine is in operation. Over time, the latch can become worn or bent from normal use, making it ineffective at keeping the door closed.
@@ -28,3 +26,5 @@ Another potential cause is a damaged door hinge. If the hinge is loose or bent, 
 Finally, a broken washing machine door can also be caused by a faulty gasket. This is the rubber seal located around the door frame, and it can become worn or cracked over time. If this is the case, you’ll need to replace the gasket with a new one, which is available at most hardware stores.
 
 We hope this blog has given you a better understanding of how to fix a broken washing machine door. If you’re still not sure what to do, it’s best to call a professional for assistance.
+
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.

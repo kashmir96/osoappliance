@@ -22,3 +22,5 @@ Another possible issue is that the burner caps are not aligned properly or have 
 If neither of these solutions works, it could be an indication that there is an issue with the gas supply itself. If this is the case, it’s best to contact a professional to diagnose and repair any potential problems with your system. 
 
 In short, if your gas stove won’t light it could be due to a variety of reasons such as a pilot light that has gone out or burner caps that are misaligned or clogged. Taking steps like relighting the pilot light or cleaning burner caps can often solve these issues without needing professional help. However, if none of these solutions work it may be time to call in an expert to take a look at your system and make sure everything is running smoothly once again!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

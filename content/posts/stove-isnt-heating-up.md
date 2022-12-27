@@ -24,3 +24,5 @@ If these steps don’t work, it’s possible that there is an issue with the ign
 Finally, if none of these solutions seem to work, it’s possible that there is an issue with your gas line or regulator valve. In this case, you should contact a qualified technician immediately for assistance. 
 
 No matter what issue you’re having with your stove not heating up properly, there are some steps you can take to try and solve the problem yourself before calling in a professional. Start by making sure all of the burners and knobs are clean and in working order before moving on to more complicated repairs like checking for issues with the igniter or pilot light.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

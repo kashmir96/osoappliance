@@ -22,3 +22,5 @@ If your heating elements look fine, then it's time to check your thermostat and 
 Finally, if all else fails, it's time to call in a professional repairman to take a look at your oven. Be sure to tell them exactly what steps you've taken so far so they can quickly identify and fix the problem for you. 
 
 By following these steps, you should be able to troubleshoot why your oven isn't heating up and get back to cooking delicious meals in no time!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is going to help reactivate processes.

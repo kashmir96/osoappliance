@@ -24,3 +24,5 @@ In addition to the weed-like smell, a blocked dryer vent can also cause the drye
 If you’ve already cleaned out the lint filter and the vent and the smell is still there, it could be a sign of a bigger problem, such as a broken heating element or a faulty thermostat. If this is the case, it’s important to have a professional take a look at your dryer to determine the cause of the problem and make the necessary repairs.
 
 In conclusion, if your dryer smells like weed, it’s likely due to a buildup of lint in the dryer vent. To prevent this from happening, it’s important to clean out the lint filter after each use and to clean out the vent at least once a year. If the smell persists after cleaning, it could be a sign of a bigger problem, and it’s important to have a professional take a look at your dryer.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

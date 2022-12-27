@@ -22,3 +22,5 @@ Another possible cause of shrinking is over-drying. This happens when clothes ar
 Finally, improper washing can also lead to shrunken clothing. Using hot water when washing delicate fabrics such as silk or rayon can cause them to shrink when placed in the dryer later on down the line. To prevent this from happening, make sure you always use cold water when laundering these types of garments and opt for air-drying whenever possible. 
 
 In conclusion, there are several reasons why our clothes may shrink in the dryer – from using high temperatures during drying cycles to improper washing practices – but thankfully there are ways to avoid this issue altogether! By following care instructions on clothing labels and setting your dryer timer accordingly (or air-drying whenever possible) you can help ensure that your favorite garments stay looking good for years to come!
+
+Get your appliances to go even further with <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will restore functionality.

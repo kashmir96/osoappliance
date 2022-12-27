@@ -20,3 +20,5 @@ The main reason why your dishwasher drains into the sink is because there isn’
 Fortunately, there are some simple steps you can take to prevent this issue from happening in the future. The most common solution is to install an air gap between your sink and dishwasher. This will create a barrier between them, ensuring that no contaminated water can flow back up into your pipes or sink. Additionally, if you already have an air gap installed but it’s not working properly or has become clogged, then you should clean it out or replace it with a new one to ensure proper drainage of dirty water from your dishwasher. 
 
 In conclusion, if you notice that your dishwasher drains into the sink then it means that there isn’t an air gap installed between them. To remedy this problem, simply install an air gap or clean/replace any existing ones so as to prevent any contaminated water from flowing back up into your pipes or sink.
+
+Get your appliances to go even further with <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will restore functionality.

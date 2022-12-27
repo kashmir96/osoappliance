@@ -22,3 +22,5 @@ Another possible cause of shattered glass is mechanical shock, which occurs when
 Finally, some types of oven glass may not be able to withstand extreme temperatures for long periods of time, especially if they're old or have been exposed to a lot of heat over time. If this is the case, then even normal use of your oven could eventually cause the glass to shatter.
 
 No matter what caused your oven's glass door to shatter, it's important that you replace it as soon as possible for safety reasons. Make sure that you purchase an appropriate replacement from your manufacturer or an authorized retailer and follow all instructions for installation carefully so that it doesn't happen again.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

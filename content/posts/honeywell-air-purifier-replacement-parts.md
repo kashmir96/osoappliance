@@ -22,3 +22,5 @@ Once you have identified which part needs replacing, you can either purchase a g
 It is also important to make sure that all necessary components are included with the replacement part before installation begins. Some components such as pre-filters may need changing more frequently than others; if this isn’t indicated in the manual, contact customer service for advice on when these should be changed and what should be included in the package when buying a replacement part. 
 
 Finally, always follow installation instructions carefully as improper installation can cause further damage or even void your warranty! If in doubt about anything, contact customer service for help - they will be able to provide advice on how best to install and use your new part correctly so as not to void any warranties or damage any other components of your unit.. Once installed correctly, enjoy clean air knowing that your Honeywell Air Purifier is working at its full potential!
+
+Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help you resume operations.

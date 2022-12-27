@@ -20,3 +20,5 @@ Our team of skilled technicians have years of experience in resolving all types 
 We also offer preventative maintenance services such as filter cleaning, belt replacement, lubrication checks and more. This ensures that your appliances remain in good working order while helping extend their lifespan. In addition to our comprehensive repairs, we also provide a range of installation services for new or replacement appliances including dishwashers, microwaves and ovens. 
 
 At Burnaby Appliance Repair we take pride in offering fast response times at competitive rates. Our goal is always 100% customer satisfaction so if you’re ever unsatisfied with our work or service then just let us know—we’ll make it right! For more information about our appliance repair services or any other questions please don’t hesitate to contact us today!
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> inject new vigor into them.

@@ -22,3 +22,5 @@ Once you’ve found a company that meets your needs in terms of price and qualit
 When purchasing washing machine spares in Christchurch it is important to make sure they are compatible with your specific model of washing machine. This information can usually be found on the manufacturer's website or by contacting their customer service team directly if needed. Additionally, make sure any replacement parts come with a warranty so you have peace of mind knowing that they will last for years to come! 
 
 Finding the right washing machine spares in Christchurch doesn't have to be difficult if you know where to look! With these tips in mind, you should have no problem finding exactly what you need at a price that fits your budget. Good luck on your repair project!
+
+Get your appliances to go even further with <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> breathe new life into them.

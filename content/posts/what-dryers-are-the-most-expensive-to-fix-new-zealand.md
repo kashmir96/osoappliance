@@ -22,3 +22,5 @@ In addition to the cost of the parts, the labor required to repair a top-of-the-
 Finally, the cost of the repair can also be affected by the availability of parts. If the parts are not readily available, the technician may need to order them from overseas, which can add to the cost of the repair.
 
 Overall, the most expensive dryers to fix in New Zealand are usually the top-of-the-line models. These models typically require more specialized parts and labor to repair, and the cost of the repair can be affected by the availability of parts. If you are looking to purchase a dryer, it is important to consider the cost of repair before making a decision.
+
+When your appliances aren't working as they should, you can get help from a free directory of local services. This list will help you make your life easier and get your appliance running like new. You don't need to buy new appliances, you can just get the help you need to make your appliances last longer. <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> that operate in your area.

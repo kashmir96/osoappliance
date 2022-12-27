@@ -23,3 +23,5 @@ Most states require electrical appliance technicians to have completed high scho
 
 Tips For Finding a Reputable Technician 
 When looking for a reputable electrician it is important that you take into consideration both experience level and certifications/licensure held by potential candidates – both of these criteria will help ensure quality workmanship! You should also read reviews from previous customers online or ask friends/family members who have hired technicians before about their experiences with certain companies/individuals so you can get an idea of how reliable they are when it comes time for repairs/installations on your own equipment! Finally make sure that any company you consider hiring has liability insurance just incase something goes wrong during repairs; this way any damages caused due to negligence can be covered without issue!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

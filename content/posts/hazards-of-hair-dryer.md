@@ -1,6 +1,6 @@
 ---
 
-title: Nazards Of Hair Dryer
+title: Hazards Of Hair Dryer
 description: "Hair dryers can be a convenient way to style your hair, but they can also be dangerous if used incorrectly. Hair dryers generate h...take a moment to check it out "
 keywords: hair dryer
 publishDate: 12/21/2022

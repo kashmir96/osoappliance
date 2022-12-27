@@ -24,3 +24,5 @@ Another possible cause of burnt clothes smell is a faulty heating element. If th
 Finally, another possible cause of burnt clothes smell is a blocked exhaust vent. If the exhaust vent is blocked, it can cause the dryer to overheat, leading to burnt clothes smell. To prevent this, make sure to check the exhaust vent for blockages every few months.
 
 If your clothes still smell burnt after cleaning the lint trap, inspecting the heating element, and checking the exhaust vent, it’s best to call a professional for help. A professional can help you identify the cause of the issue and get your dryer back in working order.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

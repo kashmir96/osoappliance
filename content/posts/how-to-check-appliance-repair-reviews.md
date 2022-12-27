@@ -32,3 +32,5 @@ There are several benefits of reading through these online reviews before making
  - And most importantly – you’ll be able to make sure your investment pays off in terms of quality repairs! 
  
 Overall, reading through online appliance repair reviews will give you an idea of how reliable certain companies are when it comes time for you need repairs done on any household appliances!
+
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> that will kick things back into gear.

@@ -22,3 +22,5 @@ If you notice an electrical smell coming from your blender after unplugging it, 
 It’s important to make sure that you keep up with regular maintenance on your blender so that any potential issues are caught before they become dangerous. Be sure to routinely check for frayed wires and cracks in connections as well as wiping down all surfaces with a damp cloth every few weeks to remove any debris buildup around the motor area and blades. 
 
 By following these tips and being mindful of any strange smells coming from your blender, you can help ensure its safe operation for many years to come!
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

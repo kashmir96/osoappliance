@@ -20,3 +20,5 @@ The most expensive washing machines to fix in New Zealand are typically those fr
 Other factors that can affect the cost of repairs include the age of the machine, the availability of parts, and the complexity of the repair. For example, a repair that requires the replacement of a major component such as the motor or transmission can be significantly more expensive than a simple repair like replacing a hose or valve.
 
 In general, it is best to research the cost of repairs for different models before making a purchase. This will help ensure that you are making an informed decision and that you are not overpaying for a repair. Additionally, it is important to maintain your washing machine regularly to reduce the likelihood of needing a costly repair.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

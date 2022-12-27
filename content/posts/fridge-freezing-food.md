@@ -26,3 +26,5 @@ If you’ve noticed that your fridge is freezing your food, then you’re probab
 4. Check the fan. The fan in the fridge helps to circulate the cold air and keep the temperature even. If the fan is not working properly, then it could be causing the food to freeze. Check the fan for any blockages or damage and replace it if necessary.
 
 By following these steps, you should be able to stop your fridge from freezing your food. If you’re still having problems, then you may need to call in a professional to take a look.
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> that'll help them them go another mile.

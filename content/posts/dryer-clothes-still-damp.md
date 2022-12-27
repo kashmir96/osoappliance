@@ -22,3 +22,5 @@ Another possible cause of damp clothes is a blocked vent. The vent is the pipe t
 Finally, if your dryer is old or has seen better days, it may simply be too weak to dry your clothes. If this is the case, you may need to invest in a new dryer.
 
 By following these steps, you should be able to solve the mystery of why your dryer clothes are still damp.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

@@ -26,3 +26,5 @@ Mold and mildew can also cause a funny smell in your dryer. This can typically b
 Finally, it's possible that your dryer's heating element could be the source of the smell. If this is the case, it's important to have the issue addressed immediately, as it could be a fire hazard.
 
 The best way to address any funny smells coming from your dryer is to inspect and clean it regularly. If the smell persists, it's best to contact a professional to have them diagnose and fix any underlying issues.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

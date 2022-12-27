@@ -26,3 +26,5 @@ Finally, check the belt. The belt is responsible for connecting the motor to the
 If you’ve checked all of these components and the vacuum still isn’t spinning, it’s possible that the motor is damaged and needs to be replaced. If this is the case, you will need to take the vacuum to a repair shop. 
 
 We hope this blog has helped you understand why your Dyson vacuum isn’t spinning and how to fix it. If you’re still having trouble, contact a local repair shop for assistance.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

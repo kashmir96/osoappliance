@@ -24,3 +24,5 @@ The brand of a dishwasher also affects its price. High-end brands like Bosch and
 Finally, the price of a dishwasher is also determined by its energy efficiency. Energy Star-certified dishwashers tend to cost more upfront, but you’ll save money in the long run thanks to lower energy bills.
 
 When shopping for a dishwasher, it’s important to consider your budget and your needs. Determine what size dishwasher you need, what type of dishwasher is best for your space, and what features are most important to you. Then, you can compare prices and find the best dishwasher for your budget.
+
+Make things easier on yourself by finding local <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers</a> nearby that can take care of the job for you.

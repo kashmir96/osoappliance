@@ -22,3 +22,5 @@ The most valuable parts of an air conditioner are usually its copper tubing, alu
 Once you have all of your parts separated out, you will need to take them to a local scrap yard or recycling center to be weighed and priced accordingly. Most places will pay by cash or check on site, but some may require payment via PayPal or direct deposit into your bank account. Be sure to ask about payment methods before bringing in your materials so there are no surprises when you arrive!
 
 Scrapping an old air conditioner is a great way to earn some extra money while also doing something good for the environment by recycling materials that would otherwise end up in landfills or oceans. With the right approach and a bit of research into current market prices, you could make up to $50 per ton from scrapping your old AC unit!
+
+Is your appliance on the blink? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help you inspire them with newness.

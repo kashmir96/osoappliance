@@ -20,3 +20,5 @@ When this happens, it’s important to take action right away. First, turn off t
 If any of the melted plastic has stuck to surfaces inside your oven, you may be able to clean it off with some elbow grease and an abrasive cleaner such as baking soda or Bon Ami powder. If that doesn’t work, you might need to call an appliance repair technician for help cleaning up any stubborn residue.
 
 Burning plastic isn’t just unpleasant; it can be dangerous as well since toxic fumes may be released when something melts down inside an enclosed space like an oven cavity. To prevent this from happening again in the future, double check that all containers, utensils and other items are removed from your oven before turning it on or preheating it for baking or roasting purposes.
+
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help revitalize them.

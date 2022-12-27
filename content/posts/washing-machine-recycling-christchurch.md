@@ -22,3 +22,5 @@ Once collected by the city council, your old appliance will be sent to a local r
 Recycling washing machines in Christchurch also helps to protect our environment by reducing carbon emissions associated with producing new appliances from scratch. By reusing existing materials, manufacturers are able to reduce their energy consumption significantly – resulting in fewer greenhouse gas emissions being released into our atmosphere each year. 
 
 At Waste Management NZ we understand how important it is to dispose of your unwanted household appliances responsibly – which is why we offer a range of specialist services tailored specifically for washing machine recycling in Christchurch. Our team have years of experience dealing with all kinds of electronic waste and we always strive to ensure that all items are recycled safely and correctly before they reach their final destination – helping us all work towards a greener future!
+
+Is your appliance out of order? This series of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will do the job to reinvigorate them with zest.

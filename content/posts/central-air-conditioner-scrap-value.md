@@ -25,4 +25,6 @@ When it comes time to sell your old central air conditioning unit for scrap, the
 - Is there any refrigerant gas still present in the system? Refrigerant gas must be removed safely before scrapping an AC unit; 
 - What type of metal is used in its construction? Knowing this can help you get an accurate estimate of its worth at a local scrap yard; 
 
- Central air conditioners generally have good scrap value due to their high percentage of metal content but this can vary greatly depending on age, model type, size, and current market prices for metals like copper and aluminum. Before disposing of your old AC unit make sure that you research local scrap yard prices so that you get top dollar when selling it for scrap – especially if your unit contains valuable materials like copper tubing or brass valves!
+Central air conditioners generally have good scrap value due to their high percentage of metal content but this can vary greatly depending on age, model type, size, and current market prices for metals like copper and aluminum. Before disposing of your old AC unit make sure that you research local scrap yard prices so that you get top dollar when selling it for scrap – especially if your unit contains valuable materials like copper tubing or brass valves!
+
+Is your appliance out of commission? This roster of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> breathe new life into them.

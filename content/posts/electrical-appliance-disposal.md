@@ -25,4 +25,6 @@ Here are some tips for proper electrical appliance disposal:
 
 4. Look into recycling options: If you don’t want to donate or throw away your old appliance, consider looking into recycling options instead! A lot of companies offer free pickup services for recycling unwanted items like computers, TVs, radios, and more! 
 
- Following these steps will help ensure that your old electrical appliances are disposed of safely and responsibly without posing any risk to the environment or people around you!
+Following these steps will help ensure that your old electrical appliances are disposed of safely and responsibly without posing any risk to the environment or people around you!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

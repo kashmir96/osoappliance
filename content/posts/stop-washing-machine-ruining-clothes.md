@@ -26,3 +26,5 @@ Washing machines are a great way to keep your clothes clean, but if you don't ta
 5. Don’t overload your washing machine. Overloading your machine can cause damage to your clothes and your machine. Make sure to follow the instructions in your machine’s manual and only put in the recommended amount of clothes.
 
 By following these tips, you can help prevent your washing machine from ruining your clothes. Taking the time to care for your washing machine and your clothes will help ensure that they last longer and look better.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

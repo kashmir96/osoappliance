@@ -13,8 +13,6 @@ cover:
 
 ---
 
-# Condenser dryer not collecting water
-
 When you're trying to dry your laundry, the last thing you want is for the condenser dryer not to collect water. But unfortunately, this is a common problem. So what causes it, and what can you do about it?
 
 The main reason why a condenser dryer may not be collecting water is because the condenser itself is blocked or clogged. This could be caused by lint that has built up over time, or it could be due to dirt and debris that has collected in the condenser unit. In either case, the result is that the water won’t be able to flow through the condenser, and the dryer won’t be able to do its job.
@@ -26,3 +24,5 @@ Another possible cause of a condenser dryer not collecting water is a clogged dr
 Finally, the last possible cause of a condenser dryer not collecting water is a faulty drain pump. If the pump is not working correctly, then the water won’t be able to flow through the condenser as it should. To fix this problem, you will need to replace the pump–if you're not an avid DIYer it's recommended you get an expert, dealing with electrical equipment is dangerous and could put yourself, the dryer and your entire house at risk.
 
 If your condenser dryer is not collecting water, then these are the most likely causes. The best thing you can do is to try and clean out the condenser, check the drain hose for any clogs, and replace the pump if necessary. If you’re still having issues, then you may need to call in a professional repair service.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is helpful to rekindle them with excitement.

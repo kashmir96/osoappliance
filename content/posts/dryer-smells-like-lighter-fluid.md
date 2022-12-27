@@ -22,3 +22,5 @@ Another potential cause of a dryer smelling like lighter fluid is a faulty gas v
 Finally, it’s possible that the smell of lighter fluid is coming from the dryer fabric softener. If you use fabric softener in your dryer, it can leave behind a residue that smells like lighter fluid. To get rid of this smell, you can clean the lint filter and then run an empty cycle with a cup of white vinegar in the dryer. This will help to remove any residue that is left behind.
 
 If your dryer smells like lighter fluid, it’s important to take action immediately. Check the lint filter, clean it out, and make sure the gas valve is functioning properly. If the smell persists, you may need to call a professional for help.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

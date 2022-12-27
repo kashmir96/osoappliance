@@ -13,8 +13,6 @@ cover:
 
 ---
 
-# Fridge wont make ice
-
 If your refrigerator is not making ice, it can be a frustrating experience. Fortunately, there are a few simple steps that you can take to troubleshoot the issue and get your fridge back up and running in no time. 
 
 1) Check the Ice Maker: The first thing to do is check if the ice maker itself is functioning properly. Look to see if the “on/off” switch on the side of the ice maker is in the “on” position and that it has power. If not, flip it to “on” and make sure it has power. If this does not solve your problem, proceed to step two below. 
@@ -28,3 +26,5 @@ If your refrigerator is not making ice, it can be a frustrating experience. Fort
 5) Get in touch with a repairman or technician: If none of the above steps have solved your problem, it may be time to get in touch with a repairman or technician to take a look at your refrigerator and diagnose the issue. They will be able to identify any underlying issues and provide you with the necessary repairs to get your fridge back up and running. 
 
 Following these steps should help solve any issue you may have with your refrigerator not making ice properly!
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> that'll help them them go another mile.

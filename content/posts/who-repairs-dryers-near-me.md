@@ -24,3 +24,5 @@ Once you've narrowed down your list of potential technicians, make sure to ask q
 Finally, make sure that any technician you hire is properly licensed and insured. This will ensure that they are able to provide quality work and follow safety protocols while working on your appliance. 
 
 Finding a reliable and experienced technician for dryer repair near you isn't always easy, but with a bit of research and patience, it is possible!
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

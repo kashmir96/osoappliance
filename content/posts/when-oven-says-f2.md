@@ -18,3 +18,5 @@ If your oven is displaying the error code "F2," it could mean one of two things.
 The second reason for an F2 error code is that there may be a wiring issue in the oven's control board. This issue could be due to a faulty connection or short circuit, and will require professional repair or replacement of the control board. It's important not to attempt any fixes yourself as this could cause further damage to your appliance. 
 
 If you're experiencing an F2 error code on your oven, it's important to contact a qualified appliance technician for help in diagnosing and fixing the issue as soon as possible.
+
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help revitalize them.

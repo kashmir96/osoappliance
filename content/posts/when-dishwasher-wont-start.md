@@ -20,3 +20,5 @@ First, check the power source. Make sure that the dishwasher is plugged in and t
 Next, check for any blockages in the door latch or spray arms. A blockage can prevent the door from closing properly, preventing it from starting. You'll also want to make sure that there are no kinks in the water lines leading to or from your dishwasher as this can also prevent proper operation.
 
 If these checks don't help, then you may need to look at resetting your dishwasher's control board or replacing its heating element if it has one. If all else fails, consult an appliance repair professional for help diagnosing and fixing your dishwasher's issue
+
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help revitalize them.

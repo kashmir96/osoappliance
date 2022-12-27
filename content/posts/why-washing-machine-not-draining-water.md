@@ -26,3 +26,5 @@ If the drain hose and pump are clear, the next step is to check the drain pump. 
 Finally, if the drain pump is in good condition, the last thing to check is the wiring. Make sure all of the wires are securely connected, as a loose connection could be preventing the washing machine from draining properly. 
 
 If you’ve tried all of these solutions and the washing machine still isn’t draining, it’s time to call in a professional. A technician can diagnose the problem and get your washing machine draining again in no time.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

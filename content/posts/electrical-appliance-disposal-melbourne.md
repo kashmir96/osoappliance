@@ -24,3 +24,5 @@ You can also contact your local council or waste management company who may prov
 Finally if none of these options are suitable then it’s important to ensure that all hazardous materials have been removed before simply disposing of the appliance properly at a landfill site – always check with your local council first as there may be restrictions on what type of material can be taken here. 
 
 In conclusion it’s important that we all do our part in responsibly disposing any old electrical appliances in Melbourne – by following the steps outlined above you should have no trouble getting rid of your unwanted items safely!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

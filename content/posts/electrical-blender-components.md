@@ -24,3 +24,5 @@ The blade assembly is what does all of the work inside your electric blender. De
 Finally, electrical blenders require power cords in order to connect them to an outlet for power supply – these cords usually plug into either a wall outlet or countertop outlet depending on where you plan on using your blender regularly (e.g., kitchen countertop). It’s important not only to use high-quality power cords but also check them regularly for signs of wear and tear so they remain safe while in use! 
 
 Knowing how each component works together can help you troubleshoot any problems that arise with your electrical blender more easily — now you know what makes up this common kitchen appliance!
+
+Make things easier on yourself by finding local <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers</a> nearby that can take care of the job for you.

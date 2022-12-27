@@ -22,3 +22,5 @@ Fortunately, the steps to prevent and remove mold from your dishwasher are relat
 If you’ve already noticed mold in your dishwasher, there are a few steps you can take to remove it. First, remove any standing water by running the dishwasher on a full cycle. Next, mix a solution of one part bleach to 10 parts water and use a cloth or brush to scrub away the mold. Finally, rinse the interior of the dishwasher with hot water and let it dry completely before running another cycle.
 
 By taking the proper steps to maintain your dishwasher, you can help keep mold away and ensure your dishes are clean and safe.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

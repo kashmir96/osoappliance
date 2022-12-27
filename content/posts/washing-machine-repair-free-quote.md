@@ -24,3 +24,5 @@ Once your inspection is complete and all required repairs have been identified, 
 In addition to free quotes, some companies may also offer discounts or other incentives if you choose to have your washing machine repaired with them. Be sure to ask about any special offers they may have when requesting your free quote so that you can get the most value out of your repair project.
 
 With these tips in mind, you should now be able to get a good idea of what it will cost to repair your washing machine and be able to shop around for the best deal possible. Good luck!
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> inject new vigor into them.

@@ -22,3 +22,5 @@ Another common cause of washing machine shaking is an uneven floor. Washing mach
 Finally, a worn-out suspension system can also be the cause of washing machine shaking. The suspension system is designed to absorb the shock of the spinning cycle, but it can wear out over time. If this is the case, the machine will need to be serviced and the suspension system replaced. 
 
 In conclusion, washing machine shaking can be caused by an unbalanced load, an uneven floor, or a worn-out suspension system. To fix the problem, rearrange the load, level the floor, or have the suspension system serviced and replaced.
+
+Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> who will restore functionality.

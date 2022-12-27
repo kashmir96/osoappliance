@@ -22,3 +22,5 @@ Another factor that influences the scrap value of window air conditioners is the
 Finally, where you decide to sell your window air conditioner can also impact its scrap value significantly. Local recyclers may be willing to pay more for bulk amounts than an individual buyer would offer for just one unit’s worth of components; however, if there’s not enough demand in your area for used AC parts then you may end up getting less money overall by selling off individual pieces online or at yard sales instead. 
 
 The exact scrap value of your window air conditioning unit will vary depending on all these factors mentioned above; however, most people can expect anywhere between $30 – $100 depending on how well they manage their sale process and who they choose as buyers/traders
+
+Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> who will restore functionality.

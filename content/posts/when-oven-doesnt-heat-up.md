@@ -22,3 +22,5 @@ Next, you’ll want to check the heating element or elements. They should both b
 Finally, if all else fails, you may need to replace your oven’s thermostat. This is a more involved task and should only be done by someone who has experience working with electrical appliances. If you don’t feel comfortable doing this yourself, call a qualified appliance repair technician for help. 
 
 By following these steps, you should be able to get your oven back up and running in no time!
+
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help revitalize them.

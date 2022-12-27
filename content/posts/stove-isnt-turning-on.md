@@ -22,3 +22,5 @@ Next, check for any blockages in the gas line. If there is a blockage in the gas
 If neither of these steps solves your problem, then it's likely that something is wrong with your stove itself. Check to make sure that all of the knobs are set properly and that none of them are stuck in place. If they are stuck or damaged, you may need to replace them. You may also need to check for any broken or loose wires or connections inside of your stove; if these are present, they could be preventing your stove from turning on properly. 
 
 Finally, if none of these steps solves your problem then you may need to contact a professional repair service for further assistance. A qualified technician can diagnose and repair any underlying issues with your stove so you can get it back up and running quickly and safely!
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

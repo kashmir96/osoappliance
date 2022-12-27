@@ -24,3 +24,5 @@ Another common cause of loud banging noises coming from your washing machine is 
 Sometimes loud noises coming from a washing machine are caused by worn out or damaged parts inside the appliance itself - such as components on its motor or drive shafts being worn out or broken – which can lead to excessive vibration while running through cycles at higher speeds. If you suspect this may be causing the noise coming from your washer, contact an experienced technician to take a look inside and replace any damaged parts as soon as possible; not only will this stop any further damage but also eliminate unnecessary noise throughout its cycles too! 
 
 Finally, keep in mind that sometimes excess wear due age on older machines may be enough cause extra noise during cycles - so if all else fails consider investing in a new model (or doing more frequent maintenance) so that you don't have endure those loud bangs anymore!
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

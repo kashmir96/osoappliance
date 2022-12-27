@@ -22,3 +22,5 @@ Once you've narrowed down your options, contact each service provider to discuss
 Finally, make sure that any technicians visiting your home have proper licenses, insurance coverage and certification from reputable organizations such as HVACR (heating ventilation air conditioning refrigeration). This will help protect both parties should anything go wrong during repair work on your major appliances. 
 
 Finding a reliable major appliance repair service near you doesn't need to be difficult if you keep these tips in mind when searching for someone who can take care of all of your needs quickly and efficiently!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help you resume operations.

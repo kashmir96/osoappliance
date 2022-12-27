@@ -26,3 +26,5 @@ Condenser and heat pump dryers have compressors which can also cause a gas smell
 Finally, a gas smell can be caused by a gas leak in the exhaust system. This can happen if the exhaust system is clogged or damaged. If you suspect a gas leak in the exhaust system, you should call a professional to inspect and repair the system.
 
 If you’re experiencing a gas smell coming from your dryer, you should take action immediately. Turn off the gas supply to the dryer, and call a professional to inspect and repair any potential issues. With the right care, you can keep your dryer running safely and efficiently.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

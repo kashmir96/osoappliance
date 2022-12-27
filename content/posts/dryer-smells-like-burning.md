@@ -28,3 +28,5 @@ Worn Out Belt
 A worn out belt can also cause a burning smell. The belt is responsible for spinning the drum of the dryer. If it’s worn out or has become loose, it can cause the drum to rub against the heating element, creating a burning smell. To fix this problem, you’ll need to replace the belt.
 
 If your dryer smells like burning, it’s important to take action quickly to avoid a potential fire. Check for lint buildup, a faulty heating element, or a worn out belt. If any of these problems are present, take steps to repair or replace the part.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

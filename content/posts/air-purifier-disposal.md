@@ -23,3 +23,5 @@ Once you have finished prepping your air purifier for disposal, there are a few 
 • Finally, if none of those options are available in your area, then you may need to just throw away the unit in regular trash collection. Make sure all removable parts such as filters and cords are removed before doing so – this will help prevent any potential environmental hazards caused by improper disposal of these items. 
 
 No matter how you choose to dispose of your old air purifier, following these simple steps will ensure that it is done safely and responsibly!
+
+Is your appliance playing up? This collection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will get operations moving.

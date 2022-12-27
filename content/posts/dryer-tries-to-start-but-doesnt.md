@@ -22,3 +22,5 @@ If the door switch is working, then the problem could be with the motor. The mot
 Finally, the problem could be with the thermal fuse. This fuse is designed to prevent the dryer from overheating and will shut off power to the motor if it senses too much heat. To test the thermal fuse, you will need to use a multimeter to measure the resistance. If the resistance is too high, then the thermal fuse needs to be replaced.
 
 If you have checked all of these components and the dryer still does not start, then you may need to call a professional appliance repair technician.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

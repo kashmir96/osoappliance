@@ -22,3 +22,5 @@ Replacing these filters on a regular basis is important to maintain peak perform
 In addition to these main types of filters there are some other components which may also require periodic replacement including UV lamps (if equipped), fan blades/motors, gaskets/seals between sections of the unit (to ensure proper airflow), as well as any related electrical components such as wiring connectors or circuit boards which can fail over time due to wear & tear on them from normal operation of your unit. 
 
 Overall taking care of our indoor breathing environment starts with keeping our appliances well maintained by regularly checking for needed replacements parts & making sure everything is functioning properly so it can continue doing its job!
+
+When your appliances aren't working as they should, you can get help from a free directory of local services. This list will help you make your life easier and get your appliance running like new. You don't need to buy new appliances, you can just get the help you need to make your appliances last longer. <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help you inspire them with newness.

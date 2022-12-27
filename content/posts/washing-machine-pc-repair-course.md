@@ -22,3 +22,5 @@ These courses can benefit anyone who owns or services washing machines—from do
 With a comprehensive Washing Machine PC Repair Course under your belt, you’ll be able to diagnose any problems your own washer may have quickly and accurately—saving yourself time and money in costly repairs along the way! Plus you’ll have peace of mind knowing that your repairs are being done safely by someone who understands what they’re doing (and has been certified by an accredited course). 
  
 So if you want to become an expert at diagnosing any potential issues with your own appliance (or those of others), sign up for a Washing Machine PC Repair Course today! You won’t regret it!
+
+Is your appliance out of commission? This roster of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help you energize them with freshness.

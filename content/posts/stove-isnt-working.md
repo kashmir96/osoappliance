@@ -22,3 +22,5 @@ Next, check to see if any of the stove's controls are set incorrectly. If you've
 If those two steps don't reveal anything, then you may need to take a look at your stove's wiring and components. Start by checking for any signs of damage or wear and tear on the wiring or components. Look for frayed wires, loose connections, burned out fuses or other signs of damage. If you find any problems with the wiring or components, then you'll need to replace them before your stove will work again. 
 
 Finally, if all else fails, then it’s time to call in a professional repairman to take a look at your stove and diagnose the problem. A professional will be able to pinpoint exactly what’s wrong with your stove and provide an effective solution to get it up and running again in no time!
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

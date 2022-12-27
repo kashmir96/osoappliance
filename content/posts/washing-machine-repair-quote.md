@@ -20,3 +20,5 @@ When getting a repair quote for your washing machine, make sure that you know ex
 It’s also important to get multiple quotes from different companies if possible before making a decision on who will be repairing your washing machine. Different companies may offer different prices or services so it pays off to shop around and compare prices before making a decision. 
 
 Finally, make sure that you are comfortable with whoever is doing the work on your washing machine by asking questions about their experience and qualifications in appliance repairs. Reputable repair companies should be able to provide references or even reviews from past customers who have had similar jobs done with them in order for you to feel confident in their abilities when getting a repair quote for your washer.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> inject new vigor into them.

@@ -22,3 +22,5 @@ Another common cause of dishwasher leaks is a clogged drain hose or pipe that is
 Finally, another potential source of leakage in a dishwasher could come from cracks forming in its tub due to age-related wear and tear over time (especially if you have an older model). If this is the case with yours then unfortunately replacing its entire tub may be necessary as these types of cracks cannot typically be repaired without specialized tools/equipment – however depending on how severe they are sometimes smaller cracks may only require patching up with epoxy resin glue which works as well but must still be done by an experienced technician who knows what he/she is doing! 
  
 There you have it – those were some of the most common causes behind why dishwashers might start leaking suddenly! Hopefully knowing what might cause these issues will help prevent them from happening again down-the-line so you don't have any unexpected surprises next time around when running cycles through yours!
+
+Is your appliance misbehaving? This assortment of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

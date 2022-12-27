@@ -32,3 +32,5 @@ If your dishwasher isn’t cleaning dishes properly, the first thing you should 
 If your dishwasher isn’t drying dishes properly, the first thing you should do is check the heating element. Make sure it’s not clogged or blocked. If it is, you’ll need to clean it. You should also check the thermostat and make sure it’s not set too low. If it is, you’ll need to adjust it.
 
 These are just a few of the most common dishwasher repair problems. If you’re still having trouble, it may be time to call a professional. A qualified technician can help you diagnose the problem and get your dishwasher back up and running in no time.
+
+Is your appliance out of commission? This roster of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will revive activity.

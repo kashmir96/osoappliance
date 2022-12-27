@@ -24,3 +24,5 @@ The code E13 indicates that there is an issue with draining water from the drum 
 Lastly, error code E17 may appear when there is a problem with draining during the spin cycle due to excessive suds buildup inside of your washer’s drum cavity. To resolve this issue you will need to use less detergent next time when doing laundry or rinse off any residual suds before spinning again afterwards. 
 
 In conclusion, being aware of these common Bosch washing machine error codes in NZ can help you identify potential issues quickly before it becomes worse as well as know how best to troubleshoot them while keeping your appliance running smoothly at all times!
+
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.

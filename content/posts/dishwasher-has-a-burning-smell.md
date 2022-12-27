@@ -20,3 +20,5 @@ Another possible cause of a burning smell coming from your dishwasher is an elec
 Finally, another potential source of a burning smell from your dishwasher could be an accumulation of detergent residue and minerals on the heating element. Over time, these can build up and start to burn when the element gets hot during operation. To prevent this from happening, make sure that you clean out any residue or mineral deposits from around the heating element every few months.
 
 No matter what the source of the burning smell is, it's important to take action right away to prevent further damage to your dishwasher. If you're unable to identify and solve the problem yourself, contact an appliance repair specialist for help. They will be able to diagnose and fix whatever issue is causing your dishwasher to produce an unpleasant burning odor.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

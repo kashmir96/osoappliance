@@ -22,3 +22,5 @@ Once you’ve identified a reputable technician for your repairs, they will work
 Finally, once any repairs have been completed it is important that your technician runs tests to ensure everything works as expected before signing off on the job and leaving your property safe again! As part of this process they might also recommend ways you can prevent future issues occurring – such as regularly cleaning around burners and checking hoses for any blockages that could lead to problems down the line. 
 
 Gas stove repairs in Christchurch don't need to be a hassle! With experienced professionals ready to help get your appliance up and running again safely and quickly – all at an affordable price – there's no reason not to call up an expert today!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will help get your appliance running like new

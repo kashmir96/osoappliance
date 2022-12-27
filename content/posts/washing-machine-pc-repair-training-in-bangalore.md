@@ -22,3 +22,5 @@ The main benefit of taking a course like this is that you can become confident i
 These courses also teach participants about energy efficiency best practices which can further reduce bills while still providing great results from your appliance - making them perfect if you want your washer running at peak performance without breaking the bank each month! 
  
 Overall, taking part in this type of training course is invaluable if you own or use a washing machine regularly - whether it be for personal use or professionally as part of your job. It will enable you to confidently tackle repairs on your own terms when needed while also teaching important preventative maintenance techniques which will save money over time.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> that'll help them them go another mile.

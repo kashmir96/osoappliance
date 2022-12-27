@@ -22,3 +22,5 @@ Once you have removed the back panel, you should be able to see the belt running
 It’s also important to check for any buildup around the area where the belt runs as this can cause friction and reduce efficiency. If you find any debris or buildup, then make sure to clean it away before replacing or adjusting your dryer’s belt as necessary. 
 
 By locating and inspecting your dryer’s belt regularly, you can help ensure that your machine runs like new for years to come!
+
+Is your appliance playing up? This collection of <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers</a> should help you resume operations.

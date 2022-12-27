@@ -22,3 +22,5 @@ If the drain hose is clear, the next step is to check the pump. The pump is resp
 Finally, if the drain hose and pump are both working properly, the last step is to check the float switch. This switch is responsible for detecting when the water level gets too high. If it’s not working properly, it can cause the dishwasher to fill up with water. You can usually fix this by replacing the switch.
 
 In most cases, standing water in a dishwasher is caused by a blocked drain hose, a faulty pump, or a malfunctioning float switch. Fortunately, these problems are usually easy to fix. So if you ever find standing water in your dishwasher, don’t panic—just take a few steps to identify and fix the problem.
+
+Bring new life to your appliance with <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will revive activity.

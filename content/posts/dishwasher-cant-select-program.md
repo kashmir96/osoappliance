@@ -24,3 +24,5 @@ If the drain is clear, then the next step is to check the filter. Make sure the 
 If the filter is clean, then the next step is to check the detergent dispenser. Make sure the detergent dispenser is filled with detergent and that the dispenser is working properly. If the detergent dispenser is not working properly, it can prevent the dishwasher from selecting a program.
 
 If all of the above steps have been checked and the dishwasher still cannot select a program, then it is likely that there is a problem with the control board. The control board is responsible for controlling the dishwasher's functions and if it is not working properly, it can prevent the dishwasher from selecting a program. In this case, it is best to contact a professional to repair the control board.
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is going to help reactivate processes.

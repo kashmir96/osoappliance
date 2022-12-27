@@ -26,3 +26,5 @@ Some of the most common microwave problems include:
 4) Burning Smells: Burning smells coming from inside a working microwave are never good so take heed and immediately unplug it from its power source if this happens! This could indicate worn-out insulation material due to age coupled with normal wear-and-tear which should be addressed by replacing affected parts before using again; failure to do so could result in further damage and expensive repairs down the line! 
 
 Identifying these common issues early on allows you time and opportunity to seek out resolution – whether through DIY repair methods (depending on level of expertise), seeking out help from local repair centers/technicians etc.... With proper diagnosis comes solutions which will help restore functionality back into your valued kitchen accessory!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is going to help reactivate processes.

@@ -26,3 +26,5 @@ If neither of these fixes works, factory reset both your heat pump and its remot
 Finally, if all else fails you may need to replace one or both components with a new set of parts; either one could be faulty due to wear-and-tear over time or lack quality manufacturing standards when purchased initially. 
  
 We hope these tips help you get your non-working heat pump remote back up and running again in no time!
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is helpful to rekindle them with excitement.

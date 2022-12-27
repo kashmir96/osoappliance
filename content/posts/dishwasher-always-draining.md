@@ -22,3 +22,5 @@ A faulty drain pump can also be the cause of your dishwasher always draining. Th
 Finally, a faulty float switch can also be the cause of your dishwasher always draining. The float switch is responsible for detecting when the water level in the dishwasher is too high and shutting off the water supply. If the float switch isn’t working properly, the dishwasher will continue to drain. To fix this, you’ll need to replace the float switch.
 
 If you’ve noticed that your dishwasher is always draining, it’s important to identify the cause and take action to fix it. Clogged drains, a faulty drain pump, or a faulty float switch are the most common causes of a dishwasher always draining. With the right diagnosis and repair, you can get your dishwasher back to working properly in no time.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is helpful to rekindle them with excitement.

@@ -26,3 +26,5 @@ Another common cause of poor drying performance is a damaged or worn drum seal o
 Finally, if all else fails, consider having a technician inspect and repair your machine as there may be an internal problem such as a faulty thermostat or heating element that needs to be addressed. 
 
 By taking some simple steps such as checking for clogged vents and lint filters and inspecting drum seals and exhaust ports, you can often resolve most issues with a dryer not drying properly without having to call in a technician.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

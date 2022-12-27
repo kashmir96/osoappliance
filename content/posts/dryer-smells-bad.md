@@ -28,3 +28,5 @@ By taking these steps, you can help to eliminate the bad smell and ensure that y
 You can also invest in dryer sheets or dryer balls to help reduce static and prevent lint build-up, sometimes these have scents to make your clothes smell good. Additionally, you can add a cup of white vinegar to the dryer during the drying cycle to help eliminate odors.
 
 If you have taken all of these steps and the bad smell persists, it is likely that there is an issue with the dryer that needs to be addressed. In this case, it is best to contact a professional for help.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

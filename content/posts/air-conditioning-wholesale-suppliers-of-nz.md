@@ -36,3 +36,5 @@ Quality Climate Solutions specializes in climate control equipment including boi
 Refrigeration Warehouse NZ Ltd was established back in 1999 making them one of NZ's oldest refrigeration specialists providing comprehensive sales support combined with unbeatable service levels whether its spare parts or complete HVAC/refrigeration equipment Refrigeration Warehouse has got it covered no matter what size project may be involved ! 
 
 Whether it's an HVAC system upgrade or replacement parts these ten businesses are sure to have the right solution for any project large or small so why not give them a try today?
+
+Got an appliance running on the fritz? get a <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> can help you renew them with energy.

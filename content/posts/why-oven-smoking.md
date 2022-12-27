@@ -24,3 +24,5 @@ If you recently cleaned your oven and it's now smoking, the cleaning chemicals y
 Finally, your oven may be smoking due to a faulty heating element. If this is the case, you should contact a professional for help in repairing or replacing the element before attempting to use your oven again. 
 
 No matter what the cause of your oven smoke may be, it's important to take precautions and properly address any issues before using it again. Doing so will help keep you and your family safe from potential hazards associated with a malfunctioning appliance.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

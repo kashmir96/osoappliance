@@ -24,3 +24,5 @@ Hiring an out-of-town service provider can get expensive fast due to travel cost
 When choosing a service provider for your washing machine repair needs it’s important to do your research beforehand – checking reviews online or asking friends/family who they might recommend can help ensure you pick the right one for your needs. You should also make sure they have experience with different types and brands of washing machines as some companies specialize in certain models or types only. 
 
 Overall if you live in Rolleston chances are you will need to get your washing machine repaired at some point – fortunately there are reliable local repair providers available that can save you time and money!
+
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> inject new vigor into them.

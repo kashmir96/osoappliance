@@ -22,3 +22,5 @@ Another possible cause of a fishy smell in your dryer is a build-up of lint. Lin
 Finally, a fishy smell can also be caused by a problem with your washing machine. If you have recently used a detergent, or washed clothing that contains fish oils or other fish-based ingredients, the smell could be coming from the washing machine and being passed in the wet clothes to the dryer. To prevent this from happening, make sure to read the labels on your detergents and avoid using any that contain fish-based ingredients. 
 
 No matter what the cause of the fishy smell in your dryer is, it is important to address the issue as soon as possible. If left unchecked, this issue can cause a fire hazard and damage to your dryer and/or laundry. If you suspect a problem, contact a professional to inspect and clean your dryer vent and washing machine.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

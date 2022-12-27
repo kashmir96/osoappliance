@@ -23,3 +23,5 @@ In addition to using an accurate HS code when trading internationally, it’s al
 
 
 By understanding how Harmonized System codes work and familiarizing yourself with all applicable regulations when trading internationally, you can help make sure that your business transactions go as smoothly as possible while avoiding any costly mistakes related to incorrect classifications or other errors related to international trade law compliance.
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

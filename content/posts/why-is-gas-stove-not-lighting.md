@@ -22,3 +22,5 @@ Another possible cause of a gas stove not lighting is that there is no gas flow 
 If you have checked both of these possibilities and still find that your gas stove is not lighting, then it may be due to an issue with the igniter. The igniter is responsible for creating an electric spark which lights up the burner when you turn it on. If this component is faulty or damaged then it will need to be replaced in order to restore normal functioning of your stove.
 
 Finally, if all else fails then you may need to call in a professional repair person who can diagnose and repair any underlying issues with your appliance. A qualified technician will be able to identify any problems and get your stove working again in no time!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

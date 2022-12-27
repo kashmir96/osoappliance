@@ -34,3 +34,5 @@ Check your Door Lock: If you've got a front loader, you may have a door lock iss
 7. Check the Hoses: The hoses are responsible for supplying water to the washer. If they’re blocked or kinked, it can cause the washer to stop spinning. To check them, open the back panel and inspect the hoses. If they’re blocked or kinked, they need to be replaced.
 
 If none of these fixes work, it’s best to call a professional. They’ll be able to diagnose and fix the problem quickly and efficiently.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is going to help reactivate processes.

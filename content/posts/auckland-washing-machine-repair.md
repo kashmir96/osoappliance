@@ -24,3 +24,5 @@ When you’re ready to hire a repair service, be sure to ask for a written agree
 Once the repairs have been completed, make sure to test the washing machine thoroughly. If you’re not satisfied with the results, you may be able to get a free repair or replacement. But if the repair is done properly, you should be able to enjoy your washing machine for many years to come.
 
 If you’re looking for washing machine repair in Auckland, don’t hesitate to contact a reputable service. With the right repair service, you can have your washing machine up and running again in no time.
+
+Is your appliance playing up? This collection of <a href="/pages/appliance-repair-technicians-in-auckland">appliance repair technicians in auckland</a> should help you energize them with freshness.

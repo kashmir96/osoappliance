@@ -22,3 +22,5 @@ Another option is to contact an air conditioning repair service near you and ask
 Finally, some retailers such as Home Depot and Lowe's may accept old air conditioners for recycling or proper disposal at their stores free of charge (or with only a small fee). However, it’s important to check with your local store first as not all locations offer this service. 
 
 Finding a responsible way to dispose of an old air conditioner near you doesn't have to be difficult - just make sure that you take some time do your research beforehand so that you can find the best solution for both yourself and the environment!
+
+Get your appliances to go even further with <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help you energize them with freshness.

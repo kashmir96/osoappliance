@@ -24,3 +24,5 @@ Another possible cause of a washer that won’t stop spinning is a faulty lid sw
 Finally, if your washing machine keeps spinning even after you’ve checked for an unbalanced load and replaced any faulty parts, it could be due to an issue with its motor or drive belt. In this case, you will need to contact a professional repair technician for assistance in diagnosing and fixing the problem. 
 
 No matter what is causing your washing machine to keep spinning, it’s important to address the issue as soon as possible in order to prevent further damage or malfunctions from occurring.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

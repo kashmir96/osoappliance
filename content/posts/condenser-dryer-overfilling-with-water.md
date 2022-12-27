@@ -13,8 +13,6 @@ cover:
 
 ---
 
-# Condenser dryer overfilling with water
-
 If you own a condenser dryer, you may have experienced the issue of it overfilling with water. This is a common problem and can be caused by several different factors. In this blog, we will explain what causes condenser dryers to overfill with water and how to prevent it from happening.
 
 The first cause of a condenser dryer overfilling with water is an obstructed drain hose. The drain hose is responsible for carrying away any excess water from the drying cycle, so if it becomes blocked or kinked then the water has nowhere to go and will back up into the machine. To prevent this from happening, make sure that the drain hose is regularly checked for blockages and that it is not kinked or bent in any way.
@@ -24,3 +22,5 @@ Another cause of a condenser dryer overfilling with water is an incorrect instal
 Finally, another common cause of a condenser dryer overfilling with water is a faulty float switch. The float switch monitors the level of water in the drum and will shut off when it reaches its maximum level; however, if this switch becomes stuck or worn out then it won’t be able to do its job properly and your machine will continue to fill until it overflows. To prevent this from happening, make sure that you regularly check your float switch for any signs of wear or damage and replace it if necessary.
 
 In conclusion, there are several reasons why your condenser dryer may be overfilling with water including blocked drain hoses, incorrect installation and faulty float switches. To prevent this from happening, make sure that all parts are regularly checked for any signs of wear or damage and that they are correctly installed according to manufacturer’s instructions.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is helpful to rekindle them with excitement.

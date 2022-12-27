@@ -22,3 +22,5 @@ Another potential cause could be a faulty thermostat or temperature sensor. Thes
 Finally, make sure that all vents inside your oven are clear and unobstructed - blocked vents can restrict air circulation and prevent proper heat distribution throughout the appliance which can lead to uneven cooking results or no heat at all! Clean out any dust buildup from inside your oven with compressed air and check that none of the coils are damaged either - if so, these should be replaced immediately as well. 
 
 In conclusion, if your oven isn't heating up there could be several different causes but some of them include a faulty power supply or heating element/thermostat/temperature sensor as well as blocked vents or damaged coils inside your appliance itself! To properly diagnose what's wrong with
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

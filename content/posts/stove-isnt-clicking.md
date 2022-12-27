@@ -22,3 +22,5 @@ If the igniter isn't the problem, then you may need to check the wiring of your 
 Finally, if neither of these solutions work for you then it may be time to replace some parts on your stove. Worn out parts can cause problems with ignition and can also lead to dangerous situations if left unchecked. Make sure to check all of the valves and other components on your stove for signs of wear and tear before replacing them with new ones.
 
 Stove clicking can be an annoying problem but it doesn't have to be one that persists forever. With some simple troubleshooting steps, you should be able to identify what's causing it and take action accordingly!
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

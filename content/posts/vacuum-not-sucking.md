@@ -26,3 +26,5 @@ If your vacuum cleaner isn’t sucking up dirt and debris, it could be due to a 
 5. Blocked airways: If the airways in the vacuum are blocked, then the suction will be greatly reduced. Check the airways for any blockages and make sure they are clear.
 
 If your vacuum isn’t sucking up dirt and debris, it could be due to one of these common causes. Check the filter, hose, brushes, power, and airways to make sure they are all in good condition. If any of these are the cause of the problem, then you should be able to fix it yourself.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

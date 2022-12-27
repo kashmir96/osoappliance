@@ -26,3 +26,5 @@ The water pump helps move water from the supply line into your washing machine o
 Finally, there are several smaller parts such as belts and valves that help keep everything running smoothly within a laundry appliance's system. Belts work with pulleys to keep all moving parts turning at consistent speeds while valves regulate pressure between different sections of plumbing connected to your washer/dryer unit. 
 
 Knowing the basic components of a laundry appliance can save you time when troubleshooting problems with these machines down the line! Be sure to read up on what specific parts each type of laundry unit requires so that you stay informed in case something ever needs fixing!
+
+Is your appliance playing up? This collection of <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers</a> breathe new life into them.

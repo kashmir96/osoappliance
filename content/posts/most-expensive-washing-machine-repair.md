@@ -33,3 +33,5 @@ The most expensive washing machine repairs in order are typically
 4. Motor controller PCB
 5. Control unit
 6. Pump assembly
+
+When your appliances aren't working as they should, you can get help from a free directory of local services. This list will help you make your life easier and get your appliance running like new. You don't need to buy new appliances, you can just get the help you need to make your appliances last longer. <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> you need to make your appliances last longer.

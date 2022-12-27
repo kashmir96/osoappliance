@@ -22,3 +22,5 @@ Electrical appliance servicepersons are also equipped with the necessary tools n
 When it comes time to hire an electrical appliance serviceperson, it is important that you choose one who is certified by a reputable organization such as the National Appliance Service Association (NASEA). This certification ensures that all work performed by the technician is done safely and up-to-code with current industry standards. Additionally, many states require technicians to be licensed or registered before they can legally perform certain services on your behalf. 
 
 Ultimately, choosing an experienced and certified electrical appliance serviceperson will ensure that your repairs are completed properly and efficiently at a fair price - ultimately saving you both time and money in the long run!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

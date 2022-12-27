@@ -22,3 +22,5 @@ Over time, the door seal can become worn or damaged, which can cause water to le
 When replacing the lower door seal, it’s important to make sure that it is properly aligned and that it fits snugly against the dishwasher door. If the seal is not properly aligned, it can cause water to leak out of the dishwasher. Additionally, it’s important to make sure that the seal is made of a durable material that can withstand the heat and moisture of a dishwasher.
 
 Replacing a dishwasher lower door seal is a relatively simple task that can be done by most homeowners. If you’re unsure of how to replace the seal, it’s best to consult with a professional to ensure that it’s done correctly. Taking the time to replace the lower door seal can help ensure that your dishwasher is working properly and that it’s not leaking water.
+
+Make things easier on yourself by finding local <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers</a> nearby that can take care of the job for you.

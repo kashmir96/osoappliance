@@ -27,3 +27,5 @@ Finally, check the belt. The belt is responsible for turning the drum that tumbl
 
 If you've checked all these components and you still can't get your dryer to dry your clothes, it's time to call a professional. A qualified repair technician can diagnose the problem and make the necessary repairs.
 Inserting text is in beta. We'd love your feedback.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

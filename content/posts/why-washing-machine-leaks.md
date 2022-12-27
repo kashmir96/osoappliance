@@ -24,3 +24,5 @@ A third potential cause of a leaking washing machine is a faulty door seal. The 
 Finally, a leaking washing machine can be caused by a malfunctioning inlet valve. The inlet valve is responsible for controlling the flow of water into the machine. If the valve is faulty, it can cause water to leak out. It is important to check the inlet valve periodically and to replace it as needed. 
 
 Identifying and addressing the cause of a leaking washing machine is important for maintaining the safety and efficiency of your machine. If you suspect that your washing machine is leaking, it is important to take the necessary steps to identify and fix the issue.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

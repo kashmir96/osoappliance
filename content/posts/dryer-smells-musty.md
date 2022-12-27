@@ -22,3 +22,5 @@ Next, it's important to clean the dryer ducts and exhaust vent on a regular basi
 Finally, make sure to leave the dryer door open after each use to allow the interior to dry out. This will help reduce the moisture in the dryer and will help prevent the musty smell from coming back.
 
 By following these simple steps, you can help keep your dryer smelling fresh and free of musty odors.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

@@ -22,3 +22,5 @@ Another common issue is strange noises coming from your heater when it starts up
 Lastly, pilot light problems are also very common when dealing with heaters. The pilot light operates using an open flame and can easily go out due to air drafts or other factors; this will cause your heater to stop working completely until it’s relit again. If this happens often enough, you may want to consider replacing it with an electronic ignition system instead which uses electricity instead of gas and won't get blown out as easily as a pilot light does over time. 
 
 By being aware of these most common heater problems and taking steps to prevent them before they occur (like regularly changing filters), you can avoid having major issues during winter months and keep yourself warm all season long!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is going to help reactivate processes.

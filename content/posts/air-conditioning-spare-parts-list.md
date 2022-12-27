@@ -28,3 +28,5 @@ If you're a homeowner, you know how important it is to keep your air conditionin
 6. Fan Motors & Blades: Your fan motors and blades are responsible for recirculating air around your home and helping keep it cooler during hot summer months—so keeping spares on hand ensures that you'll never be without this essential component if something goes wrong with yours! 
 
 Keeping these spare parts handy will ensure that any problems with your AC can be solved quickly and easily without having to wait around for repairs or replacements—saving you time, money and hassle in the long run!
+
+Is your appliance misbehaving? This assortment of <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers</a> bring them back from the dead.

@@ -24,3 +24,5 @@ Another option is to donate the unit to a charity or organization that can use i
 Finally, you may also consider selling or giving away your old air conditioner if it still works and someone else could get use out of it. Just make sure whoever receives it understands how important proper disposal is once they no longer need or want it! 
 
 Disposing of an air conditioner responsibly isn't always easy but following these steps should help ensure that your old unit doesn't end up doing more harm than good in its final days!
+
+Get your appliances to go even further with <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help you energize them with freshness.

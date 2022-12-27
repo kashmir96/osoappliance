@@ -28,3 +28,5 @@ Your pump may also be the culprit. The pump is responsible for circulating the w
 Finally, a worn-out belt could be causing the problem. The belt is responsible for transferring power from the motor to the drum, and if it has become worn or stretched, it may not be working correctly. If this is the case, you will need to replace the belt in order to get the machine back to spinning correctly.
 
 If your washing machine won't stop spinning, don't despair. With a few simple checks and repairs, you should be able to get it spinning like normal in no time.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

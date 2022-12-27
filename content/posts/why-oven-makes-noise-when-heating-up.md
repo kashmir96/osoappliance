@@ -20,3 +20,5 @@ The heating elements in an oven are made of metal, which expands when heated and
 In some cases, an oven may make a loud banging or rattling sound while preheating. This could be caused by loose parts inside the oven cavity or by something blocking the fan blades from spinning freely. If this is the case, you should contact a qualified appliance repair technician to check out your oven and make any necessary repairs. 
 
 Noise from your oven while preheating is usually nothing to worry about, but if it becomes excessive or changes in any way then you should have it checked out by a professional to ensure that everything is functioning properly.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

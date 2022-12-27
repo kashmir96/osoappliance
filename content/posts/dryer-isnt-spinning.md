@@ -24,3 +24,5 @@ Another potential cause of a dryer not spinning is a clogged vent. A clogged ven
 Finally, check the drum roller and glides. If these components are worn out, they won't allow the drum to turn properly. To check them, remove the front panel of the dryer and inspect the drum roller and glides. If they're worn out, they'll need to be replaced.
 
 If you've checked all of these components and your dryer still isn't spinning, it's time to call a repair technician. They'll be able to identify the root of the problem and get your dryer spinning again.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

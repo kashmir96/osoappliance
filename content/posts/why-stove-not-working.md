@@ -24,3 +24,5 @@ If the stove is turning on, but not heating up, it could be a variety of problem
 Finally, if the stove is heating too much, it could be a problem with the thermostat or the burner. The thermostat controls the temperature of the stove, so if it's not calibrated correctly, it could be causing the stove to overheat. You may need to adjust the thermostat or get it replaced. A clogged burner could also be causing the stove to overheat. Cleaning the burner can help to reduce the heat.
 
 Troubleshooting why your stove isn't working can be a tricky process. If you're unable to find the cause of the issue, it's best to consult a professional. They will be able to diagnose the exact problem and get your stove working again.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

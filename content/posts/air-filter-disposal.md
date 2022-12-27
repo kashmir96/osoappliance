@@ -24,3 +24,5 @@ You can also consider donating used air filters if they are still in good condit
 Finally, always make sure that you follow all applicable laws regarding disposal of hazardous materials when disposing of an old air filter – some may contain potentially hazardous materials like asbestos or lead which must be disposed of according to local regulations and guidelines. 
 
 By following these tips for proper disposal techniques, we can all help make sure our environment stays clean and safe for generations to come!
+
+When your appliances aren't working as they should, you can get help from a free directory of local services. This list will help you make your life easier and get your appliance running like new. You don't need to buy new appliances, you can just get the help you need to make your appliances last longer. <a href="/pages/appliance-repair-technicians-in-new-zealand/">appliance repair technicians in new zealand</a> you need to make your appliances last longer.

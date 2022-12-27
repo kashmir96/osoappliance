@@ -28,3 +28,5 @@ Loose parts, such as the washer’s hoses or bolts, can also be the source of no
 Finally, it’s possible that the noise is being caused by the detergent you’re using. If you’re using an aggressive detergent, it can cause the washer to vibrate and make loud noises. Try switching to a mild detergent or a detergent specifically designed for top-loading washing machines.
 
 Noisy washing machines can be annoying, but with a few simple steps, you can find the source of the noise and take steps to reduce or eliminate it. Try evenly distributing the clothes, checking for loose parts, and switching to a mild detergent to help reduce or eliminate washing machine noise.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

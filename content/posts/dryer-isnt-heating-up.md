@@ -26,3 +26,5 @@ Finally, check the thermal fuse. This is a safety device that is designed to shu
 If none of these solutions work, it may be time to call a professional. A qualified technician can diagnose the problem and determine if any repairs are necessary.
 
 No matter what the cause of the problem is, it's important to get it fixed as soon as possible. A malfunctioning dryer can be a fire hazard, so make sure to take the necessary steps to ensure your safety.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

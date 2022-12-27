@@ -22,3 +22,5 @@ If the lower spray arm isn’t working properly, dishes in the lower rack may no
 In addition to making sure the lower spray arm is working properly, it’s also important to check the dishwasher filter. The filter helps to remove food particles and other debris from the dishwasher and should be checked regularly to make sure it’s not clogged.
 
 The lower spray arm is an important part of the dishwasher and should be checked regularly to make sure it’s working properly. If the lower spray arm isn’t spinning freely or is clogged, it should be cleaned or replaced to ensure dishes are getting thoroughly cleaned.
+
+Make things easier on yourself by finding local <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers</a> nearby that can take care of the job for you.

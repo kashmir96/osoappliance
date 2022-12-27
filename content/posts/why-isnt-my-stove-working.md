@@ -22,3 +22,5 @@ Other potential causes of a non-working stove include a faulty gas valve or regu
 Finally, if none of these issues are causing your stove not to work properly, then it may simply be in need of some general maintenance such as cleaning out dust and debris from the burners or replacing worn out parts such as knobs or seals. 
 
 No matter what's causing your stove not to work properly, it's best to have it looked at by an experienced technician who can diagnose and repair the issue quickly and safely so you can get back to cooking!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

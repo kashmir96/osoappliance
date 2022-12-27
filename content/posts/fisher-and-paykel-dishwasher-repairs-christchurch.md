@@ -22,3 +22,5 @@ If you don’t feel comfortable attempting a repair yourself or you have determi
 When choosing a service technician for Fisher and Paykel dishwasher repairs in Christchurch, look for one who has extensive experience working with these units specifically. Make sure they offer an up-to-date warranty on any parts they install so that you know your appliance will continue running smoothly after their repair job is complete. Also check out customer reviews online to get an idea of how reliable their services are before making a decision about who will work on your unit. 
 
 Fisher and Paykel dishwashers offer great value when compared to other brands and models on the market today. And with proper maintenance and occasional repairs from experienced professionals when needed, this brand will continue providing excellent performance for years to come!
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will restore functionality.

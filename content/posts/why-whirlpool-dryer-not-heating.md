@@ -24,3 +24,5 @@ When your Whirlpool dryer isn't heating up, it can be a major inconvenience. Luc
 4. The timer is not set properly: The timer on your dryer is responsible for regulating the length of time the dryer runs. If it is not set properly, the dryer may not heat up. Make sure the timer is set correctly and adjust it if necessary.
 
 If you are still having trouble with your Whirlpool dryer not heating up after checking these potential causes, you may need to call a professional for further troubleshooting. A qualified technician can help you determine what is causing the problem and provide you with the best solution.
+
+Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> who will restore functionality.

@@ -26,3 +26,5 @@ If after checking these factors your washer continues to wobble then you may nee
 Finally inspect all four of your washing machines hoses for any signs of wear or leaks which could have been caused by excess movement of apparatus over time due such as our previous causes mentioned above. If you find them loose fasten them back up securely with hose clamps and ensure they’re placed correctly according to their manufacturer’s instructions otherwise this may lead to more vibration problems down the line so make sure each connection is properly tightened before using again . 
 
 If you are still unable to resolve this issue then contact a professional repairman who will do so efficiently without any hassle!
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

@@ -30,3 +30,5 @@ Here are some signs that it’s time to replace your dishwasher:
 5. It’s not heating up. If your dishwasher isn’t heating up, it could be a sign that the heating element is broken. This is an expensive repair, so it’s best to replace the dishwasher.
 
 If you’re noticing any of these signs, it’s time to start shopping for a new dishwasher. Replacing your dishwasher can be a big investment, but it’s worth it in the long run. A new dishwasher will save you time and energy and make your life easier.
+
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> breathe new life into them.

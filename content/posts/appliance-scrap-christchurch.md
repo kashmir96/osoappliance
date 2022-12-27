@@ -13,8 +13,6 @@ cover:
 
 ---
 
-# How to scrap appliances in christchurch
-
 If you’re looking to scrap appliances in Christchurch, you’ve come to the right place. Scrapping appliances is a great way to get rid of old, broken, or unwanted appliances while also making some money in the process. Here’s what you need to know about scrapping appliances in Christchurch.
 
 First, you’ll need to find a scrap metal dealer in Christchurch. There are a few local scrap metal dealers in the area that will take your appliances and pay you for them. You can also find scrap metal dealers online, who will be willing to pick up your appliances for free and pay you for them.
@@ -26,3 +24,5 @@ Next, you’ll need to transport your appliances to the scrap metal dealer. Most
 Finally, you’ll need to negotiate a price for your appliances. Scrap metal dealers will usually offer you a price based on the weight and type of metal in your appliances. Make sure to negotiate a fair price for your appliances and get the best deal possible.
 
 Scrapping appliances in Christchurch is a great way to get rid of old, broken, or unwanted appliances while also making some money in the process. Just make sure to find a reputable scrap metal dealer, prepare your appliances for scrapping, and negotiate a fair price for your appliances. With a little bit of effort, you can make some money while getting rid of your old appliances.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

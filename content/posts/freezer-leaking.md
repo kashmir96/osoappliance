@@ -24,3 +24,5 @@ If you notice that water is leaking from underneath your freezer, then it’s li
 Finally, if you notice that water is leaking from around the door of your freezer, then it could be due to an issue with its hinges or latch mechanism. In this case, simply inspect these components for signs of wear and tear and replace them as necessary.
 
 No matter what type of leak you have in your freezer, it’s important to address it quickly before any further damage occurs. By following these simple steps you should be able to identify and fix the problem in no time!
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> that'll help them them go another mile.

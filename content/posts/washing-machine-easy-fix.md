@@ -22,3 +22,5 @@ If none of these problems seem to be causing your issues, it may be time to chec
 Finally, if all else fails you may need to reset your washing machine by unplugging it from its power source for at least two minutes before trying again. While this is usually a temporary solution at best, it can sometimes help kickstart a dead motor or reset program settings if necessary - so don’t discount this option! 
 
 With some basic troubleshooting steps you should now have a better idea of how to attempt fixing your washing machine on your own - but if you’re still encountering problems after following these easy fixes then it might be time to call in an appliance repair technician for further assistance!
+
+Is your appliance out of order? This series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> revamp your appliances.

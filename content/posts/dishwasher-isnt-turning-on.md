@@ -24,3 +24,5 @@ If the door switch is not the problem, then it’s possible that the dishwasher�
 Finally, if none of these solutions work, then it’s possible that the dishwasher’s control board is not working properly. The control board is responsible for controlling the dishwasher’s functions. If the control board is not working, then it will need to be replaced.
 
 If you’ve tried all of these solutions and your dishwasher still isn’t turning on, then it’s time to call a technician. A technician will be able to diagnose the problem and make the necessary repairs.
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

@@ -30,3 +30,5 @@ The best place to start is by asking around for recommendations from friends or 
 Once you have some names of potential installers, it can be helpful to read online reviews before making your final decision; this will give you an idea of what other customers thought about their experience with the installer. Additionally, be sure to inquire about any warranties or guarantees offered by the installer before committing - this will ensure that your appliance is installed correctly and that any issues that arise during installation are taken care of properly. 
 
 Finding a reliable dishwasher installer in Christchurch doesn’t need to be complicated - with a bit of research you can easily find an expert who will efficiently get your new appliance up and running!
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> is helpful to rekindle them with excitement.

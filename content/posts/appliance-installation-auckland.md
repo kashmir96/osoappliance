@@ -22,3 +22,5 @@ In addition to larger jobs like oven and washing machine installation, Auckland 
 When choosing an appliance installer in Auckland, make sure they are experienced enough for the job at hand. Ask them about their qualifications – do they have a relevant trade qualification? Have they been certified by any major appliance manufacturer? Are they insured? And finally make sure their prices are within your budget – find out what their rates include (eg labour costs) before making any decisions! 
 
 Finally do your research – read online reviews from previous customers and compare quotes from different installers before settling on one for your project. Good luck with finding an excellent appliance installer in Auckland!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

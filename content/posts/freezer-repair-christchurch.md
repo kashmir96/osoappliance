@@ -26,3 +26,5 @@ Once your technician arrives onsite, they will assess the situation and provide 
 Finally, once all of the repairs have been completed, make sure that everything is working properly before leaving the premises. If there are any issues with your freezer after it has been repaired, contact the service provider immediately so they can address them right away! 
 
 With proper maintenance and regular servicing from experienced professionals, your freezer should last for years without needing major repairs or replacements - saving you both time and money in the long run!
+
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.

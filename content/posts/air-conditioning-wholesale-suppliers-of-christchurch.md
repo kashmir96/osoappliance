@@ -22,3 +22,5 @@ The great thing about buying your air conditioning units wholesale in Christchur
 Another benefit of shopping with air conditioning wholesale suppliers in Christchurch is that they offer installation services too. Many companies offer professional installation services so that all aspects of the job are taken care of properly – from wiring and ductwork through to setting up thermostats and testing out the unit – leaving you with nothing but cool comfort during those hot summer months! 
 
 So if you're looking for an affordable way to keep your home or office comfortable all year round without breaking the bank, why not look into purchasing an air conditioner from one of Christchurch's many wholesale suppliers? You'll be sure to find something suitable for your needs at a price point that suits your budget perfectly!
+
+Is your appliance out of order? This series of <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> breathe new life into them.

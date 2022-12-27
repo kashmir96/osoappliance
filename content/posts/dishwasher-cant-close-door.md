@@ -26,3 +26,5 @@ Finally, check the dishwasher's control panel. If the control panel is not funct
 If none of these solutions work, it may be time to call a professional. A qualified technician can diagnose the issue and provide a solution.
 
 There are many reasons why your dishwasher won't close, but with a bit of troubleshooting and some simple repairs, you should be able to get your dishwasher working again in no time.
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is going to help reactivate processes.

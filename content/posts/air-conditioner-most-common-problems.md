@@ -24,3 +24,5 @@ When it comes to air conditioners, there are a number of common problems that ca
 4. Loss of Power: If your AC has stopped working altogether then chances are it has lost power somewhere along the line (unless there is another problem present). Check all breakers/fuses associated with the unit and make sure none have tripped off; if not then try resetting them anyway just in case! You may also want to ensure that all wires connected are still intact – any sign of damage/loosening should be inspected immediately by an expert electrician or HVAC technician for safety reasons.. 
 
 Hopefully this blog has helped provide insight into some of the most common problems associated with air conditioners so you can now easily identify any potential issues with yours! Remember though that if ever you feel unsure about anything then don't hesitate calling up an experienced professional who will be able to get everything back up-and-running again quickly without risking any further damage being done!.
+
+Is your appliance on the blink? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help you inspire them with newness.

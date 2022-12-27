@@ -22,3 +22,5 @@ Once the lint trap and exhaust vent are clean, you can also use a special dryer 
 Finally, you can also use a deodorizer to help get rid of the skunk-like smell. There are a variety of deodorizers available on the market, including sprays and gels. Simply spray the deodorizer into the dryer and the exhaust vent and let it sit for a few minutes before running the dryer.
 
 By following these steps, you should be able to get rid of the skunk-like smell coming from your dryer. However, if the smell persists, it’s best to contact a professional for further assistance.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

@@ -22,3 +22,5 @@ Now that we know what kind of parts make up an oven, let’s talk about where yo
 Finally, when shopping for oven parts in Christchurch it is important to make sure that they are compatible with your particular model of oven – otherwise they won’t work properly! Many retailers offer installation services so if you feel comfortable doing it yourself then great – but if not then it might be wise to enlist a professional’s help. 
 
 We hope this blog post has helped provide some insight into finding spare parts for your oven in Christchurch – good luck with all your repairs!
+
+Got an appliance running on the fritz? get a <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> should help revitalize them.

@@ -22,3 +22,5 @@ Once you've decided on a repairman, schedule an appointment for them to come out
 Depending on the severity of the problem, repairs can range from replacing worn out belts or hoses to rebuilding motors or replacing faulty electronics. The technician may also need to clean out the interior of the washer if it has been neglected for too long. Once they have identified the issue, they will discuss with you what parts or services are needed and provide an estimate of how much it will cost to fix it.
 
 Once all repairs have been made, be sure to ask the technician about preventive maintenance tips that will help keep your washer in good condition for years to come. With proper care, your washing machine should last for many years without needing any major repairs.
+
+Is your appliance playing up? This collection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> should help revitalize them.

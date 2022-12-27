@@ -22,3 +22,5 @@ Another possible cause of an oven door not closing is that it has become warped 
 Finally, if your oven door won’t close because it is stuck in place, then there may be something blocking it from closing properly. This could be anything from a piece of food that has become lodged in the track of the door or a piece of debris that has gotten stuck in the hinges. In these cases, you may need to remove whatever is blocking the door before it will close properly again.
 
 No matter what the cause of your oven door not closing properly, understanding why it isn’t closing can help you take action to fix it and get your oven back in working order as soon as possible.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

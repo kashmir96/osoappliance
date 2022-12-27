@@ -24,3 +24,5 @@ You may also want to check the dishwasher filter. This is a common spot for food
 Finally, you may need to descale your dishwasher. This is a process of removing mineral deposits from the dishwasher’s interior. You can buy a descaling solution from your local hardware store. Follow the directions on the package to descale your dishwasher and get rid of the bad smell.
 
 If you follow these tips, you should be able to get rid of the bad smell coming from your dishwasher. Remember to clean the dishwasher regularly and descale it occasionally to keep it smelling fresh.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

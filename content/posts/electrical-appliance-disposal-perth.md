@@ -24,3 +24,5 @@ Another option for disposing off unwanted electrical equipment is taking them di
 Finally, if none of these options suit your needs due simply contact a qualified electrician who should have access to facilities suitable for safe disposal of such items according to strict environmental regulations set out by state authorities – while this may cost more than other methods mentioned here but it could also save you time searching around trying find a suitable collection point near your home which might not even exist depending on where exactly in Perth you live! 
 
 Regardless of which method(s) decide on using when disposing off unwanted electrical items from around your home - remember that safety must always come first! Make sure any potentially dangerous items (such as fridges/freezers) are completely disconnected from mains power supply before attempting removal; this includes turning off any switches controlling them from inside the house as well so no one gets hurt during transportation process!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

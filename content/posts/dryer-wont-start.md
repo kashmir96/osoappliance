@@ -13,8 +13,6 @@ cover:
 
 ---
 
-# Dryer wont start
-
 If your dryer won't start, it could be due to a variety of reasons. Before you call a repairman, there are a few things you can try to get your dryer running again.
 
 The first thing to check is the power source. Make sure the power cord is securely plugged into the wall outlet and the dryer is turned on. If the dryer is plugged in and still won't start, check the circuit breaker or fuse box to make sure the circuit hasn't been tripped or blown.
@@ -26,3 +24,5 @@ If the door switch is working properly, you may need to check the start switch. 
 Finally, check the thermal fuse. The thermal fuse is a safety device that prevents the dryer from overheating. If the fuse is blown, the dryer won't start. To test the fuse, remove it from the dryer and test it with a multimeter. If the fuse is blown, it needs to be replaced.
 
 If none of these solutions work, it's time to call a repairman. With a few simple steps, you can troubleshoot your dryer and get it running again.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

@@ -22,3 +22,5 @@ Once you have shut off the gas supply and opened all of the windows and doors in
 It is important to never attempt to repair a gas leak yourself as this can be incredibly dangerous and could result in serious injury or death. If you suspect that there is a gas leak in your home, then it is best to call a professional right away. 
 
 Gas leaks are nothing to take lightly; if your stove has been leaking gas for hours, then you must act quickly and responsibly in order to ensure that everyone’s safety is not compromised. Contacting a professional plumber or repair technician should be your first step towards addressing this issue – they will be able to diagnose and fix any problems with your stove quickly and efficiently so that you can get back to using it safely once again.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

@@ -22,3 +22,5 @@ Another potential problem is the water temperature. If the water is too cold, it
 Finally, you may need to check the rinse aid dispenser. This is a device that helps the dishwasher to dry more effectively by reducing the surface tension of the water. If the rinse aid dispenser is empty or not functioning properly, it won’t be able to do its job. You can check the dispenser by removing it from the dishwasher and refilling it with the appropriate rinse aid.
 
 Hopefully, these tips will help you get your dishwasher drying dishes properly again. If the problem persists, however, you may need to call a professional for help.
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

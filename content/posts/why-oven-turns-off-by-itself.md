@@ -22,3 +22,5 @@ Another potential cause for an oven turning off by itself could be a wiring issu
 Finally, if your oven turns off by itself even after checking all of the above issues, it could be an issue with the control board or timer. The control board is responsible for controlling all of the settings on your oven and if it’s malfunctioning, then it can cause your oven to turn off unexpectedly. You should have this checked by a professional electrician as soon as possible.
 
 Overall, if your oven has been turning itself off without warning then you should take steps to diagnose and fix the problem as soon as possible. By taking these steps you can ensure that you don’t put yourself or your family in danger due to a faulty appliance.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

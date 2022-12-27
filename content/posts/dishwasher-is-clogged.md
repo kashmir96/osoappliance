@@ -24,3 +24,5 @@ Finally, check the spray arms. The spray arms can become clogged with food parti
 If you’ve followed these steps and your dishwasher is still clogged, it’s time to call a professional. A plumber or appliance repair technician can help you diagnose and repair the problem.
 
 Having a clogged dishwasher can be a hassle, but it doesn’t have to be. With a little bit of patience and some basic troubleshooting, you can get your dishwasher running smoothly again in no time.
+
+Lengthen the lifespan of your appliances with <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> can help you renew them with energy.

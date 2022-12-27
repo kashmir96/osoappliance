@@ -26,3 +26,5 @@ If the drum is too full or overloaded, it can also create a banging noise. Try r
 Finally, if the washing machine’s suspension springs are worn out, they could cause a banging noise. This is typically a more serious issue and will require a repair technician to fix it.
 
 If your washing machine is making a banging noise, try these tips and see if they resolve the issue. If the noise continues, it’s best to call a professional repair technician to take a look and diagnose the problem.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

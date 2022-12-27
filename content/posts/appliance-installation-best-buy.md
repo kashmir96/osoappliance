@@ -26,3 +26,5 @@ Once you’ve completed the installation, be sure to check for proper operation.
 Finally, make sure that you keep the manufacturer’s instructions and any other documentation in a safe place. This will be helpful if you need to troubleshoot any issues with the appliance in the future.
 
 By following these best practices for appliance installation, you’ll ensure that your appliance is installed correctly and safely. Good luck!
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

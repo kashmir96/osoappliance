@@ -24,3 +24,5 @@ To do so, follow these steps
 4. Replace the cover and plug the vacuum cleaner back into the wall to continue charging. 
 
 Once the battery is replaced, you will need to charge it for 24 hours. Once it is charged, you can put the cover back on the vacuum cleaner and start using it.
+
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is all you need to revive operations.

@@ -24,3 +24,5 @@ The third most common fault is with door seals becoming loose over time due to w
 Finally, another frequent problem encountered involves detergent dispensers becoming clogged up over time due either too much build-up of soap residue inside them or incorrect amounts being used during each wash cycle (i..e too little/or too much). The best way around resolving such issues? Try running an empty cycle without any dishes first but adding vinegar into each compartment - letting sit overnight will help dissolve away stuck-on grime while also deodorizing at same time! Afterwards just make sure correct amount detergent being added next round when loading up machine again afterwards (usually 1 tablespoon per load). 
 
 In conclusion, these are some of our top tips for diagnosing some of the most common dishwasher faults so hopefully now you feel more prepared when identifying problems within yours!
+
+Is your appliance misbehaving? This assortment of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

@@ -18,3 +18,5 @@ Washing machines making noise is a common issue that can be caused by a variety 
 Other causes of noise can include a worn out shock absorber, an improperly installed washing machine, or a blocked drain pipe. Worn shock absorbers can cause a thumping noise as the machine tries to absorb the vibrations from the spinning drum. An improperly installed washing machine can cause a grinding noise due to poor alignment of the drum and other components. Finally, a blocked drain pipe can cause a banging noise as the water is unable to escape.
 
 No matter the cause of the noise, it is important to address the issue as soon as possible to prevent further damage. If you are unable to identify the cause of the noise, it is best to contact a professional to inspect the machine and make any necessary repairs.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

@@ -28,3 +28,5 @@ Alternatively, if working with hot liquids isn’t an option due to lack of spac
 Finally, depending on where exactly on your refrigerator door the dent has occurred — its size and depth — using strong adhesive tape may also do wonders at fixing up dents in fridges! Cut two strips off from two ends of adhesive tape large enough so that they cover both sides of each other when placed over top; then press hard until they stick onto each other firmly as well as onto both sides inside/outside areas around where there was once damage on their respective surfaces.  
 
 With these tips and tricks for how-to repair dents on fridges yourself at home without having to pay out for expensive repairs from professionals; hopefully now you can save plenty more money towards buying other household items instead!
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> revamp your appliances.

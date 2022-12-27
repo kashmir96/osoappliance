@@ -22,3 +22,5 @@ Another potential issue could be that the thermostat in your oven is malfunction
 Finally, you may have an issue with one of the heating elements in either your stovetop or oven. If one of these elements has burned out or become damaged in some way, then it won’t be able to heat up properly and therefore won’t work correctly. To test this issue, try turning on one of the elements – if it doesn’t heat up at all or only heats up partially, then you likely need to replace that element in order for everything to work again.
 
 These are just some of the potential causes for why your stove and oven may not be working properly. If none of these solutions seem to fix the issue, then you should call a professional repair technician who can diagnose and repair any underlying issues with your appliance.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> nearby that can take care of the job for you.

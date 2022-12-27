@@ -28,3 +28,5 @@ If neither of these steps works, you may have an issue with the oven's control b
 Finally, if all else fails, you may need to replace the oven altogether. This can be costly but may be necessary in some cases. 
 
 No matter what's causing your oven not to turn on, it's important to troubleshoot thoroughly before attempting any repairs yourself. If you're unsure how to do this or don't feel comfortable doing so, contact a qualified technician for assistance.
+
+Alleviate your appliance woes using our free directory of local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> is going to help reactivate processes.

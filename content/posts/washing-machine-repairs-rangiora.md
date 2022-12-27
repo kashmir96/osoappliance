@@ -20,3 +20,5 @@ When looking for a technician to repair your washing machine in Rangiora, it’s
 If you can’t find a local technician who specialises in washing machine repairs then you may have to look further afield. For instance, getting someone from Christchurch City to travel out to Rangiora could prove expensive so it’s worth trying to get local service providers first if possible. 
 
 In conclusion, when looking for someone to repair your washing machine in Rangiora it pays off to do some research first and find out who has the most experience with your particular make and model of washer. Getting somebody from further away can be more expensive so try getting local service providers first if possible.
+
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> inject new vigor into them.

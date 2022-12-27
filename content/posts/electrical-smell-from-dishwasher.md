@@ -25,3 +25,5 @@ You should also clean out the inside of your dishwasher regularly with a damp cl
 If all these steps fail, then you may need to replace some parts in your dishwasher such as its motor or control board which could be causing the arcing issue in question here today! 
 
 Overall, if you notice any kind of burning smell coming from your dishwasher it’s important to take action immediately before things get worse!
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

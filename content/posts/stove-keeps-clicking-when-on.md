@@ -22,3 +22,5 @@ In some cases, the issue may be caused by a buildup of debris or dirt inside the
 If neither of these issues are causing your stove to click, then you may need to replace your igniter altogether. To do this, you’ll need to turn off all power sources to your stove and disconnect any wiring connected to the igniter before removing it from its housing. Once removed, you can purchase a new igniter from most hardware stores and install it yourself following any included instructions.
 
 No matter what’s causing your stove to click when on, it’s important that you address the issue quickly before any further damage can occur. If you’re unsure of how to diagnose or repair your stovetop yourself, contact a professional technician for assistance in getting your appliance back up and running safely again.
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

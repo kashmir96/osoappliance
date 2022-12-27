@@ -22,3 +22,5 @@ When an air conditioner is not working properly or has been damaged by a power s
 In addition to installation and repair work on existing units, an air conditioning electrical technician may also be called upon to install new units in homes or businesses. This involves more intricate wiring which requires special attention in order for it to meet local building codes as well as manufacturer’s specifications for safety reasons. 
 
 Ultimately an air conditioning electrical technician is an important part of keeping homes and businesses comfortable by ensuring that their climate control systems are operating smoothly and safely at all times
+
+Bring new life to your appliance with <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> can help you renew them with energy.

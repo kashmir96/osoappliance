@@ -24,3 +24,5 @@ If the float switch is working properly, then you may need to check the inlet va
 Finally, you may want to check the drain hose. This is the hose that carries water away from the dishwasher. If it’s clogged or kinked, it could prevent water from entering the dishwasher.
 
 If you’ve tried all of these steps and your dishwasher still isn’t filling with water, then you may need to call a professional for help. A qualified technician will be able to diagnose the problem and make the necessary repairs.
+
+Bring new life to your appliance with <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will revive activity.

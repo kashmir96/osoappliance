@@ -24,3 +24,5 @@ If your stove still won’t ignite after these steps, it could be an issue with 
 Finally, check for any loose connections or wiring issues which could be preventing your stove from igniting correctly. Make sure all connections are secure and that there are no frayed wires or other signs of damage in the area where you connect your stove to its power source. 
 
 If none of these tips work, then it might be time to call a professional to diagnose and repair any deeper issues with your stove. A qualified technician can help make sure that your stove is safe and functioning properly so you can get back to cooking without worry!
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

@@ -24,3 +24,5 @@ Once the old rack is removed, you can install the new one. Start by lining up th
 Finally, you’ll need to test the new rack to make sure it works properly. Load the dishwasher with dishes and run a cycle. If the rack is installed correctly, the dishes should come out clean and dry.
 
 Replacing the lower rack of your dishwasher is a simple process, but it’s important to take the time to do it correctly. Make sure you purchase the right parts and take the time to install the rack securely. With the right parts and a little bit of patience, you can easily replace your dishwasher’s lower rack and get back to enjoying clean dishes.
+
+Make things easier on yourself by finding local <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers</a> nearby that can take care of the job for you.

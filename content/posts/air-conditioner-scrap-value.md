@@ -25,3 +25,5 @@ When looking at air conditioners, there are several factors that will affect the
 5) Current Market Conditions: The current demand for similar items on the secondary market will also determine how much an old AC unit can fetch in terms of its scrap value. If there is high demand for certain types of refurbished parts then this could increase the overall price you can get for your scrapped air conditioner unit. 
 
 Overall, it’s difficult to estimate exactly how much money you could get from scrapping your old air conditioner without first assessing its age, type, brand and current market conditions; however, most people should expect to get between $30-$100 depending on all these factors mentioned above.
+
+Is your appliance on the blink? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help you inspire them with newness.

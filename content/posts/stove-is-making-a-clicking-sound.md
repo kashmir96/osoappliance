@@ -22,3 +22,5 @@ If you hear a clicking sound coming from your stove, it’s important to make su
 In most cases though, if you hear a clicking sound coming from your stove it’s just an indication that everything is working as it should. The igniter is doing its job and creating sparks to light up the gas on the burners so that they can be used to cook food.
 
 If you find yourself hearing a clicking sound coming from your stove more often than usual or if it seems louder than usual, then there may be an issue with one of the components and you should contact a professional for help right away. Otherwise, don’t worry; it’s likely just your stove doing its job!
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

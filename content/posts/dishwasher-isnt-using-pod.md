@@ -26,3 +26,5 @@ If your dishwasher isn't using dishwasher pods, it could be due to a variety of 
 5. Is the dishwasher pod stored properly? Dishwasher pods should be stored in a cool, dry place. If the pod has been exposed to moisture or heat, it may not be working properly.
 
 If none of these solutions seem to work, it may be time to call a repairman. A professional can diagnose the issue and help you get your dishwasher working properly again.
+
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

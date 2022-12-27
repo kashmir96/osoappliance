@@ -24,3 +24,5 @@ No matter the cause, the best way to get rid of the smell is to clean your dryer
 Additionally, you should also have your dryer vent inspected and cleaned by a professional. This will help to ensure that any blockage or buildup is cleared out, reducing the chances of a fire hazard and helping to get rid of the smell.
 
 If you’re dealing with a dryer that smells like a dead animal, don’t panic. With a bit of cleaning and a professional inspection of your dryer vent, you can get rid of the smell and enjoy a fresh, clean dryer once again.
+
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

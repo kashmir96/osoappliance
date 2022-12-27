@@ -26,3 +26,5 @@ Scrap metal dealers will often pay top dollar for large commercial-grade compres
 When selling your old compressor for scrap value, make sure you know exactly what type of unit you have so you can accurately describe it to potential buyers. You should also take pictures of it before you attempt to sell it so buyers can get an idea of its condition and see if they’re interested in purchasing it from you before making an offer or committing to a sale price. 
 
 Overall, air conditioner compressors can add significant value to your scrap metal collection if they’re in good condition—but make sure you do your research first! By understanding your unit’s worth and weighing up all your options before making a sale decision, you’ll ensure that you get top dollar for your old compressor when scrapping it for cash!
+
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help refresh them with spark.

@@ -1,24 +1,22 @@
 ---
 
 title: Dishwasher Parts Christchurch
-description: This post outlines the different parts that make up a dishwasher and why it's important to know them. It's a must-read for anyone who owns a dishwasher or is considering purchasing one.
+description: "Welcome to the blog of Dishwasher Parts Christchurch! We are a local shop that specializes in providing quality replacement parts ...read now to learn more"
 keywords: dishwasher parts christchurch
-publishDate: 6/19/2022
-tags: ["Christchurch", "Appliances", "Parts"]
+publishDate: 12/12/2022
+tags: ["Dishwasher", "Christchurch", "Clean Appliance", "Appliance Parts"]
 author: Curtis
-categories: ["Appliances Christchurch"]
+categories: ["Household Appliances"]
 cover: 
- image: /img/repair/2.webp
- alt: 'parts being put into a dishwasher repair in christchurch'
+ image: /img/dishwasher/329.webp
+ alt: 'spirited dishwasher that more than served its purpose'
 
 ---
 
-# Dishwasher parts christchurch
+Welcome to the blog of Dishwasher Parts Christchurch! We are a local shop that specializes in providing quality replacement parts for dishwashers. In this blog, we will be discussing some of the different components that make up a dishwasher, so you can better understand how your appliance works.
 
-As most of us know, the dishwasher is an essential appliance in our kitchens. It helps us to clean our dishes quickly and efficiently, so we can get on with our day-to-day lives. But what are the different parts that make up a dishwasher?
+In order to get a better idea of what is inside your dishwasher, let’s start with the exterior components. The outer shell of the dishwasher is made from stainless steel or plastic and is designed to protect the internal parts from dirt and dust. The door has an outer glass panel which allows you to see inside the machine when it’s running. You will also find several control knobs on the outside of your machine, these are used to select cycles, temperature settings and other features.
 
-Well, the most basic dishwasher is consists of four main parts. The first part is the tub, which is the container that holds the dishes and water. This is usually made of stainless steel or plastic and is often insulated to help reduce noise. The second part is the motor, which is responsible for powering the dishwasher. It is usually located at the back of the machine, and is the most expensive part of the dishwasher. The third part is the spray arm, which is a spinning, curved arm that sprays the water onto the dishes. This is connected to the motor and is responsible for getting the dishes clean. The fourth and final part is the drain, which is responsible for getting rid of the dirty water. This is usually connected to a sink or drain pipe. In addition to these basic parts, there are a few other components that may be included in a dishwasher. These include filters, which help to remove any food particles from the water; a heating element, which helps to increase the temperature of the water; and a control panel, which allows you to control the temperature, cycle time, and other settings.
+Now let’s move onto some of the internal components that play a role in making your dishwasher work properly. At the bottom you will find an electric motor which powers all of its functions such as washing and rinsing dishes, draining water and spinning them dry. Next there is a pump which helps circulate water through all of its compartments while also draining away any excess water once it has completed its cycle. Lastly there is an electronic control board which controls all other aspects such as setting cycle times and temperatures as well as controlling safety features like overheating protection etc…
 
-If you're a confident handy man, you may be able to diagnose and resolve issues with some of the above dishwasher parts by buying them online or in local stores. However, it is always best to contact a professional for any major repairs or maintenance.
-
-By understanding these different components of your dishwasher, you can better maintain it and ensure it runs smoothly. In Christchurch, there are a number of appliance repair services that can help you with any dishwasher-related issues. So, if you ever encounter any problems with your dishwasher, be sure to contact a professional to get it fixed quickly and efficiently.
+These are just some basic pieces that make up a typical dishwasher but depending on your model there may be additional parts such as heating elements or water filters etc…At Dishwasher Parts Christchurch we stock most common replacement parts for most major brands so if ever need something for your machine then please don't hesitate to contact us!

@@ -26,3 +26,5 @@ If you have a washing machine, chances are you’ve experienced some problems wi
 5 . Not agitating properly : If your washer isn't agitating correctly , it's likely due to either something being caught under the agitator , a broken drive belt , or motor issues . Start by removing any items stuck under the agitator before replacing both belts with new ones if needed - then check your motor for further inspection . 
 
 Hopefully these tips will help you diagnose and repair common washing machine problems quickly!
+
+When your appliances aren't working as they should, you can get help from a free directory of local services. This list will help you make your life easier and get your appliance running like new. You don't need to buy new appliances, you can just get the help you need to make your appliances last longer. <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> bring them back from the dead.

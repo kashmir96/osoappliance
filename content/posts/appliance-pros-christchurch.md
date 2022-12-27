@@ -22,3 +22,5 @@ In Christchurch, there are a variety of appliance repair pros, from independent 
 The best way to find an appliance repair pro in Christchurch is to ask around. Ask friends, family, and neighbours who they recommend. You could also look online and read reviews to get a better idea of the quality of service.
 
 Overall, there are a variety of appliance repair pros in Christchurch, so you should have no trouble finding one that meets your needs. Taking into account the type of appliance, budget and level of experience, you should be able to find the perfect appliance repair pro for your needs.
+
+Get your appliances to go even further with <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will help refresh them with spark.

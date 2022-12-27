@@ -24,3 +24,5 @@ The third most frequent repair has to do with thermostat malfunctioning due to i
 Finally, another common problem has something to do with ice build-up on freezer walls due either an incorrectly adjusted temperature setting (too low) or because there’s too much humidity present within its confines - both issues generally require professional attention as they may require special tools (like de-icers) for proper resolution! 
 
 These are just some of the more commonly encountered problems when it comes to refrigerators - but regardless of what specific issue you may find yourself dealing with regarding yours, always remember that seeking out professional help from certified technicians whenever necessary will always be worth investing in order ensure top-notch results every time!
+
+Is your appliance playing up? This collection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> that'll help them them go another mile.

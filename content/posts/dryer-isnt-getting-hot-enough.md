@@ -24,3 +24,5 @@ If the thermostat is set correctly and the vent is clear, then you may need to c
 Finally, check the power source. Make sure the dryer is plugged in and the outlet is working properly. If the power source is not working, the dryer won’t get hot enough.
 
 If you’ve tried all of the above steps and your dryer still isn’t getting hot enough, it may be time to call a professional. A repairperson can diagnose the issue and help you get your dryer back up and running.
+
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will help get your appliance running like new

@@ -22,3 +22,5 @@ You will need a few materials for this task including: an electrical box, condui
 Begin by connecting one end of the wire from your power source into one side of the electrical box then run it through an approved conduit before attaching it to another side of the box using locknuts to secure it in place. Next, connect two insulated wires from each side into each respective terminal on your device using wire nuts or other approved connectors as specified by manufacturer guidelines. Finally, use a voltage meter or tester to ensure proper connection before turning on electricity sources again and testing out your newly installed appliance! 
 
 By following these steps carefully, anyone can safely install their own dishwasher without having to call in a professional electrician – saving time and money in the process!
+
+Make things easier on yourself by finding local <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers</a> nearby that can take care of the job for you.

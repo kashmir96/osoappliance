@@ -22,3 +22,5 @@ For more serious issues that require urgent attention, emergency repairs are ava
 Finally, when should you consider calling a professional? The answer really depends on how comfortable you feel attempting DIY repairs as well as how important the affected appliance is to your daily life (for example if it's essential for food storage). If DIY isn't an option then it's best not to wait too long before getting help from a specialist – often times small problems can quickly become bigger ones requiring expensive fixes if neglected for too long. 
 
 We hope this blog has helped give you some insight into all the different types of appliance repair services out there today! From preventive maintenance checks that keep your appliances running smoothly over time to emergency repairs that address urgent issues quickly – there are plenty of options available depending on what kind of service you need at any given time. Thanks for reading!
+
+Is your appliance out of order? This series of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> will get operations moving.

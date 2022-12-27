@@ -22,3 +22,5 @@ When selecting an electrical cord for your dishwasher, it’s important to check
 It’s also important to make sure that the power capacity is sufficient enough to support both your dishwasher and any other appliances which may be connected at the same time – otherwise you could overload circuits and cause damage or injury from electric shock or fires from overheating components within those appliances which are not able to handle too much power flowing through them at once! 
 
 Finally, make sure that all cords are kept away from water sources such as sinks or tubs; moisture can damage insulation on cords leading them to become frayed over time – resulting in sparking which could spark fires! It's also wise practice not just when dealing with electricity but also when dealing with gas lines as well - always keep them out of reach of children so they won't accidentally tamper with them either!
+
+Make things easier on yourself by finding local <a href="/pages/appliance-parts-suppliers/">appliance parts suppliers</a> nearby that can take care of the job for you.

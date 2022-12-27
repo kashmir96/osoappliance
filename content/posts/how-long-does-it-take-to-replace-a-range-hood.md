@@ -21,3 +21,5 @@ Once you have successfully removed your existing hood and disconnected all neces
 
 If there are additional components needed for your particular installation such as extra ductwork or venting systems then this may add another few hours onto the total timeline for completing this project. Additionally, if there are any plumbing or electrical issues that arise during installation then these too could add some extra time onto the overall timeframe of replacing your range hood. 
 Overall though, most people should expect their replacement range hoods to take somewhere between 1-3 hours depending on what type of unit they’ve purchased and what sort of existing setup they have in place before starting their project.
+
+Is your appliance on the blink? This selection of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

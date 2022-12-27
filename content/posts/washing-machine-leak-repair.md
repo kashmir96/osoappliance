@@ -26,3 +26,5 @@ In some cases, you may need to replace parts such as seals, valves, drain pumps 
 Finally, if all else fails you may have an issue with your washer itself such as faulty wiring or internal malfunctioning components which will require professional help in order for them to get fixed properly and safely without causing further damage in the process. 
 
 Hopefully this guide has been able to give you some insight into how best to address a washing machine leak repair issue quickly and effectively!
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

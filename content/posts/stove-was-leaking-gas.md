@@ -26,3 +26,5 @@ If you have recently noticed that your stove is leaking gas, it is important to 
 5. Have your appliance serviced regularly. To avoid future problems with your stove or other gas appliances in your home, it is important to have them serviced regularly by a qualified technician who can inspect all of their components for signs of wear or damage and make any necessary repairs or replacements as needed. 
 
 By following these steps, you can help ensure that your stove is safe and functioning properly at all times so that you can enjoy its use without worrying about potential risks from a gas leak!
+
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/">appliance repair technicians</a> known to do a good job.

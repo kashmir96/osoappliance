@@ -22,3 +22,5 @@ If you’re not comfortable attempting repairs yourself, don't worry! There are 
 When calling for professional repair services, always make sure that they are experienced with all makes and models of washing machines so they can accurately diagnose and fix any issues that may arise during the repair process. Ask them if they offer maintenance services as well – regular maintenance can help prevent future problems from occurring by catching small issues before they become large ones! 
  
 In most cases, professional repairs will get your washer back on track in no time flat – but there may still be times when replacing the faulty part or even purchasing a new unit altogether is necessary in order to ensure optimal performance. In any case, getting regular servicing done on your washing machine will help ensure that it remains operational for years to come!
+
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.
