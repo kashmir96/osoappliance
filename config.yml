@@ -39,17 +39,22 @@ menu:
       url: /tags
       weight: 20
 
-    - identifier: parts
-      name: Appliance Parts Suppliers
-      url: /pages/appliance-parts-suppliers
+    - identifier: overviews
+      name: Appliance Overviews
+      url: /categories/appliance-overviews
       weight: 30
 
-    - identifier: repairs
-      name: Appliance Repair Technicians
-      url: /pages/appliance-repair-technicians/
+    - identifier: parts
+      name: Appliance Parts
+      url: /pages/appliance-parts-suppliers
       weight: 40
+
+    - identifier: repairs
+      name: Appliance Repairs
+      url: /pages/appliance-repair-technicians/
+      weight: 50
 
     - identifier: contact
       name: Contact
       url: /contact
-      weight: 50
+      weight: 60
