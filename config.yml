@@ -41,12 +41,12 @@ menu:
 
     - identifier: overviews
       name: Appliance Overviews
-      url: /categories/appliance-overviews
+      url: /categories/appliance-overviews/
       weight: 30
 
     - identifier: parts
       name: Appliance Parts
-      url: /pages/appliance-parts-suppliers
+      url: /pages/appliance-parts-suppliers/
       weight: 40
 
     - identifier: repairs

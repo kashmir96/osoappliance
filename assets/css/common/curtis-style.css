@@ -2,6 +2,10 @@
     margin: 50px 0px;
 }
 
+.listing-cta {
+    text-align:center;
+}
+
 .row > div > h, .row > div > p, .row > div > a {
     margin: 15px 0px;
 }
