@@ -25,4 +25,4 @@ Finally, some Asko dishwashers may have a faulty heating element. This can cause
 
 No matter what type of Asko dishwasher repair you need in Christchurch, there is a qualified technician nearby who can help. Whether it's a clogged drain hose, a clogged filter, or a faulty heating element, a technician can get your dishwasher back up and running in no time. Be sure to call a qualified technician today to get your Asko dishwasher repaired in Christchurch.
 
-Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will revive activity.
+Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will revive activity.

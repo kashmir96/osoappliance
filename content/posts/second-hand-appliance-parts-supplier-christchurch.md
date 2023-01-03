@@ -27,4 +27,4 @@ Finally, another great advantage of sourcing from second hand suppliers in Chris
 
 So if you’re looking for quality second hand appliance parts sourced directly from Christchurch locals then make sure you check out our list of top suppliers today!
 
-Is your appliance out of commission? This roster of <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> should help you resume operations.
+Is your appliance out of commission? This roster of <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> should help you resume operations.

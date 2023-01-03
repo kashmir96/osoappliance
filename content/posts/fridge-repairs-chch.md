@@ -21,4 +21,4 @@ When selecting an appliance repair service for fridge repairs in Christchurch, i
 
 Appliance repair specialists in Christchurch offer comprehensive fridge repairs at competitive rates with same day service available throughout Canterbury region including Christchurch City Centre and suburbs such as Riccarton & Ilam . Experienced experts are available at repairing all makes & models of refrigerators from leading brands such as Fisher & Paykel , Samsung , Bosch , LG etc., so regardless of what type of refrigerator you own there's a provider who will guarantee quality workmanship each time.
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

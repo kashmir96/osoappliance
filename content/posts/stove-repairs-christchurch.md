@@ -36,4 +36,4 @@ Finding Professional Stove Repairs Services In Christchurch:
 
 When searching for a professional service provider for your stove repair needs in Christchurch it’s important to make sure that they have experience dealing with similar models or brands of stoves as yours before hiring them so you know they are qualified to do the job correctly and safely. Additionally, it’s important to ask if they offer warranties on their work so you have peace of mind knowing that if there are any problems in future they will be covered by the warranty policy.
 
-Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will restore functionality.
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will restore functionality.

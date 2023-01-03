@@ -21,4 +21,4 @@ Once you have found a reputable service provider, it is important to talk throug
 
 Finally, when working with an appliance repair service in Christchurch make sure that all safety precautions are taken during the process of repairs including wearing protective clothing, avoiding contact with sharp edges or exposed wires at all times etc… This will ensure both your safety as well as the technician’s whilst completing necessary repairs inside your home environment!
 
-Find the best <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technician in Christchurch by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technician in Christchurch by clicking here</a> to view suppliers nearby.

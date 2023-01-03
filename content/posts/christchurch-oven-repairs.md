@@ -23,4 +23,4 @@ The good news is that most oven repairs can usually be completed within an hour 
 
 Overall, with so many experienced technicians available in Christchurch for all types of appliance repairs including those related to your oven – there’s no need for you worry about having any further problems with yours! Just make sure that you do enough research beforehand so that you can find someone reliable who knows exactly how best approach any potential issues before getting started on any repair job itself!
 
-Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> make things run again.
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> make things run again.

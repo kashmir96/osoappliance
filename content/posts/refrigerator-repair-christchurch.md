@@ -23,4 +23,4 @@ When looking for refrigerator repair services in Christchurch, there are several
 
 No matter which option you choose for your refrigerator repair needs in Christchurch, make sure you hire someone qualified for the job so that everything runs smoothly once again!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

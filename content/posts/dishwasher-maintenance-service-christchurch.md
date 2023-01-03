@@ -23,4 +23,4 @@ Finally, for those who prefer do-it-yourself repairs, there are online tutorials
 
 No matter which option you choose, it’s important to remember that regular maintenance such as cleaning out filters and hoses can help prevent costly breakdowns down the line so make sure your appliance gets this attention regularly too!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

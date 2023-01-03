@@ -25,4 +25,4 @@ Finally, there’s one more option available which can help save money while sti
 
 In conclusion, finding quality appliance spares at affordable prices does not need to be difficult thanks to these stores located throughout Palmerston North city centre offering everything from brand new pieces through to used spares – helping keep costs down while ensuring reliable performance from any machine!
 
-Find the best <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.

@@ -25,4 +25,4 @@ Ovens: Ovens can be notoriously difficult when it comes to repairs but again the
 
 No matter what type of appliance part or repair service that you're after in Christchurch, chances are good that someone nearby will have exactly what you need – just remember that shopping around is always key when it comes finding quality spares at competitive prices!
 
-Find the best <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.

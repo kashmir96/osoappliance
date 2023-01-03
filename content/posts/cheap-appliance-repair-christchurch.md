@@ -23,4 +23,4 @@ Finally, there are some DIY solutions that may be able to help with your applian
 
 No matter what type of appliance repair needs you have in Christchurch, there are plenty of options available that won’t break the bank! From local repair shops to online services and even DIY solutions, there’s no reason why anyone should have to pay an arm and a leg just to get their appliances fixed up properly again!
 
-Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.

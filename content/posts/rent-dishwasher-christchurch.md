@@ -23,4 +23,4 @@ When renting a dishwasher in Christchurch, there are several factors that should
 
 Renting a dishwasher in Christchurch can be an easy and affordable way to get access to an appliance without breaking out the credit card for full purchase price (or more!). With proper research into available models and companies offering them for rent in your area, finding the perfect match should present no problem at all!
 
-Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that operate in your area.
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that operate in your area.

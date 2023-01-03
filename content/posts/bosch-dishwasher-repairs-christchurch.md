@@ -23,4 +23,4 @@ Finally, there are plenty of online resources available for troubleshooting and 
 
 No matter which method of repair you choose, it is always best practice to take care when handling any electrical appliances – even if they appear straightforward enough at first glance! Following manufacturer guidelines, using safe techniques and wearing protective equipment when necessary will help ensure that all repairs go smoothly and safely while also protecting both yourself and your appliance from further damage or injury.
 
-Is your appliance out of commission? This roster of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that will kick things back into gear.
+Is your appliance out of commission? This roster of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that will kick things back into gear.

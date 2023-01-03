@@ -23,4 +23,4 @@ Another important factor when choosing an appliance repair service is customer s
 
 If you’re looking for reliable appliance repair services in Christchurch then look no further than Smith Appliance Repair Services! We offer fast response times on all types of major household devices including refrigerators, washing machines, dryers & stoves! Our experienced technicians have years of experience working on all types & brands which enables us to quickly identify & fix any potential problems while also providing customers with quality assurance warranties on our workmanship! Contact us today & let’s get started getting your home back up & running like new again!
 
-Find the best <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technician in Christchurch by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technician in Christchurch by clicking here</a> to view suppliers nearby.

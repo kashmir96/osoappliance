@@ -23,4 +23,4 @@ For those looking for a more comprehensive service, some companies offer extende
 
 When it comes to appliance repair in Christchurch, there are plenty of options available. You can find a reliable service provider that offers quality service for a fair price. With the right provider, you can trust that your appliance will be fixed quickly and correctly, so you can get back to using it as soon as possible. Whether you need a small repair or a complete overhaul, you can find the help you need in Christchurch.
 
-Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.

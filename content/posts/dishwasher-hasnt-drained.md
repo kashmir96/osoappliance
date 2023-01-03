@@ -25,4 +25,4 @@ If the drain pump is in good condition, the last step is to check the drain valv
 
 If you’ve followed all of these steps but your dishwasher still isn’t draining properly, it’s likely a sign of a more serious problem and you may need to call a professional.
 
-Is your appliance out of commission? This roster of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will help you inspire them with newness.
+Is your appliance out of commission? This roster of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will help you inspire them with newness.

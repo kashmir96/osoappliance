@@ -23,4 +23,4 @@ Finally, when shopping for oven parts in Christchurch it is important to make su
 
 We hope this blog post has helped provide some insight into finding spare parts for your oven in Christchurch – good luck with all your repairs!
 
-Got an appliance running on the fritz? get a <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> should help revitalize them.
+Got an appliance running on the fritz? get a <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> should help revitalize them.

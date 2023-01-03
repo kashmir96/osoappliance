@@ -23,4 +23,4 @@ Finally, when shopping online for appliance spares in Tauranga you can often fin
 
 In conclusion, buying appliance spares from an online supplier is often the best bet if you want quality parts at an affordable price while still enjoying all the convenience of modern shopping methods like same-day shipping and free delivery options – not to mention fantastic deals on bulk orders too! So go ahead – shop smartly and get everything sorted without having to leave home!
 
-Find the best <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.

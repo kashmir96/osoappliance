@@ -25,4 +25,4 @@ Renting a refrigerator in Christchurch gives you access to a wide selection of d
 
 Renting a refrigerator in Christchurch provides you with a convenient and affordable way to get the refrigerator you need for your home. With the right rental company and the right rental agreement, you can get the refrigerator you need at an affordable price.
 
-Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that operate in your area.
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that operate in your area.

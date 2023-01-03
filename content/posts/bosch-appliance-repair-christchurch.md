@@ -23,4 +23,4 @@ Another option for finding a qualified professional for your Bosch repairs is by
 
 Finally, don’t forget about online forums and discussion boards where people share their experiences with various brands and models of appliances like those made by Bosch. This could be a great way to find reviews from customers who have already had their appliances serviced by certain companies or technicians in Christchurch—and this could give you some insight into which ones might do a good job repairing yours too!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

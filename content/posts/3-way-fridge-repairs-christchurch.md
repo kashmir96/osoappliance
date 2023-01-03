@@ -23,4 +23,4 @@ Are you living in Christchurch and dealing with a broken refrigerator? Don’t w
 
  All things considered, repairing your fridge doesn't have to be expensive or difficult when done correctly--it just takes knowing which resources will best serve your needs (and pocketbook!). Whether it's contacting a local appliance repair service, trying out some DIY solutions yourself or researching refrigeration parts suppliers - these three tips will help get your refrigerator up and running again in no time!
 
- Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+ Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

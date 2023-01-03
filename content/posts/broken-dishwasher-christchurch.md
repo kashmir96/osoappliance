@@ -23,4 +23,4 @@ When choosing a repair specialist for your broken dishwasher in Christchurch mak
  
 Having a broken dishwasher can be inconvenient but with the help of an experienced professional in Christchurch you can rest assured that everything will get fixed quickly and correctly so that your kitchen stays clean and sparkling again!
 
-Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.

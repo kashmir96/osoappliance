@@ -23,4 +23,4 @@ When choosing a service technician for Fisher and Paykel dishwasher repairs in C
 
 Fisher and Paykel dishwashers offer great value when compared to other brands and models on the market today. And with proper maintenance and occasional repairs from experienced professionals when needed, this brand will continue providing excellent performance for years to come!
 
-Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will restore functionality.
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will restore functionality.

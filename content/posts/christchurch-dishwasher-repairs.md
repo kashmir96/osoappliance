@@ -25,4 +25,4 @@ Finally, make sure that you understand exactly how much the repairs will cost be
 
 With these tips in mind, finding a reliable dishwasher repair service in Christchurch should be easy and stress-free!
 
-You don't need to buy new appliances, you can just get <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.
+You don't need to buy new appliances, you can just get <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.

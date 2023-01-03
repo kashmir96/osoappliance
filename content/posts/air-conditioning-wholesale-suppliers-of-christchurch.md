@@ -23,4 +23,4 @@ Another benefit of shopping with air conditioning wholesale suppliers in Christc
 
 So if you're looking for an affordable way to keep your home or office comfortable all year round without breaking the bank, why not look into purchasing an air conditioner from one of Christchurch's many wholesale suppliers? You'll be sure to find something suitable for your needs at a price point that suits your budget perfectly!
 
-Is your appliance out of order? This series of <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> breathe new life into them.
+Is your appliance out of order? This series of <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> breathe new life into them.

@@ -23,4 +23,4 @@ When calling for professional repair services, always make sure that they are ex
  
 In most cases, professional repairs will get your washer back on track in no time flat – but there may still be times when replacing the faulty part or even purchasing a new unit altogether is necessary in order to ensure optimal performance. In any case, getting regular servicing done on your washing machine will help ensure that it remains operational for years to come!
 
-Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.

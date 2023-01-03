@@ -23,4 +23,4 @@ Next, you should check the door seal to make sure there are no gaps or tears tha
 
 If all else fails, it's time to contact a professional appliance technician for further assistance. They'll have access to specialized tools and diagnostic techniques that may help pinpoint the problem more quickly and efficiently than what you can do yourself at home. The technician may also be able to offer advice on whether replacing parts or having repairs done will be more cost effective than buying a new appliance altogether
 
-Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.

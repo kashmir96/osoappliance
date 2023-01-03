@@ -23,4 +23,4 @@ In addition, it’s important that the technician you work with is willing to st
 
 Overall, having an experienced professional take care of your Smeg Dishwasher repairs in Christchurch can make all the difference when it comes time for repairs or maintenance on your appliance. With an experienced tech working on your appliance, you can rest assured knowing that your dishwasher will be properly repaired and functioning as efficiently as possible once again!
 
-If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.

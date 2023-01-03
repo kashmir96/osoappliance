@@ -23,4 +23,4 @@ If you’re looking for affordable parts or accessories for your home appliances
 
 Finally, if none of these options suit your needs then there is always the option of buying new or used home appliances from second-hand stores like Cash Converters which often has great deals on quality items at very reasonable prices
 
-Find the best <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technician in Christchurch by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technician in Christchurch by clicking here</a> to view suppliers nearby.

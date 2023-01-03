@@ -21,4 +21,4 @@ When it comes to customer service experience is key when it comes to electrical 
 
 So if you need some reliable electrical appliance repairs or maintenance then don’t hesitate to contact the experts at Electrical Appliance Repairs Tauranga today! They are sure to provide top-notch customer service along with high quality workmanship which will have your appliances back up running again in no time!
 
-Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-new-zealand/">appliance repair technicians in new zealand</a> can help you renew them with energy.
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/new-zealand/">appliance repair technicians in new zealand</a> can help you renew them with energy.

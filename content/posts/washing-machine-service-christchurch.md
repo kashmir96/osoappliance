@@ -23,4 +23,4 @@ In addition to regular servicing and maintenance, it's important that you also u
 
 The long term benefits of regular service and maintenance for your washing machine are numerous; an efficiently running machine helps save energy costs while reducing wear-and-tear on the parts which can ultimately extend its lifespan by many years. In addition, having a well maintained appliance also helps maintain cleanliness - which is especially important when dealing with items such as baby clothes or bedding!
 
-Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> should help you resume operations.
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> should help you resume operations.

@@ -27,4 +27,4 @@ Finally, once all of the repairs have been completed, make sure that everything 
 
 With proper maintenance and regular servicing from experienced professionals, your freezer should last for years without needing major repairs or replacements - saving you both time and money in the long run!
 
-Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.

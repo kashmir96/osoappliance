@@ -27,4 +27,4 @@ Finally, make sure to ask the repair service any questions you may have about th
 
 Appliance repairs can be a stressful process, but with the right service and proper preparation, you can get your appliance running again in no time.
 
-Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> should help revitalize them.
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> should help revitalize them.

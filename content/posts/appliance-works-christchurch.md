@@ -21,4 +21,4 @@ The way an appliance works is based on the type of appliance and the power sourc
 
 No matter what type of appliance you have in your home, it’s important to make sure it is working properly. Regular maintenance and cleaning will help to keep your appliances running smoothly. If you have any questions or concerns about how an appliance works in Christchurch, it’s best to contact a professional for assistance.
 
-Lengthen the lifespan of your appliances with <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will restore functionality.
+Lengthen the lifespan of your appliances with <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will restore functionality.

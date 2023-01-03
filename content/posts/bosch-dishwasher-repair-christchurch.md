@@ -23,4 +23,4 @@ Another option is a professional appliance service company that offers comprehen
 
 Overall, if you’re looking for reliable Bosch dishwasher repair Christchurch wide then either an independent technician or a professional appliance service company should be able to help you out! Both options offer quality workmanship at competitive rates so make sure you shop around beforehand until you find someone who meets your needs perfectly - both financially and professionally!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

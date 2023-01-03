@@ -23,4 +23,4 @@ When selecting an appliance repair service provider, make sure you research thei
 
 Finally – when possible – try to source quality replacement parts from reputable sources such as authorized dealerships which will ensure that your repair job is done right while avoiding costly mistakes due to using cheap alternatives from unverified sources online! This practice will help extend the life expectancy of your big appliances by ensuring only genuine parts are used during repairs instead of inferior knock-offs which could cause more damage than good over time!
 
-Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will revive activity.
+Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will revive activity.

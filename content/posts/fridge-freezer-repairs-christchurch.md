@@ -29,4 +29,4 @@ Once your fridge freezer has been repaired, there are several important checks t
 
 By following these steps after having refrigerator/freezer repairs completed in Christchurch–you can rest easy knowing that everything is running smoothly again!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

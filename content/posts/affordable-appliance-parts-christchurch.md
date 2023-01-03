@@ -25,4 +25,4 @@ Finally, don't forget about eBay - many sellers offer used or refurbished applia
 
 Finding appliance parts in Christchurch doesn't have to be difficult - there are plenty of great options out there depending on your budget and needs! Just remember that quality counts when it comes to buying replacement or repair components – it pays off in the long run when things work properly!
 
-Find the best <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.

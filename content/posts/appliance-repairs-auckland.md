@@ -23,4 +23,4 @@ At Appliance Repairs Auckland we offer top-notch service at competitive rates ac
 
 When it comes down to it Appliance Repairs Auckland provides unbeatable customer service combined with quality workmanship – so don’t hesitate any longer if your household appliances need some TLC – contact us today for fast yet effective repairs that won’t break the bank either!
 
-Find the best <a href="/pages/appliance-repair-technicians-in-auckland">appliance repair technician in New Zealand by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-repair-technicians/new-zealand/auckland">appliance repair technician in New Zealand by clicking here</a> to view suppliers nearby.

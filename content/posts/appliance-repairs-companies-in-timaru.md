@@ -25,4 +25,4 @@ Finally, many appliance repair businesses in Timaru also offer dryer repair serv
 
 In conclusion, if you’re ever having problems with any home appliances then don’t hesitate - contact one of the professional appliance repairs businesses in Timaru today! They’re guaranteed provide efficient solutions which save both time & money while helping preserve our beloved home comforts too - what more could we ask for?
 
-Find the best <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technician in Christchurch by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technician in Christchurch by clicking here</a> to view suppliers nearby.

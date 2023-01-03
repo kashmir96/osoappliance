@@ -23,4 +23,4 @@ Moreover, most companies will offer preventative maintenance packages so your eq
 
 In conclusion, if you need reliable refrigerator repair services in Christchurch then make sure you choose a company with experience in both residential & commercial systems along with access to necessary parts & components – this way your equipment will get top quality care at an affordable price resulting in long-term reliability!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

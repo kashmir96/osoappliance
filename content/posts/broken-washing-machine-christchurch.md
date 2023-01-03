@@ -23,4 +23,4 @@ Afterwards, if parts need to be ordered or special tools brought in for repairs,
 
 Taking care of a broken washing machine may seem stressful but rest assured there are plenty of experienced professionals living in Christchurch who can help get yours running again quickly and efficiently! Just remember: always discuss cost beforehand so everyone is clear about what needs doing before any work begins.
 
-Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.

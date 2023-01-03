@@ -21,4 +21,4 @@ In addition to local appliance stores, there are also online retailers that spec
 
 Finally, if neither of these options works for you then it may be worth considering contacting a professional repair service in Christchurch who has experience working on dryers specifically. These services can be somewhat expensive but they offer expertise when it comes to diagnosing problems as well as sourcing hard-to-find spare parts quickly and efficiently – something which is invaluable when time is of the essence!
 
-Avoid breaking the bank on new appliances, just get <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> known to do a good job.
+Avoid breaking the bank on new appliances, just get <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> known to do a good job.

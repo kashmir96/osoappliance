@@ -21,4 +21,4 @@ When it comes to safety, buying a refreshed appliance is generally much safer th
 
 In conclusion, when it comes to deciding between buying new or refurbished appliances in Christchurch, purchasing refurbished can offer many benefits such as lower prices and extended warranties which can give buyers peace of mind when making their purchase. Plus, because all refurbished items have been thoroughly checked before sale they are generally much safer than purchasing second hand - making them an ideal choice for anyone looking to save money without compromising on quality or safety.
 
-Is your appliance playing up? This collection of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will get operations moving.
+Is your appliance playing up? This collection of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will get operations moving.

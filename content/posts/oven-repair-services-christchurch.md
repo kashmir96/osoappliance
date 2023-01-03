@@ -23,4 +23,4 @@ In addition, many companies offer warranties on their work so if there are any u
 
 Having reliable oven repairs services in Christchurch is essential for keeping your household running smoothly - no one wants their kitchen out of action for too long! When something goes wrong with your appliance don't hesitate - contact an experienced professional today who will be able to resolve the issue quickly and easily without breaking the bank!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

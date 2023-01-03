@@ -33,4 +33,4 @@ With so many options available, finding a cheap washing machine in Christchurch 
 
  Whatever type of cheap washing machine you choose, take your time when shopping around so that you get the best deal possible without compromising on quality or reliability!
 
- Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.
+ Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.

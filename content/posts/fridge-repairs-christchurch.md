@@ -21,4 +21,4 @@ When you bring your broken refrigerator into a repair shop in Christchurch, the 
 
 No matter what type of problem you are facing with your fridge in Christchurch – whether it’s something minor like changing a lightbulb or something more complex such as compressor failure - ensure that you enlist the help of an experienced technician who is familiar with all types of refrigerator brands and models so they can provide expert advice and reliable solutions at competitive rates.
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

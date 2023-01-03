@@ -23,4 +23,4 @@ In addition to repairing appliances, electrical appliance specialists in Christc
 
 Whether you need minor repairs or want a complete overhaul of your appliances, make sure that you choose a reliable electrical appliance repair service in Christchurch who has a good reputation for quality workmanship and customer satisfaction. With their help, your home will be back up and running again in no time!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

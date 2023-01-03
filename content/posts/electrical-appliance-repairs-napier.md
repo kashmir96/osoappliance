@@ -21,4 +21,4 @@ Once you’ve identified the right company for your specific repair needs, it’
 
 Finally, once the repair has been completed successfully, make sure to keep records related to who did the job and when – this way if there are ever any future problems with your appliance then you will have documentation in hand to support any legal claims which could arise as a result of faulty workmanship or parts used during the process. As long as everything is done correctly then there should be no problems but it never hurts to have some peace of mind!
 
-Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians-in-new-zealand/">appliance repair technicians in new zealand</a> that will kick things back into gear.
+Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians/new-zealand/">appliance repair technicians in new zealand</a> that will kick things back into gear.

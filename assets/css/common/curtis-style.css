@@ -6,8 +6,30 @@
     text-align:center;
 }
 
+.row > div {
+    padding:20px;
+}
+
+
 .row > div > h, .row > div > p, .row > div > a {
     margin: 15px 0px;
+}
+
+
+.banner {
+    width:100% !important;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
+    height:75vh;
+    padding:50px;
+    margin:0px;
+}
+
+.banner img {
+    filter: brightness(0) invert(1);
+}
+
+.banner h1, .banner p {
+    color: white;
 }
 
 /* css for contact form */

@@ -25,4 +25,4 @@ Finally, if all else fails there are always local stores that stock generic comp
 
  All-in-all there are several options available when looking for replacement appliance parts in the Tauranga area so whether you need something specific or just want to upgrade one component within an existing system there should be something suitable out there! With careful research and comparison shopping between different suppliers both online and off, it should be possible to find whatever item(s) you need at reasonable prices without having to travel too far from home either!
 
- Find the best <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.
+ Find the best <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.

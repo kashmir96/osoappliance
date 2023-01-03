@@ -25,4 +25,4 @@ As an appliance repair technician, you need to have systems in place to help you
 
 Having these types of systems in place can help streamline your workflow and ensure that each customer receives the best possible experience when working with your company for repairs or maintenance services on their appliances. They may require an upfront investment but they can save you valuable time and money down the line while also helping improve customer satisfaction levels with your business!
 
-Is your appliance out of order? This series of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will help you revive them with enthusiasm.
+Is your appliance out of order? This series of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will help you revive them with enthusiasm.

@@ -21,4 +21,4 @@ Buying replacement parts from local stores in Christchurch can help extend the l
 
 Overall, replacing parts on your Smeg dishwasher doesn’t have to be difficult or expensive when done correctly - buying genuine components from local stores in Christchurch can go a long way towards extending the life of your washing machine!
 
-Get your appliances to go even further with <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> that will kick things back into gear.
+Get your appliances to go even further with <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> that will kick things back into gear.

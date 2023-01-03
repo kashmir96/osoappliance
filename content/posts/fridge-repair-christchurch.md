@@ -25,4 +25,4 @@ Finally, make sure to ask about the cost of the repair. Different companies will
 
 Finding a reliable and experienced fridge repair service in Christchurch doesn’t have to be a difficult task. With the right research and preparation, you can find a service that will get your fridge up and running again in no time.
 
-You don't need to buy new appliances, you can just get <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.
+You don't need to buy new appliances, you can just get <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.

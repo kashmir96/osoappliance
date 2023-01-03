@@ -25,4 +25,4 @@ When choosing a service provider for your washing machine repair needs it’s im
 
 Overall if you live in Rolleston chances are you will need to get your washing machine repaired at some point – fortunately there are reliable local repair providers available that can save you time and money!
 
-Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> inject new vigor into them.
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> inject new vigor into them.

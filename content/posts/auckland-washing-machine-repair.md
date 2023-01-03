@@ -25,4 +25,4 @@ Once the repairs have been completed, make sure to test the washing machine thor
 
 If you’re looking for washing machine repair in Auckland, don’t hesitate to contact a reputable service. With the right repair service, you can have your washing machine up and running again in no time.
 
-Is your appliance playing up? This collection of <a href="/pages/appliance-repair-technicians-in-auckland">appliance repair technicians in auckland</a> should help you energize them with freshness.
+Is your appliance playing up? This collection of <a href="/pages/appliance-repair-technicians/new-zealand/auckland">appliance repair technicians in auckland</a> should help you energize them with freshness.

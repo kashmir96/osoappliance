@@ -37,4 +37,4 @@ Hello and welcome to this article on 10 tips for maintaining your washing machin
 
 In conclusion, following these 10 tips will help to keep your washing machine running smoothly and efficiently. Taking the time to maintain your machine will help to extend its life and keep it running in top condition.
 
-Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians</a> will help refresh them with spark.
+Is your appliance having issues? This selection of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians</a> will help refresh them with spark.

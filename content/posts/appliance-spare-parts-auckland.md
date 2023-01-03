@@ -21,4 +21,4 @@ The key benefit of buying from an online appliance spare parts supplier is conve
 
 Whether it’s repairing an old favourite or replacing an outdated model altogether – having access to quality appliance spare parts is essential for keeping Auckland homes fresh and functional. So why not take advantage of New Zealand’s wide selection of online suppliers today?
 
-Find the best <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.

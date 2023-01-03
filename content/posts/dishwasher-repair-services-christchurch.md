@@ -21,4 +21,4 @@ Once you’ve found a reputable repair service, the next step is to determine wh
 
 Finally, make sure you get an estimate before any work begins so there are no surprises once everything is said and done! With proper maintenance and occasional repairs from experienced professionals like those found in Christchurch – your dishwasher should serve you well for many years to come!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

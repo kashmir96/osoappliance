@@ -25,4 +25,4 @@ Buying appliance parts in Christchurch can be a bit of a challenge, especially i
 
 By following these tips, finding the right appliance part for your repair or upgrade project should be relatively quick and easy! Don’t forget that buying online is usually more cost-effective than purchasing from a physical retailer – just make sure that any websites used are secure before entering payment details!
 
-Is your appliance out of order? This series of <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> is going to help reactivate processes.
+Is your appliance out of order? This series of <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> is going to help reactivate processes.

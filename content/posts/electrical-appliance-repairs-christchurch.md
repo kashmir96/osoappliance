@@ -23,4 +23,4 @@ Finally, there are a number of other advantages to getting electrical appliance 
 
 Overall, if you ever find yourself needing electrical appliance repairs in Christchurch then don't hesitate to seek out professional help from a local expert!
 
-Is your appliance out of order? This series of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> bring them back from the dead.
+Is your appliance out of order? This series of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> bring them back from the dead.

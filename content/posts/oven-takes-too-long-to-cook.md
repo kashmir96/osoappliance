@@ -23,4 +23,4 @@ Finally, if none of these seem to apply, there may simply be too much food in yo
 
 In conclusion, if your oven takes too long to cook there could be any number of reasons why this is happening but most issues can usually be solved relatively quickly with a few simple adjustments or repairs from a professional technician if needed.
 
-Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians-in-auckland/">appliance repair technicians in auckland</a> bring them back from the dead.
+Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians/new-zealand/auckland/">appliance repair technicians in auckland</a> bring them back from the dead.

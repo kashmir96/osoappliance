@@ -23,4 +23,4 @@ The cost of repairing a Samsung washing machine will vary depending on the natur
 
 In conclusion, if your Samsung washing machine is giving you trouble then it’s important that you take steps to have it repaired quickly – either by contacting an appliance store or independent repair shop - so that it doesn’t cause any further damage down the line. The cost of repairing these machines varies depending on what needs done but usually falls within the range noted above – $75-$150 for basic repairs and more if more extensive work is needed
 
-Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> should help you energize them with freshness.
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> should help you energize them with freshness.

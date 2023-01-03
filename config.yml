@@ -34,14 +34,14 @@ menu:
       url: /posts/
       weight: 10
 
-    - identifier: tags
-      name: Tags
-      url: /tags
-      weight: 20
-
     - identifier: overviews
       name: Appliance Overviews
       url: /categories/appliance-overviews/
+      weight: 20
+
+    - identifier: rental
+      name: Appliance Rental
+      url: /pages/appliance-rental/
       weight: 30
 
     - identifier: parts
@@ -58,3 +58,9 @@ menu:
       name: Contact
       url: /contact
       weight: 60
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

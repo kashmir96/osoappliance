@@ -25,4 +25,4 @@ In terms of installation difficulty, oven elements and gas burners would both cl
 
 Overall then it is clear that there are lots of different types of stove parts available in Christchurch – so whatever you need replacing you should have no problem finding it! The key thing is just making sure that you get the correct part for your particular model as this will ensure that everything fits together properly when installed – ultimately saving you time (and money!) down the line!
 
-You don't need to buy new appliances, you can just get <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> bring them back from the dead.
+You don't need to buy new appliances, you can just get <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> bring them back from the dead.

@@ -23,4 +23,4 @@ Finally, there are several independent service providers operating in Christchur
 
 No matter which type of service provider you decide on, it’s important to ensure they have experience working on the specific brand or model of appliance you need repaired so that they have access to the appropriate parts required for repairs too if needed!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

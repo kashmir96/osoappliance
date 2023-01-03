@@ -21,4 +21,4 @@ Compact washing machines also offer a variety of features that make them incredi
 
 The best part about compact washing machines is their affordability – they usually cost significantly less than traditional models and can save you money in the long run due to their energy efficiency. So if you're looking for an efficient and cost-effective way to do laundry in Christchurch, then a compact washer may be just what you need!
 
-Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in Christchurch</a> is helpful to rekindle them with excitement.
+Is your appliance in disrepair? This group of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in Christchurch</a> is helpful to rekindle them with excitement.

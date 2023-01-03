@@ -21,4 +21,4 @@ When it comes to diagnosing an issue with a broken appliance, our team uses stat
 
 At Ashburton Appliances, we take pride in providing top quality service while still offering competitive rates - so don't hesitate to contact us today if you're in need of appliance repair services!
 
-Find the best <a href="/pages/appliance-repair-technicians-in-new-zealand//">appliance repair technician in New Zealand by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-repair-technicians/new-zealand/">appliance repair technician in New Zealand by clicking here</a> to view suppliers nearby.

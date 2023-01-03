@@ -23,4 +23,4 @@ Once you’ve found a reputable Miele dishwasher repair service, make sure that 
 
 Finally, when getting Miele dishwasher repaired in Christchurch, make sure that all safety measures are taken during installation or maintenance work carried out on site – including using appropriate protective clothing such as gloves and goggles if necessary – so that nothing goes wrong while working onsite.. Doing this will ensure that both yourself and anyone else involved remain safe throughout any work carried out onsite!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

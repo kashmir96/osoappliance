@@ -29,4 +29,4 @@ Finally, it’s important to remember that not all washing machine repairs are t
 
 Overall, there are plenty of qualified professionals offering washing machine repair services in Christchurch. Whether you choose to take your machine to a local repair shop or hire a mobile repair service, make sure you do your research to ensure you’re getting the best service possible.
 
-Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.

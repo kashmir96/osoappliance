@@ -27,4 +27,4 @@ Finally, a broken washing machine door can also be caused by a faulty gasket. Th
 
 We hope this blog has given you a better understanding of how to fix a broken washing machine door. If you’re still not sure what to do, it’s best to call a professional for assistance.
 
-Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/">appliance repair technicians in christchurch</a> can help you renew them with energy.

@@ -25,4 +25,4 @@ Finally, compare prices between several different services before making your fi
 
 Hopefully this post has given you some useful information on how to pick a reliable repair service for your Samsung fridge in Christchurch! Remember – do some research beforehand and compare prices between several services before making a final decision – this way, you can be sure that you’ll get quality repairs at an affordable price!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

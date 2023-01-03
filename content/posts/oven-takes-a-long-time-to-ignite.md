@@ -21,4 +21,4 @@ Another factor that contributes to slow ignition is how often you use your oven.
 
 Finally, if your oven takes too long (more than 10 minutes) or fails altogether when attempting ignition, then it may be time for an inspection by an HVAC specialist or licensed electrician who specializes in kitchen appliances and gas lines/electricity connections related thereto. This professional will be able identify any underlying issues causing prolonged ignition times so that these problems can be addressed before they become more serious issues with your appliance down the road!
 
-Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians-in-auckland/">appliance repair technicians in auckland</a> bring them back from the dead.
+Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians/new-zealand/auckland/">appliance repair technicians in auckland</a> bring them back from the dead.

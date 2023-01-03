@@ -23,4 +23,4 @@ No matter what type of electrical appliance needs repairing – such as washing 
 
 Remember: when it comes time for electrical appliance repairs in Whangarei, always make sure safety is top priority! Do some research beforehand and find an experienced technician who can provide quality service at an affordable price point – then relax knowing that everything will soon be good as new!
 
-Bring new life to your appliance with <a href="/pages/appliance-repair-technicians-in-new-zealand/">appliance repair technicians in new zealand</a> known to do a good job.
+Bring new life to your appliance with <a href="/pages/appliance-repair-technicians/new-zealand/">appliance repair technicians in new zealand</a> known to do a good job.

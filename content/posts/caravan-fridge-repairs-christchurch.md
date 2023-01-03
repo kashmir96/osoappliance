@@ -23,4 +23,4 @@ In addition, experienced technicians understand how vital safety is when carryin
 
 Overall, hiring an expert caravan fridge repair service in Christchurch can save you both time and money by ensuring that repairs are carried out correctly from start-to-finish while also providing peace-of-mind knowing that everything has been done according to industry standards by professionals who know exactly what they’re doing every step of the way..
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

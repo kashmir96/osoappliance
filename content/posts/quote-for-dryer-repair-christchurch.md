@@ -23,4 +23,4 @@ When it comes to choosing a technician for dryer repair in Christchurch, it’s 
 
 If you need help with your dryer repair in Christchurch, don’t hesitate to contact a professional technician today! With their expertise, they can get your appliance working again so you can enjoy worry-free laundry days once more.
 
-Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that operate in your area.
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that operate in your area.

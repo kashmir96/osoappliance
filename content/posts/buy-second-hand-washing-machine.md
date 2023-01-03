@@ -25,4 +25,4 @@ Finally, buying a second-hand washing machine can be a great way to help the env
 
 Overall, buying a second-hand washing machine can be a great way to save money and help the environment. Just make sure to do your research and ask plenty of questions to make sure you are getting a quality machine.
 
-Is your appliance out of order? This series of <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> is going to help reactivate processes.
+Is your appliance out of order? This series of <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> is going to help reactivate processes.

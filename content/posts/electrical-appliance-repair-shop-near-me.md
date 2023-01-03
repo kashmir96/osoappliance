@@ -21,4 +21,4 @@ Next, it’s important to contact each shop directly and ask questions about the
 
 By doing this due diligence before choosing an electrical appliance repair shop near you, it should give you peace of mind knowing that both quality service and affordable prices are within reach!
 
-Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-new-zealand/">appliance repair technicians in new zealand</a> will help refresh them with spark.
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/new-zealand/">appliance repair technicians in new zealand</a> will help refresh them with spark.

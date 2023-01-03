@@ -23,4 +23,4 @@ Finally, once any repairs have been completed it is important that your technici
 
 Gas stove repairs in Christchurch don't need to be a hassle! With experienced professionals ready to help get your appliance up and running again safely and quickly – all at an affordable price – there's no reason not to call up an expert today!
 
-If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will help get your appliance running like new
+If your appliance isn't behaving, this series of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will help get your appliance running like new

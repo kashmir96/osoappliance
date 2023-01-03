@@ -25,4 +25,4 @@ Finally, it is important to select an experienced technician when it comes time 
 
 Overall, installing an oven in Christchurch can be a great experience if done correctly by an experienced technician. By taking some time to shop around and compare prices before making a decision, you should be able to find an installer who meets all of your requirements at a price that fits within your budget.
 
-You don't need to buy new appliances, you can just get <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> make things run again.
+You don't need to buy new appliances, you can just get <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> make things run again.

@@ -21,4 +21,4 @@ You may also find additional specialty parts such as water filters for refrigera
 
 No matter what type of part you need for your home appliances in New Zealand, there is sure to be an online retailer that can provide it quickly at a reasonable price. With just a few clicks you can have the part shipped directly to your home so that you can get back up and running again in no time!
 
-Find the best <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts supplier in New Zealand by clicking here</a> to view suppliers nearby.

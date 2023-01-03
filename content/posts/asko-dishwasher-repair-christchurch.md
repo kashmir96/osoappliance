@@ -21,4 +21,4 @@ In addition to draining and cleaning issues, Asko dishwashers can also experienc
 
 At the end of the day, if you’re having problems with your Asko appliance then don’t hesitate to contact an experienced technician in Christchurch who specializes in providing repair services for this brand of appliances! With their help, you can quickly get back up and running without having to worry about costly replacement fees down the road!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

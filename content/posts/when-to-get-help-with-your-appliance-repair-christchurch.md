@@ -21,4 +21,4 @@ Another factor to consider is cost; make sure you shop around before selecting a
 
 If your home appliances need some attention then don't hesitate – contact an experienced appliance repair service in Christchurch today to get them back up and running at optimal performance again!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

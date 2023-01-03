@@ -23,4 +23,4 @@ Finally, it’s also possible that the burning smell is coming from something el
 
 No matter what the cause of your burning smell from your dryer may be, it’s important to take action right away to prevent any potential fire hazards. Make sure you clean out the lint trap after every use and periodically inspect all exhaust ducts and vents for blockages caused by lint buildup. Additionally, if you suspect that an overheating motor or heating element may be causing the issue, contact an experienced technician right away for repairs before using your dryer again.
 
-Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/">appliance repair technicians in christchurch</a> can help you renew them with energy.

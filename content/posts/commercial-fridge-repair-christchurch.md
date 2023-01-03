@@ -21,4 +21,4 @@ Once your technician has arrived on site and diagnosed the issue with your refri
 
 Finally, once all repairs have been completed successfully, it’s important that regular maintenance is carried out on your commercial refrigerator so that future problems are avoided for as long as possible! This could include checking temperature settings regularly (ideally every few months) plus making sure all seals around doors are still tight enough so cold air doesn’t escape unnecessarily - both these activities will help ensure maximum efficiency from your appliance over time!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

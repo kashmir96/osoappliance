@@ -25,4 +25,4 @@ Investing in regular maintenance can also help keep your appliances running smoo
 
 In summary, if you need appliance repairs in Christchurch then don’t wait until it’s too late – take action now! Call a professional repair service for advice and assistance, invest in regular maintenance where needed, and save yourself time and money by avoiding costly repairs further down the line.
 
-Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that operate in your area.
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that operate in your area.

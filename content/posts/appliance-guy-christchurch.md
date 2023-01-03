@@ -25,4 +25,4 @@ Finally, make sure you are aware of any safety measures that need to be taken. T
 
 By finding an appliance repair guy in Christchurch, you can be sure that your appliance is in good hands. With the right technician, you can be sure that your appliance will be fixed properly and in a timely manner.
 
-Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that operate in your area.
+Is your appliance on the fritz? This gathering of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that operate in your area.

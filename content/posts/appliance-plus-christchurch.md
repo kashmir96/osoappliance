@@ -23,4 +23,4 @@ Finally, appliances can also provide a sense of security. With the right securit
 
 In conclusion, the use of appliances in Christchurch is a great way to make life easier. With the right appliances, you can save time, money, energy and stay organized. By taking the time to invest in the right appliances, you can be sure that your home is secure and that your daily tasks are completed quickly and efficiently.
 
-Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will help you inspire them with newness.
+Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will help you inspire them with newness.

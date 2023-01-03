@@ -23,4 +23,4 @@ Finally, if neither of these two options appeal to you then there are plenty of 
 
 So there we have it – three options for repairing your dishwasher in Christchurch: calling a professional technician; purchasing replacement parts online; or using DIY tutorials found online (with caution!). Whichever route suits best for your particular situation depends on various factors such as budget, skill level and availability of spare parts but no matter which one(s)you choose hopefully this blog has helped give some insight into what’s available out there!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

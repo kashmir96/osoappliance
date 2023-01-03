@@ -25,4 +25,4 @@ However, if you don’t want to take any chances with repairing it yourself or t
 
 In summary, if your drier is broken in Christchurch there are several options available for getting it repaired or replaced depending on how much time and money you want to invest into doing so. You could look into extended warranties from where you purchased your appliance from; contact local repair shops; or have professionals pick up and bring back the machine directly from/to your home once they asses what needs doing/replacing etc.. There are lots of options out there so hopefully this post has given some insight into what might work best for getting that dried fixed so that no more laundry piles up!
 
-Make your life easier with a list of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.
+Make your life easier with a list of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> can help you renew them with energy.

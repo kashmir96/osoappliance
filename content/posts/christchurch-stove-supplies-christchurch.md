@@ -23,4 +23,4 @@ Finally, there are also a handful of local businesses that provide maintenance s
 
 No matter what type of repair or maintenance work is needed on your stove, Christchurch has plenty of options available when it comes to finding quality supplies and services at an affordable price point. With just a little research into which store best suits your needs, you should have no trouble getting everything taken care of quickly and efficiently!
 
-Is your appliance out of commission? This roster of <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.
+Is your appliance out of commission? This roster of <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> that keep the cogs turning.

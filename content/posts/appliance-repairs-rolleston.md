@@ -19,4 +19,4 @@ At the most basic level, appliance repairs in Rolleston involve troubleshooting 
 
 When looking for an appliance repair company in Rolleston it is important to choose one that is reliable and trustworthy; this means they should have years of experience in the industry; offer competitive rates; use genuine parts; provide warranty cover where applicable; offer quick turnarounds on all jobs they undertake while remaining professional throughout the job. At Freelance Appliance Repairs we understand how important it is that all our customers receive the best possible service when it comes to their home or business appliances so we strive hard each day to ensure our clients are fully satisfied with all of our workmanship!
 
-Find the best <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technician in Christchurch by clicking here</a> to view suppliers nearby.
+Find the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technician in Christchurch by clicking here</a> to view suppliers nearby.

@@ -23,4 +23,4 @@ When it comes time for repairs, make sure you keep all paperwork and receipts fr
 
 Small appliance repairs don’t have to be stressful in Christchurch—with some research and careful decision-making, you can trust that your appliance will be back up and running in no time!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

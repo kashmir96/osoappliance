@@ -23,4 +23,4 @@ Once you’ve narrowed down your list of potential companies, contact them and a
 
 Finally, it’s always wise to get several quotes before making your final decision so that you can compare prices across multiple providers and make sure you get the best value for money possible when having your dishwasher repaired in Christchurch Dorset
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

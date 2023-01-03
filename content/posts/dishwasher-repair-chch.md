@@ -21,4 +21,4 @@ Once a technician arrives at your home, they will inspect the dishwasher and det
 
 The cost of repairs can vary depending on the extent of damage done to your appliance so make sure that you get an estimate from your technician before any work begins – most reputable companies are happy to provide estimates upfront so there are no surprises afterwards when it comes time for payment! Once all necessary repairs have been completed by a qualified professional then you should be able enjoy clean dishes without any further issues!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

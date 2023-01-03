@@ -23,4 +23,4 @@ When purchasing washing machine spares in Christchurch it is important to make s
 
 Finding the right washing machine spares in Christchurch doesn't have to be difficult if you know where to look! With these tips in mind, you should have no problem finding exactly what you need at a price that fits your budget. Good luck on your repair project!
 
-Get your appliances to go even further with <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> breathe new life into them.
+Get your appliances to go even further with <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> breathe new life into them.

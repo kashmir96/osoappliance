@@ -27,4 +27,4 @@ Finally, make sure that whoever you choose is licensed by Electrical Workers Reg
 
 Overall, finding an experienced electrician in Auckland who provides high-quality appliance repairs at affordable rates is essential if you want reliable results without breaking the bank!
 
-Is your appliance on the blink? This selection of <a href="/pages/appliance-repair-technicians-in-auckland/">appliance repair technicians in auckland</a> make things run again.
+Is your appliance on the blink? This selection of <a href="/pages/appliance-repair-technicians/new-zealand/auckland/">appliance repair technicians in auckland</a> make things run again.

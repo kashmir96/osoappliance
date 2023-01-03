@@ -37,4 +37,4 @@ Refrigeration Warehouse NZ Ltd was established back in 1999 making them one of N
 
 Whether it's an HVAC system upgrade or replacement parts these ten businesses are sure to have the right solution for any project large or small so why not give them a try today?
 
-Got an appliance running on the fritz? get a <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> can help you renew them with energy.
+Got an appliance running on the fritz? get a <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> can help you renew them with energy.

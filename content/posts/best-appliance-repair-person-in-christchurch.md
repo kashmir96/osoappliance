@@ -29,4 +29,4 @@ Fortunately, there are some great appliance repair professionals in Christchurch
 
 Finding the best appliance repair person in Christchurch can be a daunting task. But, if you follow these tips, you can rest assured that you have chosen a reliable and qualified professional who can get your appliances up and running in no time.
 
-Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will revive activity.
+Got an appliance running on the fritz? get a <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will revive activity.

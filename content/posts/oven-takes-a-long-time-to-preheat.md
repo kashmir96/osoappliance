@@ -23,4 +23,4 @@ Finally, some newer models have self-clean functions that also contribute to ext
 
 All in all, there are numerous reasons why an oven takes so long to preheat- but rest assured once those temperatures reach where they need to be the wait won't have been in vain!
 
-Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians-in-auckland/">appliance repair technicians in auckland</a> bring them back from the dead.
+Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians/new-zealand/auckland/">appliance repair technicians in auckland</a> bring them back from the dead.

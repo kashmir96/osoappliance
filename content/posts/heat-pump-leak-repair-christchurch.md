@@ -25,4 +25,4 @@ If your heat pump isn't functioning properly after this process, it's time for p
 
 Overall, heat pump repair should only be done by a qualified professional who is familiar with working on these systems safely and efficiently; however if you're feeling confident enough (and have all necessary safety precautions taken) doing minor repairs yourself may help save time - especially if it's during peak season when technicians may not always be available quickly - plus money which could otherwise add up quickly if more extensive work is needed down the line due to neglected maintenance issues such as sealing pipes or maintaining regular system checks/cleaning over time etc..
 
-Get your appliances to go even further with <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> known to do a good job.
+Get your appliances to go even further with <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> known to do a good job.

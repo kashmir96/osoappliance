@@ -27,4 +27,4 @@ If your household appliances are in need of repair, it’s important to find a r
 
 These are just a few tips to help you find the right appliance repair service in Christchurch. By doing your research and asking questions, you can feel confident that your appliance will be repaired correctly and at a reasonable price. Good luck!
 
-Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.
+Don't let your appliance die an untimely death, <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> is going to help reactivate processes.

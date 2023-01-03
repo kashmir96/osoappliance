@@ -23,10 +23,10 @@ method="post" target="hidden_iframe" onsubmit="submitted=true;">
         <input type="email" placeholder="your@email.com*" class="form-input" name="entry.1388265364" required>
 
   <label>Company Name*</label>
-        <input type="text" placeholder="your@email.com*" class="form-input" name="entry.568029144" required>
+        <input type="text" placeholder="your company name" class="form-input" name="entry.568029144" required>
 
   <label>Company Website URL*</label>
-        <input type="text" placeholder="your@email.com*" class="form-input" name="entry.2042491504" required>  
+        <input type="text" placeholder="yourwebsite.com" class="form-input" name="entry.2042491504" required>  
 
    <label>Services*</label>
         <input type="text" placeholder="Appliance Repairs, Appliance Parts... etc" class="form-input" name="entry.1414883019" required>

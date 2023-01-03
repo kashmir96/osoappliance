@@ -23,4 +23,4 @@ Finally, if your current washing machine needs repair or servicing, there are ex
 
 No matter what kind of laundry service you need in Christchurch, there’s certainly plenty of options available to keep your clothes looking great without breaking the bank!
 
-Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians-in-christchurch/">appliance repair technicians in christchurch</a> will help refresh them with spark.
+Make things easier on yourself by finding local <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">appliance repair technicians in christchurch</a> will help refresh them with spark.

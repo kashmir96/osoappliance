@@ -21,4 +21,4 @@ Another option for purchasing washing machine parts is to consider buying second
 
 No matter which route you take when buying washing machine parts for your Christchurch home, make sure you do your research ahead of time and rely on a trusted supplier who will provide the highest quality of service possible. Doing so will ensure that you get the most out of your purchase and keep your washing machine running smoothly for years to come!
 
-Is your appliance out of order? This series of <a href="/pages/appliance-parts-suppliers-in-new-zealand/">appliance parts suppliers in new zealand</a> is going to help reactivate processes.
+Is your appliance out of order? This series of <a href="/pages/appliance-parts-suppliers/new-zealand/">appliance parts suppliers in new zealand</a> is going to help reactivate processes.

@@ -23,4 +23,4 @@ When booking your appointment with an expert technician make sure they give you 
  
 Finally, once your Samsung appliance has been repaired by a professional service technician it's important that regular maintenance is carried out on it throughout its lifetime - this includes cleaning filters regularly and keeping all moving parts lubricated where necessary - so that problems don't arise again later down the line! This way, not only will your prized possession run smoothly but also last much longer than expected!
 
-Find a the best <a href="/pages/appliance-repair-technicians-in-christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.
+Find a the best <a href="/pages/appliance-repair-technicians/new-zealand/christchurch/">local appliance repair technician in Christchurch New Zealand by clicking here to view our extensive directory and learn about their reviews and services offered</a>.

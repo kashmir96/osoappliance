@@ -23,4 +23,4 @@ Finally, if you're using a convection setting on your oven then this could also 
 
 Hopefully these tips help resolve any issues you may have had regarding why your oven takes ages to cook!
 
-Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians-in-auckland/">appliance repair technicians in auckland</a> bring them back from the dead.
+Is your appliance going haywire? This roster of <a href="/pages/appliance-repair-technicians/new-zealand/auckland/">appliance repair technicians in auckland</a> bring them back from the dead.
