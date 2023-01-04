@@ -1,5 +1,5 @@
 ---
-title: Davies Heat N Cool - New Zealand in Dunedin, Invercargill
+title: Davies Heat N Cool, Invercargill
 keywords: "New Zealand Dunedin, Invercargill"
 type: "Appliance Repair Technician, New Appliances"
 categories: ["New Zealand"]

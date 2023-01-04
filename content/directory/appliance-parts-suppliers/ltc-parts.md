@@ -1,5 +1,5 @@
 ---
-title: LTC Parts - Appliance Parts Suppliers in New Zealand
+title: LTC Parts
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

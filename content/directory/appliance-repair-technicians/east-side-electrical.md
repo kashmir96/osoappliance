@@ -1,5 +1,5 @@
 ---
-title: East Side Electrical - New Zealand in Rotorua
+title: East Side Electrical
 keywords: "New Zealand Rotorua"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

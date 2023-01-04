@@ -1,5 +1,5 @@
 ---
-title: Ideal Furniture & Appliances - New Zealand in Oamaru
+title: Ideal Furniture & Appliances
 keywords: "New Zealand Oamaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

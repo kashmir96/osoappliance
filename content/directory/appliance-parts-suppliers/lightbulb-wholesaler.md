@@ -1,5 +1,5 @@
 ---
-title: Lightbulb Wholesaler - Appliance Parts Suppliers in United States
+title: Lightbulb Wholesaler
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

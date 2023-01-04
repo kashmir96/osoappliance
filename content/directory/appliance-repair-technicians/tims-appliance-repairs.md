@@ -1,5 +1,5 @@
 ---
-title: Tims Appliance Repairs - New Zealand in Christchurch
+title: Tims Appliance Repairs
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

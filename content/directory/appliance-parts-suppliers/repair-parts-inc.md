@@ -1,5 +1,5 @@
 ---
-title: Repair Parts Inc - Appliance Parts Suppliers in United States
+title: Repair Parts Inc
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

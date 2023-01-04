@@ -1,5 +1,5 @@
 ---
-title: Apppl Parts Center - Appliance Parts Suppliers in United States
+title: Apppl Parts Center
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

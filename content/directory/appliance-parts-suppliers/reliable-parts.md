@@ -1,5 +1,5 @@
 ---
-title: Reliable Parts - Appliance Parts Suppliers in United States
+title: Reliable Parts
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

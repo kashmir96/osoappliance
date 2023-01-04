@@ -1,5 +1,5 @@
 ---
-title: Bardo Appliance - New Zealand in Auckland
+title: Bardo Appliance
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

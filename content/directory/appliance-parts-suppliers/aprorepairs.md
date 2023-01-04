@@ -1,5 +1,5 @@
 ---
-title: AproRepairs - Appliance Parts Suppliers in Canada
+title: AproRepairs
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

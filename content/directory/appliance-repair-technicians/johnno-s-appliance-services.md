@@ -1,5 +1,5 @@
 ---
-title: Johnnos Appliance Services - New Zealand in Oamaru
+title: Johnnos Appliance Services
 keywords: "New Zealand Oamaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

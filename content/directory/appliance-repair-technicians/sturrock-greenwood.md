@@ -1,5 +1,5 @@
 ---
-title: Sturrock & Greenwood - New Zealand in Nelson
+title: Sturrock & Greenwood
 keywords: "New Zealand Nelson"
 type: "New Appliances, Appliance Repair Technician, Installation"
 categories: ["New Zealand"]

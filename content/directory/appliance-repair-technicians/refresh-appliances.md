@@ -1,5 +1,5 @@
 ---
-title: Refresh Appliances - New Zealand in Christchurch
+title: Refresh Appliances
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician, Second hand appliances, Delivery, New Appliances"
 categories: ["New Zealand"]

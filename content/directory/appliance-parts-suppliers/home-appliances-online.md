@@ -1,5 +1,5 @@
 ---
-title: Home Appliances Online - Appliance Parts Suppliers in New Zealand
+title: Home Appliances Online
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

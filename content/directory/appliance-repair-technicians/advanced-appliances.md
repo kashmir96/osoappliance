@@ -1,5 +1,5 @@
 ---
-title: Advanced Appliances - New Zealand in Timaru
+title: Advanced Appliances
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

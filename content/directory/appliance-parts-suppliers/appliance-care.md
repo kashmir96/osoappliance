@@ -1,5 +1,5 @@
 ---
-title: Appliance Care - Appliance Parts Suppliers in New Zealand
+title: Appliance Care
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

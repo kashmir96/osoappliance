@@ -1,5 +1,5 @@
 ---
-title: Yaoota - Appliance Parts Suppliers in Nigeria
+title: Yaoota
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

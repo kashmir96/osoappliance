@@ -1,5 +1,5 @@
 ---
-title: Euro Serv - New Zealand in Wellington
+title: Euro Serv
 keywords: "New Zealand Wellington"
 type: "Appliance Repair Technician, Installation, New Appliances"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: ApplianceTech - New Zealand in Christchurch
+title: ApplianceTech
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

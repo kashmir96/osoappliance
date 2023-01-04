@@ -1,5 +1,5 @@
 ---
-title: ES Center - New Zealand in Nelson
+title: ES Center
 keywords: "New Zealand Nelson"
 type: "Second hand appliances, New Appliances, Appliance Repair Technician"
 categories: ["New Zealand"]

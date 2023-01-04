@@ -1,5 +1,5 @@
 ---
-title: JRL - New Zealand in New Plymouth
+title: JRL
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

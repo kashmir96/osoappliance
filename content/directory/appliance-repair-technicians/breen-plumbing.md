@@ -1,5 +1,5 @@
 ---
-title: Breen Plumbing - New Zealand in Timaru
+title: Breen Plumbing
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

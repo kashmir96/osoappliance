@@ -1,5 +1,5 @@
 ---
-title: Appliance Parts Depot Fresno - Appliance Parts Suppliers in United States
+title: Appliance Parts Depot Fresno
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

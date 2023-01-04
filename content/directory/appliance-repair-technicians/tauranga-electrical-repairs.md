@@ -1,5 +1,5 @@
 ---
-title: Tauranga Electrical Repairs - New Zealand in Tauranga
+title: Tauranga Electrical Repairs
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

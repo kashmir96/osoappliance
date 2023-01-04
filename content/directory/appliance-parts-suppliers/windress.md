@@ -1,5 +1,5 @@
 ---
-title: Windress - Appliance Parts Suppliers in New Zealand
+title: Windress
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Doug Robinson Applinces - New Zealand in Hamilton
+title: Doug Robinson Applinces
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

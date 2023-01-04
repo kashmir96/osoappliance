@@ -1,5 +1,5 @@
 ---
-title: Partselect - Appliance Parts Suppliers in Canada
+title: Partselect
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

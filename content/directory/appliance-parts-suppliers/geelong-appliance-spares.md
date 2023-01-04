@@ -1,5 +1,5 @@
 ---
-title: Geelong Appliance Spares - Appliance Parts Suppliers in Australia
+title: Geelong Appliance Spares
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

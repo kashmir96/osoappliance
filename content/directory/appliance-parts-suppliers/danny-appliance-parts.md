@@ -1,5 +1,5 @@
 ---
-title: Danny Appliance Parts - Appliance Parts Suppliers in Canada
+title: Danny Appliance Parts
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

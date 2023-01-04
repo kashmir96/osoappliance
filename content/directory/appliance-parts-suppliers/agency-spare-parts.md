@@ -1,5 +1,5 @@
 ---
-title: Agency Spare Parts - Appliance Parts Suppliers in Australia
+title: Agency Spare Parts
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

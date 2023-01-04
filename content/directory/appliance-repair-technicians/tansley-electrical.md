@@ -1,5 +1,5 @@
 ---
-title: Tansley Electrical - New Zealand in Invercargill
+title: Tansley Electrical
 keywords: "New Zealand Invercargill"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

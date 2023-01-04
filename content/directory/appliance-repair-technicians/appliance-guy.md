@@ -1,5 +1,5 @@
 ---
-title: Appliance Guy - New Zealand in Christchurch
+title: Appliance Guy
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

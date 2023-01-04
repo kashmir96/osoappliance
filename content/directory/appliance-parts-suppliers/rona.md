@@ -1,5 +1,5 @@
 ---
-title: Rona - Appliance Parts Suppliers in Canada
+title: Rona
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

@@ -1,5 +1,5 @@
 ---
-title: Automatic Appliance - Appliance Parts Suppliers in United States
+title: Automatic Appliance
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

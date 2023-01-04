@@ -1,5 +1,5 @@
 ---
-title: Parts 4 Appliances - Appliance Parts Suppliers in United Kingdom
+title: Parts 4 Appliances
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

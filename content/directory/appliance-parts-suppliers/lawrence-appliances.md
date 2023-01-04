@@ -1,5 +1,5 @@
 ---
-title: Lawrence Appliances - Appliance Parts Suppliers in New Zealand
+title: Lawrence Appliances
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

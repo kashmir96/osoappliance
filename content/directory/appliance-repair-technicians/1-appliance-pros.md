@@ -1,5 +1,5 @@
 ---
-title: 1 Appliance Pros - New Zealand in Wanganui
+title: 1 Appliance Pros
 keywords: "New Zealand Wanganui"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: MJS Appliance - Appliance Parts Suppliers in Canada
+title: MJS Appliance
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

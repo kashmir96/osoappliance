@@ -1,5 +1,5 @@
 ---
-title: Jumia - Appliance Parts Suppliers in Nigeria
+title: Jumia
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

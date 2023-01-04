@@ -1,5 +1,5 @@
 ---
-title: Mamtus - Appliance Parts Suppliers in Nigeria
+title: Mamtus
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

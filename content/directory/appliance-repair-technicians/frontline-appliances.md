@@ -1,5 +1,5 @@
 ---
-title: Frontline Appliances - New Zealand in Wellington
+title: Frontline Appliances
 keywords: "New Zealand Wellington"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

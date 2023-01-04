@@ -1,5 +1,5 @@
 ---
-title: Appliance Services by Tim Stockman - New Zealand in Christchurch
+title: Appliance Services by Tim Stockman
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician, Appliance Rental, Second hand appliances"
 categories: ["New Zealand"]

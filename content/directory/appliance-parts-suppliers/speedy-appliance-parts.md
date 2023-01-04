@@ -1,5 +1,5 @@
 ---
-title: Speedy Appliance Parts - Appliance Parts Suppliers in Nigeria
+title: Speedy Appliance Parts
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

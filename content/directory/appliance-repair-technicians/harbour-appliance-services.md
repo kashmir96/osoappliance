@@ -1,5 +1,5 @@
 ---
-title: Harbour Appliance Services - New Zealand in Auckland
+title: Harbour Appliance Services
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician, Installation"
 categories: ["New Zealand"]

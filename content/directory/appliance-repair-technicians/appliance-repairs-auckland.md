@@ -1,5 +1,5 @@
 ---
-title: Appliance Repairs Auckland - New Zealand in Auckland
+title: Appliance Repairs Auckland
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician, Parts, Test and Tag"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Grand Appliance - Appliance Parts Suppliers in Canada
+title: Grand Appliance
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

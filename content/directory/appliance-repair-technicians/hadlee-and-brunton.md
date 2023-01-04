@@ -1,5 +1,5 @@
 ---
-title: Hadlee And Brunton - New Zealand in Timaru
+title: Hadlee And Brunton
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

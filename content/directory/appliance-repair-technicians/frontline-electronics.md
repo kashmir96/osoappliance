@@ -1,5 +1,5 @@
 ---
-title: Frontline Electronics - New Zealand in Dunedin
+title: Frontline Electronics
 keywords: "New Zealand Dunedin"
 type: "Parts, Appliance Repair Technician"
 categories: ["New Zealand"]

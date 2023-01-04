@@ -1,5 +1,5 @@
 ---
-title: Bayside Appliance Repairs - New Zealand in Wellington
+title: Bayside Appliance Repairs
 keywords: "New Zealand Wellington"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

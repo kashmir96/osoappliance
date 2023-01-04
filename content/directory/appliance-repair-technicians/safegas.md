@@ -1,5 +1,5 @@
 ---
-title: SafeGas - New Zealand in Auckland
+title: SafeGas
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician, Installation, New Appliances"
 categories: ["New Zealand"]

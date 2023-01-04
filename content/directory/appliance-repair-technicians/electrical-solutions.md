@@ -1,5 +1,5 @@
 ---
-title: Electrical Solutions - New Zealand in Rotorua
+title: Electrical Solutions
 keywords: "New Zealand Rotorua"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

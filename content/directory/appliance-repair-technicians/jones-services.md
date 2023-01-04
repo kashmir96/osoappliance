@@ -1,5 +1,5 @@
 ---
-title: Jones Services - New Zealand in Tauranga
+title: Jones Services
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

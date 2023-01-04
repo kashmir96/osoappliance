@@ -1,5 +1,5 @@
 ---
-title: Cotters Electrical - New Zealand in Christchurch
+title: Cotters Electrical
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

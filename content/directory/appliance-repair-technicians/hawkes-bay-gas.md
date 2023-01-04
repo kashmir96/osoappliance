@@ -1,5 +1,5 @@
 ---
-title: Hawkes Bay Gas - New Zealand in Hastings
+title: Hawkes Bay Gas
 keywords: "New Zealand Hastings"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

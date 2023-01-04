@@ -1,5 +1,5 @@
 ---
-title: General Appliances SVC - New Zealand in Wellington
+title: General Appliances SVC
 keywords: "New Zealand Wellington"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

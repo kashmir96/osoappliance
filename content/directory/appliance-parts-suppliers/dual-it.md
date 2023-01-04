@@ -1,5 +1,5 @@
 ---
-title: Dual It - Appliance Parts Suppliers in United Kingdom
+title: Dual It
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

@@ -1,5 +1,5 @@
 ---
-title: Wellington Appliance Servicing - New Zealand in Wellington
+title: Wellington Appliance Servicing
 keywords: "New Zealand Wellington"
 type: "Parts, Appliance Repair Technician, Second hand appliances, New Appliances"
 categories: ["New Zealand"]

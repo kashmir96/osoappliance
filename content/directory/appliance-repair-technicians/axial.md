@@ -1,5 +1,5 @@
 ---
-title: Axial - New Zealand in Auckland
+title: Axial
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician, Installation, New Appliances, Parts"
 categories: ["New Zealand"]

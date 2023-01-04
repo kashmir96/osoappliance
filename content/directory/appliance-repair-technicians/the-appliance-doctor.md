@@ -1,5 +1,5 @@
 ---
-title: The Appliance Doctor - New Zealand in New Plymouth
+title: The Appliance Doctor
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

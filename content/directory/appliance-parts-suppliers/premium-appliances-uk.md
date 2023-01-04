@@ -1,5 +1,5 @@
 ---
-title: Premium Appliances Uk - Appliance Parts Suppliers in United Kingdom
+title: Premium Appliances Uk
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

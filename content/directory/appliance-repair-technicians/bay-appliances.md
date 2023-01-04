@@ -1,5 +1,5 @@
 ---
-title: Bay Appliances - New Zealand in Tauranga
+title: Bay Appliances
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

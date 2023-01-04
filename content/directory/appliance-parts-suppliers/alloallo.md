@@ -1,5 +1,5 @@
 ---
-title: AlloAllo - Appliance Parts Suppliers in New Zealand
+title: AlloAllo
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

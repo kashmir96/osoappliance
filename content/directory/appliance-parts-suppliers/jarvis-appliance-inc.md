@@ -1,5 +1,5 @@
 ---
-title: Jarvis Appliance Inc - Appliance Parts Suppliers in Canada
+title: Jarvis Appliance Inc
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

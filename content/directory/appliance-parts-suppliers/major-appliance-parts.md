@@ -1,5 +1,5 @@
 ---
-title: Major Appliance Parts - Appliance Parts Suppliers in Canada
+title: Major Appliance Parts
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

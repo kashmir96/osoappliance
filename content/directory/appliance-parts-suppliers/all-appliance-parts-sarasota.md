@@ -1,5 +1,5 @@
 ---
-title: All Appliance Parts Sarasota - Appliance Parts Suppliers in United States
+title: All Appliance Parts Sarasota
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

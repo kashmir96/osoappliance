@@ -1,5 +1,5 @@
 ---
-title: Network Mechanics - New Zealand in Auckland
+title: Network Mechanics
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Aotea Electric Wanaka - New Zealand in Wanaka
+title: Aotea Electric Wanaka
 keywords: "New Zealand Wanaka"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Writes Appliance Repairs - New Zealand in Christchurch
+title: Writes Appliance Repairs
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician, Delivery"
 categories: ["New Zealand"]

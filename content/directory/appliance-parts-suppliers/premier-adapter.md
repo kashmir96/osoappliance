@@ -1,5 +1,5 @@
 ---
-title: Premier Adapter - Appliance Parts Suppliers in United Kingdom
+title: Premier Adapter
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

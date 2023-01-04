@@ -1,5 +1,5 @@
 ---
-title: Windress - New Zealand in Auckland
+title: Windress
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician, Installation, Parts"
 categories: ["New Zealand"]

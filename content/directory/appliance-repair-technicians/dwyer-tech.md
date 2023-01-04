@@ -1,5 +1,5 @@
 ---
-title: Dwyer Tech - New Zealand in New Plymouth
+title: Dwyer Tech
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

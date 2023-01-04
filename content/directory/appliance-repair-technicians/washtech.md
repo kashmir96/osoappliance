@@ -1,5 +1,5 @@
 ---
-title: WashTech - New Zealand in New Plymouth
+title: WashTech
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

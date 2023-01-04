@@ -1,5 +1,5 @@
 ---
-title: Appliance Servicing - New Zealand in Auckland
+title: Appliance Servicing
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

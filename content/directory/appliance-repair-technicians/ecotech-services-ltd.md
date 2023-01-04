@@ -1,5 +1,5 @@
 ---
-title: Ecotech Services LTD - New Zealand in Christchurch
+title: Ecotech Services LTD
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician, Second hand appliances, Test and Tag, Delivery, Installation"
 categories: ["New Zealand"]

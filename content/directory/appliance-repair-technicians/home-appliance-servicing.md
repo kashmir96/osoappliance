@@ -1,5 +1,5 @@
 ---
-title: Home Appliance Servicing - New Zealand in Tauranga
+title: Home Appliance Servicing
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

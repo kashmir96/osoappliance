@@ -1,5 +1,5 @@
 ---
-title: Dishwasher Centre - New Zealand in Wellington
+title: Dishwasher Centre
 keywords: "New Zealand Wellington"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Rotorua Plumbing - New Zealand in Rotorua
+title: Rotorua Plumbing
 keywords: "New Zealand Rotorua"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

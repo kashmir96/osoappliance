@@ -1,5 +1,5 @@
 ---
-title: Amazon - Appliance Parts Suppliers in United States
+title: Amazon
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

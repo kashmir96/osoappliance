@@ -1,5 +1,5 @@
 ---
-title: Anthonys Appliance Repairs - New Zealand in Hastings
+title: Anthonys Appliance Repairs
 keywords: "New Zealand Hastings"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

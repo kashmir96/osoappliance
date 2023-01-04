@@ -1,5 +1,5 @@
 ---
-title: A1 Appliance - Appliance Parts Suppliers in United States
+title: A1 Appliance
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

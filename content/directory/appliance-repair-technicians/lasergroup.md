@@ -1,5 +1,5 @@
 ---
-title: Lasergroup - New Zealand in Masterton
+title: Lasergroup
 keywords: "New Zealand Masterton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

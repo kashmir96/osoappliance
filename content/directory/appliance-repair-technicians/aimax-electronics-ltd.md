@@ -1,5 +1,5 @@
 ---
-title: Aimax Electronics LTD - New Zealand in Christchurch
+title: Aimax Electronics LTD
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

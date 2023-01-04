@@ -1,5 +1,5 @@
 ---
-title: Parts Town - Appliance Parts Suppliers in Nigeria
+title: Parts Town
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

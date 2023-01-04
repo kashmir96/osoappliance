@@ -1,5 +1,5 @@
 ---
-title: Oxford Parts - Appliance Parts Suppliers in Australia
+title: Oxford Parts
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

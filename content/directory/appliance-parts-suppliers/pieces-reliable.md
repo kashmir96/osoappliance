@@ -1,5 +1,5 @@
 ---
-title: Pieces Reliable - Appliance Parts Suppliers in Canada
+title: Pieces Reliable
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

@@ -1,5 +1,5 @@
 ---
-title: Db Domestics - Appliance Parts Suppliers in United Kingdom
+title: Db Domestics
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

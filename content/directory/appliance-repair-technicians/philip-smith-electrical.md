@@ -1,5 +1,5 @@
 ---
-title: Philip Smith Electrical - New Zealand in Rotorua
+title: Philip Smith Electrical
 keywords: "New Zealand Rotorua"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

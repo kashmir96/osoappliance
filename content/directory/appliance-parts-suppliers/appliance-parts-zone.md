@@ -1,5 +1,5 @@
 ---
-title: Appliance Parts Zone - Appliance Parts Suppliers in United States
+title: Appliance Parts Zone
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

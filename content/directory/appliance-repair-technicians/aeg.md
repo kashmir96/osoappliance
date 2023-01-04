@@ -1,5 +1,5 @@
 ---
-title: AEG - New Zealand in Auckland
+title: AEG
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician, Manufacturer, Parts"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: 100 Percent - New Zealand in Wanganui
+title: 100 Percent
 keywords: "New Zealand Wanganui"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

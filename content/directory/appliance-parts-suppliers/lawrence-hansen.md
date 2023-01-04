@@ -1,5 +1,5 @@
 ---
-title: Lawrence & Hansen - Appliance Parts Suppliers in Australia
+title: Lawrence & Hansen
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

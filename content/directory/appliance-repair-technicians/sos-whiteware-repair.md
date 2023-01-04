@@ -1,5 +1,5 @@
 ---
-title: SOS Whiteware Repair - New Zealand in Hastings
+title: SOS Whiteware Repair
 keywords: "New Zealand Hastings"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

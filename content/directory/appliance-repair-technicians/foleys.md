@@ -1,5 +1,5 @@
 ---
-title: Foleys - New Zealand in Wanaka
+title: Foleys
 keywords: "New Zealand Wanaka"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

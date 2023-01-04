@@ -1,5 +1,5 @@
 ---
-title: WW Spares - Appliance Parts Suppliers in Australia
+title: WW Spares
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

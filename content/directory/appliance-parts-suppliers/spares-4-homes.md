@@ -1,5 +1,5 @@
 ---
-title: Spares 4 Homes - Appliance Parts Suppliers in United Kingdom
+title: Spares 4 Homes
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

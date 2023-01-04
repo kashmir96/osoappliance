@@ -1,5 +1,5 @@
 ---
-title: Warkworth Whiteware - New Zealand in Auckland
+title: Warkworth Whiteware
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

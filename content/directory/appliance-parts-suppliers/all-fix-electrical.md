@@ -1,5 +1,5 @@
 ---
-title: All Fix Electrical - Appliance Parts Suppliers in Australia
+title: All Fix Electrical
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

@@ -1,5 +1,5 @@
 ---
-title: Appliance Supplies - Appliance Parts Suppliers in Australia
+title: Appliance Supplies
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

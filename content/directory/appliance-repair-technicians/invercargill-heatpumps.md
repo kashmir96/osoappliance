@@ -1,5 +1,5 @@
 ---
-title: Invercargill Heatpumps - New Zealand in Invercargill
+title: Invercargill Heatpumps
 keywords: "New Zealand Invercargill"
 type: "Appliance Repair Technician, Installation"
 categories: ["New Zealand"]

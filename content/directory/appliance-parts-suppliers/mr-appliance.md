@@ -1,5 +1,5 @@
 ---
-title: Mr Appliance - Appliance Parts Suppliers in Australia
+title: Mr Appliance
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

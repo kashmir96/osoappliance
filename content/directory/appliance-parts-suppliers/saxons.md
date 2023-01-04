@@ -1,5 +1,5 @@
 ---
-title: Saxons - Appliance Parts Suppliers in New Zealand
+title: Saxons
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

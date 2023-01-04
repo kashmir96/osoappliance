@@ -1,5 +1,5 @@
 ---
-title: CC Appliance Repairs - New Zealand in Dunedin
+title: CC Appliance Repairs
 keywords: "New Zealand Dunedin"
 type: "Second hand appliances, New Appliances, Appliance Repair Technician"
 categories: ["New Zealand"]

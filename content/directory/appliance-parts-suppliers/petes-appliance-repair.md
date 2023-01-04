@@ -1,5 +1,5 @@
 ---
-title: Petes Appliance Repair - Appliance Parts Suppliers in United States
+title: Petes Appliance Repair
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

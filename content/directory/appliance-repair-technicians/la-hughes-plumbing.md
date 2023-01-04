@@ -1,5 +1,5 @@
 ---
-title: La Hughes Plumbing - New Zealand in Auckland
+title: La Hughes Plumbing
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

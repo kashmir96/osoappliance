@@ -1,5 +1,5 @@
 ---
-title: Miele - Appliance Parts Suppliers in New Zealand, Australia
+title: Miele, Australia
 keywords: "Appliance Parts Suppliers New Zealand, Australia"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand, Australia"]

@@ -1,5 +1,5 @@
 ---
-title: Appliance Gallery WI - Appliance Parts Suppliers in Canada
+title: Appliance Gallery WI
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

@@ -1,5 +1,5 @@
 ---
-title: Smiths NZ - Appliance Parts Suppliers in New Zealand
+title: Smiths NZ
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

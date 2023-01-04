@@ -1,5 +1,5 @@
 ---
-title: Liberty Home Guard - Appliance Parts Suppliers in United States
+title: Liberty Home Guard
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

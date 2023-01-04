@@ -1,5 +1,5 @@
 ---
-title: Maxey Plumbing - New Zealand in Wellington
+title: Maxey Plumbing
 keywords: "New Zealand Wellington"
 type: "Appliance Repair Technician, Installation"
 categories: ["New Zealand"]

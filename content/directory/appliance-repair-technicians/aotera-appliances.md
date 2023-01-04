@@ -1,5 +1,5 @@
 ---
-title: Aotera Appliances - New Zealand in Hamilton
+title: Aotera Appliances
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

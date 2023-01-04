@@ -1,5 +1,5 @@
 ---
-title: Parts Dr - Appliance Parts Suppliers in United States
+title: Parts Dr
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

@@ -1,5 +1,5 @@
 ---
-title: Elextrafixit - New Zealand in Auckland
+title: Elextrafixit
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

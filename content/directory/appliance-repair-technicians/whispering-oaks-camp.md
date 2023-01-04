@@ -1,5 +1,5 @@
 ---
-title: Whispering Oaks Camp - New Zealand in Tauranga
+title: Whispering Oaks Camp
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

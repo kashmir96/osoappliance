@@ -1,5 +1,5 @@
 ---
-title: Uk White Goods - Appliance Parts Suppliers in United Kingdom
+title: Uk White Goods
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

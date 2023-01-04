@@ -1,5 +1,5 @@
 ---
-title: ApplianceWise - New Zealand in Wellington
+title: ApplianceWise
 keywords: "New Zealand Wellington"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Appliance Warehouse - New Zealand in Auckland
+title: Appliance Warehouse
 keywords: "New Zealand Auckland"
 type: "New Appliances, Installation, Delivery"
 categories: ["New Zealand"]

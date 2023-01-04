@@ -1,5 +1,5 @@
 ---
-title: Appliance Repair Group - New Zealand in Hamilton
+title: Appliance Repair Group
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

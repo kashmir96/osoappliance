@@ -1,5 +1,5 @@
 ---
-title: Berridge Appliances - New Zealand in Tauranga
+title: Berridge Appliances
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

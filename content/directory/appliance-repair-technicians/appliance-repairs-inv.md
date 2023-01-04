@@ -1,5 +1,5 @@
 ---
-title: Appliance Repairs Inv - New Zealand in Invercargill
+title: Appliance Repairs Inv
 keywords: "New Zealand Invercargill"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

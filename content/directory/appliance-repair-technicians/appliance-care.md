@@ -1,5 +1,5 @@
 ---
-title: Appliance Care - New Zealand in Wellington, Auckland
+title: Appliance Care, Auckland
 keywords: "New Zealand Wellington, Auckland"
 type: "Parts, Appliance Repair Technician"
 categories: ["New Zealand"]

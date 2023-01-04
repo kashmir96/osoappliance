@@ -1,5 +1,5 @@
 ---
-title: B and M - New Zealand in New Plymouth
+title: B and M
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

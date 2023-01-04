@@ -1,5 +1,5 @@
 ---
-title: Stove Parts NZ - New Zealand in Hastings
+title: Stove Parts NZ
 keywords: "New Zealand Hastings"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

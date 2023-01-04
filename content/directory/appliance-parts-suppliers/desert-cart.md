@@ -1,5 +1,5 @@
 ---
-title: Desert Cart - Appliance Parts Suppliers in Nigeria
+title: Desert Cart
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

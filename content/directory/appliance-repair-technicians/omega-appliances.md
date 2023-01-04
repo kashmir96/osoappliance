@@ -1,5 +1,5 @@
 ---
-title: Omega Appliances - New Zealand in Hamilton
+title: Omega Appliances
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Appliance Parts 365 - Appliance Parts Suppliers in Canada
+title: Appliance Parts 365
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

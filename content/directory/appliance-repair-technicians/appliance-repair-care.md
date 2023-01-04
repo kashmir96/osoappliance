@@ -1,5 +1,5 @@
 ---
-title: Appliance Repair Care - New Zealand in Wanganui
+title: Appliance Repair Care
 keywords: "New Zealand Wanganui"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

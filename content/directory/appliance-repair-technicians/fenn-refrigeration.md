@@ -1,5 +1,5 @@
 ---
-title: Fenn Refrigeration - New Zealand in Gisborne
+title: Fenn Refrigeration
 keywords: "New Zealand Gisborne"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Jewells Refrigeration - New Zealand in Tauranga
+title: Jewells Refrigeration
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

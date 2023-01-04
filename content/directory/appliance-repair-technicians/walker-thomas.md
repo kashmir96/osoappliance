@@ -1,5 +1,5 @@
 ---
-title: Walker Thomas - New Zealand in Wanganui
+title: Walker Thomas
 keywords: "New Zealand Wanganui"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

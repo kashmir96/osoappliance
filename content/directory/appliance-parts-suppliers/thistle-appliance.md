@@ -1,5 +1,5 @@
 ---
-title: Thistle Appliance - Appliance Parts Suppliers in Canada
+title: Thistle Appliance
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

@@ -1,5 +1,5 @@
 ---
-title: Certified Gas Bay Of Plenty - New Zealand in Tauranga
+title: Certified Gas Bay Of Plenty
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

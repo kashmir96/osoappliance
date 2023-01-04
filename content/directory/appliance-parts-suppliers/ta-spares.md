@@ -1,5 +1,5 @@
 ---
-title: TA Spares - Appliance Parts Suppliers in Australia
+title: TA Spares
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

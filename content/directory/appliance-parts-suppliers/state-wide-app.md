@@ -1,5 +1,5 @@
 ---
-title: State Wide App - Appliance Parts Suppliers in Australia
+title: State Wide App
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

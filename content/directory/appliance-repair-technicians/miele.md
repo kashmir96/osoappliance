@@ -1,5 +1,5 @@
 ---
-title: Miele - New Zealand in Masterton
+title: Miele
 keywords: "New Zealand Masterton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Appliance Outlet - Appliance Parts Suppliers in New Zealand
+title: Appliance Outlet
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

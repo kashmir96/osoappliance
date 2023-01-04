@@ -1,5 +1,5 @@
 ---
-title: Elins - Appliance Parts Suppliers in Nigeria
+title: Elins
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

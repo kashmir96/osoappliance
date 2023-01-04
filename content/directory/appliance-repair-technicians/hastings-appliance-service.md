@@ -1,5 +1,5 @@
 ---
-title: Hastings Appliance Service - New Zealand in Hastings
+title: Hastings Appliance Service
 keywords: "New Zealand Hastings"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

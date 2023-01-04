@@ -1,5 +1,5 @@
 ---
-title: Appliance Repair Tauranga - New Zealand in Tauranga
+title: Appliance Repair Tauranga
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

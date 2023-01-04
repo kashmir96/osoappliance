@@ -1,5 +1,5 @@
 ---
-title: Appliance Repair - New Zealand in Wellington
+title: Appliance Repair
 keywords: "New Zealand Wellington"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

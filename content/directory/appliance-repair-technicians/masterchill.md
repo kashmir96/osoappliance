@@ -1,5 +1,5 @@
 ---
-title: Masterchill - New Zealand in Timaru
+title: Masterchill
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

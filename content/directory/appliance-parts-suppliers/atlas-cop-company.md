@@ -1,5 +1,5 @@
 ---
-title: Atlas Cop Company - Appliance Parts Suppliers in Nigeria
+title: Atlas Cop Company
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

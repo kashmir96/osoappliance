@@ -1,5 +1,5 @@
 ---
-title: Plumber Man Rotorua - New Zealand in Rotorua
+title: Plumber Man Rotorua
 keywords: "New Zealand Rotorua"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

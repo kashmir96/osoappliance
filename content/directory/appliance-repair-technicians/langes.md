@@ -1,5 +1,5 @@
 ---
-title: Langes - New Zealand in Hastings
+title: Langes
 keywords: "New Zealand Hastings"
 type: "Appliance Removal, Appliance Repair Technician, Installation, Second hand appliances"
 categories: ["New Zealand"]

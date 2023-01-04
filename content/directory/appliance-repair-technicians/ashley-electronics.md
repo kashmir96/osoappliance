@@ -1,5 +1,5 @@
 ---
-title: Ashley Electronics - New Zealand in Taupo
+title: Ashley Electronics
 keywords: "New Zealand Taupo"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

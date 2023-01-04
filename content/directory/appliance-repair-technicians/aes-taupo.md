@@ -1,5 +1,5 @@
 ---
-title: AES Taupo - New Zealand in Taupo
+title: AES Taupo
 keywords: "New Zealand Taupo"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

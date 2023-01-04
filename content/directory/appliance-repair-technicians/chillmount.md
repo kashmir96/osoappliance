@@ -1,5 +1,5 @@
 ---
-title: Chillmount - New Zealand in Hastings
+title: Chillmount
 keywords: "New Zealand Hastings"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

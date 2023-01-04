@@ -1,5 +1,5 @@
 ---
-title: Siemens - Appliance Parts Suppliers in United Kingdom
+title: Siemens
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

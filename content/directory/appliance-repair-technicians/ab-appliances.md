@@ -1,5 +1,5 @@
 ---
-title: Ab Appliances - New Zealand in Rotorua
+title: Ab Appliances
 keywords: "New Zealand Rotorua"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

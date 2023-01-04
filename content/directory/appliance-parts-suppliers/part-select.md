@@ -1,5 +1,5 @@
 ---
-title: Part Select - Appliance Parts Suppliers in United States
+title: Part Select
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

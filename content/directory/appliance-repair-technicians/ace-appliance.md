@@ -1,5 +1,5 @@
 ---
-title: Ace Appliance - New Zealand in Wellington
+title: Ace Appliance
 keywords: "New Zealand Wellington"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

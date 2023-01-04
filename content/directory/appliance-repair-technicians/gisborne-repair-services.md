@@ -1,5 +1,5 @@
 ---
-title: Gisborne Repair Services - New Zealand in Gisborne
+title: Gisborne Repair Services
 keywords: "New Zealand Gisborne"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

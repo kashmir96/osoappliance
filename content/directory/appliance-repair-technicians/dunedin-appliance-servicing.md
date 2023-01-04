@@ -1,5 +1,5 @@
 ---
-title: Dunedin Appliance Servicing - New Zealand in Dunedin
+title: Dunedin Appliance Servicing
 keywords: "New Zealand Dunedin"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

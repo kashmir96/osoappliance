@@ -1,5 +1,5 @@
 ---
-title: Maypole - Appliance Parts Suppliers in United Kingdom
+title: Maypole
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

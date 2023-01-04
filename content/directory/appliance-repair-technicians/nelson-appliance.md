@@ -1,5 +1,5 @@
 ---
-title: Nelson Appliance - New Zealand in Nelson
+title: Nelson Appliance
 keywords: "New Zealand Nelson"
 type: "Parts, Appliance Repair Technician"
 categories: ["New Zealand"]

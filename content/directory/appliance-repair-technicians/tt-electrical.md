@@ -1,5 +1,5 @@
 ---
-title: TT Electrical - New Zealand in New Plymouth
+title: TT Electrical
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

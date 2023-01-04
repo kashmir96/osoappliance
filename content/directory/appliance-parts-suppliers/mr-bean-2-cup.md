@@ -1,5 +1,5 @@
 ---
-title: Mr Bean 2 Cup - Appliance Parts Suppliers in United Kingdom
+title: Mr Bean 2 Cup
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

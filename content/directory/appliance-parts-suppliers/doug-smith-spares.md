@@ -1,5 +1,5 @@
 ---
-title: Doug Smith Spares - Appliance Parts Suppliers in Australia
+title: Doug Smith Spares
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

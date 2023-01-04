@@ -1,5 +1,5 @@
 ---
-title: Appliance Man - New Zealand in Auckland
+title: Appliance Man
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Best buy - Appliance Parts Suppliers in Canada
+title: Best buy
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

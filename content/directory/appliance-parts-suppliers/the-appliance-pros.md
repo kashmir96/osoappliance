@@ -1,5 +1,5 @@
 ---
-title: The Appliance Pros - Appliance Parts Suppliers in Canada
+title: The Appliance Pros
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

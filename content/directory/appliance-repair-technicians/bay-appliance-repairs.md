@@ -1,5 +1,5 @@
 ---
-title: Bay Appliance Repairs - New Zealand in Timaru
+title: Bay Appliance Repairs
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

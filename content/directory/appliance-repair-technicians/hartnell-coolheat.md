@@ -1,5 +1,5 @@
 ---
-title: Hartnell Coolheat - New Zealand in Christchurch
+title: Hartnell Coolheat
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician, Installation, New Appliances"
 categories: ["New Zealand"]

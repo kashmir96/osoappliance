@@ -1,5 +1,5 @@
 ---
-title: Walker Services - New Zealand in Gisborne
+title: Walker Services
 keywords: "New Zealand Gisborne"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

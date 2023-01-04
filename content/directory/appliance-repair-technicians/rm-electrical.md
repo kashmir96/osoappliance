@@ -1,5 +1,5 @@
 ---
-title: RM Electrical - New Zealand in Wellington
+title: RM Electrical
 keywords: "New Zealand Wellington"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

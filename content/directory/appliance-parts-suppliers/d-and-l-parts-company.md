@@ -1,5 +1,5 @@
 ---
-title: D And L Parts Company - Appliance Parts Suppliers in Nigeria
+title: D And L Parts Company
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

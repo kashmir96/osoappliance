@@ -1,5 +1,5 @@
 ---
-title: Applico - Appliance Parts Suppliers in New Zealand
+title: Applico
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

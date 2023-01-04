@@ -1,5 +1,5 @@
 ---
-title: Electrolux - New Zealand in Masterton
+title: Electrolux
 keywords: "New Zealand Masterton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

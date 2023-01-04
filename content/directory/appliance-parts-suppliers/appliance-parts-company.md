@@ -1,5 +1,5 @@
 ---
-title: Appliance Parts Company - Appliance Parts Suppliers in United States
+title: Appliance Parts Company
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

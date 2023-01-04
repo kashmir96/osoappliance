@@ -1,5 +1,5 @@
 ---
-title: Kitchenware Online - Appliance Parts Suppliers in United Kingdom
+title: Kitchenware Online
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

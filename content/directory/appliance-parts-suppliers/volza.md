@@ -1,5 +1,5 @@
 ---
-title: Volza - Appliance Parts Suppliers in Nigeria
+title: Volza
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

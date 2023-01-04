@@ -1,5 +1,5 @@
 ---
-title: Appliance Dr - New Zealand in Queenstown
+title: Appliance Dr
 keywords: "New Zealand Queenstown"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

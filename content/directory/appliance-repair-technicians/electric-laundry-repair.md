@@ -1,5 +1,5 @@
 ---
-title: Electric Laundry Repair - New Zealand in Hamilton
+title: Electric Laundry Repair
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

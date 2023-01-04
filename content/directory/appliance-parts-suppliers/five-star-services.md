@@ -1,5 +1,5 @@
 ---
-title: Five Star Services - Appliance Parts Suppliers in United Kingdom
+title: Five Star Services
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

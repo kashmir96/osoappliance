@@ -1,5 +1,5 @@
 ---
-title: Cluetts - Appliance Parts Suppliers in Canada
+title: Cluetts
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

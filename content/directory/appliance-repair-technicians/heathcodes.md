@@ -1,5 +1,5 @@
 ---
-title: Heathcodes - New Zealand in Hamilton
+title: Heathcodes
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

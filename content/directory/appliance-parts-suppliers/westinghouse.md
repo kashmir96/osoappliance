@@ -1,5 +1,5 @@
 ---
-title: Westinghouse - Appliance Parts Suppliers in New Zealand
+title: Westinghouse
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

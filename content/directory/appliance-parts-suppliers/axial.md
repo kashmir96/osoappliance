@@ -1,5 +1,5 @@
 ---
-title: Axial - Appliance Parts Suppliers in New Zealand
+title: Axial
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Leons - Appliance Parts Suppliers in Canada
+title: Leons
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

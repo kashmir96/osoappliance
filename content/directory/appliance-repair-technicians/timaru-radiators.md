@@ -1,5 +1,5 @@
 ---
-title: Timaru Radiators - New Zealand in Timaru
+title: Timaru Radiators
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

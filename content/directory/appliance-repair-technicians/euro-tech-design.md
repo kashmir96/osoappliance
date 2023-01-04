@@ -1,5 +1,5 @@
 ---
-title: Euro Tech Design - New Zealand in Auckland
+title: Euro Tech Design
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician, New Appliances, Delivery, Installation"
 categories: ["New Zealand"]

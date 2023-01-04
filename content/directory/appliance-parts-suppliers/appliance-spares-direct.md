@@ -1,5 +1,5 @@
 ---
-title: Appliance Spares Direct - Appliance Parts Suppliers in United Kingdom
+title: Appliance Spares Direct
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

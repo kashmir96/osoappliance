@@ -1,5 +1,5 @@
 ---
-title: Local Mint - Appliance Parts Suppliers in Canada
+title: Local Mint
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

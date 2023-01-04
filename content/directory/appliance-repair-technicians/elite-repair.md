@@ -1,5 +1,5 @@
 ---
-title: Elite Repair - New Zealand in Tauranga
+title: Elite Repair
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

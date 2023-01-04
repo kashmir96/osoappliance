@@ -1,5 +1,5 @@
 ---
-title: Bay Of Plenty Plumbing And Gas - New Zealand in Rotorua
+title: Bay Of Plenty Plumbing And Gas
 keywords: "New Zealand Rotorua"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

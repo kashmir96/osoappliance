@@ -1,5 +1,5 @@
 ---
-title: Appliance Services - New Zealand in Hamilton
+title: Appliance Services
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

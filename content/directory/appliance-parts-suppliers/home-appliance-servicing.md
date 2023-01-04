@@ -1,5 +1,5 @@
 ---
-title: Home Appliance Servicing - Appliance Parts Suppliers in New Zealand
+title: Home Appliance Servicing
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

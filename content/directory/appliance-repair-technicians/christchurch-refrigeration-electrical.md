@@ -1,5 +1,5 @@
 ---
-title: Christchurch Refrigeration & Electrical - New Zealand in Christchurch
+title: Christchurch Refrigeration & Electrical
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician, Second hand appliances, Installation, Delivery"
 categories: ["New Zealand"]

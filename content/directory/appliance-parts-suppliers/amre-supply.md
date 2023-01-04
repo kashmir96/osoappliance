@@ -1,5 +1,5 @@
 ---
-title: AMRE Supply - Appliance Parts Suppliers in Canada
+title: AMRE Supply
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

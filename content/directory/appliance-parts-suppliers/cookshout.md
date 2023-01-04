@@ -1,5 +1,5 @@
 ---
-title: Cookshout - Appliance Parts Suppliers in United States
+title: Cookshout
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

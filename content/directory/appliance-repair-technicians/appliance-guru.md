@@ -1,5 +1,5 @@
 ---
-title: Appliance Guru - New Zealand in Wanganui
+title: Appliance Guru
 keywords: "New Zealand Wanganui"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

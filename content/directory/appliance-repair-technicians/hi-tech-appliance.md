@@ -1,5 +1,5 @@
 ---
-title: Hi-tech Appliance - New Zealand in Auckland
+title: Hi-tech Appliance
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

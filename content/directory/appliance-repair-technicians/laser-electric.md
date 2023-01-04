@@ -1,5 +1,5 @@
 ---
-title: Laser Electric - New Zealand in Oamaru
+title: Laser Electric
 keywords: "New Zealand Oamaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

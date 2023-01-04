@@ -1,5 +1,5 @@
 ---
-title: Fox Atlanta - Appliance Parts Suppliers in United States
+title: Fox Atlanta
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

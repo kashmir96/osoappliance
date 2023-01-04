@@ -1,5 +1,5 @@
 ---
-title: Dewar Appliances - New Zealand in Auckland
+title: Dewar Appliances
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

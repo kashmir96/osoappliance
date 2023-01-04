@@ -1,5 +1,5 @@
 ---
-title: Hodge Electical - New Zealand in Taupo
+title: Hodge Electical
 keywords: "New Zealand Taupo"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Home Appliance Repair - Appliance Parts Suppliers in United Kingdom
+title: Home Appliance Repair
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

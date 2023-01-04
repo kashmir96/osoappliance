@@ -1,5 +1,5 @@
 ---
-title: Robertson Home Appliances - New Zealand in Rotorua
+title: Robertson Home Appliances
 keywords: "New Zealand Rotorua"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

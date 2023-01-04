@@ -1,5 +1,5 @@
 ---
-title: Anderson Electrical - New Zealand in Wanaka
+title: Anderson Electrical
 keywords: "New Zealand Wanaka"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

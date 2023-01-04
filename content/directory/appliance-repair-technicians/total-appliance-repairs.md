@@ -1,5 +1,5 @@
 ---
-title: Total Appliance Repairs - New Zealand in New Plymouth
+title: Total Appliance Repairs
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Rankins - New Zealand in Auckland
+title: Rankins
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician, Parts, New Appliances"
 categories: ["New Zealand"]

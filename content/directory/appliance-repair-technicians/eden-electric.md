@@ -1,5 +1,5 @@
 ---
-title: Eden Electric - New Zealand in Auckland
+title: Eden Electric
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

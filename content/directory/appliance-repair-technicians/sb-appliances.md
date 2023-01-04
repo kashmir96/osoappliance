@@ -1,5 +1,5 @@
 ---
-title: SB Appliances - New Zealand in Auckland
+title: SB Appliances
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

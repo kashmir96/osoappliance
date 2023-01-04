@@ -1,5 +1,5 @@
 ---
-title: High Chill - New Zealand in Hastings
+title: High Chill
 keywords: "New Zealand Hastings"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

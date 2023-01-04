@@ -1,5 +1,5 @@
 ---
-title: Stokes AP - Appliance Parts Suppliers in Australia
+title: Stokes AP
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

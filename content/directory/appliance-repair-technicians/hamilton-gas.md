@@ -1,5 +1,5 @@
 ---
-title: Hamilton Gas - New Zealand in Hamilton
+title: Hamilton Gas
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

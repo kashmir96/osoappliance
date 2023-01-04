@@ -1,5 +1,5 @@
 ---
-title: Machines 4 Food - Appliance Parts Suppliers in United Kingdom
+title: Machines 4 Food
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

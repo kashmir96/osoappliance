@@ -1,5 +1,5 @@
 ---
-title: Direct 2 Public - Appliance Parts Suppliers in United Kingdom
+title: Direct 2 Public
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

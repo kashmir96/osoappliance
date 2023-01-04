@@ -1,5 +1,5 @@
 ---
-title: Vt Electronics - Appliance Parts Suppliers in United Kingdom
+title: Vt Electronics
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

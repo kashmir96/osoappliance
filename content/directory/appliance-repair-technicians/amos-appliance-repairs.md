@@ -1,5 +1,5 @@
 ---
-title: Amos Appliance Repairs - New Zealand in Nelson
+title: Amos Appliance Repairs
 keywords: "New Zealand Nelson"
 type: "Appliance Repair Technician, Second hand appliances"
 categories: ["New Zealand"]

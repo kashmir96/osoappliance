@@ -1,5 +1,5 @@
 ---
-title: Spares 2 Repair - Appliance Parts Suppliers in United Kingdom
+title: Spares 2 Repair
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

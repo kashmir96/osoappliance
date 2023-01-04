@@ -1,5 +1,5 @@
 ---
-title: Chris Appliance Services - Appliance Parts Suppliers in United States
+title: Chris Appliance Services
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

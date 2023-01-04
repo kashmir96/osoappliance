@@ -1,5 +1,5 @@
 ---
-title: Fix Part - Appliance Parts Suppliers in United Kingdom
+title: Fix Part
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

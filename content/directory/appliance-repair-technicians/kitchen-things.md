@@ -1,5 +1,5 @@
 ---
-title: Kitchen Things - New Zealand in Tauranga
+title: Kitchen Things
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

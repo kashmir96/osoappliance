@@ -1,5 +1,5 @@
 ---
-title: Plunket Electrical - New Zealand in Oamaru
+title: Plunket Electrical
 keywords: "New Zealand Oamaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

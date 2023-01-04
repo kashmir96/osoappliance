@@ -1,5 +1,5 @@
 ---
-title: Appliance Pros - New Zealand in Christchurch
+title: Appliance Pros
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

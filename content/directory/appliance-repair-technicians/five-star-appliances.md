@@ -1,5 +1,5 @@
 ---
-title: Five Star Appliances - New Zealand in Hamilton
+title: Five Star Appliances
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

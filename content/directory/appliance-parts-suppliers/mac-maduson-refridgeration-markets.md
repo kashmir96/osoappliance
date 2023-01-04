@@ -1,5 +1,5 @@
 ---
-title: Mac Maduson Refridgeration Markets - Appliance Parts Suppliers in Nigeria
+title: Mac Maduson Refridgeration Markets
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

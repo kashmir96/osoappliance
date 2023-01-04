@@ -1,5 +1,5 @@
 ---
-title: Samsung Canada Parts - Appliance Parts Suppliers in Canada
+title: Samsung Canada Parts
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

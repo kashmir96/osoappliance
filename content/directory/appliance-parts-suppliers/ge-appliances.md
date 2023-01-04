@@ -1,5 +1,5 @@
 ---
-title: Ge Appliances - Appliance Parts Suppliers in United States
+title: Ge Appliances
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

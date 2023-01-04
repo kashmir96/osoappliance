@@ -1,5 +1,5 @@
 ---
-title: Norwestas - New Zealand in Auckland
+title: Norwestas
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician, New Appliances, Parts"
 categories: ["New Zealand"]

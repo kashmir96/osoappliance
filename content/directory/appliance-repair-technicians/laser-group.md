@@ -1,5 +1,5 @@
 ---
-title: Laser Group - New Zealand in Timaru
+title: Laser Group
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

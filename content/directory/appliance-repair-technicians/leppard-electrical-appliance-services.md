@@ -1,5 +1,5 @@
 ---
-title: Leppard Electrical Appliance Services - New Zealand in New Plymouth
+title: Leppard Electrical Appliance Services
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

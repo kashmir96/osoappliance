@@ -1,5 +1,5 @@
 ---
-title: Ha Repair And Services - New Zealand in Oamaru
+title: Ha Repair And Services
 keywords: "New Zealand Oamaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

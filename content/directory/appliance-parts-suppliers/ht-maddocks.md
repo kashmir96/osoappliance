@@ -1,5 +1,5 @@
 ---
-title: Ht Maddocks - Appliance Parts Suppliers in United Kingdom
+title: Ht Maddocks
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

@@ -1,5 +1,5 @@
 ---
-title: Besl - New Zealand in Wanaka
+title: Besl
 keywords: "New Zealand Wanaka"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

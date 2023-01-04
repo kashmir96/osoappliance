@@ -1,5 +1,5 @@
 ---
-title: Temprite - New Zealand in Rotorua
+title: Temprite
 keywords: "New Zealand Rotorua"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

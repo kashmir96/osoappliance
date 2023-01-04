@@ -1,5 +1,5 @@
 ---
-title: Remote Controls Shop - Appliance Parts Suppliers in United Kingdom
+title: Remote Controls Shop
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

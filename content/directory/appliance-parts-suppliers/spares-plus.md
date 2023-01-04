@@ -1,5 +1,5 @@
 ---
-title: Spares Plus - Appliance Parts Suppliers in United Kingdom
+title: Spares Plus
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

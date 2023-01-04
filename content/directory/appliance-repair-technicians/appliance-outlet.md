@@ -1,5 +1,5 @@
 ---
-title: Appliance Outlet - New Zealand in Hamilton
+title: Appliance Outlet
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Call Small - New Zealand in Hastings
+title: Call Small
 keywords: "New Zealand Hastings"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

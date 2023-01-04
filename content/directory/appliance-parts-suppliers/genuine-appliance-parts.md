@@ -1,5 +1,5 @@
 ---
-title: Genuine Appliance Parts - Appliance Parts Suppliers in Canada
+title: Genuine Appliance Parts
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

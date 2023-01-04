@@ -1,5 +1,5 @@
 ---
-title: Greenline Appliance Parts - Appliance Parts Suppliers in Canada
+title: Greenline Appliance Parts
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

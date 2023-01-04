@@ -1,5 +1,5 @@
 ---
-title: Kings Radio - New Zealand in Hamilton
+title: Kings Radio
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

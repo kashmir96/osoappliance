@@ -1,5 +1,5 @@
 ---
-title: Nation Wide Spares - Appliance Parts Suppliers in Australia
+title: Nation Wide Spares
 keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]

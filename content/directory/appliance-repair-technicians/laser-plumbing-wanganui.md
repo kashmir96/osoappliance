@@ -1,5 +1,5 @@
 ---
-title: Laser Plumbing Wanganui - New Zealand in Wanganui
+title: Laser Plumbing Wanganui
 keywords: "New Zealand Wanganui"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

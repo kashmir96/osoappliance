@@ -1,5 +1,5 @@
 ---
-title: Infotel - Appliance Parts Suppliers in Canada
+title: Infotel
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

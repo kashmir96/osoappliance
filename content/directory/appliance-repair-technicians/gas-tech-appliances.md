@@ -1,5 +1,5 @@
 ---
-title: Gas Tech Appliances - New Zealand in Tauranga
+title: Gas Tech Appliances
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

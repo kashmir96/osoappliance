@@ -1,5 +1,5 @@
 ---
-title: Appliance Parts HQ - Appliance Parts Suppliers in Canada
+title: Appliance Parts HQ
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

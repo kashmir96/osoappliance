@@ -1,5 +1,5 @@
 ---
-title: Source Caps - Appliance Parts Suppliers in Canada
+title: Source Caps
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

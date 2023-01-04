@@ -1,5 +1,5 @@
 ---
-title: Apple Appliances - New Zealand in Auckland
+title: Apple Appliances
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

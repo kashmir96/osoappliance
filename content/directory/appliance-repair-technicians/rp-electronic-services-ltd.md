@@ -1,5 +1,5 @@
 ---
-title: RP Electronic Services LTD - New Zealand in Hastings
+title: RP Electronic Services LTD
 keywords: "New Zealand Hastings"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

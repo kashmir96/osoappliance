@@ -1,5 +1,5 @@
 ---
-title: Leader and Watt - New Zealand in New Plymouth
+title: Leader and Watt
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Seletrix - New Zealand in Wanaka
+title: Seletrix
 keywords: "New Zealand Wanaka"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

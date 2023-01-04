@@ -1,5 +1,5 @@
 ---
-title: Stendy Electrical - New Zealand in Hamilton
+title: Stendy Electrical
 keywords: "New Zealand Hamilton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

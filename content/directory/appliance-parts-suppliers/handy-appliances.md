@@ -1,5 +1,5 @@
 ---
-title: Handy Appliances - Appliance Parts Suppliers in Canada
+title: Handy Appliances
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

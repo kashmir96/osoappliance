@@ -1,5 +1,5 @@
 ---
-title: Fredericks Appliance - Appliance Parts Suppliers in Canada
+title: Fredericks Appliance
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

@@ -1,5 +1,5 @@
 ---
-title: Coastal Electronics - New Zealand in New Plymouth
+title: Coastal Electronics
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

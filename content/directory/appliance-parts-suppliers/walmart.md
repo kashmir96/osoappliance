@@ -1,5 +1,5 @@
 ---
-title: Walmart - Appliance Parts Suppliers in Canada
+title: Walmart
 keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]

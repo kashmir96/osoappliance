@@ -1,5 +1,5 @@
 ---
-title: One Stop Appliances - Appliance Parts Suppliers in United Kingdom
+title: One Stop Appliances
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

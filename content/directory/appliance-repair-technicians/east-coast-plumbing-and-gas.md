@@ -1,5 +1,5 @@
 ---
-title: East Coast Plumbing and Gas - New Zealand in Hastings
+title: East Coast Plumbing and Gas
 keywords: "New Zealand Hastings"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

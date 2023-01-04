@@ -1,5 +1,5 @@
 ---
-title: Service Plus Electrical - New Zealand in Queenstown
+title: Service Plus Electrical
 keywords: "New Zealand Queenstown"
 type: "Appliance Repair Technician, New Appliances"
 categories: ["New Zealand"]

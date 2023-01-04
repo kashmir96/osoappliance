@@ -1,5 +1,5 @@
 ---
-title: One Smart Lighting - Appliance Parts Suppliers in United States
+title: One Smart Lighting
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

@@ -1,5 +1,5 @@
 ---
-title: Java Jons - New Zealand in Tauranga
+title: Java Jons
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Steves Appliance Spares - Appliance Parts Suppliers in New Zealand
+title: Steves Appliance Spares
 keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]

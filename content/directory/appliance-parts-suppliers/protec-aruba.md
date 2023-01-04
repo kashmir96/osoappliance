@@ -1,5 +1,5 @@
 ---
-title: Protec Aruba - Appliance Parts Suppliers in Nigeria
+title: Protec Aruba
 keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]

@@ -1,5 +1,5 @@
 ---
-title: Timaru Heating Centre - New Zealand in Timaru
+title: Timaru Heating Centre
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

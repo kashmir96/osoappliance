@@ -1,5 +1,5 @@
 ---
-title: Repa Group - Appliance Parts Suppliers in United Kingdom
+title: Repa Group
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

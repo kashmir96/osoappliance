@@ -1,5 +1,5 @@
 ---
-title: For My Spares - Appliance Parts Suppliers in United Kingdom
+title: For My Spares
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

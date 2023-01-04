@@ -1,5 +1,5 @@
 ---
-title: Oven Door Glue - Appliance Parts Suppliers in United Kingdom
+title: Oven Door Glue
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

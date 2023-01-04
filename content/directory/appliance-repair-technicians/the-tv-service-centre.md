@@ -1,5 +1,5 @@
 ---
-title: The TV Service Centre - New Zealand in Christchurch
+title: The TV Service Centre
 keywords: "New Zealand Christchurch"
 type: "Appliance Repair Technician, Installation"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Award Appliances - New Zealand in Tauranga
+title: Award Appliances
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

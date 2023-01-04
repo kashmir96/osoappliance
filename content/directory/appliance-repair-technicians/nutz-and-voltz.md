@@ -1,5 +1,5 @@
 ---
-title: Nutz and Voltz - New Zealand in Taupo
+title: Nutz and Voltz
 keywords: "New Zealand Taupo"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

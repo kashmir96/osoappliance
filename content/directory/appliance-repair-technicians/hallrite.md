@@ -1,5 +1,5 @@
 ---
-title: Hallrite - New Zealand in Gisborne
+title: Hallrite
 keywords: "New Zealand Gisborne"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

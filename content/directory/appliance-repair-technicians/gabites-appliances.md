@@ -1,5 +1,5 @@
 ---
-title: Gabites Appliances - New Zealand in Timaru
+title: Gabites Appliances
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

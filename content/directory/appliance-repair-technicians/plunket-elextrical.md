@@ -1,5 +1,5 @@
 ---
-title: Plunket Elextrical - New Zealand in Timaru
+title: Plunket Elextrical
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

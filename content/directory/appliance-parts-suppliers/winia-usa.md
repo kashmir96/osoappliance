@@ -1,5 +1,5 @@
 ---
-title: Winia Usa - Appliance Parts Suppliers in United States
+title: Winia Usa
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

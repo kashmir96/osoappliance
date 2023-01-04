@@ -1,5 +1,5 @@
 ---
-title: Cool Air - New Zealand in Timaru
+title: Cool Air
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

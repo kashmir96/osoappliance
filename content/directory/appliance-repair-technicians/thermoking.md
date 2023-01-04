@@ -1,5 +1,5 @@
 ---
-title: Thermoking - New Zealand in New Plymouth
+title: Thermoking
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

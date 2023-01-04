@@ -1,5 +1,5 @@
 ---
-title: RD Tech Shop - New Zealand in New Plymouth
+title: RD Tech Shop
 keywords: "New Zealand New Plymouth"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

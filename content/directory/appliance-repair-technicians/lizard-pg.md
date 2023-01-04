@@ -1,5 +1,5 @@
 ---
-title: Lizard Pg - New Zealand in Timaru
+title: Lizard Pg
 keywords: "New Zealand Timaru"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

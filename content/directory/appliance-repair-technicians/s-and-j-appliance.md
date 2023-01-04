@@ -1,5 +1,5 @@
 ---
-title: S and J Appliance - New Zealand in Auckland
+title: S and J Appliance
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician"
 categories: ["New Zealand"]

@@ -1,5 +1,5 @@
 ---
-title: Devenport - New Zealand in Masterton
+title: Devenport
 keywords: "New Zealand Masterton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

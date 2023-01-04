@@ -1,5 +1,5 @@
 ---
-title: Fisher And Paykel - Appliance Parts Suppliers in United Kingdom
+title: Fisher And Paykel
 keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]

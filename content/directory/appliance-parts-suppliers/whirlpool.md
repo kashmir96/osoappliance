@@ -1,5 +1,5 @@
 ---
-title: Whirlpool - Appliance Parts Suppliers in United States
+title: Whirlpool
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

@@ -1,5 +1,5 @@
 ---
-title: Frigidaire Appliance Parts - Appliance Parts Suppliers in United States
+title: Frigidaire Appliance Parts
 keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]

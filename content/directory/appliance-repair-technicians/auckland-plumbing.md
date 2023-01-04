@@ -1,5 +1,5 @@
 ---
-title: Auckland Plumbing - New Zealand in Auckland
+title: Auckland Plumbing
 keywords: "New Zealand Auckland"
 type: "Appliance Repair Technician, Installation"
 categories: ["New Zealand"]

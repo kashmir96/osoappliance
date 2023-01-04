@@ -1,5 +1,5 @@
 ---
-title: Rinnai - New Zealand in Masterton
+title: Rinnai
 keywords: "New Zealand Masterton"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]

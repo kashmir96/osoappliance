@@ -1,5 +1,5 @@
 ---
-title: Npe Tech - New Zealand in Tauranga
+title: Npe Tech
 keywords: "New Zealand Tauranga"
 type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
