@@ -1,0 +1,19 @@
+---
+title: Appliance King - New Zealand in Dunedin
+keywords: "New Zealand Dunedin"
+type: "Appliance Repair Technician, Installation, Delivery"
+categories: ["New Zealand"]
+tags: ["Dunedin"]
+author: Curtis
+cover: 
+ image: /img/directory-images/appliance-repair-technician,-installation,-delivery/appliance-king.webp
+ alt: 'Logo for Appliance King the New Zealand from Dunedin'
+---
+
+Appliance King is an Appliance Repair Technician, Installation, Delivery Company operating in Dunedin, New Zealand.
+
+This business offers a range of appliance repair services to both households and businesses located in and around Dunedin.
+
+This company services all of the following brands: Miele, Delonghi, Artiston, Schweigen, Belling, LG, Panasonic, GlenDimplex, Philips, Omega, Sunbeam, Kenwood, Everdure, Magimix, Insinkerator, Homeking
+
+To check out this company you can view their website here: www.appking.co.nz.
