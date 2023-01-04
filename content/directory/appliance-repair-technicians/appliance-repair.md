@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Appliance Repair the New Zealand from Wellington'
 ---
 
-Appliance Repair is an Appliance Repair Technician Company operating in Wellington, New Zealand.
+# Appliance Repair is an Appliance Repair Technician Company operating in Wellington, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wellington.
 

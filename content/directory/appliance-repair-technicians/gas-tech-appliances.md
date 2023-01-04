@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Gas Tech Appliances the New Zealand from Tauranga'
 ---
 
-Gas Tech Appliances is an Appliance Repair Technicians Company operating in Tauranga, New Zealand.
+# Gas Tech Appliances is an Appliance Repair Technician Company operating in Tauranga, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Tauranga.
 

@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Doug Smith Spares the Appliance Parts Suppliers from Australia'
 ---
 
-Doug Smith Spares is an Appliance Parts Suppliers from Australia.
+# Doug Smith Spares is an Appliance Parts Supplier from Australia.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Australia.
 

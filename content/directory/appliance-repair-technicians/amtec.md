@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for AmTec the New Zealand from Invercargill'
 ---
 
-AmTec is an Appliance Repair Technician, Installation Company operating in Invercargill, New Zealand.
+# AmTec is an Appliance Repair Technician, Installation Company operating in Invercargill, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Invercargill.
 

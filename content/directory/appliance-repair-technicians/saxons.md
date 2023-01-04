@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Saxons the New Zealand from Auckland'
 ---
 
-Saxons is an Appliance Repair Technician, Parts Company operating in Auckland, New Zealand.
+# Saxons is an Appliance Repair Technician, Parts Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

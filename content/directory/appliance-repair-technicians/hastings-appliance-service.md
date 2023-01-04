@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Hastings Appliance Service the New Zealand from Hastings'
 ---
 
-Hastings Appliance Service is an Appliance Repair Technician Company operating in Hastings, New Zealand.
+# Hastings Appliance Service is an Appliance Repair Technician Company operating in Hastings, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Hastings.
 

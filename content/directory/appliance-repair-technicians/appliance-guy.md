@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Appliance Guy the New Zealand from Christchurch'
 ---
 
-Appliance Guy is an Appliance Repair Technician Company operating in Christchurch, New Zealand.
+# Appliance Guy is an Appliance Repair Technician Company operating in Christchurch, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Christchurch.
 

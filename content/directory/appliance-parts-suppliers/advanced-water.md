@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Advanced Water the Appliance Parts Suppliers from United Kingdom'
 ---
 
-Advanced Water is an Appliance Parts Suppliers from United Kingdom.
+# Advanced Water is an Appliance Parts Supplier from United Kingdom.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United Kingdom.
 

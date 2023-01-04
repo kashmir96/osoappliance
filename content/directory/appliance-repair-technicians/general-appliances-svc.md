@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for General Appliances SVC the New Zealand from Wellington'
 ---
 
-General Appliances SVC is an Appliance Repair Technician Company operating in Wellington, New Zealand.
+# General Appliances SVC is an Appliance Repair Technician Company operating in Wellington, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wellington.
 

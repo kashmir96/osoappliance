@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Appliance Repairs Inv the New Zealand from Invercargill'
 ---
 
-Appliance Repairs Inv is an Appliance Repair Technician Company operating in Invercargill, New Zealand.
+# Appliance Repairs Inv is an Appliance Repair Technician Company operating in Invercargill, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Invercargill.
 

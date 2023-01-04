@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Appliance Services by Tim Stockman the New Zealand from Christchurch'
 ---
 
-Appliance Services by Tim Stockman is an Appliance Repair Technician, Appliance Rental, Second hand appliances Company operating in Christchurch, New Zealand.
+# Appliance Services by Tim Stockman is an Appliance Repair Technician, Appliance Rental, Second hand appliances Company operating in Christchurch, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Christchurch.
 

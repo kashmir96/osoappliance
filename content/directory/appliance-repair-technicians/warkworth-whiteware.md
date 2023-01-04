@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Warkworth Whiteware the New Zealand from Auckland'
 ---
 
-Warkworth Whiteware is an Appliance Repair Technician Company operating in Auckland, New Zealand.
+# Warkworth Whiteware is an Appliance Repair Technician Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

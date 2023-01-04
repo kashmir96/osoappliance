@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Speedy Appliance Parts the Appliance Parts Suppliers from Nigeria'
 ---
 
-Speedy Appliance Parts is an Appliance Parts Suppliers from Nigeria.
+# Speedy Appliance Parts is an Appliance Parts Supplier from Nigeria.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Nigeria.
 

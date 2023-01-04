@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Best buy the Appliance Parts Suppliers from Canada'
 ---
 
-Best buy is an Appliance Parts Suppliers from Canada.
+# Best buy is an Appliance Parts Supplier from Canada.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Canada.
 

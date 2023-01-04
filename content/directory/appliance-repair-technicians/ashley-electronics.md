@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Ashley Electronics the New Zealand from Taupo'
 ---
 
-Ashley Electronics is an Appliance Repair Technician Company operating in Taupo, New Zealand.
+# Ashley Electronics is an Appliance Repair Technician Company operating in Taupo, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Taupo.
 

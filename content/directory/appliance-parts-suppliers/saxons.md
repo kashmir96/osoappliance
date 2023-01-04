@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Saxons the Appliance Parts Suppliers from New Zealand'
 ---
 
-Saxons is an Appliance Parts Suppliers from New Zealand.
+# Saxons is an Appliance Parts Supplier from New Zealand.
 
 This company offers a range of Appliance Parts to individuals and businesses located in New Zealand.
 

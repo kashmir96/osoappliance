@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Elins the Appliance Parts Suppliers from Nigeria'
 ---
 
-Elins is an Appliance Parts Suppliers from Nigeria.
+# Elins is an Appliance Parts Supplier from Nigeria.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Nigeria.
 

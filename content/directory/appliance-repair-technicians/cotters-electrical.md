@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Cotters Electrical the New Zealand from Christchurch'
 ---
 
-Cotters Electrical is an Appliance Repair Technician Company operating in Christchurch, New Zealand.
+# Cotters Electrical is an Appliance Repair Technician Company operating in Christchurch, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Christchurch.
 

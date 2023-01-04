@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Appliance Master Inc the Appliance Parts Suppliers from Canada'
 ---
 
-Appliance Master Inc is an Appliance Parts Suppliers from Canada.
+# Appliance Master Inc is an Appliance Parts Supplier from Canada.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Canada.
 

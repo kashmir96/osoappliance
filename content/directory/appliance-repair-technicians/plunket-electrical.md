@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Plunket Electrical the New Zealand from Oamaru'
 ---
 
-Plunket Electrical is an Appliance Repair Technicians Company operating in Oamaru, New Zealand.
+# Plunket Electrical is an Appliance Repair Technician Company operating in Oamaru, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Oamaru.
 

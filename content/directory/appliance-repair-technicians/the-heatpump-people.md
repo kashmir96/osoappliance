@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for The Heatpump People the New Zealand from Christchurch'
 ---
 
-The Heatpump People is an Appliance Repair Technician, New Appliances, Installation Company operating in Christchurch, New Zealand.
+# The Heatpump People is an Appliance Repair Technician, New Appliances, Installation Company operating in Christchurch, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Christchurch.
 

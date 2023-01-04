@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Gisborne Repair Services the New Zealand from Gisborne'
 ---
 
-Gisborne Repair Services is an Appliance Repair Technician Company operating in Gisborne, New Zealand.
+# Gisborne Repair Services is an Appliance Repair Technician Company operating in Gisborne, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Gisborne.
 

@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Source Caps the Appliance Parts Suppliers from Canada'
 ---
 
-Source Caps is an Appliance Parts Suppliers from Canada.
+# Source Caps is an Appliance Parts Supplier from Canada.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Canada.
 

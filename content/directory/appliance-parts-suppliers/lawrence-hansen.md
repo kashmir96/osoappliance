@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Lawrence & Hansen the Appliance Parts Suppliers from Australia'
 ---
 
-Lawrence & Hansen is an Appliance Parts Suppliers from Australia.
+# Lawrence & Hansen is an Appliance Parts Supplier from Australia.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Australia.
 

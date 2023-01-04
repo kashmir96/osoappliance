@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for 100 Percent the New Zealand from Wanganui'
 ---
 
-100 Percent is an Appliance Repair Technicians Company operating in Wanganui, New Zealand.
+# 100 Percent is an Appliance Repair Technician Company operating in Wanganui, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wanganui.
 

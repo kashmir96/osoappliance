@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for RP Electronic Services LTD the New Zealand from Hastings'
 ---
 
-RP Electronic Services LTD is an Appliance Repair Technician Company operating in Hastings, New Zealand.
+# RP Electronic Services LTD is an Appliance Repair Technician Company operating in Hastings, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Hastings.
 

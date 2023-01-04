@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Appliance Supplies the Appliance Parts Suppliers from Australia'
 ---
 
-Appliance Supplies is an Appliance Parts Suppliers from Australia.
+# Appliance Supplies is an Appliance Parts Supplier from Australia.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Australia.
 

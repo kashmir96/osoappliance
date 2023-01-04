@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Elite Repair the New Zealand from Tauranga'
 ---
 
-Elite Repair is an Appliance Repair Technicians Company operating in Tauranga, New Zealand.
+# Elite Repair is an Appliance Repair Technician Company operating in Tauranga, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Tauranga.
 

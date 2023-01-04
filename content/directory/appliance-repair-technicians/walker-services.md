@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Walker Services the New Zealand from Gisborne'
 ---
 
-Walker Services is an Appliance Repair Technician Company operating in Gisborne, New Zealand.
+# Walker Services is an Appliance Repair Technician Company operating in Gisborne, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Gisborne.
 

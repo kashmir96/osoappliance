@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Lawrence Appliance Centre the New Zealand from Hamilton'
 ---
 
-Lawrence Appliance Centre is an Appliance Repair Technicians Company operating in Hamilton, New Zealand.
+# Lawrence Appliance Centre is an Appliance Repair Technician Company operating in Hamilton, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Hamilton.
 

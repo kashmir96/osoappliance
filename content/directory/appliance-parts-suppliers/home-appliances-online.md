@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Home Appliances Online the Appliance Parts Suppliers from New Zealand'
 ---
 
-Home Appliances Online is an Appliance Parts Suppliers from New Zealand.
+# Home Appliances Online is an Appliance Parts Supplier from New Zealand.
 
 This company offers a range of Appliance Parts to individuals and businesses located in New Zealand.
 

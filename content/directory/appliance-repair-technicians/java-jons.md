@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Java Jons the New Zealand from Tauranga'
 ---
 
-Java Jons is an Appliance Repair Technicians Company operating in Tauranga, New Zealand.
+# Java Jons is an Appliance Repair Technician Company operating in Tauranga, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Tauranga.
 

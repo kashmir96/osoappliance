@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for LG Canada Parts the Appliance Parts Suppliers from Canada'
 ---
 
-LG Canada Parts is an Appliance Parts Suppliers from Canada.
+# LG Canada Parts is an Appliance Parts Supplier from Canada.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Canada.
 

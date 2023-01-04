@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Fisher And Paykel the Appliance Parts Suppliers from United Kingdom'
 ---
 
-Fisher And Paykel is an Appliance Parts Suppliers from United Kingdom.
+# Fisher And Paykel is an Appliance Parts Supplier from United Kingdom.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United Kingdom.
 

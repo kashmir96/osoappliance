@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Anthonys Appliance Repairs the New Zealand from Hastings'
 ---
 
-Anthony's Appliance Repairs is an Appliance Repair Technician Company operating in Hastings, New Zealand.
+# Anthony's Appliance Repairs is an Appliance Repair Technician Company operating in Hastings, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Hastings.
 

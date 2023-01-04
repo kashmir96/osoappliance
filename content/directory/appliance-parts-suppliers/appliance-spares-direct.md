@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Appliance Spares Direct the Appliance Parts Suppliers from United Kingdom'
 ---
 
-Appliance Spares Direct is an Appliance Parts Suppliers from United Kingdom.
+# Appliance Spares Direct is an Appliance Parts Supplier from United Kingdom.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United Kingdom.
 

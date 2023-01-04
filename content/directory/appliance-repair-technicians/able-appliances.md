@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Able Appliances the New Zealand from Auckland'
 ---
 
-Able Appliances is an New Appliances, Appliance Repair Technician, Installation Company operating in Auckland, New Zealand.
+# Able Appliances is an New Appliances, Appliance Repair Technician, Installation Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

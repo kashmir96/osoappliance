@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Coastal Electronics the New Zealand from New Plymouth'
 ---
 
-Coastal Electronics is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.
+# Coastal Electronics is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around New Plymouth.
 

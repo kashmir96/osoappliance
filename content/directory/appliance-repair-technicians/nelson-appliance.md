@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Nelson Appliance the New Zealand from Nelson'
 ---
 
-Nelson Appliance is an Parts, Appliance Repair Technician Company operating in Nelson, New Zealand.
+# Nelson Appliance is an Parts, Appliance Repair Technician Company operating in Nelson, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Nelson.
 

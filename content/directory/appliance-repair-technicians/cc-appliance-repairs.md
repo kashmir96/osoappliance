@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for CC Appliance Repairs the New Zealand from Dunedin'
 ---
 
-CC Appliance Repairs is an Second hand appliances, New Appliances, Appliance Repair Technician Company operating in Dunedin, New Zealand.
+# CC Appliance Repairs is an Second hand appliances, New Appliances, Appliance Repair Technician Company operating in Dunedin, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Dunedin.
 

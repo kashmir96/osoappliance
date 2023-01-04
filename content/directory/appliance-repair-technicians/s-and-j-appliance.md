@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for S and J Appliance the New Zealand from Auckland'
 ---
 
-S and J Appliance is an Appliance Repair Technician Company operating in Auckland, New Zealand.
+# S and J Appliance is an Appliance Repair Technician Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

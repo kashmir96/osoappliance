@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Electrical Solutions the New Zealand from Rotorua'
 ---
 
-Electrical Solutions is an Appliance Repair Technicians Company operating in Rotorua, New Zealand.
+# Electrical Solutions is an Appliance Repair Technician Company operating in Rotorua, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Rotorua.
 

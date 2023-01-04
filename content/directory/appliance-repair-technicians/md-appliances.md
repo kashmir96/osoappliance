@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for MD Appliances the New Zealand from Auckland'
 ---
 
-MD Appliances is an Appliance Repair Technician Company operating in Auckland, New Zealand.
+# MD Appliances is an Appliance Repair Technician Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

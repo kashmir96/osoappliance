@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Frigidaire Appliance Parts the Appliance Parts Suppliers from United States'
 ---
 
-Frigidaire Appliance Parts is an Appliance Parts Suppliers from United States.
+# Frigidaire Appliance Parts is an Appliance Parts Supplier from United States.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United States.
 

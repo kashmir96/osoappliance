@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Lasergroup the New Zealand from Masterton'
 ---
 
-Lasergroup is an Appliance Repair Technicians Company operating in Masterton, New Zealand.
+# Lasergroup is an Appliance Repair Technician Company operating in Masterton, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Masterton.
 

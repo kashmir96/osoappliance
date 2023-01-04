@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for ESI Appliance Services the New Zealand from Queenstown, Auckland'
 ---
 
-ESI Appliance Services is an Appliance Repair Technician, Installation, Appliance Rental, Second hand appliances Company operating in Queenstown, Auckland, New Zealand.
+# ESI Appliance Services is an Appliance Repair Technician, Installation, Appliance Rental, Second hand appliances Company operating in Queenstown, Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Queenstown, Auckland.
 

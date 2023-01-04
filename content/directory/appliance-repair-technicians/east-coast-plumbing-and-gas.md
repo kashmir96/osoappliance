@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for East Coast Plumbing and Gas the New Zealand from Hastings'
 ---
 
-East Coast Plumbing and Gas is an Appliance Repair Technician Company operating in Hastings, New Zealand.
+# East Coast Plumbing and Gas is an Appliance Repair Technician Company operating in Hastings, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Hastings.
 

@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for One Smart Lighting the Appliance Parts Suppliers from United States'
 ---
 
-One Smart Lighting is an Appliance Parts Suppliers from United States.
+# One Smart Lighting is an Appliance Parts Supplier from United States.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United States.
 

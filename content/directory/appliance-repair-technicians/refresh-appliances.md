@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Refresh Appliances the New Zealand from Christchurch'
 ---
 
-Refresh Appliances is an Appliance Repair Technician, Second hand appliances, Delivery, New Appliances Company operating in Christchurch, New Zealand.
+# Refresh Appliances is an Appliance Repair Technician, Second hand appliances, Delivery, New Appliances Company operating in Christchurch, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Christchurch.
 

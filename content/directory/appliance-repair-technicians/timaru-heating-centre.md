@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Timaru Heating Centre the New Zealand from Timaru'
 ---
 
-Timaru Heating Centre is an Appliance Repair Technicians Company operating in Timaru, New Zealand.
+# Timaru Heating Centre is an Appliance Repair Technician Company operating in Timaru, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Timaru.
 

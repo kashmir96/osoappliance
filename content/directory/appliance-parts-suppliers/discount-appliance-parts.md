@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Discount Appliance Parts the Appliance Parts Suppliers from Australia'
 ---
 
-Discount Appliance Parts is an Appliance Parts Suppliers from Australia.
+# Discount Appliance Parts is an Appliance Parts Supplier from Australia.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Australia.
 

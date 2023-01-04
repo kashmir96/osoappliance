@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Lightbulb Wholesaler the Appliance Parts Suppliers from United States'
 ---
 
-Lightbulb Wholesaler is an Appliance Parts Suppliers from United States.
+# Lightbulb Wholesaler is an Appliance Parts Supplier from United States.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United States.
 

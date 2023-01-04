@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Spares 2 Repair the Appliance Parts Suppliers from United Kingdom'
 ---
 
-Spares 2 Repair is an Appliance Parts Suppliers from United Kingdom.
+# Spares 2 Repair is an Appliance Parts Supplier from United Kingdom.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United Kingdom.
 

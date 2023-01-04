@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Tansley Electrical the New Zealand from Invercargill'
 ---
 
-Tansley Electrical is an Appliance Repair Technician Company operating in Invercargill, New Zealand.
+# Tansley Electrical is an Appliance Repair Technician Company operating in Invercargill, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Invercargill.
 

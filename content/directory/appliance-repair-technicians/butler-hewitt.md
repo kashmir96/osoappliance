@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Butler Hewitt the New Zealand from Hastings'
 ---
 
-Butler Hewitt is an Appliance Repair Technician Company operating in Hastings, New Zealand.
+# Butler Hewitt is an Appliance Repair Technician Company operating in Hastings, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Hastings.
 

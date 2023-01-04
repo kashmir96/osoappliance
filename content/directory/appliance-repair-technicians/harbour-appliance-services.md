@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Harbour Appliance Services the New Zealand from Auckland'
 ---
 
-Harbour Appliance Services is an Appliance Repair Technician, Installation Company operating in Auckland, New Zealand.
+# Harbour Appliance Services is an Appliance Repair Technician, Installation Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

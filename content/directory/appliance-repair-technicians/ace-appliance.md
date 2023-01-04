@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Ace Appliance the New Zealand from Wellington'
 ---
 
-Ace Appliance is an Appliance Repair Technician Company operating in Wellington, New Zealand.
+# Ace Appliance is an Appliance Repair Technician Company operating in Wellington, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wellington.
 

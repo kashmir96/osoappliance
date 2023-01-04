@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for The TV Service Centre the New Zealand from Christchurch'
 ---
 
-The TV Service Centre is an Appliance Repair Technician, Installation Company operating in Christchurch, New Zealand.
+# The TV Service Centre is an Appliance Repair Technician, Installation Company operating in Christchurch, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Christchurch.
 

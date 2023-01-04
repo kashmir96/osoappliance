@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Fenn Refrigeration the New Zealand from Gisborne'
 ---
 
-Fenn Refrigeration is an Appliance Repair Technician Company operating in Gisborne, New Zealand.
+# Fenn Refrigeration is an Appliance Repair Technician Company operating in Gisborne, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Gisborne.
 

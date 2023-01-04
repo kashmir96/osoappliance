@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Besl the New Zealand from Wanaka'
 ---
 
-Besl is an Appliance Repair Technicians Company operating in Wanaka, New Zealand.
+# Besl is an Appliance Repair Technician Company operating in Wanaka, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wanaka.
 

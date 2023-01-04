@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Newbolds the New Zealand from Masterton'
 ---
 
-Newbolds is an Appliance Repair Technicians Company operating in Masterton, New Zealand.
+# Newbolds is an Appliance Repair Technician Company operating in Masterton, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Masterton.
 

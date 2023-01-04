@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Monk Appliances the New Zealand from Wellington'
 ---
 
-Monk Appliances is an Parts, Appliance Repair Technician Company operating in Wellington, New Zealand.
+# Monk Appliances is an Parts, Appliance Repair Technician Company operating in Wellington, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wellington.
 

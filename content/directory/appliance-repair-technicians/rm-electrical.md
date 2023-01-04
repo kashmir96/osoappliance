@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for RM Electrical the New Zealand from Wellington'
 ---
 
-RM Electrical is an Appliance Repair Technician Company operating in Wellington, New Zealand.
+# RM Electrical is an Appliance Repair Technician Company operating in Wellington, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wellington.
 

@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Remote Controls Shop the Appliance Parts Suppliers from United Kingdom'
 ---
 
-Remote Controls Shop is an Appliance Parts Suppliers from United Kingdom.
+# Remote Controls Shop is an Appliance Parts Supplier from United Kingdom.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United Kingdom.
 

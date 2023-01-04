@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Allan Terry Engineering the New Zealand from Dunedin'
 ---
 
-Allan Terry Engineering is an Appliance Repair Technician, New Appliances, Second hand appliances Company operating in Dunedin, New Zealand.
+# Allan Terry Engineering is an Appliance Repair Technician, New Appliances, Second hand appliances Company operating in Dunedin, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Dunedin.
 

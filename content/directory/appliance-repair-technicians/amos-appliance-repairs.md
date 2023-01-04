@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Amos Appliance Repairs the New Zealand from Nelson'
 ---
 
-Amos Appliance Repairs is an Appliance Repair Technician, Second hand appliances Company operating in Nelson, New Zealand.
+# Amos Appliance Repairs is an Appliance Repair Technician, Second hand appliances Company operating in Nelson, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Nelson.
 

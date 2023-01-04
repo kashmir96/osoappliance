@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Miele the Appliance Parts Suppliers from New Zealand, Australia'
 ---
 
-Miele is an Appliance Parts Suppliers from New Zealand, Australia.
+# Miele is an Appliance Parts Supplier from New Zealand, Australia.
 
 This company offers a range of Appliance Parts to individuals and businesses located in New Zealand, Australia.
 

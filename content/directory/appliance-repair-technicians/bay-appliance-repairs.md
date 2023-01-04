@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Bay Appliance Repairs the New Zealand from Timaru'
 ---
 
-Bay Appliance Repairs is an Appliance Repair Technicians Company operating in Timaru, New Zealand.
+# Bay Appliance Repairs is an Appliance Repair Technician Company operating in Timaru, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Timaru.
 

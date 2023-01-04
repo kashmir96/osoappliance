@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Aimax Electronics LTD the New Zealand from Christchurch'
 ---
 
-Aimax Electronics LTD is an Appliance Repair Technician Company operating in Christchurch, New Zealand.
+# Aimax Electronics LTD is an Appliance Repair Technician Company operating in Christchurch, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Christchurch.
 

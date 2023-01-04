@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Wellington Appliance Servicing the New Zealand from Wellington'
 ---
 
-Wellington Appliance Servicing is an Parts, Appliance Repair Technician, Second hand appliances, New Appliances Company operating in Wellington, New Zealand.
+# Wellington Appliance Servicing is an Parts, Appliance Repair Technician, Second hand appliances, New Appliances Company operating in Wellington, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wellington.
 

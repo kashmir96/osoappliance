@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Parts 4 u the Appliance Parts Suppliers from New Zealand'
 ---
 
-Parts 4 u is an Appliance Parts Suppliers from New Zealand.
+# Parts 4 u is an Appliance Parts Supplier from New Zealand.
 
 This company offers a range of Appliance Parts to individuals and businesses located in New Zealand.
 

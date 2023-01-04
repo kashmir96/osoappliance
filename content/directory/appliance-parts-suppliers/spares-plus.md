@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Spares Plus the Appliance Parts Suppliers from United Kingdom'
 ---
 
-Spares Plus is an Appliance Parts Suppliers from United Kingdom.
+# Spares Plus is an Appliance Parts Supplier from United Kingdom.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United Kingdom.
 

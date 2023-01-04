@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Agency Spare Parts the Appliance Parts Suppliers from Australia'
 ---
 
-Agency Spare Parts is an Appliance Parts Suppliers from Australia.
+# Agency Spare Parts is an Appliance Parts Supplier from Australia.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Australia.
 

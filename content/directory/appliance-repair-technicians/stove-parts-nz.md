@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Stove Parts NZ the New Zealand from Hastings'
 ---
 
-Stove Parts NZ is an Appliance Repair Technician Company operating in Hastings, New Zealand.
+# Stove Parts NZ is an Appliance Repair Technician Company operating in Hastings, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Hastings.
 

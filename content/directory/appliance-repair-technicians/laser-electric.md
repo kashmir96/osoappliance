@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Laser Electric the New Zealand from Oamaru'
 ---
 
-Laser Electric is an Appliance Repair Technicians Company operating in Oamaru, New Zealand.
+# Laser Electric is an Appliance Repair Technician Company operating in Oamaru, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Oamaru.
 

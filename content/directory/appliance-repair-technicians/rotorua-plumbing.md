@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Rotorua Plumbing the New Zealand from Rotorua'
 ---
 
-Rotorua Plumbing is an Appliance Repair Technicians Company operating in Rotorua, New Zealand.
+# Rotorua Plumbing is an Appliance Repair Technician Company operating in Rotorua, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Rotorua.
 

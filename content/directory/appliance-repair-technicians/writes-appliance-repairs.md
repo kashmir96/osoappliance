@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Writes Appliance Repairs the New Zealand from Christchurch'
 ---
 
-Writes Appliance Repairs is an Appliance Repair Technician, Delivery Company operating in Christchurch, New Zealand.
+# Writes Appliance Repairs is an Appliance Repair Technician, Delivery Company operating in Christchurch, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Christchurch.
 

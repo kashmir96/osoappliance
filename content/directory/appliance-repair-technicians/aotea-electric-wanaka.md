@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Aotea Electric Wanaka the New Zealand from Wanaka'
 ---
 
-Aotea Electric Wanaka is an Appliance Repair Technicians Company operating in Wanaka, New Zealand.
+# Aotea Electric Wanaka is an Appliance Repair Technician Company operating in Wanaka, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wanaka.
 

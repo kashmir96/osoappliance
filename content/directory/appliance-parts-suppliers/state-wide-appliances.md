@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for State Wide Appliances the Appliance Parts Suppliers from Australia'
 ---
 
-State Wide Appliances is an Appliance Parts Suppliers from Australia.
+# State Wide Appliances is an Appliance Parts Supplier from Australia.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Australia.
 

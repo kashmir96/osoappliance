@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Davies Heat N Cool the New Zealand from Dunedin, Invercargill'
 ---
 
-Davies Heat N Cool is an Appliance Repair Technician, New Appliances Company operating in Dunedin, Invercargill, New Zealand.
+# Davies Heat N Cool is an Appliance Repair Technician, New Appliances Company operating in Dunedin, Invercargill, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Dunedin, Invercargill.
 

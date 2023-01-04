@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Dishwasher Centre the New Zealand from Wellington'
 ---
 
-Dishwasher Centre is an Appliance Repair Technician Company operating in Wellington, New Zealand.
+# Dishwasher Centre is an Appliance Repair Technician Company operating in Wellington, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wellington.
 

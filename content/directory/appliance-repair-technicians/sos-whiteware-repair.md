@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for SOS Whiteware Repair the New Zealand from Hastings'
 ---
 
-SOS Whiteware Repair is an Appliance Repair Technician Company operating in Hastings, New Zealand.
+# SOS Whiteware Repair is an Appliance Repair Technician Company operating in Hastings, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Hastings.
 

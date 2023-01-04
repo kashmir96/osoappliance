@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Lizard Pg the New Zealand from Timaru'
 ---
 
-Lizard Pg is an Appliance Repair Technicians Company operating in Timaru, New Zealand.
+# Lizard Pg is an Appliance Repair Technician Company operating in Timaru, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Timaru.
 

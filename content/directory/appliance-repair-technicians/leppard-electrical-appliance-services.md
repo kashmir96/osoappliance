@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Leppard Electrical Appliance Services the New Zealand from New Plymouth'
 ---
 
-Leppard Electrical Appliance Services is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.
+# Leppard Electrical Appliance Services is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around New Plymouth.
 

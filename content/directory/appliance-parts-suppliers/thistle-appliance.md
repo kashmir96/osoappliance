@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Thistle Appliance the Appliance Parts Suppliers from Canada'
 ---
 
-Thistle Appliance is an Appliance Parts Suppliers from Canada.
+# Thistle Appliance is an Appliance Parts Supplier from Canada.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Canada.
 

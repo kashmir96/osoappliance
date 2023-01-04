@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Uk White Goods the Appliance Parts Suppliers from United Kingdom'
 ---
 
-Uk White Goods is an Appliance Parts Suppliers from United Kingdom.
+# Uk White Goods is an Appliance Parts Supplier from United Kingdom.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United Kingdom.
 

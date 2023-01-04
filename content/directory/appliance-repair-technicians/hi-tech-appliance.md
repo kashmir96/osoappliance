@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Hi-tech Appliance the New Zealand from Auckland'
 ---
 
-Hi-tech Appliance is an Appliance Repair Technician Company operating in Auckland, New Zealand.
+# Hi-tech Appliance is an Appliance Repair Technician Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

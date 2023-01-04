@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Hawkes Bay Gas the New Zealand from Hastings'
 ---
 
-Hawkes Bay Gas is an Appliance Repair Technician Company operating in Hastings, New Zealand.
+# Hawkes Bay Gas is an Appliance Repair Technician Company operating in Hastings, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Hastings.
 

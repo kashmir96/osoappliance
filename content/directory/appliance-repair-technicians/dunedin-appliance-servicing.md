@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Dunedin Appliance Servicing the New Zealand from Dunedin'
 ---
 
-Dunedin Appliance Servicing is an Appliance Repair Technician Company operating in Dunedin, New Zealand.
+# Dunedin Appliance Servicing is an Appliance Repair Technician Company operating in Dunedin, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Dunedin.
 

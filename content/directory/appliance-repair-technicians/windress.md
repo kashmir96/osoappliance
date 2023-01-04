@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Windress the New Zealand from Auckland'
 ---
 
-Windress is an Appliance Repair Technician, Installation, Parts Company operating in Auckland, New Zealand.
+# Windress is an Appliance Repair Technician, Installation, Parts Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

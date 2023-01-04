@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Walmart the Appliance Parts Suppliers from Canada'
 ---
 
-Walmart is an Appliance Parts Suppliers from Canada.
+# Walmart is an Appliance Parts Supplier from Canada.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Canada.
 

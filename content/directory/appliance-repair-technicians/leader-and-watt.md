@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Leader and Watt the New Zealand from New Plymouth'
 ---
 
-Leader and Watt is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.
+# Leader and Watt is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around New Plymouth.
 

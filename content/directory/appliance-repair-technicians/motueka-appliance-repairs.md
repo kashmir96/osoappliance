@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Motueka Appliance Repairs the New Zealand from Nelson'
 ---
 
-Motueka Appliance Repairs is an Appliance Repair Technician, Installation, Appliance Removal Company operating in Nelson, New Zealand.
+# Motueka Appliance Repairs is an Appliance Repair Technician, Installation, Appliance Removal Company operating in Nelson, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Nelson.
 

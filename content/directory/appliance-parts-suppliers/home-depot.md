@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Home Depot the Appliance Parts Suppliers from United States'
 ---
 
-Home Depot is an Appliance Parts Suppliers from United States.
+# Home Depot is an Appliance Parts Supplier from United States.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United States.
 

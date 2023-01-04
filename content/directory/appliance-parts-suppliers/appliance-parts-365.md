@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Appliance Parts 365 the Appliance Parts Suppliers from Canada'
 ---
 
-Appliance Parts 365 is an Appliance Parts Suppliers from Canada.
+# Appliance Parts 365 is an Appliance Parts Supplier from Canada.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Canada.
 

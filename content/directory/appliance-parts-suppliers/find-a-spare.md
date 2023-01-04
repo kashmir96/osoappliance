@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Find A Spare the Appliance Parts Suppliers from United Kingdom'
 ---
 
-Find A Spare is an Appliance Parts Suppliers from United Kingdom.
+# Find A Spare is an Appliance Parts Supplier from United Kingdom.
 
 This company offers a range of Appliance Parts to individuals and businesses located in United Kingdom.
 

@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Westinghouse the New Zealand from Wellington, Auckland'
 ---
 
-Westinghouse is an Manufacturer, Appliance Repair Technician, New Appliances Company operating in Wellington, Auckland, New Zealand.
+# Westinghouse is an Manufacturer, Appliance Repair Technician, New Appliances Company operating in Wellington, Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wellington, Auckland.
 

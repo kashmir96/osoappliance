@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Euro Tech Design the New Zealand from Auckland'
 ---
 
-Euro Tech Design is an Appliance Repair Technician, New Appliances, Delivery, Installation Company operating in Auckland, New Zealand.
+# Euro Tech Design is an Appliance Repair Technician, New Appliances, Delivery, Installation Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

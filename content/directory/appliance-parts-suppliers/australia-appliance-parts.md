@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Australia Appliance Parts the Appliance Parts Suppliers from Australia'
 ---
 
-Australia Appliance Parts is an Appliance Parts Suppliers from Australia.
+# Australia Appliance Parts is an Appliance Parts Supplier from Australia.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Australia.
 

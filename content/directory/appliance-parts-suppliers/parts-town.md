@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Parts Town the Appliance Parts Suppliers from Nigeria'
 ---
 
-Parts Town is an Appliance Parts Suppliers from Nigeria.
+# Parts Town is an Appliance Parts Supplier from Nigeria.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Nigeria.
 

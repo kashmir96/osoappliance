@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Laser Plumbing Wanganui the New Zealand from Wanganui'
 ---
 
-Laser Plumbing Wanganui is an Appliance Repair Technicians Company operating in Wanganui, New Zealand.
+# Laser Plumbing Wanganui is an Appliance Repair Technician Company operating in Wanganui, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wanganui.
 

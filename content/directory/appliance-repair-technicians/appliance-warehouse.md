@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Appliance Warehouse the New Zealand from Auckland'
 ---
 
-Appliance Warehouse is an New Appliances, Installation, Delivery Company operating in Auckland, New Zealand.
+# Appliance Warehouse is an New Appliances, Installation, Delivery Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

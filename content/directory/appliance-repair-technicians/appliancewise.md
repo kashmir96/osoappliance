@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for ApplianceWise the New Zealand from Wellington'
 ---
 
-ApplianceWise is an Appliance Repair Technician Company operating in Wellington, New Zealand.
+# ApplianceWise is an Appliance Repair Technician Company operating in Wellington, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wellington.
 

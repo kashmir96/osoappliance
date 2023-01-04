@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Invercargill Heatpumps the New Zealand from Invercargill'
 ---
 
-Invercargill Heatpumps is an Appliance Repair Technician, Installation Company operating in Invercargill, New Zealand.
+# Invercargill Heatpumps is an Appliance Repair Technician, Installation Company operating in Invercargill, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Invercargill.
 

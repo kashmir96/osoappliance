@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Used Appliances the New Zealand from Auckland'
 ---
 
-Used Appliances is an Appliance Repair Technician, Second hand appliances, Appliance Removal, Installation, Delivery, Parts Company operating in Auckland, New Zealand.
+# Used Appliances is an Appliance Repair Technician, Second hand appliances, Appliance Removal, Installation, Delivery, Parts Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

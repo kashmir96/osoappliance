@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for B+C Electrical the New Zealand from Queenstown'
 ---
 
-B+C Electrical is an New Appliances, Installation, Appliance Repair Technician Company operating in Queenstown, New Zealand.
+# B+C Electrical is an New Appliances, Installation, Appliance Repair Technician Company operating in Queenstown, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Queenstown.
 

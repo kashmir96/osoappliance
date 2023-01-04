@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Leons the Appliance Parts Suppliers from Canada'
 ---
 
-Leons is an Appliance Parts Suppliers from Canada.
+# Leons is an Appliance Parts Supplier from Canada.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Canada.
 

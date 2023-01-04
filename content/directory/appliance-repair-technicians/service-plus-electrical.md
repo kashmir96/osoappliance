@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Service Plus Electrical the New Zealand from Queenstown'
 ---
 
-Service Plus Electrical is an Appliance Repair Technician, New Appliances Company operating in Queenstown, New Zealand.
+# Service Plus Electrical is an Appliance Repair Technician, New Appliances Company operating in Queenstown, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Queenstown.
 

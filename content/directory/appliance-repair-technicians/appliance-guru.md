@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Appliance Guru the New Zealand from Wanganui'
 ---
 
-Appliance Guru is an Appliance Repair Technicians Company operating in Wanganui, New Zealand.
+# Appliance Guru is an Appliance Repair Technician Company operating in Wanganui, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wanganui.
 

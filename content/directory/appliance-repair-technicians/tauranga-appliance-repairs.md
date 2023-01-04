@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Tauranga Appliance Repairs the New Zealand from Tauranga'
 ---
 
-Tauranga Appliance Repairs is an Appliance Repair Technicians Company operating in Tauranga, New Zealand.
+# Tauranga Appliance Repairs is an Appliance Repair Technician Company operating in Tauranga, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Tauranga.
 

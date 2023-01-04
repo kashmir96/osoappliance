@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Langes the New Zealand from Hastings'
 ---
 
-Langes is an Appliance Removal, Appliance Repair Technician, Installation, Second hand appliances Company operating in Hastings, New Zealand.
+# Langes is an Appliance Removal, Appliance Repair Technician, Installation, Second hand appliances Company operating in Hastings, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Hastings.
 

@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Elextrafixit the New Zealand from Auckland'
 ---
 
-Elextrafixit is an Appliance Repair Technician Company operating in Auckland, New Zealand.
+# Elextrafixit is an Appliance Repair Technician Company operating in Auckland, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Auckland.
 

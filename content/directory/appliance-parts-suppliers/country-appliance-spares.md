@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for Country Appliance Spares the Appliance Parts Suppliers from Australia'
 ---
 
-Country Appliance Spares is an Appliance Parts Suppliers from Australia.
+# Country Appliance Spares is an Appliance Parts Supplier from Australia.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Australia.
 

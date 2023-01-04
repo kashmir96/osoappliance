@@ -9,7 +9,7 @@ cover:
  alt: 'Logo for AMRE Supply the Appliance Parts Suppliers from Canada'
 ---
 
-AMRE Supply is an Appliance Parts Suppliers from Canada.
+# AMRE Supply is an Appliance Parts Supplier from Canada.
 
 This company offers a range of Appliance Parts to individuals and businesses located in Canada.
 

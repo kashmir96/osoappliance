@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for 1 Appliance Pros the New Zealand from Wanganui'
 ---
 
-1 Appliance Pros is an Appliance Repair Technicians Company operating in Wanganui, New Zealand.
+# 1 Appliance Pros is an Appliance Repair Technician Company operating in Wanganui, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Wanganui.
 

@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Gasman QT the New Zealand from Queenstown'
 ---
 
-Gasman QT is an Appliance Repair Technician, Installation Company operating in Queenstown, New Zealand.
+# Gasman QT is an Appliance Repair Technician, Installation Company operating in Queenstown, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Queenstown.
 

@@ -10,7 +10,7 @@ cover:
  alt: 'Logo for Plunket Elextrical the New Zealand from Timaru'
 ---
 
-Plunket Elextrical is an Appliance Repair Technicians Company operating in Timaru, New Zealand.
+# Plunket Elextrical is an Appliance Repair Technician Company operating in Timaru, New Zealand.
 
 This business offers a range of appliance repair services to both households and businesses located in and around Timaru.
 
