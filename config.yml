@@ -64,3 +64,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      linkify: false
