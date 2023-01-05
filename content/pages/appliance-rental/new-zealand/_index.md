@@ -16,6 +16,9 @@ set_category: "New Zealand"
     <li><a href="/pages/appliance-rental/new-zealand/wellington">Appliance Repair Companies in Wellington</a></li>
     <li><a href="/pages/appliance-rental/new-zealand/christchurch">Appliance Repair Companies in Christchurch</a></li>
     <li><a href="/pages/appliance-rental/new-zealand/queenstown">Appliance Repair Companies in Queenstown</a></li>
+    <li><a href="/pages/appliance-rental/new-zealand/blenheim">Appliance Repair Companies in Blenheim</a></li>
+    <li><a href="/pages/appliance-rental/new-zealand/palmerston-north">Appliance Repair Companies in Palmerston North</a></li>
+    <li><a href="/pages/appliance-rental/new-zealand/wanaka">Appliance Repair Companies in Wanaka</a></li>
 </ul>
 
 
