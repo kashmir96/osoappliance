@@ -5,7 +5,7 @@ type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-parts-suppliers/ww-spares.webp
+ image: /img/directory-images/appliance-parts-suppliers/wwspare.webp
  alt: 'Logo for WW Spares the Appliance Parts Suppliers from Australia'
 ---
 
