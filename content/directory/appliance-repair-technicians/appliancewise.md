@@ -6,7 +6,7 @@ categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-repair-technician/appliancewise.webp
+ image: /img/directory-images/appliance-repair-technician/appliance-wise.webp
  alt: 'Logo for ApplianceWise the New Zealand from Wellington'
 ---
 

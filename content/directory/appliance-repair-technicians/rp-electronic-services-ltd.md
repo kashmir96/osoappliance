@@ -6,7 +6,7 @@ categories: ["New Zealand"]
 tags: ["Hastings"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-repair-technician/rp-electronic-services-ltd.webp
+ image: /img/directory-images/appliance-repair-technician/rp-electronic-services.webp
  alt: 'Logo for RP Electronic Services LTD the New Zealand from Hastings'
 ---
 
