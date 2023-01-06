@@ -3,7 +3,7 @@ title: DTR
 keywords: "Appliance Rental Blenheim, Christchurch, Dunedin, Gisborne, Hamilton, Hastings, Henderson, Invercargill, Lower Hutt, Manukau, New Lynn, New Plymouth, Otahuhu, Palmerston North, Panmure, Papakura, Rotorua, Tauranga, Wanganui, Whangarei"
 type: "Appliance Rental"
 categories: ["New Zealand"]
-tags: ["Blenheim, Christchurch, Dunedin, Gisborne, Hamilton, Hastings, Henderson, Invercargill, Lower Hutt, Manukau, New Lynn, New Plymouth, Otahuhu, Palmerston North, Panmure, Papakura, Rotorua, Tauranga, Wanganui, Whangarei"]
+tags: ["Blenheim, Christchurch, Dunedin, Gisborne, Hamilton, Hastings, Henderson, Invercargill, Lower Hutt, Manukau, New Lynn, New Plymouth, Otahuhu"]
 author: Curtis
 cover: 
  image: /img/directory-images/appliance-rental/dtr.webp
