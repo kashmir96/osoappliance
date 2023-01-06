@@ -9,7 +9,7 @@ set_category: "New Zealand"
 
 <H2>Appliance Rental in New Zealand Directory FAQs</H2>
 <h4>Q: What is an Appliance Rental Company?</h4>
-<p>A: An appliance rental company is a business that offers appliances for people and businesses to rent, such as washing machines, dishwashers, dryers, coffee machines and more.</p>
+<p>A: An appliance rental company is a business that offers appliances for people and businesses to rent, such as washing machines, dishwashers, dryers, coffee machines and more</p>
 
 <ul>
     <li><a href="/pages/appliance-rental/new-zealand/auckland">Appliance Rental Companies in Auckland</a></li>

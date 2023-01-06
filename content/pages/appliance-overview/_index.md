@@ -7,7 +7,7 @@ set_type: "Appliance Overview"
 
 <H2>Appliance Overview Directory FAQs</H2>
 <h4>Q: What is an Appliance?</h4>
-<p>A: An appliance is a machine or tool used to streamline regular activities carried out by households or businesses.</p>
+<p>A: An appliance is a machine or tool used to streamline regular activities carried out by households or businesses</p>
 
 <ul>
     <li><a href="/pages/appliance-overview/washing-machine">Washing Machine Appliance Overviews</a></li>

@@ -36,7 +36,7 @@ menu:
 
     - identifier: overviews
       name: Appliance Overviews
-      url: /categories/appliance-overviews/
+      url: /pages/appliance-overview/
       weight: 20
 
     - identifier: rental
