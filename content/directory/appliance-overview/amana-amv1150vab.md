@@ -7,7 +7,7 @@ categories: ["Microwave"]
 tags: ["Amana"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-overview/amana-amv1150vab-microwave.webp
+ image: /img/directory-images/appliance-overview/AMV1150VAB.webp
  alt: 'Logo for Amana AMV1150VAB the Microwave from Amana'
 ---
 

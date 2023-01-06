@@ -7,7 +7,7 @@ categories: ["Washing machine"]
 tags: ["Kenmore"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-overview/kenmore-28132-washing machine.webp
+ image: /img/directory-images/appliance-overview/28132.webp
  alt: 'Logo for Kenmore 28132 the Washing machine from Kenmore'
 ---
 

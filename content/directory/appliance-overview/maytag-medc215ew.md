@@ -7,7 +7,7 @@ categories: ["Dryer"]
 tags: ["Maytag"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-overview/maytag-medc215ew-dryer.webp
+ image: /img/directory-images/appliance-overview/MEDC215EW.webp
  alt: 'Logo for Maytag MEDC215EW the Dryer from Maytag'
 ---
 

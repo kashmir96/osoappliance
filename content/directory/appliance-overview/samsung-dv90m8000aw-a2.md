@@ -7,7 +7,7 @@ categories: ["Dryer"]
 tags: ["Samsung"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-overview/samsung-dv90m8000aw/a2-dryer.webp
+ image: /img/directory-images/appliance-overview/samsung-dv90m8000awa2-dryer.webp
  alt: 'Logo for Samsung DV90M8000AW/A2 the Dryer from Samsung'
 ---
 

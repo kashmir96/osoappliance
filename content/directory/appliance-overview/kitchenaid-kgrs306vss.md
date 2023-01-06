@@ -7,7 +7,7 @@ categories: ["Stove"]
 tags: ["KitchenAid"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-overview/kitchenaid-kgrs306vss-stove.webp
+ image: /img/directory-images/appliance-overview/KGRS306VSS.webp
  alt: 'Logo for KitchenAid KGRS306VSS the Stove from KitchenAid'
 ---
 

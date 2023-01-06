@@ -7,7 +7,7 @@ categories: ["Washing machine"]
 tags: ["Whirlpool"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-overview/whirlpool-wtw7000dw-washing machine.webp
+ image: /img/directory-images/appliance-overview/WTW7000DW.webp
  alt: 'Logo for Whirlpool WTW7000DW the Washing machine from Whirlpool'
 ---
 

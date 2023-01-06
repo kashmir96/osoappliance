@@ -7,7 +7,7 @@ categories: ["Coffee Machine"]
 tags: ["Mr"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-overview/mr-coffee-café-barista-espresso-maker-coffee machine.webp
+ image: /img/directory-images/appliance-overview/mr-coffee-cafe-barista-espresso-maker-coffee machine.webp
  alt: 'Logo for Mr Coffee Café Barista Espresso Maker the Coffee Machine from Mr'
 ---
 

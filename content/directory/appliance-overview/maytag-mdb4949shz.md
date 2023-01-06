@@ -7,7 +7,7 @@ categories: ["Dishwasher"]
 tags: ["Maytag"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-overview/maytag-mdb4949shz-dishwasher.webp
+ image: /img/directory-images/appliance-overview/MDB4949SHZ.webp
  alt: 'Logo for Maytag MDB4949SHZ the Dishwasher from Maytag'
 ---
 

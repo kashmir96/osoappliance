@@ -7,7 +7,7 @@ categories: ["Oven"]
 tags: ["Maytag"]
 author: Curtis
 cover: 
- image: /img/directory-images/appliance-overview/maytag-mew9530fs-oven.webp
+ image: /img/directory-images/appliance-overview/MEW9530FS.webp
  alt: 'Logo for Maytag MEW9530FS the Oven from Maytag'
 ---
 
