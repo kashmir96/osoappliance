@@ -6,7 +6,7 @@ theme: PaperMod
 params:
 
   homeInfoParams:
-      Title: OSO Appliance - all things appliances
+      Title: OSO Appliance - all things appliances.
       Content: Welcome to the most comprehensive blog about appliances on the internet.
       
   socialIcons:
