@@ -3,7 +3,6 @@
 title: Best Laundry Appliances
 description: "When it comes to laundry appliances, there are a lot of options available on the market. From washing machines to dryers and even ...check it out to learn"
 keywords: best laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

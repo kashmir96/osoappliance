@@ -3,7 +3,6 @@
 title: Most Reliable Appliance Brands 2022
 description: "When it comes to appliances, reliability and durability are two of the most important factors to consider. With so many brands on ...learn more about it now"
 keywords: most reliable brands 2022
-publishDate: 12/12/2022
 tags: ["Appliance Brand", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

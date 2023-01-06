@@ -3,7 +3,6 @@
 title: Award Appliances Christchurch
 description: "Christchurch is home to some of the best appliances in the country, and many of these appliances have been recognised with awards ...see more"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

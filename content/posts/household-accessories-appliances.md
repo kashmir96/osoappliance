@@ -3,7 +3,6 @@
 title: Household Accessories Appliances
 description: "Household appliances and accessories are essential to any modern home. From washing machines to refrigerators, they provide conven...keep reading to learn"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Disposal", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

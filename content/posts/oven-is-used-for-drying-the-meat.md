@@ -3,7 +3,6 @@
 title: Oven Is Used For Drying The Meat
 description: "If you’re looking for a way to dry meat, the oven can be a great tool. Ovens are used by home chefs, hunters, and preservationists...find out now"
 keywords: oven
-publishDate: 1/24/2023
 tags: ["Oven", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Much Is A Freeze Dryer
 description: "A freeze dryer is a specialty piece of equipment used to quickly and effectively remove moisture from products, making them lightw...you wont regret reading on"
 keywords: dryer
-publishDate: 12/17/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

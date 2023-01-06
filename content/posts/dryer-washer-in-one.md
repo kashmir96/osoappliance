@@ -3,7 +3,6 @@
 title: Dryer Washer In One
 description: "A dryer washer is a combination appliance that combines a washing machine and a clothes dryer into one unit. It is designed to sav...continue on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

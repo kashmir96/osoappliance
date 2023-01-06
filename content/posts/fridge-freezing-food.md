@@ -3,7 +3,6 @@
 title: Fridge Freezing Food
 description: If your food is freezing in the fridge, this post will show you how to easily fix the problem - so read on to find out how!
 keywords: fridge
-publishDate: 10/9/2022
 tags: ["Appliances", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

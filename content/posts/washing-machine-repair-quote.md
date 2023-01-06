@@ -3,7 +3,6 @@
 title: Washing Machine Repair Quote
 description: "If your washing machine isn’t working properly, you may need to get a repair quote. While it can be tempting to try and fix the pr...learn more"
 keywords: washing machine repair
-publishDate: 3/20/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

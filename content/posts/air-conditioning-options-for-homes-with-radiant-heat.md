@@ -3,7 +3,6 @@
 title: Air Conditioning Options For Homes With Radiant Heat
 description: "If your home is faced with ongoing radiant heat from the sun, it can be difficult to keep your home cool during the spring and sum...learn more"
 keywords: air
-publishDate: 6/28/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

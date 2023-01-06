@@ -3,7 +3,6 @@
 title: Preheat Oven Why
 description: "Preheating an oven is an important step in baking, as it helps to ensure that the food is cooked evenly. Preheating the oven helps...learn more about it now"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

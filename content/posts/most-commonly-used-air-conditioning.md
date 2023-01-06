@@ -3,7 +3,6 @@
 title: Most Commonly Used Air Conditioning
 description: "Air conditioning is a technology that has become an integral part of our lives. With so many different terms related to air condit...you wont regret reading on"
 keywords: most air
-publishDate: 7/3/2022
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

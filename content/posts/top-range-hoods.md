@@ -3,7 +3,6 @@
 title: Top Range Hoods
 description: "Range hoods are an essential part of any kitchen, providing ventilation for fumes and smoke from cooking. With so many different t...learn more about it now"
 keywords: top range
-publishDate: 7/20/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

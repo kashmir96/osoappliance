@@ -3,7 +3,6 @@
 title: Appliance Spare Parts Sydney
 description: "Appliance Spare Parts Sydney is a great option for people who are looking to repair their broken appliances. Whether it's a fridge...keep going and find out"
 keywords: appliance parts
-publishDate: 9/23/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

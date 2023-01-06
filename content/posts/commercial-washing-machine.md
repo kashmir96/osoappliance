@@ -3,7 +3,6 @@
 title: Commercial Washing Machine
 description: "When it comes to keeping your business clean and looking professional, a commercial washing machine is essential. Commercial washi...scroll on and keep learning"
 keywords: washing machine
-publishDate: 2/14/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

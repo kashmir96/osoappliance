@@ -3,7 +3,6 @@
 title: Washing Machine Delivery And Removal
 description: "If you’ve recently purchased a new washing machine or are in the market for one, you may be wondering about the delivery and remov...swipe up to find out"
 keywords: washing machine
-publishDate: 2/11/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

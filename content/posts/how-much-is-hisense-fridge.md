@@ -3,7 +3,6 @@
 title: How Much Is Hisense Fridge
 description: "If you’re looking for a dependable refrigerator that won’t break the bank, then a Hisense fridge might be the perfect choice. Hise...check it out to learn"
 keywords: fridge
-publishDate: 12/29/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

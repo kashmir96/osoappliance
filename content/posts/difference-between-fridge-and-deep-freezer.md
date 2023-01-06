@@ -3,7 +3,6 @@
 title: Difference Between Fridge And Deep Freezer
 description: "When it comes to storing food, a refrigerator and deep freezer are two of the most popular options. Both appliances are used to ke...learn more"
 keywords: fridge
-publishDate: 4/16/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

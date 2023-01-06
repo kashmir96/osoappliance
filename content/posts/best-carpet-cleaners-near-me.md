@@ -3,7 +3,6 @@
 title: Best Carpet Cleaners Near Me
 description: "Carpet cleaning is an important part of home maintenance, but it can be a daunting task. If you’re looking for the best carpet cle...get more info"
 keywords: best near
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

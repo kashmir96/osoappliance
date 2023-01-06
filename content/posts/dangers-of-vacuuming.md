@@ -3,7 +3,6 @@
 title: Dangers Of Vacuuming
 description: "Vacuuming is one of the most common house cleaning tasks, and it’s an important part of keeping your home clean and free from alle...check it out to learn"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Vacuum"]
 author: Curtis
 categories: ["Household Appliances"]

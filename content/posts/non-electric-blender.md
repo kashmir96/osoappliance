@@ -3,7 +3,6 @@
 title: Non Electric Blender
 description: "A non-electric blender is a kitchen appliance that is used to mix, chop, emulsify, and liquefy ingredients. Unlike electric blende...get the full scoop"
 keywords: blender
-publishDate: 5/23/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

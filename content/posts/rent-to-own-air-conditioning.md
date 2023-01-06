@@ -3,7 +3,6 @@
 title: Rent To Own Air Conditioning
 description: "If you’re looking for a way to stay cool and comfortable during the hot summer months, rent to own air conditioning is an ideal so...learn more about it now"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

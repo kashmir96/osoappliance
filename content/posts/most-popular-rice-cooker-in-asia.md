@@ -3,7 +3,6 @@
 title: Most Popular Rice Cooker In Asia
 description: "Rice cookers are an incredibly popular kitchen appliance in Asia, and it's easy to see why. Not only do they make perfect, fluffy ...continue on"
 keywords: most popular cooker
-publishDate: 1/30/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

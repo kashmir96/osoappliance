@@ -3,7 +3,6 @@
 title: When Oven Thermometer
 description: "If you’re a home baker or cook, an oven thermometer is an essential tool to have in your kitchen. Ovens can vary in temperature, a...you wont regret reading on"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

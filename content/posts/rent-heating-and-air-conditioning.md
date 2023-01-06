@@ -3,7 +3,6 @@
 title: Rent Heating And Air Conditioning
 description: "As the weather warms up and summer heat starts to settle in, many of us turn our attention to our air conditioning units. After al...learn more"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

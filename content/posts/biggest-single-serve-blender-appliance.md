@@ -3,7 +3,6 @@
 title: Biggest Single Serve Blender Appliance
 description: "In recent years, the popularity of single-serve blenders has skyrocketed. These compact kitchen appliances are a great way to whip...read now to learn more"
 keywords: blender appliance
-publishDate: 6/6/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

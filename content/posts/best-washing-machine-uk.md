@@ -3,7 +3,6 @@
 title: Best Washing Machine Uk
 description: "If you are looking for the best washing machine in the UK, you have come to the right place. With so many different models and bra...get the full scoop"
 keywords: best washing machine
-publishDate: 9/19/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

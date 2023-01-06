@@ -3,7 +3,6 @@
 title: Spare Parts Fujitsu Air Conditioning
 description: "Fujitsu air conditioning systems are renowned for their reliability and efficiency, but even these top-of-the-line devices require...take a moment to check it out "
 keywords: parts air
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

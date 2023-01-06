@@ -3,7 +3,6 @@
 title: Biggest Oven Manufacturers
 description: "Ovens are a staple of modern kitchens, used for everything from baking cakes to roasting vegetables. With so many options on the m...take a moment to check it out "
 keywords: oven
-publishDate: 5/26/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

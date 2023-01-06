@@ -3,7 +3,6 @@
 title: Washing Machine Manuals Whats In Them And Where To Find Yours
 description: "If you own a washing machine, you may be familiar with the importance of having an up-to-date washing machine manual. Washing mach...get more detail"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

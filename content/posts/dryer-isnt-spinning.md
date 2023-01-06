@@ -3,7 +3,6 @@
 title: Dryer Isnt Spinning
 description: "If your dryer isn't spinning, it could be a sign of a bigger problem. There are several potential causes of a dryer not spinning, ...see more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

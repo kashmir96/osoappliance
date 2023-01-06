@@ -3,7 +3,6 @@
 title: Dryer Wholesale
 description: "If you’re looking to buy dryers for wholesale, there are a few different places you can go. Depending on your location, budget, an...learn about it in this post"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

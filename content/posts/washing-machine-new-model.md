@@ -3,7 +3,6 @@
 title: Washing Machine New Model
 description: "Are you looking for a new washing machine model? If so, then you are in the right place! With the latest technological advancement...learn about it in this post"
 keywords: washing machine
-publishDate: 3/6/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Appliance Parts Christchurch
 description: "If you’re looking for appliance parts in Christchurch, you’re in luck. There are a variety of local businesses that offer a wide s...check it out to learn"
 keywords: parts christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

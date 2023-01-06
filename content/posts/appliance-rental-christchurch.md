@@ -3,7 +3,6 @@
 title: Appliance Rental Christchurch
 description: "Appliance rental is a growing industry in Christchurch, New Zealand. With a large number of people looking for affordable and reli...take a moment to check it out "
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

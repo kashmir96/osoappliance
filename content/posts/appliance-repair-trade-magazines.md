@@ -3,7 +3,6 @@
 title: Appliance Repair Trade Magazines
 description: "Appliance repair trade magazines are a great resource for anyone who works in the appliance repair industry. They provide informat...learn more"
 keywords: appliance repair
-publishDate: 1/30/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

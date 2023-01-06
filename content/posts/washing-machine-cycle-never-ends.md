@@ -3,7 +3,6 @@
 title: Washing Machine Cycle Never Ends
 description: "It's frustrating when you start a load of laundry in your washing machine only to find out that the cycle never ends. This issue c...keep reading to learn"
 keywords: washing machine
-publishDate: 2/7/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How To Maintain A Dryer
 description: Maintaining your dryer correctly is essential for saving money, preventing fire hazards, and extending its life; read on to find out more about how to do just that.
 keywords: how to maintain dryer
-publishDate: 9/27/2022
 tags: ["Dryer", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Dangers Of Kerosene Heaters
 description: "Kerosene heaters can be a great way to keep a home warm, but they come with some major safety risks. Many people are unaware that ...learn more about it now"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: What Are The Negative Effects Of Air Conditioning
 description: "Air conditioning has become a necessary part of our lives in many parts of the world, especially during the hot summer months. Unf...swipe up to find out"
 keywords: air
-publishDate: 4/5/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

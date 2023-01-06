@@ -3,7 +3,6 @@
 title: Hair Dryer Best
 description: "Hair dryers are a convenient way to dry your hair quickly, but it’s important to use them properly to avoid damaging your hair. He...learn more about it now"
 keywords: hair dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

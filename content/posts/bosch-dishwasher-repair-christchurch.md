@@ -3,7 +3,6 @@
 title: Bosch Dishwasher Repair Christchurch
 description: "If you live in Christchurch, New Zealand and are in need of Bosch dishwasher repair, you’re in luck! There are a number of highly ...get more info"
 keywords: bosch dishwasher repair christchurch
-publishDate: 8/19/2022
 tags: ["Washing Machine", "Dryer", "Appliance Repair", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

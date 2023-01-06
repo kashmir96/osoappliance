@@ -3,7 +3,6 @@
 title: Dishwasher When To Open
 description: "When it comes to using a dishwasher, there are many factors to consider, such as when to open the dishwasher door. The timing of w...get more info"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

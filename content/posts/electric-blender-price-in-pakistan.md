@@ -3,7 +3,6 @@
 title: Electric Blender Price In Pakistan
 description: "Electric blenders are a great kitchen appliance to have in any home. They allow you to easily blend and mix ingredients, creating ...learn more about it now"
 keywords: blender
-publishDate: 2/3/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Bosch Appliance Repair Christchurch
 description: "If you live in Christchurch, New Zealand, and you have a Bosch appliance that needs to be repaired, you’re in luck! There are many...take a moment to check it out "
 keywords: bosch appliance repair christchurch
-publishDate: 8/8/2022
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

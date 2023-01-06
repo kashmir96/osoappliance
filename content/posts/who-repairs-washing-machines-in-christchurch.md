@@ -3,7 +3,6 @@
 title: Who Repairs Washing Machines In Christchurch
 description: If you're in Christchurch and your washing machine breaks, read this post to find out where to find a qualified professional to help you repair it.
 keywords: repairs washing machines christchurch
-publishDate: 6/5/2022
 tags: ["Washing Machine", "Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

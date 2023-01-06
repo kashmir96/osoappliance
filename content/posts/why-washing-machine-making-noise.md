@@ -3,7 +3,6 @@
 title: Why Washing Machine Making Noise
 description: "Washing machines making noise is a common issue that can be caused by a variety of factors. The most common cause of noise is an u...keep reading to learn"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dishwasher Lower Basket Replacement
 description: "Replacing the lower basket of your dishwasher is a relatively simple task that can be done in a few easy steps. The lower basket i...lets find out"
 keywords: dishwasher replacement
-publishDate: 11/28/2022
 tags: ["Dishwasher", "Appliance Repair", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

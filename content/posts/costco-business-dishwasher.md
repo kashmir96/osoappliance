@@ -3,7 +3,6 @@
 title: Costco Business Dishwasher
 description: "Costco is one of the world’s leading retail stores, and its business dishwashers are no exception. Costco offers a variety of comm...learn more"
 keywords: dishwasher
-publishDate: 4/27/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

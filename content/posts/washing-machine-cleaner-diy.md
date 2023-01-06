@@ -3,7 +3,6 @@
 title: Washing Machine Cleaner Diy
 description: "If you’re looking for a natural and effective way to clean your washing machine without harsh chemicals, a DIY washing machine cle...keep reading to learn"
 keywords: washing machine
-publishDate: 1/27/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Laundry Appliances 2022
 description: "As technology advances, so do the appliances that help us with everyday tasks. With the introduction of new laundry appliances, it...scroll on and keep learning"
 keywords: best laundry 2022
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

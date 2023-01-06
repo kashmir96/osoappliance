@@ -3,7 +3,6 @@
 title: Best Wet Vacuum Nz
 description: "If you are looking for the best wet vacuum in New Zealand, you have come to the right place. Wet vacuums are a great tool to have ...keep going and find out"
 keywords: best vacuum nz
-publishDate: 6/13/2022
 tags: ["Vacuum", "New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Does Quickwash Washing Machine Mode Clean Clothes As Well
 description: Quickwash is an innovative new technology that can quickly and effectively clean your clothes without the need for detergent or other harsh chemicals - read on to learn how this revolutionary technology works!
 keywords: washing machine
-publishDate: 11/14/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

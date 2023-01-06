@@ -3,7 +3,6 @@
 title: Biggest Blender Appliance Bottle Shaker
 description: "The biggest blender appliance bottle shaker is an essential gadget for anyone who loves to make smoothies, shakes, and other blend...scroll on and keep learning"
 keywords: blender appliance
-publishDate: 4/16/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

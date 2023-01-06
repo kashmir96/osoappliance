@@ -3,7 +3,6 @@
 title: Appliance Industry News
 description: "The appliance industry is always evolving and changing with the times. With the introduction of new technology and improved materi...continue on"
 keywords: appliance
-publishDate: 1/3/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

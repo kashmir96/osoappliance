@@ -3,7 +3,6 @@
 title: Microwave Oven Used For Sale
 description: "Are you looking for a new microwave oven for sale? If so, you’re in luck! Microwave ovens are some of the most useful and versatil...check it out to learn"
 keywords: microwave oven sale
-publishDate: 3/17/2023
 tags: ["Oven", "Microwave", "Kitchen Appliances", "Appliance Consumption", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Long Does A Dryer Last
 description: "Dryers are an essential part of any home, but how long do they last? The answer to this question depends on a variety of factors, ...get the full scoop"
 keywords: dryer last
-publishDate: 6/20/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

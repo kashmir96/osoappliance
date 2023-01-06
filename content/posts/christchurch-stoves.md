@@ -3,7 +3,6 @@
 title: Christchurch Stoves
 description: "If you're looking to renovate your kitchen in Christchurch, one of the most important elements to consider is purchasing a new sto...check it out to learn"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Stove", "Christchurch", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

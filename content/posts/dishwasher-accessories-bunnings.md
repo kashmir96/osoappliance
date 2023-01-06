@@ -3,7 +3,6 @@
 title: Dishwasher Accessories Bunnings
 description: "It’s no secret that dishwashers are a staple in most modern households. Not only are they incredibly convenient, but they can help...keep going and find out"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

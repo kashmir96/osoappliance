@@ -3,7 +3,6 @@
 title: Appliance Industry
 description: "The appliance industry is a large and growing sector of the global economy, with a wide range of products ranging from small kitch...keep going and find out"
 keywords: appliance
-publishDate: 1/2/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

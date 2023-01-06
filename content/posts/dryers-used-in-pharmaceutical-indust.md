@@ -3,7 +3,6 @@
 title: Dryers Used In Pharmaceutical Indust
 description: "If you’re an average consumer, you may not know much about dryers used in the pharmaceutical industry. Dryers are used in a variet...learn more about it now"
 keywords: dryers
-publishDate: 1/6/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

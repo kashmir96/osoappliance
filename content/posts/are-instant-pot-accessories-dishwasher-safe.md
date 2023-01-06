@@ -3,7 +3,6 @@
 title: Are Instant Pot Accessories Dishwasher Safe
 description: "Are you wondering if your Instant Pot accessories are dishwasher safe? If so, you’re in luck because the answer is a resounding ye...learn more about it now"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

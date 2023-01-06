@@ -3,7 +3,6 @@
 title: How To Use Living And Co Rice Cooker
 description: "The Living & Co Rice Cooker is a great kitchen tool that allows you to quickly and easily cook rice in minutes. With the Living & ...get more info"
 keywords: how to use cooker
-publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

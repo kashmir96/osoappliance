@@ -3,7 +3,6 @@
 title: Heat Pump Healthy Homes
 description: "Heat pumps are becoming increasingly popular as an efficient way to heat and cool homes. While this technology is well-known for i...take a moment to check it out "
 keywords: heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

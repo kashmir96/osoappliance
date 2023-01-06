@@ -3,7 +3,6 @@
 title: Stove What Is Medium Heat
 description: "Stovetop cooking is a great way to quickly and easily prepare delicious meals. But to get the best results, it's important to unde...check it out to learn"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Appliance Repairs Rolleston
 description: "Appliance repair in Rolleston is a service that many homeowners and businesses rely on to keep their appliances running smoothly. ...swipe up to find out"
 keywords: appliance
-publishDate: 9/13/2021
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

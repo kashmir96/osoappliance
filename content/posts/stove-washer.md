@@ -3,7 +3,6 @@
 title: Stove Washer
 description: "Stove washers are a great way to make cleaning your stovetop easier and more efficient. They are typically made of a durable plast...check it out to learn"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

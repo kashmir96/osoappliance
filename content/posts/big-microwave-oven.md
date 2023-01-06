@@ -3,7 +3,6 @@
 title: Big Microwave Oven
 description: "A microwave oven is an incredibly useful kitchen appliance that cooks or reheats food in minutes. But what makes a microwave oven ...keep reading to learn"
 keywords: microwave oven
-publishDate: 3/26/2022
 tags: ["Oven", "Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

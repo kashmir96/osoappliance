@@ -3,7 +3,6 @@
 title: Most Reliable Laundry Appliance Brand
 description: "If you are in the market for a new laundry appliance, it is important to make sure you choose one that is reliable and will last. ...keep going and find out"
 keywords: most reliable laundry appliance brand
-publishDate: 8/16/2021
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Brand", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

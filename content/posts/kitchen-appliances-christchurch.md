@@ -3,7 +3,6 @@
 title: Kitchen Appliances Christchurch
 description: "Kitchen appliances are a must for any modern kitchen. They make life easier, faster, and more efficient. Here in Christchurch we h...learn more about it now"
 keywords: kitchen christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

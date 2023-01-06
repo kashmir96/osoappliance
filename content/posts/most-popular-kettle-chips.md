@@ -3,7 +3,6 @@
 title: Most Popular Kettle Chips
 description: "Kettle chips have been around since the 1980s, and they’ve become one of the most popular snack foods in the world. Kettle chips a...get the full scoop"
 keywords: most popular kettle
-publishDate: 2/14/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

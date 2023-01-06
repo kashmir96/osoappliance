@@ -3,7 +3,6 @@
 title: Stove Who Invented
 description: "The stove is an invention that has been around for centuries, and its history is as rich and varied as the dishes it can prepare. ...learn more"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

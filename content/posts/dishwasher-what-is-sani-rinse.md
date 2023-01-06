@@ -3,7 +3,6 @@
 title: Dishwasher What Is Sani Rinse
 description: "A Sani Rinse is a feature that can be found on many dishwashers. It is a cycle that uses hot water to sanitize dishes and other ki...read now to learn more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Best Deal
 description: "Are you on the hunt for the best deal on a washing machine? With so many options out there, it can be hard to know which one is th...find out now"
 keywords: washing machine best deal
-publishDate: 1/21/2023
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

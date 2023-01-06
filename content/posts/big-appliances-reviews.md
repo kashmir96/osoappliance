@@ -3,7 +3,6 @@
 title: Big Appliances Reviews
 description: "If you’re in the market for a new appliance, there’s no better way to make a choice than by reading reviews. Big appliances, such ...get the full scoop"
 keywords: appliances reviews
-publishDate: 3/10/2022
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

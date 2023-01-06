@@ -3,7 +3,6 @@
 title: Top Kitchen Appliances
 description: "Every kitchen needs the right appliances to make cooking and meal preparation easier. With the wide selection of kitchen appliance...continue on"
 keywords: top kitchen appliances
-publishDate: 7/13/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

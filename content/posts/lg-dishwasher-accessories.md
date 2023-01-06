@@ -3,7 +3,6 @@
 title: Lg Dishwasher Accessories
 description: "When it comes to dishwashers, LG is one of the most trusted brands on the market. Not only do they provide high-quality machines t...check it out to learn"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

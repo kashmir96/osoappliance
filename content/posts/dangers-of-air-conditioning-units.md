@@ -3,7 +3,6 @@
 title: Dangers Of Air Conditioning Units
 description: "Air conditioning units are a great way to keep a home or office cool during the hot summer months, but they come with certain dang...learn more about it now"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

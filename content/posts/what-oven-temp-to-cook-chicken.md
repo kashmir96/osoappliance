@@ -3,7 +3,6 @@
 title: What Oven Temp To Cook Chicken
 description: "When it comes to preparing chicken, oven temperature is key to ensuring a delicious, juicy and safe final product. The ideal oven ...get more info"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

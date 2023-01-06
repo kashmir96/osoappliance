@@ -3,7 +3,6 @@
 title: Front Load Washing Machine Christchurch
 description: Discover why front-load washing machines are becoming increasingly popular in Christchurch, with their energy and water saving benefits and space efficient design, by reading on.
 keywords: washing machine christchurch
-publishDate: 12/2/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

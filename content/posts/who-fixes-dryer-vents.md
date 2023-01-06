@@ -3,7 +3,6 @@
 title: Who Fixes Dryer Vents
 description: "Dryer vents are an integral part of the home’s ventilation system, and it is important to keep them clean and free from blockages....get the full scoop"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Appliance Repair", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

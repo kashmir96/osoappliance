@@ -3,7 +3,6 @@
 title: Quote For Oven Repair Christchurch
 description: Get quality oven repair services in Christchurch to ensure your safety - read on to find out more!
 keywords: oven repair christchurch
-publishDate: 12/15/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Electrical Cooker Repairs
 description: "If your electric cooker is not working properly, or needs a repair, it is important to know how to diagnose and fix the problem. T...keep reading to learn"
 keywords: cooker
-publishDate: 4/15/2022
 tags: ["Heat Pump", "Stove", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

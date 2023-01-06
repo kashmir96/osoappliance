@@ -3,7 +3,6 @@
 title: Electric Blender Mixer
 description: "An electric blender mixer is an essential kitchen appliance used to blend ingredients together to create a variety of dishes. The ...learn more"
 keywords: blender
-publishDate: 1/28/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

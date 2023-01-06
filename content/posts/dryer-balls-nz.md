@@ -3,7 +3,6 @@
 title: Dryer Balls Nz
 description: "Dryer balls are a fantastic way to reduce drying time and energy costs while still taking care of your clothing. They are a great ...swipe up to find out"
 keywords: dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Oven Makes Rattling Noise
 description: "If you’ve recently noticed a rattling noise coming from your oven, it can be concerning and perplexing. After all, an appliance sh...keep going and find out"
 keywords: oven
-publishDate: 1/18/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Second Hand Appliance Parts
 description: "Second hand appliance parts can be a great way to save money when it comes to repairing your broken appliances. Whether you’re loo...find out now"
 keywords: appliance parts
-publishDate: 1/23/2022
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

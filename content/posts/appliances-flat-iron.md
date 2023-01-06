@@ -3,7 +3,6 @@
 title: Appliances Flat Iron
 description: "Flat irons are a great tool to have in your home and they can come in handy for a variety of different tasks. A flat iron is a typ...swipe up to find out"
 keywords: appliances
-publishDate: 12/24/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

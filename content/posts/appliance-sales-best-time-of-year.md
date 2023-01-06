@@ -3,7 +3,6 @@
 title: Appliance Sales Best Time Of Year
 description: "If you’re in the market for a new appliance, you may be wondering what the best time of year is to buy. The answer depends on a fe...read now to learn more"
 keywords: sales best
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

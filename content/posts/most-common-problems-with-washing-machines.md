@@ -3,7 +3,6 @@
 title: Most Common Problems With Washing Machines
 description: "If your washing machine isn't working as it should, there are a few common problems you can check for before calling a technician....keep going and find out"
 keywords: most washing machines
-publishDate: 1/2/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

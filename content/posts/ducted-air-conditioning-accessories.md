@@ -3,7 +3,6 @@
 title: Ducted Air Conditioning Accessories
 description: "Ducted air conditioning systems are great for cooling a large space or home. They can be used both in residential and commercial b...learn more about it now"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Long Should A Washing Machine Last
 description: This post will explain the factors that affect the longevity of a washing machine, so if you're in the market for a new one, be sure to read on for more information.
 keywords: washing machine
-publishDate: 8/16/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Air Conditioner Health Benefits
 description: "When the summer months arrive and the mercury on thermometers rises, many of us take refuge in air-conditioned rooms to escape the...get the full scoop"
 keywords: air conditioner
-publishDate: 4/12/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

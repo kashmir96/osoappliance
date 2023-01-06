@@ -3,7 +3,6 @@
 title: Worlds Biggest Oven
 description: "The world's biggest oven is located in the city of Harbin, China. It is part of the largest food processing plant in the country a...learn more about it now"
 keywords: oven
-publishDate: 8/1/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Over Stove Range Hood
 description: "As a homeowner, you know how important it is to have a quality kitchen setup that meets your needs. One of the most essential piec...scroll on and keep learning"
 keywords: best stove range
-publishDate: 5/1/2023
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

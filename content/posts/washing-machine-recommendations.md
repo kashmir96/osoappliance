@@ -3,7 +3,6 @@
 title: Washing Machine Recommendations
 description: "If you’re in the market for a new washing machine, you may be feeling a bit overwhelmed. With so many options on the market, it ca...take a moment to check it out "
 keywords: washing machine
-publishDate: 3/11/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

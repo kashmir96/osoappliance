@@ -3,7 +3,6 @@
 title: Why Air Conditioning Is Unhealthy
 description: "Air conditioning is a major convenience in modern life, but unfortunately, it can also be unhealthy if not used properly. While ai...find out now"
 keywords: air
-publishDate: 4/20/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

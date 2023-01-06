@@ -3,7 +3,6 @@
 title: Washing Machines And Dryers Near Me
 description: "Are you in the market for a new washing machine and dryer? If so, you likely have many options at your disposal. Depending on your...read now to learn more"
 keywords: washing machines dryers near
-publishDate: 09/02/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

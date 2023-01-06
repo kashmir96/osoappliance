@@ -3,7 +3,6 @@
 title: Most Popular Appliance Color 2022
 description: "The kitchen appliance trend for 2022 is all about the colors of nature. Think soft blues, greens, and greys that will bring a touc...get more detail"
 keywords: most popular 2022
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Are Washing Machines Dangerous
 description: "Washing machines are an essential appliance in any home, but can also be dangerous. While most people don’t think about it, washin...you wont regret reading on"
 keywords: washing machines
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

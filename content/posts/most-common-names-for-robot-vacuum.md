@@ -3,7 +3,6 @@
 title: Most Common Names For Robot Vacuum
 description: "Robot vacuums are the latest craze in home cleaning, allowing homeowners to keep their homes clean while they're away or busy with...read now to learn more"
 keywords: most vacuum
-publishDate: 2/25/2022
 tags: ["Vacuum", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

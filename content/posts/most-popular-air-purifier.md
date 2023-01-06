@@ -3,7 +3,6 @@
 title: Most Popular Air Purifier
 description: "Air purifiers are becoming increasingly popular as more people become concerned about the air quality in their homes. Many factors...see more detail"
 keywords: most popular air purifier
-publishDate: 2/25/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

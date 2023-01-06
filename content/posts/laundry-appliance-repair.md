@@ -3,7 +3,6 @@
 title: Laundry Appliance Repair
 description: "Doing laundry is a chore that most of us have to do on a regular basis. Unfortunately, sometimes our laundry appliances can break ...swipe up to find out"
 keywords: laundry repair
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Appliance Repair", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

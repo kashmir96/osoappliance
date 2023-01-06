@@ -3,7 +3,6 @@
 title: Refrigeration And Air Conditioning Business Plan Pdf
 description: "When it comes to starting a business in the refrigeration and air conditioning industry, having a detailed business plan is essent...get more detail"
 keywords: air
-publishDate: 4/24/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

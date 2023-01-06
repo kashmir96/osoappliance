@@ -3,7 +3,6 @@
 title: Honeywell Air Purifier Replacement Parts
 description: "When you purchase a Honeywell air purifier, you want to make sure it is working at optimal efficiency and properly cleaning the ai...scroll on and keep learning"
 keywords: air purifier replacement parts
-publishDate: 7/6/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

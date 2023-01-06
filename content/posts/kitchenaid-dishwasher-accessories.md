@@ -3,7 +3,6 @@
 title: Kitchenaid Dishwasher Accessories
 description: "If you’ve recently purchased a KitchenAid dishwasher, you may be wondering what accessories are available to make cleaning dishes ...check it out to learn"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

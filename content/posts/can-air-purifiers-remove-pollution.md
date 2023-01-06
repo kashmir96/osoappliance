@@ -3,7 +3,6 @@
 title: Can Air Purifiers Remove Pollution
 description: "Air purifiers are designed to remove pollutants from the air, but their ability to reduce air pollution varies depending on the ty...see more"
 keywords: air
-publishDate: 5/13/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Oven When Cooking A Pizza
 description: "Cooking a pizza in an oven is one of the most popular methods for preparing this classic Italian dish. Ovens provide an easy and e...learn more about it now"
 keywords: oven cooking
-publishDate: 12/12/2022
 tags: ["Oven", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

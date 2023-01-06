@@ -3,7 +3,6 @@
 title: Best Dryer Brand Nz
 description: "When shopping for a new dryer, it’s important to consider the brand and quality of the product. There are many dryer brands availa...keep going and find out"
 keywords: best dryer brand nz
-publishDate: 6/2/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

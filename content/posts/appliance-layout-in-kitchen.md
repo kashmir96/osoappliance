@@ -3,7 +3,6 @@
 title: Appliance Layout In Kitchen
 description: "When designing a kitchen, one of the most important components is the layout of appliances. This includes selecting the right appl...learn more"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

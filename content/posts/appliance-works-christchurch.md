@@ -3,7 +3,6 @@
 title: Appliance Works Christchurch
 description: "An appliance is a device or a machine that is used to perform a specific task or to carry out a specific job. Appliances are usual...learn more"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

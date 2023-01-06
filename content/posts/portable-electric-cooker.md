@@ -3,7 +3,6 @@
 title: Portable Electric Cooker
 description: "Electric cookers are growing in popularity due to their convenience and portability. These cookers are compact, lightweight, and e...learn more about it now"
 keywords: cooker
-publishDate: 5/26/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

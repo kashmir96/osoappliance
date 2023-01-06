@@ -3,7 +3,6 @@
 title: How To Use An Air Purifier Effectively
 description: "An air purifier is an essential device for anyone looking to improve their home’s air quality. But, how do you use it effectively?...you wont regret reading on"
 keywords: how to use air purifier
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How To Use Electrical Appliances Safely
 description: "Using electrical appliances safely is an important part of maintaining a safe and healthy home. It’s important to be aware of the ...get more info"
 keywords: how to use appliances
-publishDate: 5/17/2022
 tags: ["Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

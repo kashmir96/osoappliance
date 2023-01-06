@@ -3,7 +3,6 @@
 title: Oven How Many Watts
 description: "When it comes to energy consumption, the wattage of an oven can vary greatly depending on the type and size of oven you have. Gene...get more detail"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

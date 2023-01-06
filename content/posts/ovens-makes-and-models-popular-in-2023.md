@@ -3,7 +3,6 @@
 title: Ovens Makes And Models Popular In 2023
 description: "In 2023, there are several ovens on the market that are popular with consumers. The most common types of ovens available in 2023 a...swipe up to find out"
 keywords: popular 2023
-publishDate: 1/19/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

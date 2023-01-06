@@ -3,7 +3,6 @@
 title: Rental Air Conditioning Law
 description: "The rental air conditioning law (also known as the Landlord Tenant Act) is a set of laws that govern the installation and maintena...get the full scoop"
 keywords: air law
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Rules and Regulations"]
 author: Curtis
 categories: ["Household Appliances"]

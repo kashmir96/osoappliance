@@ -3,7 +3,6 @@
 title: Oven Takes A Long Time To Preheat
 description: "If you are an avid baker or cook, you know the frustration that comes with waiting for the oven to preheat. It can feel like an et...swipe up to find out"
 keywords: oven
-publishDate: 12/18/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

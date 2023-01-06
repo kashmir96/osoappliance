@@ -3,7 +3,6 @@
 title: Air Conditioning Units Scrap Value
 description: "If you’re considering replacing your old air conditioning unit, you may be wondering what the scrap value of the unit might be. Ma...you wont regret reading on"
 keywords: air scrap value
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

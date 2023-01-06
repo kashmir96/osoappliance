@@ -3,7 +3,6 @@
 title: Big Blender Appliance Bottle
 description: "The Big Blender appliance bottle is a revolutionary new kitchen tool that allows users to blend, mix, and shake their favorite rec...keep going and find out"
 keywords: blender appliance
-publishDate: 3/11/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

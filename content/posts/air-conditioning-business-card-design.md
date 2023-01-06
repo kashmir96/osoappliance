@@ -3,7 +3,6 @@
 title: Air Conditioning Business Card Design
 description: "As a business owner, you understand the importance of having an attractive and memorable business card design. Air conditioning bu...learn more about it now"
 keywords: air
-publishDate: 5/7/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

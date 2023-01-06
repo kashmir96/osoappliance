@@ -3,7 +3,6 @@
 title: Used Appliance Parts Pros And Cons
 description: "When it comes to purchasing appliances, there’s a lot of debate about whether buying used or new is the best option. One option th...learn more about it now"
 keywords: appliance parts
-publishDate: 1/29/2022
 tags: ["Appliance Consumption", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

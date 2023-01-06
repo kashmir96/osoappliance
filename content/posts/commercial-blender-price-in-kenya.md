@@ -3,7 +3,6 @@
 title: Commercial Blender Price In Kenya
 description: "Blenders are a must-have kitchen appliance for many Kenyan households. Whether you’re mixing up smoothies for breakfast, blending ...read now to learn more"
 keywords: blender
-publishDate: 4/11/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

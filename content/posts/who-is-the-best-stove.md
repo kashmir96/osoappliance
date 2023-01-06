@@ -3,7 +3,6 @@
 title: Who Is The Best Stove
 description: "If you’re looking for the best stovetop espresso maker, you’ve come to the right place. A stovetop espresso maker is an affordable...keep going and find out"
 keywords: best stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

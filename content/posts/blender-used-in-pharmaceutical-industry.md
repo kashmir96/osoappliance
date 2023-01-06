@@ -3,7 +3,6 @@
 title: Blender Used In Pharmaceutical Industry
 description: "Blender is an essential piece of equipment used in the pharmaceutical industry. Blenders are used to blend ingredients together to...find out now"
 keywords: blender
-publishDate: 4/9/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

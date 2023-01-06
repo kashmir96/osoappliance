@@ -3,7 +3,6 @@
 title: Spare Appliance Parts
 description: "Are you looking for spare parts for your broken appliance? Whether you need to replace a faulty component or upgrade your home app...keep reading to learn"
 keywords: appliance parts
-publishDate: 1/27/2022
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

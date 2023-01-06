@@ -3,7 +3,6 @@
 title: Commercial Oven For Bakery
 description: "If you’re running a bakery business, having the right commercial oven is key to your success. Commercial ovens are designed to pro...keep reading to learn"
 keywords: oven
-publishDate: 1/20/2023
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

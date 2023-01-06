@@ -3,7 +3,6 @@
 title: Is There A 2 In 1 Washer And Dryer
 description: "Are you looking for a washer and dryer that can fit in a small space, but don't want to sacrifice on performance? A 2-in-1 washer ...learn about it in this post"
 keywords: dryer
-publishDate: 12/26/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

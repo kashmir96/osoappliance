@@ -3,7 +3,6 @@
 title: Influencers For Dryers
 description: "If you’re considering investing in a new dryer, you might want to consider getting involved with influencers. Influencers are peop...you wont regret reading on"
 keywords: dryers
-publishDate: 12/20/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

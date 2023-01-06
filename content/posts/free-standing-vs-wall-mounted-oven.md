@@ -3,7 +3,6 @@
 title: Free Standing Vs Wall Mounted Oven
 description: This post explores the pros and cons of both free standing and wall mounted ovens, helping you to make the best decision for your own kitchen. Read on to learn more!
 keywords: oven
-publishDate: 12/6/2022
 tags: ["Appliances", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

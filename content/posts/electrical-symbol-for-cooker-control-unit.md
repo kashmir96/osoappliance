@@ -3,7 +3,6 @@
 title: Electrical Symbol For Cooker Control Unit
 description: "Welcome to this blog post on electrical symbols for cooker control units....keep going and find out"
 keywords: cooker
-publishDate: 4/29/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

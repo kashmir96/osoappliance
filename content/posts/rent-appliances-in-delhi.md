@@ -3,7 +3,6 @@
 title: Rent Appliances In Delhi
 description: "Renting appliances in Delhi has become an increasingly popular choice of many households due to its affordability and convenience....swipe up to find out"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

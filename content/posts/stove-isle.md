@@ -3,7 +3,6 @@
 title: Stove Isle
 description: "Stove isles are an important part of any kitchen. They provide a convenient and organized way to store all of your cooking necessi...you wont regret reading on"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

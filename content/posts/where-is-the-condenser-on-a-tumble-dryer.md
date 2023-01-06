@@ -3,7 +3,6 @@
 title: Where Is The Condenser On A Tumble Dryer
 description: "The condenser on a tumble dryer is located at the back of the appliance. It is designed to collect and condense the hot, moist air...find out now"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

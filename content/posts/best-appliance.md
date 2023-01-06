@@ -3,7 +3,6 @@
 title: Best Appliance
 description: "If you’re in the market for a new appliance, you’ve got a lot of options to choose from. From refrigerators to washers and dryers ...see more detail"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

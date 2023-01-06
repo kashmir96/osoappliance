@@ -3,7 +3,6 @@
 title: How To Clean The Waste Trap In A Dishwasher
 description: "If you’ve noticed that your dishwasher is not draining properly, it could be due to a clogged waste trap. Fortunately, it’s easy t...get the full scoop"
 keywords: how to clean dishwasher
-publishDate: 6/15/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

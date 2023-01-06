@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Draining
 description: "If your dishwasher isn’t draining properly, it can be a frustrating issue to deal with. There are several possible causes for a di...learn more"
 keywords: dishwasher
-publishDate: 11/13/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

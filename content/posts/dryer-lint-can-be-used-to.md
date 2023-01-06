@@ -3,7 +3,6 @@
 title: Dryer Lint Can Be Used To
 description: "Dryer lint is more than just a nuisance you have to clean out of the filter. It can actually be used for a variety of creative and...scroll on and keep learning"
 keywords: dryer
-publishDate: 1/11/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

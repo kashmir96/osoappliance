@@ -3,7 +3,6 @@
 title: Where Is Solo Stove From
 description: "Solo Stove is an outdoor cooking and camping equipment company that was founded in 2010 in Dallas, Texas. The company specializes ...see more"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

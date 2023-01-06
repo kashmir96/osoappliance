@@ -3,7 +3,6 @@
 title: Dryer Isnt Heating Samsung
 description: "If you own a Samsung dryer and it's not heating, it can be a frustrating experience. Fortunately, there are a few steps you can ta...see more detail"
 keywords: dryer samsung
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

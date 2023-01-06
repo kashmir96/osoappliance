@@ -3,7 +3,6 @@
 title: Dangers Of Gas Stove Left On
 description: "Gas stoves are one of the most common cooking appliances found in homes today. They are economical and convenient, but can also be...see more"
 keywords: gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

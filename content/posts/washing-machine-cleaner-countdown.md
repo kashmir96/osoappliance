@@ -3,7 +3,6 @@
 title: Washing Machine Cleaner Countdown
 description: "If you’ve got a washing machine, chances are you need to use a cleaner. With so many different types available in the market, it c...check it out to learn"
 keywords: washing machine
-publishDate: 1/26/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

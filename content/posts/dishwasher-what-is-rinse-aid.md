@@ -3,7 +3,6 @@
 title: Dishwasher What Is Rinse Aid
 description: "Welcome to the wonderful world of dishwashers! Dishwashers are one of the most convenient and efficient ways to clean your dishes....see more detail"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

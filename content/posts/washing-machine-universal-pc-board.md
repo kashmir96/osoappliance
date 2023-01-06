@@ -3,7 +3,6 @@
 title: Washing Machine Universal Pc Board
 description: "Are you shopping for a new washing machine, but not sure what all the technical jargon means? Don’t worry – a universal PC board (...continue on"
 keywords: washing machine
-publishDate: 2/12/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

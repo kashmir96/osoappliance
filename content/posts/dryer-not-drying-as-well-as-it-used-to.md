@@ -3,7 +3,6 @@
 title: Dryer Not Drying As Well As It Used To
 description: "If your dryer isn’t drying clothes as effectively as it used to, you’re probably wondering why. Luckily, there are several potenti...continue on"
 keywords: dryer
-publishDate: 1/3/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

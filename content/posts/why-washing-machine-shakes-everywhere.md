@@ -3,7 +3,6 @@
 title: Why Washing Machine Shakes
 description: "Are you fed up with your washing machine shaking like crazy during the spin cycle? It’s a common problem, but not one that you sho...scroll on and keep learning"
 keywords: washing machine
-publishDate: 3/28/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Much Is The Xbox Mini Fridge
 description: "If you’re a serious gamer, then you know the importance of keeping your gaming console and accessories cool. The Xbox Mini Fridge ...get more detail"
 keywords: mini fridge
-publishDate: 12/31/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

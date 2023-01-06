@@ -3,7 +3,6 @@
 title: Dishwasher Takes Too Long
 description: "If your dishwasher takes too long to complete a cycle, it can be a real hassle. You may find yourself washing dishes by hand or ru...read now to learn more"
 keywords: dishwasher
-publishDate: 3/3/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

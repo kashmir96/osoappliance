@@ -3,7 +3,6 @@
 title: Dryer Makes Noise After Heating Up
 description: "If you've noticed your dryer making more noise than usual after heating up, it can be a sign of a problem that requires profession...get more detail"
 keywords: dryer
-publishDate: 11/6/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

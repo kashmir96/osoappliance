@@ -3,7 +3,6 @@
 title: Washing Machine Cleaning Products
 description: "If you want to keep your washing machine clean and running smoothly, using the right cleaning products is essential. Cleaning a wa...get more info"
 keywords: washing machine
-publishDate: 2/4/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

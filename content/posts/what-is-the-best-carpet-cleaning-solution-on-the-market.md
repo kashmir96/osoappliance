@@ -3,7 +3,6 @@
 title: What Is The Best Carpet Cleaning Solution On The Market
 description: "Carpet cleaning is an important part of keeping a home clean and looking its best. With so many carpet cleaning solutions on the m...get the full scoop"
 keywords: best
-publishDate: 2/15/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

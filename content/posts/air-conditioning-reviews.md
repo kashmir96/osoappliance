@@ -3,7 +3,6 @@
 title: Air Conditioning Reviews
 description: "Air conditioning reviews can provide invaluable insight into the best air conditioning systems available on the market today. With...see more detail"
 keywords: air reviews
-publishDate: 7/14/2023
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

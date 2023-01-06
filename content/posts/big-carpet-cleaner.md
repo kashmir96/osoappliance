@@ -3,7 +3,6 @@
 title: Big Carpet Cleaner
 description: "Carpet cleaners are more than just machines that clean carpets. They’re an investment in your home, and they can make a huge diffe...you wont regret reading on"
 keywords: 
-publishDate: 3/18/2022
 tags: ["Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

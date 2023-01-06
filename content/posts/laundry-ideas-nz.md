@@ -3,7 +3,6 @@
 title: Laundry Ideas Nz
 description: "Laundry is an essential part of life, but it can be a tedious task. However, New Zealand has some great ideas to help make laundry...check it out to learn"
 keywords: laundry nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Largest Appliance Store
 description: "The appliance store has come a long way over the years. With the development of technology, larger and more efficient appliances a...learn about it in this post"
 keywords: appliance store
-publishDate: 6/20/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

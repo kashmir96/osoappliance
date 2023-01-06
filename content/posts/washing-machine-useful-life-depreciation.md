@@ -3,7 +3,6 @@
 title: Washing Machine Useful Life Depreciation
 description: "Washing machines are a great convenience in our lives, and can be an expensive investment. But like any other appliance, washing m...see more"
 keywords: washing machine
-publishDate: 4/11/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

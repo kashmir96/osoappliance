@@ -3,7 +3,6 @@
 title: Dishwasher Accessories Basket
 description: "If you’re looking for a way to make the most of your dishwasher, then you should consider investing in a dishwasher accessories ba...swipe up to find out"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

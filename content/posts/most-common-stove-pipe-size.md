@@ -3,7 +3,6 @@
 title: Most Common Stove Pipe Size
 description: "Stove pipe is the venting system used to connect a wood stove to the chimney. It is important to choose the correct size stove pip...take a moment to check it out "
 keywords: most stove
-publishDate: 8/2/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

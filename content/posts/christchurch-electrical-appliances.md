@@ -3,7 +3,6 @@
 title: Christchurch Electrical Appliances
 description: "Christchurch is a city located on the east coast of New Zealand’s South Island, and is known for its stunning natural beauty. It i...scroll on and keep learning"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

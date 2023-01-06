@@ -3,7 +3,6 @@
 title: Washer Dryer Stacking Kit Nz
 description: "If you’re looking for a way to maximize your limited laundry space in New Zealand, then a washer-dryer stacking kit is just what y...lets find out"
 keywords: dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

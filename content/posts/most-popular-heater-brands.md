@@ -3,7 +3,6 @@
 title: Most Popular Heater Brands
 description: "When it comes to keeping your home warm and comfortable during the chilly winter months, a quality heater is essential. But with s...learn more"
 keywords: most popular heater brands
-publishDate: 1/17/2022
 tags: ["Heat Pump", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

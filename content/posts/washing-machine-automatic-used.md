@@ -3,7 +3,6 @@
 title: Washing Machine Automatic Used
 description: "If you're looking for an efficient and effective way to do your laundry, then an automatic washing machine is a good choice for yo...see more"
 keywords: washing machine
-publishDate: 1/18/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

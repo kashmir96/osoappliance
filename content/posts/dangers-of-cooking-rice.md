@@ -3,7 +3,6 @@
 title: Dangers Of Cooking Rice
 description: "Cooking rice may seem like a simple and easy task, but there are serious risks associated with it. Rice is a staple food for many ...keep reading to learn"
 keywords: cooking
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

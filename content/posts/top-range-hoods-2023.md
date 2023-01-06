@@ -3,7 +3,6 @@
 title: Top Range Hoods 2023
 description: "Are you in the market for a new range hood? If so, you want to make sure you’re getting a quality model that will last and perform...learn more"
 keywords: top range 2023
-publishDate: 7/21/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

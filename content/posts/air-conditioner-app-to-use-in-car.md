@@ -3,7 +3,6 @@
 title: Air Conditioner App To Use In Car
 description: "Air conditioners are one of the most popular and essential pieces of equipment that we use in our cars. They help to keep us cool ...continue on"
 keywords: air conditioner use
-publishDate: 3/29/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

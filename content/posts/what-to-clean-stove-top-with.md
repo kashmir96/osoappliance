@@ -3,7 +3,6 @@
 title: What To Clean Stove Top With
 description: "When it comes to cleaning your stove top, it’s important to use the right products and techniques so that you don’t damage the sur...get more detail"
 keywords: clean stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

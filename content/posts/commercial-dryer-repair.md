@@ -3,7 +3,6 @@
 title: Commercial Dryer Repair
 description: "When it comes to keeping your commercial dryer running, regular maintenance and repair is a must. Whether you have a gas or electr...see more detail"
 keywords: dryer repair
-publishDate: 2/6/2023
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Appliance Repair", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

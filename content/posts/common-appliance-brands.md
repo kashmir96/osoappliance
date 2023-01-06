@@ -3,7 +3,6 @@
 title: Common Appliance Brands
 description: "When it comes to shopping for appliances, there are many different brands to choose from. Each brand offers its own unique feature...see more"
 keywords: appliance brands
-publishDate: 3/4/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

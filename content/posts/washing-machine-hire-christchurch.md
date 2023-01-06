@@ -3,7 +3,6 @@
 title: Washing Machine Hire Christchurch
 description: "When you are in the Christchurch area, renting a washing machine can be a great solution to your laundry needs. Whether you are lo...get more detail"
 keywords: washing machine christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine New Design
 description: "The modern washing machine has come a long way since its invention more than a century ago. A lot of time, effort and money have g...check it out to learn"
 keywords: washing machine
-publishDate: 3/4/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Gas Hob Installation Christchurch
 description: Learn how to install a gas hob in Christchurch safely and quickly with this comprehensive guide – read on to find out more!
 keywords: christchurch
-publishDate: 11/26/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Appliances Christchurch"]

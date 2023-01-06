@@ -3,7 +3,6 @@
 title: Washing Machines For Sale Christchurch
 description: "If you're in the market for a new washing machine, Christchurch is a great place to shop. With a wide range of models available, y...swipe up to find out"
 keywords: washing machines sale christchurch
-publishDate: 12/12/2022
 tags: [""]
 author: Curtis
 categories: ["Household Appliances"]

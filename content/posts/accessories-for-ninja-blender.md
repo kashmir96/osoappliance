@@ -3,7 +3,6 @@
 title: Accessories For Ninja Blender
 description: "If you’re looking for the ultimate kitchen tool, the Ninja Blender is the perfect choice. This versatile blender can do it all - f...see more detail"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

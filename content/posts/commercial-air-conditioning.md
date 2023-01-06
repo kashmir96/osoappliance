@@ -3,7 +3,6 @@
 title: Commercial Air Conditioning
 description: "Commercial air conditioning is a critical component of many businesses today. From small shops to large office buildings, air cond...check it out to learn"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

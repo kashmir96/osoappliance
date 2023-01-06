@@ -3,7 +3,6 @@
 title: Appliance Repair
 description: "Appliance repair can be a tricky job, and it can be difficult to know where to start. But with a few simple steps, you can get you...see more detail"
 keywords: repair
-publishDate: 12/12/2022
 tags: ["Appliance Repair"]
 author: Curtis
 categories: ["Household Appliances"]

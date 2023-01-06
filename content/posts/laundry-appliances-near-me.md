@@ -3,7 +3,6 @@
 title: Laundry Appliances Near Me
 description: "As much as people like to forget about it, laundry is a necessary evil in our lives. From washing clothes to drying them and every...continue on"
 keywords: laundry near
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

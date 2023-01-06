@@ -3,7 +3,6 @@
 title: Microwaves Are Used For Mcg
 description: "Microwaves are a common kitchen appliance that many of us use to heat food, but did you know that microwaves can also be used for ...find out now"
 keywords: 
-publishDate: 3/19/2023
 tags: ["Microwave", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

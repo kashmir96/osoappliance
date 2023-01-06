@@ -3,7 +3,6 @@
 title: Dishwasher Has Water In The Botto
 description: "If you have recently noticed that your dishwasher has water in the bottom, you may be wondering what is going on. This is a common...keep going and find out"
 keywords: dishwasher water
-publishDate: 10/30/2022
 tags: ["Dishwasher", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

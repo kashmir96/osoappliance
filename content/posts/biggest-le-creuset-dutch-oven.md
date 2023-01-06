@@ -3,7 +3,6 @@
 title: Biggest Le Creuset Dutch Oven
 description: "If you’re looking for the biggest and best Dutch oven, then you can’t go wrong with Le Creuset. This iconic French brand is known ...learn about it in this post"
 keywords: oven
-publishDate: 5/6/2022
 tags: ["Oven", "Appliance Consumption", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

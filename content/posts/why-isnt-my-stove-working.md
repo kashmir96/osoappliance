@@ -3,7 +3,6 @@
 title: Why Isnt My Stove Working
 description: "If your stove isn't working, it could be due to a variety of reasons. The first thing you should do is check the power source. Mak...check it out to learn"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

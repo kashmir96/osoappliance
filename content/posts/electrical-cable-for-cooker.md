@@ -3,7 +3,6 @@
 title: Electrical Cable For Cooker
 description: "If you're looking to install a new electric cooker, you’ll need the right electrical cable to ensure that it is safe and functions...keep going and find out"
 keywords: cooker
-publishDate: 4/11/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

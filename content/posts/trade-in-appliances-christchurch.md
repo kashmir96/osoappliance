@@ -3,7 +3,6 @@
 title: Trade In Appliances Christchurch
 description: If you're looking to upgrade or replace your appliances in Christchurch, consider a trade-in to save money and get convenience - read on to find out more!
 keywords: appliances christchurch
-publishDate: 8/12/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

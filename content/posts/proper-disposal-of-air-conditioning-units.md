@@ -3,7 +3,6 @@
 title: Proper Disposal Of Air Conditioning Units
 description: "Summer is here and that means it’s time to turn on the air conditioning! But, when it’s time to upgrade or replace your unit, what...learn more"
 keywords: disposal air
-publishDate: 5/19/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

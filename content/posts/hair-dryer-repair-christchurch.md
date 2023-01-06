@@ -3,7 +3,6 @@
 title: Hair Dryer Repair Christchurch
 description: If you're living in Christchurch and you've got a malfunctioning hair dryer, then you should read this post to discover the various options for hair dryer repair in the area and get your appliance back in shape in no time!
 keywords: hair dryer repair christchurch
-publishDate: 9/23/2022
 tags: ["Christchurch", "Dryer", "Appliances", "Appliance Repair", "Hair Dryer"]
 author: Curtis
 categories: ["Appliances Christchurch"]

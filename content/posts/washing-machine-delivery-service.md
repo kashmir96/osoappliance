@@ -3,7 +3,6 @@
 title: Washing Machine Delivery Service
 description: "Have you ever wished that you could have a washing machine delivered and installed in your home without any hassle or stress? Wash...get the full scoop"
 keywords: washing machine
-publishDate: 2/15/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

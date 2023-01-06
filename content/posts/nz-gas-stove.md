@@ -3,7 +3,6 @@
 title: Nz Gas Stove
 description: "New Zealand gas stoves are becoming increasingly popular amongst homeowners in the country, due to their convenience, energy effic...get the full scoop"
 keywords: nz gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

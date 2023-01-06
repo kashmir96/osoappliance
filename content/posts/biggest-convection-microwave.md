@@ -3,7 +3,6 @@
 title: Biggest Convection Microwave
 description: "In today's kitchen, convection microwave ovens are a must-have appliance for every home cook. They provide an easy way to prepare ...learn more about it now"
 keywords: microwave
-publishDate: 4/24/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

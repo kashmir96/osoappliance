@@ -3,7 +3,6 @@
 title: How Long Should A Range Hood Last
 description: "Range hoods are a key component of the kitchen ventilation system that help to keep your kitchen clean and free of smoke and odors...swipe up to find out"
 keywords: range last
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

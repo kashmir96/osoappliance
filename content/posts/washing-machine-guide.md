@@ -3,7 +3,6 @@
 title: Washing Machine Guide
 description: "A washing machine is a must-have appliance for any home. With so many different types and models, choosing the right one can be ov...swipe up to find out"
 keywords: washing machine guide
-publishDate: 2/25/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dyson Battery Replacement
 description: "Dyson battery replacement is a process that allows you to replace the battery in your Dyson vacuum cleaner. The battery in a Dyson...learn about it in this post"
 keywords: battery replacement
-publishDate: 20/12/2022
 tags: ["Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

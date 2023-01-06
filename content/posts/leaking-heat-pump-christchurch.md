@@ -3,7 +3,6 @@
 title: Leaking Heat Pump Christchurch
 description: If you live in Christchurch, New Zealand, it is important to be aware of the potential for heat pump leaks due to the city's cool climate, so read on to learn more about this issue.
 keywords: heat pump christchurch
-publishDate: 9/13/2022
 tags: ["Christchurch", "Appliances", "Heat Pump"]
 author: Curtis
 categories: ["Appliances Christchurch"]

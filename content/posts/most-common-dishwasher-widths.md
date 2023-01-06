@@ -3,7 +3,6 @@
 title: Most Common Dishwasher Widths
 description: "When it comes to buying a dishwasher, one of the most important factors to consider is the width. Dishwasher widths come in differ...scroll on and keep learning"
 keywords: most dishwasher
-publishDate: 1/21/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

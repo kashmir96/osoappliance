@@ -3,7 +3,6 @@
 title: Large Kitchen Appliances Brands
 description: "When it comes to large kitchen appliances, there are many different brands and models to choose from. Finding the right appliance ...learn more"
 keywords: kitchen appliances brands
-publishDate: 6/16/2022
 tags: ["Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

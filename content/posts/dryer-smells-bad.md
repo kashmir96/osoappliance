@@ -3,7 +3,6 @@
 title: Dryer Smells Bad
 description: "If your dryer smells bad, it is likely that something is wrong and needs to be addressed. A bad smell can be caused by a variety o...get more info"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

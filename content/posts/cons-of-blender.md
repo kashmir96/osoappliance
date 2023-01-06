@@ -3,7 +3,6 @@
 title: Cons Of Blenders
 description: "When it comes to blending, a blender is one of the most convenient and popular kitchen appliances. They can quickly and easily tur...get more detail"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

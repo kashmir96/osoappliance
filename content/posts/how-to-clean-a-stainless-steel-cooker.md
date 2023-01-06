@@ -3,7 +3,6 @@
 title: How To Clean A Stainless Steel Cooker
 description: This post provides helpful tips for cleaning a stainless steel cooker, making it easy to keep your kitchen looking great. Read on to learn how to clean your stainless steel cooker.
 keywords: how to cooker
-publishDate: 10/30/2022
 tags: ["Appliances", "Guide", "Oven", "Stove"]
 author: Curtis
 categories: ["Appliances Christchurch"]

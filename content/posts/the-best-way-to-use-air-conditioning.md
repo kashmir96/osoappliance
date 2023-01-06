@@ -3,7 +3,6 @@
 title: The Best Way To Use Air Conditioning
 description: "Using your air conditioning system correctly is essential to keeping your home comfortable, reducing energy costs, and prolonging ...continue on"
 keywords: best use air
-publishDate: 7/7/2022
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

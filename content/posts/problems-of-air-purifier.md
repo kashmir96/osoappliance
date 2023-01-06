@@ -3,7 +3,6 @@
 title: Problems Of Air Purifier
 description: "Air purifiers are becoming increasingly popular as a way to improve air quality in homes and businesses. However, there are some p...get more detail"
 keywords: air purifier
-publishDate: 1/1/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

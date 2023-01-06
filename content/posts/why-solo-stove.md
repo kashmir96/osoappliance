@@ -3,7 +3,6 @@
 title: Why Solo Stove
 description: "If you’re looking for an efficient, lightweight, and eco-friendly way to cook outdoors, then the Solo Stove is the perfect solutio...see more detail"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

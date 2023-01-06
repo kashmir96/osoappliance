@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Getting Hot
 description: "If your dishwasher isn't getting hot, it may be due to a few possible issues. First, make sure the dishwasher is connected to a ho...swipe up to find out"
 keywords: dishwasher
-publishDate: 11/17/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

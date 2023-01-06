@@ -3,7 +3,6 @@
 title: Best Portable Air Conditioners Nz
 description: "When the temperatures start to rise, having a portable air conditioner can be a lifesaver. Not only do they help keep your home or...you wont regret reading on"
 keywords: best air nz
-publishDate: 12/12/2022
 tags: ["Heat Pump", "New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

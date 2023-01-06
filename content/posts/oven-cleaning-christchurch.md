@@ -3,7 +3,6 @@
 title: Oven Cleaning Christchurch
 description: "If you live in Christchurch and are looking for a job in oven cleaning, then you have come to the right place. Oven cleaning is on...take a moment to check it out "
 keywords: oven christchurch
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

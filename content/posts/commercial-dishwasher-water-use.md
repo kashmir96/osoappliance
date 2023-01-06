@@ -3,7 +3,6 @@
 title: Commercial Dishwasher Water Use
 description: "Water efficiency is an important factor to consider when selecting a commercial dishwasher, as it can help reduce water and energy...scroll on and keep learning"
 keywords: dishwasher water use
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

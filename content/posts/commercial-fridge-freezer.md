@@ -3,7 +3,6 @@
 title: Commercial Fridge Freezer
 description: "A commercial fridge freezer is a type of refrigeration unit designed for the storage and preservation of food items in a commercia...lets find out"
 keywords: fridge
-publishDate: 12/29/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Washer And Dryer Combo 2021
 description: "Are you in the market for a new washer and dryer combo? If so, you're in luck! 2021 has seen the release of some of the best washe...scroll on and keep learning"
 keywords: best dryer
-publishDate: 9/3/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dishwasher Always Warm Inside
 description: "Have you ever opened your dishwasher and noticed that the inside is always warm? This is actually a common occurrence and it’s not...get more info"
 keywords: dishwasher
-publishDate: 10/13/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

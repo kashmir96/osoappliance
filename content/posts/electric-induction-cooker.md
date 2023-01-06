@@ -3,7 +3,6 @@
 title: Electric Induction Cooker
 description: "An electric induction cooker is a type of cooking appliance that uses electric current to heat up food. Unlike traditional electri...keep going and find out"
 keywords: cooker
-publishDate: 3/23/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

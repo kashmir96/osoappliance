@@ -3,7 +3,6 @@
 title: Washing Machine Cleaning Liquid
 description: "If you’re looking for an effective and easy way to clean your washing machine, then you should consider using a washing machine cl...learn more"
 keywords: washing machine
-publishDate: 2/2/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

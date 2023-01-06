@@ -3,7 +3,6 @@
 title: Hair Dryer Or Drier
 description: "The correct spelling is Hair Dryer. A hair dryer (sometimes known as a blow dryer) is an electrical device used to dry and style h...find out now"
 keywords: hair dryer drier
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

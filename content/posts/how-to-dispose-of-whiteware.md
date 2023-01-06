@@ -3,7 +3,6 @@
 title: How To Dispose Of Whiteware
 description: "When it comes to disposing of whiteware, the process is fairly straightforward. The most important step is to make sure that all h...lets find out"
 keywords: how to dispose
-publishDate: 12/12/2022
 tags: ["Appliance Disposal", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

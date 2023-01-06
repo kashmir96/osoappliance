@@ -3,7 +3,6 @@
 title: Dryer Is Loud
 description: This post outlines the potential causes of a loud dryer, and why it's important to diagnose and fix the issue quickly; read on to learn more about dryer maintenance and repair.
 keywords: dryer
-publishDate: 11/12/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

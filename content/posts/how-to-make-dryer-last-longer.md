@@ -3,7 +3,6 @@
 title: How To Make Dryer Last Longer
 description: To make your dryer last longer and get more value out of your investment, follow the tips in this post.
 keywords: how to dryer
-publishDate: 7/11/2022
 tags: ["Dryer", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

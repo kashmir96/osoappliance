@@ -3,7 +3,6 @@
 title: Most Common Issues With Ac Units
 description: "Are you having trouble with your AC unit? It’s likely that you’re not alone. Many homeowners experience common issues with their a...take a moment to check it out "
 keywords: most ac
-publishDate: 1/1/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

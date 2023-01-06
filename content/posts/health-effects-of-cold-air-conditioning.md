@@ -3,7 +3,6 @@
 title: Health Effects Of Cold Air Conditioning
 description: "In the summer months, one of the best ways to beat the heat is to turn on the air conditioning. But while cool air can make us fee...swipe up to find out"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: When Were Washing Machines Invented
 description: "The invention of the washing machine has been an invaluable time and labor saver for many households. The first washing machines w...learn about it in this post"
 keywords: washing machines
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How To Repair Vacuum
 description: "Vacuum cleaners are an essential tool for keeping your home clean. But like any other appliance, they can break down from time to ...see more"
 keywords: how to repair vacuum
-publishDate: 5/30/2022
 tags: ["Vacuum", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

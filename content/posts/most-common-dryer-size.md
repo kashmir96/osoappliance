@@ -3,7 +3,6 @@
 title: Most Common Dryer Size
 description: "When it comes to choosing the perfect dryer for your home, size is a key factor in the decision-making process. There are several ...lets find out"
 keywords: most dryer
-publishDate: 7/14/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

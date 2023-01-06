@@ -3,7 +3,6 @@
 title: Difference Between Fridge Guard And Tv Guard
 description: "The Fridge Guard and TV Guard are both products designed to protect your electronics from power outages and surges. But, they are ...learn about it in this post"
 keywords: fridge
-publishDate: 4/14/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

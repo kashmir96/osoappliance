@@ -3,7 +3,6 @@
 title: How To Repair Dent In Your Fridge
 description: "If you have a dent in your refrigerator, it can be a major eyesore and can even affect the performance of the appliance. Fortunate...check it out to learn"
 keywords: how to repair
-publishDate: 6/18/2022
 tags: ["Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

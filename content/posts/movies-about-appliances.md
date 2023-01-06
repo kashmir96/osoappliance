@@ -3,7 +3,6 @@
 title: Movies About Appliances
 description: "Movies about Appliances provide us with an entertaining way to learn about the different types of appliances we use in our everyda...get more info"
 keywords: appliances
-publishDate: 12/15/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

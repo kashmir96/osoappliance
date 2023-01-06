@@ -3,7 +3,6 @@
 title: Biggest Oven Capacity
 description: "The biggest oven capacity you can get in the kitchen today is a double oven. A double oven has two separate ovens, each with its o...get the full scoop"
 keywords: oven
-publishDate: 5/24/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

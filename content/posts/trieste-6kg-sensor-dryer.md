@@ -3,7 +3,6 @@
 title: Trieste 6Kg Sensor Dryer
 description: "The Trieste 6kg Sensor Dryer is a revolutionary new dryer that is designed to provide a more efficient and effective way to dry cl...check it out to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

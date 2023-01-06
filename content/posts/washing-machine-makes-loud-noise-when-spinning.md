@@ -3,7 +3,6 @@
 title: Washing Machine Makes Loud Noise When Spinning
 description: "It’s always a headache when your washing machine starts making loud noises while spinning. You know it’s not supposed to sound lik...learn more about it now"
 keywords: washing machine
-publishDate: 2/19/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

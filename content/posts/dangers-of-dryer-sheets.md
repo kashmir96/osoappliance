@@ -3,7 +3,6 @@
 title: Dangers Of Dryer Sheets
 description: "Dryer sheets are a staple in many households for keeping laundry fresh and soft. But what you may not know is that dryer sheets ca...get more info"
 keywords: dryer
-publishDate: 1/5/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

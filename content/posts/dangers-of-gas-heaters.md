@@ -3,7 +3,6 @@
 title: Dangers Of Gas Heaters
 description: "Gas heaters are a common and cost-efficient way to keep your home warm during the winter. However, if not installed, maintained, a...lets find out"
 keywords: gas
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Stove"]
 author: Curtis
 categories: ["Household Appliances"]

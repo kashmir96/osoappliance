@@ -3,7 +3,6 @@
 title: Ge Oven Where To Find Model Number
 description: "If you’re looking for the model number of your GE oven, you’ve come to the right place. Knowing your model number is important whe...read now to learn more"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

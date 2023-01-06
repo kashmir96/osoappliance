@@ -3,7 +3,6 @@
 title: Most Popular Kitchen Appliances Nz
 description: "When it comes to kitchen appliances, New Zealanders have plenty of options. From the latest high-tech gadgets to tried and true cl...read now to learn more"
 keywords: most popular kitchen appliances nz
-publishDate: 2/3/2022
 tags: ["New Zealand", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

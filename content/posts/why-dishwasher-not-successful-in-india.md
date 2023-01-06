@@ -3,7 +3,6 @@
 title: Why Dishwasher Not Successful In India
 description: "The dishwasher is a modern appliance that has revolutionized the way we clean dishes. In many countries, it is becoming increasing...see more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

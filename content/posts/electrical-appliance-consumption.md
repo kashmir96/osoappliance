@@ -3,7 +3,6 @@
 title: Electrical Appliance Consumption
 description: "Electric appliances are a staple of modern life. From smartphones to microwaves, our lives depend on them for a variety of tasks. ...get the full scoop"
 keywords: appliance consumption
-publishDate: 6/3/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

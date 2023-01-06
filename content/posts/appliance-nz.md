@@ -3,7 +3,6 @@
 title: Appliance Nz
 description: "Appliances are an essential part of any household, and the selection of appliances available in New Zealand has grown significantl...see more"
 keywords: nz
-publishDate: 12/12/2022
 tags: ["New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

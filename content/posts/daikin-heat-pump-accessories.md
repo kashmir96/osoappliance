@@ -3,7 +3,6 @@
 title: Daikin Heat Pump Accessories
 description: "Daikin Heat Pump accessories are designed to maximize the efficiency and performance of your Daikin heat pump system. Whether you ...see more"
 keywords: heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

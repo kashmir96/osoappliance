@@ -3,7 +3,6 @@
 title: Washing Machine Pc Board Repair Near Me
 description: "As an average consumer, you may not realize how important washing machine circuit board repair can be for keeping your laundry roo...keep reading to learn"
 keywords: washing machine repair near
-publishDate: 2/16/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

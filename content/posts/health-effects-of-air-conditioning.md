@@ -3,7 +3,6 @@
 title: Health Effects Of Air Conditioning
 description: "Air conditioning is a common amenity in many parts of the world, providing a cool, comfortable environment any time of year. But w...take a moment to check it out "
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

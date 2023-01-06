@@ -3,7 +3,6 @@
 title: Best Washer Dryer
 description: "When it comes to doing laundry, having a combined washer and dryer machine can be a great convenience. With a combined washer and ...continue on"
 keywords: best dryer
-publishDate: 9/4/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

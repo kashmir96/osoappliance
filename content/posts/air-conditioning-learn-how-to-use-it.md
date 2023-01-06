@@ -3,7 +3,6 @@
 title: Air Conditioning Learn How To Use It
 description: "Air conditioning is a modern marvel that keeps us comfortable in hot weather. It works by circulating cooled air into a closed spa...read now to learn more"
 keywords: air how to use
-publishDate: 6/21/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

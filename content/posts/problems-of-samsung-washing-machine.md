@@ -3,7 +3,6 @@
 title: Problems Of Samsung Washing Machine
 description: "Samsung washing machines are some of the most popular on the market, offering a wide variety of features and settings to accommoda...keep going and find out"
 keywords: samsung washing machine
-publishDate: 25/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

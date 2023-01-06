@@ -3,7 +3,6 @@
 title: Washing Machine Drum Wobbles
 description: If you've noticed your washing machine drum wobbling during a cycle, this blog explains what causes the issue and how to fix it - read on to find out more!
 keywords: washing machine
-publishDate: 11/10/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

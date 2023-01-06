@@ -3,7 +3,6 @@
 title: How Much Is Small Fridge
 description: "A small refrigerator is a great option for those who need to store food, beverages, and other items but don't have the space for a...learn more about it now"
 keywords: fridge
-publishDate: 12/30/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

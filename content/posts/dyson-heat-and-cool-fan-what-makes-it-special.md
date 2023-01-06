@@ -3,7 +3,6 @@
 title: Dyson Heat And Cool Fan What Makes It Special
 description: "Dyson Heat & Cool Fans are a revolutionary air-moving technology that can provide both heating and cooling from the same fan. This...keep reading to learn"
 keywords: fan
-publishDate: 12/28/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

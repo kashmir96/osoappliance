@@ -3,7 +3,6 @@
 title: Large Range Hood
 description: "If you’ve ever gone into a commercial kitchen, you’ve likely seen a large range hood. Range hoods are an important piece of equipm...swipe up to find out"
 keywords: range
-publishDate: 6/17/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

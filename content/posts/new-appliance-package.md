@@ -3,7 +3,6 @@
 title: New Appliance Package
 description: "If you’re looking to upgrade your kitchen appliances, purchasing a new appliance package can be an economical and convenient way t...continue on"
 keywords: package
-publishDate: 12/12/2022
 tags: ["Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

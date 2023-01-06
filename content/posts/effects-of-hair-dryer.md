@@ -3,7 +3,6 @@
 title: Effects Of Hair Dryer
 description: "Hair dryers are a popular tool used to style and dry hair, but they can also cause damage if not used properly. Here are some of t...see more"
 keywords: hair dryer
-publishDate: 12/16/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

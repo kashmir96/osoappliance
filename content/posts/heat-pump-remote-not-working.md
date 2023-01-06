@@ -3,7 +3,6 @@
 title: Heat Pump Remote Not Working
 description: This post provides helpful tips for troubleshooting a non-working heat pump remote, so if you're having issues with your own system, be sure to read on for more information.
 keywords: heat pump
-publishDate: 9/14/2022
 tags: ["Appliances", "Heat Pump"]
 author: Curtis
 categories: ["Appliances Christchurch"]

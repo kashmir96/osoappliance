@@ -3,7 +3,6 @@
 title: Best Washer And Dryer 2020
 description: "2020 has been an interesting year for washers and dryers. With the pandemic, many people have had to stay at home and do their lau...learn more about it now"
 keywords: best dryer 2020
-publishDate: 8/31/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

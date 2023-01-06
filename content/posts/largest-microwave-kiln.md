@@ -3,7 +3,6 @@
 title: Largest Microwave Kiln
 description: "A microwave kiln is a specialized type of high-temperature kiln designed to fire ceramics and glass. It’s a relatively new technol...find out now"
 keywords: microwave
-publishDate: 6/23/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

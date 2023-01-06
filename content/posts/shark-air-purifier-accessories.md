@@ -3,7 +3,6 @@
 title: Shark Air Purifier Accessories
 description: "Shark air purifiers are some of the most popular and effective air purifiers on the market. They come with a variety of accessorie...find out now"
 keywords: air purifier
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

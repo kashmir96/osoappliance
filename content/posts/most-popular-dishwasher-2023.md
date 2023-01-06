@@ -3,7 +3,6 @@
 title: Most Popular Dishwasher 2023
 description: "With the advancement of technology, dishwashers have become increasingly popular in households. Not only are they convenient and s...keep reading to learn"
 keywords: most popular dishwasher 2023
-publishDate: 1/24/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

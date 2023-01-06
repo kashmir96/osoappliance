@@ -3,7 +3,6 @@
 title: Stove Invented When
 description: "Stoves have been around for centuries, and their invention has changed the way we cook. The earliest stoves were made of clay and ...see more"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

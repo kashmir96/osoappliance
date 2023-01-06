@@ -3,7 +3,6 @@
 title: Dryer Parts Christchurch
 description: "If you live in Christchurch, New Zealand and need to source parts for your dryer, then you’ve come to the right place. Dryers are ...read now to learn more"
 keywords: dryer parts christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Christchurch", "Laundry Appliances", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

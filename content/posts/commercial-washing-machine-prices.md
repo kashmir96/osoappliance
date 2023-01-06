@@ -3,7 +3,6 @@
 title: Commercial Washing Machine Prices
 description: "When it comes to commercial washing machines, there is a wide range of prices you can expect to pay. Depending on the size, featur...find out now"
 keywords: washing machine
-publishDate: 2/15/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

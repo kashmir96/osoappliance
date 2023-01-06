@@ -3,7 +3,6 @@
 title: Influencers For Ovens
 description: "If you’re in the market for a new oven, it’s important to do your research and find an influencer who can help guide you through t...learn more"
 keywords: 
-publishDate: 12/22/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Who Installs Dryer Booster Fans
 description: "Dryer booster fans are a great way to improve the efficiency of your dryer and reduce drying times. They can also help improve the...check it out to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

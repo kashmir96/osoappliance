@@ -3,7 +3,6 @@
 title: Commercial Appliance Repair Denver
 description: "When you own a commercial business, the last thing you want to happen is for one of your appliances to break down. Not only can th...find out now"
 keywords: appliance repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

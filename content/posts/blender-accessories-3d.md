@@ -3,7 +3,6 @@
 title: Blender Accessories 3D
 description: "3D printing technology has revolutionized the way we create products. From toys to home accessories, 3D printers are now able to c...continue on"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

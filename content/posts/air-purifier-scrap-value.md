@@ -3,7 +3,6 @@
 title: Air Purifier Scrap Value
 description: "When it comes to air purifier technology, one thing that is often overlooked is the scrap value of a used air purifier. Although a...read now to learn more"
 keywords: air purifier scrap value
-publishDate: 4/14/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

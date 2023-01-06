@@ -3,7 +3,6 @@
 title: Oven Symbols
 description: "Oven symbols can be confusing, especially when you're trying to make a perfect meal. Knowing what each symbol means can help you m...lets find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

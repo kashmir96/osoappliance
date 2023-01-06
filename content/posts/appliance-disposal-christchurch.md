@@ -3,7 +3,6 @@
 title: Appliance Disposal Christchurch
 description: This post outlines the safe and responsible ways to dispose of an appliance in Christchurch, depending on its age and condition. If you're in need of appliance disposal, be sure to read this post for the best way to do it.
 keywords: appliance disposal christchurch
-publishDate: 7/3/2022
 tags: ["Christchurch", "Appliances", "Disposal"]
 author: Curtis
 categories: ["Appliances Christchurch"]

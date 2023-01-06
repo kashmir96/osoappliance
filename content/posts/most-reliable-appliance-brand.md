@@ -3,7 +3,6 @@
 title: Most Reliable Appliance Brand
 description: This post outlines several key factors to consider when selecting the most reliable appliance brand, providing readers with the information needed to make an informed decision - read on to find out more!
 keywords: appliance
-publishDate: 10/26/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

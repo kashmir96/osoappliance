@@ -3,7 +3,6 @@
 title: Big Appliance Repair
 description: "Big appliances are an integral part of modern life, and when they break down, it can be a major inconvenience. Fortunately, there ...swipe up to find out"
 keywords: appliance repair
-publishDate: 3/9/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

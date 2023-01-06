@@ -3,7 +3,6 @@
 title: Caravan Fridge Repairs Christchurch
 description: "If you own a caravan and need to get your fridge repaired, then it’s important to find an experienced professional in Christchurch...scroll on and keep learning"
 keywords: fridge christchurch
-publishDate: 8/21/2021
 tags: ["Heat Pump", "Christchurch", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

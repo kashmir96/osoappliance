@@ -3,7 +3,6 @@
 title: Why Do Kettles Whistle
 description: "The whistle of a kettle is one of the most iconic sounds of home, and for good reason. But why do kettles whistle?...you wont regret reading on"
 keywords: 
-publishDate: 1/5/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Fix Washing Machine Stop Spinning
 description: If your washing machine is not spinning, there are several things you can do to troubleshoot the issue. Learn more by reading this post.
 keywords: fix washing machine
-publishDate: 5/31/2022
 tags: ["Washing Machine", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

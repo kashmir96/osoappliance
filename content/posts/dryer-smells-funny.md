@@ -3,7 +3,6 @@
 title: Dryer Smells Funny
 description: This post explains the importance of addressing a funny smell coming from your dryer, so read on to find out what might be causing the problem and how to fix it.
 keywords: dryer
-publishDate: 7/22/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

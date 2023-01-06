@@ -3,7 +3,6 @@
 title: How To Repair Bosch Motor Brushes
 description: Replacing Bosch motor brushes is a quick and cheap process, and can often fix common washing machine errors. Learn the process in this article.
 keywords: how to repair bosch
-publishDate: 5/30/2022
 tags: ["Brands", "Guide", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

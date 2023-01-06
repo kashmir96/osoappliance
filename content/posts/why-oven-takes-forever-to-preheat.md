@@ -3,7 +3,6 @@
 title: Why Oven Takes Forever To Preheat
 description: "If you’ve ever wondered why your oven takes forever to preheat, you’re not alone. In a world where everything seems to happen quic...check it out to learn"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Rent To Own Appliances
 description: "If you’re looking for a way to purchase new appliances without having to come out of pocket with a lump sum, rent-to-own appliance...take a moment to check it out "
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

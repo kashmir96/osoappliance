@@ -3,7 +3,6 @@
 title: Dishwasher What To Put In
 description: "If you’re a first-time dishwasher owner, you may be wondering what you can and can’t put in your dishwasher. The truth is, almost ...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

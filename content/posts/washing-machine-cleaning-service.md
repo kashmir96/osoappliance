@@ -3,7 +3,6 @@
 title: Washing Machine Cleaning Service
 description: "If you’re like most people, your washing machine is one of the hardest working appliances in your home. It sees a lot of use, and ...read now to learn more"
 keywords: washing machine
-publishDate: 2/5/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

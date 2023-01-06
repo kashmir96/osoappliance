@@ -3,7 +3,6 @@
 title: Dangers Of Dryer Venting Into House
 description: "If you’re venting your dryer directly into your house, then you’re putting yourself and your family at risk of a serious fire haza...scroll on and keep learning"
 keywords: dryer
-publishDate: 1/7/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

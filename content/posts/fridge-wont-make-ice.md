@@ -3,7 +3,6 @@
 title: Fridge Wont Make Ice
 description: This post outlines several simple steps to help diagnose and fix a refrigerator that is not making ice, so if you're experiencing this issue, read on to learn how to get your fridge back up and running quickly!
 keywords: fridge
-publishDate: 10/7/2022
 tags: ["Appliances", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Most Reliable Appliance Brands 2021
 description: "When it comes to buying a new appliance, reliability is one of the most important factors. You want an appliance that is going to ...learn more"
 keywords: most reliable brands
-publishDate: 12/12/2022
 tags: ["Appliance Brand", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

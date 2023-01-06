@@ -3,7 +3,6 @@
 title: Small Appliances For Tiny Homes
 description: "Tiny homes are becoming increasingly popular, and many people are looking for ways to make the most of their limited space. Small ...see more"
 keywords: appliances
-publishDate: 1/16/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

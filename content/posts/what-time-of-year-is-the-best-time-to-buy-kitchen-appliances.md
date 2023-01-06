@@ -3,7 +3,6 @@
 title: What Time Of Year Is The Best Time To Buy Kitchen Appliances
 description: "When it comes to buying kitchen appliances, timing is everything. The best time of year to purchase appliances can depend on the t...see more detail"
 keywords: best buy kitchen appliances
-publishDate: 2/25/2022
 tags: ["Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

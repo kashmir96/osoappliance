@@ -3,7 +3,6 @@
 title: Solo Stove What Is It
 description: "Solo Stove is an innovative, efficient, and eco-friendly way to cook outdoors. It is a lightweight and compact stove that uses a u...learn about it in this post"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

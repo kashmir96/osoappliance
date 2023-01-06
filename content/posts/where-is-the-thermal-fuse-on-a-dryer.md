@@ -3,7 +3,6 @@
 title: Where Is The Thermal Fuse On A Dryer
 description: "Thermal fuses are an important component of a dryer and help to prevent fires by cutting off the power supply if the dryer becomes...get more detail"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

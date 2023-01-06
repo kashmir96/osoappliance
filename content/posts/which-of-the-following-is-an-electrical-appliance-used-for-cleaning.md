@@ -3,7 +3,6 @@
 title: Which Of The Following Is An Electrical Appliance Used For Cleaning
 description: "When it comes to cleaning, there are several different types of electrical appliances that can be used to make the job easier. Fro...learn more"
 keywords: appliance
-publishDate: 6/2/2022
 tags: ["Appliance Consumption", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

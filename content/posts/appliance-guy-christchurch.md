@@ -3,7 +3,6 @@
 title: Appliance Guy Christchurch
 description: "If you have a damaged appliance in Christchurch, don't worry! There are plenty of appliance repair guys in the city who can help. ...learn more about it now"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Lines
 description: "Are Washing Lines Obsolete?...get more detail"
 keywords: washing
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

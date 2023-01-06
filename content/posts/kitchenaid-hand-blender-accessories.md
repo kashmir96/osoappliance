@@ -3,7 +3,6 @@
 title: Kitchenaid Hand Blender Accessories
 description: "If you’re looking to take your kitchen creations to the next level, KitchenAid hand blender accessories are a great way to do it! ...scroll on and keep learning"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

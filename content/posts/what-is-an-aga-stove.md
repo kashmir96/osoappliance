@@ -3,7 +3,6 @@
 title: What Is An Aga Stove
 description: "An AGA stove is a type of cast-iron stove that has been popular in the United Kingdom since the 1920s. It is a traditional stove t...you wont regret reading on"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: When Gas Stove Wont Light
 description: "If your gas stove won't light, it could be due to a variety of reasons. The most common cause is a faulty igniter or pilot light. ...see more"
 keywords: gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

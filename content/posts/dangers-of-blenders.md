@@ -3,7 +3,6 @@
 title: Dangers Of Blenders
 description: "Blenders are a handy kitchen appliance used to make shakes, smoothies, and other blended recipes. While they’re convenient and oft...get the full scoop"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

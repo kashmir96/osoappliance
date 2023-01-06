@@ -3,7 +3,6 @@
 title: Dishwasher Drawer Nz
 description: "A dishwasher drawer is a great way to make the most of your kitchen space while still getting the convenience of a dishwasher. Dis...see more detail"
 keywords: dishwasher nz
-publishDate: 10/22/2022
 tags: ["Dishwasher", "New Zealand", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

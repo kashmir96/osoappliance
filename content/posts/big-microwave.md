@@ -3,7 +3,6 @@
 title: Big Microwave
 description: "When you think of microwaves, the first thing that comes to mind is usually convenience. After all, who doesn’t love being able to...find out now"
 keywords: microwave
-publishDate: 3/25/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

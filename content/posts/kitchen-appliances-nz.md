@@ -3,7 +3,6 @@
 title: Kitchen Appliances Nz
 description: "The kitchen is the heart of any home, and having the right appliances can make all the difference in creating a comfortable and ef...continue on"
 keywords: kitchen nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

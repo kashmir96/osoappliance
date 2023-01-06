@@ -3,7 +3,6 @@
 title: Consumer Reviews Carpet Cleaners
 description: "Carpet cleaners are a necessity for any home. They help you keep your carpets and rugs looking fresh and clean all year round. But...get more info"
 keywords: reviews
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

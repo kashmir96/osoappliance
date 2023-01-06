@@ -3,7 +3,6 @@
 title: Dangers Of Infrared Heaters
 description: "Infrared heaters are a great resource for providing warmth and comfort in your home. However, they can also present some hazards i...see more detail"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

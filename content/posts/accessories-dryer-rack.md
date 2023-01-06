@@ -3,7 +3,6 @@
 title: Accessories Dryer Rack
 description: "A drying rack is a simple, yet versatile tool that can help make laundry day a little easier. It’s an ideal solution for those who...swipe up to find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

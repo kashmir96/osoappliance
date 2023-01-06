@@ -3,7 +3,6 @@
 title: Washing Machine Taps Nz
 description: "Washing Machine Taps in NZ are an essential part of any washing machine installation. They provide the necessary connection betwee...get the full scoop"
 keywords: washing machine nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Electrical Appliance Usage Costs
 description: "When it comes to your energy bill, it’s easy to overlook the cost of running electrical appliances. But the fact is that electrica...keep going and find out"
 keywords: appliance usage
-publishDate: 6/14/2023
 tags: ["Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

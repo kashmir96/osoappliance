@@ -3,7 +3,6 @@
 title: Dishwasher Service Christchurch
 description: "Are you looking for dishwasher service options in Christchurch? If so, you’ve come to the right place! Dishwashers are an essentia...see more detail"
 keywords: dishwasher christchurch
-publishDate: 8/16/2022
 tags: ["Washing Machine", "Appliance Repair", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

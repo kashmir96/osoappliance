@@ -3,7 +3,6 @@
 title: Air Purifier Electric Heaters
 description: "Air purifier electric heaters are a great way to keep your home or office warm and clean. With an air purifier heater, you can get...swipe up to find out"
 keywords: air purifier
-publishDate: 3/25/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Conditioner Condenser Scrap Price
 description: "Your air conditioner condenser is one of the most important components in your cooling system. It’s responsible for transferring h...scroll on and keep learning"
 keywords: air conditioner scrap
-publishDate: 4/8/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Condenser Dryer Overfilling With Water
 description: This blog post explains what causes condenser dryers to overfill with water and provides practical tips to help prevent it, so if you own a condenser dryer, read on to find out more!
 keywords: dryer
-publishDate: 11/8/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

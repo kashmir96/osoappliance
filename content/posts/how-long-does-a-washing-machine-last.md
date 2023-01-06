@@ -3,7 +3,6 @@
 title: How Long Does A Washing Machine Last
 description: "When it comes to appliances, the life expectancy of a washing machine can vary greatly depending on the type and quality of the ma...swipe up to find out"
 keywords: washing machine last
-publishDate: 6/21/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

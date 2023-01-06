@@ -3,7 +3,6 @@
 title: How Many Litres Is The Biggest Microwave
 description: "The largest microwave available on the market today is the Sharp R-1874 Over-the-Range Convection Microwave Oven, which has a capa...get more info"
 keywords: microwave
-publishDate: 6/11/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

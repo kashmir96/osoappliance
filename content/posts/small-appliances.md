@@ -3,7 +3,6 @@
 title: Small Appliances
 description: "Small appliances are an important part of our everyday lives, from kitchen appliances to laundry and cleaning products. They make ...learn about it in this post"
 keywords: appliances
-publishDate: 1/10/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

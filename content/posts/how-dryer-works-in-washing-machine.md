@@ -3,7 +3,6 @@
 title: How Dryer Works In Washing Machine
 description: "Are you wondering how a dryer works in a washing machine? Well, we’re here to break it down for you!...take a moment to check it out "
 keywords: dryer washing machine
-publishDate: 12/1/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

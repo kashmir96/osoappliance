@@ -3,7 +3,6 @@
 title: Dryer Smells Like Fish
 description: "If your dryer smells like fish, it could be a sign of a few different problems. It is important to identify and address the issue ...learn about it in this post"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Oven In The World
 description: "Have you ever wondered what the world’s biggest oven is? Well, it may surprise you to learn that it’s not a commercial kitchen app...learn more about it now"
 keywords: oven
-publishDate: 5/25/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

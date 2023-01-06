@@ -3,7 +3,6 @@
 title: Small Appliances List
 description: "Small appliances are an essential part of any home. From coffee makers and toasters to blenders and food processors, small applian...keep going and find out"
 keywords: appliances
-publishDate: 1/13/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

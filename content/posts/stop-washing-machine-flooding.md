@@ -3,7 +3,6 @@
 title: Stop Washing Machine Flooding
 description: Learn how to prevent a washing machine flood, and protect your home and belongings from potential damage, by reading this post.
 keywords: washing machine
-publishDate: 11/7/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

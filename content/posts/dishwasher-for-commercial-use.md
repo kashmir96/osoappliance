@@ -3,7 +3,6 @@
 title: Dishwasher For Commercial Use
 description: "A commercial dishwasher is an essential piece of equipment for any restaurant, catering business, or other foodservice establishme...keep going and find out"
 keywords: dishwasher use
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

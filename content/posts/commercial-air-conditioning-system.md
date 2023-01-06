@@ -3,7 +3,6 @@
 title: Commercial Air Conditioning System
 description: "Commercial air conditioning systems are designed to provide cooling and comfort in large buildings. These systems are used in many...keep going and find out"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

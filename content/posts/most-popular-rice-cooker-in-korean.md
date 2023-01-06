@@ -3,7 +3,6 @@
 title: Most Popular Rice Cooker In Korean
 description: "Korea is a country known for its delicious food, and rice is a staple of the Korean diet. While most people in Korea traditionally...scroll on and keep learning"
 keywords: most popular cooker
-publishDate: 1/29/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

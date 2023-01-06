@@ -3,7 +3,6 @@
 title: Air Conditioning Problems
 description: "Air conditioning is a luxury that many of us take for granted until it stops working. Unfortunately, air conditioning problems are...get the full scoop"
 keywords: air
-publishDate: 7/4/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

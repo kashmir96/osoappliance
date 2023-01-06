@@ -3,7 +3,6 @@
 title: Stove With Oven Called
 description: "If you're looking for the ultimate in convenience and versatility in your kitchen, then a stove with oven is the perfect choice. T...continue on"
 keywords: stove oven
-publishDate: 12/12/2022
 tags: ["Oven", "Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

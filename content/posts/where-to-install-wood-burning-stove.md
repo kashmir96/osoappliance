@@ -3,7 +3,6 @@
 title: Where To Install Wood Burning Stove
 description: "A wood burning stove is an ideal way to heat your home and provide a cozy atmosphere. But before you get to the point of lighting ...scroll on and keep learning"
 keywords: install stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Universal Pcb
 description: "Are you a consumer looking to learn more about washing machine universal PCBs? If so, you’ve come to the right place! Universal PC...scroll on and keep learning"
 keywords: washing machine
-publishDate: 2/11/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

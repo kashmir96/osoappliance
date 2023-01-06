@@ -3,7 +3,6 @@
 title: Trieste 6Kg Dryer
 description: "The Trieste 6kg dryer is a great choice for those looking for a reliable and efficient dryer that won't break the bank. This dryer...lets find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

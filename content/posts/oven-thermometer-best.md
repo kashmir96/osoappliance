@@ -3,7 +3,6 @@
 title: Oven Thermometer Best
 description: "When it comes to baking, having an oven thermometer is essential for accurate temperature readings. An oven thermometer can help e...get the full scoop"
 keywords: oven best
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Can You Get Electrocuted From Appliances
 description: This post explains why you should be aware of the potential dangers of electrical appliances, and why you should read on to learn more.
 keywords: appliances
-publishDate: 11/6/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

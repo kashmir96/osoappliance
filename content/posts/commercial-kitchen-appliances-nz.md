@@ -3,7 +3,6 @@
 title: Commercial Kitchen Appliances Nz
 description: "If you are looking to equip your commercial kitchen with the best appliances and equipment, New Zealand is home to some of the fin...get more info"
 keywords: kitchen appliances nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

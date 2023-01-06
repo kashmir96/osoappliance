@@ -3,7 +3,6 @@
 title: Difference Between Fridge And Freezer
 description: "When deciding on a new kitchen appliance, it is important to understand the difference between a fridge and a freezer. The two app...learn about it in this post"
 keywords: fridge
-publishDate: 4/12/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Purifier Common Problems
 description: "Air purifiers are essential appliances that remove contaminants from the air in our homes and offices. While they can provide a gr...you wont regret reading on"
 keywords: air purifier
-publishDate: 3/18/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

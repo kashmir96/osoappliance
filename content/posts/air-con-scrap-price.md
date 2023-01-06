@@ -3,7 +3,6 @@
 title: Air Con Scrap Price
 description: "As temperatures rise, so do the costs of cooling our homes and businesses. Air conditioners are one of the most expensive items to...find out now"
 keywords: air con scrap
-publishDate: 3/24/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

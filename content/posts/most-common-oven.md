@@ -3,7 +3,6 @@
 title: Most Common Oven
 description: "Ovens are a great appliance to have in your home, but like all appliances, they can experience problems over time. The most common...get more info"
 keywords: most popular oven brands
-publishDate: 7/25/2022
 tags: ["Oven", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

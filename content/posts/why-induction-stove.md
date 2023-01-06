@@ -3,7 +3,6 @@
 title: Why Induction Stove
 description: "Induction stoves are becoming increasingly popular due to their convenience and energy-saving capabilities. Induction stoves use e...learn about it in this post"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

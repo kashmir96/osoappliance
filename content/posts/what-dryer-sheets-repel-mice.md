@@ -3,7 +3,6 @@
 title: What Dryer Sheets Repel Mice
 description: "Are you looking for a way to repel mice from your home? It may surprise you to learn that dryer sheets can be used to keep mice aw...keep reading to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

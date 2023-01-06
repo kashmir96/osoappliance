@@ -3,7 +3,6 @@
 title: Pizza Ovens Christchurch
 description: "Pizza ovens are becoming increasingly popular in Christchurch as a way to cook delicious pizzas. They provide a unique cooking exp...continue on"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

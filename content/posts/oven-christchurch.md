@@ -3,7 +3,6 @@
 title: Oven Christchurch
 description: "If you’re looking for an oven in Christchurch, you’ve come to the right place. This city is home to a great selection of ovens, fr...find out now"
 keywords: oven christchurch
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: When Oven Says Loc
 description: "When your oven displays the message LOC it means that the ovens control lock feature has been activated. This feature is design...get more detail"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Is A Washing Machine Heavier Than A Dishwasher
 description: "When it comes to appliances, one of the most common questions is whether a washing machine is heavier than a dishwasher. The answe...keep reading to learn"
 keywords: washing machine dishwasher
-publishDate: 7/14/2022
 tags: ["Washing Machine", "Dishwasher", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

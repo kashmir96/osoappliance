@@ -3,7 +3,6 @@
 title: Air Purifier Common Issues
 description: "Air purifiers are a great way to get rid of dust, pollen, and other particles in the air. But just like any other electronic devic...get more info"
 keywords: air purifier
-publishDate: 3/16/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Blender Used On Masterchef
 description: "Blender is one of the most essential tools in the kitchen, and it’s a must-have item for MasterChef contestants. With its powerful...learn about it in this post"
 keywords: blender
-publishDate: 4/6/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

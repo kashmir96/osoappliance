@@ -3,7 +3,6 @@
 title: Best Place To Buy Laundry Appliances
 description: "When it comes to buying laundry appliances, you want to make sure that you are getting the best quality products at the best price...see more detail"
 keywords: best buy laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

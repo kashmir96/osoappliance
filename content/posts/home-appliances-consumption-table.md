@@ -3,7 +3,6 @@
 title: Home Appliances Consumption Table
 description: "As a homeowner, it is important to understand how much electricity is being consumed by your home appliances. To help you better u...find out now"
 keywords: appliances consumption
-publishDate: 7/5/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

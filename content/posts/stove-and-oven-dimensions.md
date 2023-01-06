@@ -3,7 +3,6 @@
 title: Stove And Oven Dimensions
 description: "Are you looking for the perfect stove or oven for your kitchen? If so, you may be wondering what type of dimensions are commonly u...take a moment to check it out "
 keywords: stove oven
-publishDate: 12/12/2022
 tags: ["Oven", "Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Oven Gloves Best
 description: "As a kitchen essential, oven gloves are an invaluable tool for protecting your hands from hot surfaces. But if not used correctly,...get more detail"
 keywords: oven best
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

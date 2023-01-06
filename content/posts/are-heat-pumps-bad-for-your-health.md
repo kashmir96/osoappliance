@@ -3,7 +3,6 @@
 title: Are Heat Pumps Bad For Your Health
 description: "A heat pump is a type of home heating and cooling system that moves heat from one place to another. Heat pumps use electricity to ...get the full scoop"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

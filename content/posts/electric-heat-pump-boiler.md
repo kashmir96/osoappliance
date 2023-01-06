@@ -3,7 +3,6 @@
 title: Electric Heat Pump Boiler
 description: "An electric heat pump boiler is a type of boiler that uses electricity to heat water, instead of traditional fuel sources such as ...learn more"
 keywords: heat pump
-publishDate: 6/10/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

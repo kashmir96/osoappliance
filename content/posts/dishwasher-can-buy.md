@@ -3,7 +3,6 @@
 title: Dishwasher Can Buy
 description: "If you’re in the market for a new dishwasher, you’ve come to the right place. Dishwashers are a great addition to any kitchen, pro...learn more about it now"
 keywords: dishwasher buy
-publishDate: 10/15/2022
 tags: ["Dishwasher", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

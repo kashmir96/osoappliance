@@ -3,7 +3,6 @@
 title: Dryer Makes Loud Noise Then Stops
 description: "Do you have a loud dryer that suddenly stops? This is a common problem and can be caused by several different factors. In this blo...learn more about it now"
 keywords: dryer
-publishDate: 11/5/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

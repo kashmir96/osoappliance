@@ -3,7 +3,6 @@
 title: Gas Stove Repair Christchurch
 description: "A gas stove is a common and essential appliance in many homes, so it’s important to keep it running in tip-top condition. If you’r...read now to learn more"
 keywords: gas stove repair christchurch
-publishDate: 12/12/2022
 tags: ["Stove", "Christchurch", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

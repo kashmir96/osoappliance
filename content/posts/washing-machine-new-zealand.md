@@ -3,7 +3,6 @@
 title: Washing Machine New Zealand
 description: "If you live in New Zealand and you're looking to upgrade your washing machine, you've come to the right place. With so many option...read now to learn more"
 keywords: washing machine new zealand
-publishDate: 3/10/2023
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

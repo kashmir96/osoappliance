@@ -3,7 +3,6 @@
 title: Dishwasher What Do You Need
 description: "If you’re in the market for a new dishwasher, you’ll want to make sure you know all the basics before you make your purchase. Dish...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

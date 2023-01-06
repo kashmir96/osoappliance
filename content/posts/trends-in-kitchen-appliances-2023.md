@@ -3,7 +3,6 @@
 title: Trends In Kitchen Appliances 2023
 description: Learn about the latest trends in kitchen appliances that will make cooking easier and more efficient in 2023 read on to find out more!
 keywords: kitchen appliances
-publishDate: 11/2/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

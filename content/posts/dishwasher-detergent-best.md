@@ -3,7 +3,6 @@
 title: Dishwasher Detergent Best
 description: "When it comes to keeping your dishes clean and sparkling, dishwasher detergent is one of the most important components. The right ...see more detail"
 keywords: dishwasher best
-publishDate: 10/21/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

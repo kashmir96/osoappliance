@@ -3,7 +3,6 @@
 title: Does A Dryer Need Transport Bolts
 description: "The short answer is no, a dryer does not need transport bolts. Transport bolts are only used on washing machines and not dryers be...swipe up to find out"
 keywords: dryer
-publishDate: 7/18/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

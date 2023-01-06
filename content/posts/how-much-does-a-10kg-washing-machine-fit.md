@@ -3,7 +3,6 @@
 title: How Much Does A 10Kg Washing Machine Fit
 description: This post explains why size matters when it comes to selecting a washing machine and provides helpful information on the amount of space 10kg washing machines take up, so read on to find out more!
 keywords: washing machine
-publishDate: 11/22/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

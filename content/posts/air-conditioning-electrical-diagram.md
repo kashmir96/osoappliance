@@ -3,7 +3,6 @@
 title: Air Conditioning Electrical Diagram
 description: "Air conditioning electrical diagrams are incredibly important for understanding how an air conditioner works. They provide a visua...read now to learn more"
 keywords: air
-publishDate: 6/9/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

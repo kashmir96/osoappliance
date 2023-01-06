@@ -3,7 +3,6 @@
 title: Stop Washing Machine Ruining Clothes
 description: "Washing machines are a great way to keep your clothes clean, but if you don't take care of them, they can end up ruining your clot...find out now"
 keywords: washing machine
-publishDate: 7/22/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

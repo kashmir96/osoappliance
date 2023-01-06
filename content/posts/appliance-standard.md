@@ -3,7 +3,6 @@
 title: Appliance Standard
 description: "Appliance standardization is an important step in creating a more efficient and safe home. Standardization involves making sure al...scroll on and keep learning"
 keywords: standard
-publishDate: 12/12/2022
 tags: ["Appliance Rules and Regulations"]
 author: Curtis
 categories: ["Household Appliances"]

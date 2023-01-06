@@ -3,7 +3,6 @@
 title: Automotive Air Conditioning Replacement Parts
 description: "If your car's air conditioning system needs to be replaced, you may be overwhelmed by the number of replacement parts you need to ...keep going and find out"
 keywords: air replacement parts
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

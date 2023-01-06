@@ -3,7 +3,6 @@
 title: Washing Bag
 description: "When it comes to staying organized, having the right kind of bag can be an absolute lifesaver, especially for those with busy live...you wont regret reading on"
 keywords: washing
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

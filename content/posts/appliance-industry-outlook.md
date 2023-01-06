@@ -3,7 +3,6 @@
 title: Appliance Industry Outlook
 description: "The appliance industry outlook is optimistic, as the sector continues to show strong growth thanks to a variety of factors. Innova...get more info"
 keywords: appliance
-publishDate: 1/6/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

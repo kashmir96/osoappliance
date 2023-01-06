@@ -3,7 +3,6 @@
 title: Dryer Clothes Smell
 description: "If you’ve ever noticed a musty smell coming from your dryer after you’ve finished drying your clothes, it’s likely due to a buildu...get more info"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

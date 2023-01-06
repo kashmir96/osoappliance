@@ -3,7 +3,6 @@
 title: Washing Machine Agitator Pros And Cons
 description: "If you’re in the market for a new washing machine, one of the biggest decisions you’ll have to make is between a machine with an a...learn more"
 keywords: washing machine
-publishDate: 1/15/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

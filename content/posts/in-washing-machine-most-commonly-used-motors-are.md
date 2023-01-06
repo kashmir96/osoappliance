@@ -3,7 +3,6 @@
 title: In Washing Machine Most Commonly Used Motors Are
 description: "Most washing machines use a motor to power the various parts of the machine. The type of motor used depends on the size and comple...continue on"
 keywords: washing machine most
-publishDate: 1/19/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

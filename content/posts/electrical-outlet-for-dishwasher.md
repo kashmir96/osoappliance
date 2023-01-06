@@ -3,7 +3,6 @@
 title: Electrical Outlet For Dishwasher
 description: "Installing an electrical outlet for a dishwasher can seem overwhelming, but with the right preparation and knowledge, it can be an...check it out to learn"
 keywords: dishwasher
-publishDate: 4/22/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

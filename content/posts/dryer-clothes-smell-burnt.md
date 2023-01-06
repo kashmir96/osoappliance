@@ -3,7 +3,6 @@
 title: Dryer Clothes Smell Burnt
 description: "If you’ve ever opened up your dryer to find your clothes smelling like they’ve been through a campfire, you’re not alone. Burnt cl...get more detail"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

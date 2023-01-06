@@ -3,7 +3,6 @@
 title: Freestanding Ovens Christchurch
 description: "Are you looking for a new oven to replace your existing one, or are you just starting out in your first home and need to find an o...get the full scoop"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

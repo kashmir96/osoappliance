@@ -3,7 +3,6 @@
 title: Hire Commercial Dishwasher
 description: "If you run a restaurant, foodservice business, or catering operation, one of the most important pieces of equipment in your kitche...keep reading to learn"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

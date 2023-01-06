@@ -3,7 +3,6 @@
 title: Appliance Pros Christchurch
 description: "Appliance repair pros in Christchurch are highly sought after by homeowners in the area. Not only do they provide an essential ser...get the full scoop"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

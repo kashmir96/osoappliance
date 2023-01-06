@@ -3,7 +3,6 @@
 title: Can Voltage Fluctuation Damage Appliances
 description: "When it comes to electricity, one of the most important factors is voltage. Voltage is the pressure that pushes electrons through ...check it out to learn"
 keywords: appliances
-publishDate: 5/15/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

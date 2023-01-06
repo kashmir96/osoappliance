@@ -3,7 +3,6 @@
 title: Hair Dryer Best Price
 description: "If you’re in the market for a new hair dryer, there’s no need to break the bank. You can find great hair dryers at a variety of pr...scroll on and keep learning"
 keywords: hair dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

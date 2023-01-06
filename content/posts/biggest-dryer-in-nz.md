@@ -3,7 +3,6 @@
 title: Biggest Dryer In Nz
 description: If you're shopping for a new dryer in New Zealand, this blog is the perfect guide to help you identify the biggest model available and make an informed purchase; read on to learn more!
 keywords: dryer nz
-publishDate: 8/28/2022
 tags: ["Dryer", "Appliances", New Zealand]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Air Conditioner Options For Renters
 description: "Summer is here, and with it comes the heat. For renters, air conditioning can be a tricky thing. Depending on the rental agreement...see more"
 keywords: air conditioner
-publishDate: 4/19/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

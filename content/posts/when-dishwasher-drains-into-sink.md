@@ -3,7 +3,6 @@
 title: When Dishwasher Drains Into Sink
 description: "If you’ve recently installed a dishwasher, you may have noticed that the dishwasher drains into the sink. This is a common problem...continue on"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

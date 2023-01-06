@@ -3,7 +3,6 @@
 title: How Much Is A Fridge Freezer
 description: "If you’re in the market for a new refrigerator/freezer, you may be wondering how much is a fridge freezer? The cost of fridge free...check it out to learn"
 keywords: fridge
-publishDate: 12/18/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

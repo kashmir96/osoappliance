@@ -3,7 +3,6 @@
 title: Air Purifier Danger
 description: "Air purifiers are devices that use different technologies to remove particles from the air. They are commonly used in homes, offic...swipe up to find out"
 keywords: air purifier
-publishDate: 3/20/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

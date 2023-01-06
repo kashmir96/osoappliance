@@ -3,7 +3,6 @@
 title: Tv Shows About Appliances
 description: "If you’re looking for a way to stay up-to-date on the latest trends in home appliances, then you should definitely check out TV sh...see more detail"
 keywords: appliances
-publishDate: 12/14/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

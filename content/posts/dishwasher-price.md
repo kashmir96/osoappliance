@@ -3,7 +3,6 @@
 title: Dishwasher Price
 description: "If you’re in the market for a new dishwasher, you’ve probably noticed that there’s a wide range of prices available. From budget-f...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

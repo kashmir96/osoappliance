@@ -3,7 +3,6 @@
 title: Air Cond Scrap Value
 description: "Air Conditioners are one of the most important appliances in any home or business. As such, they can be a valuable asset to any ho...keep going and find out"
 keywords: air cond scrap value
-publishDate: 3/27/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

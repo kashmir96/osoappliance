@@ -3,7 +3,6 @@
 title: Kitchen Appliances Best Time To Buy
 description: "If you’re in the market for new kitchen appliances, timing your purchase correctly can save you a lot of money and help you get th...get more info"
 keywords: kitchen best buy
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

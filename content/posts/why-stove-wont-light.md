@@ -3,7 +3,6 @@
 title: Why Stove Wont Light
 description: "If your stove won't light, chances are that there is an issue with the gas supply, the ignition, or the pilot light. In order to d...get more info"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: What Can I Use If I Dont Have A Stove
 description: "If you don't have a stove, you might be wondering how you can prepare meals. Fortunately, there are many alternatives to using a s...see more detail"
 keywords: use stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

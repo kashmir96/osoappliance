@@ -3,7 +3,6 @@
 title: Auckland Washing Machine Repair
 description: "Are you having trouble with your washing machine in Auckland? Whether it’s a broken belt, a faulty timer, or something else, you n...keep reading to learn"
 keywords: washing machine repair
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

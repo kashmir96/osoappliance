@@ -3,7 +3,6 @@
 title: Electrical Appliance Usage
 description: "In today's world, the use of electrical appliances is almost essential to the way we live our lives. From the refrigerator to the ...get more info"
 keywords: appliance usage
-publishDate: 6/13/2023
 tags: ["Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

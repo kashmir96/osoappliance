@@ -3,7 +3,6 @@
 title: Washing Machine Leak Repair
 description: If your washing machine is leaking, find out how to repair the issue quickly and effectively by reading this post - learn more to get started now!
 keywords: washing machine repair
-publishDate: 9/4/2022
 tags: ["Washing Machine", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Why Dishwasher Leaking
 description: "If your dishwasher is leaking, it can be a frustrating and potentially damaging problem. Fortunately, there are a few common cause...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

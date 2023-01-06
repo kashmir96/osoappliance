@@ -3,7 +3,6 @@
 title: Most Common Vacuum Cleaner Attachments
 description: "Vacuum cleaner attachments are an essential part of any home cleaning routine. They can help you clean tight spaces, dust delicate...keep reading to learn"
 keywords: most vacuum
-publishDate: 2/12/2022
 tags: ["Vacuum", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

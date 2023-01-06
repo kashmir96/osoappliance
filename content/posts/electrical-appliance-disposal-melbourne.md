@@ -3,7 +3,6 @@
 title: Electrical Appliance Disposal Melbourne
 description: "As our lives become increasingly reliant on electrical appliances, it’s important to consider how we dispose of them responsibly w...see more"
 keywords: appliance disposal
-publishDate: 6/6/2023
 tags: ["Appliance Disposal", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

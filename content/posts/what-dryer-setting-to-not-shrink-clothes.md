@@ -3,7 +3,6 @@
 title: What Dryer Setting To Not Shrink Clothes
 description: "Shrinking clothes in the dryer is a common problem for many people, and it can be frustrating when your favorite shirt or pair of ...learn more about it now"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

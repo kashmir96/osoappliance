@@ -3,7 +3,6 @@
 title: Dryer Smells Musty
 description: "If your dryer smells musty, it's likely due to a buildup of lint and other debris in the lint trap, ducts, and exhaust vent. This ...continue on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

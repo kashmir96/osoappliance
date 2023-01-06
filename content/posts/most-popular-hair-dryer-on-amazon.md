@@ -3,7 +3,6 @@
 title: Most Popular Hair Dryer On Amazon
 description: "Hair dryers are an essential part of any beauty routine. Everyone wants to have a salon-perfect hairstyle, but not everyone has th...continue on"
 keywords: most popular hair dryer
-publishDate: 3/14/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

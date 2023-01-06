@@ -3,7 +3,6 @@
 title: Accessories For Samsung Dryer
 description: "When it comes to doing laundry, having the right accessories can make all the difference. If you own a Samsung dryer, then you may...keep reading to learn"
 keywords: samsung dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

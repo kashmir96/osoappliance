@@ -3,7 +3,6 @@
 title: Types Of Dryers
 description: "Dryers are an essential part of any laundry room. They help to quickly and efficiently dry clothes and other items, saving time an...continue on"
 keywords: dryers
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

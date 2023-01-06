@@ -3,7 +3,6 @@
 title: Why Did My Kettle Stop Working
 description: "If you’ve been relying on your kettle to fuel your day, only to find that it has suddenly stopped working, you may be wondering wh...lets find out"
 keywords: kettle
-publishDate: 3/31/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

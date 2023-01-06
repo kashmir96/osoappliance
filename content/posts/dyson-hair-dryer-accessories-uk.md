@@ -3,7 +3,6 @@
 title: Dyson Hair Dryer Accessories Uk
 description: "When it comes to hair dryers, Dyson is a name that stands out from the rest. The company has been at the forefront of innovation i...swipe up to find out"
 keywords: hair dryer
-publishDate: 6/26/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

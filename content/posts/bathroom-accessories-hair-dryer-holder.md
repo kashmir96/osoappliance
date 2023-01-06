@@ -3,7 +3,6 @@
 title: Bathroom Accessories Hair Dryer Holder
 description: "Bathroom accessories hair dryer holders are essential for keeping your bathroom well-organized and clutter-free. Not only do these...learn more about it now"
 keywords: hair dryer
-publishDate: 6/25/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Appliance Disposal", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

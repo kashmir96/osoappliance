@@ -3,7 +3,6 @@
 title: Salvage Value Of Air-Conditioning Units
 description: "A salvage value is the estimated amount that an asset is worth at the end of its useful life. Salvage value is also known as scrap...check it out to learn"
 keywords: value air
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

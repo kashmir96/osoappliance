@@ -3,7 +3,6 @@
 title: Top Commercial Appliance Brands
 description: "As more and more people adopt a modern lifestyle, the need for commercial appliances has grown exponentially. Commercial appliance...get the full scoop"
 keywords: top appliance brands
-publishDate: 12/12/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

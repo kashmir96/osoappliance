@@ -3,7 +3,6 @@
 title: Best Kitchen Appliances To Register For
 description: "Are you planning on registering for your kitchen appliances? Congrats! There are so many great options out there, it can be hard t...get the full scoop"
 keywords: best kitchen appliances
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

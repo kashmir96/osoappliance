@@ -3,7 +3,6 @@
 title: Rent Appliances Christchurch
 description: If you're looking for a way to rent appliances in Christchurch, this post has all the information you need to find the right option for you. Read on to find out more!
 keywords: appliances christchurch
-publishDate: 7/23/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

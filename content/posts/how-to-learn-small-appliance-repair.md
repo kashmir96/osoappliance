@@ -3,7 +3,6 @@
 title: How To Learn Small Appliance Repair
 description: "Are you having trouble with your small home appliances? If so, learning to repair them on your own can be a great way to save time...find out now"
 keywords: how to appliance repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

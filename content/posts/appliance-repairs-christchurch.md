@@ -3,7 +3,6 @@
 title: Appliance Repairs Christchurch
 description: "The thought of having to repair a faulty appliance can be daunting, especially if you don’t know where to start. Fortunately, ther...find out now"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch", "Appliance Repair"]
 author: Curtis
 categories: ["Household Appliances"]

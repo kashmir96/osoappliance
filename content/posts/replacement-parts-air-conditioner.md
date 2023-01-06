@@ -3,7 +3,6 @@
 title: Replacement Parts Air Conditioner
 description: "As the summer months roll around, many people are turning on their air conditioners to keep cool. Unfortunately, when the temperat...get more detail"
 keywords: replacement parts air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

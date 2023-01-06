@@ -3,7 +3,6 @@
 title: Electrical Appliance Installation Certificate
 description: "If you have recently purchased a new electrical appliance, then it is important to ensure that it has been installed correctly and...swipe up to find out"
 keywords: appliance installation
-publishDate: 6/9/2023
 tags: ["Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

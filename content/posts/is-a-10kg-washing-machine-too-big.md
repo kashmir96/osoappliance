@@ -3,7 +3,6 @@
 title: Is A 10Kg Washing Machine Too Big
 description: This post explains why you should choose a washing machine size based on your household size and laundry needs, so if you're in the market for a new washing machine, read on to learn more about why 10kg is too big for some households.
 keywords: washing machine
-publishDate: 12/17/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

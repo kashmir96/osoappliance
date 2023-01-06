@@ -3,7 +3,6 @@
 title: Rent A Portable Air Conditioning Unit
 description: "Summer is here and that means hot days, humid nights, and sweltering heat. If your home or office isn't adequately equipped to man...read now to learn more"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

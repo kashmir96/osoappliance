@@ -3,7 +3,6 @@
 title: Appliances Electric Consumption Philippines
 description: "With rising electricity prices, it is becoming increasingly important to be aware of how much energy your home appliances are cons...swipe up to find out"
 keywords: appliances consumption
-publishDate: 4/22/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

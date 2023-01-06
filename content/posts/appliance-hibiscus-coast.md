@@ -3,7 +3,6 @@
 title: Appliance Hibiscus Coast
 description: "Are you a landlord on the Hibiscus Coast who is looking for an affordable and convenient way to provide your tenants with applianc...lets find out"
 keywords: hibiscus
-publishDate: 12/12/2022
 tags: ["New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

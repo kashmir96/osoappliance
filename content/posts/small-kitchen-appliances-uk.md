@@ -3,7 +3,6 @@
 title: Small Kitchen Appliances Uk
 description: "When it comes to small kitchen appliances, the UK is home to some of the best and most innovative products on the market. From ble...get more info"
 keywords: kitchen appliances
-publishDate: 12/7/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

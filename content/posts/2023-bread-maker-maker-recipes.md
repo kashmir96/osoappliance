@@ -3,7 +3,6 @@
 title: 2023 Bread Maker Maker Recipes
 description: "...get the full scoop"
 keywords: 2023 bread maker
-publishDate: 2/17/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

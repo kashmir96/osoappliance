@@ -3,7 +3,6 @@
 title: Dryers N Reviews
 description: "When it comes to buying a dryer, reviews are an invaluable resource. With all the different makes and models out there, they can h...learn more"
 keywords: dryers reviews
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

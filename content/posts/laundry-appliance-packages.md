@@ -3,7 +3,6 @@
 title: Laundry Appliance Packages
 description: "If you’ve been looking to upgrade your laundry room, purchasing a laundry appliance package can be a great way to get everything y...get the full scoop"
 keywords: laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

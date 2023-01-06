@@ -3,7 +3,6 @@
 title: Commercial Dryers For Sale
 description: "If you’re looking for a reliable and efficient way to dry your laundry, commercial dryers for sale are an ideal choice. These mach...read now to learn more"
 keywords: dryers sale
-publishDate: 2/3/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

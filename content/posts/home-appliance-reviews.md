@@ -3,7 +3,6 @@
 title: Home Appliance Reviews
 description: "When it comes to making a major purchase such as a home appliance, the last thing you want to do is make an uninformed decision. H...get the full scoop"
 keywords: appliance reviews
-publishDate: 1/16/2023
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

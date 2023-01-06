@@ -3,7 +3,6 @@
 title: Hair Dryer Holder Nz
 description: "Hair dryer holders are an essential tool for anyone who blow-dries their hair regularly. Not only do they keep your hair dryer off...read now to learn more"
 keywords: hair dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Appliance Disposal", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

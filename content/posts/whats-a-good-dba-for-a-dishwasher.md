@@ -3,7 +3,6 @@
 title: Whats A Good Dba For A Dishwasher
 description: "A dishwasher is one of the most important appliances in the kitchen. It makes cleaning dishes easier and faster, saving time and e...get more detail"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Reviews On Folex Carpet Cleaner
 description: "When it comes to carpet cleaning, Folex is one of the most trusted brands on the market. Not only do they offer a wide variety of ...take a moment to check it out "
 keywords: reviews
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Machine Washing Best Buy
 description: "When it comes to keeping your clothes clean and looking their best, machine washing is one of the most convenient and effective wa...keep going and find out"
 keywords: washing best buy
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Buy Appliance", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

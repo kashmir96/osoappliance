@@ -3,7 +3,6 @@
 title: Air Purifier Electric Fan
 description: "As the air pollution in cities continues to worsen, many households are now investing in air purifiers and electric fans to improv...get the full scoop"
 keywords: air purifier fan
-publishDate: 3/24/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

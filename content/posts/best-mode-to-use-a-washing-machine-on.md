@@ -3,7 +3,6 @@
 title: Best Mode To Use A Washing Machine On
 description: This post provides an explanation of the best cycle mode to use on a washing machine on a daily basis and why you should use it, so read on to find out why!
 keywords: washing machine
-publishDate: 11/15/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

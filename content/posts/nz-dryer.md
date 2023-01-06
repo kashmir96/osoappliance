@@ -3,7 +3,6 @@
 title: Nz Dryer
 description: "Dryer vent cleaning is an often overlooked but extremely important part of regular home maintenance. Having your dryer vents regul...scroll on and keep learning"
 keywords: nz dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Much Is A Sub Zero Fridge
 description: "Sub-Zero refrigerators are some of the highest quality, most reliable fridges on the market. They are known for their durability a...read now to learn more"
 keywords: fridge
-publishDate: 12/23/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

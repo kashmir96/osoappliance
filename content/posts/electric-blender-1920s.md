@@ -3,7 +3,6 @@
 title: Electric Blender 1920S
 description: "In the 1920s, electric blenders appeared on the market and changed how people prepared food. Before this time, some households had...check it out to learn"
 keywords: blender
-publishDate: 2/2/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

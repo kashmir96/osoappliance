@@ -3,7 +3,6 @@
 title: Commercial Oven Price
 description: "When shopping for a commercial oven, it’s important to consider the price. After all, commercial ovens can vary in price from hund...keep going and find out"
 keywords: oven
-publishDate: 1/21/2023
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

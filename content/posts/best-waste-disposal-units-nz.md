@@ -3,7 +3,6 @@
 title: Best Waste Disposal Units Nz
 description: "Waste disposal units are an efficient and necessary way to get rid of your kitchen waste. They are especially ideal for those livi...keep reading to learn"
 keywords: best disposal nz
-publishDate: 2/28/2022
 tags: ["Appliance Disposal", "New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

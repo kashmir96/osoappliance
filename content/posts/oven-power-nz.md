@@ -3,7 +3,6 @@
 title: Oven Power Nz
 description: "When it comes to powering a kitchen, the oven is one of the biggest energy consumers. Ovens can be a significant drain on your pow...take a moment to check it out "
 keywords: oven power nz
-publishDate: 12/12/2022
 tags: ["Oven", "New Zealand", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

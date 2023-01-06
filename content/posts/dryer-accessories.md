@@ -3,7 +3,6 @@
 title: Dryer Accessories
 description: "We all know that a dryer is an essential appliance in any home. But what about the accessories that can help you get the most out ...get the full scoop"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Oven Turns Off By Itself
 description: "If your oven suddenly turns off by itself, it can be a sign of a number of potential issues. In some cases, the oven may be overhe...get the full scoop"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

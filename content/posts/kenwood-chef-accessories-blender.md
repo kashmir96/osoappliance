@@ -3,7 +3,6 @@
 title: Kenwood Chef Accessories Blender
 description: "The Kenwood Chef is a stand mixer that comes with many useful and versatile accessories. The blender is one of the most useful, al...continue on"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

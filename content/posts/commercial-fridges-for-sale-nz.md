@@ -3,7 +3,6 @@
 title: Commercial Fridges For Sale Nz
 description: "Are you looking for a reliable and efficient commercial fridge for your business in New Zealand? If so, here is an overview of the...learn more about it now"
 keywords: sale nz
-publishDate: 12/26/2022
 tags: ["New Zealand", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

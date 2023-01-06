@@ -3,7 +3,6 @@
 title: Why Kettles Are Shiny
 description: "Kettles are a staple of any kitchen, and they come in all sorts of colors, shapes and sizes. But one thing that most kettles have ...you wont regret reading on"
 keywords: 
-publishDate: 1/1/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

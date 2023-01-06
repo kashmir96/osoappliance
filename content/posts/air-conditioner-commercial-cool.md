@@ -3,7 +3,6 @@
 title: Air Conditioner Commercial Cool
 description: "When the summer months come around, it's time to start thinking about ways to keep your home cool and comfortable. Air conditioner...scroll on and keep learning"
 keywords: air conditioner
-publishDate: 4/6/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

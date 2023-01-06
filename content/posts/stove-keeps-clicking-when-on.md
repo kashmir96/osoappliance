@@ -3,7 +3,6 @@
 title: Stove Keeps Clicking When On
 description: "If your stove keeps clicking when it’s on, it could be caused by a few different things. The most likely culprit is an issue with ...find out now"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

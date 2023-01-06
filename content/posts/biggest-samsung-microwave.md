@@ -3,7 +3,6 @@
 title: Biggest Samsung Microwave
 description: "The Samsung ME21K7010DS/AA 2.1 cu. ft. Countertop Microwave is one of the biggest microwaves available on the market today, offeri...take a moment to check it out "
 keywords: samsung microwave
-publishDate: 6/5/2022
 tags: ["Microwave", "Kitchen Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

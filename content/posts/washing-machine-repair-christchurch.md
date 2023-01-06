@@ -3,7 +3,6 @@
 title: Washing Machine Repair Christchurch
 description: "If you live in Christchurch, New Zealand, you may find yourself needing to repair your washing machine at some point. While the pr...read now to learn more"
 keywords: washing machine repair christchurch
-publishDate: 8/11/2021
 tags: ["Washing Machine", "Dryer", "Appliance Repair", "New Zealand", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

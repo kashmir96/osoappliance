@@ -3,7 +3,6 @@
 title: Dishwasher For Small Business
 description: "A dishwasher is an essential piece of kitchen equipment for any small business. It can help keep your kitchen clean and sanitary, ...find out now"
 keywords: dishwasher
-publishDate: 4/30/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

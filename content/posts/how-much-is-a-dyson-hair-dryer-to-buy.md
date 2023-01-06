@@ -3,7 +3,6 @@
 title: How Much Is A Dyson Hair Dryer
 description: "If you’re in the market for a new hair dryer, you may want to consider investing in a Dyson hair dryer. This high-tech drying tool...continue on"
 keywords: hair dryer
-publishDate: 12/16/2021
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

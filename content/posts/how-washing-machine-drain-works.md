@@ -3,7 +3,6 @@
 title: How Washing Machine Drain Works
 description: "A washing machine drain is an essential part of any home's plumbing system, as it is responsible for removing wastewater from the ...check it out to learn"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

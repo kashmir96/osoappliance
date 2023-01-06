@@ -3,7 +3,6 @@
 title: Ovens Nz Harvey Norman
 description: "Are you in the market for a new oven? If so, then you’ve come to the right place. One of the best places to buy ovens in New Zeala...get the full scoop"
 keywords: nz
-publishDate: 12/12/2022
 tags: ["Oven", "New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: When Should I Get A Bigger Washing Machine
 description: If you're noticing your current washing machine isn't up to the task, then this article will help you decide if it's time to upgrade, so read on to find out more!
 keywords: washing machine
-publishDate: 12/16/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Electrical Appliance Disposal Canberra
 description: "With the advent of new technologies, more and more electrical appliances are being used in our homes and offices. But when these m...get the full scoop"
 keywords: appliance disposal
-publishDate: 6/5/2023
 tags: ["Appliance Disposal", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

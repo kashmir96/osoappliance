@@ -3,7 +3,6 @@
 title: Is Air Purifier Healthy
 description: "Air purifiers are becoming increasingly popular, as people look for ways to improve the air quality in their homes. Many people ar...learn about it in this post"
 keywords: air purifier
-publishDate: 12/24/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

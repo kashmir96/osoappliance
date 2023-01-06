@@ -3,7 +3,6 @@
 title: 2023 Appliance Rebates
 description: "As the world continues to embrace energy efficiency, appliance rebates are becoming increasingly popular. These rebates provide in...learn more"
 keywords: 2023 appliance rebates
-publishDate: 2/12/2023
 tags: ["Appliance Rules and Regulations", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

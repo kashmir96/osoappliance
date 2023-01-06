@@ -3,7 +3,6 @@
 title: How To Easily Move A Dryer
 description: "Moving a dryer can be a daunting task, especially if it's your first time. But with a few simple steps, you can easily move your d...see more"
 keywords: how to dryer
-publishDate: 7/10/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

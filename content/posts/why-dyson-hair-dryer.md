@@ -3,7 +3,6 @@
 title: Why Dyson Hair Dryer
 description: "If you’re looking for a hair dryer that is sure to give you salon-quality results, then the Dyson hair dryer is the perfect choice...swipe up to find out"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

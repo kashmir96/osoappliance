@@ -3,7 +3,6 @@
 title: Used Appliance Parts Edmonton
 description: "If you’re looking for used appliance parts in Edmonton, you’ve come to the right place! Edmonton is a great city for finding all k...you wont regret reading on"
 keywords: appliance parts
-publishDate: 2/1/2022
 tags: ["Appliance Consumption", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

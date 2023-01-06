@@ -3,7 +3,6 @@
 title: Drop Off Laundry Service Christchurch
 description: Discover why using drop off laundry services in Christchurch is an easy and convenient way to get your laundry done; read on to find out more!
 keywords: laundry service christchurch
-publishDate: 8/27/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Appliances Christchurch"]

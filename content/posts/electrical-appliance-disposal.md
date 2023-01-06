@@ -3,7 +3,6 @@
 title: Electrical Appliance Disposal
 description: "Did you know that improper disposal of electrical appliances can be hazardous to the environment? Electrical appliances contain a ...get more info"
 keywords: appliance disposal
-publishDate: 6/4/2023
 tags: ["Appliance Disposal", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

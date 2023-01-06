@@ -3,7 +3,6 @@
 title: Biggest Portable Blender Appliance
 description: "The biggest portable blender appliance available in the market today is the NutriBullet Pro. This blender is perfect for making sm...get more info"
 keywords: blender appliance
-publishDate: 6/2/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

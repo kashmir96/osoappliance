@@ -3,7 +3,6 @@
 title: Dryer Pcb
 description: "Are you wondering what a dryer PCB is? It is an important component of many clothes dryers on the market today and understanding i...swipe up to find out"
 keywords: dryer
-publishDate: 2/21/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

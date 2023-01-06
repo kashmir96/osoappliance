@@ -3,7 +3,6 @@
 title: Most Popular Hair Dryer Brush
 description: "A hair dryer brush is a styling tool that combines the functionality of a blow dryer and a round brush into one device. This multi...find out now"
 keywords: most popular hair dryer
-publishDate: 3/16/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

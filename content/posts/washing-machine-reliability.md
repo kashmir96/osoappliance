@@ -3,7 +3,6 @@
 title: Washing Machine Reliability
 description: "The reliability of a washing machine is an important factor to consider when making a purchase, as it will determine how long the ...lets find out"
 keywords: washing machine
-publishDate: 3/12/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

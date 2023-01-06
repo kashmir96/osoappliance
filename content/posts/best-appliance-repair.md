@@ -3,7 +3,6 @@
 title: Best Appliance Repair
 description: "When your kitchen or laundry appliances stop working, it can be a major inconvenience. Calling a professional appliance repair tec...get the full scoop"
 keywords: best repair
-publishDate: 12/12/2022
 tags: ["Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

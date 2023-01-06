@@ -3,7 +3,6 @@
 title: How Much Is Hair Dryer
 description: "When it comes to styling our hair, a hair dryer is essential. It helps us create the perfect look in a short amount of time and wi...continue on"
 keywords: hair dryer
-publishDate: 12/28/2021
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

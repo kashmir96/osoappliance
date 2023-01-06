@@ -3,7 +3,6 @@
 title: Top Range Hood Inserts
 description: "Range hood inserts are a great way to improve your kitchen’s air quality and reduce the amount of smoke, odors, and grease that ca...scroll on and keep learning"
 keywords: top range
-publishDate: 7/18/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

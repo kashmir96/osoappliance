@@ -3,7 +3,6 @@
 title: Best Hair Dryer
 description: "If you’re in the market for a new hair dryer, you’ve probably noticed that there are a lot of options out there. From basic models...see more"
 keywords: best hair dryer
-publishDate: 8/17/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Not Spinning
 description: If your dryer isn't spinning, this post provides simple steps to troubleshoot the issue yourself; read on to find out more!
 keywords: dryer
-publishDate: 9/21/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

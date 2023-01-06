@@ -3,7 +3,6 @@
 title: Rent Large Air Conditioning Unit
 description: "When the summer months hit, it is essential to have a reliable air conditioning unit. If you don't have central air or your curren...get more info"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

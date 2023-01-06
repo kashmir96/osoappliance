@@ -3,7 +3,6 @@
 title: Good Appliance Rentals
 description: "If you’re looking for a way to upgrade your home without breaking the bank, appliance rentals can be a great option. Appliance ren...get more detail"
 keywords: appliance
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

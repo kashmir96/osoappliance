@@ -3,7 +3,6 @@
 title: Blender Used In Hollywood Movies
 description: "Breakfast scenes in Hollywood movies are often full of mouthwatering dishes and scrumptious treats. But what you may not realize i...you wont regret reading on"
 keywords: blender
-publishDate: 4/8/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

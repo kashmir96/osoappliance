@@ -3,7 +3,6 @@
 title: Electrical Blender Definition
 description: "A blender is a kitchen appliance used for grinding, blending, and blending food ingredients. Blenders can be electric or manual. E...get more info"
 keywords: blender
-publishDate: 4/8/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Professional Hair Dryer
 description: "When it comes to achieving the perfect hairstyle, a professional hair dryer is an essential tool. Professional hair dryers are pow...see more"
 keywords: most popular hair dryer
-publishDate: 3/20/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

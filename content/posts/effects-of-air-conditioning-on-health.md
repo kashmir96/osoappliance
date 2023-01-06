@@ -3,7 +3,6 @@
 title: Effects Of Air Conditioning On Health
 description: "Air conditioning is a technological marvel that keeps us cool and comfortable in the summer months. But while it may be a blessing...find out now"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

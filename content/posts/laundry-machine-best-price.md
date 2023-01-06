@@ -3,7 +3,6 @@
 title: Laundry Machine Best Price
 description: "If you’re in the market for a used laundry machine, you may be considering buying a second-hand model. Whether you’re looking to s...check it out to learn"
 keywords: laundry best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

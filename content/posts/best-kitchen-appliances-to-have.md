@@ -3,7 +3,6 @@
 title: Best Kitchen Appliances To Have
 description: "When it comes to having the right kitchen appliances, it can make all the difference in your cooking experience. Whether you’re a ...scroll on and keep learning"
 keywords: best kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

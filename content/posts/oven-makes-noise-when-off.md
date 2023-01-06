@@ -3,7 +3,6 @@
 title: Oven Makes Noise When Off
 description: "If you have ever experienced your oven making noise even after it is turned off, you know how unsettling it can be. Not only is th...swipe up to find out"
 keywords: oven
-publishDate: 1/16/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

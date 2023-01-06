@@ -3,7 +3,6 @@
 title: Why Washing Machine Not Spinning
 description: "Are you finding that your washing machine isn’t spinning? Not being able to rely on your washing machine for clean clothes can be ...you wont regret reading on"
 keywords: washing machine
-publishDate: 3/26/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

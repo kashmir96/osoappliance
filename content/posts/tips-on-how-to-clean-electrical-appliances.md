@@ -3,7 +3,6 @@
 title: Tips On How To Clean Electrical Appliances
 description: "Cleaning electrical appliances is an important part of maintaining them and keeping them in good working order. Here are some tips...keep going and find out"
 keywords: how to clean appliances
-publishDate: 5/31/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Electric Heat Pump Cost
 description: "A heat pump is an energy efficient way to heat and cool your home, as it uses electricity to transfer heat from one place to anoth...find out now"
 keywords: heat pump
-publishDate: 6/6/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

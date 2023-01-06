@@ -3,7 +3,6 @@
 title: Appliance Parts Business For Sale
 description: "If you’re looking to get into the appliance parts business, you might be wondering if it’s a good idea. The answer is yes! Applian...read now to learn more"
 keywords: appliance parts sale
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dishwasher What Is Dba
 description: "DBA explains how loud a dishwasher is....learn more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

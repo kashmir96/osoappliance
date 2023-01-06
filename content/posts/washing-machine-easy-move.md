@@ -3,7 +3,6 @@
 title: Washing Machine Easy Move
 description: "Do you dread the thought of having to move your washing machine from one place to another? Moving a washing machine can be a daunt...get the full scoop"
 keywords: washing machine
-publishDate: 2/21/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

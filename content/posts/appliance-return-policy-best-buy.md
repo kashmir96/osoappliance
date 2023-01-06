@@ -3,7 +3,6 @@
 title: Appliance Return Policy Best Buy
 description: "If you're in the market for a new appliance, it's important to understand the return policy of the store you buy it from. Differen...read now to learn more"
 keywords: best buy
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

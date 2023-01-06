@@ -3,7 +3,6 @@
 title: Used Appliances Christchurch
 description: "When it comes to shopping for appliances, many people in Christchurch are looking for ways to save money. One of the most popular ...swipe up to find out"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

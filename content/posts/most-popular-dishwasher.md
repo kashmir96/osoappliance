@@ -3,7 +3,6 @@
 title: Most Popular Dishwasher
 description: "When it comes to finding the perfect dishwasher, there are a few features that make all the difference. From more efficient cleani...you wont regret reading on"
 keywords: most popular dishwasher
-publishDate: 1/22/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

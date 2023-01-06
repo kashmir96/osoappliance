@@ -3,7 +3,6 @@
 title: Jug Kettle Terbaik
 description: "Are you looking for the best jug kettle for your home kitchen? With so many different options available, it can be hard to decide ...learn more about it now"
 keywords: jug kettle
-publishDate: 11/14/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

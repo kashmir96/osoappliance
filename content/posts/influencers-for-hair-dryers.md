@@ -3,7 +3,6 @@
 title: Influencers For Hair Dryers
 description: "The world of beauty is changing rapidly, and influencers are playing a huge role in the success of many products. With the rise of...continue on"
 keywords: dryers
-publishDate: 12/21/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dispose Air Conditioner Ct
 description: "As summer approaches, many of us will be considering the disposal of our old air conditioners. Air conditioners are a great way to...see more"
 keywords: dispose air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Washing Machine Shakes
 description: "Washing machines are designed to operate quietly and efficiently, but sometimes they can shake, vibrate, and even make a loud bang...see more detail"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

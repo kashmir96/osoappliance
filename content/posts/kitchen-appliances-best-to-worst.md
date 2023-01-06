@@ -3,7 +3,6 @@
 title: Kitchen Appliances Best To Worst
 description: "When it comes to the kitchen, having the right appliances can make all the difference in your cooking experience. From blenders to...read now to learn more"
 keywords: kitchen best
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

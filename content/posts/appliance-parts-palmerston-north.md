@@ -3,7 +3,6 @@
 title: Appliance Parts Palmerston North
 description: "Welcome to the blog post about appliance parts for sale in Palmerston North! If you are looking for a new appliance part or replac...read now to learn more"
 keywords: appliance parts
-publishDate: 9/2/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

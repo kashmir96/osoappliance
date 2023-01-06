@@ -3,7 +3,6 @@
 title: Where Is The Best Place To Buy Large Appliances
 description: "When it comes to buying large appliances such as refrigerators, washers and dryers, consumers have many options. The best place to...keep going and find out"
 keywords: best buy appliances
-publishDate: 7/27/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Rated Laundry Appliance Brands
 description: "When it comes to laundry appliances, there are a lot of options out there. With so many brands and models to choose from, it can b...lets find out"
 keywords: best laundry brands
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

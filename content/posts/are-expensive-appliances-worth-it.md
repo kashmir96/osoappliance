@@ -3,7 +3,6 @@
 title: Are Expensive Appliances Worth It
 description: If you're trying to decide whether or not to invest in expensive appliances, this post looks at the pros and cons of doing so, so read on to find out more!
 keywords: appliances
-publishDate: 11/5/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

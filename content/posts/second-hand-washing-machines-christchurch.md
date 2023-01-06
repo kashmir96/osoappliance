@@ -3,7 +3,6 @@
 title: Second Hand Washing Machines Christchurch
 description: "Second hand washing machines are a great option for those looking to save money and get a quality machine in Christchurch. Not onl...read now to learn more"
 keywords: washing machines christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

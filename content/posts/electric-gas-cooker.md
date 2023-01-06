@@ -3,7 +3,6 @@
 title: Electric Gas Cooker
 description: "An electric gas cooker is a kitchen appliance that uses an electrical current to heat the cooking surface and cook food. It works ...learn about it in this post"
 keywords: gas cooker
-publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

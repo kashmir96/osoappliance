@@ -3,7 +3,6 @@
 title: Most Popular Kettle Corn
 description: "Kettle corn is a delicious and addictive snack that is enjoyed by people of all ages. It is made by popping corn in hot oil, then ...get more info"
 keywords: most popular kettle
-publishDate: 2/16/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

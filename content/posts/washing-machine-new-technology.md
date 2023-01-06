@@ -3,7 +3,6 @@
 title: Washing Machine New Technology
 description: "Washing machines are one of the most important and useful appliances in our homes. They save us time and energy while also making ...learn more about it now"
 keywords: washing machine
-publishDate: 3/8/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

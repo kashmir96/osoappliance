@@ -3,7 +3,6 @@
 title: Laundry Procedure In Food Industry
 description: "The laundry procedure in the food industry is an important part of keeping a safe and clean environment. Properly washing and sani...learn about it in this post"
 keywords: laundry
-publishDate: 12/18/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

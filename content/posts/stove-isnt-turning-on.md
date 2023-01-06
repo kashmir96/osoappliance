@@ -3,7 +3,6 @@
 title: Stove Isnt Turning On
 description: "If your stove isn't turning on, it can be a frustrating experience. There are a few possible reasons why your stove may not be wor...learn about it in this post"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

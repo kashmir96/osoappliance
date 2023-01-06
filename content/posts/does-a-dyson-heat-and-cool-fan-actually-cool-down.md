@@ -3,7 +3,6 @@
 title: Does A Dyson Heat And Cool Fan Actually Cool Down
 description: "A Dyson heat and cool fan is a revolutionary product that can both heat and cool your home. It is designed to be used in any seaso...lets find out"
 keywords: fan
-publishDate: 12/29/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

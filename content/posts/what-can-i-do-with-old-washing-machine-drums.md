@@ -3,7 +3,6 @@
 title: What Can I Do With Old Washing Machine Drums
 description: This post showcases creative ways to repurpose old washing machine drums, from making a swing to using them as planters.
 keywords: washing machine
-publishDate: 6/12/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

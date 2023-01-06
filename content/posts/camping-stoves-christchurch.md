@@ -3,7 +3,6 @@
 title: Camping Stoves Christchurch
 description: "Camping in Christchurch can be a great way to explore the scenic beauty of New Zealand’s South Island. Whether you’re planning a b...continue on"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Stove", "Christchurch", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

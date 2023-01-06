@@ -3,7 +3,6 @@
 title: Commercial Washing Machine Nz
 description: "A commercial washing machine is an essential appliance for any business or organisation that needs to regularly wash large amounts...get the full scoop"
 keywords: washing machine nz
-publishDate: 2/13/2023
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Dryer Squeaks
 description: "If your dryer is making an odd noise, it could be a sign that something is wrong. One of the most common noises is a squeaking sou...swipe up to find out"
 keywords: dryer
-publishDate: 3/9/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

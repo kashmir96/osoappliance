@@ -3,7 +3,6 @@
 title: Appliance Parts Christchurch
 description: "Are you looking for appliance parts in Christchurch? Whether you need a part for your washing machine, refrigerator, dishwasher or...lets find out"
 keywords: appliance parts christchurch
-publishDate: 8/27/2021
 tags: ["Christchurch", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

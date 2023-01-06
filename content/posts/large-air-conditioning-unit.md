@@ -3,7 +3,6 @@
 title: Large Air Conditioning Unit
 description: "Air conditioning units come in a variety of sizes and types, but large air conditioning units are becoming increasingly popular. T...learn more"
 keywords: air
-publishDate: 25/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Conditioning Replacement Parts
 description: "Are you in the market for a new air conditioning replacement part? It can be difficult to know what type of part you need and how ...find out now"
 keywords: air replacement parts
-publishDate: 7/10/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

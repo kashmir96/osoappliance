@@ -3,7 +3,6 @@
 title: Most Common Heating And Cooling Systems
 description: "We’ve all experienced extreme temperatures in our homes, whether it’s a hot summer day or a cold winter night. While we may not th...get more info"
 keywords: most
-publishDate: 1/23/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

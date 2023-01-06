@@ -3,7 +3,6 @@
 title: Dishwasher Samsung
 description: "Samsung is one of the leading appliance manufacturers in the world and its dishwasher range offers a variety of features and funct...continue on"
 keywords: dishwasher samsung
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Panasonic Inverter Microwave
 description: "If you’re looking for the biggest Panasonic Inverter Microwave Oven available on the market today, then you’ve come to the right p...keep going and find out"
 keywords: panasonic microwave
-publishDate: 5/31/2022
 tags: ["Microwave", "Kitchen Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

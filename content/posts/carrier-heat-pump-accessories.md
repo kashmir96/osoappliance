@@ -3,7 +3,6 @@
 title: Carrier Heat Pump Accessories
 description: "When it comes to home comfort, a Carrier heat pump is one of the best options. It’s an efficient way to both cool and heat your ho...get more info"
 keywords: heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

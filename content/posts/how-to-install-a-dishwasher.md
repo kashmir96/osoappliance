@@ -3,7 +3,6 @@
 title: How To Install A Dishwasher
 description: This blog will provide you with the tools and instructions needed to install a dishwasher in your home; so read on if you want to learn how!
 keywords: how to dishwasher
-publishDate: 11/30/2022
 tags: ["Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

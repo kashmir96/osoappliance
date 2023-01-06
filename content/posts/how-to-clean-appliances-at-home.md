@@ -3,7 +3,6 @@
 title: How To Clean Appliances At Home
 description: "Cleaning appliances at home is an essential part of maintaining both their performance and the cleanliness of your home. To ensure...find out now"
 keywords: how to clean appliances
-publishDate: 5/9/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

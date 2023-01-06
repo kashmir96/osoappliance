@@ -3,7 +3,6 @@
 title: Waring Commercial Blender
 description: "The Waring Commercial Blender is a powerful, high-performance blender that is designed for commercial use. It is engineered to del...continue on"
 keywords: blender
-publishDate: 6/14/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

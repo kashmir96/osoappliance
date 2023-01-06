@@ -3,7 +3,6 @@
 title: Electrical Equipment Guidelines
 description: "In today’s modern world, having the right electrical...get more detail"
 keywords: guidelines
-publishDate: 6/21/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Cooker
 description: "Cookers are among the most popular kitchen appliances in today’s kitchens. They offer a convenient way to prepare meals quickly, w...take a moment to check it out "
 keywords: most popular cooker
-publishDate: 1/6/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

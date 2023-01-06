@@ -3,7 +3,6 @@
 title: Best Appliance Brands Nz
 description: "When it comes to appliances, New Zealanders have plenty of options when it comes to choosing the best brands. From refrigerators t...keep reading to learn"
 keywords: best brands nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

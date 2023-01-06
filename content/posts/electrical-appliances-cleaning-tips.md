@@ -3,7 +3,6 @@
 title: Electrical Appliances Cleaning Tips
 description: "Cleaning your electrical appliances can be a daunting task, but it is an essential part of keeping them in good working order. Wit...get more detail"
 keywords: appliances
-publishDate: 4/5/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

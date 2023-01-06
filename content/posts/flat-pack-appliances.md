@@ -3,7 +3,6 @@
 title: Flat Pack Appliances
 description: "Flat pack appliances are becoming increasingly popular in today's market as a way to save space and money. Flat pack appliances ar...see more"
 keywords: appliances
-publishDate: 12/29/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

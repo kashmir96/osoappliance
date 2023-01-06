@@ -3,7 +3,6 @@
 title: What Can Washing Machine Motors Be Used For
 description: This post discusses the different ways for using a washing machine motor. Readers are urged to continue reading for more information if they have an old washing machine motor laying around to put it to use instead of sending it to landfill.
 keywords: washing machine
-publishDate: 7/4/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

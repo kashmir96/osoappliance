@@ -3,7 +3,6 @@
 title: Washing Machine Which Motor Used
 description: "A washing machine is an essential appliance in any household. It is used to clean clothes and other items such as bedding, towels,...keep going and find out"
 keywords: washing machine
-publishDate: 1/15/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

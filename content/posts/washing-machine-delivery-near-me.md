@@ -3,7 +3,6 @@
 title: Washing Machine Delivery Near Me
 description: "When you buy a new washer and dryer, getting them delivered to your home can be a hassle. You need to find someone reliable and tr...check it out to learn"
 keywords: washing machine near
-publishDate: 2/12/2023
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

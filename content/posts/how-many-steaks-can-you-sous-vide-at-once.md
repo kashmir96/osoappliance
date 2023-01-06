@@ -3,7 +3,6 @@
 title: How Many Steaks Can You Sous-Vide At Once
 description: "Sous vide is a modern cooking technique that involves vacuum-sealing food in a bag and then submerging it into a water bath that’s...learn more about it now"
 keywords: sous
-publishDate: 2/9/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

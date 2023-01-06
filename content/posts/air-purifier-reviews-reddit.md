@@ -3,7 +3,6 @@
 title: Air Purifier Reviews Reddit
 description: "Air purifier reviews are a great way to learn about the different types of air purifiers on the market, as well as which ones migh...read now to learn more"
 keywords: air purifier reviews
-publishDate: 4/11/2023
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

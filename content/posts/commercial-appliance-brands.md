@@ -3,7 +3,6 @@
 title: Commercial Appliance Brands
 description: "When it comes to commercial appliances, you want to ensure that you are getting the best quality products for your business. This ...check it out to learn"
 keywords: appliance brands
-publishDate: 6/3/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

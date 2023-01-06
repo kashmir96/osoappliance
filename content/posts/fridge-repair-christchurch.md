@@ -3,7 +3,6 @@
 title: Fridge Repair Christchurch
 description: Having a functioning refrigerator is essential in Christchurch, or anywhere in NZ for that matter! and this post provides helpful information on how to find a reliable repair service, so read on to learn more!
 keywords: fridge repair christchurch
-publishDate: 10/8/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Hair Dryer Accessories
 description: "Hair dryers come with a wide variety of accessories, and understanding them can help you get the most out of your hair dryer. From...find out now"
 keywords: hair dryer
-publishDate: 6/27/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

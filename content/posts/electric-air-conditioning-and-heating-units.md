@@ -3,7 +3,6 @@
 title: Electric Air Conditioning And Heating Units
 description: "In this day and age, electric air conditioning and heating units are quickly becoming the most popular choice for home heating and...read now to learn more"
 keywords: air
-publishDate: 5/26/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

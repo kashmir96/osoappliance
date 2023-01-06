@@ -3,7 +3,6 @@
 title: Beer Fridge Christchurch
 description: This post discusses the popularity of beer fridges in Christchurch, New Zealand and why they are a great way to store and enjoy your favorite craft beers. Read on to find out more about the local craft beer scene and why it's worth investing in a beer fridge.
 keywords: fridge christchurch
-publishDate: 12/26/2022
 tags: ["Christchurch", "Appliances", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Christchurch Domestic Appliances
 description: "If you are from Christchurch and looking for domestic appliances made in New Zealand to put into your home, the options are endles...lets find out"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

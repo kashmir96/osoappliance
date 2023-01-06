@@ -3,7 +3,6 @@
 title: Air Conditioning Greatest Invention
 description: "Air conditioning is one of the greatest inventions of all time, and has changed the way we live and work forever....take a moment to check it out "
 keywords: air
-publishDate: 6/15/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

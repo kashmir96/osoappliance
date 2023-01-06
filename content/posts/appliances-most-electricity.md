@@ -3,7 +3,6 @@
 title: Appliances Most Electricity
 description: "When it comes to appliances that use the most electricity, it can be hard to know where to start. From refrigerators to clothes dr...learn more about it now"
 keywords: most electricity
-publishDate: 12/12/2022
 tags: ["Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

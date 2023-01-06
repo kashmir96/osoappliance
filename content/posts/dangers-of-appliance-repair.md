@@ -3,7 +3,6 @@
 title: Dangers Of Appliance Repair
 description: "Appliance repair is a necessary part of life. Whether it’s a broken dishwasher, refrigerator, or clothes dryer, when something goe...keep reading to learn"
 keywords: appliance repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

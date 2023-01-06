@@ -3,7 +3,6 @@
 title: Biggest Nutribullet Blender Appliance
 description: "If you’re looking for the ultimate kitchen appliance that can do it all, look no further than the NutriBullet Blender. This powerf...keep going and find out"
 keywords: blender appliance
-publishDate: 5/21/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

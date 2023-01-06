@@ -3,7 +3,6 @@
 title: Commercial Grinder Blender
 description: "A commercial grinder blender is an essential piece of equipment for any commercial kitchen. It is used to grind and blend ingredie...find out now"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

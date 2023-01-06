@@ -3,7 +3,6 @@
 title: Rent Appliances In Bangalore
 description: "In this day and age, renting out appliances has become increasingly popular in the city of Bangalore. With the rising cost of livi...get the full scoop"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Stove Is Smoking
 description: "If you’ve noticed your stove is smoking, it’s important to take the necessary steps to address the issue. Smoking stoves can be da...you wont regret reading on"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

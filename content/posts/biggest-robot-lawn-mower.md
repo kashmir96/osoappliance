@@ -3,7 +3,6 @@
 title: Biggest Robot Lawn Mower
 description: "Robot lawn mowers are quickly becoming one of the most popular tools for keeping your lawn looking its best. These innovative mach...learn about it in this post"
 keywords: 
-publishDate: 1/4/2022
 tags: ["Appliance Rules and Regulations"]
 author: Curtis
 categories: ["Household Appliances"]

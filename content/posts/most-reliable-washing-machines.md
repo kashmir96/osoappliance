@@ -3,7 +3,6 @@
 title: Most Reliable Washing Machines
 description: This post outlines why reliability should be a key factor to consider when buying a washing machine, and provides advice on the best reliable washing machines available; read on to find out more.
 keywords: washing machines
-publishDate: 10/28/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

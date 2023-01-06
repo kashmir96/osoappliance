@@ -3,7 +3,6 @@
 title: Pressure Washer Hire Christchurch
 description: "If you need to tackle tough outdoor cleaning tasks in Christchurch, pressure washer hire is the most efficient way to get the job ...learn more"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Clothes Electric
 description: "Doing laundry is one of those chores that no one likes to do, but it’s a necessary evil. One of the most important steps in the la...swipe up to find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

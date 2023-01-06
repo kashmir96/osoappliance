@@ -3,7 +3,6 @@
 title: Best Dryer
 description: "When it comes to laundry, a dryer is an essential appliance. Not only does it help you get your clothes dry quickly, but it also h...keep going and find out"
 keywords: best dryer
-publishDate: 8/7/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

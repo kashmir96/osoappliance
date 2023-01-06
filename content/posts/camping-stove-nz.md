@@ -3,7 +3,6 @@
 title: Camping Stove Nz
 description: "Camping stoves are essential for any camping adventure, and New Zealand is no exception. From boiling water for hot drinks to cook...lets find out"
 keywords: stove nz
-publishDate: 12/12/2022
 tags: ["Stove", "New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

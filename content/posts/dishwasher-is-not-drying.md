@@ -3,7 +3,6 @@
 title: Dishwasher Is Not Drying
 description: "If you’ve ever opened the dishwasher after a cycle only to find your dishes still wet and not properly dried, you’re not alone. Di...learn more about it now"
 keywords: dishwasher
-publishDate: 11/7/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

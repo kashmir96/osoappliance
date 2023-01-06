@@ -3,7 +3,6 @@
 title: Commercial Appliance Repair Edmonton
 description: "Commercial appliances play an important role in keeping businesses running smoothly. They are essential to the day-to-day operatio...keep going and find out"
 keywords: appliance repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

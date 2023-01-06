@@ -3,7 +3,6 @@
 title: Accessories For Kitchenaid K400 Blender
 description: "Cooking up a smoothie with your KitchenAid K400 Blender is a breeze! With the right accessories, you can make delicious drinks, br...keep reading to learn"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

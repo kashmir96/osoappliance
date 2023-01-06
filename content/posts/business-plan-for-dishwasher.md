@@ -3,7 +3,6 @@
 title: Business Plan For Dishwasher
 description: "A business plan for a dishwasher is a document that outlines the goals, objectives, and strategies of a business venture. It serve...get more detail"
 keywords: dishwasher
-publishDate: 6/23/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

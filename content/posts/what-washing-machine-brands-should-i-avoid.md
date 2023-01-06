@@ -3,7 +3,6 @@
 title: What Washing Machine Brands Should I Avoid
 description: "When it comes to buying a washing machine, there are countless brands to choose from. While some brands offer quality products tha...get the full scoop"
 keywords: washing machine brands
-publishDate: 7/4/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

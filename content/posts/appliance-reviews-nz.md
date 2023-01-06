@@ -3,7 +3,6 @@
 title: Appliance Reviews Nz
 description: "When it comes to making major home purchases such as appliances, New Zealanders have a wealth of options available to them. With s...check it out to learn"
 keywords: appliance reviews nz
-publishDate: 3/5/2022
 tags: ["New Zealand", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

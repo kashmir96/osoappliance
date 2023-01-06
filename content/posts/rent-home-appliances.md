@@ -3,7 +3,6 @@
 title: Rent Home Appliances
 description: "In the modern world, renting home appliances is becoming increasingly popular. With the cost of living rising and more people look...lets find out"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

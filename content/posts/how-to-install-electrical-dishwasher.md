@@ -3,7 +3,6 @@
 title: How To Install Electrical Dishwasher
 description: "Installing an electrical dishwasher is not a difficult task, but it does require careful planning and preparation. Before beginnin...scroll on and keep learning"
 keywords: how to install dishwasher
-publishDate: 5/14/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

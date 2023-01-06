@@ -3,7 +3,6 @@
 title: Why Kettles Are Important
 description: "Kettles are one of the most important appliances in any home. They provide us with hot water for beverages, cooking, cleaning, and...get the full scoop"
 keywords: 
-publishDate: 1/2/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

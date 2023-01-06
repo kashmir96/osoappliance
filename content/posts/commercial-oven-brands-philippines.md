@@ -3,7 +3,6 @@
 title: Commercial Oven Brands Philippines
 description: "When it comes to commercial ovens, the Philippines is a great place to find a wide range of brands and models to suit any kitchen....see more"
 keywords: oven brands
-publishDate: 6/9/2022
 tags: ["Oven", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

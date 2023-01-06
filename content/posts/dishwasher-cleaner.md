@@ -3,7 +3,6 @@
 title: Dishwasher Cleaner
 description: "Dishwashers are an essential appliance in many households and are used to help keep dishes clean and free from bacteria. However, ...swipe up to find out"
 keywords: dishwasher
-publishDate: 10/19/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

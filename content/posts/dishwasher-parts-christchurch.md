@@ -3,7 +3,6 @@
 title: Dishwasher Parts Christchurch
 description: "Welcome to the blog of Dishwasher Parts Christchurch! We are a local shop that specializes in providing quality replacement parts ...read now to learn more"
 keywords: dishwasher parts christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Clean Appliance", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

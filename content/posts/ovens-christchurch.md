@@ -3,7 +3,6 @@
 title: Ovens Christchurch
 description: "Ovens are a common household appliance used by many Christchurch residents to cook and bake food. With the variety of ovens availa...get more info"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

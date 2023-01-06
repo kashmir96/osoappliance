@@ -3,7 +3,6 @@
 title: Most Common Dishwasher
 description: "Are you having trouble with your dishwasher? It can be a real headache when this convenient appliance isn't working properly. Fort...you wont regret reading on"
 keywords: most dishwasher
-publishDate: 1/19/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

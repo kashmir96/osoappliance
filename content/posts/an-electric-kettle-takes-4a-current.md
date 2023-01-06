@@ -3,7 +3,6 @@
 title: An Electric Kettle Takes 4A Current
 description: "An electric kettle takes 4 Amps of current when plugged into a standard wall outlet. This is because the typical voltage in an out...see more"
 keywords: kettle
-publishDate: 3/26/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

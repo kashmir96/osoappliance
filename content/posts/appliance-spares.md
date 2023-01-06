@@ -3,7 +3,6 @@
 title: Appliance Spares
 description: "If you own any type of household appliance, you know how important it is to have the right spares on hand. Not only do they help k...learn more about it now"
 keywords: appliance
-publishDate: 9/25/2021
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

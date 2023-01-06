@@ -3,7 +3,6 @@
 title: Can A Water Cooler Make You Sick
 description: "If you’re using a water cooler, it may seem like you’re getting an endless supply of clean, refreshing drinking water. But unfortu...take a moment to check it out "
 keywords: water
-publishDate: 12/12/2022
 tags: ["Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

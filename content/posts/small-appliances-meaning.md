@@ -3,7 +3,6 @@
 title: Small Appliances Meaning
 description: "Small appliances are a great way to make your home more efficient, comfortable, and stylish. They are the perfect way to make cook...see more"
 keywords: appliances
-publishDate: 1/19/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

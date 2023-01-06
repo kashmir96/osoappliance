@@ -3,7 +3,6 @@
 title: Commercial Dishwasher Brands
 description: "When you're running a commercial kitchen, having the right dishwasher is essential. It can be difficult to know which brand to cho...take a moment to check it out "
 keywords: dishwasher brands
-publishDate: 6/5/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

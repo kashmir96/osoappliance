@@ -3,7 +3,6 @@
 title: Air Purifiers That Collect Dust
 description: "Air purifiers are becoming increasingly popular in homes and businesses as a way to reduce dust and other airborne particles. Thes...get more detail"
 keywords: air
-publishDate: 4/21/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

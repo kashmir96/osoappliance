@@ -3,7 +3,6 @@
 title: Why Dryer Is Not Getting Hot
 description: "When your dryer isn't getting hot, it could be caused by a number of things. Knowing the causes and solutions for this common drye...keep going and find out"
 keywords: dryer
-publishDate: 3/2/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

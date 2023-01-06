@@ -3,7 +3,6 @@
 title: Air Conditioning Options Uk
 description: "Are you looking for air conditioning options in the UK? With the warmer months of summer coming up, now is the perfect time to con...get more info"
 keywords: air
-publishDate: 7/3/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

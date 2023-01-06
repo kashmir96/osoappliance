@@ -3,7 +3,6 @@
 title: Electrical Appliances Shop
 description: "If you’re looking to buy electrical appliances, then an electrical appliance shop is the perfect place to find what you need. From...find out now"
 keywords: appliances shop
-publishDate: 2/11/2023
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

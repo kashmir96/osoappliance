@@ -3,7 +3,6 @@
 title: Machine Washing Best Brand
 description: "If you’re in the market for a new washing machine, you probably want to find one that offers the best performance and reliability....get more detail"
 keywords: washing best brand
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Clean Appliance", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

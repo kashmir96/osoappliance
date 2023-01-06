@@ -3,7 +3,6 @@
 title: Door Seal Come Off Washing Machine
 description: If your washing machine door seal has come off, read this post to learn why this can be a serious issue and what you can do to resolve it.
 keywords: washing machine
-publishDate: 9/5/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

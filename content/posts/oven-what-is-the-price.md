@@ -3,7 +3,6 @@
 title: Oven What Is The Price
 description: "When it comes to buying an oven, there is no one-size-fits-all answer for the price. The cost of an oven can vary greatly dependin...read now to learn more"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

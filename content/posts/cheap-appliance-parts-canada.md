@@ -3,7 +3,6 @@
 title: Cheap Appliance Parts Canada
 description: "If you are looking for ways to buy cheap appliance parts in Canada, you’ve come to the right place! Repairing your appliances can ...keep going and find out"
 keywords: cheap appliance parts
-publishDate: 10/20/2021
 tags: ["Buy Appliance", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

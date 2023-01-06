@@ -3,7 +3,6 @@
 title: Accessories For Hair Dryer
 description: "Hair dryers are an essential tool for styling and maintaining your hair. While a simple hair dryer is enough to get the job done, ...lets find out"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

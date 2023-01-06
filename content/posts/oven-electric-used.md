@@ -3,7 +3,6 @@
 title: Oven Electric Used
 description: "If you’re looking for a reliable and efficient way to cook your meals, you should consider an electric oven. An electric oven is a...get more info"
 keywords: oven
-publishDate: 1/30/2023
 tags: ["Oven", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

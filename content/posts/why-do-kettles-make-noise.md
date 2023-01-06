@@ -3,7 +3,6 @@
 title: Why Do Kettles Make Noise
 description: "The sound of a boiling kettle is one of the most recognizable sounds in the kitchen. But why do kettles make noise? The main reaso...learn more about it now"
 keywords: 
-publishDate: 1/4/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

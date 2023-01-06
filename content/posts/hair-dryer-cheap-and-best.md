@@ -3,7 +3,6 @@
 title: Hair Dryer Cheap And Best
 description: "Are you looking for a cheap and best hair dryer? If so, then you have come to the right place. There are many options available wh...keep reading to learn"
 keywords: hair dryer cheap best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

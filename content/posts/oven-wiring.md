@@ -3,7 +3,6 @@
 title: Oven Wiring
 description: "If you’re looking to wire up an oven, it’s important to understand the risks that come with attempting this job yourself. Oven wir...get more info"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

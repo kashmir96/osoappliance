@@ -3,7 +3,6 @@
 title: New Appliances Near Me
 description: "If you're in the market for a new appliance, you're probably wondering where to start looking. The good news is that there are ple...see more detail"
 keywords: near
-publishDate: 12/12/2022
 tags: ["Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

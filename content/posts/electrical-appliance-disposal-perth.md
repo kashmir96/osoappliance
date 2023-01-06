@@ -3,7 +3,6 @@
 title: Electrical Appliance Disposal Perth
 description: "When it comes to electrical appliance disposal, Perth residents have a responsibility to ensure their old appliances are disposed ...lets find out"
 keywords: appliance disposal
-publishDate: 6/7/2023
 tags: ["Appliance Disposal", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

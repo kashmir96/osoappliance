@@ -3,7 +3,6 @@
 title: How To Install An Oven
 description: This post provides a step-by-step guide for installing an oven safely and correctly, so you can get the most out of your new appliance - read on to learn more!
 keywords: how to oven
-publishDate: 11/27/2022
 tags: ["Appliances", "Guide", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

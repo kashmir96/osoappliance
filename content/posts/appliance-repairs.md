@@ -3,7 +3,6 @@
 title: Appliance Repairs
 description: "When it comes to appliance repairs, it can be a daunting task for many homeowners. It’s important to understand the basics of how ...you wont regret reading on"
 keywords: appliance
-publishDate: 9/6/2021
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

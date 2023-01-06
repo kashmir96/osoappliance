@@ -3,7 +3,6 @@
 title: 2023 Blender
 description: "2023 Blender is the latest version of the popular 3D animation and modeling software. It has been designed to make it easier than ...scroll on and keep learning"
 keywords: 2023 blender
-publishDate: 2/16/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

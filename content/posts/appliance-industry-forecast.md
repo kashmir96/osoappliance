@@ -3,7 +3,6 @@
 title: Appliance Industry Forecast
 description: "The appliance industry has been a consistent source of growth for the global economy for many years. Consumers have continued to p...find out now"
 keywords: appliance
-publishDate: 1/7/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

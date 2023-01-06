@@ -3,7 +3,6 @@
 title: Kitchen Appliances Chch
 description: "As the heart of the home, your kitchen deserves to be equipped with the latest and greatest appliances that make meal prep and dai...learn more about it now"
 keywords: kitchen chch
-publishDate: 12/12/2022
 tags: ["Christchurch", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Conditioning Problems And Solutions
 description: "Air conditioning problems can be a huge inconvenience, especially during the summer months. From strange noises to increased energ...read now to learn more"
 keywords: air
-publishDate: 7/5/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

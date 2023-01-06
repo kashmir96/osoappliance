@@ -3,7 +3,6 @@
 title: Washing Machine Smartthings
 description: "Smart home technology has revolutionized the way we do our everyday tasks, including doing laundry. Smart washing machines have be...learn more"
 keywords: washing machine
-publishDate: 4/7/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

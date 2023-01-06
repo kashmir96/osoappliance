@@ -3,7 +3,6 @@
 title: Stove Is Not Working
 description: "If your stove is not working, it can be a frustrating experience. There are many potential causes of a malfunctioning stove, and i...get the full scoop"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

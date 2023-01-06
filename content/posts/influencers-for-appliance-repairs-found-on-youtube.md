@@ -3,7 +3,6 @@
 title: Influencers For Appliance Repairs Found On Youtube
 description: "We all know that appliances are essential in our lives, and they make our lives much easier. But nowadays, the convenience of buyi...get more detail"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Appliance Repair"]
 author: Curtis
 categories: ["Household Appliances"]

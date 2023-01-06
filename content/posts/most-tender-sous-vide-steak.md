@@ -3,7 +3,6 @@
 title: Most Tender Sous Vide Steak
 description: "Sous vide steak is a form of cooking that produces incredibly tender, juicy and flavorful results. The process involves sealing th...get more info"
 keywords: most sous
-publishDate: 2/8/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

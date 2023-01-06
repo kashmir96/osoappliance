@@ -3,7 +3,6 @@
 title: Dryer Clothes Machine Price
 description: "When it comes to laundry, one of the most important pieces of equipment is the dryer. Dryers come in a variety of sizes and styles...swipe up to find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

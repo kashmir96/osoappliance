@@ -3,7 +3,6 @@
 title: Is Washing Machine Stand Necessary
 description: "When it comes to doing laundry, having a washing machine stand is a useful item to help make part of the process of doing laundry ...continue on"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

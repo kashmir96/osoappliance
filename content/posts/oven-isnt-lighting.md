@@ -3,7 +3,6 @@
 title: Oven Isnt Lighting
 description: "An oven not lighting can be a frustrating problem to have. It can be caused by a variety of different factors, from a faulty ignit...get more detail"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

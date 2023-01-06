@@ -3,7 +3,6 @@
 title: Oven What Is Microwave
 description: "Microwaves are a type of electromagnetic radiation, similar to radio waves, that are used to heat food. They work by sending out m...you wont regret reading on"
 keywords: oven microwave
-publishDate: 12/12/2022
 tags: ["Oven", "Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

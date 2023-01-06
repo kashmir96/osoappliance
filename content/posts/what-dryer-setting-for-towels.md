@@ -3,7 +3,6 @@
 title: What Dryer Setting For Towels
 description: "When it comes to washing and drying towels, there are a few key elements to keep in mind. The most important factor is the setting...see more detail"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

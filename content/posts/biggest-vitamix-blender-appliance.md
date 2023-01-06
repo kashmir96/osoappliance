@@ -3,7 +3,6 @@
 title: Biggest Vitamix Blender Appliance
 description: "If you’re looking for the biggest Vitamix blender appliance, then you’ve come to the right place. Vitamix blenders are renowned fo...keep going and find out"
 keywords: blender appliance
-publishDate: 6/9/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

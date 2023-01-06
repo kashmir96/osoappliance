@@ -3,7 +3,6 @@
 title: Electrical Home Appliances Near Me
 description: "We all use electrical home appliances to make our lives easier and more convenient. From washers and dryers to coffee makers and m...find out now"
 keywords: appliances near
-publishDate: 6/22/2023
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

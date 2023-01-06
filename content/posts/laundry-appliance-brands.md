@@ -3,7 +3,6 @@
 title: Laundry Appliance Brands
 description: "If you’re looking to upgrade your laundry appliances, there are a few key factors to consider. One of the most important is which ...check it out to learn"
 keywords: laundry appliance brands
-publishDate: 8/14/2021
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

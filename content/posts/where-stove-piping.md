@@ -3,7 +3,6 @@
 title: Where Stove Piping
 description: "Stove piping is a term used to describe the process of collecting and managing data in an inefficient and disorganized manner. The...learn more"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

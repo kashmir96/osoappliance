@@ -3,7 +3,6 @@
 title: Washing Machine Best Affordable
 description: "If you’re in the market for a new washing machine, you may be overwhelmed by the number of options available. Finding an affordabl...keep reading to learn"
 keywords: washing machine best
-publishDate: 1/18/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

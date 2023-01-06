@@ -3,7 +3,6 @@
 title: Hobbit Stove Nz
 description: "If you're a fan of the Hobbit film franchise, then you know that Bilbo Baggins and the other dwarves cooked their meals on an old-...learn more"
 keywords: stove nz
-publishDate: 12/12/2022
 tags: ["Stove", "New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

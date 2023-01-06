@@ -3,7 +3,6 @@
 title: Why Dryer Not Drying
 description: "Your dryer not drying your clothes properly can be frustrating, especially when you’re in a rush. Fortunately, there are quick and...keep reading to learn"
 keywords: dryer
-publishDate: 3/4/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Is It Illegal To Rent A House Without Air Conditioning
 description: "Renting a house without air conditioning can be problematic in areas with hot climates, and it may even be illegal depending on th...learn more about it now"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

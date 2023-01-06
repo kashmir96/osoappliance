@@ -3,7 +3,6 @@
 title: Dryer Pcb Repair
 description: "Dryer PCB (Printed Circuit Board) Repair is a critical part of maintaining and extending the life of your dryer. In this blog, we ...get the full scoop"
 keywords: dryer repair
-publishDate: 2/22/2023
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Appliance Repair", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

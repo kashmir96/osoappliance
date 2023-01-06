@@ -3,7 +3,6 @@
 title: Air Conditioner Learn How To Use
 description: "Air conditioners are a great way to beat the summer heat, but many of us don’t know how to use them properly. Learning how to prop...keep going and find out"
 keywords: air conditioner how to use
-publishDate: 4/15/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

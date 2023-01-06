@@ -3,7 +3,6 @@
 title: Business Proposal For Air Conditioning
 description: "Are you looking for an efficient and cost-effective solution to cool your home or business? Air conditioning is the perfect choice...you wont regret reading on"
 keywords: air
-publishDate: 4/26/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

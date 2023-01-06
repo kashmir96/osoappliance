@@ -3,7 +3,6 @@
 title: Best Washer And Dryer 2022
 description: "Are you in the market for a new washer and dryer for your home? With so many choices on the market, it can be hard to know which o...scroll on and keep learning"
 keywords: best dryer 2022
-publishDate: 9/2/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

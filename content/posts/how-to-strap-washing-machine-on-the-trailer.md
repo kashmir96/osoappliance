@@ -3,7 +3,6 @@
 title: How To Strap Washing Machine On The Trailer
 description: "If you’re planning to move a washing machine from one place to another, you may be wondering how to safely strap it to a trailer. ...you wont regret reading on"
 keywords: how to washing machine
-publishDate: 7/15/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

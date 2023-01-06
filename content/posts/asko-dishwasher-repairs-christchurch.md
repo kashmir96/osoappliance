@@ -3,7 +3,6 @@
 title: Asko Dishwasher Repairs Christchurch
 description: "When it comes to Asko dishwasher repairs in Christchurch, it is important to have an experienced professional on your side. Asko d...learn more about it now"
 keywords: dishwasher christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Appliance Repair", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

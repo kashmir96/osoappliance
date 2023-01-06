@@ -3,7 +3,6 @@
 title: Pressure Washer Christchurch
 description: "If you live in Christchurch, New Zealand, then you may have considered buying a pressure washer. Pressure washers are an essential...see more detail"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

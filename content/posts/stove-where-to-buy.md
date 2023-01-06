@@ -3,7 +3,6 @@
 title: Stove Where To Buy
 description: "If you’re in the market for a new stove, you’ve come to the right place. Stoves are an essential part of any kitchen, and there ar...keep reading to learn"
 keywords: stove buy
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

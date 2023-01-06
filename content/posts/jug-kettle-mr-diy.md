@@ -3,7 +3,6 @@
 title: Jug Kettle Mr Diy
 description: "A jug kettle is an all-in-one kitchen appliance that allows you to quickly and conveniently boil water. It combines the convenienc...learn about it in this post"
 keywords: jug kettle
-publishDate: 11/15/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

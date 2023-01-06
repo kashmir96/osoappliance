@@ -3,7 +3,6 @@
 title: Washing Machine Brushed Motor Pros And Cons
 description: "Washing machine brushed motors are a type of motor commonly found in washing machines, and they provide several advantages and dis...keep going and find out"
 keywords: washing machine
-publishDate: 4/27/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Worlds Biggest Microwave
 description: "Do you ever feel like the world is getting smaller? Well, that might be because of the world’s biggest microwave! The US Air Force...swipe up to find out"
 keywords: microwave
-publishDate: 7/31/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

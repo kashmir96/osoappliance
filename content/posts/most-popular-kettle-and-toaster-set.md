@@ -3,7 +3,6 @@
 title: Most Popular Kettle And Toaster Set
 description: "The kitchen is the heart of any home and having a set of top-quality kettle and toaster is essential for any household. From morni...check it out to learn"
 keywords: most popular kettle toaster set
-publishDate: 2/13/2022
 tags: ["Kitchen Appliances", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

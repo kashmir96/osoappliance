@@ -3,7 +3,6 @@
 title: Best Bosch Dishwasher 2021
 description: "When it comes to dishwashers, Bosch is one of the most trusted names in the industry. The company has been producing quality dishw...lets find out"
 keywords: best bosch dishwasher
-publishDate: 8/1/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

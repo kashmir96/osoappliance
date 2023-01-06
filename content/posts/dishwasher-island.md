@@ -3,7 +3,6 @@
 title: Dishwasher Island
 description: "A dishwasher island is a great way to add convenience to your kitchen. It's a countertop-style dishwasher that is installed on an ...get more detail"
 keywords: dishwasher
-publishDate: 11/8/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

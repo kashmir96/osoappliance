@@ -3,7 +3,6 @@
 title: Red When Stove
 description: "Red is an important color to pay attention to when it comes to your stove. If the light on your stove is red, it means that it is ...swipe up to find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

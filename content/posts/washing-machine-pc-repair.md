@@ -3,7 +3,6 @@
 title: Washing Machine Pc Repair
 description: "If you’re like many homeowners, you rely heavily on your washing machine to keep your home clean and fresh. Unfortunately, these m...find out now"
 keywords: washing machine repair
-publishDate: 2/15/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

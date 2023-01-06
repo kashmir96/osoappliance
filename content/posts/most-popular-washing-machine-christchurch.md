@@ -3,7 +3,6 @@
 title: Most Popular Washing Machine Christchurch
 description: This post will help you find the best washing machine in Christchurch, with comprehensive reviews of the most popular models and why they are so popular. Read on to find the perfect washing machine for your needs.
 keywords: washing machine christchurch
-publishDate: 8/6/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Washing Machine Miele Used
 description: "If you’re in the market for a top of the line washing machine, then you should consider investing in a Miele. Miele is a German co...read now to learn more"
 keywords: washing machine miele
-publishDate: 1/21/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

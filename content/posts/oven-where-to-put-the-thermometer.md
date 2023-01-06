@@ -3,7 +3,6 @@
 title: Oven Where To Put The Thermometer
 description: "If you’re using an oven, it’s important to know the temperature of the oven so that you can properly cook your food. This is why i...check it out to learn"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

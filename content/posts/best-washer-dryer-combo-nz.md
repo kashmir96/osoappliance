@@ -3,7 +3,6 @@
 title: Best Washer Dryer Combo Nz
 description: "If you’re looking for the best washer dryer combo in New Zealand, you’re in luck. With its advanced technology, New Zealand is hom...learn more about it now"
 keywords: best dryer nz
-publishDate: 9/8/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

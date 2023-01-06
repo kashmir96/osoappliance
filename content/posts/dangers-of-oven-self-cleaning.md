@@ -3,7 +3,6 @@
 title: Dangers Of Oven Self Cleaning
 description: "If you’ve ever used a self-cleaning oven, you know how convenient it can be. But did you know that this feature carries some risks...see more"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

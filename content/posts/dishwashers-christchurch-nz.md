@@ -3,7 +3,6 @@
 title: Dishwashers Christchurch Nz
 description: "If you live in Christchurch, New Zealand, then you know how important it is to have a reliable dishwasher. A dishwasher can make y...continue on"
 keywords: christchurch nz
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "New Zealand", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

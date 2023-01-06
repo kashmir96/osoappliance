@@ -3,7 +3,6 @@
 title: Most Popular Sous Vide Recipes
 description: "Sous vide is a method of cooking that uses a precise temperature-controlled water bath to cook food evenly, slowly, and precisely....swipe up to find out"
 keywords: most popular sous
-publishDate: 2/4/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

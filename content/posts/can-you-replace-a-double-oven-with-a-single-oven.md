@@ -3,7 +3,6 @@
 title: Can You Replace A Double Oven With A Single Oven
 description: "A double oven provides the convenience of being able to cook two dishes at once, but these appliances can be expensive and require...swipe up to find out"
 keywords: replace oven oven
-publishDate: 5/16/2023
 tags: ["Oven", "Appliance Repair"]
 author: Curtis
 categories: ["Household Appliances"]

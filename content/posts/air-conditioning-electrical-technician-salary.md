@@ -3,7 +3,6 @@
 title: Air Conditioning Electrical Technician Salary
 description: "Air conditioning electrical technicians are responsible for the maintenance and installation of air conditioning systems. They wor...see more detail"
 keywords: air
-publishDate: 6/14/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

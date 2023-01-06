@@ -3,7 +3,6 @@
 title: Biggest Blender Appliance Bottle
 description: "Blenders are one of the most used kitchen appliances in modern households. From blending smoothies and shakes to pureeing soups an...find out now"
 keywords: blender appliance
-publishDate: 4/15/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

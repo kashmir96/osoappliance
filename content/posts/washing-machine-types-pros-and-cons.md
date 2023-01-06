@@ -3,7 +3,6 @@
 title: Washing Machine Types Pros And Cons
 description: "When it comes to laundry, a washing machine is an absolute essential. With so many types of washing machines on the market, howeve...you wont regret reading on"
 keywords: washing machine
-publishDate: 4/9/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

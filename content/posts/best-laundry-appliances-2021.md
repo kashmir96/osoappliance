@@ -3,7 +3,6 @@
 title: Best Laundry Appliances 2021
 description: "Are you in the market for a new laundry appliance? If so, then you’re likely overwhelmed by all of the options available. With so ...keep reading to learn"
 keywords: best laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

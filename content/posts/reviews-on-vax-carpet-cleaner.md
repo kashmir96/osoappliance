@@ -3,7 +3,6 @@
 title: Reviews On Vax Carpet Cleaner
 description: "As a homeowner, keeping your carpets looking clean and fresh is an important part of maintaining the look and feel of your home. V...learn more about it now"
 keywords: reviews
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

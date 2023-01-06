@@ -3,7 +3,6 @@
 title: Stove Top Stuffing Who Makes It
 description: "Stove Top Stuffing is a popular stuffing mix that is used to make stuffing for Thanksgiving, Christmas, and other special occasion...scroll on and keep learning"
 keywords: stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

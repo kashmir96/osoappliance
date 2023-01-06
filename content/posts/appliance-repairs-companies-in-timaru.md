@@ -3,7 +3,6 @@
 title: Appliance Repairs Companies In Timaru
 description: "As a homeowner, it can be a daunting task to keep up with the maintenance of all your appliances. That is why appliance repairs co...find out now"
 keywords: appliance
-publishDate: 9/14/2021
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

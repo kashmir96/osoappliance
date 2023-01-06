@@ -3,7 +3,6 @@
 title: Commercial Washing Machine For Sale
 description: "If you’re looking for a commercial washing machine for sale, there are a variety of options available to you. Commercial washing m...read now to learn more"
 keywords: washing machine sale
-publishDate: 2/16/2023
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

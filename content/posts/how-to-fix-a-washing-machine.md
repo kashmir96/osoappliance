@@ -3,7 +3,6 @@
 title: How To Fix A Washing Machine
 description: If your washing machine isn't functioning properly, this post will take you through the steps to help diagnose and fix the issue, so read on to start troubleshooting!
 keywords: how to fix washing machine
-publishDate: 7/21/2022
 tags: ["Washing Machine", "Appliances", "Guide", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

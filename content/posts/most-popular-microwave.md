@@ -3,7 +3,6 @@
 title: Most Popular Microwave
 description: "When it comes to kitchen appliances, a microwave oven is certainly one of the most popular. Microwave ovens are convenient and can...scroll on and keep learning"
 keywords: most popular microwave
-publishDate: 12/27/2021
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

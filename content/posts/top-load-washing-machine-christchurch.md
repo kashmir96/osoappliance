@@ -3,7 +3,6 @@
 title: Top Load Washing Machine Christchurch
 description: This post outlines the advantages of top loading washing machines, making them a great choice for those who want a more traditional approach to laundry, and encourages readers to find out more.
 keywords: washing machine christchurch
-publishDate: 12/3/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

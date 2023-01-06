@@ -3,7 +3,6 @@
 title: Can You Use A Dryer Without A Dryer Vent
 description: "Using a dryer without a dryer vent is not recommended and is not safe. A dryer vent is an essential part of the dryer system, as i...swipe up to find out"
 keywords: use dryer dryer
-publishDate: 9/25/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

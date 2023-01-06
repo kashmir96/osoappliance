@@ -3,7 +3,6 @@
 title: Most Common Microwave Wattage
 description: "Microwaves are an essential kitchen appliance for quickly heating, cooking, and reheating food. But when shopping for a microwave,...scroll on and keep learning"
 keywords: most microwave
-publishDate: 12/21/2021
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

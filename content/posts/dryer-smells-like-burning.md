@@ -3,7 +3,6 @@
 title: Dryer Smells Like Burning
 description: "If your dryer smells like burning, it can be a sign of a serious problem. The smell of burning could be caused by a buildup of lin...see more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

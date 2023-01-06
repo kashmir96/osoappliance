@@ -3,7 +3,6 @@
 title: Biggest Appliance Sales Of The Year
 description: "It's no secret that the holidays are one of the best times of year to take advantage of some great deals on major appliances. Supe...get the full scoop"
 keywords: appliance sales
-publishDate: 4/11/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

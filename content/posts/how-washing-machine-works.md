@@ -3,7 +3,6 @@
 title: How Washing Machine Works
 description: "Washing machines are an essential part of modern life, but have you ever wondered how they work? Washing machines use a combinatio...see more detail"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

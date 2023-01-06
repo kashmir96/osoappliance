@@ -3,7 +3,6 @@
 title: How Fridge Freezer Works
 description: "A fridge freezer is a very popular appliance in most households. It helps to keep food fresh, and at the same time it also provide...check it out to learn"
 keywords: fridge
-publishDate: 12/5/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

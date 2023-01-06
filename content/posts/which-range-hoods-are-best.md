@@ -3,7 +3,6 @@
 title: Which Range Hoods Are Best
 description: "If you’re in the market for a range hood, you’ve likely noticed that there are a variety of different types available. But which t...continue on"
 keywords: range best
-publishDate: 6/24/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

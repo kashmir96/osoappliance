@@ -3,7 +3,6 @@
 title: Effects Of Hair Dryer On Skin
 description: "Hair dryers are a popular styling tool for many people, but their heat and repetitive use can have negative effects on your skin. ...check it out to learn"
 keywords: hair dryer
-publishDate: 12/22/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

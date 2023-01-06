@@ -3,7 +3,6 @@
 title: Electric Rice Cooker
 description: "As the name suggests, an electric rice cooker is an appliance used to cook rice. It uses electricity to heat up a container filled...keep reading to learn"
 keywords: cooker
-publishDate: 3/25/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

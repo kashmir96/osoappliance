@@ -3,7 +3,6 @@
 title: Is It Safe To Buy Second Hand Appliances Christchurch
 description: Buying second-hand appliances in Christchurch can be a great way to save money - read on to find out how to do it safely!
 keywords: second hand appliances christchurch
-publishDate: 8/3/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

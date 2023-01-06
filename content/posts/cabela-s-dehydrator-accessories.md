@@ -3,7 +3,6 @@
 title: Cabela'S Dehydrator Accessories
 description: "If you’ve ever thought about purchasing a dehydrator for your kitchen, then you’ve probably heard of Cabela’s. Cabela’s is a popul...lets find out"
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

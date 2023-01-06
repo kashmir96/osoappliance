@@ -3,7 +3,6 @@
 title: Washing Machine Front Loader Nz
 description: "Are you considering buying a washing machine? With so many options available, it can be difficult to decide which type is best for...find out now"
 keywords: washing machine nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Bosch Washing Machine Error Codes Nz
 description: This post explains the common Bosch washing machine error codes in New Zealand, what they mean, and what you can do to fix them; so if your washing machine is displaying an error code, read on to find out how to fix it.
 keywords: bosch washing machine nz
-publishDate: 9/8/2022
 tags: ["Washing Machine", "Appliances", "Brands", New Zealand]
 author: Curtis
 categories: ["Appliances Christchurch"]

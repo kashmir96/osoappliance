@@ -3,7 +3,6 @@
 title: Oven Isnt Turning Off
 description: "If your oven isn’t turning off, it can be a worrying issue. Not only could this be a safety hazard, but it can also cause your ele...find out now"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

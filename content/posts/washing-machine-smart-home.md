@@ -3,7 +3,6 @@
 title: Washing Machine Smart Home
 description: "The digital revolution has changed the way we live our lives. We have become increasingly reliant on technology for everything fro...continue on"
 keywords: washing machine smart
-publishDate: 4/1/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

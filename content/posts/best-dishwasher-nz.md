@@ -3,7 +3,6 @@
 title: Best Dishwasher Nz
 description: "When it comes to kitchen appliances, the dishwasher is one of the most important. It’s a time-saving and energy-efficient way to k...continue on"
 keywords: best dishwasher nz
-publishDate: 8/6/2022
 tags: ["Dishwasher", "New Zealand", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

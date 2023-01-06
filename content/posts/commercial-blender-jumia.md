@@ -3,7 +3,6 @@
 title: Commercial Blender Jumia
 description: "A commercial blender is an essential piece of equipment for any business that offers blended drinks, such as smoothies, milkshakes...keep reading to learn"
 keywords: blender
-publishDate: 4/15/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

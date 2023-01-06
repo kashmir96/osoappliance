@@ -3,7 +3,6 @@
 title: Most Common Stove Width
 description: "When it comes to finding the right stove for your kitchen, size really does matter. Stove width is an important factor to consider...see more detail"
 keywords: most stove
-publishDate: 8/4/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

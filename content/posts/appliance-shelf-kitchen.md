@@ -3,7 +3,6 @@
 title: Appliance Shelf Kitchen
 description: "When it comes to organizing your kitchen, one of the most important elements is the appliance shelf. This is a great way to store ...take a moment to check it out "
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

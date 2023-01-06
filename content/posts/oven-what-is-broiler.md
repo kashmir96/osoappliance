@@ -3,7 +3,6 @@
 title: Oven What Is Broiler
 description: "A broiler is a type of kitchen appliance used for cooking food. It is typically a part of an oven, but can also be found as a sepa...you wont regret reading on"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

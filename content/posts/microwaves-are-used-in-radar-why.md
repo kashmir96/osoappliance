@@ -3,7 +3,6 @@
 title: Microwaves Are Used In Radar Why
 description: "Radar is a detection system that uses radio waves to determine the range, angle, and velocity of objects. Microwaves are used in r...lets find out"
 keywords: 
-publishDate: 3/20/2023
 tags: ["Microwave", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

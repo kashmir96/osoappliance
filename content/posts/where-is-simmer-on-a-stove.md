@@ -3,7 +3,6 @@
 title: Where Is Simmer On A Stove
 description: "If you’ve ever wondered where the simmer setting on your stove is, you’re not alone. Simmering is a fundamental cooking technique ...check it out to learn"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

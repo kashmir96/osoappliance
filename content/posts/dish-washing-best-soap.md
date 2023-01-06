@@ -3,7 +3,6 @@
 title: Dish Washing Best Soap
 description: "When it comes to washing dishes, the best soap to use is a dish soap that is specifically designed for the job. Dish soap is formu...lets find out"
 keywords: washing best
-publishDate: 10/4/2022
 tags: ["Washing Machine", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dishwasher Accessories
 description: "When it comes to keeping your kitchen clean and tidy, a dishwasher is an essential appliance. But not all dishwashers are created ...check it out to learn"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

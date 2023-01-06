@@ -3,7 +3,6 @@
 title: Air Purifier Best Practices
 description: "Air purifiers are an effective way to reduce the amount of airborne pollutants in your home, but they must be used correctly to be...see more detail"
 keywords: air purifier best
-publishDate: 3/11/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

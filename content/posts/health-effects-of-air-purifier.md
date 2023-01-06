@@ -3,7 +3,6 @@
 title: Health Effects Of Air Purifier
 description: "We all know that air pollution is a major environmental concern, and it can have a huge impact on our health. But did you know tha...get more detail"
 keywords: air purifier
-publishDate: 5/27/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

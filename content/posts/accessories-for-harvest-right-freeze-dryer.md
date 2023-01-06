@@ -3,7 +3,6 @@
 title: Accessories For Harvest Right Freeze Dryer
 description: "If you’ve recently purchased a Harvest Right Freeze Dryer, you’ll want to get the most out of it by purchasing some helpful access...get more info"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

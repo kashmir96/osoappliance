@@ -3,7 +3,6 @@
 title: Why Is My Stove And Oven Not Working
 description: "If your stove and oven are not working, it could be due to a number of potential issues. From a malfunctioning igniter to a broken...lets find out"
 keywords: stove oven
-publishDate: 12/12/2022
 tags: ["Oven", "Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

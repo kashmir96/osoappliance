@@ -3,7 +3,6 @@
 title: Dryer Isnt Heating Up
 description: "It can be incredibly frustrating when your dryer isn't heating up. Not only does this mean your clothes won't be dry, but it can a...see more detail"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Blender Appliance In The World
 description: "If you’re in the market for a blender that can do it all, then look no further than the world’s biggest blender appliance – the Vi...you wont regret reading on"
 keywords: blender appliance
-publishDate: 4/18/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

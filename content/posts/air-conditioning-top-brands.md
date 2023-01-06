@@ -3,7 +3,6 @@
 title: Air Conditioning Top Brands
 description: "Air conditioning is a must-have for many modern homes. With so many air conditioning brands on the market, it can be hard to decid...lets find out"
 keywords: air top brands
-publishDate: 7/22/2023
 tags: ["Heat Pump", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

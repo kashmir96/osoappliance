@@ -3,7 +3,6 @@
 title: Second Hand Dryers Christchurch
 description: "Buying a second hand dryer can be a great decision for those in Christchurch who are looking for a cost-effective way to purchase ...get more detail"
 keywords: dryers christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Christchurch", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How To Repair A Dent In Your Dishwasher
 description: "If you’ve noticed a dent in your dishwasher, you may be wondering how to repair it. Fortunately, there are a few simple steps you ...learn more"
 keywords: how to repair dishwasher
-publishDate: 6/17/2022
 tags: ["Dishwasher", "Appliance Repair", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

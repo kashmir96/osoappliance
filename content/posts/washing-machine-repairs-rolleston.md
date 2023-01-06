@@ -3,7 +3,6 @@
 title: Washing Machine Repairs Rolleston
 description: "If you live in the small town of Rolleston, located just outside of Christchurch, then you may have experienced the inconvenient t...see more detail"
 keywords: washing machine
-publishDate: 3/25/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

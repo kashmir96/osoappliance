@@ -3,7 +3,6 @@
 title: Most Popular Air Conditioning Brands
 description: "Air conditioning is an essential component of modern life. It helps regulate temperatures in homes, offices, and other buildings t...learn more about it now"
 keywords: most popular air brands
-publishDate: 6/30/2022
 tags: ["Heat Pump", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

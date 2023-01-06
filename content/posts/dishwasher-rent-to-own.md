@@ -3,7 +3,6 @@
 title: Dishwasher Rent To Own
 description: "Dishwasher Rent To Own: A New Alternative To Purchasing A Dishwasher...learn about it in this post"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

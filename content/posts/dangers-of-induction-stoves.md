@@ -3,7 +3,6 @@
 title: Dangers Of Induction Stoves
 description: "Induction stoves are becoming increasingly popular in modern kitchens, but there are some potential dangers associated with using ...you wont regret reading on"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

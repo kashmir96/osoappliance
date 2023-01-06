@@ -3,7 +3,6 @@
 title: Air Purifier Reviews Australia
 description: "In this day and age, air pollution is an ever-growing problem that affects not just our environment, but also our health. As such,...swipe up to find out"
 keywords: air purifier reviews
-publishDate: 4/9/2023
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

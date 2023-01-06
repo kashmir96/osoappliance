@@ -3,7 +3,6 @@
 title: Dryer What To Buy
 description: "When it comes to choosing a dryer, there are a lot of factors to consider. From size and capacity to features and price, it can be...take a moment to check it out "
 keywords: dryer buy
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

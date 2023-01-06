@@ -3,7 +3,6 @@
 title: Washing Machine Useful Life
 description: "Do you ever wonder how long your washing machine will last? Many people aren’t sure what the useful life of a washing machine is, ...you wont regret reading on"
 keywords: washing machine
-publishDate: 4/10/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

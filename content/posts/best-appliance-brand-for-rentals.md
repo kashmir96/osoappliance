@@ -3,7 +3,6 @@
 title: Best Appliance Brand For Rentals
 description: "Are you looking for the best appliance brand for rentals? Whether you are a landlord or a tenant, having reliable and quality appl...find out now"
 keywords: best appliance brand
-publishDate: 12/12/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

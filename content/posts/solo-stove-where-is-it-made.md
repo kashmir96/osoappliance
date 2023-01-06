@@ -3,7 +3,6 @@
 title: Solo Stove Where Is It Made
 description: "Solo Stove is an innovative and award-winning outdoor cooking product designed to make cooking over an open fire easier and more e...you wont regret reading on"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

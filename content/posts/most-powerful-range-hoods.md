@@ -3,7 +3,6 @@
 title: Most Powerful Range Hoods
 description: "Range hoods are an important part of any kitchen, as they help to keep the air clean and free of cooking odors and fumes. If you’r...keep going and find out"
 keywords: most range
-publishDate: 6/27/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

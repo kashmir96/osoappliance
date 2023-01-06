@@ -3,7 +3,6 @@
 title: Risks Of Air Conditioning
 description: "Air conditioning is a great way to keep your home or office cool during the warm summer months. But, as with any appliance, there ...keep reading to learn"
 keywords: air
-publishDate: 25/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

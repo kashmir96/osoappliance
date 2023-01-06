@@ -3,7 +3,6 @@
 title: Dryer Makes Noise When Starting
 description: "As a homeowner, hearing your dryer make a noise when you start it can be concerning. You may be wondering what the cause of the no...see more"
 keywords: dryer
-publishDate: 11/7/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

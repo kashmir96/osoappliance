@@ -3,7 +3,6 @@
 title: Stove Isolator
 description: "Stove isolators are an important safety device that can help to protect you and your family from electric shock. They are designed...lets find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

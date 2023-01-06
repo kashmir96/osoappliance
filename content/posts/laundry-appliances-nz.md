@@ -3,7 +3,6 @@
 title: Laundry Appliances Nz
 description: "If you're looking for the latest in laundry appliances NZ has to offer, you've come to the right place. In this blog, we'll discus...scroll on and keep learning"
 keywords: laundry nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

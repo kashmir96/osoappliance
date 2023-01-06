@@ -3,7 +3,6 @@
 title: Ninja Professional Blender 1000 Accessories
 description: "If you're looking for a powerful, durable blender that can handle all of your blending needs, then the Ninja Professional Blender ...swipe up to find out"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

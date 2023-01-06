@@ -3,7 +3,6 @@
 title: Commercial Appliance Company
 description: "When it comes to running a successful commercial business, having reliable appliances is essential. Commercial appliance companies...see more detail"
 keywords: appliance
-publishDate: 6/10/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

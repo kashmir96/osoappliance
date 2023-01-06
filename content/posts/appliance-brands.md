@@ -3,7 +3,6 @@
 title: Appliance Brands
 description: "Appliances have been an essential part of our lives for decades, and we rely on them to help us with a variety of tasks, from keep...read now to learn more"
 keywords: brands
-publishDate: 12/12/2022
 tags: ["Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

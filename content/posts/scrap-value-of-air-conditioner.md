@@ -3,7 +3,6 @@
 title: Scrap Value Of Air Conditioner
 description: "When it comes to properly disposing of an old air conditioner, scrap value should be one of your key considerations. Scrap value i...get the full scoop"
 keywords: scrap value air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

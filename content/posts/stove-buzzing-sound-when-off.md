@@ -3,7 +3,6 @@
 title: Stove Buzzing Sound When Off
 description: "If you've ever heard a loud buzzing sound coming from your stove while it's off, it can be concerning. The buzzing sound is typica...you wont regret reading on"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

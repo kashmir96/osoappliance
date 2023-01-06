@@ -3,7 +3,6 @@
 title: New Appliance Rebates
 description: "If you’re in the market for a new appliance, now is the time to act! Many states and local governments are offering rebates on ene...read now to learn more"
 keywords: rebates
-publishDate: 12/12/2022
 tags: ["Appliance Rules and Regulations"]
 author: Curtis
 categories: ["Household Appliances"]

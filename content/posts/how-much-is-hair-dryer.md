@@ -3,7 +3,6 @@
 title: How Much Is Hair Dryer
 description: "A hair dryer is an essential tool for styling your hair. But how much does a hair dryer cost? This can vary greatly depending on t...keep reading to learn"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

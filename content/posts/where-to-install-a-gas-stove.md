@@ -3,7 +3,6 @@
 title: Where To Install A Gas Stove
 description: "Installing a gas stove is a great way to upgrade your kitchen and add convenience and value to your home. It’s important, however,...get more info"
 keywords: install gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

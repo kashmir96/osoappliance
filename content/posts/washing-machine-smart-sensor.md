@@ -3,7 +3,6 @@
 title: Washing Machine Smart Sensor
 description: "Today, washing machines are getting smarter and more efficient with the help of smart sensors. Smart sensors are devices that use ...get the full scoop"
 keywords: washing machine smart
-publishDate: 4/5/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

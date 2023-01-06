@@ -3,7 +3,6 @@
 title: Most Popular Kitchen Appliances 2022
 description: "In the modern kitchen, technology has become a must-have. From coffee makers to air fryers, the latest kitchen appliances are maki...keep reading to learn"
 keywords: most popular kitchen appliances 2022
-publishDate: 1/31/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

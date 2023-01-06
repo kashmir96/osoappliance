@@ -3,7 +3,6 @@
 title: Potbelly Stove Nz
 description: "A potbelly stove is an iconic piece of kiwi culture and a style of woodburner that has been around for many years. It’s a traditio...scroll on and keep learning"
 keywords: stove nz
-publishDate: 12/12/2022
 tags: ["Stove", "New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

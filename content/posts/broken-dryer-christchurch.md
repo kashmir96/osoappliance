@@ -3,7 +3,6 @@
 title: Broken Dryer Christchurch
 description: This post provides helpful information about getting your broken dryer fixed in Christchurch, so if you're looking for an easy and reliable solution, keep reading to find out more!
 keywords: dryer christchurch
-publishDate: 7/30/2022
 tags: ["Christchurch", "Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

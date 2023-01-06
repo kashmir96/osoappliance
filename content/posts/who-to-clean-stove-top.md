@@ -3,7 +3,6 @@
 title: Who To Clean Stove Top
 description: "Cleaning your stove top is a chore that no one looks forward to, but with the right know-how, you can make it as easy as possible....learn more about it now"
 keywords: clean stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

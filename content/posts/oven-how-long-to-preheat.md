@@ -3,7 +3,6 @@
 title: Oven How Long To Preheat
 description: "Preheating an oven is an important part of baking, and the time it takes to preheat can vary depending on the type of oven you hav...get the full scoop"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

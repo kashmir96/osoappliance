@@ -3,7 +3,6 @@
 title: Hair Dryer Brush Nz
 description: "A hair dryer brush is a revolutionary styling tool that can help you get the perfect hairstyle. This styling tool is a combination...see more"
 keywords: hair dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

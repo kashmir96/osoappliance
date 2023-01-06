@@ -3,7 +3,6 @@
 title: Washing Machine Wont Stop Spinning
 description: If your washing machine is spinning out of control, check out this post for help.
 keywords: washing machine
-publishDate: 7/16/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

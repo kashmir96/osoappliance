@@ -3,7 +3,6 @@
 title: What Is The Best Time Of Year For Appliance Sales
 description: "If you’re looking to save money on a new appliance, timing your purchase is key. The best time of year for appliance sales is gene...learn more"
 keywords: best appliance sales
-publishDate: 2/23/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

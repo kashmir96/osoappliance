@@ -3,7 +3,6 @@
 title: How Much Is A Stackable Washer And Dryer
 description: "Stackable washers and dryers are a great way to save space in your laundry room while still getting the same performance of a full...check it out to learn"
 keywords: dryer
-publishDate: 12/22/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

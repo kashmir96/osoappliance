@@ -3,7 +3,6 @@
 title: Washing Machine Loud
 description: If your washing machine is making loud noises, it may be caused by a variety of problems. This blog post discusses the most common causes of washing machine noise, as well as some helpful tips for reducing or even eliminating the noise altogether.
 keywords: washing machine
-publishDate: 7/17/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

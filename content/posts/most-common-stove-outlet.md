@@ -3,7 +3,6 @@
 title: Most Common Stove Outlet
 description: "A stove outlet is a dedicated outlet that provides power to your oven and cooktop. It is typically installed in a kitchen or other...take a moment to check it out "
 keywords: most stove
-publishDate: 8/1/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

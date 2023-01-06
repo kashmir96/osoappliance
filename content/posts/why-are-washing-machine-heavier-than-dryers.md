@@ -3,7 +3,6 @@
 title: Why Are Washing Machine Heavier Than Dryers
 description: "When it comes to laundry appliances, washing machines are usually heavier than dryers. This is because washing machines use more e...find out now"
 keywords: washing machine dryers
-publishDate: 7/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

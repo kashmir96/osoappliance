@@ -3,7 +3,6 @@
 title: Freeze Dryer Accessories
 description: "When it comes to purchasing a freeze dryer, one of the most important decisions you will need to make is what type of accessories ...get more info"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

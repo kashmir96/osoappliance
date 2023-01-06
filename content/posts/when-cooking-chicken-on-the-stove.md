@@ -3,7 +3,6 @@
 title: When Cooking Chicken On The Stove
 description: "Cooking chicken on the stove is one of the easiest and most convenient ways to prepare a tasty and healthy meal. Whether you’re ma...see more"
 keywords: cooking stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

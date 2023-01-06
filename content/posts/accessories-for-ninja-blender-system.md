@@ -3,7 +3,6 @@
 title: Accessories For Ninja Blender System
 description: "If you're looking for the perfect blender for your kitchen, then the Ninja Blender System is a great choice. Not only does it blen...get more detail"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

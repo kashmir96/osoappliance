@@ -3,7 +3,6 @@
 title: 2023 Dryer
 description: "In the year 2023, dryers have come a long way from their predecessors. No longer do you have to worry about waiting hours for your...learn more about it now"
 keywords: 2023 dryer
-publishDate: 2/25/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Does A Bigger Dryer Cost More To Run
 description: This post explains why a larger dryer may not be the most cost-effective option, so if you're looking for an energy-efficient dryer, read on!
 keywords: dryer
-publishDate: 11/23/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

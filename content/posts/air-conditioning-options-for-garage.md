@@ -3,7 +3,6 @@
 title: Air Conditioning Options For Garage
 description: "The garage is one of the most important spaces in the home, providing a place to store valuable items and vehicles, as well as a s...keep going and find out"
 keywords: air
-publishDate: 6/27/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

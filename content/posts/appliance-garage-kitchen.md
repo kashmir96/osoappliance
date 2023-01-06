@@ -3,7 +3,6 @@
 title: Appliance Garage Kitchen
 description: "An appliance garage kitchen is a great way to store and organize all of your kitchen appliances in one convenient place. The appli...get the full scoop"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

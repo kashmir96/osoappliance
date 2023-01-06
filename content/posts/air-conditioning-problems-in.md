@@ -3,7 +3,6 @@
 title: Air Conditioning Problems In
 description: "It's no surprise that air conditioning problems are a common issue for car owners. Whether it's not blowing cold enough, not worki...take a moment to check it out "
 keywords: air
-publishDate: 7/6/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

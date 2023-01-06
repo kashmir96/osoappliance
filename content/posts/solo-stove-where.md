@@ -3,7 +3,6 @@
 title: Solo Stove Where
 description: "Solo Stove is an innovative outdoor cooking solution that uses a patented design to create an efficient and smokeless campfire. Th...check it out to learn"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

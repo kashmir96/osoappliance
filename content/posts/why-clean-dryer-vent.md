@@ -3,7 +3,6 @@
 title: Why Clean Dryer Vent
 description: "If you own a dryer, it’s important to understand the importance of cleaning your dryer vent. A clogged dryer vent can lead to a ho...check it out to learn"
 keywords: clean dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

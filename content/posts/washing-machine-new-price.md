@@ -3,7 +3,6 @@
 title: Washing Machine New Price
 description: "As we all know, the prices of washing machines have been increasing in recent years. This is due to a variety of factors, such as ...see more"
 keywords: washing machine
-publishDate: 3/7/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

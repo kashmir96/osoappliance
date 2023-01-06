@@ -3,7 +3,6 @@
 title: Best Appliance Package Deals
 description: "If you're in the market for some new appliances, you may be wondering what the best appliance package deals are. While there are a...learn more about it now"
 keywords: best package deals
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

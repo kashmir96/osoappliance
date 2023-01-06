@@ -3,7 +3,6 @@
 title: Kitchen Appliances Crossword Clue
 description: "If you’re looking for a way to add more convenience and efficiency to your kitchen, then investing in the right kitchen appliances...get more detail"
 keywords: kitchen appliances
-publishDate: 1/24/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

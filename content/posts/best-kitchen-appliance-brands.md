@@ -3,7 +3,6 @@
 title: Best Kitchen Appliance Brands
 description: "There are many kitchen appliance brands on the market, but some are better than others. Here are some of the best kitchen applianc...learn more"
 keywords: best kitchen brands
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

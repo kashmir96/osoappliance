@@ -3,7 +3,6 @@
 title: Appliance That Consumes Most Energy
 description: "When it comes to energy consumption, appliances are one of the biggest culprits. They can consume an astonishing amount of electri...read now to learn more"
 keywords: most energy
-publishDate: 12/12/2022
 tags: ["Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

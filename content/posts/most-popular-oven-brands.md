@@ -3,7 +3,6 @@
 title: Most Popular Oven Brands
 description: "Ovens are essential appliances in the kitchen, and with so many different brands out there, it can be hard to decide which one is ...learn more"
 keywords: most popular oven
-publishDate: 7/26/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Portable Washing Machine Pros And Cons
 description: "When it comes to laundry, a portable washing machine is a great way to simplify the process. Portable machines are ideal for small...keep reading to learn"
 keywords: washing machine
-publishDate: 1/10/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Makes Screeching Noise
 description: "If you're getting ready to do some laundry and your dryer starts making a screeching noise, it can be frustrating and worrisome. F...read now to learn more"
 keywords: dryer
-publishDate: 11/9/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

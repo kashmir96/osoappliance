@@ -3,7 +3,6 @@
 title: Hair Dryer Sale Nz
 description: "Are you looking for the best deals on hair dryers in New Zealand? Whether you’re after a new hair dryer for yourself or as a gift ...read now to learn more"
 keywords: hair dryer sale nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

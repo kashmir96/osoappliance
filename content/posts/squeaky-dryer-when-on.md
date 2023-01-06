@@ -3,7 +3,6 @@
 title: Squeaky Dryer When On
 description: "If you've ever heard a loud, high-pitched sound coming from your dryer, then you know what a squeaky dryer sounds like. A squeaky ...read now to learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

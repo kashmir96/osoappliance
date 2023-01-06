@@ -3,7 +3,6 @@
 title: Oven How Many Amps
 description: "When it comes to home appliances, the amount of power they use is an important consideration. One of the most common questions peo...scroll on and keep learning"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

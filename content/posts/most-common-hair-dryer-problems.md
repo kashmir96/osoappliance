@@ -3,7 +3,6 @@
 title: Most Common Hair Dryer Problems
 description: "When it comes to styling your hair, a hair dryer is often the most important tool in your arsenal. But just like any other applian...get more detail"
 keywords: most hair dryer
-publishDate: 3/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

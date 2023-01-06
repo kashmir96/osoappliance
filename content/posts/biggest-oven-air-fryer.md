@@ -3,7 +3,6 @@
 title: Biggest Oven Air Fryer
 description: "The oven air fryer is a revolutionary kitchen appliance that combines the convenience of an oven with the healthy benefits of an a...learn more about it now"
 keywords: oven air
-publishDate: 5/23/2022
 tags: ["Heat Pump", "Oven"]
 author: Curtis
 categories: ["Household Appliances"]

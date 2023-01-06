@@ -3,7 +3,6 @@
 title: Buy Electrical Appliances Online Malaysia
 description: "Are you looking for a convenient way to shop for electrical appliances in Malaysia? Look no further than buying them online! Onlin...learn about it in this post"
 keywords: buy appliances online
-publishDate: 2/7/2023
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

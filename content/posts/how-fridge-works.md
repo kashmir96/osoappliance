@@ -3,7 +3,6 @@
 title: How Fridge Works
 description: "Have you ever wondered how a fridge works? A refrigerator is a machine that keeps food and other perishable items cold by removing...continue on"
 keywords: fridge
-publishDate: 12/12/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

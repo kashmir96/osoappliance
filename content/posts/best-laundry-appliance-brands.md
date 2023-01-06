@@ -3,7 +3,6 @@
 title: Best Laundry Appliance Brands
 description: "If you’re in the market for a new laundry appliance, you want to make sure that you’re getting the best quality and value for your...lets find out"
 keywords: best laundry brands
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

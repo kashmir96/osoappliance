@@ -3,7 +3,6 @@
 title: In Electric Kettle Takes 20 Minutes
 description: "An electric kettle is a kitchen appliance that is used to heat water quickly and conveniently. It is one of the most convenient to...swipe up to find out"
 keywords: kettle
-publishDate: 3/28/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

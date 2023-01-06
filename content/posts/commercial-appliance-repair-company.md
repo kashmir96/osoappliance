@@ -3,7 +3,6 @@
 title: Commercial Appliance Repair Company
 description: "If you own a business or manage a commercial property, you may require the services of a commercial appliance repair company. Comm...find out now"
 keywords: appliance repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

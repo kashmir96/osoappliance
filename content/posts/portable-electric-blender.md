@@ -3,7 +3,6 @@
 title: Portable Electric Blender
 description: "Portable electric blenders are a must-have for any kitchen. Whether you’re looking for a way to quickly whip up a smoothie or blen...lets find out"
 keywords: blender
-publishDate: 5/25/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Common Heating Fuel In Us
 description: "Heating a home is an essential part of life in the United States, with most homes relying on some type of heating fuel to keep the...read now to learn more"
 keywords: most
-publishDate: 1/24/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

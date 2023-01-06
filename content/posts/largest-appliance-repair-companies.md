@@ -3,7 +3,6 @@
 title: Largest Appliance Repair Companies
 description: "When it comes to appliance repair, the larger the company, the better. This is because larger companies tend to have more experien...swipe up to find out"
 keywords: appliance repair
-publishDate: 6/19/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

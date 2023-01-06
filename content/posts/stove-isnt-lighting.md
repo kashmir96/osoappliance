@@ -3,7 +3,6 @@
 title: Stove Isnt Lighting
 description: "If your stove isn't lighting, it could be due to a number of different issues. Here are some of the most common causes and what yo...learn about it in this post"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

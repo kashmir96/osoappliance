@@ -3,7 +3,6 @@
 title: Dryer What Size Breaker
 description: "With so many different types of breakers available, it can be difficult to know which one is right for your dryer. The size of the...find out now"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

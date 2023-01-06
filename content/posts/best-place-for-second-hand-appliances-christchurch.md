@@ -3,7 +3,6 @@
 title: Best Place For Second Hand Appliances Christchurch
 description: Shopping for a second-hand appliance in Christchurch? Read this post to discover the best places to buy used appliances, and start your search today!
 keywords: second hand appliances christchurch
-publishDate: 8/14/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

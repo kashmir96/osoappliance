@@ -3,7 +3,6 @@
 title: Machine Washing Best Seller
 description: "If you’re in the market for a new washing machine, you may be wondering which one is the best. The truth is, there is no single “b...lets find out"
 keywords: washing best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

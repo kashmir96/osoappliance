@@ -3,7 +3,6 @@
 title: Big Box Appliance Reviews
 description: "Big box appliance reviews are a great way to make an informed decision when shopping for major home appliances. With so many model...lets find out"
 keywords: appliance reviews
-publishDate: 3/16/2022
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

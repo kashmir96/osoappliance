@@ -3,7 +3,6 @@
 title: Air Conditioning Gas Disposal
 description: "Air conditioning gas disposal is an important process that needs to be addressed for any air conditioning system, as the gases use...check it out to learn"
 keywords: air gas disposal
-publishDate: 5/20/2022
 tags: ["Heat Pump", "Stove", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

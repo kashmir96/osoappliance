@@ -3,7 +3,6 @@
 title: Oven What Is Broil
 description: "Broiling is a cooking method that uses direct heat to quickly cook food. It is similar to grilling in that it cooks the food from ...swipe up to find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

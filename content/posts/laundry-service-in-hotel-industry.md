@@ -3,7 +3,6 @@
 title: Laundry Service In Hotel Industry
 description: "Laundry service is an important part of the hotel industry. It is used to clean and maintain the uniforms, linens, and towels used...get the full scoop"
 keywords: laundry
-publishDate: 12/13/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Conditioning Commercial Lease
 description: "Air conditioning can be an important part of any commercial lease, as it helps to keep the interior temperature comfortable for em...scroll on and keep learning"
 keywords: air
-publishDate: 5/31/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

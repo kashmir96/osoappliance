@@ -3,7 +3,6 @@
 title: How Much Is A Dyson Hair Dryer
 description: "If you’re in the market for a new hair dryer, you’ve probably heard of the Dyson Supersonic Hair Dryer. This is one of the most po...keep going and find out"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

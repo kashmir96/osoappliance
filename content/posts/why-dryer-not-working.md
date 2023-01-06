@@ -3,7 +3,6 @@
 title: Why Dryer Not Working
 description: "If your dryer is no longer working, it can be incredibly frustrating. While the most common cause of a malfunctioning dryer is usu...get more info"
 keywords: dryer
-publishDate: 3/7/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

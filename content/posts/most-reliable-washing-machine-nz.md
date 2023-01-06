@@ -3,7 +3,6 @@
 title: Most Reliable Washing Machine Nz
 description: "When it comes to finding the most reliable washing machine in NZ, you want to look for machines that are built with quality and du...get more info"
 keywords: most reliable washing machine nz
-publishDate: 2/10/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

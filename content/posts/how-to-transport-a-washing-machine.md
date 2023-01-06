@@ -3,7 +3,6 @@
 title: How To Transport A Washing Machine
 description: If you're looking for tips on how to safely move a washing machine, this post has you covered - read on to find out more!
 keywords: how to washing machine
-publishDate: 11/16/2022
 tags: ["Washing Machine", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

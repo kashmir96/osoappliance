@@ -3,7 +3,6 @@
 title: 2023 Coffee Maker
 description: "As technology continues to develop rapidly, home appliances such as coffee makers are advancing in ways we could never have imagin...find out now"
 keywords: 2023 coffee maker
-publishDate: 2/21/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

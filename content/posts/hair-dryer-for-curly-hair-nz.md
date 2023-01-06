@@ -3,7 +3,6 @@
 title: Hair Dryer For Curly Hair Nz
 description: "We know that curly hair is a blessing, but it can be a bit of a challenge to manage. Whether you want to maintain your curls or cr...keep reading to learn"
 keywords: hair dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

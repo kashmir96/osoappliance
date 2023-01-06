@@ -3,7 +3,6 @@
 title: Health Benefits Of Living Without Air Conditioning
 description: "Living without air conditioning can be a daunting prospect, especially during the hot summer months. However, there are some signi...you wont regret reading on"
 keywords: air
-publishDate: 5/8/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Hair Accessories Blower
 description: "Hair accessories blowers are a must-have for anyone wanting to get the perfect hairstyle. This type of hair dryer has several adva...see more detail"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

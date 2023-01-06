@@ -3,7 +3,6 @@
 title: Washing Machine Pc Repair Course
 description: "Are you looking to learn how to repair a washing machine? If so, then a Washing Machine PC Repair Course is just what you need. Th...see more"
 keywords: washing machine repair
-publishDate: 2/19/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

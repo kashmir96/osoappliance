@@ -3,7 +3,6 @@
 title: Appliance Haul Away Best Buy
 description: "Appliance haul away is a great service for anyone who has recently purchased a new appliance and needs to get rid of the old one. ...see more detail"
 keywords: haul away best buy
-publishDate: 12/12/2022
 tags: ["Appliance Disposal", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: When Dishwasher Runs Sink Fills With Water
 description: "If your dishwasher runs and your sink starts to fill up with water, you may have a problem with your dishwasher drainage system. D...swipe up to find out"
 keywords: dishwasher water
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

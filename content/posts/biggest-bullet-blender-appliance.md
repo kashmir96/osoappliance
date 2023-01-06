@@ -3,7 +3,6 @@
 title: Biggest Bullet Blender Appliance
 description: "For those who are looking for a powerful blender appliance, the Bullet Blender is one of the best options on the market. The Bulle...learn more"
 keywords: blender appliance
-publishDate: 4/22/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

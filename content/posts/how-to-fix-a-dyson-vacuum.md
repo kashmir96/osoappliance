@@ -3,7 +3,6 @@
 title: How To Fix A Dyson Vacuum
 description: "If you own a Dyson vacuum, you know that it can be a powerful and reliable cleaning tool. Unfortunately, like all machines, it can...lets find out"
 keywords: how to fix vacuum
-publishDate: 6/7/2022
 tags: ["Vacuum", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

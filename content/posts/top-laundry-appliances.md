@@ -3,7 +3,6 @@
 title: Top Laundry Appliances
 description: "Doing laundry is a necessary but time-consuming chore. To make it easier, there are a variety of laundry appliances on the market ...find out now"
 keywords: top laundry appliances
-publishDate: 7/16/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

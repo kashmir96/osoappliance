@@ -3,7 +3,6 @@
 title: Tumble Dryer Repairs Christchurch
 description: "As an appliance repair technician, you need to have systems in place to help you run your business as smoothly as possible. From s...check it out to learn"
 keywords: dryer christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Christchurch", "Appliance Repair", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

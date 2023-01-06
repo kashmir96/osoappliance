@@ -3,7 +3,6 @@
 title: Top Range Hoods Quiet
 description: "Whether you’re cooking a gourmet meal or a simple dinner, having a range hood in the kitchen can be an important part of keeping y...read now to learn more"
 keywords: top range
-publishDate: 7/22/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

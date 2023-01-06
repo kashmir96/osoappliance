@@ -3,7 +3,6 @@
 title: Top Range Hood Brands
 description: "Having a range hood in your kitchen is essential for removing cooking odors and smoke from the air. But with so many brands to cho...read now to learn more"
 keywords: top range brands
-publishDate: 7/17/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

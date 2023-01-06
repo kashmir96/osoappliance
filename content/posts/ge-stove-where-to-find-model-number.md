@@ -3,7 +3,6 @@
 title: Ge Stove Where To Find Model Number
 description: "If you’re looking for a new GE stove, you’ll need to know the model number. The model number is essential for finding the right pa...lets find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

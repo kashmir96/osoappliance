@@ -3,7 +3,6 @@
 title: Electric Heat Pump Hot Water System Prices
 description: "Electric heat pump hot water systems are becoming increasingly popular in homes and businesses due to their energy efficiency and ...continue on"
 keywords: heat pump water
-publishDate: 6/11/2022
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

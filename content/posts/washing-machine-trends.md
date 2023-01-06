@@ -3,7 +3,6 @@
 title: Washing Machine Trends
 description: "Do you want to stay up-to-date with the latest trends in washing machines? Whether you’re shopping for a new washer or just curiou...you wont regret reading on"
 keywords: washing machine trends
-publishDate: 4/8/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

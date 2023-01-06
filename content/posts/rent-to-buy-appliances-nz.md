@@ -3,7 +3,6 @@
 title: Rent To Buy Appliances Nz
 description: "Rent to Buy Appliances NZ is a convenient and affordable way to purchase the appliances you need without having to pay the full up...swipe up to find out"
 keywords: buy appliances nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

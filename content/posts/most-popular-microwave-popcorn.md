@@ -3,7 +3,6 @@
 title: Most Popular Microwave Popcorn
 description: "Microwave popcorn is one of the most popular snacks in the world. It is a convenient and tasty way to get your daily dose of popco...keep going and find out"
 keywords: most popular microwave
-publishDate: 12/28/2021
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

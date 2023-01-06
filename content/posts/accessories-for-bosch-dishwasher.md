@@ -3,7 +3,6 @@
 title: Accessories For Bosch Dishwasher
 description: "When it comes to dishwashers, Bosch is one of the most trusted names in the industry. Their dishwashers are some of the most relia...scroll on and keep learning"
 keywords: bosch dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

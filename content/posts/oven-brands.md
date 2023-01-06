@@ -3,7 +3,6 @@
 title: Oven Brands
 description: "When it comes to buying an oven, there are a lot of brands and models to choose from. Knowing which one is right for you can be ov...you wont regret reading on"
 keywords: oven brands
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

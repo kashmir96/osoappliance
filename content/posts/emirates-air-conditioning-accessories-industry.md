@@ -3,7 +3,6 @@
 title: Emirates Air Conditioning Accessories Industry
 description: "The Emirates air conditioning accessories industry is a rapidly growing sector in the Middle East, due to the fact that air condit...get the full scoop"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Big Blender Appliance Projects For 2023
 description: "It’s no surprise that in the age of technology, blenders have become more than just a tool for making smoothies. From mixing up ho...swipe up to find out"
 keywords: blender appliance 2023
-publishDate: 3/15/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

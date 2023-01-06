@@ -3,7 +3,6 @@
 title: Dishwasher Cutlery Basket Christchurch
 description: "The dishwasher cutlery basket is a great tool for keeping your cutlery organised and clean. It’s perfect for busy households in Ch...take a moment to check it out "
 keywords: dishwasher christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

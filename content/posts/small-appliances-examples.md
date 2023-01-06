@@ -3,7 +3,6 @@
 title: Small Appliances Examples
 description: "Small appliances are small, portable devices that are used for a variety of purposes. They can be used to complete everyday tasks ...lets find out"
 keywords: appliances
-publishDate: 1/17/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

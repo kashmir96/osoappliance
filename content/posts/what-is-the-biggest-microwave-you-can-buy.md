@@ -3,7 +3,6 @@
 title: What Is The Biggest Microwave You Can Buy
 description: "When it comes to microwaves, bigger can sometimes be better. Whether you’re looking for a larger interior capacity, more power, or...learn more about it now"
 keywords: microwave buy
-publishDate: 7/24/2022
 tags: ["Microwave", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

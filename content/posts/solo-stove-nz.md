@@ -3,7 +3,6 @@
 title: Solo Stove Nz
 description: "Solo Stove NZ is a popular outdoor stove brand in New Zealand. Solo Stove creates state-of-the-art, lightweight and efficient wood...swipe up to find out"
 keywords: stove nz
-publishDate: 12/12/2022
 tags: ["Stove", "New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Common Heating System
 description: "Heating systems are essential for keeping homes and businesses warm during the colder months of the year. There are a variety of h...check it out to learn"
 keywords: most
-publishDate: 1/18/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

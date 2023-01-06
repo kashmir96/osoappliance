@@ -3,7 +3,6 @@
 title: Air Conditioner App To Use
 description: "In this day and age, air conditioners are becoming increasingly popular in homes and businesses. With the rise of global temperatu...you wont regret reading on"
 keywords: air conditioner use
-publishDate: 3/28/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

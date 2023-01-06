@@ -3,7 +3,6 @@
 title: Air Conditioning Hazards
 description: "Air conditioning has become an integral part of modern life, providing much-needed relief from the heat and humidity of summer. Ho...check it out to learn"
 keywords: air
-publishDate: 6/16/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

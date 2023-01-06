@@ -3,7 +3,6 @@
 title: Dishwasher What To Look For
 description: "If you’re in the market for a new dishwasher, you’ll want to do your research to make sure you get the best one for your needs. He...keep reading to learn"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Are Washer Dryers Any Good
 description: "While washer dryers are convenient and space saving, a great characteristic for people with small homes, generally these machines ...see more"
 keywords: dryers
-publishDate: 7/31/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

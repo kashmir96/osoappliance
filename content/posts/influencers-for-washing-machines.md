@@ -3,7 +3,6 @@
 title: Influencers For Washing Machines
 description: "Influencers are a powerful way to market products and services, especially when it comes to washing machines. Influencers can be u...learn about it in this post"
 keywords: washing machines
-publishDate: 12/19/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

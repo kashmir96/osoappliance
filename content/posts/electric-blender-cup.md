@@ -3,7 +3,6 @@
 title: Electric Blender Cup
 description: "A blender cup is a type of electric blender that includes a drinking cup as part of the base. It has all the same features as a re...see more detail"
 keywords: blender
-publishDate: 2/1/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

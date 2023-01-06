@@ -3,7 +3,6 @@
 title: Ge Dishwasher Accessories
 description: "Are you looking to get the most out of your GE dishwasher? If so, you should look into purchasing some of the many available acces...get the full scoop"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

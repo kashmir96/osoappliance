@@ -3,7 +3,6 @@
 title: Influencers For Appliacne Repairs
 description: "What Are Influencers, and How Do They Help Appliance Repair?...continue on"
 keywords: 
-publishDate: 12/18/2022
 tags: ["Heat Pump", "Appliance Repair"]
 author: Curtis
 categories: ["Household Appliances"]

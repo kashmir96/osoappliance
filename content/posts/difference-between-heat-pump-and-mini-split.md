@@ -3,7 +3,6 @@
 title: Difference Between Heat Pump And Mini Split
 description: "When it comes to heating and cooling your home, you may find yourself choosing between a heat pump and a mini split system. While ...learn more about it now"
 keywords: heat pump
-publishDate: 11/26/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

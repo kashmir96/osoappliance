@@ -3,7 +3,6 @@
 title: Best Countertop Dishwasher
 description: "A countertop dishwasher is a great way to save space in your kitchen while still getting the job done. It's a great option for sma...scroll on and keep learning"
 keywords: best dishwasher
-publishDate: 8/4/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

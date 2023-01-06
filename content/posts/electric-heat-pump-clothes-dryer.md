@@ -3,7 +3,6 @@
 title: Electric Heat Pump Clothes Dryer
 description: "The electric heat pump clothes dryer is a great choice for those looking to lower their energy costs and reduce their environmenta...get more info"
 keywords: heat pump dryer
-publishDate: 6/8/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

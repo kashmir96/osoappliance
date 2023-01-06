@@ -3,7 +3,6 @@
 title: Health Benefits Of No Air Conditioning
 description: "With the summer months quickly approaching, many of us start to think about cranking up the air conditioning and seeking out those...find out now"
 keywords: air
-publishDate: 6/28/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

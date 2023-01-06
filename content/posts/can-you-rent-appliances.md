@@ -3,7 +3,6 @@
 title: Can You Rent Appliances
 description: "Yes, you can rent appliances. This is becoming an increasingly popular option for those who need access to certain appliances or e...get more detail"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

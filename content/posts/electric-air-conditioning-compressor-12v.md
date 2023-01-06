@@ -3,7 +3,6 @@
 title: Electric Air Conditioning Compressor 12V
 description: "Electric air conditioning compressors offer an efficient and cost effective way to cool your home or office. They are powered by e...you wont regret reading on"
 keywords: air
-publishDate: 5/28/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How To Swap Motor Brushes On Washing Machine
 description: This post will teach you how to swap the motor brushes on your washing machine. This is a simple process that you can do yourself with a few common tools.
 keywords: how to washing machine
-publishDate: 6/28/2022
 tags: ["Washing Machine", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

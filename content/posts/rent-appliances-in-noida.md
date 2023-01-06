@@ -3,7 +3,6 @@
 title: Rent Appliances In Noida
 description: "Renting appliances in Noida is becoming increasingly popular as a way to get the latest, most energy-efficient models without the ...find out now"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

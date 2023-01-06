@@ -3,7 +3,6 @@
 title: Most Popular Appliance
 description: "When it comes to appliances, there are many that are popular in homes around the world. From refrigerators to washing machines, th...see more"
 keywords: most popular appliance
-publishDate: 7/10/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

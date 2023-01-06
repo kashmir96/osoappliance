@@ -3,7 +3,6 @@
 title: Why Oven Need To Preheat
 description: "Preheating an oven is an important step in many recipes, yet it is often overlooked. Preheating allows the temperature of your ove...see more detail"
 keywords: oven
-publishDate: 3/15/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

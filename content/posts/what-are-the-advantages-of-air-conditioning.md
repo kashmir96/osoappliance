@@ -3,7 +3,6 @@
 title: What Are The Advantages Of Air Conditioning
 description: "Air conditioning is a great way to keep your home or office cool and comfortable during the hot summer months. It can also help to...take a moment to check it out "
 keywords: air
-publishDate: 5/9/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

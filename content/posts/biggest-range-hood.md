@@ -3,7 +3,6 @@
 title: Biggest Range Hood
 description: "A range hood is one of the most important pieces of kitchen equipment you can buy. It is an essential part of keeping your kitchen...get more detail"
 keywords: range
-publishDate: 6/4/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

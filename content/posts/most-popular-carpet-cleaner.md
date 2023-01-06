@@ -3,7 +3,6 @@
 title: Most Popular Carpet Cleaner
 description: "Carpet cleaning is an important part of home maintenance as it helps to keep your carpets looking and feeling like new. It can als...keep going and find out"
 keywords: most popular
-publishDate: 2/11/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

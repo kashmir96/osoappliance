@@ -3,7 +3,6 @@
 title: Most Common Dryer Problems
 description: "Dryers are an essential part of modern day life and can be found in many households. While they are convenient and helpful, they c...keep reading to learn"
 keywords: most dryer
-publishDate: 7/11/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

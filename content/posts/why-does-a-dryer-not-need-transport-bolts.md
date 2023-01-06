@@ -3,7 +3,6 @@
 title: Why Does A Dryer Not Need Transport Bolts
 description: "When it comes to dryers, one of the most common questions is why they don’t need transport bolts. Transport bolts are used to secu...keep going and find out"
 keywords: dryer
-publishDate: 7/19/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: 2023 Heat Pump
 description: "As the world moves towards more energy efficient solutions, heat pumps have become increasingly popular. Heat pumps are a form of ...see more detail"
 keywords: 2023 heat pump
-publishDate: 2/26/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

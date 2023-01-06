@@ -3,7 +3,6 @@
 title: Salvage Value Of Air-Conditioning
 description: "When it comes to air conditioning systems, the salvage value is an important factor to consider. A salvage value is the estimated ...swipe up to find out"
 keywords: value air
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

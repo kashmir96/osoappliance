@@ -3,7 +3,6 @@
 title: Best Budget Dishwasher
 description: "If you’re looking for a budget dishwasher that won’t break the bank, you’ve come to the right place. Dishwashers are an essential ...get the full scoop"
 keywords: best dishwasher
-publishDate: 8/2/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

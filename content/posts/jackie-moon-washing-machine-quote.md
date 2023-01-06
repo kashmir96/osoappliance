@@ -3,7 +3,6 @@
 title: Jackie Moon Washing Machine Quote
 description: "One of the most iconic lines to come out of the Will Ferrell movie Semi-Pro is Jackie Moon's quote about his washing machine. In t...keep reading to learn"
 keywords: washing machine
-publishDate: 12/27/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

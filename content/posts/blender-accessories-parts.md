@@ -3,7 +3,6 @@
 title: Blender Accessories Parts
 description: "Blender accessories are essential tools for any kitchen. They allow you to make a variety of recipes quickly and easily. Whether y...scroll on and keep learning"
 keywords: blender parts
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

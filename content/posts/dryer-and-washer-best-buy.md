@@ -3,7 +3,6 @@
 title: Dryer And Washer Best Buy
 description: "Are you in the market for a new washer and dryer? If so, you’ve come to the right place. Buying a new washer and dryer can be a da...keep going and find out"
 keywords: dryer best buy
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

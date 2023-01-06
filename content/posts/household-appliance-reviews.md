@@ -3,7 +3,6 @@
 title: Household Appliance Reviews
 description: "When it comes to making big purchases for your home, such as appliances, it is important to get the most bang for your buck. One o...take a moment to check it out "
 keywords: appliance reviews
-publishDate: 1/18/2023
 tags: ["Appliance Disposal", "Appliance Consumption", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

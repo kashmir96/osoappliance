@@ -3,7 +3,6 @@
 title: Why Washing Machine Not Draining Water
 description: "If your washing machine is not draining water, it can be a major inconvenience. Fortunately, there are a few solutions you can try...continue on"
 keywords: washing machine water
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

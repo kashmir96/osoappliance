@@ -3,7 +3,6 @@
 title: How To Dispose Of Air Conditioner Boston
 description: "As the summer months approach, many Boston residents are turning to their air conditioners to keep cool. But when it’s time to rep...swipe up to find out"
 keywords: how to dispose air conditioner
-publishDate: 5/23/2022
 tags: ["Heat Pump", "Appliance Disposal", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

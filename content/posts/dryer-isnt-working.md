@@ -3,7 +3,6 @@
 title: Dryer Isnt Working
 description: "If your dryer isn't working, it can be an incredibly frustrating experience. It's important to identify the cause of the problem b...swipe up to find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

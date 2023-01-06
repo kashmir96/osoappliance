@@ -3,7 +3,6 @@
 title: Electrical Smell Blender
 description: "The smell of burning plastic or electrical wiring is an unpleasant and dangerous odor that can be caused by a malfunctioning appli...get the full scoop"
 keywords: blender
-publishDate: 4/26/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

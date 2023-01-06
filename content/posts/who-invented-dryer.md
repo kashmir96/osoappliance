@@ -3,7 +3,6 @@
 title: Who Invented Dryer
 description: "The dryer was invented by George T. Sampson in 1892. Sampson was a African American inventor from South Carolina who had a passion...scroll on and keep learning"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

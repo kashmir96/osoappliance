@@ -3,7 +3,6 @@
 title: Stove Wholesale
 description: "Stove wholesale is a great way to save money on the purchase of a new stove. Buying wholesale is the process of buying in bulk fro...read now to learn more"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

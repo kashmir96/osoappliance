@@ -3,7 +3,6 @@
 title: Biggest Microwave Explosion
 description: "In recent years, there has been an increasing number of reports about microwave explosions, ranging from minor sparks to full-blow...scroll on and keep learning"
 keywords: microwave
-publishDate: 5/16/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

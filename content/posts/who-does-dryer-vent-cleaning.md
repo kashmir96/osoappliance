@@ -3,7 +3,6 @@
 title: Who Does Dryer Vent Cleaning
 description: "Dryer vent cleaning is an important part of home maintenance. It's a job that should be done at least once a year, and more often ...you wont regret reading on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

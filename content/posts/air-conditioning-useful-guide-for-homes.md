@@ -3,7 +3,6 @@
 title: Air Conditioning Useful Guide For Homes
 description: "Home air conditioning is one of the most popular ways to beat the heat, but many homeowners still don’t understand how it works or...keep going and find out"
 keywords: air guide
-publishDate: 2/23/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

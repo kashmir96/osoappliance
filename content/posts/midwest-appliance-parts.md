@@ -3,7 +3,6 @@
 title: Midwest Appliance Parts
 description: "Midwest appliance parts are a great way to save money when repairing or replacing the parts in your appliances. With the rise of o...see more detail"
 keywords: appliance parts
-publishDate: 1/5/2022
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

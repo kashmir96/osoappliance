@@ -3,7 +3,6 @@
 title: What Oven Temp To Cook Salmon
 description: "Cooking salmon in the oven is a great way to ensure your fish is cooked perfectly. The key to making sure your salmon turns out ju...see more detail"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

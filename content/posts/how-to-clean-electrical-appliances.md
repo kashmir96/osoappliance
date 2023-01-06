@@ -3,7 +3,6 @@
 title: How To Clean Electrical Appliances
 description: "If you’re looking to get your electrical appliances squeaky clean, then you’ve come to the right place. Cleaning electrical applia...lets find out"
 keywords: how to clean appliances
-publishDate: 5/11/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

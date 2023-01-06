@@ -3,7 +3,6 @@
 title: Air Purifier Reviews 2022
 description: "Air purifier reviews in 2022 will be more important than ever before. As air pollution continues to worsen, people are increasingl...get more info"
 keywords: air purifier reviews 2022
-publishDate: 4/8/2023
 tags: ["Heat Pump", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

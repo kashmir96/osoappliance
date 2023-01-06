@@ -3,7 +3,6 @@
 title: Appliance Parts Company
 description: "As homeowners, we rely on the proper functioning of our household appliances. From refrigerators to washing machines and more, whe...get more detail"
 keywords: appliance parts
-publishDate: 8/28/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

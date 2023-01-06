@@ -3,7 +3,6 @@
 title: Appliance Design Magazine
 description: "Appliance Design magazine is an industry-leading publication that covers the latest trends, technologies, and innovations in the d...take a moment to check it out "
 keywords: appliance
-publishDate: 1/25/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

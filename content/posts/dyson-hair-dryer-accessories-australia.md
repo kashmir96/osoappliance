@@ -3,7 +3,6 @@
 title: Dyson Hair Dryer Accessories Australia
 description: "If you’re in the market for a high-quality hair dryer, Dyson is a great choice. With its impressive range of models, accessories a...continue on"
 keywords: hair dryer
-publishDate: 6/28/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

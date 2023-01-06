@@ -3,7 +3,6 @@
 title: Washing Machine Smart Diagnosis
 description: "In today’s world, smart home technology is becoming increasingly popular. Smart home appliances like washing machines are now equi...get more detail"
 keywords: washing machine smart
-publishDate: 3/31/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

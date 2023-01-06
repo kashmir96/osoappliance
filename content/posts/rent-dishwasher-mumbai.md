@@ -3,7 +3,6 @@
 title: Rent Dishwasher Mumbai
 description: "Renting a Dishwasher in Mumbai is becoming increasingly common as people look for ways to save money on their home appliances. Wit...see more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

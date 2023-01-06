@@ -3,7 +3,6 @@
 title: Are Blackstone Accessories Dishwasher Safe
 description: "If you’re looking for a dishwasher-safe accessory for your Blackstone griddle, you’ll be happy to know that many of their products...get more info"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

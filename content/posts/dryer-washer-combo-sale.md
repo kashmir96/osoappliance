@@ -3,7 +3,6 @@
 title: Dryer Washer Combo Sale
 description: "Are you in the market for a new washer and dryer? If so, you may want to consider a dryer washer combo sale. This type of sale off...keep going and find out"
 keywords: dryer sale
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

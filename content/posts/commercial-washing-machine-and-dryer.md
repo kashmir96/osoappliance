@@ -3,7 +3,6 @@
 title: Commercial Washing Machine And Dryer
 description: "As technology has advanced, so too has the commercial laundry industry. Commercial washing machines and dryers are now commonplace...learn about it in this post"
 keywords: washing machine dryer
-publishDate: 2/18/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

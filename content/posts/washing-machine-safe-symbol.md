@@ -3,7 +3,6 @@
 title: Washing Machine Safe Symbol
 description: "The washing machine safe symbol is a universal safety sign that appears on many clothes and fabrics. It’s designed to indicate the...get more info"
 keywords: washing machine
-publishDate: 3/26/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

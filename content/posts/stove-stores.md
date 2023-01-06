@@ -3,7 +3,6 @@
 title: Stove Stores
 description: "Stove stores are a great place to shop for all your stove needs. Whether you're looking for a new stove or just need to replace so...swipe up to find out"
 keywords: stove stores
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

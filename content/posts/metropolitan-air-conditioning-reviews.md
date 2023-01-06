@@ -3,7 +3,6 @@
 title: Metropolitan Air Conditioning Reviews
 description: "Metropolitan Air Conditioning is a leading air conditioning company in Australia. With their wide range of products, they make sur...see more"
 keywords: air reviews
-publishDate: 12/29/2022
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

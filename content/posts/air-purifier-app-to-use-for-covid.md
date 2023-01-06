@@ -3,7 +3,6 @@
 title: Air Purifier App To Use For Covid
 description: "As the novel coronavirus continues to spread, many people are taking extra precautions to protect their health and safety. One of ...learn about it in this post"
 keywords: air purifier use
-publishDate: 3/9/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

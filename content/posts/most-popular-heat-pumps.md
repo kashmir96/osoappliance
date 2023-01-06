@@ -3,7 +3,6 @@
 title: Most Popular Heat Pumps
 description: "Heat pumps are increasingly becoming more and more popular in household heating systems, due to their ability to provide a reliabl...take a moment to check it out "
 keywords: most popular
-publishDate: 1/9/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

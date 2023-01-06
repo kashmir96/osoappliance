@@ -3,7 +3,6 @@
 title: Most Popular Kitchen Appliances
 description: "When it comes to the kitchen, having the right appliances can make all the difference. From refrigerators and ovens to blenders an...keep going and find out"
 keywords: most popular kitchen appliances
-publishDate: 1/26/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

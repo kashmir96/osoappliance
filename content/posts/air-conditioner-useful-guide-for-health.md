@@ -3,7 +3,6 @@
 title: Air Conditioner Useful Guide For Health
 description: "In the summer months, air conditioners are a lifesaver for many people looking to stay cool and comfortable. While air conditioner...take a moment to check it out "
 keywords: air conditioner guide
-publishDate: 4/22/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

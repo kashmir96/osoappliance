@@ -3,7 +3,6 @@
 title: Most Popular Cooler Brands
 description: "Coolers are a great way to keep food and drinks cold while you’re out on the go. Whether you’re headed to a picnic, beach day, or ...find out now"
 keywords: most popular brands
-publishDate: 1/7/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

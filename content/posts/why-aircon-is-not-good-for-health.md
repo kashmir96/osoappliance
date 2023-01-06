@@ -3,7 +3,6 @@
 title: Why Aircon Is Not Good For Health
 description: "Air conditioning is a great way to keep cool during the hot summer months, but it’s important to be aware of its potential negativ...read now to learn more"
 keywords: aircon
-publishDate: 5/10/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

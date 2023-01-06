@@ -3,7 +3,6 @@
 title: How To Install A Washing Machine
 description: Installing a washing machine doesn't have to be overwhelming! This post provides the tools and knowledge needed to successfully install a washing machine in your home - read on to find out how!
 keywords: how to washing machine
-publishDate: 11/28/2022
 tags: ["Washing Machine", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

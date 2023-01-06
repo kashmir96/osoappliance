@@ -3,7 +3,6 @@
 title: Cheap Microwave Appliance Parts
 description: "When it comes to keeping your kitchen appliances in top condition, you want to make sure you have the right parts to get the job d...check it out to learn"
 keywords: cheap microwave appliance parts
-publishDate: 10/26/2021
 tags: ["Microwave", "Kitchen Appliances", "Buy Appliance", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

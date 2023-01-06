@@ -3,7 +3,6 @@
 title: What Are Commercial Grade Appliances
 description: "Commercial grade appliances are those that are specifically designed for high-volume usage in commercial establishments, such as r...read now to learn more"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Common Air Conditioner Repairs
 description: "Air conditioners are a great way to keep your home cool and comfortable during the hot summer months. Unfortunately, like any appl...swipe up to find out"
 keywords: most air conditioner
-publishDate: 7/7/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

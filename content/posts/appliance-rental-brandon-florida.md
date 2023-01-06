@@ -3,7 +3,6 @@
 title: Appliance Rental Brandon Florida
 description: "If you’re in the market for new appliances and are looking for an easier, more affordable way to get them, then look no further th...see more detail"
 keywords: appliance
-publishDate: 12/12/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

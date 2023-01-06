@@ -3,7 +3,6 @@
 title: Dishwasher Accessories Small Items
 description: "If you want to get the most out of your dishwasher, purchasing accessories is a great way to make it even more efficient and usefu...learn more about it now"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

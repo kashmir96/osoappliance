@@ -3,7 +3,6 @@
 title: Dangers Of Air Conditioning
 description: "With summer quickly approaching, many of us are turning on our air conditioners to keep cool and comfortable during the hot months...scroll on and keep learning"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

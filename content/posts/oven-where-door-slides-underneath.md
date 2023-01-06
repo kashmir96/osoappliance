@@ -3,7 +3,6 @@
 title: Oven Where Door Slides Underneath
 description: "When it comes to cooking, the oven is one of the most essential appliances in any kitchen. But if you’re looking for a unique and ...get the full scoop"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

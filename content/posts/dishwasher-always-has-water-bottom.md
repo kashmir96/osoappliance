@@ -3,7 +3,6 @@
 title: Dishwasher Always Has Water Bottom
 description: "If you’ve ever opened up your dishwasher to find water pooling at the bottom, you’re not alone. It’s a common occurrence and can b...read now to learn more"
 keywords: dishwasher water
-publishDate: 10/8/2022
 tags: ["Dishwasher", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machines Makes For Happy People
 description: "Washing machines are a staple of modern households, making life much easier and more convenient. Not only do they save time, but w...keep going and find out"
 keywords: washing machines
-publishDate: 2/22/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

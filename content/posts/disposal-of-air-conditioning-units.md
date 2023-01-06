@@ -3,7 +3,6 @@
 title: Disposal Of Air Conditioning Units
 description: "When it comes to the disposal of air conditioning units, there are a few things you should consider before taking any action. The ...keep reading to learn"
 keywords: disposal air
-publishDate: 5/16/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

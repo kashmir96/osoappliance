@@ -3,7 +3,6 @@
 title: Blender Used On Masterchef Uk
 description: "Blender is an essential tool for any chef, and this is especially true for the contestants of the UK's MasterChef. From pureeing s...find out now"
 keywords: blender
-publishDate: 4/5/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

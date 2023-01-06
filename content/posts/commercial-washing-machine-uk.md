@@ -3,7 +3,6 @@
 title: Commercial Washing Machine Uk
 description: "If you own a business, having a commercial washing machine in the UK is essential for keeping your premises clean and sanitised. C...learn more"
 keywords: washing machine
-publishDate: 2/22/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

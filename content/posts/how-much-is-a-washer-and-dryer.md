@@ -3,7 +3,6 @@
 title: How Much Is A Washer And Dryer
 description: "If you are in the market for a new washer and dryer, you may be wondering how much they cost. The answer depends on a few factors,...learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

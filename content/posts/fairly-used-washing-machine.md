@@ -3,7 +3,6 @@
 title: Fairly Used Washing Machine
 description: "The concept of a fairly used washing machine (or FUWM) is becoming increasingly popular. With rising prices of new washing machine...get the full scoop"
 keywords: washing machine
-publishDate: 3/31/2022
 tags: ["Washing Machine", "Heat Pump", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

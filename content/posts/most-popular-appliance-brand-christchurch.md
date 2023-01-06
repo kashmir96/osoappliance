@@ -3,7 +3,6 @@
 title: Most Popular Appliance Brand Christchurch
 description: This post provides an overview of the best appliance brands in Christchurch, New Zealand, so if you're looking to upgrade your home appliances, make sure to read on and find the perfect brand for you.
 keywords: appliance christchurch
-publishDate: 8/5/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

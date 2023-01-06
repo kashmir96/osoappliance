@@ -3,7 +3,6 @@
 title: When Oven Doesnt Heat Up
 description: "If your oven isn’t heating up, it can be incredibly frustrating. Not only is it a nuisance, but it can also be a safety hazard. Fo...keep reading to learn"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

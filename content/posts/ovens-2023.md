@@ -3,7 +3,6 @@
 title: Ovens 2023
 description: "In the kitchen of 2023, ovens may look and function quite differently than they do today. With the latest technology, ovens are be...check it out to learn"
 keywords: 2023
-publishDate: 1/8/2023
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

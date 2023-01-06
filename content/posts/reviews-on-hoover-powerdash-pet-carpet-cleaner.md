@@ -3,7 +3,6 @@
 title: Reviews On Hoover Powerdash Pet Carpet Cleaner
 description: "If you’re looking for a reliable, easy-to-use carpet cleaner that can handle pet messes and stains, the Hoover PowerDash Pet Carpe...find out now"
 keywords: reviews hoover
-publishDate: 12/12/2022
 tags: ["Vacuum", "Appliance Consumption", "Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

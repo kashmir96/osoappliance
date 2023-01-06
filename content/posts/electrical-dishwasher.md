@@ -3,7 +3,6 @@
 title: Electrical Dishwasher
 description: "If you are looking for an efficient and reliable way to keep your dishes clean, then you may want to consider investing in an elec...check it out to learn"
 keywords: dishwasher
-publishDate: 4/18/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

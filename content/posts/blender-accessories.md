@@ -3,7 +3,6 @@
 title: Blender Accessories
 description: "Blender appliances are becoming increasingly popular as they provide a convenient way to make smoothies, sauces, and other recipes...check it out to learn"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Free Standing Oven Christchurch
 description: This post explains why free standing ovens are popular in Christchurch, providing you with an ideal combination of convenience and style for your kitchen; read on to find out more!
 keywords: oven christchurch
-publishDate: 12/5/2022
 tags: ["Christchurch", "Appliances", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

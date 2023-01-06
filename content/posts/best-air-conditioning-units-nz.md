@@ -3,7 +3,6 @@
 title: Best Air Conditioning Units Nz
 description: "When it comes to air conditioning units in New Zealand, there are a wide variety of options available to consumers. Selecting the ...learn more"
 keywords: best air nz
-publishDate: 7/4/2022
 tags: ["Heat Pump", "New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

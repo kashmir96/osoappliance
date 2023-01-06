@@ -3,7 +3,6 @@
 title: Air Conditioning Business Logo
 description: "A business logo is an important part of your brand identity. It’s the first thing potential customers see when they come across yo...scroll on and keep learning"
 keywords: air
-publishDate: 5/11/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

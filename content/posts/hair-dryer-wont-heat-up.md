@@ -3,7 +3,6 @@
 title: Hair Dryer Wont Heat Up
 description: If your hair dryer isn't heating up correctly, this blog post will discuss the common causes and how to troubleshoot them. Read on to find out more!
 keywords: hair dryer
-publishDate: 9/22/2022
 tags: ["Dryer", "Appliances", "Hair Dryer"]
 author: Curtis
 categories: ["Appliances Christchurch"]

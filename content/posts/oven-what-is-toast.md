@@ -3,7 +3,6 @@
 title: Oven What Is Toast
 description: "Toasting is a simple and delicious way to enjoy your favorite breads, bagels, and pastries. But if you’ve ever tried to toast some...check it out to learn"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

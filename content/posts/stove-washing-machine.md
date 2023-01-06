@@ -3,7 +3,6 @@
 title: Stove Washing Machine
 description: "Stoves can collect a formidable amount of dirt and grime over time, which is why they can soak up a lot of time trying to keep the...swipe up to find out"
 keywords: stove washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Stove", "Kitchen Appliances", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

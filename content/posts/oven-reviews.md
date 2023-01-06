@@ -3,7 +3,6 @@
 title: Oven Reviews
 description: "When shopping for a new oven, it's important to read reviews before making a purchase. Oven reviews can provide valuable insight i...see more detail"
 keywords: oven reviews
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

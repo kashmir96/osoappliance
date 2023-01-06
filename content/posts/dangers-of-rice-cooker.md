@@ -3,7 +3,6 @@
 title: Dangers Of Rice Cooker
 description: "As one of the most common kitchen appliances, rice cookers can be a great way to make delicious, fluffy rice with the push of a bu...take a moment to check it out "
 keywords: cooker
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

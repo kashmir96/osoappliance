@@ -3,7 +3,6 @@
 title: Modern Kitchen Appliances Christchurch
 description: Modern kitchen appliances are becoming increasingly popular in Christchurch, so if you're looking to save time and money while cooking delicious meals, read on to find out how these appliances can help you.
 keywords: kitchen appliances christchurch
-publishDate: 10/31/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Air Conditioner Learn How To Use Remote
 description: "As the weather heats up and summer approaches, it’s time to think about how you will cool your home. Many people rely on air condi...scroll on and keep learning"
 keywords: air conditioner how to use
-publishDate: 4/17/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Dryer Vent
 description: "Dryer vents are an essential part of any home’s laundry system. They help to keep your clothes dry and your home safe from fire ha...scroll on and keep learning"
 keywords: best dryer
-publishDate: 8/15/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

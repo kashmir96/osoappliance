@@ -3,7 +3,6 @@
 title: Most Common Air Conditioner Temperature
 description: "Are you wondering what the most common air conditioner temperature settings are for your home? It can be hard to decide if it's to...scroll on and keep learning"
 keywords: most air conditioner
-publishDate: 7/4/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

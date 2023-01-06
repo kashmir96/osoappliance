@@ -3,7 +3,6 @@
 title: Most Popular Washing Machine Uk
 description: "Washing machines have become an essential part of everyday life, and they come in many different types and styles. Finding the rig...read now to learn more"
 keywords: most popular washing machine
-publishDate: 6/21/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

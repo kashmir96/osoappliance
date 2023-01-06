@@ -3,7 +3,6 @@
 title: Fix Washing Machine Christchurch
 description: This post contains information on how to fix a washing machine that is not working if you're living in Christchurch NZ
 keywords: fix washing machine christchurch
-publishDate: 6/2/2022
 tags: ["Washing Machine", "Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

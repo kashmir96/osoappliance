@@ -3,7 +3,6 @@
 title: Electric Cooker Portable
 description: "A portable electric cooker is a great way to cook on-the-go. Whether you're camping, tailgating, or just having a picnic in the pa...take a moment to check it out "
 keywords: cooker
-publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

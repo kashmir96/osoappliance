@@ -3,7 +3,6 @@
 title: Does Air Conditioning Increase Risk Of Covid
 description: "The spread of the novel coronavirus (COVID-19) has been a source of concern for many people around the world. With cases rising in...get more info"
 keywords: air
-publishDate: 4/1/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

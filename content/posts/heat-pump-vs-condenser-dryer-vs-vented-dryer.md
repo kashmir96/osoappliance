@@ -3,7 +3,6 @@
 title: Heat Pump Vs Condenser Dryer Vs Vented Dryer
 description: This blog post compares the differences between heat pumps, condenser dryers, and vented dryers, so you can decide which one is best for your home. Read on to find out more!
 keywords: heat pump dryer dryer
-publishDate: 11/13/2022
 tags: ["Dryer", "Appliances", "Heat Pump"]
 author: Curtis
 categories: ["Appliances Christchurch"]

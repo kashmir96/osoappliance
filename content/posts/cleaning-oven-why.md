@@ -3,7 +3,6 @@
 title: Cleaning Oven Why
 description: "Cleaning your oven is an important part of kitchen maintenance. Not only does it help keep your oven looking and smelling fresh, b...lets find out"
 keywords: oven
-publishDate: 9/29/2022
 tags: ["Oven", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Commercial Oven Cleaner
 description: "A commercial oven cleaner is an essential tool for any professional kitchen. It’s designed to make quick work of tough, baked-on g...scroll on and keep learning"
 keywords: oven
-publishDate: 1/16/2023
 tags: ["Oven", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

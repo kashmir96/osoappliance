@@ -3,7 +3,6 @@
 title: Biggest Microwave Oven
 description: "The biggest microwave ovens on the market today are designed to provide large families with a convenient way to cook meals quickly...take a moment to check it out "
 keywords: microwave oven
-publishDate: 5/18/2022
 tags: ["Oven", "Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

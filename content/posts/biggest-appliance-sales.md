@@ -3,7 +3,6 @@
 title: Biggest Appliance Sales
 description: "With the holiday season in full swing, it’s no surprise that appliance sales are booming. As people look for ways to improve their...read now to learn more"
 keywords: appliance sales
-publishDate: 4/10/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

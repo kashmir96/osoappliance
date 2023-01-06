@@ -3,7 +3,6 @@
 title: Washing Machine Service Christchurch
 description: "As a homeowner in Christchurch, it's important to ensure that your washing machine is serviced regularly and maintained properly. ...swipe up to find out"
 keywords: washing machine christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Hair Curler Best
 description: "If you’re looking for the best hair curler products, you’ve come to the right place! Hair curlers are a great way to add volume, b...learn more about it now"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

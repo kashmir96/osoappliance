@@ -3,7 +3,6 @@
 title: Ways To Customise Laundry Appliances
 description: "Are you looking for ways to customise your laundry appliances? Whether you're a home renovator, an interior designer, or just look...get more detail"
 keywords: laundry appliances
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

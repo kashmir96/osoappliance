@@ -3,7 +3,6 @@
 title: Why Oven Smoking
 description: "If you're asking why your oven is smoking, the answer can depend on a few different things....get more info"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Appliance Stores
 description: "When it comes to shopping for home appliances, there's no better place to go than an appliance store. An appliance store is a reta...learn more"
 keywords: stores
-publishDate: 12/12/2022
 tags: ["Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

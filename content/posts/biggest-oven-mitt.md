@@ -3,7 +3,6 @@
 title: Biggest Oven Mitt
 description: "When it comes to choosing the right oven mitt, bigger is always better. The bigger your oven mitt, the more protection you have wh...find out now"
 keywords: oven
-publishDate: 5/28/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

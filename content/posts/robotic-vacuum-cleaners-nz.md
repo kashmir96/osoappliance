@@ -3,7 +3,6 @@
 title: Robotic Vacuum Cleaners Nz
 description: "Robotic vacuum cleaners are the latest innovation in home cleaning technology, offering a convenient and efficient way to keep you...learn about it in this post"
 keywords: vacuum nz
-publishDate: 25/12/2022
 tags: ["Vacuum", "New Zealand", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

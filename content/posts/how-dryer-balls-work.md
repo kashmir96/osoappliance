@@ -3,7 +3,6 @@
 title: How Dryer Balls Work
 description: "Dryer balls are an environmentally-friendly way to reduce drying time while also helping your clothes stay soft and static-free. T...check it out to learn"
 keywords: dryer
-publishDate: 11/24/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

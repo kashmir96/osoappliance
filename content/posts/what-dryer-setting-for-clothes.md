@@ -3,7 +3,6 @@
 title: What Dryer Setting For Clothes
 description: "When it comes to doing laundry, the dryer is one of the most important and overlooked components. Not only does it help dry your c...get more info"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

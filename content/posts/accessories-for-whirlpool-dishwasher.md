@@ -3,7 +3,6 @@
 title: Accessories For Whirlpool Dishwasher
 description: "When it comes to appliances, a Whirlpool dishwasher is one of the most popular and reliable models on the market. While a Whirlpoo...take a moment to check it out "
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

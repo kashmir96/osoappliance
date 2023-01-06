@@ -3,7 +3,6 @@
 title: Most Popular Air Purifier In Korea
 description: "Air purifiers have become increasingly popular in Korea as a way to maintain air quality and reduce the health risks associated wi...get the full scoop"
 keywords: most popular air purifier
-publishDate: 2/28/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

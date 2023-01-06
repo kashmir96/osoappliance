@@ -3,7 +3,6 @@
 title: Rent To Own Appliances Centrelink
 description: "Rent-To-Own Appliances Centrelink is an innovative way to get the appliances you need with affordable payments. It offers customer...take a moment to check it out "
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

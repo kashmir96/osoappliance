@@ -3,7 +3,6 @@
 title: Top Carpet Cleaners
 description: "Carpet cleaning is an important part of home maintenance, but it can be difficult to find the right cleaner for your needs. The be...learn about it in this post"
 keywords: top
-publishDate: 7/9/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Where Stove Was Invented
 description: "The invention of the stove is an important part of human history. It has allowed us to cook food in a more efficient manner, and h...scroll on and keep learning"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

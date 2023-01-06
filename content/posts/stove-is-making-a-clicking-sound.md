@@ -3,7 +3,6 @@
 title: Stove Is Making A Clicking Sound
 description: "If you’ve ever heard a clicking sound coming from your stove, you know it can be a bit unnerving. The good news is that it’s not n...keep going and find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

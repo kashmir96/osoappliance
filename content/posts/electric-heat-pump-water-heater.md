@@ -3,7 +3,6 @@
 title: Electric Heat Pump Water Heater
 description: "Electric heat pump water heaters are an energy-efficient alternative to traditional electric water heaters. They use electricity t...get more info"
 keywords: heat pump water heater
-publishDate: 6/3/2022
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

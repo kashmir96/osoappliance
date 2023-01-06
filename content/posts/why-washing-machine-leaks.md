@@ -3,7 +3,6 @@
 title: Why Washing Machine Leaks
 description: "A leaking washing machine can be a huge frustration. Not only can it be an inconvenience to have to mop up the mess, but it can ca...get more detail"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

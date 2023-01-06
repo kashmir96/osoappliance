@@ -3,7 +3,6 @@
 title: Mile Dishwasher Repair Christchurch
 description: "It is inevitable that at some stage you will need to repair your dishwasher in Christchurch. Whether it is a broken drain hose, bl...get the full scoop"
 keywords: dishwasher repair christchurch
-publishDate: 8/21/2022
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

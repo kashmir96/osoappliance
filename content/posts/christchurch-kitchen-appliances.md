@@ -3,7 +3,6 @@
 title: Christchurch Kitchen Appliances
 description: "Kitchen appliances are essential items for any home in Christchurch. From small appliances like toasters and microwaves, to larger...see more detail"
 keywords: christchurch kitchen
-publishDate: 12/12/2022
 tags: ["Christchurch", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

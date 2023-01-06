@@ -3,7 +3,6 @@
 title: Solar Oven Why
 description: "Solar ovens are a great way to cook food without using electricity or gas. They use the power of the sun to cook food, making them...take a moment to check it out "
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

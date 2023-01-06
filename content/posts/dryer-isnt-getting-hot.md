@@ -3,7 +3,6 @@
 title: Dryer Isnt Getting Hot
 description: "If your dryer isn't getting hot, it can be a frustrating problem. Fortunately, there are a few simple steps you can take to troubl...learn about it in this post"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

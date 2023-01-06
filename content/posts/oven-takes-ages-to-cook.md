@@ -3,7 +3,6 @@
 title: Oven Takes Ages To Cook
 description: "We've all been there – you've preheated the oven, placed your dish inside and set the timer, only to find that when it dings, your...take a moment to check it out "
 keywords: oven
-publishDate: 12/20/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

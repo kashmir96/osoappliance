@@ -3,7 +3,6 @@
 title: New Appliance Energy Ratings
 description: "Over the past decade, energy efficiency has become increasingly important for appliances. As energy costs continue to rise, energy...find out now"
 keywords: energy ratings
-publishDate: 12/12/2022
 tags: ["Appliance Consumption", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

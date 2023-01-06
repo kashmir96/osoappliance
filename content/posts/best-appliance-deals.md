@@ -3,7 +3,6 @@
 title: Best Appliance Deals
 description: "If you’re looking for great appliance deals, then you’ve come to the right place. In this blog post, we’ll be taking a look at som...learn more about it now"
 keywords: best deals
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Double Oven
 description: "Double ovens are becoming increasingly popular in many kitchens due to their convenience and versatility. A double oven offers the...keep going and find out"
 keywords: oven
-publishDate: 4/27/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

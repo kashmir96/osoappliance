@@ -3,7 +3,6 @@
 title: Washing Machine Reliability Uk
 description: "As a household appliance, the washing machine is often taken for granted and its reliability is something that we all take for gra...see more detail"
 keywords: washing machine
-publishDate: 3/17/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

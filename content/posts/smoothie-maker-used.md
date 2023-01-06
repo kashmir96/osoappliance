@@ -3,7 +3,6 @@
 title: Smoothie Maker Used
 description: "One of the most popular kitchen appliances on the market today is a smoothie maker. With a smoothie maker, you can quickly and eas...scroll on and keep learning"
 keywords: 
-publishDate: 1/13/2023
 tags: ["Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dishwasher With Best Drying
 description: "When it comes to cleaning dishes, a dishwasher is an essential appliance. Not only does it save you time, but it also gets dishes ...read now to learn more"
 keywords: dishwasher best
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

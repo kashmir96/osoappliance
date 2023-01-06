@@ -3,7 +3,6 @@
 title: Small Kitchen Appliances Near Me
 description: "If you're looking for small kitchen appliances to help make your life easier, you've come to the right place. Today, there are a w...get more detail"
 keywords: kitchen appliances near
-publishDate: 12/5/2022
 tags: ["Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

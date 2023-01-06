@@ -3,7 +3,6 @@
 title: Most Reliable Robot Lawn Mower
 description: "Robot lawn mowers are a great way to maintain your lawn without having to spend time and energy manually mowing. They are becoming...keep going and find out"
 keywords: most reliable
-publishDate: 1/2/2022
 tags: ["Appliance Rules and Regulations", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

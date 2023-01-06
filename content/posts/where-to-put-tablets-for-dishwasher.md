@@ -3,7 +3,6 @@
 title: Where To Put Tablets For Dishwasher
 description: "Tablets for dishwashers are an easy and convenient way to keep your dishes sparkling clean. But before you start using them, it’s ...see more detail"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

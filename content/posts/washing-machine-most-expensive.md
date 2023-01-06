@@ -3,7 +3,6 @@
 title: Washing Machine Most Expensive
 description: "Washing machines have become an essential appliance in every home, but some models are more expensive than others. The most expens...see more detail"
 keywords: washing machine most
-publishDate: 3/2/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

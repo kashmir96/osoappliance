@@ -3,7 +3,6 @@
 title: Washing Machine Not Filling With Water
 description: If your washing machine isn't filling with water, this post provides potential causes and solutions - read on to find out more!
 keywords: washing machine
-publishDate: 11/19/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Rent Appliances In Mumbai
 description: "Renting appliances in Mumbai has become increasingly popular in recent years as it is an affordable and convenient way to get esse...continue on"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

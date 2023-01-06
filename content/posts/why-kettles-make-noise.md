@@ -3,7 +3,6 @@
 title: Why Kettles Make Noise
 description: "Kettles make noise as a result of water boiling inside them. As the water heats up, steam is produced and it pushes its way out of...learn more about it now"
 keywords: 
-publishDate: 12/31/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

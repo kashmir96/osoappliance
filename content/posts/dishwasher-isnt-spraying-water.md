@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Spraying Water
 description: "Have you ever experienced the frustration of opening your dishwasher only to find that it isn’t spraying water? This can be a comm...continue on"
 keywords: dishwasher water
-publishDate: 11/19/2022
 tags: ["Dishwasher", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

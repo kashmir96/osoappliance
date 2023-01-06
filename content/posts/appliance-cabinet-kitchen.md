@@ -3,7 +3,6 @@
 title: Appliance Cabinet Kitchen
 description: "The appliance cabinet kitchen is a great way to keep your kitchen organized and looking neat. It is a specialty cabinet designed t...check it out to learn"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

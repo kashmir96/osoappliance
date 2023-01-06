@@ -3,7 +3,6 @@
 title: Ge Appliance Parts
 description: "Are you having trouble with your GE appliance parts? If so, you may be wondering whether it is better to fix the problem yourself ...get more detail"
 keywords: appliance parts
-publishDate: 11/23/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

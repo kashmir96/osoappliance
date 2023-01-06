@@ -3,7 +3,6 @@
 title: Washing Machines Best Makes
 description: "If you’re looking for a new washing machine, you’ve made the right decision. A good washing machine can be one of the best investm...continue on"
 keywords: washing machines best
-publishDate: 2/21/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

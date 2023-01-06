@@ -3,7 +3,6 @@
 title: Dishwasher Always Wet
 description: "Dishwashers are designed to clean your dishes, but if you find that your dishes are always wet after a cycle, it can be frustratin...take a moment to check it out "
 keywords: dishwasher
-publishDate: 10/14/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

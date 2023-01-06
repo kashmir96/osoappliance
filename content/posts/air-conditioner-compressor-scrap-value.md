@@ -3,7 +3,6 @@
 title: Air Conditioner Compressor Scrap Value
 description: "As the temperatures start to rise, air conditioners are essential for keeping homes and businesses cool and comfortable. But when ...read now to learn more"
 keywords: air conditioner scrap value
-publishDate: 4/7/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

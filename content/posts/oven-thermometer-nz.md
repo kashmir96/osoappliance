@@ -3,7 +3,6 @@
 title: Oven Thermometer Nz
 description: "Oven thermometers are an essential tool for ensuring that your oven is cooking at the right temperature. If you don’t have an oven...learn about it in this post"
 keywords: oven nz
-publishDate: 12/12/2022
 tags: ["Oven", "New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Smart
 description: "...keep reading to learn"
 keywords: washing machine smart
-publishDate: 3/30/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

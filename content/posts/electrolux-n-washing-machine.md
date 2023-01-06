@@ -3,7 +3,6 @@
 title: Electrolux N Washing Machine
 description: "If you're looking for a dependable washing machine, the Electrolux brand should be at the top of your list. Not only are they know...find out now"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

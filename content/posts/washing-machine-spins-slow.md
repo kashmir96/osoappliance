@@ -3,7 +3,6 @@
 title: Washing Machine Spins Slow
 description: If you've noticed that your washing machine is spinning slower than usual, this post will help you identify the cause and offer solutions - read on to find out more!
 keywords: washing machine
-publishDate: 11/17/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

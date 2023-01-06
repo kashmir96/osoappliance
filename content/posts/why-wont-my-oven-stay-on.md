@@ -3,7 +3,6 @@
 title: Why Wont My Oven Stay On
 description: "If your oven won't stay on, it could be a sign of a serious problem. There are a few potential causes that can explain why your ov...get the full scoop"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

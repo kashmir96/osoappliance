@@ -3,7 +3,6 @@
 title: Most Common Household Appliances
 description: "Household appliances are essential for modern day life. From washing machines to microwaves to air conditioners, there are many di...take a moment to check it out "
 keywords: most appliances
-publishDate: 1/28/2022
 tags: ["Appliance Disposal", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

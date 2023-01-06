@@ -3,7 +3,6 @@
 title: Why Is Dryer Squeaking
 description: "Noisy dryers can be a nuisance, and a squeaking dryer is one of the most common causes of noise. A squeaking dryer can be caused b...check it out to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

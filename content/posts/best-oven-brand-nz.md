@@ -3,7 +3,6 @@
 title: Best Oven Brand Nz
 description: "When it comes to choosing the best oven brand for your home in New Zealand, there are a few factors to consider. It’s important to...check it out to learn"
 keywords: best oven brand nz
-publishDate: 6/3/2022
 tags: ["Oven", "New Zealand", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

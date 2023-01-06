@@ -3,7 +3,6 @@
 title: When Gas Stove Flame Is Orange
 description: "When using a gas stove, it is important to pay attention to the color of the flame. Depending on the settings, gas stove flames ca...get more info"
 keywords: gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

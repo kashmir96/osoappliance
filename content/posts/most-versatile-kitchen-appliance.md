@@ -3,7 +3,6 @@
 title: Most Versatile Kitchen Appliance
 description: "When it comes to kitchen appliances, versatility is key. Having an appliance that can do multiple tasks makes it easier to get thr...read now to learn more"
 keywords: most kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

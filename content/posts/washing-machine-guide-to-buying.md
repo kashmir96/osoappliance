@@ -3,7 +3,6 @@
 title: Washing Machine Guide To Buying
 description: "...lets find out"
 keywords: washing machine guide buying
-publishDate: 2/28/2023
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Hair Dryer Brush Australia Bes
 description: "Hair dryer brushes are a great way to get salon-quality styling and drying at home. They are designed to give you a smooth, glossy...learn more"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

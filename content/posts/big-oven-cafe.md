@@ -3,7 +3,6 @@
 title: Big Oven Cafe
 description: "Big ovens are an essential part of any cafe or restaurant kitchen. They provide quick, efficient cooking and baking capabilities t...keep reading to learn"
 keywords: oven
-publishDate: 4/1/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

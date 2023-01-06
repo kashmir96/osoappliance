@@ -3,7 +3,6 @@
 title: Wa Appliance Parts
 description: "If you're looking for appliance parts in Western Australia, there are a number of suppliers that can provide quality products and ...learn about it in this post"
 keywords: appliance parts
-publishDate: 2/11/2022
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dishwasher Installation
 description: "Installing a dishwasher can seem like a daunting task, but with the right tools and a bit of know-how, it’s actually quite simple....see more"
 keywords: dishwasher installation
-publishDate: 11/2/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

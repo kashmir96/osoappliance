@@ -3,7 +3,6 @@
 title: Kitchen Appliances List
 description: "When it comes to stocking a kitchen, appliances are essential for any home chef. From blenders and microwaves to slow cookers and ...scroll on and keep learning"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

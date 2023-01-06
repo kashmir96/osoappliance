@@ -3,7 +3,6 @@
 title: Who Fixes Dryers Near Me
 description: "If your dryer is on the fritz, you may be wondering “Who fixes dryers near me?” Fortunately, you have several options for finding ...swipe up to find out"
 keywords: dryers near
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Appliance Repair", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

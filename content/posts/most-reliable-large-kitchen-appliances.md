@@ -3,7 +3,6 @@
 title: Most Reliable Large Kitchen Appliances
 description: "When it comes to large kitchen appliances, reliability is key. Large kitchen appliances are typically expensive investments, so yo...find out now"
 keywords: most reliable kitchen appliances
-publishDate: 7/1/2022
 tags: ["Kitchen Appliances", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

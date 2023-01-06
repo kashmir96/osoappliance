@@ -3,7 +3,6 @@
 title: How To Insulate Outdoor Pizza Oven
 description: "Insulating an outdoor pizza oven is a great way to ensure that your oven can reach the high temperatures necessary for baking pizz...learn more about it now"
 keywords: how to oven
-publishDate: 12/16/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

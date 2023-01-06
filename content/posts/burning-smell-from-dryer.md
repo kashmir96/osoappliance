@@ -3,7 +3,6 @@
 title: Burning Smell From Dryer
 description: A burning smell coming from your dryer may indicate a serious problem that could lead to a fire, so take action right away – read on to find out what to do!
 keywords: dryer
-publishDate: 11/9/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

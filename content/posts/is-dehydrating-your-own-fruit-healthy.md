@@ -3,7 +3,6 @@
 title: Is Dehydrating Your Own Fruit Healthy
 description: "Dehydrating your own fruit can be a healthy way to enjoy the natural sweetness of fruits without the added sugar, preservatives, a...keep reading to learn"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

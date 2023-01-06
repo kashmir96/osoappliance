@@ -3,7 +3,6 @@
 title: Washing Machine Brand
 description: "Washing machines have become a staple of modern life, with the variety of brands and models available in the market today. With so...learn more about it now"
 keywords: washing machine brand
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Buy Hair Dryer Christchurch
 description: This post offers a comprehensive overview of the best hair dryers available in Christchurch, so if you're in the market for a new one, read on to discover your perfect match!
 keywords: hair dryer christchurch
-publishDate: 9/25/2022
 tags: ["Christchurch", "Dryer", "Appliances", "Hair Dryer"]
 author: Curtis
 categories: ["Appliances Christchurch"]

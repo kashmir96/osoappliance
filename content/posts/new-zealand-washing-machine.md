@@ -3,7 +3,6 @@
 title: New Zealand Washing Machine
 description: "When it comes to washing machines, New Zealand has plenty of options to choose from. Whether you’re looking for top-of-the-line fe...read now to learn more"
 keywords: new zealand washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

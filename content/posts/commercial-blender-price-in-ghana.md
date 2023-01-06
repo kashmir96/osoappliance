@@ -3,7 +3,6 @@
 title: Commercial Blender Price In Ghana
 description: "Do you want to buy a blender in Ghana but not sure how much it costs? Blenders are a great kitchen tool for making smoothies, milk...learn about it in this post"
 keywords: blender
-publishDate: 4/16/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Effects Of Air Conditioning On Climate Change
 description: "Air conditioning has become more and more popular in recent years, with homes and businesses alike relying on it to keep them cool...get more detail"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

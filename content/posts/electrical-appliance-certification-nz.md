@@ -3,7 +3,6 @@
 title: Electrical Appliance Certification Nz
 description: "Electrical appliance certification is an important part of ensuring the safety of New Zealanders when it comes to using electrical...see more detail"
 keywords: appliance nz
-publishDate: 3/31/2022
 tags: ["New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

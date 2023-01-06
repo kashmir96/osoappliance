@@ -3,7 +3,6 @@
 title: Microwave Oven Used
 description: "Microwave ovens are a common kitchen appliance that can be used to heat, bake, grill and roast food. Microwave ovens use electroma...check it out to learn"
 keywords: microwave oven
-publishDate: 3/15/2023
 tags: ["Oven", "Microwave", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

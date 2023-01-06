@@ -3,7 +3,6 @@
 title: Wool Dryer Balls
 description: "Wool dryer balls are an excellent alternative to conventional dryer sheets and fabric softeners. They’re an environmentally friend...scroll on and keep learning"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: What Stove For Camping
 description: "Stove for camping is a type of stove that is designed to be used outdoors while camping. It is typically portable, lightweight, an...learn about it in this post"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

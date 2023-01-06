@@ -3,7 +3,6 @@
 title: Appliance Spare Parts Christchurch
 description: "Are you living in Christchurch, New Zealand and in need of appliance spare parts? You’ve come to the right place! Appliance spare ...keep reading to learn"
 keywords: appliance parts christchurch
-publishDate: 9/19/2021
 tags: ["Christchurch", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

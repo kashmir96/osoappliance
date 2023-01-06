@@ -3,7 +3,6 @@
 title: Washing Machine Delivery And Installation
 description: "Moving into a new home is a very exciting time, but it can also be stressful as there are numerous tasks that need to be taken car...learn about it in this post"
 keywords: washing machine installation
-publishDate: 2/10/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

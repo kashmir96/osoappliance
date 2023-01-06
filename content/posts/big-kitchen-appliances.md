@@ -3,7 +3,6 @@
 title: Big Kitchen Appliances
 description: "Big kitchen appliances are becoming increasingly popular among homeowners, thanks to their improved efficiency and convenience. Bi...you wont regret reading on"
 keywords: kitchen appliances
-publishDate: 3/22/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

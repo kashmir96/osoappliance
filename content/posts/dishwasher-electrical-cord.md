@@ -3,7 +3,6 @@
 title: Dishwasher Electrical Cord
 description: "A dishwasher electrical cord is an essential part of powering up your dishwasher. Without it, your appliance won't even turn on. T...keep reading to learn"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

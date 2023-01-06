@@ -3,7 +3,6 @@
 title: How Much Is A Smeg Fridge
 description: "A Smeg fridge is a high-end refrigerator that is known for its modern design, features, and performance. It’s the perfect applianc...get more info"
 keywords: fridge
-publishDate: 12/21/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: New Appliances 2022
 description: "The future of home appliances is an exciting one with advancements in technology, as well as increased efficiency and convenience....read now to learn more"
 keywords: 2022
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

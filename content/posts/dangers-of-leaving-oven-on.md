@@ -3,7 +3,6 @@
 title: Dangers Of Leaving Oven On
 description: "Ovens are an essential piece of kitchen equipment, but if they are not properly monitored and maintained, they can be a major safe...scroll on and keep learning"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

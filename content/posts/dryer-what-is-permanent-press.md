@@ -3,7 +3,6 @@
 title: Dryer What Is Permanent Press
 description: "Permanent press is a setting on a clothes dryer that is designed to help prevent wrinkles from forming on clothes. It is also some...lets find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

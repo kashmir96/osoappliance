@@ -3,7 +3,6 @@
 title: Samsung Heat Pump Dryer Accessories
 description: "As a homeowner, you know how important it is to keep your appliances in good working order. One of the most popular appliances on ...learn more"
 keywords: samsung heat pump dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Laundry Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

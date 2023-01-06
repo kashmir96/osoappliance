@@ -3,7 +3,6 @@
 title: What Appliances Does My House Need Nz
 description: "If you’re looking to upgrade your home in New Zealand, you’ll need to consider what appliances you need to make your life easier a...get more detail"
 keywords: nz
-publishDate: 6/5/2022
 tags: ["New Zealand", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

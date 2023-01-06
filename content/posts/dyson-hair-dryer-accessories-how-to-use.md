@@ -3,7 +3,6 @@
 title: Dyson Hair Dryer Accessories How To Use
 description: "As anyone who has ever styled their hair knows, a good hair dryer is an essential tool for achieving the perfect look. Dyson’s ran...learn about it in this post"
 keywords: hair dryer how to use
-publishDate: 7/2/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

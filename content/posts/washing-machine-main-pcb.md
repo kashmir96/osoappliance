@@ -3,7 +3,6 @@
 title: Washing Machine Main Pcb
 description: "Are you looking for an efficient way to keep your clothes clean? Washing machine main PCBs are an important tool for any household...read now to learn more"
 keywords: washing machine
-publishDate: 2/13/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

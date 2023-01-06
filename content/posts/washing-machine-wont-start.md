@@ -3,7 +3,6 @@
 title: Washing Machine Wont Start
 description: Learn how to troubleshoot a washing machine that won't start, with a few easy steps - read on to find out more!
 keywords: washing machine
-publishDate: 10/14/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

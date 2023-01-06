@@ -3,7 +3,6 @@
 title: Best Air Purifier For Covid Nz
 description: "The Covid-19 pandemic has created a heightened need for air purifiers across the world. With the virus being airborne, it is impor...you wont regret reading on"
 keywords: best air purifier nz
-publishDate: 5/13/2022
 tags: ["Heat Pump", "New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

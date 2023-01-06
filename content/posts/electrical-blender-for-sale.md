@@ -3,7 +3,6 @@
 title: Electrical Blender For Sale
 description: "Are you in the market for a new blender? If so, you may want to consider buying an electrical blender. Electrical blenders are an ...you wont regret reading on"
 keywords: blender sale
-publishDate: 4/9/2022
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

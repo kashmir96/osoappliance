@@ -3,7 +3,6 @@
 title: Christchurch Laundromats
 description: This post explains why laundromats in Christchurch are an important service, saving money, time and hassle for those without their own machines - if you're looking for a convenient and cost-effective way to do your laundry, read on to find out more!
 keywords: christchurch
-publishDate: 8/25/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Appliances Christchurch"]

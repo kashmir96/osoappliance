@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Using Pod
 description: "If your dishwasher isn't using dishwasher pods, it could be due to a variety of reasons. Here are a few things to check before you...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 11/22/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Noel Leeming Christchurch Washing Machine
 description: "If you’re in search of a new washing machine, then you should definitely check out Noel Leeming Christchurch. This is one of the l...swipe up to find out"
 keywords: christchurch washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Appliance Spare Parts Ireland
 description: "When it comes to appliance spare parts in Ireland, there are a few things you should know. Appliance spare parts are essential for...check it out to learn"
 keywords: appliance parts
-publishDate: 9/20/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

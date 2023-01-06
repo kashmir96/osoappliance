@@ -3,7 +3,6 @@
 title: Electric Blender Uses
 description: "The electric blender is one of the most versatile kitchen appliances. Many people think of it as a simple way to make smoothies an...swipe up to find out"
 keywords: blender uses
-publishDate: 1/30/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

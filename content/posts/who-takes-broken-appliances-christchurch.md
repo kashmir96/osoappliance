@@ -3,7 +3,6 @@
 title: Who Takes Broken Appliances Christchurch
 description: This post provides a few options for those who live in Christchurch, New Zealand and have broken appliances they need to get rid of.
 keywords: appliances christchurch
-publishDate: 7/7/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

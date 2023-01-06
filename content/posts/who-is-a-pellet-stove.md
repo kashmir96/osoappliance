@@ -3,7 +3,6 @@
 title: Who Is A Pellet Stove
 description: "A pellet stove is a type of heating appliance that uses small pellets made from compressed organic material, such as sawdust, wood...you wont regret reading on"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Conditioning Unit Disposal Uk
 description: "Air conditioning units are essential to keeping our homes and businesses comfortable during the hot summers. But when they reach t...get the full scoop"
 keywords: air disposal
-publishDate: 5/18/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

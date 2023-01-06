@@ -3,7 +3,6 @@
 title: When To Buy Washer And Dryer
 description: "When it comes to laundry appliances, buying a washer and dryer is a big investment. But when is the best time to buy?...you wont regret reading on"
 keywords: buy dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

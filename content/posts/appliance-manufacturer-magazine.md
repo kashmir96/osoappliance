@@ -3,7 +3,6 @@
 title: Appliance Manufacturer Magazine
 description: "As an appliance manufacturer, you know that keeping up with trends and industry news is essential in order to stay competitive. On...learn more about it now"
 keywords: appliance
-publishDate: 1/27/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

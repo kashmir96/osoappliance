@@ -3,7 +3,6 @@
 title: Most Popular Blender
 description: "Blenders are one of the most versatile kitchen appliances and are used in almost every household. They can be used to make smoothi...learn more about it now"
 keywords: most popular blender
-publishDate: 2/4/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Purifier Removal Formaldehyde
 description: "Formaldehyde is an environmental hazard that can have adverse health effects. It is found in a variety of products and materials, ...learn more about it now"
 keywords: air purifier
-publishDate: 4/2/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

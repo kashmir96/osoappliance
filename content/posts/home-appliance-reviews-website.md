@@ -3,7 +3,6 @@
 title: Home Appliance Reviews Website
 description: "Are you in the market for a new appliance? Trying to decide which one is right for you? Home appliance reviews websites can be a g...learn about it in this post"
 keywords: appliance reviews
-publishDate: 1/19/2023
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

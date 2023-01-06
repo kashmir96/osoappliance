@@ -3,7 +3,6 @@
 title: Who In Christchurch Repairs Appliances
 description: This post is about appliance repair technicians in Christchurch and how you can choose the right person to solve your problem
 keywords: christchurch repairs appliances
-publishDate: 6/23/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

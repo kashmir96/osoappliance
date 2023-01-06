@@ -3,7 +3,6 @@
 title: Washing Machines Christchurch
 description: "Washing machines are an essential part of everyday life and can make doing laundry a much easier, quicker and less stressful task....get more detail"
 keywords: washing machines christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

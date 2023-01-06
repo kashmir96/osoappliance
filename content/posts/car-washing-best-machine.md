@@ -3,7 +3,6 @@
 title: Car Washing Best Machine
 description: "If you’re looking for the best car washing machine, you’ve come to the right place. Car washing machines are an essential tool for...check it out to learn"
 keywords: washing best
-publishDate: 9/28/2022
 tags: ["Washing Machine", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

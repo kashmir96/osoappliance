@@ -3,7 +3,6 @@
 title: Window Air Conditioner Scrap Value
 description: "Window air conditioners are a great way to cool down a room in any season of the year. However, when the time comes to replace the...learn more about it now"
 keywords: air conditioner scrap value
-publishDate: 4/23/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

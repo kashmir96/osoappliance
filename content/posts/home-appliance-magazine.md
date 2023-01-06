@@ -3,7 +3,6 @@
 title: Home Appliance Magazine
 description: "Home appliance magazines are a great way to stay informed on the latest products, trends, and technological developments in home a...take a moment to check it out "
 keywords: appliance
-publishDate: 1/26/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

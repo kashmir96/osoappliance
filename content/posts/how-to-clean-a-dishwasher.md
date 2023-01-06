@@ -3,7 +3,6 @@
 title: How To Clean A Dishwasher
 description: This post explains how to quickly and easily clean your dishwasher, so you can keep your kitchen hygienic and free of unpleasant odors - read on to find out how!
 keywords: how to dishwasher
-publishDate: 12/28/2022
 tags: ["Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

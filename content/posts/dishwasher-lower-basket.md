@@ -3,7 +3,6 @@
 title: Dishwasher Lower Basket
 description: "The dishwasher lower basket is an essential part of any dishwasher. It is the part of the dishwasher that holds the dishes and oth...take a moment to check it out "
 keywords: dishwasher
-publishDate: 11/27/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

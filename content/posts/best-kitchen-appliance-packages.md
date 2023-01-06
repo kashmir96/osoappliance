@@ -3,7 +3,6 @@
 title: Best Kitchen Appliance Packages
 description: "Kitchen appliances are essential components of any home, and purchasing the right package can save you time and money. A kitchen a...see more"
 keywords: best kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

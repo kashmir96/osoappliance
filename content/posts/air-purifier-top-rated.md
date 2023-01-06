@@ -3,7 +3,6 @@
 title: Air Purifier Top Rated
 description: "An air purifier is a device that removes pollutants from the air in your home, office, or other space. The top rated air purifiers...keep going and find out"
 keywords: air purifier top
-publishDate: 4/16/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

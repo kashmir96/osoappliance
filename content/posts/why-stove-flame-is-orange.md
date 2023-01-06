@@ -3,7 +3,6 @@
 title: Why Stove Flame Is Orange
 description: "When you turn on the stove, you may have noticed that the flame is usually orange. But why is that?...learn more about it now"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Oven Turns Off By Itself
 description: "Have you ever experienced your oven turning off by itself without explanation? If so, you’re not alone. This issue is a common occ...check it out to learn"
 keywords: oven
-publishDate: 3/19/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

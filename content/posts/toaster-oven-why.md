@@ -3,7 +3,6 @@
 title: Toaster Oven Why
 description: "A toaster oven is a great kitchen appliance to have in your home. Not only can it serve as a replacement for a traditional oven, b...keep going and find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Oven What Is Sabbath Mode
 description: "Sabbath mode, also known as Shabbos mode, is a setting found on many ovens that allows the appliance to be used in accordance with...swipe up to find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

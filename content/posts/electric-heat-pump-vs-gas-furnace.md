@@ -3,7 +3,6 @@
 title: Electric Heat Pump Vs Gas Furnace
 description: "When deciding which type of heating system to install in your home, you may be considering either an electric heat pump or a gas f...learn about it in this post"
 keywords: heat pump gas
-publishDate: 6/7/2022
 tags: ["Heat Pump", "Stove"]
 author: Curtis
 categories: ["Household Appliances"]

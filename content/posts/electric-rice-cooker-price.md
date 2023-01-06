@@ -3,7 +3,6 @@
 title: Electric Rice Cooker Price
 description: "When it comes to convenience in the kitchen, an electric rice cooker is an absolute must-have. Not only can they cook delicious ri...see more"
 keywords: cooker
-publishDate: 3/26/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

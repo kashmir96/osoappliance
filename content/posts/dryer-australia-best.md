@@ -3,7 +3,6 @@
 title: Dryer Australia Best
 description: "When it comes to finding the best rated dryer in Australia, there are a few things to consider. First, you want to look for a drye...get more info"
 keywords: dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

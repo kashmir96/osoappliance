@@ -3,7 +3,6 @@
 title: Dryer Washer Repair
 description: "If you’ve ever experienced a broken dryer or washer, you know how frustrating it can be. Not only do you have to wait for repairs,...learn more about it now"
 keywords: dryer repair
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryers Nz
 description: "Dryers are an essential part of the laundry process, especially in New Zealand’s wet and cold climate where it can be difficult to...continue on"
 keywords: dryers nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

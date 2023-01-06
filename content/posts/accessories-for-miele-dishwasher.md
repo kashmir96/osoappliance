@@ -3,7 +3,6 @@
 title: Accessories For Mile Dishwasher
 description: "Miele dishwashers are some of the most reliable and efficient models on the market, which is why many people choose them. But to g...swipe up to find out"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

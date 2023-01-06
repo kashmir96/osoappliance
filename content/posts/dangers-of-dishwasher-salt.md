@@ -3,7 +3,6 @@
 title: Dangers Of Dishwasher Salt
 description: "As a kitchen appliance, dishwashers are designed to make your life easier by taking care of the hard work of washing and drying di...learn more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

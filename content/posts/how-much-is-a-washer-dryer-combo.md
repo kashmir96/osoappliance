@@ -3,7 +3,6 @@
 title: How Much Is A Washer Dryer Combo
 description: "A washer dryer combo is a single appliance that combines a washing machine and a clothes dryer. It is an all-in-one solution for l...learn more about it now"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

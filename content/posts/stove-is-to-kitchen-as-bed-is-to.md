@@ -3,7 +3,6 @@
 title: Stove Is To Kitchen As Bed Is To
 description: "The kitchen and the bedroom are two of the most important rooms in a home. They provide us with the basic necessities of life - fo...check it out to learn"
 keywords: stove kitchen
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

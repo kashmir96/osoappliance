@@ -3,7 +3,6 @@
 title: What Dishwashers Are The Most Expensive To Fix New Zealand
 description: "If you’re looking for a dishwasher in New Zealand, you’ll want to know which ones are the most expensive to fix. Dishwashers are a...take a moment to check it out "
 keywords: most fix new zealand
-publishDate: 7/6/2022
 tags: ["Dishwasher", "Appliance Repair", "New Zealand", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

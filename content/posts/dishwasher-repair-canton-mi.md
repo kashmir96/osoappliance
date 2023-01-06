@@ -3,7 +3,6 @@
 title: Dishwasher Repair Canton Mi
 description: "Are you looking for dishwasher repair in Canton, Michigan? If so, you’ve come to the right place! At Appliance Repair of Canton, w...you wont regret reading on"
 keywords: dishwasher repair
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Appliance Repair", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

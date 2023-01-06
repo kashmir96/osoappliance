@@ -3,7 +3,6 @@
 title: Kitchen Appliances Best Deals
 description: "As the holiday season approaches, it's time to start thinking about updating your kitchen appliances. Whether you're looking for a...get more detail"
 keywords: kitchen best deals
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

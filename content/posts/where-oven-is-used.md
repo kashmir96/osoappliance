@@ -3,7 +3,6 @@
 title: Where Oven Is Used
 description: "Ovens are a fundamental tool in the kitchen, and they are used for a variety of cooking tasks. They are used to bake cakes and coo...lets find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

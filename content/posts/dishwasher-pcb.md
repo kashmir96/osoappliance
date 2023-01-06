@@ -3,7 +3,6 @@
 title: Dishwasher Pcb
 description: "Have you ever wondered what a dishwasher PCB is, why it’s important and how it affects your dishwasher’s performance? Well, if so,...get more detail"
 keywords: dishwasher
-publishDate: 2/1/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

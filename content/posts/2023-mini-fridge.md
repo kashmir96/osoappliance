@@ -3,7 +3,6 @@
 title: 2023 Mini Fridge
 description: "In 2023, mini fridges have come a long way. These space-saving appliances are equipped with advanced technology and features to me...find out now"
 keywords: 2023 mini fridge
-publishDate: 3/9/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

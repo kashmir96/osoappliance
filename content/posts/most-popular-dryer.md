@@ -3,7 +3,6 @@
 title: Most Popular Dryer
 description: "The modern dryer is a technological marvel. It’s a machine that can quickly and efficiently dry laundry, saving us time and energy...keep reading to learn"
 keywords: most popular dryer
-publishDate: 7/18/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

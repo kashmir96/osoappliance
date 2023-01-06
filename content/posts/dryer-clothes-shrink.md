@@ -3,7 +3,6 @@
 title: Dryer Clothes Shrink
 description: "If you’ve ever thrown a favorite shirt in the dryer only to find it shrunken and misshapen, you know the frustration of accidental...lets find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

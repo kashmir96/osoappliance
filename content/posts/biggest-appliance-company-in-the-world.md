@@ -3,7 +3,6 @@
 title: Biggest Appliance Company In The World
 description: "Today, appliances are a necessity in our everyday lives. Whether it be for cooking, washing dishes, or doing laundry, appliances a...check it out to learn"
 keywords: appliance
-publishDate: 4/8/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

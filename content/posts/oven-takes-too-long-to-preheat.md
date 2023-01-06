@@ -3,7 +3,6 @@
 title: Oven Takes Too Long To Preheat
 description: "If you’ve noticed that your oven takes too long to preheat, don’t worry—you’re not alone! Many home cooks experience this issue. T...get more info"
 keywords: oven
-publishDate: 12/16/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

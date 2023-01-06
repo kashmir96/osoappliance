@@ -3,7 +3,6 @@
 title: Dryer Makes Rattling Noise
 description: "If your dryer is making a rattling noise, it’s probably time to take a closer look. A rattling noise from a dryer usually means th...continue on"
 keywords: dryer
-publishDate: 11/8/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

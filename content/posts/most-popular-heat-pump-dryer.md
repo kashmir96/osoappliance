@@ -3,7 +3,6 @@
 title: Most Popular Heat Pump Dryer
 description: "Heat pump dryers are becoming increasingly popular for their energy efficiency and cost-savings. Heat pump dryers use a heat excha...you wont regret reading on"
 keywords: most popular heat pump dryer
-publishDate: 1/10/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

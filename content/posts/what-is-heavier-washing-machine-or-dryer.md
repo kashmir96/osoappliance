@@ -3,7 +3,6 @@
 title: What Is Heavier Washing Machine Or Dryer
 description: "When it comes to laundry appliances, many people wonder which one is heavier - a washing machine or a dryer? The answer is that it...see more"
 keywords: washing machine dryer
-publishDate: 7/11/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

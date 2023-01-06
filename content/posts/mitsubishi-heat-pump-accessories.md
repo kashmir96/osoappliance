@@ -3,7 +3,6 @@
 title: Mitsubishi Heat Pump Accessories
 description: "When it comes to heating and cooling your home, Mitsubishi heat pumps are among the best on the market. They’re energy efficient, ...lets find out"
 keywords: heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

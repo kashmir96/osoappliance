@@ -3,7 +3,6 @@
 title: How Much Is A Bar Fridge
 description: "A bar fridge is a must-have appliance for any home bar or entertainment area. It's perfect for keeping drinks and snacks chilled w...lets find out"
 keywords: fridge
-publishDate: 12/14/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

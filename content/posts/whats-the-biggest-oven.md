@@ -3,7 +3,6 @@
 title: Whats The Biggest Oven
 description: "The biggest oven in the world is located in Middletown, Connecticut, and was used to bake the world’s largest cookie. The oven is ...learn about it in this post"
 keywords: oven
-publishDate: 7/26/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

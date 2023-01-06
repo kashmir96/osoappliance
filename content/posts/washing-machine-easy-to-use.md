@@ -3,7 +3,6 @@
 title: Washing Machine Easy To Use
 description: "With the fast-paced and ever-changing world we live in, it seems like it’s harder than ever to find time for basic household chore...read now to learn more"
 keywords: washing machine use
-publishDate: 2/24/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

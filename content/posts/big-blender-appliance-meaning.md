@@ -3,7 +3,6 @@
 title: Big Blender Appliance Meaning
 description: "Big Blenders are one of the most powerful and versatile kitchen appliances around. They can be used for a variety of tasks, from p...see more"
 keywords: blender appliance
-publishDate: 3/14/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

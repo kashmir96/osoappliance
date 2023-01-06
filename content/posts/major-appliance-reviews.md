@@ -3,7 +3,6 @@
 title: Major Appliance Reviews
 description: "When it comes to major appliance reviews, there is no better way to make an informed decision than by reading the opinions of othe...check it out to learn"
 keywords: appliance reviews
-publishDate: 6/28/2022
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

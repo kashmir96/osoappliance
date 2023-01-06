@@ -3,7 +3,6 @@
 title: Hazards Of Air Purifiers
 description: "Air purifiers are a popular tool used to reduce air pollution and improve indoor air quality. While they can be beneficial, they m...see more"
 keywords: air
-publishDate: 12/31/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

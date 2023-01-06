@@ -3,7 +3,6 @@
 title: Air Conditioning Electrical Technician
 description: "An air conditioning electrical technician is a professional who installs, troubleshoots, and repairs electrical components related...read now to learn more"
 keywords: air
-publishDate: 6/13/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

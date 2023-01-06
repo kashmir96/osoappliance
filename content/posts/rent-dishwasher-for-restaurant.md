@@ -3,7 +3,6 @@
 title: Rent Dishwasher For Restaurant
 description: "If you run a restaurant, you know how important it is to have reliable kitchen equipment that can keep up with your workflow. One ...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

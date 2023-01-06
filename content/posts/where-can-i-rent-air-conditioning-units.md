@@ -3,7 +3,6 @@
 title: Where Can I Rent Air Conditioning Units
 description: "When the temperatures rise in the summer, it can be difficult to beat the heat without air conditioning. Fortunately, you don’t ha...get more detail"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

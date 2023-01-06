@@ -3,7 +3,6 @@
 title: Commercial Dryers Prices
 description: "When it comes to purchasing a commercial dryer, the cost can be a major factor in deciding which one is right for you. Commercial ...learn more about it now"
 keywords: dryers
-publishDate: 2/4/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

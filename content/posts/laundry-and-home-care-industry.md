@@ -3,7 +3,6 @@
 title: Laundry And Home Care Industry
 description: "These days, the laundry and home care industry has become increasingly important. With more people living in smaller spaces, it’s ...get more info"
 keywords: laundry
-publishDate: 12/22/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

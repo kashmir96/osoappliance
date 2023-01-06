@@ -3,7 +3,6 @@
 title: Laundry Appliance Stand
 description: "Are you looking for a way to make laundry day easier? If so, investing in a laundry appliance stand may be the perfect solution. A...lets find out"
 keywords: laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

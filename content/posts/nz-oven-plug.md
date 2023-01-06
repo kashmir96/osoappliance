@@ -3,7 +3,6 @@
 title: Nz Oven Plug
 description: "If you’re installing a new oven in your New Zealand home, you need to be aware of the differences between plug-in and wired oven i...swipe up to find out"
 keywords: nz oven
-publishDate: 12/12/2022
 tags: ["Oven", "New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How To Clean A Vacuum
 description: "Vacuum cleaners are an essential tool for keeping your home clean and tidy. But, like any other machine, they need to be cleaned a...learn more about it now"
 keywords: how to clean vacuum
-publishDate: 6/14/2022
 tags: ["Vacuum", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

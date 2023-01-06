@@ -3,7 +3,6 @@
 title: Appliance Repairs Rangiora
 description: "Home appliances are an essential part of our lives, and when they break down, it can cause a lot of stress. Thankfully, in Rangior...keep reading to learn"
 keywords: appliance
-publishDate: 9/12/2021
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

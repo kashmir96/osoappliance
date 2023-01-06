@@ -3,7 +3,6 @@
 title: How Long Should A Dryer Last
 description: This post provides an overview of how long a clothing dryer should last, as well as factors that may influence its lifespan, so read on to find out more!
 keywords: dryer
-publishDate: 8/17/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

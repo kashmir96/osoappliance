@@ -3,7 +3,6 @@
 title: Oven Rack Why
 description: "Oven racks are an essential component of any oven, providing support for baking dishes and pans. They are typically made of metal ...swipe up to find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

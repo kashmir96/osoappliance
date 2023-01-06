@@ -3,7 +3,6 @@
 title: Oven Symbols Nz
 description: "Are you confused by all the symbols on your oven? You’re not alone! Oven symbols can be confusing and intimidating, but they don’t...keep reading to learn"
 keywords: oven nz
-publishDate: 12/12/2022
 tags: ["Oven", "New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

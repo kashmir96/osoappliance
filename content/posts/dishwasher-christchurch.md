@@ -3,7 +3,6 @@
 title: Dishwasher Christchurch
 description: "If you're looking for a job in Christchurch, New Zealand, then you may want to consider working as a dishwasher. Dishwashers are a...learn more about it now"
 keywords: dishwasher christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

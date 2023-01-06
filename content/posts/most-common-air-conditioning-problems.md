@@ -3,7 +3,6 @@
 title: Most Common Air Conditioning Problems
 description: "When the temperature rises, having a working air conditioner is a necessity. Unfortunately, it’s also something that can go wrong....keep reading to learn"
 keywords: most air
-publishDate: 12/30/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

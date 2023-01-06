@@ -3,7 +3,6 @@
 title: Oven Cleaning Services Christchurch
 description: This post explains why regular oven cleaning is essential for keeping your kitchen looking and smelling its best; if you want to learn more about the benefits and how to do it, read on!
 keywords: oven services christchurch
-publishDate: 10/6/2022
 tags: ["Christchurch", "Appliances", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Repair Dent On Fridge
 description: If you have a dented fridge and don't want to replace it, this post will provide you with the steps to repair the dent yourself - so read on to find out more!
 keywords: repair fridge
-publishDate: 9/2/2022
 tags: ["Appliances", "Appliance Repair", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

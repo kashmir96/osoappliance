@@ -3,7 +3,6 @@
 title: Fridge Repair Christchurch
 description: "Fridge repairmen in Christchurch are a valuable resource for homes and businesses that need help with their refrigeration systems....get more detail"
 keywords: fridge repair christchurch
-publishDate: 8/4/2022
 tags: ["Washing Machine", "Heat Pump", "Christchurch", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

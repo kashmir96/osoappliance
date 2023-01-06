@@ -3,7 +3,6 @@
 title: Dishwasher Low Price
 description: "When it comes to kitchen appliances, dishwashers are often the most expensive item in the budget. But, there are ways to get a goo...read now to learn more"
 keywords: dishwasher
-publishDate: 11/25/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

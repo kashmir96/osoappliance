@@ -3,7 +3,6 @@
 title: Biggest Little Carpet Cleaner
 description: "We all know that carpets are one of the most important elements in our home when it comes to décor and comfort. Not only do they a...check it out to learn"
 keywords: 
-publishDate: 5/10/2022
 tags: ["Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Common Pot Size
 description: "When it comes to pot size, there are a variety of options available. Each type of pot has its own unique advantages and disadvanta...get more info"
 keywords: most
-publishDate: 2/17/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

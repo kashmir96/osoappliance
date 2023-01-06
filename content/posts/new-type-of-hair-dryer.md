@@ -3,7 +3,6 @@
 title: New Type Of Hair Dryer
 description: "If you’re looking to upgrade your hair drying routine, then the latest type of hair dryer is worth checking out. This new type of ...take a moment to check it out "
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Steam Oven Why
 description: "Steam ovens are the latest trend in cooking technology and are becoming increasingly popular for their convenience and ability to ...swipe up to find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

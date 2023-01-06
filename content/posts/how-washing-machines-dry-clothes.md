@@ -3,7 +3,6 @@
 title: How Washing Machines Dry Clothes
 description: "Washing machines are a modern convenience that many of us take for granted. But how do they actually dry our clothes?...learn more"
 keywords: washing machines
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

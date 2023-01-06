@@ -3,7 +3,6 @@
 title: Air Conditioning App To Use In Nz
 description: "In New Zealand, air conditioning has become an increasingly popular way to keep homes and businesses cool during the hot summer mo...scroll on and keep learning"
 keywords: air use nz
-publishDate: 5/4/2023
 tags: ["Heat Pump", "New Zealand", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Recommended Air Conditioner
 description: "If you're looking for an air conditioner, there are a few important factors to consider. You'll want to find one that is reliable,...learn more about it now"
 keywords: best air conditioner
-publishDate: 5/2/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Appliance Repair Reviews
 description: "Appliance repair reviews are a great way to make sure you’re getting the best service possible when you need to repair a broken ap...you wont regret reading on"
 keywords: repair reviews
-publishDate: 7/30/2022
 tags: ["Appliance Repair", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

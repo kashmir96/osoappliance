@@ -3,7 +3,6 @@
 title: Nobroker Rent Appliances
 description: "Renting appliances is becoming increasingly popular among people who don't want to spend a lot of money on buying expensive home a...you wont regret reading on"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

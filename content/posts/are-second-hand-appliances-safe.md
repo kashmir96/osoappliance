@@ -3,7 +3,6 @@
 title: Are Second Hand Appliances Safe
 description: This post examines the safety of second-hand appliances, and encourages readers to learn more about the potential risks and benefits of buying used.
 keywords: second hand appliances
-publishDate: 8/4/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

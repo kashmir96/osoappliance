@@ -3,7 +3,6 @@
 title: Dryer Isnt Heating
 description: "If your dryer isn’t heating, it’s likely due to an issue with the heating element, thermostat, or thermal fuse. These are all rela...see more detail"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

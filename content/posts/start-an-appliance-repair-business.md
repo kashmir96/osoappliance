@@ -3,7 +3,6 @@
 title: Start An Appliance Repair Business
 description: This post outlines the key steps you need to take to start an appliance repair business, making it a great option for handymen and experienced technicians looking to make a living and help others. If you’re interested in starting an appliance repair business, read on to find out more!
 keywords: appliance repair
-publishDate: 10/22/2022
 tags: ["Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

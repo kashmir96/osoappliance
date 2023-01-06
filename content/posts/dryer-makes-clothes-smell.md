@@ -3,7 +3,6 @@
 title: Dryer Makes Clothes Smell
 description: "A dryer that is not functioning properly can lead to a wide range of issues, one of which is your clothes smelling bad. This issue...see more detail"
 keywords: dryer
-publishDate: 11/1/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

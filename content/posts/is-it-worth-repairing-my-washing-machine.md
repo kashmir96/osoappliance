@@ -3,7 +3,6 @@
 title: Is It Worth Repairing My Washing Machine
 description: This post looks at the factors you need to consider when deciding whether to repair your washing machine. Read on to learn more.
 keywords: washing machine
-publishDate: 6/1/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

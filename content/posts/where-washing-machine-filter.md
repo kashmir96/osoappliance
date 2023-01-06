@@ -3,7 +3,6 @@
 title: Where Washing Machine Filter
 description: "When it comes to managing your home’s laundry, the washing machine is an essential appliance. As such, it requires regular mainten...lets find out"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

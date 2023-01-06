@@ -3,7 +3,6 @@
 title: Vacuum Not Sucking
 description: "If your vacuum cleaner isn’t sucking up dirt and debris, it could be due to a variety of reasons. Here are some of the most common...swipe up to find out"
 keywords: vacuum
-publishDate: 5/31/2022
 tags: ["Vacuum"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Used Appliance Parts Saskatoon
 description: "Used appliance parts in Saskatoon are an invaluable resource for local homeowners, landlords, and businesses that need to replace ...learn more"
 keywords: appliance parts
-publishDate: 2/4/2022
 tags: ["Appliance Consumption", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

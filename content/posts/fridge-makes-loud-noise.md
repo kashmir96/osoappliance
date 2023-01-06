@@ -3,7 +3,6 @@
 title: Fridge Makes Loud Noise
 description: "Fridge Making Loud Noise? Here Are a Few Ways to Fix It Yourself...lets find out"
 keywords: fridge
-publishDate: 11/19/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

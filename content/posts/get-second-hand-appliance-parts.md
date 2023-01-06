@@ -3,7 +3,6 @@
 title: Get Second Hand Appliance Parts
 description: If you're in need of appliance parts in Christchurch, this post provides a helpful overview of the best ways to go about buying them, so read on to find out more!
 keywords: second hand appliance parts
-publishDate: 8/10/2022
 tags: ["Appliances", "Parts"]
 author: Curtis
 categories: ["Appliances Christchurch"]

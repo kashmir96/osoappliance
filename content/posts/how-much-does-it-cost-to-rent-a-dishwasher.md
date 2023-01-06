@@ -3,7 +3,6 @@
 title: How Much Does It Cost To Rent A Dishwasher
 description: "When it comes to renting a dishwasher, there are many factors to consider. From the type of appliance to the rental company and it...find out now"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

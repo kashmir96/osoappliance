@@ -3,7 +3,6 @@
 title: How To Maintain An Oven
 description: This post provides simple tips to keep your oven clean and functioning properly, so read on to find out how you can maintain your oven for perfect cooking results!
 keywords: how to maintain oven
-publishDate: 9/29/2022
 tags: ["Appliances", "Guide", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

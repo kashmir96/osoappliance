@@ -3,7 +3,6 @@
 title: Commercial Appliance Parts & Service Lic
 description: "Commercial appliance parts and service providers are businesses that specialize in providing repairs, parts, and maintenance servi...learn more"
 keywords: appliance parts
-publishDate: 12/12/2022
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

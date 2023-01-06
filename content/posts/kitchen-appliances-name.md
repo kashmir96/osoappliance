@@ -3,7 +3,6 @@
 title: Kitchen Appliances Name
 description: "Kitchen appliances are essential for any kitchen and come in many different types and sizes. From large ovens to small blenders, t...get more detail"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

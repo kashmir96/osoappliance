@@ -3,7 +3,6 @@
 title: What Are The Top 5 Appliance Brands
 description: "When it comes to buying appliances for your home, it can be hard to decide which brands are the best. With so many different compa...scroll on and keep learning"
 keywords: top appliance brands
-publishDate: 2/19/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

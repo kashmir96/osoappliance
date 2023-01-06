@@ -3,7 +3,6 @@
 title: Laundry Services Industry
 description: "The laundry services industry is a booming business, with an ever-growing demand for its services. The industry provides a wide ar...see more"
 keywords: laundry
-publishDate: 12/15/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

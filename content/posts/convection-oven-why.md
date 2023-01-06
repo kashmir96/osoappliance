@@ -3,7 +3,6 @@
 title: Convection Oven Why
 description: "Convection ovens are becoming increasingly popular in the kitchen due to their ability to cook food faster and more evenly than tr...get more info"
 keywords: oven
-publishDate: 9/30/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

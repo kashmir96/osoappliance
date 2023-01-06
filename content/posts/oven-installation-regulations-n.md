@@ -3,7 +3,6 @@
 title: Oven Installation Regulations N
 description: "Installing an oven is not a task to be taken lightly. Not only can improper installation leave you with an unsafe appliance, but i...take a moment to check it out "
 keywords: oven installation regulations
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Rules and Regulations", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

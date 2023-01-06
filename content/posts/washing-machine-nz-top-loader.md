@@ -3,7 +3,6 @@
 title: Washing Machine Nz Top Loader
 description: "As a Kiwi, when it comes to doing laundry there is no one-size fits all solution. With the wide range of washing machines availabl...get more info"
 keywords: washing machine nz top
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

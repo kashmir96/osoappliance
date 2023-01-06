@@ -3,7 +3,6 @@
 title: Dishwasher Always Needs Salt
 description: "When it comes to dishwashers, many people overlook the importance of using salt. Salt helps to reduce the hardness of water, which...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 10/10/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

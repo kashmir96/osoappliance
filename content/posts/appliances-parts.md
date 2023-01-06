@@ -3,7 +3,6 @@
 title: Appliances Parts
 description: "Appliance Parts and Repair Costs...find out now"
 keywords: appliances parts
-publishDate: 10/1/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Fridge Repairs Christchurch
 description: "If you have a faulty refrigerator in Christchurch and need it fixed, there are a few local repair services that you can turn to. R...read now to learn more"
 keywords: fridge christchurch
-publishDate: 8/27/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

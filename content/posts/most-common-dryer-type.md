@@ -3,7 +3,6 @@
 title: Most Common Dryer Type
 description: "In today’s modern world, there are a variety of dryer options available to suit your specific needs. From electric dryers to gas d...scroll on and keep learning"
 keywords: most dryer
-publishDate: 7/15/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

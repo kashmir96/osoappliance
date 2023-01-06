@@ -3,7 +3,6 @@
 title: Price Of Electric Blender
 description: "Electric blenders are an essential kitchen appliance and have become increasingly popular in recent years. With so many different ...get the full scoop"
 keywords: blender
-publishDate: 5/28/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Who To Clean Washing Machine
 description: "Cleaning a washing machine is an important part of keeping your laundry clean and hygienic. It’s easy to forget about this chore, ...learn about it in this post"
 keywords: clean washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

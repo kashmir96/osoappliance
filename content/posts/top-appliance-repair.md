@@ -3,7 +3,6 @@
 title: Top Appliance Repair
 description: "Welcome to our blog! Today, we’re going to discuss the top appliance repair services available today. We’ll cover the different ty...swipe up to find out"
 keywords: top appliance repair
-publishDate: 7/3/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

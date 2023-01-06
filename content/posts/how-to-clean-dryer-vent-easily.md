@@ -3,7 +3,6 @@
 title: How To Clean Dryer Vent
 description: "If you're looking to take on a home improvement project, one of the things you should consider is cleaning your dryer vent. Not on...learn more about it now"
 keywords: how to clean dryer
-publishDate: 1/1/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

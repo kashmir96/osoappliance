@@ -3,7 +3,6 @@
 title: Most Common Mixers For Vodka
 description: "Vodka is a versatile spirit that can be mixed with many different ingredients to create delicious cocktails. Whether you’re in the...keep reading to learn"
 keywords: most
-publishDate: 2/10/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

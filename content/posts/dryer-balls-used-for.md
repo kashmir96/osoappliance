@@ -3,7 +3,6 @@
 title: Dryer Balls Used For
 description: "If you're looking for an eco-friendly way to reduce your laundry time and save money, then dryer balls could be the perfect soluti...check it out to learn"
 keywords: dryer
-publishDate: 1/8/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

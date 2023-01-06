@@ -3,7 +3,6 @@
 title: Dangers Of Hair Dryers
 description: "Hair dryers can be a great tool to quickly dry your hair, however they can also be dangerous if used incorrectly. Hair dryers gene...continue on"
 keywords: dryers
-publishDate: 1/13/2023
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

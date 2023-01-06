@@ -3,7 +3,6 @@
 title: Electric Dehydrator Recipes
 description: "If you’re looking for a healthier and more sustainable way of preserving food, electric dehydrators are a great option. This kitch...read now to learn more"
 keywords: dehydrator
-publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

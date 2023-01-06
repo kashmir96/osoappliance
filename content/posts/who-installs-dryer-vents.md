@@ -3,7 +3,6 @@
 title: Who Installs Dryer Vents
 description: "When it comes to installing a dryer vent, the best approach is to hire a professional. While it may be tempting to attempt a DIY p...keep going and find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

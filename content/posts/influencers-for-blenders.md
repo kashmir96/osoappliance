@@ -3,7 +3,6 @@
 title: Influencers For Blenders
 description: "Welcome to the world of influencer marketing! Influencers have become an increasingly popular way for companies to reach their tar...take a moment to check it out "
 keywords: 
-publishDate: 12/23/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

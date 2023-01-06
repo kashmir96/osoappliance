@@ -3,7 +3,6 @@
 title: Accessories For Babyliss Hair Dryer
 description: "If you’re looking for ways to take your Babyliss hair dryer to the next level, there are a variety of accessories available to hel...take a moment to check it out "
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

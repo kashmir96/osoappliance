@@ -3,7 +3,6 @@
 title: Accessories For Oster Blender
 description: "If you are an avid smoothie-lover or just want to make cooking easier, Oster blenders are a great choice. You can find models that...learn more"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

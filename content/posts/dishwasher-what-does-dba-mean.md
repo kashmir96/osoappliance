@@ -3,7 +3,6 @@
 title: Dishwasher What Does Dba Mean
 description: "Dishwasher decibel rating (DBA) is a measure of how loud a dishwasher is when it is running. It is measured in decibels (dB), whic...swipe up to find out"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

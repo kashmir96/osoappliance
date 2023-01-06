@@ -3,7 +3,6 @@
 title: Biggest Over The Range Microwave
 description: "If you’re looking for a large, powerful, and convenient microwave oven, then an over the range (OTR) model is probably the best ch...take a moment to check it out "
 keywords: range microwave
-publishDate: 5/29/2022
 tags: ["Stove", "Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

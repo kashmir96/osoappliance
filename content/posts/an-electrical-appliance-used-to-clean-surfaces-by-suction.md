@@ -3,7 +3,6 @@
 title: An Electrical Appliance Used To Clean Surfaces By Suction
 description: "A vacuum cleaner is an electrical appliance that is used to clean surfaces by suction. Vacuum cleaners work by using a motor to cr...continue on"
 keywords: appliance clean suction
-publishDate: 25/12/2022
 tags: ["Vacuum", "Appliance Consumption", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

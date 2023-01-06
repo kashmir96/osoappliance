@@ -3,7 +3,6 @@
 title: Buy Electrical Appliances Strasbourg
 description: "When it comes to buying electrical appliances in Strasbourg, France, you have a few different options. Whether you’re looking for ...swipe up to find out"
 keywords: buy appliances
-publishDate: 2/10/2023
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

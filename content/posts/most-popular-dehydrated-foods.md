@@ -3,7 +3,6 @@
 title: Most Popular Dehydrated Foods
 description: "Dehydrated foods are an increasingly popular way to preserve fresh ingredients and make them shelf stable for longer periods of ti...get more info"
 keywords: most popular
-publishDate: 1/2/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

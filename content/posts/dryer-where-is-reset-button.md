@@ -3,7 +3,6 @@
 title: Dryer Where Is Reset Button
 description: "Are you having trouble with your dryer? If so, one of the first things you should check is the reset button. This small button can...see more detail"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

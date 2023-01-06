@@ -3,7 +3,6 @@
 title: Kitchen Appliance Magazine
 description: "Kitchen appliance magazines are a great resource for anyone looking to upgrade their kitchen space. From helpful reviews on the la...learn more about it now"
 keywords: kitchen appliance
-publishDate: 1/28/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

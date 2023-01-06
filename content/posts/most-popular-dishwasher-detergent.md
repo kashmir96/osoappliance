@@ -3,7 +3,6 @@
 title: Most Popular Dishwasher Detergent
 description: "If you’re in the market for a dishwasher detergent, you may be overwhelmed by the sheer number of options available. With so many ...scroll on and keep learning"
 keywords: most popular dishwasher
-publishDate: 1/23/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

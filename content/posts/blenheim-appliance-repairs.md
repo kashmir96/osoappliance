@@ -3,7 +3,6 @@
 title: Blenheim Appliance Repairs
 description: "If you’re in the Blenheim area, you may be looking for a reliable appliance repair service to fix your household appliances. Fortu...scroll on and keep learning"
 keywords: appliance
-publishDate: 10/19/2021
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Appliance Parts Canada
 description: "If you’re looking for the best appliance parts suppliers in Canada, you’ve come to the right place. With so many options available...get more info"
 keywords: best appliance parts
-publishDate: 10/6/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

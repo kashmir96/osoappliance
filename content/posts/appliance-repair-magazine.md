@@ -3,7 +3,6 @@
 title: Appliance Repair Magazine
 description: "Appliance repair can be a daunting task, especially for those who are not experienced in this field. Thankfully, there are plenty ...read now to learn more"
 keywords: appliance repair
-publishDate: 1/29/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

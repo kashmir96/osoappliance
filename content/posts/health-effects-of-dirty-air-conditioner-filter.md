@@ -3,7 +3,6 @@
 title: Health Effects Of Dirty Air Conditioner Filter
 description: "Health effects of a dirty air conditioner filter can be serious, especially for those with allergies, asthma, or other respiratory...see more detail"
 keywords: air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

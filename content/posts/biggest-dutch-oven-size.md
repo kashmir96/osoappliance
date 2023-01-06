@@ -3,7 +3,6 @@
 title: Biggest Dutch Oven Size
 description: "Dutch ovens are a great way to make flavorful, hearty dishes. They’re incredibly versatile and can be used for everything from sou...lets find out"
 keywords: oven
-publishDate: 4/29/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

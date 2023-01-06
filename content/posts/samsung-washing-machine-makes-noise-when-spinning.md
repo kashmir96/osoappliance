@@ -3,7 +3,6 @@
 title: Samsung Washing Machine Makes Noise When Spinning
 description: "Most of us have experienced a mysterious rumbling or thumping sound coming from our washing machines at one time or another. It ca...read now to learn more"
 keywords: samsung washing machine
-publishDate: 1/21/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

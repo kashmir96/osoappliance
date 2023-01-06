@@ -3,7 +3,6 @@
 title: How Long Should A Microwave Last
 description: This post provides an overview of the lifespan of microwaves and why it's important to know, so read on to find out more!
 keywords: microwave
-publishDate: 8/19/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

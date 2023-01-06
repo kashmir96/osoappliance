@@ -3,7 +3,6 @@
 title: Nesco Dehydrator Accessories
 description: "If you’re looking for a way to preserve fruits, vegetables and more in the form of delicious snacks, Nesco dehydrators offer a gre...learn about it in this post"
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

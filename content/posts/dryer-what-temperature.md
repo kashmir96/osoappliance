@@ -3,7 +3,6 @@
 title: Dryer What Temperature
 description: "If you’re like most people, you probably don’t think much about what temperature setting to use when you’re using your dryer. But ...swipe up to find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

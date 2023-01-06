@@ -3,7 +3,6 @@
 title: Whirlpool Dishwasher Accessories
 description: "A dishwasher is an essential appliance in any kitchen. Not only does it make cleaning dishes easier, but it also reduces the amoun...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

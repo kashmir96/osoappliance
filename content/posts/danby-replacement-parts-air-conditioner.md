@@ -3,7 +3,6 @@
 title: Danby Replacement Parts Air Conditioner
 description: "If you’re looking for a reliable air conditioner that won’t break the bank, then Danby is a great option. And if something does go...learn more"
 keywords: replacement parts air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

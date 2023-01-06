@@ -3,7 +3,6 @@
 title: Washing Machine Dimensions Nz
 description: "When it comes to buying a new washing machine, one of the most important considerations is the dimensions of your machine. In New ...get more info"
 keywords: washing machine nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

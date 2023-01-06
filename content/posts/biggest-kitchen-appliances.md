@@ -3,7 +3,6 @@
 title: Biggest Kitchen Appliances
 description: "The kitchen is the heart of any home and having the right appliances can make all the difference when it comes to creating meals, ...see more"
 keywords: kitchen appliances
-publishDate: 5/2/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

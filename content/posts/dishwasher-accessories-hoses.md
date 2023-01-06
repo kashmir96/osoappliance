@@ -3,7 +3,6 @@
 title: Dishwasher Accessories Hoses
 description: "When it comes to a dishwasher, there are many essential accessories that can help keep your dishwasher in top condition and also m...learn more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

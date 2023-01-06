@@ -3,7 +3,6 @@
 title: Dishwasher Takes How Long
 description: "A dishwasher is a great way to save time and energy when it comes to washing dishes. But how long does it take for a dishwasher to...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 3/12/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

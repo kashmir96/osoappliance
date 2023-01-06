@@ -3,7 +3,6 @@
 title: Why Dryer Is Not Heating
 description: "If your dryer isn't heating up, it can be a cause of major frustration. However, before you schedule an appointment with a repair ...keep reading to learn"
 keywords: dryer
-publishDate: 3/3/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

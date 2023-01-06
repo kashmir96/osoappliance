@@ -3,7 +3,6 @@
 title: Find Cheapest Appliance Parts
 description: "Getting the best price on appliance parts can be a challenge, especially if you're looking to repair your own appliances yourself....swipe up to find out"
 keywords: appliance parts
-publishDate: 11/11/2021
 tags: ["Buy Appliance", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

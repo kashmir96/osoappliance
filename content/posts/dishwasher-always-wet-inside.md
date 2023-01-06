@@ -3,7 +3,6 @@
 title: Dishwasher Always Wet Inside
 description: "If you've ever opened your dishwasher to find it wet inside, you're not alone. It's a common issue that can be caused by a few dif...read now to learn more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

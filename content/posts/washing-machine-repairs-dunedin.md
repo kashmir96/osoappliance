@@ -3,7 +3,6 @@
 title: Washing Machine Repairs Dunedin
 description: "Are you in need of washing machine repairs in Dunedin? If so, you’re not alone. Washing machines are essential for keeping our clo...take a moment to check it out "
 keywords: washing machine
-publishDate: 3/23/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

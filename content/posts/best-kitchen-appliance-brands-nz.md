@@ -3,7 +3,6 @@
 title: Best Kitchen Appliance Brands Nz
 description: "If you’re looking for the best kitchen appliance brands in New Zealand, you’ve come to the right place. New Zealand is blessed wit...take a moment to check it out "
 keywords: best kitchen brands nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

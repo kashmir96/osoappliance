@@ -3,7 +3,6 @@
 title: Electrical Appliance Standards
 description: "When you are shopping for electrical appliances, it can be difficult to know which products meet safety standards and which do not...you wont regret reading on"
 keywords: standards
-publishDate: 12/12/2022
 tags: ["Appliance Rules and Regulations"]
 author: Curtis
 categories: ["Household Appliances"]

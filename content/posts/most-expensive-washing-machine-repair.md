@@ -3,7 +3,6 @@
 title: Most Expensive Washing Machine Repair
 description: "As a homeowner, it’s important to keep your appliances in good condition so they can last as long as possible. But if something go...scroll on and keep learning"
 keywords: most washing machine repair
-publishDate: 1/6/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

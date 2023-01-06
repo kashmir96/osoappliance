@@ -3,7 +3,6 @@
 title: Flat Black Appliances
 description: "If you’re looking to make a bold statement in your kitchen, then flat black appliances are the way to go. Flat black, also known a...learn more about it now"
 keywords: appliances
-publishDate: 12/25/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

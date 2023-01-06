@@ -3,7 +3,6 @@
 title: Best Dryer Vent Hose
 description: "A dryer vent hose is an important part of any dryer, as it helps to vent hot air and moisture from the dryer to the outside of you...swipe up to find out"
 keywords: best dryer
-publishDate: 8/16/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

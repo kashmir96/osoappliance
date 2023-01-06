@@ -3,7 +3,6 @@
 title: Saxons Is No More - Other Christchurch Appliance Repair Services
 description: Saxons Appliance Repair was a well-respected appliance repair service in Christchurch, New Zealand, that ceased operations. Read on to find out more about its legacy and the appliance repair services replacing the void they've left in the market.
 keywords: christchurch appliance repair services
-publishDate: 9/17/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

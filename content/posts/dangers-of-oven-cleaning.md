@@ -3,7 +3,6 @@
 title: Dangers Of Oven Cleaning
 description: "The dangers of oven cleaning often go overlooked, but it’s important to be aware of the potential risks involved. Cleaning an oven...get more info"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

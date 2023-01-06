@@ -3,7 +3,6 @@
 title: Why Pellet Stove
 description: "Pellet stoves are a great way to heat your home and save money on energy costs. They are becoming increasingly popular due to thei...find out now"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Appliance Test And Tag Christchurch
 description: This post will tell you how to get your appliances test and tagged in Christchurch, which is important to do to ensure their safety. Learn more now!
 keywords: appliance christchurch
-publishDate: 6/29/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

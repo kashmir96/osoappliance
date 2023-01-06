@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Turning On
 description: "If your dishwasher isn’t turning on, it can be a real hassle. There are a few things you can try before calling a technician to co...get the full scoop"
 keywords: dishwasher
-publishDate: 11/21/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

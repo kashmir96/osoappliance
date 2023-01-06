@@ -3,7 +3,6 @@
 title: Appliances Mostly Prescribed In Poliomyelitis Management
 description: "Poliomyelitis, commonly known as polio, is a serious neurological disorder caused by a virus. It can cause permanent paralysis, br...learn more"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

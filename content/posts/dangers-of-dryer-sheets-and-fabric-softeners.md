@@ -3,7 +3,6 @@
 title: Dangers Of Dryer Sheets And Fabric Softeners
 description: "When it comes to doing laundry, dryer sheets and fabric softeners are often seen as essential items. But these products can be dan...take a moment to check it out "
 keywords: dryer
-publishDate: 1/8/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

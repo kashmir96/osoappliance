@@ -3,7 +3,6 @@
 title: Washing Machine Not Draining
 description: If you're dealing with an improperly draining washing machine, read this post for troubleshooting tips and instructions on how to fix the issue quickly and easily - no plumbing experience necessary!
 keywords: washing machine
-publishDate: 11/20/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

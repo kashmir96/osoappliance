@@ -3,7 +3,6 @@
 title: Most Expensive Washing Machine Ever
 description: "Most of us love a good bargain, but when it comes to washing machines, the sky's the limit when it comes to price. In fact, some o...get more detail"
 keywords: most washing machine
-publishDate: 1/5/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

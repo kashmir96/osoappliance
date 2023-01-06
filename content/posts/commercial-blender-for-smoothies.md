@@ -3,7 +3,6 @@
 title: Commercial Blender For Smoothies
 description: "If you’re looking for a way to make delicious smoothies quickly and easily, then a commercial blender is the perfect choice. With ...get more detail"
 keywords: blender
-publishDate: 4/9/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

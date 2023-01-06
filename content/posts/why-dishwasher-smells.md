@@ -3,7 +3,6 @@
 title: Why Dishwasher Smells
 description: "If your dishwasher is emitting an unpleasant odor, it’s likely due to a buildup of bacteria, mold, and mildew. This is usually cau...keep reading to learn"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

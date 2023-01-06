@@ -3,7 +3,6 @@
 title: Laundry Layout Ideas Nz
 description: "Are you looking to make the most of your laundry layout? With so many appliances and accessories to fit into a small space, it can...you wont regret reading on"
 keywords: laundry nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

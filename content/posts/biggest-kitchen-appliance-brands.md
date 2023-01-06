@@ -3,7 +3,6 @@
 title: Biggest Kitchen Appliance Brands
 description: "Kitchen appliances are a staple in modern homes, contributing to convenience and efficiency. While there are dozens of appliance b...get more detail"
 keywords: kitchen appliance brands
-publishDate: 5/1/2022
 tags: ["Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

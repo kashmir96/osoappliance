@@ -3,7 +3,6 @@
 title: Appliance Industry Trends
 description: "The appliance industry is constantly evolving and developing new trends to keep up with consumer demands. As technology advances, ...see more detail"
 keywords: appliance trends
-publishDate: 1/4/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

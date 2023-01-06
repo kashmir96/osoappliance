@@ -3,7 +3,6 @@
 title: Rent Dishwasher Christchurch
 description: If you're looking for an easy and affordable way to keep your dishes clean, renting a dishwasher in Christchurch is the perfect solution - read on to find out more!
 keywords: dishwasher christchurch
-publishDate: 7/28/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Best Carpet Cleaner Spray
 description: "When it comes to maintaining the carpets in your home, one of the best ways to keep them looking their best is by using a carpet c...you wont regret reading on"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

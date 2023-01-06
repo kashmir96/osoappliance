@@ -3,7 +3,6 @@
 title: Dryer Clothes Machine
 description: "Dryer machines are a must-have for any laundry room. They are used to dry clothes after they have been washed in a washing machine...swipe up to find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

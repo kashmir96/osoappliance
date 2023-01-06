@@ -3,7 +3,6 @@
 title: Top Oven Brands In Christchurch
 description: This post outlines the best oven brands in Christchurch, New Zealand, providing a variety of options to suit any budget or preference; read on to find the perfect oven for your kitchen.
 keywords: oven christchurch
-publishDate: 10/19/2022
 tags: ["Christchurch", "Appliances", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Electrical Appliances Brands List
 description: "Are you in the market for new electrical appliances? There are so many brands to choose from, it can be hard to decide which one i...read now to learn more"
 keywords: appliances brands
-publishDate: 6/17/2023
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

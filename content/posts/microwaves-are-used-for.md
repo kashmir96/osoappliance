@@ -3,7 +3,6 @@
 title: Microwaves Are Used For
 description: "Microwaves have become a staple in the modern kitchen. They are used to heat up food quickly and conveniently, but their use goes ...check it out to learn"
 keywords: 
-publishDate: 3/13/2023
 tags: ["Microwave", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

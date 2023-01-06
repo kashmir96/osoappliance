@@ -3,7 +3,6 @@
 title: Dryer Clothes Stand
 description: "When it comes to laundry, the dryer is an essential appliance. But what if you don't have a dryer or want to save energy by air-dr...keep going and find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

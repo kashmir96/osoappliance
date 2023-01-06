@@ -3,7 +3,6 @@
 title: Refrigerator Repair Christchurch
 description: "If you’re looking for refrigerator repair in Christchurch, New Zealand, there are a few jobs that need to be done and a few people...get more detail"
 keywords: repair christchurch
-publishDate: 8/5/2022
 tags: ["Washing Machine", "Heat Pump", "Christchurch", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

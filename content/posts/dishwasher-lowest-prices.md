@@ -3,7 +3,6 @@
 title: Dishwasher Lowest Prices
 description: "When it comes to buying a dishwasher, price is often the first factor that comes to mind. But finding the lowest price doesn’t nec...get the full scoop"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Heat Pump Accessories
 description: "Heat pumps are a great way to heat and cool your home, but they come with a variety of accessories that can make them even more ef...keep going and find out"
 keywords: heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

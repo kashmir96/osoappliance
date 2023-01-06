@@ -3,7 +3,6 @@
 title: Stove Isnt Heating Up
 description: "Are you having trouble getting your stove to heat up? This can be a frustrating issue, but there are a few possible causes and sol...learn about it in this post"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

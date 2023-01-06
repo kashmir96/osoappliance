@@ -3,7 +3,6 @@
 title: Stove Clicking When Off
 description: "Stove clicking when off is a common problem that can be caused by a number of different issues. It’s important to understand what’...get the full scoop"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

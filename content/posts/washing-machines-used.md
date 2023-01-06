@@ -3,7 +3,6 @@
 title: Washing Machines Used
 description: "When it comes to household appliances, the washing machine is one of the most essential. Washing machines are used to clean clothe...continue on"
 keywords: washing machines
-publishDate: 1/14/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

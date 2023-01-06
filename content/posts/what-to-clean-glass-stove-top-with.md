@@ -3,7 +3,6 @@
 title: What To Clean Glass Stove Top With
 description: "A glass stovetop is a great way to cook, but it can be difficult to keep clean. Grease, food particles and other dirt can quickly ...get more detail"
 keywords: clean stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

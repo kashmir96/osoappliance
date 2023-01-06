@@ -3,7 +3,6 @@
 title: Blender 2023
 description: "In recent years, the blender has become a staple kitchen appliance and with advancements in technology, blenders are becoming even...get more detail"
 keywords: blender 2023
-publishDate: 5/7/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

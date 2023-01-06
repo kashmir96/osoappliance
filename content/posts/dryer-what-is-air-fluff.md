@@ -3,7 +3,6 @@
 title: Dryer What Is Air Fluff
 description: "Air fluff, also known as no heat or no heat tumble, is a setting found on many modern clothes dryers. It’s designed to provide a g...check it out to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

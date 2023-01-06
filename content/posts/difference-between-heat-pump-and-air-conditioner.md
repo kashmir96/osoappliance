@@ -3,7 +3,6 @@
 title: Difference Between Heat Pump And Air Conditioner
 description: "When it comes to cooling your home, there are a few different options available. Two of the most popular cooling solutions are hea...get the full scoop"
 keywords: heat pump air conditioner
-publishDate: 11/21/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

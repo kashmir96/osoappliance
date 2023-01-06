@@ -3,7 +3,6 @@
 title: What Does Steam On A Washing Machine Do
 description: "Steam on a washing machine is a feature that has become increasingly popular in recent years. It is a feature that can be found on...check it out to learn"
 keywords: washing machine
-publishDate: 6/25/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

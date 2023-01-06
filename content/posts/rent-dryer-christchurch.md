@@ -3,7 +3,6 @@
 title: Rent Dryer Christchurch
 description: This post outlines why renting a dryer in Christchurch is a great way to save money and get the appliance you need, and encourages you to read on to find out more.
 keywords: dryer christchurch
-publishDate: 7/26/2022
 tags: ["Christchurch", "Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

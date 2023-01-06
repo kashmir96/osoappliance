@@ -3,7 +3,6 @@
 title: Dryer For Sale Best Buy
 description: "Are you in the market for a new dryer? Are you wondering when is the best time to buy one? If so, you’ve come to the right place. ...see more detail"
 keywords: dryer sale best buy
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

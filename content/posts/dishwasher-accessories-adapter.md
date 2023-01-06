@@ -3,7 +3,6 @@
 title: Dishwasher Accessories Adapter
 description: "When it comes to dishwashers, accessories can make cleaning up after dinner a lot easier. One accessory that you may want to consi...see more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

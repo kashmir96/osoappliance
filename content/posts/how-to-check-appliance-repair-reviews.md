@@ -3,7 +3,6 @@
 title: How To Check Appliance Repair Reviews
 description: "If you're looking to get your appliance repaired, you may have heard about checking appliance repair reviews. These reviews can pr...learn more about it now"
 keywords: how to appliance repair reviews
-publishDate: 12/17/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

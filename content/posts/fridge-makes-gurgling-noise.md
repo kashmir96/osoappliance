@@ -3,7 +3,6 @@
 title: Fridge Makes Gurgling Noise
 description: "A gurgling sound coming from your refrigerator can be incredibly annoying and disruptive. Fortunately, there are a few things you ...see more detail"
 keywords: fridge
-publishDate: 11/16/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

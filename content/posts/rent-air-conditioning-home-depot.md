@@ -3,7 +3,6 @@
 title: Rent Air Conditioning Home Depot
 description: "At Home Depot, we understand that staying cool during summer months is essential. That’s why we offer air conditioning rentals as ...swipe up to find out"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

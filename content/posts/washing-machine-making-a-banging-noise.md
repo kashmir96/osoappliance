@@ -3,7 +3,6 @@
 title: Washing Machine Making A Banging Noise
 description: This post will explain the causes of a washing machine banging noise and what you can do to fix it.
 keywords: washing machine
-publishDate: 7/15/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

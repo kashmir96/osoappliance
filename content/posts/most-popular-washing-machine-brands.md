@@ -3,7 +3,6 @@
 title: Most Popular Washing Machine Brands
 description: "The laundry room is an integral part of the home, and choosing the right washing machine can be a daunting task. With so many bran...continue on"
 keywords: most popular washing machine brands
-publishDate: 6/20/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

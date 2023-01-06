@@ -3,7 +3,6 @@
 title: Appliance Spares Tauranga
 description: "If you're in the market for appliance spares in Tauranga, you may be wondering what your best option is for finding quality parts ...lets find out"
 keywords: appliance
-publishDate: 9/29/2021
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

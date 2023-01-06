@@ -3,7 +3,6 @@
 title: How To Stop Leaving Oven On
 description: This post explains how to keep your oven safe, so read on to find out more about how to prevent accidents!
 keywords: how to oven
-publishDate: 1/1/2023
 tags: ["Appliances", "Guide", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

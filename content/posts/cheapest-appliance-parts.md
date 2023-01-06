@@ -3,7 +3,6 @@
 title: Cheapest Appliance Parts
 description: "When it comes to saving money on appliance parts, many of us are tempted to buy the cheapest parts we can find. After all, why spe...check it out to learn"
 keywords: appliance parts
-publishDate: 10/27/2021
 tags: ["Buy Appliance", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

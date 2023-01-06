@@ -3,7 +3,6 @@
 title: Appliance Most Likely To Catch Fire
 description: "We all know that appliances can cause fires if not properly maintained. But which ones are most likely to catch fire? To help you ...keep reading to learn"
 keywords: most likely
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

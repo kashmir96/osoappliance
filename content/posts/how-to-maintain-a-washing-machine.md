@@ -3,7 +3,6 @@
 title: How To Maintain A Washing Machine
 description: Maintaining a washing machine is essential in order to protect your investment and extend its lifespan, and this post provides five useful tips on how to do that. Read on to learn more!
 keywords: how to maintain washing machine
-publishDate: 9/26/2022
 tags: ["Washing Machine", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

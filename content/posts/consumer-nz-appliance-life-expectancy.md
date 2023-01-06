@@ -3,7 +3,6 @@
 title: Consumer Nz Appliance Life Expectancy
 description: "As appliances become increasingly commonplace in our homes, it is important to understand how long they should last. Knowing the e...find out now"
 keywords: nz appliance
-publishDate: 12/12/2022
 tags: ["New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

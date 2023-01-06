@@ -3,7 +3,6 @@
 title: Dryer Smells Like Weed
 description: "If you’ve ever noticed a strange smell coming from your dryer, like a skunky, weed-like smell, you may be wondering what’s causing...read now to learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

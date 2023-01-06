@@ -3,7 +3,6 @@
 title: Is It Worth Fixing My Dryer
 description: This post examines the factors involved in deciding whether to repair or replace a failing dryer, so if you’re stuck in this situation, read on to find out what you should do!
 keywords: dryer
-publishDate: 8/1/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

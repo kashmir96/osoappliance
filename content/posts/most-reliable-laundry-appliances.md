@@ -3,7 +3,6 @@
 title: Most Reliable Laundry Appliances
 description: "Are you in the market for a reliable laundry appliance? Are you looking for something that will last for years and be dependable? ...keep going and find out"
 keywords: most reliable laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

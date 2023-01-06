@@ -3,7 +3,6 @@
 title: Air Conditioning & Electrical Services
 description: "Air conditioning and electrical services are two of the most common services required in many homes and businesses. They both prov...get more detail"
 keywords: air
-publishDate: 4/27/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

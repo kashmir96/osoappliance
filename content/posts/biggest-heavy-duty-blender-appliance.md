@@ -3,7 +3,6 @@
 title: Biggest Heavy-Duty Blender Appliance
 description: "When it comes to making smoothies, sauces, and other blended foods, the biggest heavy-duty blender appliance is an essential kitch...keep reading to learn"
 keywords: blender appliance
-publishDate: 4/30/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

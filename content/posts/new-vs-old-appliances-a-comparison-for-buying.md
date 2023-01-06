@@ -3,7 +3,6 @@
 title: New Vs Old Appliances A Comparison For Buying
 description: "If you’re in the market for a new appliance, you may be wondering whether to go with an old model or a newer one. There are pros a...scroll on and keep learning"
 keywords: old buying
-publishDate: 12/12/2022
 tags: ["Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

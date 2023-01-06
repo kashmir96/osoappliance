@@ -3,7 +3,6 @@
 title: Dryer Installation Christchurch
 description: This post will provide an overview of the process of dryer installation in Christchurch, as well as tips on selecting a technician, so if you need a dryer installed in your home, be sure to read on to get the best results!
 keywords: dryer christchurch
-publishDate: 10/4/2022
 tags: ["Christchurch", "Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

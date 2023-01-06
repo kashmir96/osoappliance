@@ -3,7 +3,6 @@
 title: How To Get A Mouse Out Of Your Washing Machine
 description: "If you’ve ever had the misfortune of finding a mouse in your washing machine, you know it can be a stressful and unpleasant experi...learn about it in this post"
 keywords: how to washing machine
-publishDate: 7/2/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Laundry Machine
 description: "Have you ever wanted to get your laundry done faster? If so, then a big capacity washing machine may be just what you need. Large ...learn more about it now"
 keywords: laundry
-publishDate: 5/4/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

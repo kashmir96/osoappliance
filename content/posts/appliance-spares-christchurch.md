@@ -3,7 +3,6 @@
 title: Appliance Spares Christchurch
 description: "When it comes to maintaining your home appliances, it's important to keep them in good working order. The best way to do this is t...get more detail"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

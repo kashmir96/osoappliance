@@ -3,7 +3,6 @@
 title: Electrical Appliance Usage Monitoring
 description: "With energy costs on the rise and a greater awareness of our impact on the environment, more people are looking for ways to reduce...swipe up to find out"
 keywords: appliance usage
-publishDate: 6/15/2023
 tags: ["Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

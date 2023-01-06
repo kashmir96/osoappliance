@@ -3,7 +3,6 @@
 title: When Making Popcorn On The Stove
 description: "Making popcorn on the stove is a great way to enjoy a tasty, homemade snack. It’s also an inexpensive and easy way to make popcorn...scroll on and keep learning"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

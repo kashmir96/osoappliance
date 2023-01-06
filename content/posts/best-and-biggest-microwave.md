@@ -3,7 +3,6 @@
 title: Best And Biggest Microwave
 description: "When it comes to purchasing a microwave oven, size should be one of the top considerations. A bigger microwave oven means more spa...lets find out"
 keywords: best microwave
-publishDate: 3/6/2022
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

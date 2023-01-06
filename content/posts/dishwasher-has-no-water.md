@@ -3,7 +3,6 @@
 title: Dishwasher Has No Water
 description: "If your dishwasher isn’t filling with water, it can be a frustrating problem. Fortunately, there are a few simple steps you can ta...keep going and find out"
 keywords: dishwasher water
-publishDate: 10/27/2022
 tags: ["Dishwasher", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

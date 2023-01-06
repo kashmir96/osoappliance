@@ -3,7 +3,6 @@
 title: Most Popular Air Conditioning System
 description: "One of the most popular air conditioning systems on the market today is a split system. Split systems are composed of two main com...get more info"
 keywords: most popular air
-publishDate: 7/1/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

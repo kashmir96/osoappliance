@@ -3,7 +3,6 @@
 title: Reviews Carpet Spot Cleaner
 description: "When it comes to carpet spot cleaning, reviews can always be helpful. With so many different products and services on the market, ...read now to learn more"
 keywords: reviews
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Electrical Appliance Ratings
 description: "When you’re shopping for an electrical appliance, you may be overwhelmed by the myriad of ratings listed on the packaging or in an...you wont regret reading on"
 keywords: appliance ratings
-publishDate: 1/21/2023
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

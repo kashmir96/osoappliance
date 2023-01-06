@@ -3,7 +3,6 @@
 title: Appliance Cart Kitchen
 description: "The appliance cart kitchen is becoming increasingly popular in modern homes and is a great way to make the most of limited kitchen...take a moment to check it out "
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

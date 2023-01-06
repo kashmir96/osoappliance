@@ -3,7 +3,6 @@
 title: Electrical Vacuum Cleaner Repair
 description: "Do you have an electrical vacuum cleaner that needs repair? If so, you’ve come to the right place. Vacuum cleaners are complex pie...lets find out"
 keywords: vacuum repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Vacuum", "Appliance Repair", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

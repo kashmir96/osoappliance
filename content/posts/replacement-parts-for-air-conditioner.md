@@ -3,7 +3,6 @@
 title: Replacement Parts For Air Conditioner
 description: "It's no surprise that air conditioners don't last forever. Eventually, they need to be replaced or repaired with new parts. But, i...swipe up to find out"
 keywords: replacement parts air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

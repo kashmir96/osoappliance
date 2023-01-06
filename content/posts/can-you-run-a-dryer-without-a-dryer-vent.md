@@ -3,7 +3,6 @@
 title: Can You Run A Dryer Without A Dryer Vent
 description: "A dryer vent is an essential component of any clothes dryer, as it allows hot air and moisture to escape from the dryer during the...you wont regret reading on"
 keywords: dryer dryer
-publishDate: 9/23/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

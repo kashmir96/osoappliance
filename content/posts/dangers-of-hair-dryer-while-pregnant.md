@@ -3,7 +3,6 @@
 title: Dangers Of Hair Dryer While Pregnant
 description: "Pregnancy is a delicate time for women and they should take extra care to ensure their safety. One of the things to consider is th...keep going and find out"
 keywords: hair dryer
-publishDate: 12/14/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

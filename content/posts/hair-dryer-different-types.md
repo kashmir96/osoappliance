@@ -3,7 +3,6 @@
 title: Hair Dryer Different Types
 description: "When it comes to styling your hair, one of the most important tools you need is a hair dryer. Hair dryers come in a variety of sha...you wont regret reading on"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

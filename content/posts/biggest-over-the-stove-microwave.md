@@ -3,7 +3,6 @@
 title: Biggest Over The Stove Microwave
 description: "The biggest over the stove microwave is a great option for many kitchens. It provides ample cooking space without taking up too mu...get the full scoop"
 keywords: stove microwave
-publishDate: 5/30/2022
 tags: ["Stove", "Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

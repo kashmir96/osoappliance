@@ -3,7 +3,6 @@
 title: Kitchenaid Accessories Dishwasher Safe
 description: "The KitchenAid accessories dishwasher safe are a great addition to any kitchen and make cleaning up after a meal much easier. Whet...see more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

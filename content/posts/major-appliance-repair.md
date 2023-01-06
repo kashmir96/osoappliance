@@ -3,7 +3,6 @@
 title: Major Appliance Repair
 description: "Are you dealing with a broken major appliance at home? If so, you’re probably wondering how to repair it and if it’s worth the cos...see more"
 keywords: appliance repair
-publishDate: 6/24/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

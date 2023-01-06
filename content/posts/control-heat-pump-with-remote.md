@@ -3,7 +3,6 @@
 title: Control Heat Pump With Remote
 description: This post explains the benefits of using a remote control to set your heat pump temperatures, so if you're looking for a way to make your home more comfortable, read on!
 keywords: heat pump
-publishDate: 9/16/2022
 tags: ["Appliances", "Heat Pump"]
 author: Curtis
 categories: ["Appliances Christchurch"]

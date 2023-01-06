@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Drying
 description: "If you’ve noticed that your dishwasher isn’t drying dishes properly, you’re not alone. Many people have experienced this issue, an...you wont regret reading on"
 keywords: dishwasher
-publishDate: 11/15/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

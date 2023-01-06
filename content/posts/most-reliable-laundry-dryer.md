@@ -3,7 +3,6 @@
 title: Most Reliable Laundry Dryer
 description: "When it comes to doing laundry, the dryer is one of the most important appliances. Finding a reliable and efficient dryer can be d...find out now"
 keywords: most reliable laundry dryer
-publishDate: 12/20/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

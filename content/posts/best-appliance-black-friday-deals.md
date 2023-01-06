@@ -3,7 +3,6 @@
 title: Best Appliance Black Friday Deals
 description: "Are you in the market for new appliances? If so, Black Friday is the perfect time to purchase them! With the biggest shopping day ...learn more about it now"
 keywords: best black friday deals
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

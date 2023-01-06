@@ -3,7 +3,6 @@
 title: Dangers Of Venting Dryer Indoors
 description: "Dryers are an essential appliance in the home, but they can be dangerous if used improperly. One of the most common mistakes is ve...swipe up to find out"
 keywords: dryer
-publishDate: 1/14/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

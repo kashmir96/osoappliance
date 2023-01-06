@@ -3,7 +3,6 @@
 title: Air Conditioning Electrical Symbols
 description: "Air conditioning electrical symbols are used to represent different components of an air conditioning system. These symbols are ty...get more info"
 keywords: air
-publishDate: 6/12/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

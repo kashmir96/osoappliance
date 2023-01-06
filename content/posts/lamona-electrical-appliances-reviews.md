@@ -3,7 +3,6 @@
 title: Lamona Electrical Appliances Reviews
 description: "Lamona electrical appliances are highly rated and popular appliances that are designed to make life easier. From washing machines ...keep going and find out"
 keywords: appliances reviews
-publishDate: 1/23/2023
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Top Carpet Cleaners 2023
 description: "Carpet cleaners are a great way to keep your carpets looking their best. With so many options on the market, it can be difficult t...take a moment to check it out "
 keywords: top 2023
-publishDate: 7/10/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

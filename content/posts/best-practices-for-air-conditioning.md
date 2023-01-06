@@ -3,7 +3,6 @@
 title: Best Practices For Air Conditioning
 description: "Maintaining your air conditioning system is one of the most important things you can do to ensure that it operates efficiently and...get the full scoop"
 keywords: best air
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

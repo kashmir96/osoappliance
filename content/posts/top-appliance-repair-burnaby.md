@@ -3,7 +3,6 @@
 title: Top Appliance Repair Burnaby
 description: "Are you looking for a reliable and trustworthy appliance repair service in Burnaby? If so, you’ve come to the right place! At Burn...keep going and find out"
 keywords: top appliance repair
-publishDate: 7/4/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

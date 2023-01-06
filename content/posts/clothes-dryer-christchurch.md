@@ -3,7 +3,6 @@
 title: Clothes Dryer Christchurch
 description: "Clothes dryers are an essential part of modern life, helping to keep our clothes clean, fresh and dry. In Christchurch, clothes dr...take a moment to check it out "
 keywords: dryer christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Christchurch", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

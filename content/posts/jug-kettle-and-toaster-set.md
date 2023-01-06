@@ -3,7 +3,6 @@
 title: Jug Kettle And Toaster Set
 description: "As anyone who has ever done a spot of international travel will tell you, the differences in culture and customs between different...you wont regret reading on"
 keywords: jug kettle set
-publishDate: 4/28/2023
 tags: ["Kitchen Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

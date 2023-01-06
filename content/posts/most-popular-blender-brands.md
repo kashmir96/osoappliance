@@ -3,7 +3,6 @@
 title: Most Popular Blender Brands
 description: "Blender is one of the most important kitchen appliances and there are a variety of different brands to choose from. With so many o...get the full scoop"
 keywords: most popular blender brands
-publishDate: 2/5/2022
 tags: ["Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Stove Island
 description: "A stove island is a great way to create a unique and modern kitchen design. It's an island with a built-in stove or cooktop, often...continue on"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Oven Smell Like Gas
 description: "If your oven is emitting a gas smell, it can be an indicator of a bigger problem. Oftentimes, this smell is caused by a build-up o...swipe up to find out"
 keywords: oven gas
-publishDate: 3/16/2022
 tags: ["Oven", "Stove"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Major Appliance Repair Near Me
 description: "If you're looking for major appliance repair near you, you're in luck. There are many local businesses that specialize in repairin...swipe up to find out"
 keywords: appliance repair near
-publishDate: 6/26/2022
 tags: ["Heat Pump", "Appliance Repair", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

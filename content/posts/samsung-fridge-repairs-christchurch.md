@@ -3,7 +3,6 @@
 title: Samsung Fridge Repairs Christchurch
 description: "Are you looking for reliable Samsung fridge repairs in Christchurch? If so, you’ve come to the right place! This post will explain...get the full scoop"
 keywords: samsung fridge christchurch
-publishDate: 8/19/2021
 tags: ["Heat Pump", "Christchurch", "Appliance Repair", "Kitchen Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

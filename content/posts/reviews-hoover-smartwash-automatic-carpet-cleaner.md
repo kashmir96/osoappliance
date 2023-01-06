@@ -3,7 +3,6 @@
 title: Reviews Hoover Smartwash Automatic Carpet Cleaner
 description: "In today’s busy world, having a carpet cleaner that can save you time and energy is a must-have household appliance. The Hoover Sm...learn more"
 keywords: reviews hoover
-publishDate: 12/12/2022
 tags: ["Vacuum", "Clean Appliance", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

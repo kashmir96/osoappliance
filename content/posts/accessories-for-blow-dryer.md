@@ -3,7 +3,6 @@
 title: Accessories For Blow Dryer
 description: "If you’re a hair enthusiast, then you know the importance of using the right tools to get the perfect style. One of the most impor...get the full scoop"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

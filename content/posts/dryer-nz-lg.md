@@ -3,7 +3,6 @@
 title: Dryer Nz Lg
 description: "Dryers can be a real lifesaver when it comes to laundry day. They make it so much easier to get clothes dry quickly, without havin...get more info"
 keywords: dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

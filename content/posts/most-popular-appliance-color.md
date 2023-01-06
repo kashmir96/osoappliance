@@ -3,7 +3,6 @@
 title: Most Popular Appliance Color
 description: "When it comes to choosing a color for appliances, people tend to gravitate towards the most popular options. After all, when it co...check it out to learn"
 keywords: most popular
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

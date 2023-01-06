@@ -3,7 +3,6 @@
 title: Blendtec Commercial Blender
 description: "Blendtec is a popular commercial blender company that produces high-quality blenders for professional and home use. Their blenders...lets find out"
 keywords: blender
-publishDate: 6/17/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Difference Between Heat Pump Dryer And Vented Dryer
 description: "Are you in the market for a new dryer and trying to decide between a heat pump dryer and a vented dryer? There are several factors...get the full scoop"
 keywords: heat pump dryer dryer
-publishDate: 11/22/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

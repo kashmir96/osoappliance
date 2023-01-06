@@ -3,7 +3,6 @@
 title: Farmers Nz Hair Dryers
 description: "As the weather starts to get colder, it’s time to start thinking about investing in a new hair dryer. But with so many options out...read now to learn more"
 keywords: nz dryers
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

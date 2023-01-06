@@ -3,7 +3,6 @@
 title: Washing Machine Cleaner Bunnings
 description: "If you're looking for an easy and effective way to keep your washing machine in top condition, then washing machine cleaner from B...see more"
 keywords: washing machine
-publishDate: 1/25/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dangers Of Appliance Installation
 description: "Appliance installation is an important part of home maintenance and repairs, but it can also be dangerous if performed incorrectly...you wont regret reading on"
 keywords: appliance installation
-publishDate: 12/27/2022
 tags: ["Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

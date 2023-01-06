@@ -3,7 +3,6 @@
 title: Lem Dehydrator Accessories
 description: "A Lem dehydrator is a great tool for preserving and storing food, but to make sure that you get the best performance out of your d...learn more about it now"
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

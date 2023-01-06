@@ -3,7 +3,6 @@
 title: Dryer Accessories Kit
 description: "A dryer accessories kit is an essential collection of items used to keep your dryer running in top condition. It includes various ...you wont regret reading on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

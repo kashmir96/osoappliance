@@ -3,7 +3,6 @@
 title: Laundry Appliances Brands
 description: "When it comes to laundry appliances, there are many brands on the market today. Each brand has its own unique features and benefit...see more detail"
 keywords: laundry brands
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

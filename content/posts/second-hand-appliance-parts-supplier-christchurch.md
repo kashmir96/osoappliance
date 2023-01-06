@@ -3,7 +3,6 @@
 title: Second Hand Appliance Parts Supplier Christchurch
 description: This post is your guide to finding bargain quality appliance parts in Christchurch, so read on to learn more about how to save money while still getting the parts you need.
 keywords: second hand appliance parts christchurch
-publishDate: 8/11/2022
 tags: ["Christchurch", "Appliances", "Parts"]
 author: Curtis
 categories: ["Appliances Christchurch"]

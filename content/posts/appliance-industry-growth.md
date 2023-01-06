@@ -3,7 +3,6 @@
 title: Appliance Industry Growth
 description: "The appliance industry has seen incredible growth in recent years. This growth is due to a number of factors, including the rise o...read now to learn more"
 keywords: appliance
-publishDate: 1/10/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

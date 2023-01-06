@@ -3,7 +3,6 @@
 title: Most Popular Blender For Baby Food
 description: "When shopping for a blender for baby food, the most important factor is that it can puree your baby's food to the desired consiste...read now to learn more"
 keywords: most popular blender
-publishDate: 2/8/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

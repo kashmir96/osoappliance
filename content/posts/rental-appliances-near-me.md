@@ -3,7 +3,6 @@
 title: Rental Appliances Near Me
 description: "Have you ever been in the position of having to buy a new washer, dryer or refrigerator but not have the funds to purchase one out...get the full scoop"
 keywords: appliances near
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

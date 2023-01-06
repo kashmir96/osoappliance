@@ -3,7 +3,6 @@
 title: When To Use Diffuser On A Hair Dryer
 description: "When it comes to achieving healthy, beautiful hair, there are many tools and products that can help. One of the most versatile too...learn about it in this post"
 keywords: use hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

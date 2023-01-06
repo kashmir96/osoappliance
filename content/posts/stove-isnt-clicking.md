@@ -3,7 +3,6 @@
 title: Stove Isnt Clicking
 description: "Stove clicking is a common problem that many homeowners face. It can be caused by a number of different factors, including worn ou...swipe up to find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

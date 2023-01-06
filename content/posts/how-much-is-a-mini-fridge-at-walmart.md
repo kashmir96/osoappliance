@@ -3,7 +3,6 @@
 title: How Much Is A Mini Fridge At Walmart
 description: "Are you looking for a mini fridge for your bedroom or dorm room? Walmart has a great selection of mini fridges to choose from, and...you wont regret reading on"
 keywords: mini fridge
-publishDate: 12/20/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

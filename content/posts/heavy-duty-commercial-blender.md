@@ -3,7 +3,6 @@
 title: Heavy Duty Commercial Blender
 description: "A heavy duty commercial blender is an essential piece of equipment for any commercial kitchen. It’s used to blend ingredients for ...find out now"
 keywords: blender
-publishDate: 6/18/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

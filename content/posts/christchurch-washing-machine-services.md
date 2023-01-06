@@ -3,7 +3,6 @@
 title: Christchurch Washing Machine Services
 description: "If you’re in the Christchurch area and don’t have a washing machine or yours is broken, there are a variety of services available ...take a moment to check it out "
 keywords: christchurch washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

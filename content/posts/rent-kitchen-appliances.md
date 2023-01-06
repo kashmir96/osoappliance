@@ -3,7 +3,6 @@
 title: Rent Kitchen Appliances
 description: "When you're planning to move into a new apartment or house, one of the main challenges can be furnishing it with all the necessary...get more detail"
 keywords: kitchen appliances
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

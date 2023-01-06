@@ -3,7 +3,6 @@
 title: Dyson Hair Dryer Accessories
 description: "If you’re looking for a high-quality hair dryer to tame your mane, then look no further than the Dyson Supersonic Hair Dryer. This...get more info"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

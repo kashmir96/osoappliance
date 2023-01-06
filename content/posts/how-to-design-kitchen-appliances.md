@@ -3,7 +3,6 @@
 title: How To Design Kitchen Appliances
 description: "Designing a Kitchen that Suits Popular Appliances...learn about it in this post"
 keywords: how to kitchen appliances
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

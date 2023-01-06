@@ -3,7 +3,6 @@
 title: Best Commercial Appliance Brands
 description: "When it comes to choosing the right appliances for your business, you want to make sure you are investing in a brand that will pro...continue on"
 keywords: best appliance brands
-publishDate: 6/11/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

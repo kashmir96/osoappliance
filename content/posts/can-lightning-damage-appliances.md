@@ -3,7 +3,6 @@
 title: Can Lightning Damage Appliances
 description: "Can lightning damage appliances? The short answer is yes, lightning has the potential to do serious damage to any appliance within...swipe up to find out"
 keywords: appliances
-publishDate: 5/14/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

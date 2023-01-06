@@ -3,7 +3,6 @@
 title: Dutch Oven Where To Buy
 description: "If you’re looking for a versatile, timeless piece of cookware, a Dutch oven is the perfect choice. Dutch ovens are made from thick...keep going and find out"
 keywords: oven buy
-publishDate: 12/12/2022
 tags: ["Oven", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

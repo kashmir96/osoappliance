@@ -3,7 +3,6 @@
 title: Rent Dishwasher
 description: "Renting a dishwasher is a great way to enjoy the convenience of having a dishwasher in your home without the expense of purchasing...see more detail"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

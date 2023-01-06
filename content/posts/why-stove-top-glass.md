@@ -3,7 +3,6 @@
 title: Why Stove Top Glass
 description: "Stove top glass ceramic cooktops are a great choice for those looking for an easy to clean, energy efficient and sleek cooking sur...keep going and find out"
 keywords: stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

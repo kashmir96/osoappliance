@@ -3,7 +3,6 @@
 title: Oven Takes Too Long To Cook
 description: "If your oven is taking too long to cook, it can be very frustrating! There are a few possible reasons why this might be occurring,...see more"
 keywords: oven
-publishDate: 12/21/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Carpet Cleaner Uk
 description: "When it comes to choosing the best carpet cleaner in the UK, there are a few factors to consider. Firstly, you'll need to think ab...continue on"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

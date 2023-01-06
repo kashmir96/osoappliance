@@ -3,7 +3,6 @@
 title: Air Conditioning Recommendations
 description: "As the summer months approach, it is important to ensure that your air conditioning system is functioning properly. To help keep y...get more info"
 keywords: air
-publishDate: 7/9/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

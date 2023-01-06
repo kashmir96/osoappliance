@@ -3,7 +3,6 @@
 title: Buy Second Hand Dryer Christchurch
 description: This post will teach you how to find a great deal on a used dryer in Christchurch. Read on to learn more!
 keywords: second hand dryer christchurch
-publishDate: 6/9/2022
 tags: ["Christchurch", "Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

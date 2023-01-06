@@ -3,7 +3,6 @@
 title: Why Oven Makes Noise When Heating Up
 description: "When you turn on your oven, you may notice that it makes some noise. This noise is often normal and should not cause alarm, but it...learn more"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

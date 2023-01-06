@@ -3,7 +3,6 @@
 title: Fridge Repairs Christchurch Nz
 description: "Fridge repairs in Christchurch, NZ can seem daunting, especially if you don’t have much experience with appliances. However, there...you wont regret reading on"
 keywords: fridge christchurch nz
-publishDate: 8/28/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

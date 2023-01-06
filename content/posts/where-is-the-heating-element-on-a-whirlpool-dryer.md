@@ -3,7 +3,6 @@
 title: Where Is The Heating Element On A Whirlpool Dryer
 description: "If you own a Whirlpool dryer and need to find the heating element, it can be a bit of a challenge. Fortunately, this guide will he...get the full scoop"
 keywords: element dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Stove", "Kitchen Appliances", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

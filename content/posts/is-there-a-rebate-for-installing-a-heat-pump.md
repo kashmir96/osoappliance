@@ -3,7 +3,6 @@
 title: Is There A Rebate For Installing A Heat Pump
 description: "If you’re looking to install a heat pump in your home, you may be wondering if there is a rebate available. The good news is that ...get the full scoop"
 keywords: rebate heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Rules and Regulations", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

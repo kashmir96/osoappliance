@@ -3,7 +3,6 @@
 title: Stove Gas Leak Who To Call
 description: "If you think you have a gas leak in your stove, it is important to take action quickly. Gas leaks can be dangerous, so it is impor...read now to learn more"
 keywords: stove gas
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

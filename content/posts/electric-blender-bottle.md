@@ -3,7 +3,6 @@
 title: Electric Blender Bottle
 description: "An electric blender bottle is a revolutionary kitchen appliance that has become increasingly popular over the past few years. It c...get more detail"
 keywords: blender
-publishDate: 1/26/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

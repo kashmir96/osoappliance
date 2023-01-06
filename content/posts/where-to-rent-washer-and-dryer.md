@@ -3,7 +3,6 @@
 title: Where To Rent Washer And Dryer
 description: "Are you in the market for a new washer and dryer? If so, you’re not alone. Many people are looking to upgrade their laundry equipm...keep going and find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

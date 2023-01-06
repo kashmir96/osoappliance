@@ -3,7 +3,6 @@
 title: Same Day Appliance Repair Christchurch
 description: This post outlines the benefits of having your appliances repaired in Christchurch, and encourages you to read on to find out more about the experienced professionals who can help you.
 keywords: appliance repair christchurch
-publishDate: 8/31/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

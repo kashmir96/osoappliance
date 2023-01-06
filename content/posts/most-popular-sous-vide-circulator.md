@@ -3,7 +3,6 @@
 title: Most Popular Sous Vide Circulator
 description: "Sous vide is a cooking technique that has become increasingly popular in recent years. It involves sealing food in an airtight con...continue on"
 keywords: most popular sous
-publishDate: 2/5/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

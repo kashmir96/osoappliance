@@ -3,7 +3,6 @@
 title: Best Hair Dryer 2022
 description: "The best hair dryer of 2022 is here, and it's time to upgrade your hair drying routine! With the latest technology, these powerful...learn about it in this post"
 keywords: best hair dryer 2022
-publishDate: 8/18/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

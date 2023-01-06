@@ -3,7 +3,6 @@
 title: Samsung Oven Where To Find Model Number
 description: "If you’re looking for the model number of your Samsung oven, you’ve come to the right place! The model number of your oven is an i...learn about it in this post"
 keywords: samsung oven
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

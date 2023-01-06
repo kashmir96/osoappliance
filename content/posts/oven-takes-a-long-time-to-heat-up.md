@@ -3,7 +3,6 @@
 title: Oven Takes A Long Time To Heat Up
 description: "If you’ve ever noticed that your oven takes a long time to heat up, you’re not alone. This is a common problem faced by many peopl...you wont regret reading on"
 keywords: oven
-publishDate: 12/15/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

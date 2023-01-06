@@ -3,7 +3,6 @@
 title: Washer Dryer Combo Reviews Nz
 description: "If you’re looking for a convenient and efficient way to do laundry, then a washer dryer combo may be the perfect appliance for you...get more info"
 keywords: dryer reviews nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

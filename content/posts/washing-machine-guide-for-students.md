@@ -3,7 +3,6 @@
 title: Washing Machine Guide For Students
 description: "Are you a student living in a dorm or an apartment and need help understanding how to use your washing machine? Washing clothes is...see more detail"
 keywords: washing machine guide
-publishDate: 2/26/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

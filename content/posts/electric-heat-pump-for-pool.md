@@ -3,7 +3,6 @@
 title: Electric Heat Pump For Pool
 description: "If you're considering a swimming pool heater, an electric heat pump may be the perfect choice. Heat pumps are one of the most effi...get the full scoop"
 keywords: heat pump
-publishDate: 6/9/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

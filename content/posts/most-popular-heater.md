@@ -3,7 +3,6 @@
 title: Most Popular Heater
 description: "Heaters are essential appliances in many homes, as they provide warmth and comfort during the cold winter months. But with so many...see more"
 keywords: most popular heater
-publishDate: 1/16/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

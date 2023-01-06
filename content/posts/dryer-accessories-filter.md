@@ -3,7 +3,6 @@
 title: Dryer Accessories Filter
 description: "When it comes to maintaining your dryer, one of the most important components is the dryer filter. The filter helps to capture lin...keep going and find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

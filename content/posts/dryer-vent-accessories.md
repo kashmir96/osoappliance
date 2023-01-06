@@ -3,7 +3,6 @@
 title: Dryer Vent Accessories
 description: "Dryer vent accessories are essential components needed to safely and effectively install a dryer vent system in your home. They pl...keep reading to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

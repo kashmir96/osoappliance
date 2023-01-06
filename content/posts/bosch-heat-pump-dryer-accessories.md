@@ -3,7 +3,6 @@
 title: Bosch Heat Pump Dryer Accessories
 description: "If you’re looking to upgrade your laundry routine, a Bosch heat pump dryer is an excellent choice. Not only do they offer superior...swipe up to find out"
 keywords: bosch heat pump dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Laundry Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

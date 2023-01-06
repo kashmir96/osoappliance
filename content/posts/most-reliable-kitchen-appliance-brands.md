@@ -3,7 +3,6 @@
 title: Most Reliable Kitchen Appliance Brands
 description: "When it comes to picking out reliable kitchen appliances, there are a few key factors that should be considered. It's important to...get more detail"
 keywords: most reliable kitchen brands
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Brand", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

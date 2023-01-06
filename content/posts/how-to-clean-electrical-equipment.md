@@ -3,7 +3,6 @@
 title: How To Clean Electrical Equipment
 description: "Cleaning electrical equipment is an important part of keeping it working well and extending its lifespan. Electrical equipment can...learn more"
 keywords: how to clean
-publishDate: 5/13/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

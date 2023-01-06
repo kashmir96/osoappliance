@@ -3,7 +3,6 @@
 title: Dishwasher Cant Close Door
 description: "If your dishwasher won't close, it can be a frustrating experience. Fortunately, there are a few things you can do to fix the issu...you wont regret reading on"
 keywords: dishwasher close
-publishDate: 10/17/2022
 tags: ["Dishwasher", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

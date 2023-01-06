@@ -3,7 +3,6 @@
 title: Air Filter Disposal
 description: "Air filters are an essential part of our everyday lives. They help keep the air clean and free from harmful particles and pollutan...learn more about it now"
 keywords: air disposal
-publishDate: 3/2/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

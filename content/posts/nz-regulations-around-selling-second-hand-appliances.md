@@ -3,7 +3,6 @@
 title: Nz Regulations Around Selling Second Hand Appliances
 description: If you're looking to sell second hand appliances, this post outlines the regulations to consider and why you should read it, so read on to find out more.
 keywords: nz second hand appliances
-publishDate: 8/15/2022
 tags: ["Appliances", New Zealand]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Appliance Servicing Christchurch
 description: "Home appliance servicing is a necessary part of any home’s maintenance routine. Whether it’s your washing machine, dryer, dishwash...see more"
 keywords: appliance christchurch
-publishDate: 8/6/2022
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

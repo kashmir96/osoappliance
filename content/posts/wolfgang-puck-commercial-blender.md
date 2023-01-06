@@ -3,7 +3,6 @@
 title: Wolfgang Puck Commercial Blender
 description: "Wolfgang Puck is a well-known celebrity chef and restaurateur who has become synonymous with quality kitchen products. His line of...learn more about it now"
 keywords: blender
-publishDate: 6/20/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

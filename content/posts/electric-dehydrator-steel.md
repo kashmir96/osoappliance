@@ -3,7 +3,6 @@
 title: Electric Dehydrator Steel
 description: "The electric dehydrator is an energy efficient and easy way to preserve fruits, vegetables, nuts, and other food items for long-te...find out now"
 keywords: dehydrator
-publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

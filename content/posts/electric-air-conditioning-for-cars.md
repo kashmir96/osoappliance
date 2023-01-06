@@ -3,7 +3,6 @@
 title: Electric Air Conditioning For Cars
 description: "Electric air conditioning has become increasingly popular in cars over the years, as it offers a more efficient and cost-effective...scroll on and keep learning"
 keywords: air
-publishDate: 5/30/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

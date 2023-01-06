@@ -3,7 +3,6 @@
 title: Dangers Of Heaters
 description: "With winter quickly approaching, many people are turning to their heaters as a source of warmth. While heaters can be a convenient...lets find out"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

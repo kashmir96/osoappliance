@@ -3,7 +3,6 @@
 title: How To Make Washing Machines Last Longer
 description: This post teaches you how to make your washing machine last longer with simple tips that are easy to follow. Read on to find out more!
 keywords: how to washing machines
-publishDate: 7/10/2022
 tags: ["Washing Machine", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: How Many Amps Does A Dehydrator Use
 description: "A food dehydrator is a great investment for anyone who wants to preserve their food for longer. It’s an effective way to preserve ...get the full scoop"
 keywords: dehydrator use
-publishDate: 5/7/2022
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

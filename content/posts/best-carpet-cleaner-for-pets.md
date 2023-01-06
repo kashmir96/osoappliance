@@ -3,7 +3,6 @@
 title: Best Carpet Cleaner For Pets
 description: "If you are a pet owner, then you know how difficult it can be to clean up after your furry friends. Carpets are especially prone t...scroll on and keep learning"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Electrical Burning Smell From Dishwasher
 description: "If you have ever opened your dishwasher and noticed a burning electrical smell coming from it, you're probably wondering what's go...keep going and find out"
 keywords: dishwasher
-publishDate: 4/10/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

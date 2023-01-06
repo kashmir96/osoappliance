@@ -3,7 +3,6 @@
 title: Appliance Spare Parts
 description: "If you own any kind of appliance, chances are you will require spare parts at some point. Appliance spare parts are the components...keep going and find out"
 keywords: appliance parts
-publishDate: 9/15/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Much Do Appliance Repairmen Charge Christchurch
 description: This post explains why it is important to call a professional appliance repairman in Christchurch, New Zealand and outlines what to expect in terms of costs. Read on to find out more about how to get your appliance fixed quickly and safely.
 keywords: appliance christchurch
-publishDate: 8/2/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

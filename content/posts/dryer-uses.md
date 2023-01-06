@@ -3,7 +3,6 @@
 title: Dryer Uses
 description: "Are you looking for ways to get more out of your dryer? It’s a great appliance to have around the house, and it can be used for mo...keep going and find out"
 keywords: dryer uses
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

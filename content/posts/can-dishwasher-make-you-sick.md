@@ -3,7 +3,6 @@
 title: Can Dishwasher Make You Sick
 description: "It may be hard to believe, but yes, a dirty dishwasher can make you sick. A recent study from the University of Arizona found that...learn about it in this post"
 keywords: dishwasher
-publishDate: 11/11/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

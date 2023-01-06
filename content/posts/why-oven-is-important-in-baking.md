@@ -3,7 +3,6 @@
 title: Why Oven Is Important In Baking
 description: "Baking is an art form that has been around for centuries and the oven is a key tool for producing delicious cakes, breads, pies, c...you wont regret reading on"
 keywords: oven
-publishDate: 3/11/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

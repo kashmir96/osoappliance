@@ -3,7 +3,6 @@
 title: Electrical Appliance Wattage Chart
 description: "It is important to know the wattage of your electrical appliances in order to ensure safe use and operate them correctly. Wattage ...find out now"
 keywords: appliance chart
-publishDate: 6/16/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

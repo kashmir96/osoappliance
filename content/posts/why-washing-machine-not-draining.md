@@ -3,7 +3,6 @@
 title: Why Washing Machine Not Draining
 description: "A blocked drain could be the reason why your washing machine is not draining. No matter what type of washing machine you have – wh...scroll on and keep learning"
 keywords: washing machine
-publishDate: 3/25/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

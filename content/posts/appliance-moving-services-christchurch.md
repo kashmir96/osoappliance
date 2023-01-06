@@ -3,7 +3,6 @@
 title: Appliance Moving Services Christchurch
 description: If you're moving to Christchurch and need help moving your appliances, appliance moving services can help make the process easier. Learn who offers these services and what to expect in this post.
 keywords: appliance services christchurch
-publishDate: 7/2/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Small Appliance Repairs Christchurch
 description: "Small appliance repairs can be tricky—but don’t worry! In Christchurch, there are plenty of reliable technicians who can help. Whe...read now to learn more"
 keywords: appliance christchurch
-publishDate: 8/10/2021
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

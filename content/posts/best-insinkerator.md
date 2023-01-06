@@ -3,7 +3,6 @@
 title: Best Insinkerator
 description: This blog post will help you understand the different types of garbage disposals, their features and how to choose the best one for you; so read on to learn more about choosing the perfect disposal for your kitchen!
 keywords: insinkerator
-publishDate: 12/8/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

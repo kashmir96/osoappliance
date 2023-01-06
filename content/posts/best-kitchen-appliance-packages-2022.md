@@ -3,7 +3,6 @@
 title: Best Kitchen Appliance Packages 2022
 description: "It’s no secret that kitchen appliances play a major role in the overall look and feel of your home. With so many different types o...take a moment to check it out "
 keywords: best kitchen 2022
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

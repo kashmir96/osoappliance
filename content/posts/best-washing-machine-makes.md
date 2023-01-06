@@ -3,7 +3,6 @@
 title: Best Washing Machine Makes
 description: "A washing machine is an essential appliance in any home. It makes laundry day easier, and it can help keep your clothes looking gr...you wont regret reading on"
 keywords: best washing machine
-publishDate: 10/18/2021
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

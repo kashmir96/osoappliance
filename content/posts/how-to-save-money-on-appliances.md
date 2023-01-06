@@ -3,7 +3,6 @@
 title: How To Save Money On Appliances
 description: This post offers tips on how to save money on appliances, such as looking for deals and researching energy-efficient models; read on to learn more and start saving!
 keywords: how to appliances
-publishDate: 12/11/2022
 tags: ["Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

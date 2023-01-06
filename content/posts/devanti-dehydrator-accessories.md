@@ -3,7 +3,6 @@
 title: Devanti Dehydrator Accessories
 description: "Dehydrating food is a great way to preserve your favorite snacks for longer periods of time. But, the process of dehydrating can b...learn about it in this post"
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

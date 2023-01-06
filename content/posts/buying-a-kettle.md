@@ -3,7 +3,6 @@
 title: Buying A Kettle
 description: "If you’re in the market for a new kettle, there are a few things to keep in mind. A quality electric kettle can be an invaluable a...see more detail"
 keywords: buying kettle
-publishDate: 5/5/2023
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

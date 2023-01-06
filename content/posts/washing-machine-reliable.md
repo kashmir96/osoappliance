@@ -3,7 +3,6 @@
 title: Washing Machine Reliable
 description: "Washing machines have become an essential part of our daily lives. From washing clothes to washing dishes, they make chores easier...get the full scoop"
 keywords: washing machine reliable
-publishDate: 3/18/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Stove Is Clicking
 description: "If you have a gas stove and it is clicking, this could be a sign of a problem. The clicking noise is caused by the spark ignition ...see more detail"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

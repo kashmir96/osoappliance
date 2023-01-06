@@ -3,7 +3,6 @@
 title: Stove When To Use
 description: "Cooking with a stove is one of the most common methods of preparing meals. Stoves are convenient and versatile, making them a grea...see more"
 keywords: stove use
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

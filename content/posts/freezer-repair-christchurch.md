@@ -3,7 +3,6 @@
 title: Freezer Repair Christchurch
 description: If you need to get your freezer repaired in Christchurch, this post will give you great tips on which local businesses to contact and why you should seek their help; read on to find out more!
 keywords: freezer repair christchurch
-publishDate: 12/22/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair", "Freezer", "Freezer"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Appliance Packages Kitchen
 description: "When it comes to making your kitchen more efficient and stylish, appliance packages are the way to go. Appliance packages are a gr...get more info"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

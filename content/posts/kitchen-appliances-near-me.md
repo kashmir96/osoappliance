@@ -3,7 +3,6 @@
 title: Kitchen Appliances Near Me
 description: "If you’re looking for kitchen appliances near you, then you’re in luck! With so many options to choose from, it can be hard to dec...keep going and find out"
 keywords: kitchen near
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

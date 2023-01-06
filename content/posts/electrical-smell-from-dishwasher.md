@@ -3,7 +3,6 @@
 title: Electrical Smell From Dishwasher
 description: "Have you ever noticed an electrical smell coming from your dishwasher? This can be a sign of something serious and should be addre...see more detail"
 keywords: dishwasher
-publishDate: 4/27/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

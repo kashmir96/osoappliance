@@ -3,7 +3,6 @@
 title: Home For Rent Appliances
 description: "When it comes to renting a home, appliances are an important factor to consider. Appliances not only provide convenience but also ...keep reading to learn"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Common Microwave
 description: "Microwaves are a convenient kitchen appliance that make meal preparation faster and easier. But, like any other device, microwaves...learn more"
 keywords: most microwave
-publishDate: 12/25/2021
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Dryer Machine Works
 description: "We all rely on dryers to make our laundry day a little easier and faster. But how does a dryer work?...keep reading to learn"
 keywords: dryer
-publishDate: 11/26/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Robotic Mowers Nz
 description: "Robotic mowers are becoming increasingly popular in New Zealand as more people discover their convenience and efficiency. A roboti...scroll on and keep learning"
 keywords: nz
-publishDate: 25/12/2022
 tags: ["New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

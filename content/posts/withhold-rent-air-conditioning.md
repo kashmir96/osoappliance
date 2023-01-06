@@ -3,7 +3,6 @@
 title: Withhold Rent Air Conditioning
 description: "The summer months can be a difficult time for renters when it comes to air conditioning. Most rental properties require tenants to...continue on"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

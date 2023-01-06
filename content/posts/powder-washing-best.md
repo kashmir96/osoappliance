@@ -3,7 +3,6 @@
 title: Powder Washing Best
 description: "If you want to keep your clothes looking their best, it’s important to practice proper powder washing techniques. Powder washing i...get more detail"
 keywords: washing best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

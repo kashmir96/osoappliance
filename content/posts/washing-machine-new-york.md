@@ -3,7 +3,6 @@
 title: Washing Machine New York
 description: "When it comes to laundry, New Yorkers have a lot to consider. From the cramped living quarters of the city to the endless list of ...get the full scoop"
 keywords: washing machine
-publishDate: 3/9/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

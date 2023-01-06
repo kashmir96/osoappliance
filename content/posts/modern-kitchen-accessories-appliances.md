@@ -3,7 +3,6 @@
 title: Modern Kitchen Accessories Appliances
 description: "Modern kitchen appliances are a great way to enhance the look and feel of your kitchen, while also making cooking and cleaning mor...check it out to learn"
 keywords: kitchen appliances
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

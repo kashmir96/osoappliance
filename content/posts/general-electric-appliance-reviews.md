@@ -3,7 +3,6 @@
 title: General Electric Appliance Reviews
 description: "General Electric (GE) is a trusted name in the appliance industry, offering a wide range of appliances for both home and commercia...see more detail"
 keywords: appliance reviews
-publishDate: 1/24/2023
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

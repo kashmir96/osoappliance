@@ -3,7 +3,6 @@
 title: Bosch Washing Machine Not Starting
 description: If your Bosch washing machine won't start, this post can help you troubleshoot the issue - read on to find out what you can do!
 keywords: bosch washing machine
-publishDate: 10/17/2022
 tags: ["Washing Machine", "Appliances", "Brands"]
 author: Curtis
 categories: ["Appliances Christchurch"]

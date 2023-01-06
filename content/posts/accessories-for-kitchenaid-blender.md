@@ -3,7 +3,6 @@
 title: Accessories For Kitchenaid Blender
 description: "If you’re the proud owner of a KitchenAid blender, you know that these powerful appliances can make blending easier and faster. Bu...see more detail"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

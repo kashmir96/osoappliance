@@ -3,7 +3,6 @@
 title: Appliances Repairs Near Me And How To Choose
 description: "When it comes to appliance repairs, choosing the right repair service can be a daunting task. With so many options available, it c...learn more"
 keywords: appliances near how to
-publishDate: 10/2/2021
 tags: ["Heat Pump", "Appliance Repair", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

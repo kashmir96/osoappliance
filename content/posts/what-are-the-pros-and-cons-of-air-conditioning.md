@@ -3,7 +3,6 @@
 title: What Are The Pros And Cons Of Air Conditioning
 description: "When it comes to keeping your home comfortable, air conditioning is one of the most popular solutions. Despite its popularity and ...get more detail"
 keywords: air
-publishDate: 4/6/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

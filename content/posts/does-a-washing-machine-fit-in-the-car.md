@@ -3,7 +3,6 @@
 title: Does A Washing Machine Fit In The Car
 description: "When it comes to moving large appliances like washing machines, one of the most common questions is whether or not a washing machi...see more"
 keywords: washing machine
-publishDate: 7/16/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

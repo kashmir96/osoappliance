@@ -3,7 +3,6 @@
 title: Most Reliable Range Hoods
 description: "When it comes to kitchen appliances, there is no question that the range hood is one of the most important. Not only does it keep ...continue on"
 keywords: most reliable range
-publishDate: 6/25/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

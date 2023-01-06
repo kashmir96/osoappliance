@@ -3,7 +3,6 @@
 title: Bags For Using In A Washing Machine
 description: "If you’re looking for a way to protect your delicates in the washing machine, then you should consider using bags. Bags for washin...continue on"
 keywords: washing machine
-publishDate: 6/28/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

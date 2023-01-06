@@ -3,7 +3,6 @@
 title: Dryer Smells Like Dead Animal
 description: "So, your dryer smells like a dead animal. It’s a smell that can be difficult to ignore and can cause a great deal of discomfort. B...read now to learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

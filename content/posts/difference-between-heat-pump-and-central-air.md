@@ -3,7 +3,6 @@
 title: Difference Between Heat Pump And Central Air
 description: "When it comes to home heating, two of the most popular options are heat pumps and central air heating. Both have their advantages ...continue on"
 keywords: heat pump air
-publishDate: 11/27/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

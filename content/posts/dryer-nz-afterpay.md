@@ -3,7 +3,6 @@
 title: Dryer Nz Afterpay
 description: "When it comes to buying an expensive new appliance like a dryer in New Zealand, many people are turning to Afterpay as a way to ma...keep reading to learn"
 keywords: dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

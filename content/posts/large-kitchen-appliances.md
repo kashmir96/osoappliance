@@ -3,7 +3,6 @@
 title: Large Kitchen Appliances
 description: "When it comes to kitting out a kitchen, one of the most important investments you will make is in large kitchen appliances. These ...you wont regret reading on"
 keywords: kitchen appliances
-publishDate: 6/15/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

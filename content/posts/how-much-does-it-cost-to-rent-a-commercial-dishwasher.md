@@ -3,7 +3,6 @@
 title: How Much Does It Cost To Rent A Commercial Dishwasher
 description: "When it comes to outfitting a commercial kitchen, one of the major purchases that you’ll need to make is a commercial dishwasher. ...keep going and find out"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

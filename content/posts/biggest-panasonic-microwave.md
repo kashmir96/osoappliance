@@ -3,7 +3,6 @@
 title: Biggest Panasonic Microwave
 description: "In the past few years, Panasonic has become one of the most trusted brands in kitchen appliances. From air fryers to rice cookers,...swipe up to find out"
 keywords: panasonic microwave
-publishDate: 6/1/2022
 tags: ["Microwave", "Kitchen Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

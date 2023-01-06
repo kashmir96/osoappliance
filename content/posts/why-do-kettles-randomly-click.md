@@ -3,7 +3,6 @@
 title: Why Do Kettles Randomly Click
 description: "Kettles make a clicking noise when they have reached their boiling point. This sound is usually caused by the expansion and contra...find out now"
 keywords: 
-publishDate: 1/8/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

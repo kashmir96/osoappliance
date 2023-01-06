@@ -3,7 +3,6 @@
 title: Fridge Makes Rattling Noise
 description: "If you have ever heard your refrigerator making a loud and annoying rattling noise, you are not alone - this is a common problem t...swipe up to find out"
 keywords: fridge
-publishDate: 11/22/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Where Can I Rent Appliances
 description: "Are you looking to rent appliances? With the cost of buying new appliances often being expensive, many people turn to renting as a...lets find out"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

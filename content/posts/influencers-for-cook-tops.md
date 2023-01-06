@@ -3,7 +3,6 @@
 title: Influencers For Cook Tops
 description: "As the internet and social media have become an increasingly integral part of our lives, influencers have grown in popularity and ...learn more about it now"
 keywords: 
-publishDate: 12/24/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

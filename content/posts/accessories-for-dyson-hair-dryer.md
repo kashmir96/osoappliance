@@ -3,7 +3,6 @@
 title: Accessories For Dyson Hair Dryer
 description: "One of the most popular hair dryers on the market today is the Dyson Hair Dryer. This innovative technology provides users with a ...continue on"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

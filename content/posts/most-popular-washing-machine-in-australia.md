@@ -3,7 +3,6 @@
 title: Most Popular Washing Machine In Australia
 description: "When it comes to choosing a washing machine, Australians have plenty of options. From traditional top-loading models to advanced f...get more info"
 keywords: most popular washing machine
-publishDate: 6/22/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

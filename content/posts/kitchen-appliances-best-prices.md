@@ -3,7 +3,6 @@
 title: Kitchen Appliances Best Prices
 description: "If you’re in the market for new kitchen appliances, you may be wondering what the best prices are. While it can be difficult to fi...learn about it in this post"
 keywords: kitchen best
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

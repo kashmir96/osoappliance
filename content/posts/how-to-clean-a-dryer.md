@@ -3,7 +3,6 @@
 title: How To Clean A Dryer
 description: Regularly cleaning your dryer vent is essential for maintaining a safe, efficient household, and this post will provide tips and advice on how to do it correctly; read on to learn more.
 keywords: how to dryer
-publishDate: 12/29/2022
 tags: ["Dryer", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Jug Or Kettle
 description: "No, a jug and a kettle are not the same thing. While they may look similar and are used for the same purpose, there are some disti...find out now"
 keywords: jug kettle
-publishDate: 4/22/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

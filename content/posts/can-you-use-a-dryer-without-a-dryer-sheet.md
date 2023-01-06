@@ -3,7 +3,6 @@
 title: Can You Use A Dryer Without A Dryer Sheet
 description: "Dryer sheets are a common laundry tool used to reduce static cling and add a pleasant scent to laundry. However, you can use a dry...get the full scoop"
 keywords: use dryer dryer
-publishDate: 9/24/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

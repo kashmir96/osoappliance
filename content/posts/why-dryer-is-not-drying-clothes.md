@@ -3,7 +3,6 @@
 title: Why Dryer Is Not Drying Clothes
 description: "If your clothes dryer isn't drying your clothes properly, there could be a few possible explanations. From clogged vents to too mu...keep going and find out"
 keywords: dryer
-publishDate: 3/1/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

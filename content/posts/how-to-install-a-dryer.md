@@ -3,7 +3,6 @@
 title: How To Install A Dryer
 description: Read this post to learn how to easily install a dryer using the right tools and knowledge, and get started now!
 keywords: how to dryer
-publishDate: 11/29/2022
 tags: ["Dryer", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

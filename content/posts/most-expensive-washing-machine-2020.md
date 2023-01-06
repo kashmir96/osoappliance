@@ -3,7 +3,6 @@
 title: Most Expensive Washing Machine 2020
 description: "When it comes to buying a washing machine, it’s often best to go big or go home. But with prices running into the thousands of dol...learn about it in this post"
 keywords: most washing machine 2020
-publishDate: 1/3/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

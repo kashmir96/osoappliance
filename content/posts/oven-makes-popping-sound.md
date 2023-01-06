@@ -3,7 +3,6 @@
 title: Oven Makes Popping Sound
 description: "If you’ve ever heard a loud popping sound coming from your oven, don’t worry – it isn’t anything to be concerned about. This sound...find out now"
 keywords: oven
-publishDate: 1/17/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

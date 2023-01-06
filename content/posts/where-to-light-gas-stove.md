@@ -3,7 +3,6 @@
 title: Where To Light Gas Stove
 description: "If you have a gas stove, it's important to know where to light the burner. Lighting a gas stove properly is essential for safety, ...learn more"
 keywords: gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

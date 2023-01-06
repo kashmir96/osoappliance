@@ -3,7 +3,6 @@
 title: Small Appliance Repairs
 description: "Keeping your home running can be a challenge, especially when appliances start to break down. Small appliance repairs can be daunt...keep reading to learn"
 keywords: appliance
-publishDate: 1/25/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Rent Appliances Online
 description: "Do you need an appliance for your home but can’t afford to buy one outright? Renting appliances online could be a great way for yo...get more detail"
 keywords: appliances online
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

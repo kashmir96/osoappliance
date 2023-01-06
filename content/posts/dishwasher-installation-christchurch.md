@@ -3,7 +3,6 @@
 title: Dishwasher Installation Christchurch
 description: "If you’re considering installing a dishwasher in your home in Christchurch, you’ve come to the right place! Installing a dishwashe...keep going and find out"
 keywords: dishwasher installation christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Clean Appliance", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

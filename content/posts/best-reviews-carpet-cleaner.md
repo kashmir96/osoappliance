@@ -3,7 +3,6 @@
 title: Best Reviews Carpet Cleaner
 description: "When it comes to finding the best carpet cleaner, reviews from other customers are often the most helpful resource. Having a clean...get more info"
 keywords: best reviews
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Washer Stacking Kit
 description: "A dryer washer stacking kit is a great way to save space in your laundry room or closet. Stacking kits allow you to stack your was...get the full scoop"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

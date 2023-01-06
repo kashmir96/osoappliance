@@ -3,7 +3,6 @@
 title: Blender Used By Jamba Juice
 description: "Jamba Juice is a popular smoothie and juice drink chain that is well known for their delicious, nutritious beverages. Many people ...get the full scoop"
 keywords: blender
-publishDate: 4/10/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

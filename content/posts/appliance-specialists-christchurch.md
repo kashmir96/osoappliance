@@ -3,7 +3,6 @@
 title: Appliance Specialists Christchurch
 description: If you're looking for appliance specialists in Christchurch, this post can help you find the right one for you - read on to learn more!
 keywords: appliance christchurch
-publishDate: 10/21/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

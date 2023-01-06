@@ -3,7 +3,6 @@
 title: Rent Appliances Pune
 description: "Renting appliances in Pune has become a popular way to save money and get the latest gadgets. With the rising cost of living in In...you wont regret reading on"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

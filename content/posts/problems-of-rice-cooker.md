@@ -3,7 +3,6 @@
 title: Problems Of Rice Cooker
 description: "A rice cooker is one of the most common kitchen appliances that can be found in many households. It's convenient, efficient, and m...get more detail"
 keywords: cooker
-publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

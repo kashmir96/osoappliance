@@ -3,7 +3,6 @@
 title: Rent Dishwasher Hose
 description: "Are you looking to rent a dishwasher hose? If so, you’ve come to the right place. A dishwasher hose is an essential piece of equip...find out now"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

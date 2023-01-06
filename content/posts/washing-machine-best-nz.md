@@ -3,7 +3,6 @@
 title: Washing Machine Best Nz
 description: "Are you in the market for a new washing machine? If so, then now is the time to buy in New Zealand! A washing machine is a major i...keep going and find out"
 keywords: washing machine best nz
-publishDate: 1/22/2023
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

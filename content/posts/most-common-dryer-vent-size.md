@@ -3,7 +3,6 @@
 title: Most Common Dryer Vent Size
 description: "Dryer vents come in all shapes and sizes, but the most common dryer vent size is 4 inches in diameter. This is the standard size a...take a moment to check it out "
 keywords: most dryer
-publishDate: 7/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

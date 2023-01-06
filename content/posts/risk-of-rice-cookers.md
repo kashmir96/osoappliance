@@ -3,7 +3,6 @@
 title: Risk Of Rice Cookers
 description: "Rice cookers are indispensable kitchen appliances in many households, as they make it easy to prepare a variety of dishes and save...check it out to learn"
 keywords: 
-publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Safety Of Sous Vide Cooking
 description: "Sous vide cooking is an increasingly popular cooking method that can produce delicious and evenly cooked food. But is it safe?...learn more"
 keywords: sous cooking
-publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

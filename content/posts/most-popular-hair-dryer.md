@@ -3,7 +3,6 @@
 title: Most Popular Hair Dryer
 description: "If you’re looking for the best hair dryer, then it’s important to consider the features and technology that come with each model. ...learn more"
 keywords: most popular hair dryer
-publishDate: 3/13/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

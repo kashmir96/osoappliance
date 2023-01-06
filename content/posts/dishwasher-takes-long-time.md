@@ -3,7 +3,6 @@
 title: Dishwasher Takes Long Time
 description: "It can be extremely frustrating when your dishwasher takes a long time to complete a cycle. If your dishwasher is taking longer th...read now to learn more"
 keywords: dishwasher
-publishDate: 3/9/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

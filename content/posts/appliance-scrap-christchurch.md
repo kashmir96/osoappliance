@@ -3,7 +3,6 @@
 title: Appliance Scrap Christchurch
 description: This post contains information on how to scrap appliances in Christchurch, including what you need to do and where you can go to do it. If you're looking to get rid of an old appliance, read on for more information.
 keywords: appliance scrap christchurch
-publishDate: 6/11/2022
 tags: ["Christchurch", "Appliances", "Disposal"]
 author: Curtis
 categories: ["Appliances Christchurch"]

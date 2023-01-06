@@ -3,7 +3,6 @@
 title: Oven Toaster Used
 description: "Oven toaster is a kitchen appliance used for baking and toasting food. They are great for cooking small amounts of food, from toas...learn about it in this post"
 keywords: oven
-publishDate: 1/29/2023
 tags: ["Oven", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Bearing Repair Christchurch
 description: If your washing machine has broken down, read this post to find out why you should look no further than a repair service in Christchurch and what to do next.
 keywords: washing machine repair christchurch
-publishDate: 9/11/2022
 tags: ["Washing Machine", "Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

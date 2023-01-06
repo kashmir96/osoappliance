@@ -3,7 +3,6 @@
 title: Integrated Washing Machine Pros And Cons
 description: "Integrated washing machines are a great choice if you want to maximise the space in your laundry area. They are designed to fit in...keep going and find out"
 keywords: washing machine
-publishDate: 12/20/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

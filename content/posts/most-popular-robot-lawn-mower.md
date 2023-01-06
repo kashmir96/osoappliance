@@ -3,7 +3,6 @@
 title: Most Popular Robot Lawn Mower
 description: "Mowing the lawn can be a time-consuming and tiring chore, which is why robot lawn mowers have become increasingly popular over the...read now to learn more"
 keywords: most popular
-publishDate: 1/1/2022
 tags: ["Appliance Rules and Regulations", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

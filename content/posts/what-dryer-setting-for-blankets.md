@@ -3,7 +3,6 @@
 title: What Dryer Setting For Blankets
 description: "When it comes to washing and drying your blankets, you want to make sure that you are taking the proper steps to ensure that your ...learn about it in this post"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

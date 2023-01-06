@@ -3,7 +3,6 @@
 title: When Oven Smells Like Burning Plastic
 description: "If your oven smells like burning plastic, it is most likely due to a plastic item being left in the oven and melting. This can hap...keep going and find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Commercial Appliance Repair
 description: "When your commercial appliances malfunction, it can cause a huge disruption to your business operations. Having regular maintenanc...continue on"
 keywords: appliance repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

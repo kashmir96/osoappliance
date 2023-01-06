@@ -3,7 +3,6 @@
 title: Which Kitchen Accessories Is Best
 description: "Cooking is a great way to make delicious meals at home, but it's not always easy. To make the culinary journey easier and more enj...learn more"
 keywords: kitchen best
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

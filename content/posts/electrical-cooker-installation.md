@@ -3,7 +3,6 @@
 title: Electrical Cooker Installation
 description: "An electric cooker is a kitchen appliance that uses electricity to heat or cook food. If you’re considering installing an electric...keep reading to learn"
 keywords: cooker installation
-publishDate: 4/14/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

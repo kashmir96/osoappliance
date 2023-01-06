@@ -3,7 +3,6 @@
 title: Second Hand Stoves Christchurch
 description: "If you're looking for a new stove for your kitchen, but don't want to pay full price for a brand-new model, then second hand stove...continue on"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Stove", "Christchurch", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

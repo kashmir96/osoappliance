@@ -3,7 +3,6 @@
 title: Difference Between Oem And Non Parts
 description: "When it comes to appliances, there are two types of parts: OEM (Original Equipment Manufacturer) and non-OEM. Knowing the differen...see more"
 keywords: parts
-publishDate: 10/2/2022
 tags: ["Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

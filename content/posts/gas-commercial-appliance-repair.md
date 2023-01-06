@@ -3,7 +3,6 @@
 title: Gas Commercial Appliance Repair
 description: "Gas commercial appliances are essential to any business – they enable you to cook, heat, and store food. However, like any applian...keep reading to learn"
 keywords: gas appliance repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Stove", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

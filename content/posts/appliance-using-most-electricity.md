@@ -3,7 +3,6 @@
 title: Appliance Using Most Electricity
 description: "As energy costs continue to rise, it's important to understand which appliances use the most electricity in your home. Knowing whi...see more detail"
 keywords: most electricity
-publishDate: 12/12/2022
 tags: ["Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

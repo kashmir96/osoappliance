@@ -3,7 +3,6 @@
 title: Most Common Refrigerator Repairs
 description: "When it comes to refrigerator repairs, there are a few common issues that can be easily fixed. In this blog post, we will discuss ...find out now"
 keywords: most
-publishDate: 3/9/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

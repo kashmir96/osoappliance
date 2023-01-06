@@ -3,7 +3,6 @@
 title: Oven Cleaner
 description: "Are you looking for a way to get your oven clean and shiny without all the fuss of scrubbing and cleaning? Oven cleaner is the per...continue on"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

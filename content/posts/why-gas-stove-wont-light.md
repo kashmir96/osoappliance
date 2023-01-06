@@ -3,7 +3,6 @@
 title: Why Gas Stove Wont Light
 description: "If you’ve ever tried to light a gas stove and failed, you’re not alone. There are several reasons why a gas stove may not light, a...get the full scoop"
 keywords: gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

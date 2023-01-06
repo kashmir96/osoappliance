@@ -3,7 +3,6 @@
 title: How Much Is A Second Hand Washing Machine Worth
 description: This post explains that the price of a used washing machine depends on its various characteristics. It encourages readers to do their research before purchasing a used washing machine to get the best deal possible.
 keywords: second hand washing machine
-publishDate: 7/5/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

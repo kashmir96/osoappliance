@@ -3,7 +3,6 @@
 title: Washing Machine Smart Touch
 description: "In the modern world, technology is increasingly becoming an integral part of our lives. Smart appliances are one of the latest inn...see more"
 keywords: washing machine smart
-publishDate: 4/6/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

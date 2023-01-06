@@ -3,7 +3,6 @@
 title: Appliance Repairs Ashburton
 description: "If you’re in the Ashburton area and are in need of appliance repairs, you’ve come to the right place. Appliance repairs can be a t...keep reading to learn"
 keywords: appliance
-publishDate: 9/7/2021
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

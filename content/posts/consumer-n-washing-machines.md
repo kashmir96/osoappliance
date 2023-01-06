@@ -3,7 +3,6 @@
 title: Consumer N Washing Machines
 description: "When it comes to household appliances, washing machines are some of the most important items you can buy for your home. Not only d...learn about it in this post"
 keywords: washing machines
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

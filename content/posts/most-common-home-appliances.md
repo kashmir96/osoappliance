@@ -3,7 +3,6 @@
 title: Most Common Home Appliances
 description: "Home appliances are an integral part of modern life. They are designed to make everyday tasks more efficient, convenient and cost-...see more"
 keywords: most appliances
-publishDate: 1/30/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

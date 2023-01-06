@@ -3,7 +3,6 @@
 title: Why Washing Machine Leaks Water
 description: "If your washing machine is leaking water, it can be a cause for concern. But don’t panic! In most cases, it can be fixed relativel...read now to learn more"
 keywords: washing machine water
-publishDate: 3/23/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Not Used For A Long Time
 description: "As technology advances, so too do our household appliances. Washing machines are no exception. While they have been around for som...learn more"
 keywords: washing machine
-publishDate: 1/13/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

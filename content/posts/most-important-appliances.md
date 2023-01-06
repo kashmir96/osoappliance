@@ -3,7 +3,6 @@
 title: Most Important Appliances
 description: "Having the right appliances in your kitchen can make all the difference when it comes to how you cook and how efficient you are in...keep reading to learn"
 keywords: most appliances
-publishDate: 2/23/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

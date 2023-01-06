@@ -3,7 +3,6 @@
 title: What Is Gas Stove
 description: "A gas stove is an appliance that uses natural gas, propane or butane to cook food. It consists of a burner which produces an open ...take a moment to check it out "
 keywords: gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

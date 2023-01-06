@@ -3,7 +3,6 @@
 title: Buy Second Hand Washing Machine
 description: This post outlines the key things to consider when buying a second-hand washing machine, read on to find out more.
 keywords: second hand washing machine
-publishDate: 6/8/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

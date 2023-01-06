@@ -3,7 +3,6 @@
 title: Laundry Appliance Crossword Clue
 description: "If you’re a fan of crossword puzzles, then you may have come across the clue “Laundry Appliance.” This is a pretty straightforward...you wont regret reading on"
 keywords: laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

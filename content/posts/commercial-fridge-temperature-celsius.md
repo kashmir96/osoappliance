@@ -3,7 +3,6 @@
 title: Commercial Fridge Temperature Celsius
 description: "If you own a commercial fridge, it’s important to ensure that the temperature is kept at the right level. This isn’t only importan...keep reading to learn"
 keywords: fridge
-publishDate: 1/1/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

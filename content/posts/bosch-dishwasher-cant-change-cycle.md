@@ -3,7 +3,6 @@
 title: Bosch Dishwasher Cant Change Cycle
 description: "If your Bosch dishwasher won’t change cycles, it could be due to a few different reasons. The first thing to check is the control ...you wont regret reading on"
 keywords: bosch dishwasher
-publishDate: 9/22/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

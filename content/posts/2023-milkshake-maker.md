@@ -3,7 +3,6 @@
 title: 2023 Milkshake Maker
 description: "As we continue to move into the future, technology is quickly advancing and revolutionizing daily life. In 2023, one of the most e...learn more"
 keywords: 2023 milkshake maker
-publishDate: 3/8/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

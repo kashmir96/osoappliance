@@ -3,7 +3,6 @@
 title: Electric Blender
 description: "An electric blender is an essential kitchen appliance that makes it easy to blend, mix, and puree a variety of ingredients. Whethe...get more detail"
 keywords: blender
-publishDate: 1/25/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

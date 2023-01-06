@@ -3,7 +3,6 @@
 title: Why Heat Pump Dryer
 description: "Heat pump dryers are becoming increasingly popular for their energy efficiency and money saving benefits. Heat pump dryers use a h...continue on"
 keywords: heat pump dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

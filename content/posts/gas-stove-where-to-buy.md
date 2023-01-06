@@ -3,7 +3,6 @@
 title: Gas Stove Where To Buy
 description: "Gas stoves are an essential part of any kitchen, offering a reliable and efficient way to cook. They are available in a variety of...continue on"
 keywords: gas stove buy
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

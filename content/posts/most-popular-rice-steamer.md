@@ -3,7 +3,6 @@
 title: Most Popular Rice Steamer
 description: "The rice steamer is one of the most popular kitchen appliances around. This versatile machine can be used to make all kinds of del...learn about it in this post"
 keywords: most popular
-publishDate: 2/2/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

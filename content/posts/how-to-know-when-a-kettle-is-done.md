@@ -3,7 +3,6 @@
 title: How To Know When A Kettle Is Done
 description: "Are you ready for a hot cup of tea but unsure when your kettle is done? It can be difficult to know when the water in your kettle ...check it out to learn"
 keywords: how to kettle
-publishDate: 4/1/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

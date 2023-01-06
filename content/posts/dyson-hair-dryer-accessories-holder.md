@@ -3,7 +3,6 @@
 title: Dyson Hair Dryer Accessories Holder
 description: "The Dyson Hair Dryer Accessories Holder is a revolutionary product that helps people keep their hair dryer and its accessories org...get more detail"
 keywords: hair dryer
-publishDate: 7/3/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Appliance Disposal", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

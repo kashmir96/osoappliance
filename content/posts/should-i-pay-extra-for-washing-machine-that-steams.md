@@ -3,7 +3,6 @@
 title: Should I Pay Extra For Washing Machine That Steams
 description: "When it comes to washing machines, there are many features to consider. One of the newer features on the market is steam technolog...learn more"
 keywords: washing machine
-publishDate: 6/26/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

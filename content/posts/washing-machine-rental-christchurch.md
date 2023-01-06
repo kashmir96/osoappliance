@@ -3,7 +3,6 @@
 title: Washing Machine Rental Christchurch
 description: "As more people become aware of the environmental impacts of their daily lives, renting a washing machine in Christchurch has becom...swipe up to find out"
 keywords: washing machine christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Appliance And Kitchen Outlet
 description: "Outlets and appliances in the kitchen are essential components of a safe and functional kitchen. However, it is also important to ...find out now"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

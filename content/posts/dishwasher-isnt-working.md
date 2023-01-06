@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Working
 description: "If your dishwasher isn't working, it can be a major inconvenience. Whether it's not draining properly, not cleaning dishes, or not...lets find out"
 keywords: dishwasher
-publishDate: 11/23/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

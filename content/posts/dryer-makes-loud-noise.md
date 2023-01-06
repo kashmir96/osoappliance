@@ -3,7 +3,6 @@
 title: Dryer Makes Loud Noise
 description: "If your dryer is making loud noises, it can be a real nuisance. Fortunately, not all noises indicate a major problem that requires...check it out to learn"
 keywords: dryer
-publishDate: 11/4/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

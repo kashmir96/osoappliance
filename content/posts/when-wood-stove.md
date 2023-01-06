@@ -3,7 +3,6 @@
 title: When Wood Stove
 description: "The wood stove was invented in the late eighteenth century as a way to provide an efficient and effective means of heating and coo...get the full scoop"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

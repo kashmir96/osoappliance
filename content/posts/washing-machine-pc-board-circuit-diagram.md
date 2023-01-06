@@ -3,7 +3,6 @@
 title: Washing Machine Pc Board Circuit Diagram
 description: "For any consumer who is looking to buy a washing machine, understanding the basic circuit diagram of the washing machine’s printed...get the full scoop"
 keywords: washing machine
-publishDate: 2/18/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

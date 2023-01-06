@@ -3,7 +3,6 @@
 title: Appliance Repair Quote Christchurch
 description: If you're looking for an appliance repair quote in Christchurch, this post outlines the different factors to consider before deciding on a service provider, so read on to learn more.
 keywords: appliance repair christchurch
-publishDate: 8/30/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

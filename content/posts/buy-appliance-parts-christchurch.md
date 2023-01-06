@@ -3,7 +3,6 @@
 title: Buy Appliance Parts Christchurch
 description: If you're in need of appliance parts in Christchurch, this post provides a helpful overview of the best ways to go about buying them, so read on to find out more!
 keywords: appliance parts christchurch
-publishDate: 8/9/2022
 tags: ["Christchurch", "Appliances", "Parts"]
 author: Curtis
 categories: ["Appliances Christchurch"]

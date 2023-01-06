@@ -3,7 +3,6 @@
 title: Most Economical Washing Machine Christchurch
 description: If you're looking to buy a washing machine in Christchurch, this post provides information on economical options to help you get the best value for money - keep reading to find out more!
 keywords: washing machine christchurch
-publishDate: 12/18/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

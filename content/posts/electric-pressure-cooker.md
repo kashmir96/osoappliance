@@ -3,7 +3,6 @@
 title: Electric Pressure Cooker
 description: "An electric pressure cooker is an appliance that uses electricity to cook food at high pressure. It offers a range of benefits, su...you wont regret reading on"
 keywords: cooker
-publishDate: 3/24/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

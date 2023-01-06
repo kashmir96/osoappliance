@@ -3,7 +3,6 @@
 title: Oven How To Clean
 description: "Cleaning your oven is an important task to maintain the appliance and keep it running efficiently. With a few simple steps and som...swipe up to find out"
 keywords: oven how to clean
-publishDate: 12/12/2022
 tags: ["Oven", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

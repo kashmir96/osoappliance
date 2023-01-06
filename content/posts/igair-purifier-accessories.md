@@ -3,7 +3,6 @@
 title: Igair Purifier Accessories
 description: "Whether you’re looking to upgrade your air purifier or just want to keep it running optimally, there are plenty of air purifier ac...get more detail"
 keywords: purifier
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

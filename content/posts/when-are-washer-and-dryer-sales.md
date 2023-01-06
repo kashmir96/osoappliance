@@ -3,7 +3,6 @@
 title: When Are Washer And Dryer Sales
 description: "Are you in the market for a new washer and dryer? If so, you’re probably wondering when is the best time to buy. The answer depend...learn more"
 keywords: dryer sales
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

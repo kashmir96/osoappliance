@@ -3,7 +3,6 @@
 title: Hair Dryer And Straightener Set Nz
 description: "If you’re looking for ways to keep your hair looking its best, then a hair dryer and straightener set is an essential part of your...lets find out"
 keywords: hair dryer set nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Purifier Electric Bill
 description: "Air purifiers are becoming increasingly popular for people who want to improve their indoor air quality. While these devices are g...lets find out"
 keywords: air purifier
-publishDate: 3/23/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

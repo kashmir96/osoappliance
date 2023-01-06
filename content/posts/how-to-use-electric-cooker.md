@@ -3,7 +3,6 @@
 title: How To Use Electric Cooker
 description: "Cooking with an electric cooker can be a great way to make delicious meals in the comfort of your own home. Whether you’ve just bo...see more detail"
 keywords: how to use cooker
-publishDate: 5/16/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

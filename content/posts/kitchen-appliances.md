@@ -3,7 +3,6 @@
 title: Kitchen Appliances
 description: "Having the right kitchen appliances can make all the difference when it comes to cooking and baking. Kitchen appliances come in al...see more detail"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

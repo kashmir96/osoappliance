@@ -3,7 +3,6 @@
 title: What Dryer Setting For Sheets
 description: "When it comes to washing and drying your sheets, there is an important factor to consider: the right dryer setting. Choosing the r...continue on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

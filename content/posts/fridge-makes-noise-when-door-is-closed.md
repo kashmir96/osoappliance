@@ -3,7 +3,6 @@
 title: Fridge Makes Noise When Door Is Closed
 description: "If your refrigerator is making strange noises, it can be a bit worrying. However, if your fridge is making noise when the door is ...keep going and find out"
 keywords: fridge
-publishDate: 11/21/2021
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

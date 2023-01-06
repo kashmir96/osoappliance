@@ -3,7 +3,6 @@
 title: Most Popular Kitchen Appliance Color
 description: "When it comes to choosing a kitchen appliance color, there are many options available. From classic white and stainless steel to b...learn about it in this post"
 keywords: most popular kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

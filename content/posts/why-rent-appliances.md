@@ -3,7 +3,6 @@
 title: Why Rent Appliances
 description: Save money, upgrade your home, and avoid a large upfront cost by renting appliances - read on to learn more about the benefits of appliance rentals!
 keywords: appliances
-publishDate: 7/24/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

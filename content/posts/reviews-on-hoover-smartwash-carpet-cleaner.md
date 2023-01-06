@@ -3,7 +3,6 @@
 title: Reviews On Hoover Smartwash Carpet Cleaner
 description: "Hoover Smartwash Carpet Cleaners are one of the most popular and widely used carpet cleaners on the market today. They offer easy-...check it out to learn"
 keywords: reviews hoover
-publishDate: 12/12/2022
 tags: ["Vacuum", "Clean Appliance", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

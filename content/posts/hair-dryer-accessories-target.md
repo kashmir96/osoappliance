@@ -3,7 +3,6 @@
 title: Hair Dryer Accessories Target
 description: "Hair dryers are an essential part of any beauty routine, and there are a variety of hair dryer accessories available to help make ...get more info"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

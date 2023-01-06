@@ -3,7 +3,6 @@
 title: Best Toaster 2023
 description: "As we look ahead to the new year of 2023, one of the most exciting kitchen appliances to consider is a brand-new toaster. Toasters...check it out to learn"
 keywords: best 2023
-publishDate: 5/3/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Is Washing Machine With Dryer Good
 description: "Are you considering buying a washing machine with a dryer? If so, you’re in luck! Washing machines with dryers are becoming increa...find out now"
 keywords: washing machine dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

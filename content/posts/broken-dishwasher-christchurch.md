@@ -3,7 +3,6 @@
 title: Broken Dishwasher Christchurch
 description: If you have a broken dishwasher in Christchurch, don't worry - read on to find out how to get it fixed!
 keywords: dishwasher christchurch
-publishDate: 7/31/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

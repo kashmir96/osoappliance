@@ -3,7 +3,6 @@
 title: Hair Dryer Brush Best
 description: "If you’re looking for a way to quickly and easily dry and style your hair, then a hair dryer brush is the perfect tool for you. A ...get the full scoop"
 keywords: hair dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Not Drying Like It Used To
 description: "As your dryer ages, you may start to notice that it’s not drying like it used to. This can be an annoying problem, but the good ne...see more"
 keywords: dryer
-publishDate: 1/9/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

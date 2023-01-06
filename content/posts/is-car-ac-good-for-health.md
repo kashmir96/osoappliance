@@ -3,7 +3,6 @@
 title: Is Car Ac Good For Health
 description: "Car air conditioning (AC) is a great way to stay cool and comfortable on a hot summer day. But is it good for your health? The ans...check it out to learn"
 keywords: ac
-publishDate: 5/11/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

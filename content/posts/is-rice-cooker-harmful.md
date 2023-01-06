@@ -3,7 +3,6 @@
 title: Is Rice Cooker Harmful
 description: "Cooking with a rice cooker is a convenient and energy efficient way to make delicious, fluffy rice quickly. However, some concerns...get the full scoop"
 keywords: cooker
-publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

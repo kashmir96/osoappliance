@@ -3,7 +3,6 @@
 title: Appliance Disposal Auckland
 description: "Appliance disposal can be a tricky task for those living in Auckland. With limited recycling options, it’s important to know where...read now to learn more"
 keywords: appliance disposal
-publishDate: 2/27/2022
 tags: ["Appliance Disposal", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

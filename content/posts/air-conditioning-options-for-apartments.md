@@ -3,7 +3,6 @@
 title: Air Conditioning Options For Apartments
 description: "Are you looking for air conditioning options for your apartment? Many apartments are not equipped with central air conditioning, s...keep going and find out"
 keywords: air
-publishDate: 6/25/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Difference Between Heat Pump And Furnace
 description: "When it comes to heating your home, two of the most common choices are a heat pump and a furnace. While both are capable of provid...keep reading to learn"
 keywords: heat pump
-publishDate: 11/23/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

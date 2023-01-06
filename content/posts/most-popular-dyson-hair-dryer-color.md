@@ -3,7 +3,6 @@
 title: Most Popular Dyson Hair Dryer Color
 description: "If you’re shopping for a Dyson hair dryer, you may be surprised to learn that there isn’t just one color option. In fact, the popu...read now to learn more"
 keywords: most popular hair dryer
-publishDate: 3/18/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

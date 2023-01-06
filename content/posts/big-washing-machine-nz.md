@@ -3,7 +3,6 @@
 title: Big Washing Machine Nz
 description: "If you are looking to purchase a new washing machine, you should consider investing in a big washing machine from New Zealand. Big...get the full scoop"
 keywords: washing machine nz
-publishDate: 4/5/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

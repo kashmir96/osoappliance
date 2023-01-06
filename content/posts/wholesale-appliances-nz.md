@@ -3,7 +3,6 @@
 title: Wholesale Appliances Nz
 description: "Are you looking to buy wholesale appliances in New Zealand? If so, you have come to the right place. Buying wholesale appliances i...get more info"
 keywords: appliances nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

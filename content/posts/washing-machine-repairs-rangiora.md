@@ -3,7 +3,6 @@
 title: Washing Machine Repairs Rangiora
 description: "When it comes to washing machine repairs in Rangiora, you want to make sure that you get the best service and expertise available....get more detail"
 keywords: washing machine
-publishDate: 3/24/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

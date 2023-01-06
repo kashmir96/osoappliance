@@ -3,7 +3,6 @@
 title: Why Washing Machine Is Important
 description: "If you're like most people, you rely heavily on your washing machine. Whether it's for getting rid of that terrible smell from tha...scroll on and keep learning"
 keywords: washing machine
-publishDate: 3/20/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Who Install Gas Stove
 description: "Installing a gas stove can be a daunting task. It requires knowledge of gas line installation, proper ventilation, and safety prec...keep reading to learn"
 keywords: install gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

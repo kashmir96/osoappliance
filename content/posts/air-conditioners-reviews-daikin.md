@@ -3,7 +3,6 @@
 title: Air Conditioners Reviews Daikin
 description: "It’s no secret that air conditioners can be a major investment. With such a large purchase, it’s important to do your research bef...swipe up to find out"
 keywords: air reviews
-publishDate: 4/26/2023
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

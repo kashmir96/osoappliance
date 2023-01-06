@@ -3,7 +3,6 @@
 title: Dryer Vent Kit Nz
 description: "If you live in New Zealand and are looking for a Dryer Vent Kit, then you’ve come to the right place! Dryer vent kits are essentia...you wont regret reading on"
 keywords: dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

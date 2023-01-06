@@ -3,7 +3,6 @@
 title: Washing Machine Simple
 description: "A washing machine is one of the most convenient appliances for a busy household. It takes away the chore of hand-washing clothes a...check it out to learn"
 keywords: washing machine
-publishDate: 3/27/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Easiest Appliance To Install
 description: "When it comes to home appliances, the installation process can be intimidating for many homeowners. But the truth is that there ar...check it out to learn"
 keywords: easiest install
-publishDate: 7/26/2022
 tags: ["Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: When Dishwasher Wont Start
 description: "If you're having a problem getting your dishwasher to start, you're not alone. It's one of the most common problems homeowners fac...learn more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

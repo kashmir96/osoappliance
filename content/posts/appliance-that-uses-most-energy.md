@@ -3,7 +3,6 @@
 title: Appliance That Uses Most Energy
 description: "Appliances are a major source of energy consumption in homes. The type of appliance that uses the most energy in a household depen...keep reading to learn"
 keywords: uses most energy
-publishDate: 12/12/2022
 tags: ["Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

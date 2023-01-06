@@ -3,7 +3,6 @@
 title: Appliance Retailer Magazine
 description: "When it comes to shopping for appliances, most of us turn to the internet or head down to our local store. But what if there was a...scroll on and keep learning"
 keywords: appliance
-publishDate: 1/24/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

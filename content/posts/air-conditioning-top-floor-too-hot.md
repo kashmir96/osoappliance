@@ -3,7 +3,6 @@
 title: Air Conditioning Top Floor Too Hot
 description: "If you live in a multi-story building or house, you may have experienced the frustration of the top floor being too hot and the lo...swipe up to find out"
 keywords: air top
-publishDate: 7/23/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

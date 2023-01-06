@@ -3,7 +3,6 @@
 title: Best Washing Machine 2023
 description: "With the ever-increasing technology, finding the right washing machine can be quite a daunting task. Washing machines are now expe...see more"
 keywords: best washing machine 2023
-publishDate: 5/6/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Top Appliance Repair Near Me
 description: "If you’re looking for top appliance repair near you, then you’ve come to the right place! Appliance repairs can be complex and cos...learn more about it now"
 keywords: top appliance repair near
-publishDate: 7/5/2022
 tags: ["Heat Pump", "Appliance Repair", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

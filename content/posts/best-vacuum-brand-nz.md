@@ -3,7 +3,6 @@
 title: Best Vacuum Brand Nz
 description: "When it comes to finding the best vacuum brand in New Zealand, there are a few factors to consider. The first is the type of vacuu...see more"
 keywords: best vacuum brand nz
-publishDate: 6/1/2022
 tags: ["Vacuum", "New Zealand", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

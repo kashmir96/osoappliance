@@ -3,7 +3,6 @@
 title: Is It Legal To Rent A House Without Air Conditioning
 description: "No, it is not legal to rent a house without air conditioning. The United States Department of Housing and Urban Development (HUD) ...scroll on and keep learning"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

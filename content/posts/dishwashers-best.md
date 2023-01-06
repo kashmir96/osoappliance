@@ -3,7 +3,6 @@
 title: Dishwashers Best
 description: "Dishwashers are a great way to keep your kitchen clean and tidy. But, like all appliances, they require regular maintenance and pr...scroll on and keep learning"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

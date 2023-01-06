@@ -3,7 +3,6 @@
 title: When Oven Says F2
 description: "If your oven is displaying the error code F2 it could mean one of two things. The first is that the oven temperature has exceed...see more"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

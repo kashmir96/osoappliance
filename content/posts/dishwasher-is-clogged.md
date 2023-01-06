@@ -3,7 +3,6 @@
 title: Dishwasher Is Clogged
 description: "If your dishwasher is clogged, it can be a frustrating and time-consuming problem. Clogs can occur in the drain, the filter, or th...get the full scoop"
 keywords: dishwasher
-publishDate: 11/3/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Clothes Rack
 description: "A dryer clothes rack is an essential tool for anyone who needs to dry clothes without using a traditional dryer. Whether you’re lo...find out now"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Rent Appliances Nz
 description: "Rent Appliances NZ is a company that provides a range of appliances for rent. Whether you are looking for a short-term rental or l...learn about it in this post"
 keywords: appliances nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Dishwasher Not Cleaning
 description: "If your dishwasher isn't cleaning dishes properly, there are a few things to consider. The most common causes of poor dishwasher p...take a moment to check it out "
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

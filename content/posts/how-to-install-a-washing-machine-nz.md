@@ -3,7 +3,6 @@
 title: How To Install A Washing Machine Nz
 description: "Installing a washing machine in New Zealand is a relatively simple process that can be tackled by the homeowner with minimal tools...read now to learn more"
 keywords: how to install washing machine nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Not Used For 2 Years
 description: "Do you own a washing machine that you haven’t used for two years or more? If so, it’s time to start thinking about what to do with...get the full scoop"
 keywords: washing machine
-publishDate: 1/12/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

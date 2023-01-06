@@ -3,7 +3,6 @@
 title: Best Dryer For Sheets
 description: "When it comes to drying sheets, not all dryers are created equal. While some dryers may be great for drying clothes, they may not ...lets find out"
 keywords: best dryer
-publishDate: 8/11/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

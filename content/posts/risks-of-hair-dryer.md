@@ -3,7 +3,6 @@
 title: Risks Of Hair Dryer
 description: "Hair dryers are a common part of many people’s morning routine. But while they can be a great way to get ready quickly, it’s impor...get more detail"
 keywords: hair dryer
-publishDate: 12/19/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: What Appliances Use The Most Power Nz
 description: "When it comes to appliances, some use more power than others. In New Zealand, the biggest electricity consumers are the same as in...check it out to learn"
 keywords: appliances use most power nz
-publishDate: 12/24/2022
 tags: ["New Zealand", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Common Electric Appliances
 description: "Electric appliances are an integral part of our homes and lives today. From refrigerators to air conditioners, electric appliances...get the full scoop"
 keywords: appliances
-publishDate: 2/21/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

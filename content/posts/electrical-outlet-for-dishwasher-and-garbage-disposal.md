@@ -3,7 +3,6 @@
 title: Electrical Outlet For Dishwasher And Garbage Disposal
 description: "If you’re looking to install a dishwasher or garbage disposal in your home, you may be wondering about the electrical outlet neede...read now to learn more"
 keywords: dishwasher disposal
-publishDate: 4/23/2022
 tags: ["Dishwasher", "Appliance Disposal", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

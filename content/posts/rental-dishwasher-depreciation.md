@@ -3,7 +3,6 @@
 title: Rental Dishwasher Depreciation
 description: "Rental dishwashers are an increasingly popular option for homeowners, particularly those who don't have the financial means to pur...learn more"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Dryer Sheets Brand
 description: "Dryer sheets are a popular laundry accessory used to reduce static cling, soften clothes, and add a pleasant scent. They come in m...learn more about it now"
 keywords: most popular dryer brand
-publishDate: 7/19/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

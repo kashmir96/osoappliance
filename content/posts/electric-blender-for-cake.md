@@ -3,7 +3,6 @@
 title: Electric Blender For Cake
 description: "An electric blender is an essential kitchen tool for anyone who wants to make cakes and other delicious desserts. It's a versatile...keep going and find out"
 keywords: blender
-publishDate: 1/29/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

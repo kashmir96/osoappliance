@@ -3,7 +3,6 @@
 title: Used Cooker Spares
 description: "Cookers are essential items in any kitchen, but they require regular maintenance and repair. Used cooker spares can be a great opt...you wont regret reading on"
 keywords: cooker
-publishDate: 2/8/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

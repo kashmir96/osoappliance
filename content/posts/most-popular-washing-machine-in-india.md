@@ -3,7 +3,6 @@
 title: Most Popular Washing Machine In India
 description: "The washing machine has become an essential part of every household in India. With the increasing demand for convenience and ease ...lets find out"
 keywords: most popular washing machine
-publishDate: 6/19/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

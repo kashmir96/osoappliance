@@ -3,7 +3,6 @@
 title: Electrical Requirements For Dishwasher
 description: "When it comes to installing a dishwasher, electrical requirements are often an afterthought. However, it's important to consider t...see more"
 keywords: dishwasher
-publishDate: 4/25/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Can You Die From Being In A Washing Machine
 description: "Can you die from being in a washing machine? The simple answer is yes, although it is incredibly rare....scroll on and keep learning"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

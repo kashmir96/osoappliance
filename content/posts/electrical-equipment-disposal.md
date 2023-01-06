@@ -3,7 +3,6 @@
 title: Electrical Equipment Disposal
 description: "Disposing of electrical equipment is an important part of keeping our environment safe and healthy. It’s not only important to pro...continue on"
 keywords: disposal
-publishDate: 6/20/2023
 tags: ["Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Pc Repair Training In Bangalore
 description: "It may come as no surprise that washing machine repair is an essential task to keep appliances running smoothly and safely. Washin...check it out to learn"
 keywords: washing machine repair
-publishDate: 2/20/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

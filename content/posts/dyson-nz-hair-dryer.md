@@ -3,7 +3,6 @@
 title: Dyson Nz Hair Dryer
 description: "The Dyson Supersonic™ hair dryer is the perfect choice for anyone looking for a professional-grade hairdryer to use at home. It’s ...learn about it in this post"
 keywords: nz hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

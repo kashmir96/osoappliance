@@ -3,7 +3,6 @@
 title: How Much Is A Washer And Dryer Set
 description: "A washer and dryer set is an essential part of any home, but how much does it cost? The answer to this question depends on a varie...you wont regret reading on"
 keywords: dryer set
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

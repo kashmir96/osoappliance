@@ -3,7 +3,6 @@
 title: Dryer What Is Perm Press
 description: "Perm press is a setting on your dryer that is designed to care for permanent press items. Permanent press fabrics are treated with...scroll on and keep learning"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

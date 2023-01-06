@@ -3,7 +3,6 @@
 title: Dryer Clothes Symbol
 description: "The dryer clothes symbol is a symbol that can be found on clothing labels, indicating whether or not a particular garment should b...keep going and find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

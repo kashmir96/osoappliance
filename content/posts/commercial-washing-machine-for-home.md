@@ -3,7 +3,6 @@
 title: Commercial Washing Machine For Home
 description: "When it comes to laundry, there is no one-size-fits-all solution. It all depends on the size of your family, the volume of laundry...learn about it in this post"
 keywords: washing machine
-publishDate: 2/21/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

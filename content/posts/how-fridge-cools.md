@@ -3,7 +3,6 @@
 title: How Fridge Cools
 description: "Have you ever wondered how a refrigerator works? It's amazing that such a small appliance can keep food cold for days and weeks at...keep going and find out"
 keywords: fridge
-publishDate: 12/4/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Double Oven Why
 description: "If you are looking for a way to cook multiple dishes at the same time, a double oven may be the perfect solution for you. Double o...learn more about it now"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

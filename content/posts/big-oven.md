@@ -3,7 +3,6 @@
 title: Big Oven
 description: "Big ovens are a great addition to any kitchen. They provide a larger cooking space and can handle larger meals than traditional ov...take a moment to check it out "
 keywords: oven
-publishDate: 3/30/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dangers Of Stove Top
 description: "Stove tops are a convenient and popular way to cook meals quickly, but they can also be dangerous if used improperly. It is import...you wont regret reading on"
 keywords: stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

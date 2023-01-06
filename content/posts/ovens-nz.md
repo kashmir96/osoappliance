@@ -3,7 +3,6 @@
 title: Ovens Nz
 description: "Ovens are an essential appliance in a kitchen and are used to cook and bake all sorts of delicious meals. New Zealand is home to a...take a moment to check it out "
 keywords: nz
-publishDate: 12/12/2022
 tags: ["Oven", "New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

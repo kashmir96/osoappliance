@@ -3,7 +3,6 @@
 title: Best Washer Dryer Combo
 description: "When it comes to buying a washer and dryer set, there are a few things to consider. You want to make sure you get the best value f...lets find out"
 keywords: best dryer
-publishDate: 9/5/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

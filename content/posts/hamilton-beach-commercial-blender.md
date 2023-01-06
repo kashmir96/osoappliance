@@ -3,7 +3,6 @@
 title: Hamilton Beach Commercial Blender
 description: "Hamilton Beach Commercial blenders are designed for heavy-duty use in restaurants, bars and other foodservice establishments. They...scroll on and keep learning"
 keywords: blender
-publishDate: 6/15/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

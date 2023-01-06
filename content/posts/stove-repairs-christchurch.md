@@ -3,7 +3,6 @@
 title: Stove Repairs Christchurch
 description: "Stove repairs in Christchurch are important for keeping your kitchen and appliances in good condition. Whether you're dealing with...you wont regret reading on"
 keywords: stove christchurch
-publishDate: 12/12/2022
 tags: ["Stove", "Christchurch", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

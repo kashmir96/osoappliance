@@ -3,7 +3,6 @@
 title: How Much Is A Tumble Dryer
 description: "A tumble dryer is an important home appliance that can make a huge difference to how quickly and efficiently you can do your laund...see more"
 keywords: dryer
-publishDate: 12/24/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

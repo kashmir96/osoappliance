@@ -3,7 +3,6 @@
 title: Dryer Smells Like Lighter Fluid
 description: "If your dryer smells like lighter fluid, it could be a sign of a serious problem. Lighter fluid is highly flammable and should nev...check it out to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

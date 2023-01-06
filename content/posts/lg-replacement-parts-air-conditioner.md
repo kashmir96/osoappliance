@@ -3,7 +3,6 @@
 title: Lg Replacement Parts Air Conditioner
 description: "If your air conditioner is not working properly or has stopped working altogether, you may need to replace some parts. LG replacem...keep reading to learn"
 keywords: replacement parts air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

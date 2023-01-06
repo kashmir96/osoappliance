@@ -3,7 +3,6 @@
 title: When Are Dryers Cheapest Christchurch
 description: This post explains when you can find the best deals on dryers in Christchurch, so if you're looking to save money read on!
 keywords: dryers christchurch
-publishDate: 12/9/2022
 tags: ["Christchurch", "Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

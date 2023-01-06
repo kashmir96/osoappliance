@@ -3,7 +3,6 @@
 title: Stove What Is The Meaning
 description: "A stove is a device used to cook food by applying heat directly to the food. It consists of an oven and a cooking surface that can...get more detail"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

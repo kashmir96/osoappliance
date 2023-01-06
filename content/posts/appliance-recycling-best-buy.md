@@ -3,7 +3,6 @@
 title: Appliance Recycling Best Buy
 description: "If you've recently purchased a new appliance, you may be wondering what to do with your old one. Appliance recycling is the best o...you wont regret reading on"
 keywords: best buy
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

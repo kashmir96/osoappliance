@@ -3,7 +3,6 @@
 title: Panasonic Washing Machine Wont Spin
 description: If your Panasonic washing machine won't spin, read on to learn how to troubleshoot the issue and get your washing machine back in working order.
 keywords: washing machine
-publishDate: 10/16/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

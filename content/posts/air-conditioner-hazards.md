@@ -3,7 +3,6 @@
 title: Air Conditioner Hazards
 description: "As the temperature rises, air conditioners can provide much-needed relief from the heat. But air conditioners can also be hazardou...you wont regret reading on"
 keywords: air conditioner
-publishDate: 4/11/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

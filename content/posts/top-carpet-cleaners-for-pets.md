@@ -3,7 +3,6 @@
 title: Top Carpet Cleaners For Pets
 description: "Having a pet can be a great addition to any home, but it can also mean dealing with pet-related messes. Pets shed and can track in...lets find out"
 keywords: top
-publishDate: 7/11/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

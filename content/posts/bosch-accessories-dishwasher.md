@@ -3,7 +3,6 @@
 title: Bosch Accessories Dishwasher
 description: "When it comes to keeping your dishwasher running efficiently, there’s no better choice than Bosch accessories. Bosch has been a le...see more"
 keywords: bosch dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

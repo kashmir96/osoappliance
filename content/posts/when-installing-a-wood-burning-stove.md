@@ -3,7 +3,6 @@
 title: When Installing A Wood Burning Stove
 description: "When considering installing a wood burning stove, there are a few important things to take into account. Installing a wood burning...take a moment to check it out "
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Rice Cooker Brand
 description: "When it comes to cooking rice, a rice cooker is an essential appliance in any kitchen. But with so many brands and models on the m...read now to learn more"
 keywords: most popular cooker brand
-publishDate: 2/1/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

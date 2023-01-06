@@ -3,7 +3,6 @@
 title: Buy Electrical Appliances Online
 description: "Are you looking for a more convenient way to buy electrical appliances? Shopping online for electrical appliances is becoming popu...learn more"
 keywords: buy appliances online
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

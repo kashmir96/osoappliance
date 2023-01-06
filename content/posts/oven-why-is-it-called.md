@@ -3,7 +3,6 @@
 title: Oven Why Is It Called
 description: "An oven is a kitchen appliance used for baking or roasting food. It is also used to heat up pre-cooked dishes. The term “oven” com...keep reading to learn"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

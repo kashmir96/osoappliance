@@ -3,7 +3,6 @@
 title: Most Common Washing Machine Leaks
 description: "Washing machine leaks can be one of the most annoying and costly problems in a home. Whether it’s a small drip or a major flood, w...scroll on and keep learning"
 keywords: most washing machine
-publishDate: 6/13/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

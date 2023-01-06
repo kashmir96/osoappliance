@@ -3,7 +3,6 @@
 title: Difference Between Heat Pump And Condenser Dryer
 description: "If you’re in the market for a new clothes dryer, you may have seen two different types: heat pump dryers and condenser dryers. Bef...see more"
 keywords: heat pump dryer
-publishDate: 11/20/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

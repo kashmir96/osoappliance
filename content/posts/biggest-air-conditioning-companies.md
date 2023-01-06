@@ -3,7 +3,6 @@
 title: Biggest Air Conditioning Companies
 description: "The air conditioning industry is an essential part of modern life, providing us with comfort and convenience in hot weather. There...keep going and find out"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

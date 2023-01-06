@@ -3,7 +3,6 @@
 title: Small Appliances Near Me
 description: "If you’re looking to upgrade your kitchen with new small appliances, you’ve come to the right place. Small appliances are a great ...lets find out"
 keywords: appliances near
-publishDate: 1/15/2023
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Hair Dryer Dyson Best Buy
 description: "If you’re in the market for a new hair dryer, you may want to consider the Dyson Supersonic Hair Dryer. This product is a best buy...find out now"
 keywords: hair dryer best buy
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

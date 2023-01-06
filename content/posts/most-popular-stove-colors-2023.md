@@ -3,7 +3,6 @@
 title: Most Popular Stove Colors 2023
 description: "As you look ahead to the future of kitchen design, one trend that is sure to take center stage is bolder, brighter stove colors. I...lets find out"
 keywords: most popular stove 2023
-publishDate: 12/16/2021
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

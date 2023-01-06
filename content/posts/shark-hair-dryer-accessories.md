@@ -3,7 +3,6 @@
 title: Shark Hair Dryer Accessories
 description: "Shark hair dryer accessories are must-have items for anyone who wants to maximize their blow-drying results. Whether you're a prof...learn about it in this post"
 keywords: hair dryer
-publishDate: 6/30/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Dryer Vent Cleaning Works
 description: "Dryer vent cleaning is a process used to remove lint, dirt and other debris from the exhaust vent of a clothes dryer. Dryer vents ...check it out to learn"
 keywords: dryer
-publishDate: 11/28/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

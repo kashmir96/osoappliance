@@ -3,7 +3,6 @@
 title: How Long Does It Take To Replace A Range Hood
 description: "When it comes to replacing a range hood, the amount of time required for the job depends on a number of factors. These include the...keep reading to learn"
 keywords: replace range
-publishDate: 7/9/2023
 tags: ["Stove", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

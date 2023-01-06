@@ -3,7 +3,6 @@
 title: Should I Replace My Vacuum
 description: "If you’re asking yourself, “Should I replace my vacuum?” the answer is likely yes. Vacuums are essential for keeping your home cle...continue on"
 keywords: replace vacuum
-publishDate: 6/10/2022
 tags: ["Vacuum", "Appliance Repair"]
 author: Curtis
 categories: ["Household Appliances"]

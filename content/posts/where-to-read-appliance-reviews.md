@@ -3,7 +3,6 @@
 title: Where To Read Appliance Reviews
 description: "Appliance reviews are a great way to stay up-to-date on the latest and greatest home appliances on the market. An appliance review...find out now"
 keywords: appliance reviews
-publishDate: 12/16/2022
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

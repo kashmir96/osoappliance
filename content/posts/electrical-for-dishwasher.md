@@ -3,7 +3,6 @@
 title: Electrical For Dishwasher
 description: "If you’re looking to upgrade your kitchen with a new dishwasher, it’s important to understand the basics of electrical wiring for ...take a moment to check it out "
 keywords: dishwasher
-publishDate: 4/21/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

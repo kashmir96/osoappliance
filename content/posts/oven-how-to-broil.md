@@ -3,7 +3,6 @@
 title: Oven How To Broil
 description: "Broiling is a great way to cook food quickly and get a nice, crisp texture. It’s also a great way to add some flavor with a bit of...take a moment to check it out "
 keywords: oven how to
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

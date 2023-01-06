@@ -3,7 +3,6 @@
 title: Electric Vacuum Cleaner Robot
 description: "Electric vacuum cleaner robots, also known as robotic vacuums, are a type of cleaning device that use motors and sensors to clean ...you wont regret reading on"
 keywords: vacuum
-publishDate: 12/12/2022
 tags: ["Vacuum", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

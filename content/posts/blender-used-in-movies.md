@@ -3,7 +3,6 @@
 title: Blender Used In Movies
 description: "In recent years, movie studios have increasingly used product placement as a way to generate revenue and promote products. One of ...read now to learn more"
 keywords: blender
-publishDate: 4/4/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

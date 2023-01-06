@@ -3,7 +3,6 @@
 title: Most Popular Portable Carpet Cleaner
 description: "When it comes to cleaning carpets, the most popular portable carpet cleaner is undoubtedly the Bissell SpotClean ProHeat Portable ...continue on"
 keywords: most popular
-publishDate: 2/13/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

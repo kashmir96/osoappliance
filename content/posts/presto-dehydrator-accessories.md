@@ -3,7 +3,6 @@
 title: Presto Dehydrator Accessories
 description: "Dehydrators are a great way to preserve food and make flavorful snacks. With a Presto dehydrator, you can make jerky, dried fruits...lets find out"
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

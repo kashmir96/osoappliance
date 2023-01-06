@@ -3,7 +3,6 @@
 title: Used Appliance Parts Calgary
 description: "If you're a Calgary resident who owns used appliances, it's important to be prepared for any eventuality. Having spare parts on ha...keep going and find out"
 keywords: appliance parts
-publishDate: 1/30/2022
 tags: ["Appliance Consumption", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

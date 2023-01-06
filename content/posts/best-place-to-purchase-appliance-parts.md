@@ -3,7 +3,6 @@
 title: Best Place To Purchase Appliance Parts
 description: "If you're in the market for appliance parts, you may be wondering where the best place to purchase them is. With so many options a...you wont regret reading on"
 keywords: best purchase appliance parts
-publishDate: 10/15/2021
 tags: ["Buy Appliance", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

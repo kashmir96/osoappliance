@@ -3,7 +3,6 @@
 title: Biggest Ninja Blender Appliance
 description: "If you’re in the market for a powerful blender that can handle just about any recipe, then you’ll want to take a look at the Bigge...get more info"
 keywords: blender appliance
-publishDate: 5/20/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

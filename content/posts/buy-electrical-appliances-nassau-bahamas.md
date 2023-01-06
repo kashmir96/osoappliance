@@ -3,7 +3,6 @@
 title: Buy Electrical Appliances Nassau Bahamas
 description: "In today’s digital age, buying electrical appliances online in the UK has become increasingly popular amongst shoppers of all ages...get the full scoop"
 keywords: buy appliances
-publishDate: 2/9/2023
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

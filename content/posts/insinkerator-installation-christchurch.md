@@ -3,7 +3,6 @@
 title: Insinkerator Installation Christchurch
 description: If you're considering installing an Insinkerator in your Christchurch home, this post provides a step-by-step guide to get the job done right - read on to learn more!
 keywords: insinkerator christchurch
-publishDate: 12/7/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

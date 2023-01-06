@@ -3,7 +3,6 @@
 title: Electrical Blender Components
 description: "Blenders are one of the most popular kitchen appliances, and they rely on electricity to function properly. Understanding the comp...keep going and find out"
 keywords: blender
-publishDate: 4/7/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

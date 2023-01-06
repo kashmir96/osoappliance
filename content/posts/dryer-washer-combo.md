@@ -3,7 +3,6 @@
 title: Dryer Washer Combo
 description: "If you’re looking for a way to save time and space in your laundry room, a washer-dryer combo might be the perfect solution for yo...take a moment to check it out "
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

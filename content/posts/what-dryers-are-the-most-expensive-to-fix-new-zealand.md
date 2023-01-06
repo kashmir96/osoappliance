@@ -3,7 +3,6 @@
 title: What Dryers Are The Most Expensive To Fix New Zealand
 description: "When it comes to dryers, the most expensive to fix in New Zealand are usually the top-of-the-line models. These models are typical...check it out to learn"
 keywords: dryers most fix new zealand
-publishDate: 7/7/2022
 tags: ["Washing Machine", "Dryer", "Appliance Repair", "New Zealand", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

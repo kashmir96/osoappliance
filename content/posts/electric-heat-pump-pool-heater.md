@@ -3,7 +3,6 @@
 title: Electric Heat Pump Pool Heater
 description: "A heat pump pool heater is a great choice for swimming pool owners who want to heat their pool water efficiently and economically....keep reading to learn"
 keywords: heat pump heater
-publishDate: 6/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

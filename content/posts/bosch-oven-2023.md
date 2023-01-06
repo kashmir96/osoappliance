@@ -3,7 +3,6 @@
 title: Bosch Oven 2023
 description: "As we enter 2023, Bosch ovens are a leader in the home appliance market. From traditional ovens to combination microwave and conve...take a moment to check it out "
 keywords: bosch oven 2023
-publishDate: 5/9/2023
 tags: ["Oven", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

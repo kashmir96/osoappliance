@@ -3,7 +3,6 @@
 title: Do People Still Use Bag Vacuums
 description: "In the past, bag vacuums were the go-to choice for many homeowners looking for a powerful and efficient way to clean their carpets...learn more about it now"
 keywords: use vacuums
-publishDate: 6/23/2022
 tags: ["Vacuum", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

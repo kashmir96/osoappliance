@@ -3,7 +3,6 @@
 title: Most Common Air Filter Size
 description: "Air filters come in all shapes and sizes, so it can be difficult to determine which one is right for your home or office. Dependin...read now to learn more"
 keywords: most air
-publishDate: 3/2/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

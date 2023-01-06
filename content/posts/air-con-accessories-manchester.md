@@ -3,7 +3,6 @@
 title: Air Con Accessories Manchester
 description: "As the weather heats up and summer gets closer, it’s time to start thinking about cooling down your home or office with air condit...lets find out"
 keywords: air con
-publishDate: 3/20/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Big Range Hood
 description: "A range hood is a device that hangs over the top of your stove or cooktop and collects smoke, grease, steam, and odors from the ai...continue on"
 keywords: range
-publishDate: 4/4/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Mini Electric Blender
 description: "A mini electric blender is a small and convenient kitchen appliance that can be used to blend, mix, or puree ingredients for a var...get more info"
 keywords: blender
-publishDate: 5/20/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: What Is An Induction Stove
 description: "An induction stove is a type of stove that uses an electromagnetic field to heat cookware. This type of stove is becoming increasi...get the full scoop"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

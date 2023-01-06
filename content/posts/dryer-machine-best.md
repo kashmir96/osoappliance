@@ -3,7 +3,6 @@
 title: Dryer Machine Best
 description: "When it comes to laundry, the dryer is an essential part of the process. It’s important to know how to properly use and maintain y...see more detail"
 keywords: dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

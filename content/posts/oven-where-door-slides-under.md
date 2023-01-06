@@ -3,7 +3,6 @@
 title: Oven Where Door Slides Under
 description: "For many people, the idea of an oven with a door that slides under is a novel one. But this type of oven has become increasingly p...find out now"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

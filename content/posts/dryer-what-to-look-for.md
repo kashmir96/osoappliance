@@ -3,7 +3,6 @@
 title: Dryer What To Look For
 description: "When it comes to buying a dryer, there are many factors to consider. From size and capacity to features and energy efficiency, it'...lets find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

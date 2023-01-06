@@ -3,7 +3,6 @@
 title: Most Common Heating System In Canada
 description: "Winter weather in Canada can be unpredictable, but one thing you can always count on is the need for a reliable heating system. Wh...see more detail"
 keywords: most
-publishDate: 1/19/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

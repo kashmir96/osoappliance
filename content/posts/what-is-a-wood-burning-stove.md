@@ -3,7 +3,6 @@
 title: What Is A Wood Burning Stove
 description: "A wood burning stove is a type of heating appliance that uses wood as its primary fuel source. It is typically used in off-grid ho...get more info"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

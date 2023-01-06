@@ -3,7 +3,6 @@
 title: Why Stove Top Stuffing Banned
 description: "Stove top stuffing is a popular Thanksgiving side dish, but it's recently been banned in some places. The reason for this ban is d...get the full scoop"
 keywords: stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

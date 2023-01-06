@@ -3,7 +3,6 @@
 title: Mile Accessories Dishwasher
 description: "Miele's accessories dishwasher is a great addition to any kitchen. The dishwasher is designed to be easily installed and it can be...see more detail"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

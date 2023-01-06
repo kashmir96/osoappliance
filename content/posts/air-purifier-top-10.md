@@ -3,7 +3,6 @@
 title: Air Purifier Top 10
 description: "Air purifiers are becoming increasingly popular as people become more aware of the quality of air in their homes. With so many fea...you wont regret reading on"
 keywords: air purifier top
-publishDate: 4/15/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

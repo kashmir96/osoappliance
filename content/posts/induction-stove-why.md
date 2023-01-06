@@ -3,7 +3,6 @@
 title: Induction Stove Why
 description: "Induction cooking has become increasingly popular over the last few years, and for good reason. Induction stoves are more energy e...keep reading to learn"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

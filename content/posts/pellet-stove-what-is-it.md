@@ -3,7 +3,6 @@
 title: Pellet Stove What Is It
 description: "A pellet stove is a type of heating appliance that burns compressed wood or biomass pellets to generate heat. This type of stove i...swipe up to find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

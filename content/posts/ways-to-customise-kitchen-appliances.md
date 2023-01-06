@@ -3,7 +3,6 @@
 title: Ways To Customise Kitchen Appliances
 description: "Are you looking to customise your kitchen appliances? Whether you’re trying to add a touch of personality to your space or simply ...swipe up to find out"
 keywords: kitchen appliances
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Electric Stove Nz
 description: "The electric stove has become a popular choice for many New Zealand households in recent years, due to its energy efficiency and c...lets find out"
 keywords: stove nz
-publishDate: 12/12/2022
 tags: ["Stove", "New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

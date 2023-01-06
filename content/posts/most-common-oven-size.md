@@ -3,7 +3,6 @@
 title: Most Common Oven Size
 description: "When it comes to baking, oven temperatures are just as important as ingredients and techniques. Different recipes call for differe...get the full scoop"
 keywords: most oven
-publishDate: 7/21/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

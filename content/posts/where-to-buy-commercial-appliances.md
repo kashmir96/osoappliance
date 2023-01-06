@@ -3,7 +3,6 @@
 title: Where To Buy Commercial Appliances
 description: "If you are in the market for commercial appliances, you may be wondering where to buy them. Commercial appliances are designed to ...swipe up to find out"
 keywords: buy appliances
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

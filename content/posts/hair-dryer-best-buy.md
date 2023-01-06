@@ -3,7 +3,6 @@
 title: Hair Dryer Best Buy
 description: "When it comes to buying the best hair dryer, there are many factors to consider. From wattage and speed settings to attachments an...take a moment to check it out "
 keywords: hair dryer best buy
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

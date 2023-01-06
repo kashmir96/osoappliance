@@ -3,7 +3,6 @@
 title: Dryer Washer Machine
 description: "A dryer washer machine is an essential appliance that can make doing laundry much easier. It combines a washing machine and a drye...take a moment to check it out "
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

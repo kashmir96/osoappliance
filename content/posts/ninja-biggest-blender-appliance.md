@@ -3,7 +3,6 @@
 title: Ninja Biggest Blender Appliance
 description: "Are you looking for the best blender appliance on the market? If so, then you should definitely consider Ninja blenders. Ninja ble...you wont regret reading on"
 keywords: blender appliance
-publishDate: 7/2/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

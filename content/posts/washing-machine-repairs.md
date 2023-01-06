@@ -3,7 +3,6 @@
 title: Washing Machine Repairs
 description: "If you own a washing machine, you know that regular maintenance and repair is a must in order to keep it running at its best. Unfo...learn more"
 keywords: washing machine
-publishDate: 3/21/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

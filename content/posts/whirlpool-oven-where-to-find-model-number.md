@@ -3,7 +3,6 @@
 title: Whirlpool Oven Where To Find Model Number
 description: "Are you looking for information on how to find the model number of your Whirlpool oven? If so, you’ve come to the right place! In ...keep going and find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

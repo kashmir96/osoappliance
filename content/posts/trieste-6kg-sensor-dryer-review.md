@@ -3,7 +3,6 @@
 title: Trieste 6Kg Sensor Dryer Review
 description: "The Trieste 6kg Sensor Dryer is a great choice for anyone looking for a reliable and efficient dryer. This dryer has been designed...check it out to learn"
 keywords: dryer review
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

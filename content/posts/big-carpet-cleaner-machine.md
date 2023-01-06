@@ -3,7 +3,6 @@
 title: Big Carpet Cleaner Machine
 description: "If you’re looking for a deep-cleaning solution for your carpets and rugs, a big carpet cleaner machine may be the answer. These ma...lets find out"
 keywords: 
-publishDate: 3/19/2022
 tags: ["Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

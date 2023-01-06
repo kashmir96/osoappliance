@@ -3,7 +3,6 @@
 title: Big Blender Appliance Machine Price
 description: "Are you in the market for a big blender appliance machine? If so, you're probably wondering how much it will cost. The price of a ...lets find out"
 keywords: blender appliance
-publishDate: 3/13/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

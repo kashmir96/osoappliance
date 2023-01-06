@@ -3,7 +3,6 @@
 title: Most Common Microwave Failure
 description: "Microwaves are a staple of modern kitchen appliances, but even with proper maintenance, they can still experience problems from ti...get more detail"
 keywords: most microwave
-publishDate: 12/24/2021
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

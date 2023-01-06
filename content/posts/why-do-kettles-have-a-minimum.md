@@ -3,7 +3,6 @@
 title: Why Do Kettles Have A Minimum
 description: "A kettle's minimum fill line is an important safety feature that helps to ensure safe and efficient operation. The minimum fill li...take a moment to check it out "
 keywords: 
-publishDate: 1/6/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Appliance Brand In Nz
 description: This post outlines the biggest appliance brands in New Zealand and why you should read it, so click to find out more!
 keywords: appliance nz
-publishDate: 10/25/2022
 tags: ["Appliances", New Zealand]
 author: Curtis
 categories: ["Appliances Christchurch"]

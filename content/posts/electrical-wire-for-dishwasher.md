@@ -3,7 +3,6 @@
 title: Electrical Wire For Dishwasher
 description: "An electrical wire for a dishwasher is an important component of the appliance that provides power to the unit. The wire carries e...lets find out"
 keywords: dishwasher
-publishDate: 5/1/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

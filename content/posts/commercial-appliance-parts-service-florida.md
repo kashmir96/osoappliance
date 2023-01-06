@@ -3,7 +3,6 @@
 title: Commercial Appliance Parts & Service Florida
 description: "If you live in Florida and need appliance parts or service for your commercial kitchen, then you’ve come to the right place! There...get more detail"
 keywords: appliance parts
-publishDate: 7/13/2022
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

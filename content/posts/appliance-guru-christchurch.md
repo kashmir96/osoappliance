@@ -3,7 +3,6 @@
 title: Appliance Guru Christchurch
 description: "If you're looking for an appliance guru in Christchurch, you've come to the right place. An appliance guru from Christchurch can h...get more info"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

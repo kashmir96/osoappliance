@@ -3,7 +3,6 @@
 title: Importance Of Kitchen Appliances
 description: "The kitchen is often seen as the heart of the home, and with good reason. It’s where we cook meals for our families, entertain fri...swipe up to find out"
 keywords: kitchen appliances
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Makes Loud Buzzing Noise
 description: "Is your washing machine making loud buzzing noises each time you run a load of laundry? If so, it's likely there is an issue that ...lets find out"
 keywords: washing machine
-publishDate: 2/16/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

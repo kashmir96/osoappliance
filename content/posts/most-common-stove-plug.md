@@ -3,7 +3,6 @@
 title: Most Common Stove Plug
 description: "When it comes to kitchen appliances, the stove is an essential tool for any home. While most homes have a single oven and stove, t...take a moment to check it out "
 keywords: most stove
-publishDate: 7/31/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

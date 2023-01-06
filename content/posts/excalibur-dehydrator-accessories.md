@@ -3,7 +3,6 @@
 title: Excalibur Dehydrator Accessories
 description: "If you're an avid dehydrator user, then you know how important it is to have the right accessories to make your dehydrating experi...learn about it in this post"
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

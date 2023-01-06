@@ -3,7 +3,6 @@
 title: 2023 Bread Maker Nz
 description: "2023 is the year of innovation when it comes to bread makers....scroll on and keep learning"
 keywords: 2023 bread maker nz
-publishDate: 2/18/2023
 tags: ["New Zealand", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

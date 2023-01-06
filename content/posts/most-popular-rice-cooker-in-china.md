@@ -3,7 +3,6 @@
 title: Most Popular Rice Cooker In China
 description: "Rice cookers have become an essential appliance in Chinese kitchens, as the staple food of China is rice. Rice cookers are conveni...you wont regret reading on"
 keywords: most popular cooker
-publishDate: 1/31/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

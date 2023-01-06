@@ -3,7 +3,6 @@
 title: Places To Rent Appliances Near Me
 description: "Do you need to rent an appliance but don’t know where to go? You’ve come to the right place! Renting appliances can be a great way...take a moment to check it out "
 keywords: appliances near
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

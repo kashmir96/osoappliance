@@ -3,7 +3,6 @@
 title: Fridge Makes Noise
 description: "Fridge makes noise and it is an annoying sound that can drive you crazy especially at night. It can be caused by a number of diffe...check it out to learn"
 keywords: fridge
-publishDate: 11/20/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

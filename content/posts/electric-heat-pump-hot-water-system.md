@@ -3,7 +3,6 @@
 title: Electric Heat Pump Hot Water System
 description: "Electric heat pump hot water systems are becoming increasingly popular in homes and businesses across the country. This type of sy...get the full scoop"
 keywords: heat pump water
-publishDate: 6/5/2022
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

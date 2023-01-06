@@ -3,7 +3,6 @@
 title: Electrical Code For Dishwasher
 description: "Installing a dishwasher in your home is a great way to save time and energy while cleaning up after meals. But before you start an...read now to learn more"
 keywords: dishwasher
-publishDate: 4/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Dryer Christchurch
 description: This blog post explores the top types of dryers for Christchurch homeowners, their advantages and disadvantages, and the best type of dryer for you - so if you want to make an informed decision about the best dryer for your home, read on!
 keywords: dryer christchurch
-publishDate: 8/7/2022
 tags: ["Christchurch", "Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

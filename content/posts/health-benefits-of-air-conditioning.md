@@ -3,7 +3,6 @@
 title: Health Benefits Of Air Conditioning
 description: "Air conditioning is an important part of modern life, providing comfort and convenience to many people throughout the world. But d...find out now"
 keywords: air
-publishDate: 6/25/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

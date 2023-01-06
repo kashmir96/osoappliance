@@ -3,7 +3,6 @@
 title: Home Appliance Reviews Philippines
 description: "When it comes to buying home appliances in the Philippines, reviews can be a great way to make an informed decision. Home applianc...see more"
 keywords: appliance reviews
-publishDate: 1/20/2023
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

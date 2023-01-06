@@ -3,7 +3,6 @@
 title: Household Appliance Consumption
 description: "We all rely on household appliances to make our lives easier, but most of us don’t think about how much energy these devices consu...see more"
 keywords: appliance consumption
-publishDate: 7/7/2023
 tags: ["Appliance Disposal", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

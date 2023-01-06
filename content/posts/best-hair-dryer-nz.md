@@ -3,7 +3,6 @@
 title: Best Hair Dryer Nz
 description: "When it comes to styling your hair, a good hair dryer is an essential tool. But with so many different models on the market, it ca...you wont regret reading on"
 keywords: best hair dryer nz
-publishDate: 8/23/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

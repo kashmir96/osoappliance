@@ -3,7 +3,6 @@
 title: Most Common Stove Problems
 description: "If you’re having problems with your stove, don’t panic! Many stove issues can be fixed simply and quickly. In this blog, we’ll cov...see more"
 keywords: most stove
-publishDate: 12/13/2021
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

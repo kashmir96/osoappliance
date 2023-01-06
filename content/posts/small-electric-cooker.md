@@ -3,7 +3,6 @@
 title: Small Electric Cooker
 description: "Small electric cookers are becoming increasingly popular in households due to their convenience and cost-effectiveness. A small el...keep reading to learn"
 keywords: cooker
-publishDate: 5/29/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

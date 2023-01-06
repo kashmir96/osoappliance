@@ -3,7 +3,6 @@
 title: Stove And Oven Brands
 description: "When it comes to choosing the right stove and oven brands for your home, it can be a daunting task. With so many different types a...see more"
 keywords: stove oven brands
-publishDate: 12/12/2022
 tags: ["Oven", "Stove", "Kitchen Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

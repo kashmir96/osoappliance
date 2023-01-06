@@ -3,7 +3,6 @@
 title: Most Common Dishwasher Faults
 description: "When it comes to dishwashers, there are many common faults that can occur and cause problems. From a faulty pump to a broken door ...learn more about it now"
 keywords: most dishwasher
-publishDate: 1/20/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

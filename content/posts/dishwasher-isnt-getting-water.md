@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Getting Water
 description: "If your dishwasher isn’t getting water, it could be due to a number of issues. The first step to take is to check the water supply...learn more about it now"
 keywords: dishwasher water
-publishDate: 11/18/2022
 tags: ["Dishwasher", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

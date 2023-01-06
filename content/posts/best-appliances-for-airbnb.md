@@ -3,7 +3,6 @@
 title: Best Appliances For Airbnb
 description: "As an Airbnb host, you want to provide a comfortable and inviting space for your guests. Investing in the right appliances for you...keep reading to learn"
 keywords: best appliances
-publishDate: 12/10/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Disposing Of Air Conditioning Units Uk
 description: "Air conditioning units are a necessary part of life in some parts of the UK, but when the time comes to replace them, it’s importa...learn more"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

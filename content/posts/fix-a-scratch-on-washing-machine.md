@@ -3,7 +3,6 @@
 title: Fix A Scratch On Washing Machine
 description: Fixing a scratch on a washing machine is easy - read this step-by-step guide to learn how to do it and restore your washing machine's appearance and performance!
 keywords: fix washing machine
-publishDate: 9/1/2022
 tags: ["Washing Machine", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

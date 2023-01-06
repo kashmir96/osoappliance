@@ -3,7 +3,6 @@
 title: How To Get A Mouse Out Of Your Dishwasher
 description: "If you’ve ever found a mouse in your dishwasher, you know how stressful it can be. It’s a situation that no one wants to find them...get the full scoop"
 keywords: how to dishwasher
-publishDate: 7/1/2022
 tags: ["Dishwasher", "Appliance Consumption", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

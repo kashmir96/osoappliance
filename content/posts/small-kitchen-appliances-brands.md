@@ -3,7 +3,6 @@
 title: Small Kitchen Appliances Brands
 description: "Small kitchen appliances can make your life easier, whether it be grinding coffee beans for fresh brewed coffee, toasting bread fo...you wont regret reading on"
 keywords: kitchen appliances brands
-publishDate: 12/6/2022
 tags: ["Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

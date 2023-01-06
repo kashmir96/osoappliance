@@ -3,7 +3,6 @@
 title: Whirlpool Oven Where Is The Broiler
 description: "If you're looking for a reliable oven that offers excellent cooking performance and features, look no further than Whirlpool. This...keep going and find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

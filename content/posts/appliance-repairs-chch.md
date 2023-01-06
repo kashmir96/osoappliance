@@ -3,7 +3,6 @@
 title: Appliance Repairs Chch
 description: "When your home appliances break down, it can be a stressful and overwhelming experience. With so many different appliances in your...get more info"
 keywords: appliance chch
-publishDate: 9/9/2021
 tags: ["Heat Pump", "Christchurch", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

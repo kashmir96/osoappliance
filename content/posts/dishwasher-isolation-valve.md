@@ -3,7 +3,6 @@
 title: Dishwasher Isolation Valve
 description: "A dishwasher isolation valve is a plumbing device that is used to control the flow of water to and from a dishwasher. It is typica...keep reading to learn"
 keywords: dishwasher
-publishDate: 11/24/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

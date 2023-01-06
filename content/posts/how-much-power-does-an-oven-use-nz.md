@@ -3,7 +3,6 @@
 title: How Much Power Does An Oven Use Nz
 description: "When it comes to ovens, one of the most important questions is how much power they use. This is especially true in New Zealand, wh...learn about it in this post"
 keywords: power oven use nz
-publishDate: 12/25/2022
 tags: ["Oven", "New Zealand", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]
@@ -28,7 +27,6 @@ Finally, there are some things you can do to reduce your oven’s energy usage a
 title: Dryer Power Consumption Nz
 description: ""Dryer power consumption is an important issue when it comes to saving energy and reducing your electricity bill. In New Zealand, d...get more info""
 keywords: dryer power consumption nz
-publishDate: 12/26/2022
 tags: [""Washing Machine"", ""Dryer"", ""New Zealand"", ""Laundry Appliances"", ""Appliance Consumption"", ""Appliance Guide""]
 author: Curtis
 categories: [""Household Appliances""]

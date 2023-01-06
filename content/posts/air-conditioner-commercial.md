@@ -3,7 +3,6 @@
 title: Air Conditioner Commercial
 description: "When summer hits, there’s no better way to cope than with a good air conditioner. Not only do they keep us cool and comfortable, b...check it out to learn"
 keywords: air conditioner
-publishDate: 4/5/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

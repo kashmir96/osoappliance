@@ -3,7 +3,6 @@
 title: Most Common Air Conditioner Setting
 description: "As summer approaches, many homeowners are dusting off their air conditioners to prepare for the hot weather. One common question t...learn more"
 keywords: most air conditioner
-publishDate: 7/6/2022
 tags: ["Heat Pump", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

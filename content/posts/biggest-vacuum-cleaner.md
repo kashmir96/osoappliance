@@ -3,7 +3,6 @@
 title: Biggest Vacuum Cleaner
 description: "Vacuum cleaners are an indispensable part of keeping your home clean and tidy. But with so many models, sizes, and types on the ma...continue on"
 keywords: vacuum
-publishDate: 6/8/2022
 tags: ["Vacuum", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

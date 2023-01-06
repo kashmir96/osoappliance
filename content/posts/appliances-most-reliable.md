@@ -3,7 +3,6 @@
 title: Appliances Most Reliable
 description: "When it comes to making a purchase, reliability is always top of mind. After all, no one wants to invest in something that won’t l...learn more"
 keywords: most reliable
-publishDate: 12/12/2022
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

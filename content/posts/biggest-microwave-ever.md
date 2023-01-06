@@ -3,7 +3,6 @@
 title: Biggest Microwave Ever
 description: "In recent years, the size of microwaves has become increasingly larger. Today, some of the biggest microwaves on the market are tr...see more detail"
 keywords: microwave
-publishDate: 5/15/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

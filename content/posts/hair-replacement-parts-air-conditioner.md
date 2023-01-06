@@ -3,7 +3,6 @@
 title: Hair Replacement Parts Air Conditioner
 description: "When it comes to maintaining an air conditioner, one of the most important parts of the system is its hair replacement parts. This...you wont regret reading on"
 keywords: replacement parts air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

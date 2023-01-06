@@ -3,7 +3,6 @@
 title: Dishwasher Pc Fault
 description: "If you’ve ever found yourself with a faulty dishwasher, then you know how much time and energy it can take to figure out the probl...get the full scoop"
 keywords: dishwasher
-publishDate: 2/6/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

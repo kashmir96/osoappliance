@@ -3,7 +3,6 @@
 title: Air Conditioners Reviews
 description: "Summer is here, and it's time to start thinking about air conditioners! With so many models on the market, it can be hard to know ...lets find out"
 keywords: air reviews
-publishDate: 4/25/2023
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

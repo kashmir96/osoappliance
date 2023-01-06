@@ -3,7 +3,6 @@
 title: Commercial Kitchen Appliance Brands
 description: "If you’re in the market for commercial kitchen appliances, you’ll want to do your research. Different brands offer different featu...get more detail"
 keywords: kitchen appliance brands
-publishDate: 6/12/2022
 tags: ["Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

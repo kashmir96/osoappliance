@@ -3,7 +3,6 @@
 title: Rocket Stove Nz
 description: "A rocket stove is a small, efficient and fuel-efficient stove that uses wood or other biomass fuels to cook food or heat your home...see more detail"
 keywords: stove nz
-publishDate: 12/12/2022
 tags: ["Stove", "New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

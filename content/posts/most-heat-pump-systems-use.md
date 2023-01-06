@@ -3,7 +3,6 @@
 title: Most Heat Pump Systems Use
 description: "Heat pump systems are a popular way to both heat and cool a home. Heat pumps use the same process as a traditional air conditioner...learn more about it now"
 keywords: most heat pump use
-publishDate: 1/14/2022
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

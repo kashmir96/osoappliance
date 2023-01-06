@@ -3,7 +3,6 @@
 title: Where Is The Back Boiler In A Stove
 description: "A back boiler is an essential component of a stove, as it is responsible for providing hot water and heating in the home. It is lo...take a moment to check it out "
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

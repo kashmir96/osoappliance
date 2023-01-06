@@ -3,7 +3,6 @@
 title: Appliance Repair Reviews Christchurch
 description: Reading appliance repair reviews for your local area is essential for homeowners, so if you live in Christchurch, New Zealand, read on to learn more about what to look for when searching for a reliable repair service.
 keywords: appliance repair christchurch
-publishDate: 9/18/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

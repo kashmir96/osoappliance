@@ -3,7 +3,6 @@
 title: Electric Blender Stick
 description: "If you’re looking for a way to make your kitchen life easier, then an electric blender stick might be just the appliance for you. ...get more info"
 keywords: blender
-publishDate: 1/31/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

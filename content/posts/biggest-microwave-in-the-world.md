@@ -3,7 +3,6 @@
 title: Biggest Microwave In The World
 description: "We all know that microwaves are a staple kitchen appliance in most households around the world. But did you know there is such a t...get more info"
 keywords: microwave
-publishDate: 5/17/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

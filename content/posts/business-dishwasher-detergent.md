@@ -3,7 +3,6 @@
 title: Business Dishwasher Detergent
 description: "If you own a restaurant, cafe, hotel or any other business that requires a dishwasher for cleaning, then you know that having the ...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 5/5/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

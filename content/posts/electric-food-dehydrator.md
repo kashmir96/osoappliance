@@ -3,7 +3,6 @@
 title: Electric Food Dehydrator
 description: "A food dehydrator is a helpful kitchen appliance that can help you preserve your food while maintaining its nutrients and flavor. ...learn more about it now"
 keywords: dehydrator
-publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

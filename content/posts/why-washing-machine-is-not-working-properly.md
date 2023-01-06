@@ -3,7 +3,6 @@
 title: Why Washing Machine Is Not Working
 description: "Most of us are familiar with the frustration of our washing machine not working properly. Before you contact an appliance repair t...continue on"
 keywords: washing machine
-publishDate: 3/21/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

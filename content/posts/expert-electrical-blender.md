@@ -3,7 +3,6 @@
 title: Expert Electrical Blender
 description: "When it comes to blenders, having an expert electrical blender can make all the difference. With its powerful motor and versatile ...find out now"
 keywords: blender
-publishDate: 5/2/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

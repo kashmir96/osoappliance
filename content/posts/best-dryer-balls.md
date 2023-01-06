@@ -3,7 +3,6 @@
 title: Best Dryer Balls
 description: "Dryer balls are a great way to reduce drying time, save energy, and soften clothes without using harsh chemicals. They are made fr...get more info"
 keywords: best dryer
-publishDate: 8/9/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

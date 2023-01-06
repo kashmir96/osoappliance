@@ -3,7 +3,6 @@
 title: Most Common Cooker
 description: "Cooking is one of the most enjoyable activities, but it can also be very dangerous if proper safety procedures are not followed. T...lets find out"
 keywords: most cooker
-publishDate: 1/5/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

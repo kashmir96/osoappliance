@@ -3,7 +3,6 @@
 title: Hair Dryer Nz Reviews
 description: "If you’re looking for a hair dryer to help you achieve beautiful, glossy locks, then researching hair dryer NZ reviews is a great ...find out now"
 keywords: hair dryer nz reviews
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

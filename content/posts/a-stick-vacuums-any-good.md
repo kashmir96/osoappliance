@@ -3,7 +3,6 @@
 title: A Stick Vacuums Any Good
 description: "Stick vacuums are becoming increasingly popular as an alternative to traditional upright vacuums. They are lightweight, compact, a...you wont regret reading on"
 keywords: vacuums
-publishDate: 6/8/2022
 tags: ["Vacuum"]
 author: Curtis
 categories: ["Household Appliances"]

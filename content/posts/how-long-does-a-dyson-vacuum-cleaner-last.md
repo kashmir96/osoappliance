@@ -3,7 +3,6 @@
 title: How Long Does A Dyson Vacuum Cleaner Last
 description: "When it comes to vacuum cleaners, Dyson is one of the most popular and reliable brands. But how long does a Dyson vacuum cleaner l...take a moment to check it out "
 keywords: vacuum last
-publishDate: 6/22/2022
 tags: ["Vacuum", "Appliance Consumption", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

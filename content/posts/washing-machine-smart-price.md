@@ -3,7 +3,6 @@
 title: Washing Machine Smart Price
 description: "Smart washing machines are a modern technological advancement that provides many benefits over traditional washing machines. While...find out now"
 keywords: washing machine smart
-publishDate: 4/4/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

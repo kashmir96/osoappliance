@@ -3,7 +3,6 @@
 title: Dishwasher Lower Door Seal
 description: "Dishwasher lower door seals are an important part of a dishwasher’s overall performance. The seal is a rubber gasket that fits aro...keep reading to learn"
 keywords: dishwasher
-publishDate: 11/29/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Washing Machines Need Transport Bolts But Dryers Dont
 description: "When it comes to laundry appliances, many people are unaware of the differences between washing machines and dryers. One of the ma...find out now"
 keywords: washing machines dryers
-publishDate: 7/20/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

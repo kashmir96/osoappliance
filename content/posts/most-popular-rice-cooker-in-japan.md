@@ -3,7 +3,6 @@
 title: Most Popular Rice Cooker In Japan
 description: "With a growing trend of healthy eating and convenience, the rice cooker has become an indispensable kitchen appliance in Japan and...scroll on and keep learning"
 keywords: most popular cooker
-publishDate: 1/27/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

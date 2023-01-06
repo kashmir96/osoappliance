@@ -3,7 +3,6 @@
 title: Which Appliance Brands Are From Nz
 description: "When it comes to appliances, New Zealanders have a wide range of options to choose from, though only one that has been founded and...check it out to learn"
 keywords: brands nz
-publishDate: 7/29/2022
 tags: ["New Zealand", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

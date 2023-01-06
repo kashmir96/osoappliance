@@ -3,7 +3,6 @@
 title: Dryer Or Drier
 description: "The correct spelling of the word is “dryer” and it refers to an appliance used to dry clothes, linens, and other fabrics. The drye...continue on"
 keywords: dryer drier
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

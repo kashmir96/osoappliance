@@ -3,7 +3,6 @@
 title: Oven Door Makes Noise When Opening
 description: "Opening an oven door can be a noisy task. Many people might think that the noise is just part of the process, but it could actuall...take a moment to check it out "
 keywords: oven
-publishDate: 1/11/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

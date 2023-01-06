@@ -3,7 +3,6 @@
 title: Biggest Microwave Convection Oven
 description: "Microwave convection ovens are one of the most versatile cooking appliances available. They combine the convenience of microwave c...take a moment to check it out "
 keywords: microwave oven
-publishDate: 5/14/2022
 tags: ["Oven", "Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

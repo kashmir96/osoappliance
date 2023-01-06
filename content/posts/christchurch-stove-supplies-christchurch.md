@@ -3,7 +3,6 @@
 title: Christchurch Stove Supplies Christchurch
 description: "If you live in the Christchurch area and your stove is in need of repair, you’ve come to the right place. There are a number of ex...see more detail"
 keywords: christchurch stove christchurch
-publishDate: 12/12/2022
 tags: ["Stove", "Christchurch", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

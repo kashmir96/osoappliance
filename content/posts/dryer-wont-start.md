@@ -3,7 +3,6 @@
 title: Dryer Wont Start
 description: If your dryer isn't starting, don't panic! Read on to find out what simple checks you can do before calling a repairman.
 keywords: dryer
-publishDate: 10/15/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

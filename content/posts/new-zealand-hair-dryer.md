@@ -3,7 +3,6 @@
 title: New Zealand Hair Dryer
 description: "New Zealand is home to a wide range of hair dryers that are designed to suit all types of hair. Whether you have fine, thick, curl...continue on"
 keywords: new zealand hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

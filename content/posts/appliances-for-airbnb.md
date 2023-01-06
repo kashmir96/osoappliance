@@ -3,7 +3,6 @@
 title: Appliances For Airbnb
 description: "If you’re an Airbnb host, you know how important it is to provide your guests with a comfortable and enjoyable experience. One key...learn about it in this post"
 keywords: appliances
-publishDate: 12/9/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: What Dryer Sheets Do
 description: "Dryer sheets are a common household essential used to make laundry smell great and soften fabric. But did you know that dryer shee...swipe up to find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

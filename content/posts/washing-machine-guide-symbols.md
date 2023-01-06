@@ -3,7 +3,6 @@
 title: Washing Machine Guide Symbols
 description: "Whether you’re looking to buy a new washing machine or just learning how to use the one you already have, understanding the guide ...keep going and find out"
 keywords: washing machine guide
-publishDate: 2/27/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Common Type Of Heat Pump
 description: "A heat pump is a device that uses mechanical energy to transfer thermal energy from one place to another. Heat pumps are commonly ...get the full scoop"
 keywords: most heat pump
-publishDate: 1/12/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

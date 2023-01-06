@@ -3,7 +3,6 @@
 title: Renting Appliances
 description: "Did you know that you can rent appliances for your home? It’s true. Home appliance rentals are becoming increasingly popular and o...get more detail"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

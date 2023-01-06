@@ -3,7 +3,6 @@
 title: Large Washing Machine Christchurch
 description: This post provides an overview of the different large washing machine options available in Christchurch, helping you find the best one to suit your needs - so read on to find out more!
 keywords: washing machine christchurch
-publishDate: 8/24/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

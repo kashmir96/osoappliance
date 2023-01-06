@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Cleaning Dishes
 description: "When you have a dirty dishwasher that isn’t cleaning dishes properly, it can be incredibly frustrating. Fortunately, there are a f...get more detail"
 keywords: dishwasher dishes
-publishDate: 11/10/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Lg Microwave
 description: "When it comes to microwave ovens, size matters. A large microwave oven offers more space for cooking larger meals and allows you t...learn more about it now"
 keywords: microwave
-publishDate: 5/8/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Simple Controls
 description: "Are you a first-time washer owner looking to learn more about the basic controls on your washing machine? With so many different m...check it out to learn"
 keywords: washing machine
-publishDate: 3/28/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

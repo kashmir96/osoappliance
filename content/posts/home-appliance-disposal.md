@@ -3,7 +3,6 @@
 title: Home Appliance Disposal
 description: "Getting rid of old home appliances can be a difficult task. Not only do you have to worry about safely disposing of them, but you ...get the full scoop"
 keywords: appliance disposal
-publishDate: 7/3/2023
 tags: ["Appliance Disposal", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

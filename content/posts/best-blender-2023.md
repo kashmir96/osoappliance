@@ -3,7 +3,6 @@
 title: Best Blender 2023
 description: "It’s always a challenge to find the best blender for your kitchen. With so many different models and brands out there, it can be h...you wont regret reading on"
 keywords: best blender 2023
-publishDate: 4/26/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
@@ -28,7 +27,6 @@ Whether you’re looking for a powerful yet easy-to-use blender perfect for ever
 title: Best Front Loader Washing Machine
 description: ""Are you looking for the best front loader washing machine? If so, you have come to the right place. Front-loading washing machines...check it out to learn""
 keywords: best washing machine
-publishDate: 4/27/2023
 tags: [""Washing Machine"", ""Laundry Appliances"", ""Clean Appliance"", ""Appliance Guide""]
 author: Curtis
 categories: [""Household Appliances""]
@@ -66,7 +64,6 @@ Price: Budget is always an important consideration when it comes to making a pur
 title: Best Juicer 2023
 description: ""If you're in the market for a new juicer in 2023, it's important to know what features to look for and which models are best. Afte...scroll on and keep learning""
 keywords: best juicer 2023
-publishDate: 4/28/2023
 tags: [""Kitchen Appliances"", ""Appliance Guide""]
 author: Curtis
 categories: [""Household Appliances""]

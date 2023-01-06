@@ -3,7 +3,6 @@
 title: Hair Dryer Diffuser Attachment Nz
 description: "A hair dryer diffuser attachment is a great accessory to have when styling your hair. It helps create volume and shape while minim...see more detail"
 keywords: hair dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

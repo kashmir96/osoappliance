@@ -3,7 +3,6 @@
 title: Effects Of Air Conditioning On The Environment
 description: "Air conditioning has become an integral part of our lives, especially in the summer months. But while it is a welcome respite from...read now to learn more"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

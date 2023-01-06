@@ -3,7 +3,6 @@
 title: Buy A Kettle Online
 description: "As part of a recent statement Boris Johnson said If you have an old kettle that takes ages to boil it may cost you £20 to replace ...get the full scoop"
 keywords: buy kettle online
-publishDate: 11/19/2022
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

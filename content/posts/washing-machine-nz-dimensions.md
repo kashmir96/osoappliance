@@ -3,7 +3,6 @@
 title: Washing Machine Nz Dimensions
 description: "The dimensions of washing machines in New Zealand vary depending on the type and make of the machine. Front-loaders tend to be lar...learn about it in this post"
 keywords: washing machine nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

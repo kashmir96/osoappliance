@@ -3,7 +3,6 @@
 title: Most Common Oven Problems
 description: "Ovens are an important appliance in every kitchen, so it’s important to be aware of the most common oven problems and how to diagn...see more detail"
 keywords: most oven
-publishDate: 7/24/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

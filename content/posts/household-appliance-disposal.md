@@ -3,7 +3,6 @@
 title: Household Appliance Disposal
 description: "If you’ve recently replaced some of your household appliances, you may be wondering how to properly dispose of them. Disposing of ...lets find out"
 keywords: appliance disposal
-publishDate: 7/8/2023
 tags: ["Appliance Disposal", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Fridge Makes Loud Clunk Noise
 description: "If your fridge is making a loud clunk noise, it can be unsettling and annoying. It may indicate that something is wrong with your ...keep going and find out"
 keywords: fridge
-publishDate: 11/18/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

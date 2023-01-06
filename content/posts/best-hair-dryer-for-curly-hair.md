@@ -3,7 +3,6 @@
 title: Best Hair Dryer For Curly Hair
 description: "If you have curly hair, you know the struggle of trying to find the perfect hair dryer. Curly hair is naturally more prone to friz...read now to learn more"
 keywords: best hair dryer
-publishDate: 8/20/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

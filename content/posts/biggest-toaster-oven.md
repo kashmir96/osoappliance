@@ -3,7 +3,6 @@
 title: Biggest Toaster Oven
 description: "A toaster oven is a kitchen appliance that many people use to cook and reheat food items. It's typically smaller than a regular ov...find out now"
 keywords: toaster oven
-publishDate: 6/7/2022
 tags: ["Oven", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

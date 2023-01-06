@@ -3,7 +3,6 @@
 title: Dishwasher Service Christchurch
 description: "When it comes to maintaining your dishwasher in Christchurch, regular service is key. Dishwashers require regular maintenance and ...keep going and find out"
 keywords: dishwasher christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

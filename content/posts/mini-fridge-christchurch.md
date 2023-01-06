@@ -3,7 +3,6 @@
 title: Mini Fridge Christchurch
 description: This post outlines how mini fridges are becoming popular in Christchurch, New Zealand, due to their efficient use of space and energy savings, so if you're looking for a way to keep your food and drinks cool in a small space, read on!
 keywords: fridge christchurch
-publishDate: 12/25/2022
 tags: ["Christchurch", "Appliances", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Big Oven Recipes
 description: "If you’ve been looking for a way to make dinner easier and more delicious, then BigOven is just the recipe app for you! With over ...lets find out"
 keywords: oven
-publishDate: 4/2/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Oven Roaster
 description: "An oven roaster is one of the most versatile kitchen appliances you can own. It can be used to roast everything from vegetables an...find out now"
 keywords: oven
-publishDate: 5/27/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Kitchen Appliance Brands
 description: "Kitchen appliances are essential for anyone who loves to cook and entertain. With so many options on the market, it can be difficu...get more detail"
 keywords: most popular kitchen appliance brands
-publishDate: 2/18/2022
 tags: ["Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

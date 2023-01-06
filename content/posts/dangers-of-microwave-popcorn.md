@@ -3,7 +3,6 @@
 title: Dangers Of Microwave Popcorn
 description: "Are you one of those people who love eating microwave popcorn? If so, you may want to think twice before reaching for it. While th...scroll on and keep learning"
 keywords: microwave
-publishDate: 12/12/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

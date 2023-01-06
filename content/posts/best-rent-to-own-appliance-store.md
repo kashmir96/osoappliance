@@ -3,7 +3,6 @@
 title: Best Rent To Own Appliance Store
 description: "Are you looking for the best rent-to-own appliance store? Rent-to-own appliance stores offer an excellent way to purchase househol...continue on"
 keywords: best appliance store
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

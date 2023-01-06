@@ -3,7 +3,6 @@
 title: Small Appliances Nz
 description: "Small appliances are a great way to give your home the convenience and luxury of modern appliances without having to break the ban...find out now"
 keywords: appliances nz
-publishDate: 1/11/2023
 tags: ["New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

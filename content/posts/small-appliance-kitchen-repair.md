@@ -3,7 +3,6 @@
 title: Small Appliance Kitchen Repair
 description: "When it comes to kitchen repairs, small appliances are often overlooked. But a malfunctioning or broken kitchen appliance can be a...get more detail"
 keywords: appliance kitchen repair
-publishDate: 12/2/2022
 tags: ["Heat Pump", "Appliance Repair", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

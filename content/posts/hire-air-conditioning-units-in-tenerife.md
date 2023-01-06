@@ -3,7 +3,6 @@
 title: Hire Air Conditioning Units In Tenerife
 description: "The importance of air conditioning units in Tenerife cannot be overstated. Located in the Canary Islands off the coast of Africa, ...get the full scoop"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

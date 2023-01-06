@@ -3,7 +3,6 @@
 title: Dishwasher Why Timer
 description: "When it comes to running a dishwasher, the timer is one of the most important features. The timer helps to ensure that your dishes...learn about it in this post"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

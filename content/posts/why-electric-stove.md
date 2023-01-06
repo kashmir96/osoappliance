@@ -3,7 +3,6 @@
 title: Why Electric Stove
 description: "When it comes to choosing a stove for your kitchen, electric stoves have become increasingly popular in recent years. They offer a...keep reading to learn"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

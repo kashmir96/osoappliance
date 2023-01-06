@@ -3,7 +3,6 @@
 title: Trieste Dryer Reviews
 description: "Trieste dryers are some of the best on the market, offering a variety of features that make them a great choice for any laundry ro...continue on"
 keywords: dryer reviews
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

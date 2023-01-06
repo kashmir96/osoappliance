@@ -3,7 +3,6 @@
 title: Dishwasher Always Leaves Residue
 description: "If you’ve ever noticed that your dishwasher leaves residue on your dishes, you’re not alone. This is a common problem that many pe...see more"
 keywords: dishwasher
-publishDate: 10/9/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

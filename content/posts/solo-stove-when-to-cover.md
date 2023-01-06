@@ -3,7 +3,6 @@
 title: Solo Stove When To Cover
 description: "If you’re looking for a way to cook outdoors without the hassle of an open fire, then a Solo Stove is the perfect solution. The So...scroll on and keep learning"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

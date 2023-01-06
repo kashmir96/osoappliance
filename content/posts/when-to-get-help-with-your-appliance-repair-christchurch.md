@@ -3,7 +3,6 @@
 title: When To Get Help With Your Appliance Repair Christchurch
 description: "Appliance repair in Christchurch is a service that many homeowners turn to when their appliances are not working correctly. Whethe...keep reading to learn"
 keywords: appliance repair christchurch
-publishDate: 8/2/2022
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

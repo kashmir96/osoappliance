@@ -3,7 +3,6 @@
 title: Most Common Dishwasher Repairs
 description: "When it comes to dishwasher repairs, the majority of problems homeowners experience are relatively simple and straightforward. Com...get more info"
 keywords: most dishwasher
-publishDate: 3/10/2022
 tags: ["Heat Pump", "Dishwasher", "Appliance Repair", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Not To Use Just Answer For Appliance Repairs
 description: "When it comes to appliance repairs, you may be tempted to use a service like Just Answer for the convenience and low cost. However...get more detail"
 keywords: use appliance
-publishDate: 4/21/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

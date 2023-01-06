@@ -3,7 +3,6 @@
 title: Biggest Laundry Machines
 description: "When it comes to laundry, bigger is often better. After all, who wants to do several loads of laundry when you can get it all done...learn about it in this post"
 keywords: laundry
-publishDate: 5/5/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

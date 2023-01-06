@@ -3,7 +3,6 @@
 title: Oven How It Works
 description: "An oven is a kitchen appliance used to heat food. It uses either electricity or gas to produce heat, which is then transferred to ...get the full scoop"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

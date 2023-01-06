@@ -3,7 +3,6 @@
 title: Rent Commercial Dishwasher
 description: "In a commercial kitchen, the key to success is having the right equipment. A commercial dishwasher is a must-have for any restaura...take a moment to check it out "
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

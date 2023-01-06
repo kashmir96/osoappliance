@@ -3,7 +3,6 @@
 title: Appliance Repairs Auckland
 description: "If you live in Auckland and find yourself in need of an appliance repair, then you’ve come to the right place. With a variety of e...check it out to learn"
 keywords: appliance
-publishDate: 9/8/2021
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

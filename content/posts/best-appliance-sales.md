@@ -3,7 +3,6 @@
 title: Best Appliance Sales
 description: "With the holiday season in full swing, now is the perfect time to find the best deals on the latest appliances. Whether you’re in ...see more"
 keywords: best sales
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

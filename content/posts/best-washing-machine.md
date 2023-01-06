@@ -3,7 +3,6 @@
 title: Best Washing Machine
 description: "When it comes to shopping for a washing machine, there are a lot of different factors to consider. From size and capacity to energ...find out now"
 keywords: best washing machine
-publishDate: 9/10/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

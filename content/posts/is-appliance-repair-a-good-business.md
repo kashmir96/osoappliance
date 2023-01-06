@@ -3,7 +3,6 @@
 title: Is Appliance Repair A Good Business
 description: "Appliance repair is a great business opportunity for people looking to make a living working with their hands. Appliances are an e...get more info"
 keywords: appliance repair
-publishDate: 6/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

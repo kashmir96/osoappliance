@@ -3,7 +3,6 @@
 title: Buy A Kettle Boris
 description: "boris johnson said If you have an old kettle that takes ages to boil it may cost you £20 to replace it, but if you get a new one, ...keep going and find out"
 keywords: buy kettle
-publishDate: 11/18/2022
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

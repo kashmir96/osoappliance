@@ -3,7 +3,6 @@
 title: Domestic Appliance Repairs
 description: "Household appliances are a vital part of modern life. From the refrigerator that keeps our food cold to the washing machine that c...see more detail"
 keywords: appliance
-publishDate: 10/31/2021
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

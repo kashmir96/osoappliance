@@ -3,7 +3,6 @@
 title: Nationwide Appliance Repairs
 description: "Are you in the market for an appliance repair service? If so, you may be wondering whether to go with a large nationwide provider ...check it out to learn"
 keywords: appliance
-publishDate: 1/8/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Appliance Brands
 description: "When you’re shopping for new appliances, it can be hard to decide which brand to choose. With so many options, it can be overwhelm...find out now"
 keywords: most popular appliance brands
-publishDate: 2/16/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

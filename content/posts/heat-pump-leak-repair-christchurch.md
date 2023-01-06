@@ -3,7 +3,6 @@
 title: Heat Pump Leak Repair Christchurch
 description: If you've noticed a leak in your heat pump in Christchurch, read this post to learn what steps you can take to repair it and get your system running again.
 keywords: heat pump repair christchurch
-publishDate: 9/12/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair", "Heat Pump"]
 author: Curtis
 categories: ["Appliances Christchurch"]

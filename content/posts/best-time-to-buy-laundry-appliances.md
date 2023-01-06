@@ -3,7 +3,6 @@
 title: Best Time To Buy Laundry Appliances
 description: "When it comes to laundry appliances, timing is everything. You don't want to buy a new washer or dryer when they're about to go on...get more info"
 keywords: best buy laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

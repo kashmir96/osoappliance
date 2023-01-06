@@ -3,7 +3,6 @@
 title: Most Common Heater Problems
 description: "If you’re having trouble with your heater, you’re not alone. Heater problems are among the most common issues homeowners face in w...learn more about it now"
 keywords: most heater
-publishDate: 1/15/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

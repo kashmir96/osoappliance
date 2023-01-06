@@ -3,7 +3,6 @@
 title: Most Commonly Used Rice Cooker
 description: "Rice cookers are an incredibly useful kitchen tool for making perfectly cooked rice that doesn't require constant stirring or chec...read now to learn more"
 keywords: most cooker
-publishDate: 1/26/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

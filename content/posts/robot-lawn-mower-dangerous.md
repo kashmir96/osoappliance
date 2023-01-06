@@ -3,7 +3,6 @@
 title: Robot Lawn Mower Dangerous
 description: "In recent years, robot lawn mowers have become increasingly popular as a way to make lawn care easier. While these machines are co...see more detail"
 keywords: 
-publishDate: 25/12/2022
 tags: ["Appliance Rules and Regulations"]
 author: Curtis
 categories: ["Household Appliances"]

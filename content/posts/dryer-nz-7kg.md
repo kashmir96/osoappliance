@@ -3,7 +3,6 @@
 title: Dryer Nz 7Kg
 description: "If you’re looking for a new dryer in New Zealand, the 7kg size is the most common choice. This size is perfect for households of u...get more info"
 keywords: dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

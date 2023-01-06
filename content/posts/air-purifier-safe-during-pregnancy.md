@@ -3,7 +3,6 @@
 title: Air Purifier Safe During Pregnancy
 description: "Pregnancy is a delicate time for expecting mothers, and ensuring their health and safety is of the utmost importance. An air purif...keep going and find out"
 keywords: air purifier
-publishDate: 4/12/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

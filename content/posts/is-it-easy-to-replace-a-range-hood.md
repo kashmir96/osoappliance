@@ -3,7 +3,6 @@
 title: Is It Easy To Replace A Range Hood
 description: "Replacing a range hood can be a straightforward DIY project for someone with basic home improvement skills. However, it is importa...keep going and find out"
 keywords: replace range
-publishDate: 12/25/2022
 tags: ["Stove", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

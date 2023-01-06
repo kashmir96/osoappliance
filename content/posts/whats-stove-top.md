@@ -3,7 +3,6 @@
 title: Whats Stove Top
 description: "Stovetop is a type of cookware that is used to prepare food on the stove. It consists of a base, usually made of metal, with sever...keep going and find out"
 keywords: stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

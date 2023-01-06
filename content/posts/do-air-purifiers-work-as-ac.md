@@ -3,7 +3,6 @@
 title: Do Air Purifiers Work As Ac
 description: "Air purifiers are a great way to keep your home’s air clean and free from allergens and pollutants. But do they work as well as an...learn about it in this post"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

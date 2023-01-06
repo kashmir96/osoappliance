@@ -3,7 +3,6 @@
 title: How To Dispose Of Air Purifier Filter
 description: "Air purifiers are a great way to reduce the amount of airborne particles and contaminants in your home. However, over time, air pu...see more"
 keywords: how to dispose air purifier
-publishDate: 12/15/2022
 tags: ["Heat Pump", "Appliance Disposal", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

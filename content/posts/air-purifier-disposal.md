@@ -3,7 +3,6 @@
 title: Air Purifier Disposal
 description: "Are you looking to get rid of your old air purifier? If so, you are not alone! Air purifiers can be great for improving indoor air...take a moment to check it out "
 keywords: air purifier disposal
-publishDate: 3/21/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

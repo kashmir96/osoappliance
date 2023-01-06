@@ -3,7 +3,6 @@
 title: Bosch Dishwasher Repairs Christchurch
 description: "As Bosch dishwashers are becoming increasingly popular in Christchurch, it is important to know about Bosch dishwasher repairs. Fo...keep reading to learn"
 keywords: bosch dishwasher christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Appliance Repair", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

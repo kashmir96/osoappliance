@@ -3,7 +3,6 @@
 title: How Much Is A Tumble Dryer
 description: "A tumble dryer is an appliance that uses heated air to dry clothes and other fabrics. It is a convenient way to dry clothes quickl...get the full scoop"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

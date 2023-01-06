@@ -3,7 +3,6 @@
 title: Biggest Countertop Microwave
 description: "Countertop microwaves are an essential appliance for many households, as they provide a convenient way to quickly heat up food. Wi...you wont regret reading on"
 keywords: microwave
-publishDate: 4/25/2022
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

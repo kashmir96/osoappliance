@@ -3,7 +3,6 @@
 title: Laundry Machine Best Practices
 description: "Are you in the market for a new washing machine, but don’t want to pay full price? Purchasing a second-hand washing machine can be...scroll on and keep learning"
 keywords: laundry best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

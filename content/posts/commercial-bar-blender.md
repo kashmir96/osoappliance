@@ -3,7 +3,6 @@
 title: Commercial Bar Blender
 description: "A commercial bar blender is an essential piece of equipment for any bar, restaurant, or other foodservice establishment. It allows...keep reading to learn"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

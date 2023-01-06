@@ -3,7 +3,6 @@
 title: Consumer Nz Hair Dryers
 description: "Are you in the market for a new hair dryer? If so, you may have heard of Consumer NZ, an independent consumer research organizatio...check it out to learn"
 keywords: nz dryers
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How To Stay Warm With A Heat Pump
 description: "If you’re looking for a reliable, efficient way to heat your home, consider a heat pump. Heat pumps are an increasingly popular fo...see more"
 keywords: how to heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

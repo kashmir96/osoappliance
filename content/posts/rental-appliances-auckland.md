@@ -3,7 +3,6 @@
 title: Rental Appliances Auckland
 description: "If you’re looking for reliable rental appliances in Auckland, you’ve come to the right place. Rental appliances are becoming incre...get more info"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

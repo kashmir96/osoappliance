@@ -3,7 +3,6 @@
 title: Rocket Stove What Is
 description: "A rocket stove is an efficient and hot burning stove using small-diameter wood fuel. It is designed to burn wood fuel with a high ...keep going and find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

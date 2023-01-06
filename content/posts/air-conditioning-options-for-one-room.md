@@ -3,7 +3,6 @@
 title: Air Conditioning Options For One Room
 description: "If you are looking to cool down just one room in your home, you have several air conditioning options to choose from. The best opt...get more detail"
 keywords: air
-publishDate: 7/1/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

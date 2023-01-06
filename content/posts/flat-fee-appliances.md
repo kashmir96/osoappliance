@@ -3,7 +3,6 @@
 title: Flat Fee Appliances
 description: "Flat fee appliances are quickly becoming the new standard for appliance purchases. In this blog, we’ll explain what flat fee appli...get the full scoop"
 keywords: appliances
-publishDate: 12/30/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

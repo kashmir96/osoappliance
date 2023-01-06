@@ -3,7 +3,6 @@
 title: Risk Of Legionnaires Disease From Air Conditioning
 description: "Air conditioning is a common comfort feature in many homes and businesses. Unfortunately, if not properly maintained, air conditio...get more detail"
 keywords: air
-publishDate: 4/4/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

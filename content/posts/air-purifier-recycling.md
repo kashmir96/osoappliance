@@ -3,7 +3,6 @@
 title: Air Purifier Recycling
 description: "Air purifiers are essential appliances for many homeowners and businesses, but disposing of them can be tricky. While air purifier...learn about it in this post"
 keywords: air purifier
-publishDate: 4/1/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

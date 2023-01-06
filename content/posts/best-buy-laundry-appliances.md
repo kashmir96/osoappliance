@@ -3,7 +3,6 @@
 title: Best Buy Laundry Appliances
 description: "When it comes to purchasing a new laundry appliance, timing is everything. Knowing when to buy can mean the difference between get...keep reading to learn"
 keywords: best buy laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

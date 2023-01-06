@@ -3,7 +3,6 @@
 title: Big Air Conditioning And Heating
 description: "Big air conditioning and heating systems are large-scale, commercial and industrial systems that provide climate control solutions...get the full scoop"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer What Is Condenser
 description: "A condenser dryer is a type of clothes dryer that uses a condenser to dry clothes. Instead of using hot air to evaporate the moist...get more info"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

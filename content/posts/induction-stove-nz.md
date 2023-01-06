@@ -3,7 +3,6 @@
 title: Induction Stove Nz
 description: "If you’re looking for a more efficient and versatile way to cook, an induction stove can be a great choice. An induction stove is ...learn more about it now"
 keywords: stove nz
-publishDate: 12/12/2022
 tags: ["Stove", "New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

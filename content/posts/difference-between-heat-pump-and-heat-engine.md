@@ -3,7 +3,6 @@
 title: Difference Between Heat Pump And Heat Engine
 description: "Heat pumps and heat engines are two different types of energy conversion devices used to produce thermal energy. A heat pump utili...keep going and find out"
 keywords: heat pump
-publishDate: 11/25/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

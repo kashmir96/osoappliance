@@ -3,7 +3,6 @@
 title: Best Kitchen Appliances In India
 description: "Are you looking to upgrade your kitchen appliances in India? Well, look no further! With the latest technology and innovative desi...lets find out"
 keywords: best kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

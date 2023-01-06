@@ -3,7 +3,6 @@
 title: Washing Machine Inverter Pros And Cons
 description: "When it comes to modern washing machines, inverter technology is becoming increasingly popular. Inverter washing machines are ener...lets find out"
 keywords: washing machine
-publishDate: 4/26/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

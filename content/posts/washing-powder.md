@@ -3,7 +3,6 @@
 title: Washing Powder
 description: "Washing powder is one of the most essential items in any laundry room. It helps to remove dirt and stains from clothes, leaving th...lets find out"
 keywords: washing
-publishDate: 02/02/2022
 tags: ["Washing Machine", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

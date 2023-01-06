@@ -3,7 +3,6 @@
 title: Kitchen Appliance Packages Nz
 description: "If you’re looking to purchase a complete kitchen appliance package for your new home, there are plenty of options available in New...get more detail"
 keywords: kitchen nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

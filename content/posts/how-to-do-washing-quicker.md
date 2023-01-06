@@ -3,7 +3,6 @@
 title: How To Do Washing Quicker
 description: "Are you looking for ways to speed up your laundry routine? If so, you’ve come to the right place! Doing laundry can be a time-cons...keep reading to learn"
 keywords: how to washing
-publishDate: 6/27/2022
 tags: ["Washing Machine", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Vent Best
 description: "Dryer vent maintenance is an important part of keeping your home safe and efficient. Neglecting to maintain a dryer vent can lead ...read now to learn more"
 keywords: dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

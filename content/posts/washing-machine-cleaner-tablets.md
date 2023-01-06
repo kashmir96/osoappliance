@@ -3,7 +3,6 @@
 title: Washing Machine Cleaner Tablets
 description: "Have you ever noticed a strange odor coming from your washing machine? You're not alone! Every now and then, your washing machine ...get more info"
 keywords: washing machine
-publishDate: 1/28/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

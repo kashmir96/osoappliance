@@ -3,7 +3,6 @@
 title: Fridge Makes Buzzing Noise
 description: "Do you hear a continuous buzzing noise coming from your refrigerator? There’s no need to panic, this is a common problem and there...read now to learn more"
 keywords: fridge
-publishDate: 11/14/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

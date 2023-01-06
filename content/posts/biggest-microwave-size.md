@@ -3,7 +3,6 @@
 title: Biggest Microwave Size
 description: "Microwaves are a staple appliance in most kitchens, and they come in a variety of sizes to suit your needs. But when it comes to t...get more info"
 keywords: microwave
-publishDate: 5/19/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

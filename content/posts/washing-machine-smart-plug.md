@@ -3,7 +3,6 @@
 title: Washing Machine Smart Plug
 description: "Are you looking to upgrade your laundry routine? The newest option on the market is a washing machine smart plug that can revoluti...see more"
 keywords: washing machine smart
-publishDate: 4/3/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

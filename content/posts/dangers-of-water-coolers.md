@@ -3,7 +3,6 @@
 title: Dangers Of Water Coolers
 description: "It's no secret that water coolers are a convenient way to have fresh, cool drinking water at any time. But with convenience often ...you wont regret reading on"
 keywords: water
-publishDate: 12/12/2022
 tags: ["Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

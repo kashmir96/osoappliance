@@ -3,7 +3,6 @@
 title: Dryer Machine Used For Sale
 description: "Dryer machines are essential household appliances that make laundry day much easier. They allow you to quickly dry your clothes, s...check it out to learn"
 keywords: dryer sale
-publishDate: 1/7/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

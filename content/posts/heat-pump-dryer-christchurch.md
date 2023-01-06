@@ -3,7 +3,6 @@
 title: Heat Pump Dryer Christchurch
 description: "Heat pump dryers are a great way to reduce the energy consumption of your laundry in Christchurch, New Zealand. Heat pump dryers u...swipe up to find out"
 keywords: heat pump dryer christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Christchurch", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

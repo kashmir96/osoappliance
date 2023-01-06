@@ -3,7 +3,6 @@
 title: Automatic Washing Machine Pros And Cons
 description: "Are air purifiers good for health? The short answer is yes! Air purifiers can be a great way to improve the indoor air quality of ...see more detail"
 keywords: washing machine
-publishDate: 4/25/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

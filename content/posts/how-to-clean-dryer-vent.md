@@ -3,7 +3,6 @@
 title: How To Clean Dryer Vent
 description: "Cleaning your dryer vent is an essential part of regular home maintenance. Not only does it help keep your dryer running efficient...learn more about it now"
 keywords: how to clean dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

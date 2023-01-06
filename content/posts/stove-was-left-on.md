@@ -3,7 +3,6 @@
 title: Stove Was Left On
 description: "If you’ve ever left a stove on and forgotten about it, you know it can be a terrifying experience. Not only is there the potential...learn more about it now"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

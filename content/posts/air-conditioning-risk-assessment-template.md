@@ -3,7 +3,6 @@
 title: Air Conditioning Risk Assessment Template
 description: "An air conditioning risk assessment template is an important safety tool that helps businesses and other organizations identify po...find out now"
 keywords: air
-publishDate: 7/17/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

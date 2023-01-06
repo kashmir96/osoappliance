@@ -3,7 +3,6 @@
 title: Most Popular Robot Vacuum Cleaner
 description: "Robot vacuums have become increasingly popular in recent years, offering a convenient and efficient way to clean your home. A robo...learn more"
 keywords: most popular vacuum
-publishDate: 2/24/2022
 tags: ["Vacuum", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

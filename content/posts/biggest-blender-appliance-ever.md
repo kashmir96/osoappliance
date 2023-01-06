@@ -3,7 +3,6 @@
 title: Biggest Blender Appliance Ever
 description: "If you’re looking for the biggest blender appliance ever, then look no further than the Vitamix 5200. This incredible blender appl...get more info"
 keywords: blender appliance
-publishDate: 4/17/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

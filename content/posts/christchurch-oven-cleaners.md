@@ -3,7 +3,6 @@
 title: Christchurch Oven Cleaners
 description: "Christchurch oven cleaners are a great way to keep your oven clean and in good condition. Ovens are used frequently in the home, s...learn more"
 keywords: christchurch oven
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

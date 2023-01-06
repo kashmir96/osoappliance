@@ -3,7 +3,6 @@
 title: Where Stove Is Used
 description: "Stoves are an important part of modern life, and they can be found in a variety of places. From residential homes to commercial ki...scroll on and keep learning"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

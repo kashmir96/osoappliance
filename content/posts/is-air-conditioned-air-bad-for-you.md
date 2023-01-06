@@ -3,7 +3,6 @@
 title: Is Air Conditioned Air Bad For You
 description: "Air-conditioned air is a staple of modern life, used to cool homes and places of work around the world. But is this conditioned ai...check it out to learn"
 keywords: air air
-publishDate: 12/23/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Appliance Color 2021
 description: "As the kitchen is often a focal point in the home, appliance colors can have a big impact on the overall aesthetic. Since 2021 is ...learn about it in this post"
 keywords: most popular
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

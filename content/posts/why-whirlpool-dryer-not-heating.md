@@ -3,7 +3,6 @@
 title: Why Whirlpool Dryer Not Heating
 description: "When your Whirlpool dryer isn't heating up, it can be a major inconvenience. Luckily, there are a few things you can check to see ...get more info"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Smells Like Burning Plastic
 description: "If your dryer smells like burning plastic, it could be a sign of a serious problem. Burning plastic smells can indicate that somet...check it out to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

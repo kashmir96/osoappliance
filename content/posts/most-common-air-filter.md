@@ -3,7 +3,6 @@
 title: Most Common Air Filter
 description: "Air filters are an important part of home HVAC systems. They help to remove pollutants from the air, keeping you and your family s...continue on"
 keywords: most air
-publishDate: 3/3/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

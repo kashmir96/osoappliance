@@ -3,7 +3,6 @@
 title: The Risks Of Replacing The Main Pcb Of Washing Machine
 description: "As washing machines become more advanced, it is becoming increasingly common for consumers to attempt to replace the main printed ...scroll on and keep learning"
 keywords: washing machine
-publishDate: 1/1/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

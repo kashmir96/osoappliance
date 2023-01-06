@@ -3,7 +3,6 @@
 title: Does No Stovetop Mean No Oven
 description: "No stovetop does not necessarily mean no oven. While a stovetop is typically used to cook food on the stove, an oven is used to ba...get the full scoop"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven", "Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

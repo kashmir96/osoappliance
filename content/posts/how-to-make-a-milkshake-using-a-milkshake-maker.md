@@ -3,7 +3,6 @@
 title: How To Make A Milkshake Using A Milkshake Maker
 description: "Making a milkshake using a milkshake maker is an easy and fun way to get your daily dose of creamy, delicious goodness. All you ne...learn about it in this post"
 keywords: how to milkshake maker
-publishDate: 12/17/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

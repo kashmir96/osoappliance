@@ -3,7 +3,6 @@
 title: Commercial Dishwasher Brand Names
 description: "Are you in the market for a new commercial dishwasher? With so many brand names available, it can be hard to decide which one is b...see more"
 keywords: dishwasher brand
-publishDate: 6/8/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

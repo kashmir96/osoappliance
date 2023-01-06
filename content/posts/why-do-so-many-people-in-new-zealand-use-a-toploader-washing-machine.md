@@ -3,7 +3,6 @@
 title: Why Do So Many People In New Zealand Use A Toploader Washing Machine
 description: "When it comes to washing machines, New Zealanders have a clear preference: the Toploader. This iconic appliance has been a staple ...lets find out"
 keywords: new zealand use washing machine
-publishDate: 7/25/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Appliance Consumption", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

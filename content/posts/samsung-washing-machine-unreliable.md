@@ -3,7 +3,6 @@
 title: Samsung Washing Machine Unreliable
 description: "Samsung washing machines have been the go-to appliance for many households in recent times. However, these machines have been know...see more detail"
 keywords: samsung washing machine unreliable
-publishDate: 1/12/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Brand", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

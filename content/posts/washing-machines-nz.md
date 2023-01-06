@@ -3,7 +3,6 @@
 title: Washing Machines Nz
 description: "Washing machines are an invaluable tool in the home, and with so many different models available on the New Zealand market it can ...check it out to learn"
 keywords: washing machines nz
-publishDate: 12/12/2022
 tags: [""]
 author: Curtis
 categories: ["Household Appliances"]

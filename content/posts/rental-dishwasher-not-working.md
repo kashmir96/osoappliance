@@ -3,7 +3,6 @@
 title: Rental Dishwasher Not Working
 description: "If your rental dishwasher isn't working, it's important to determine what the problem is and take the appropriate steps to fix it....check it out to learn"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

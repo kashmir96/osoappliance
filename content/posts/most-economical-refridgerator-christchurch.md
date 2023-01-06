@@ -3,7 +3,6 @@
 title: Most Economical Refridgerator Christchurch
 description: If you're looking for a new refrigerator for your home in Christchurch, this post is a must-read, as it provides an overview of the most economical models on the market, so you can make an informed decision. Keep reading to learn more!
 keywords: refridgerator christchurch
-publishDate: 12/20/2022
 tags: ["Christchurch", "Appliances", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

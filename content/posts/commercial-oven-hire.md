@@ -3,7 +3,6 @@
 title: Commercial Oven Hire
 description: "Commercial ovens are essential equipment in any commercial kitchen. Whether you’re running a restaurant, catering business, or hot...keep reading to learn"
 keywords: oven
-publishDate: 1/18/2023
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

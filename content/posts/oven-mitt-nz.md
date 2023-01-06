@@ -3,7 +3,6 @@
 title: Oven Mitt Nz
 description: "An oven mitt is an essential kitchen item used to protect your hands when handling hot items. Whether you're taking a baking dish ...learn about it in this post"
 keywords: oven nz
-publishDate: 12/12/2022
 tags: ["Oven", "New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

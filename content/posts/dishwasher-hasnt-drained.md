@@ -3,7 +3,6 @@
 title: Dishwasher Hasnt Drained
 description: "If your dishwasher isn’t draining properly, it can be a real headache. Not only does it leave your dishes dirty, but it can also l...continue on"
 keywords: dishwasher
-publishDate: 10/31/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

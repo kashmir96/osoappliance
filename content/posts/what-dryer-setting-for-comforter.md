@@ -3,7 +3,6 @@
 title: What Dryer Setting For Comforter
 description: "When it comes to washing and drying a comforter, it’s important to use the right settings. Using the wrong settings can cause your...learn more about it now"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

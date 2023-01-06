@@ -3,7 +3,6 @@
 title: Dyson Accessories Hair Dryer
 description: "The Dyson Supersonic Hair Dryer is a revolutionary hair dryer that has revolutionized the way people style their hair. It features...find out now"
 keywords: hair dryer
-publishDate: 6/24/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

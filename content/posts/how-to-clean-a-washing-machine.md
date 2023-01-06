@@ -3,7 +3,6 @@
 title: How To Clean A Washing Machine
 description: This post outlines easy steps to clean a washing machine, providing the reader with an efficient way to keep their laundry fresh and odour-free - read on to learn how to do it!
 keywords: how to washing machine
-publishDate: 12/27/2022
 tags: ["Washing Machine", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

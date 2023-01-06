@@ -3,7 +3,6 @@
 title: Electric Air Conditioning Compressor
 description: "An electric air conditioning compressor is a device that allows you to cool your home or office with the help of electricity. It w...keep reading to learn"
 keywords: air
-publishDate: 5/27/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

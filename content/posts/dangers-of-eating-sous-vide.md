@@ -3,7 +3,6 @@
 title: Dangers Of Eating Sous Vide
 description: "When it comes to cooking, sous vide is one of the hottest trends. However, while this popular cooking method may offer some delici...take a moment to check it out "
 keywords: sous
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

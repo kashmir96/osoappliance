@@ -3,7 +3,6 @@
 title: How To Get More Life Out Of A Washing Machine
 description: "If you want to get the most life out of your washing machine, there are a few simple steps you can take to make sure it runs as ef...read now to learn more"
 keywords: how to washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

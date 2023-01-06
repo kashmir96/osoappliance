@@ -3,7 +3,6 @@
 title: Fridge Repairs Chch
 description: "When it comes to fridge repairs in Christchurch, you want to make sure that your appliance is repaired properly and quickly. A bro...check it out to learn"
 keywords: fridge chch
-publishDate: 8/18/2021
 tags: ["Heat Pump", "Christchurch", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

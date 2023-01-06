@@ -3,7 +3,6 @@
 title: Dryer Where Can I Buy
 description: "If you’re in the market for a new dryer, there are a few things you should consider before you make your purchase. A dryer is an e...learn about it in this post"
 keywords: dryer buy
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

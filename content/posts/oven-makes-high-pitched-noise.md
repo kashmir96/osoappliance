@@ -3,7 +3,6 @@
 title: Oven Makes High Pitched Noise
 description: "If you’ve ever heard a high-pitched noise coming from your oven, you’re not alone. This is a common issue that can be caused by a ...scroll on and keep learning"
 keywords: oven
-publishDate: 1/14/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

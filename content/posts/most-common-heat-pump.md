@@ -3,7 +3,6 @@
 title: Most Common Heat Pump
 description: "Heat pumps are incredibly efficient and versatile systems that provide both heating and cooling in one unit. However, like all sys...learn about it in this post"
 keywords: most heat pump
-publishDate: 1/7/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

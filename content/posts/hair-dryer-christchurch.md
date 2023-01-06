@@ -3,7 +3,6 @@
 title: Hair Dryer Christchurch
 description: "A hair dryer is an essential tool for most people. Whether you’re looking to style your hair for a special occasion or just want t...swipe up to find out"
 keywords: hair dryer christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Christchurch", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

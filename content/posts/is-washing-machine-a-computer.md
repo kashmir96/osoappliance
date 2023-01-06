@@ -3,7 +3,6 @@
 title: Is Washing Machine A Computer
 description: "A washing machine is a common household appliance used to clean clothes and other fabrics. Although it may seem like a simple mach...you wont regret reading on"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

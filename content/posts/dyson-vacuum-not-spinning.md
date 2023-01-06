@@ -3,7 +3,6 @@
 title: Dyson Vacuum Not Spinning
 description: "If you’ve recently purchased a Dyson vacuum cleaner and it’s not spinning, there could be a few different reasons why. In this blo...learn more about it now"
 keywords: vacuum
-publishDate: 6/6/2022
 tags: ["Vacuum"]
 author: Curtis
 categories: ["Household Appliances"]

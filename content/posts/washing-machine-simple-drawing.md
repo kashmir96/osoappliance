@@ -3,7 +3,6 @@
 title: Washing Machine Simple Drawing
 description: "Have you ever wanted to draw a washing machine? Drawing a washing machine is not as complicated as it may seem. With just a few si...keep reading to learn"
 keywords: washing machine
-publishDate: 3/29/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dyson Fan Vs Normal Fan
 description: "When it comes to cooling down your home, the two most popular options are a normal fan and a Dyson fan. But what’s the difference ...scroll on and keep learning"
 keywords: fan fan
-publishDate: 12/27/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

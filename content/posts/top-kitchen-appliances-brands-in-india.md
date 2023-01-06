@@ -3,7 +3,6 @@
 title: Top Kitchen Appliances Brands In India
 description: "When it comes to choosing kitchen appliances, there is a plethora of options available in the Indian market. With such a wide sele...keep reading to learn"
 keywords: top kitchen appliances brands
-publishDate: 7/15/2022
 tags: ["Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

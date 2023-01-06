@@ -3,7 +3,6 @@
 title: Most Common Dishwasher Size
 description: "When it comes to purchasing a dishwasher, size is an important factor to consider. Generally speaking, there are three common size...get more detail"
 keywords: most dishwasher
-publishDate: 1/15/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Conditioning Residential Best Practice Guideline Nsw
 description: "Air conditioning is an essential part of life in many parts of Australia. In New South Wales, air conditioning is especially impor...see more detail"
 keywords: air best
-publishDate: 7/13/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

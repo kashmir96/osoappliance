@@ -3,7 +3,6 @@
 title: Are There Any New Zealand Brand Appliances
 description: "New Zealand is known for its abundance of natural resources and its commitment to sustainability. In recent years, the country has...read now to learn more"
 keywords: new zealand brand
-publishDate: 7/8/2022
 tags: ["New Zealand", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

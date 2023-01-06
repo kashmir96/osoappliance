@@ -3,7 +3,6 @@
 title: Comparing A Front Loader To A Toploader
 description: "When it comes to washing machines, there are two main types of machines to choose from: front loaders and top loaders. Each type o...take a moment to check it out "
 keywords: 
-publishDate: 7/23/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

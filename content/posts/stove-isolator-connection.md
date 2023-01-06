@@ -3,7 +3,6 @@
 title: Stove Isolator Connection
 description: "Stove isolator connections are a type of electrical connection used to safely disconnect a stove from the power source. This type ...scroll on and keep learning"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

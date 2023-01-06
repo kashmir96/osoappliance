@@ -3,7 +3,6 @@
 title: Electric Blender Amazon
 description: "If you’re looking for a kitchen appliance that can help you quickly and easily blend ingredients together, then an electric blende...learn about it in this post"
 keywords: blender
-publishDate: 1/27/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

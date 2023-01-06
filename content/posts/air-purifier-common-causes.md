@@ -3,7 +3,6 @@
 title: Air Purifier Common Causes
 description: "Are you considering buying an air purifier? It’s a great way to improve the quality of your indoor air and your overall health. He...get the full scoop"
 keywords: air purifier
-publishDate: 3/14/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

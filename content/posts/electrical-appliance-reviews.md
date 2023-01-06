@@ -3,7 +3,6 @@
 title: Electrical Appliance Reviews
 description: "Electrical appliances are an essential part of modern life, and with the ever-increasing array of choices available, it can be dif...learn more about it now"
 keywords: appliance reviews
-publishDate: 1/15/2023
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

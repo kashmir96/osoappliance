@@ -3,7 +3,6 @@
 title: Small Appliances Repair
 description: "If you’re like most people, small appliances are a staple in your home. From coffee makers to blenders and food processors, these ...you wont regret reading on"
 keywords: appliances repair
-publishDate: 1/14/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

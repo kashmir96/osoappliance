@@ -3,7 +3,6 @@
 title: Alliance Laundry Equipment
 description: "Alliance Laundry Equipment is a leading provider of commercial laundry equipment for coin and on-premise laundromats, apartment bu...swipe up to find out"
 keywords: laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Where To Put Washing Machine Soap
 description: "If you’re wondering where to put washing machine soap, the answer is simple: directly into the washing machine drum. Most modern w...keep reading to learn"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Hair Dryer Diffuser Best
 description: "A hair dryer diffuser is a great tool for creating volume and curl in your hair. But knowing how to use a diffuser properly can be...see more"
 keywords: hair dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

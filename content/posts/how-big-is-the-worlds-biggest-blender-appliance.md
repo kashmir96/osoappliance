@@ -3,7 +3,6 @@
 title: How Big Is The Worlds Biggest Blender Appliance
 description: "The world’s biggest blender appliance is a whopping 12 feet tall, weighing in at over 6 tons. The giant blender is made by Blendte...learn more about it now"
 keywords: blender appliance
-publishDate: 6/10/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Commercial Milkshake Blender
 description: "A commercial milkshake blender is an essential tool for any foodservice operation that serves milkshakes. Not only do they make th...keep reading to learn"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

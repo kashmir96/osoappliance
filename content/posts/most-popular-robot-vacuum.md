@@ -3,7 +3,6 @@
 title: Most Popular Robot Vacuum
 description: "Robot vacuums have become one of the most popular home appliances on the market. With their ever-increasing popularity, it’s no wo...learn more"
 keywords: most popular vacuum
-publishDate: 2/19/2022
 tags: ["Vacuum", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

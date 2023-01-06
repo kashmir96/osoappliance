@@ -3,7 +3,6 @@
 title: Hair Dryer When
 description: "Hair dryers are a staple hair styling tool for many people, but knowing when to use them is just as important as knowing how. Whil...scroll on and keep learning"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

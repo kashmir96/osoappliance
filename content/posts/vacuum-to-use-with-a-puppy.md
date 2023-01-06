@@ -3,7 +3,6 @@
 title: Vacuum To Use With A Puppy
 description: "If you’re a new puppy parent, you may be wondering how to clean up the inevitable messes that come with having a furry friend in y...learn more about it now"
 keywords: vacuum use
-publishDate: 6/12/2022
 tags: ["Vacuum", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

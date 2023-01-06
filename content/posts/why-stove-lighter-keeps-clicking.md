@@ -3,7 +3,6 @@
 title: Why Stove Lighter Keeps Clicking
 description: "Stove lighters are an essential tool for lighting gas stoves, but if your stove lighter is continuously clicking, it can be frustr...you wont regret reading on"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

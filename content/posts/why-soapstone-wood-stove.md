@@ -3,7 +3,6 @@
 title: Why Soapstone Wood Stove
 description: "When it comes to heating your home, a soapstone wood stove is one of the best choices you can make. Not only are soapstone stoves ...take a moment to check it out "
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Laundry Detergent Industry Statistics
 description: "The laundry detergent industry is an ever-evolving one, with new products popping up every day. But what do the statistics say abo...learn more about it now"
 keywords: laundry
-publishDate: 12/21/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

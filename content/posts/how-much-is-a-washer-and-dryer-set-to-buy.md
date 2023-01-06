@@ -3,7 +3,6 @@
 title: How Much Is A Washer And Dryer Set
 description: "Are you in the market for a new washer and dryer set? Shopping for brand-new appliances can be overwhelming, and one of the bigges...you wont regret reading on"
 keywords: dryer set
-publishDate: 12/26/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

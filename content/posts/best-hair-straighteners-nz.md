@@ -3,7 +3,6 @@
 title: Best Hair Straighteners Nz
 description: If you’re looking for the best hair straighteners in New Zealand, you’ve come to the right place! With so many different types of ...learn more
 keywords: best nz
-publishDate: 12/12/2022
 tags: ["Heat Pump|New Zealand|Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Place To Get Appliances In Christchurch
 description: If you're looking to buy appliances in Christchurch, this post is for you! Read on to find out where to shop for the best deals.
 keywords: appliances christchurch
-publishDate: 8/29/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

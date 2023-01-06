@@ -3,7 +3,6 @@
 title: Microwaves Used In Radar System Are
 description: "Microwaves are a form of electromagnetic radiation, and they play an important role in the operation of radar systems. Radar syste...get more info"
 keywords: 
-publishDate: 3/22/2023
 tags: ["Microwave", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

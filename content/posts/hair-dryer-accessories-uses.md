@@ -3,7 +3,6 @@
 title: Hair Dryer Accessories Uses
 description: "Hair dryers are an essential tool for creating a variety of hairstyles, from smooth and straight to voluminous curls. But the basi...take a moment to check it out "
 keywords: hair dryer uses
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

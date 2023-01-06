@@ -3,7 +3,6 @@
 title: Books About Appliance Repair
 description: "When it comes to appliance repair, books can be an invaluable resource. Whether you’re a professional appliance repair technician ...you wont regret reading on"
 keywords: appliance repair
-publishDate: 12/13/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

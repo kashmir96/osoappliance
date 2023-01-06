@@ -3,7 +3,6 @@
 title: How To Learn Refrigeration And Air Conditioning
 description: "Refrigeration and air conditioning are very important elements of modern life. They keep our homes cool in the summer and warm in ...check it out to learn"
 keywords: how to air
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Commercial Appliance Repair Training
 description: "There is a growing demand for skilled technicians to repair and maintain commercial appliances, such as food service equipment, ic...check it out to learn"
 keywords: appliance repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

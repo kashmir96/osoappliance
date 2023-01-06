@@ -3,7 +3,6 @@
 title: Appliance Plus Christchurch
 description: "As the city of Christchurch continues to grow, so do its demands for efficient, reliable and convenient appliances. With the ever-...see more detail"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

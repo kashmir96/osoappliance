@@ -3,7 +3,6 @@
 title: Oven Parts Christchurch
 description: "If you’re looking for oven parts in Christchurch, New Zealand, you’ve come to the right place! In this blog post, we’ll be discuss...find out now"
 keywords: oven parts christchurch
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

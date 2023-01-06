@@ -3,7 +3,6 @@
 title: Air Conditioning Large Spaces
 description: "Air conditioning large spaces is an important part of maintaining a comfortable environment in public places, such as offices, gym...get more detail"
 keywords: air
-publishDate: 6/18/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

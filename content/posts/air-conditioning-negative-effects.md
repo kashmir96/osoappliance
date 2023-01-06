@@ -3,7 +3,6 @@
 title: Air Conditioning Negative Effects
 description: "Air conditioning has become a staple of modern life, providing us with a cool and comfortable atmosphere in homes, offices, and ot...learn more about it now"
 keywords: air
-publishDate: 6/23/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

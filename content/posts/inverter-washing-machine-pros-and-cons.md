@@ -3,7 +3,6 @@
 title: Inverter Washing Machine Pros And Cons
 description: "Inverter washing machines are the latest advancement in laundry technology. An inverter washing machine is more efficient and quie...you wont regret reading on"
 keywords: washing machine
-publishDate: 12/21/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

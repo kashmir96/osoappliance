@@ -3,7 +3,6 @@
 title: Small Appliance Kitchen Circuit
 description: "Small appliance kitchen circuits are one of the most important elements in any electrical system. They are the primary source of p...get more detail"
 keywords: appliance kitchen
-publishDate: 12/3/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

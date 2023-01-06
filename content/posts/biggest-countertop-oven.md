@@ -3,7 +3,6 @@
 title: Biggest Countertop Oven
 description: "Countertop ovens are becoming increasingly popular, as they offer a convenient way to cook food quickly and easily. They are espec...see more"
 keywords: oven
-publishDate: 4/26/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Sous Vide Vacuum
 description: "Sous vide is a popular cooking method that involves sealing food in a bag and then cooking it in a water bath. Vacuum sealers are ...get more info"
 keywords: most popular sous vacuum
-publishDate: 2/6/2022
 tags: ["Vacuum", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Kettle Takes Energy
 description: "Kettles are one of the most essential household appliances in many parts of the world, and they use energy to heat up water for a ...learn about it in this post"
 keywords: kettle energy
-publishDate: 3/24/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: What Dryer Setting Should I Use
 description: "When it comes to doing your laundry, one of the most important decisions you have to make is which dryer setting to use. Depending...swipe up to find out"
 keywords: dryer use
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

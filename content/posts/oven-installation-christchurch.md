@@ -3,7 +3,6 @@
 title: Oven Installation Christchurch
 description: "If you are looking for oven installation services in Christchurch, then you will be pleased to know that there are many reliable a...get more detail"
 keywords: oven installation christchurch
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

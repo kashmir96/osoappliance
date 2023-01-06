@@ -3,7 +3,6 @@
 title: Why Are Kettles So Loud
 description: "Kettles are loud because of their design and functions. They are typically made from metal, which amplifies sound waves and conduc...see more detail"
 keywords: 
-publishDate: 1/3/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

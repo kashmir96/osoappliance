@@ -3,7 +3,6 @@
 title: Commercial Blender Heavy Duty
 description: "A commercial blender is an essential kitchen appliance for any business that serves food or beverages. These blenders are designed...get the full scoop"
 keywords: blender
-publishDate: 4/13/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

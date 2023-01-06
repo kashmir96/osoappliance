@@ -3,7 +3,6 @@
 title: Home Appliance Brands In Usa
 description: "The United States is home to some of the most popular and well-known home appliance brands in the world. From refrigerators and di...scroll on and keep learning"
 keywords: appliance brands
-publishDate: 7/2/2023
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

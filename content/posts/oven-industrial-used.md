@@ -3,7 +3,6 @@
 title: Oven Industrial Used
 description: "Ovens have been a staple in the industrial manufacturing process and have been used to create products for many industries. From b...continue on"
 keywords: oven
-publishDate: 1/26/2023
 tags: ["Oven", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

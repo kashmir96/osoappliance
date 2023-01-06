@@ -3,7 +3,6 @@
 title: Work Out Useful Life Depreciation Of Air Conditioner With An App To Work Out Tax
 description: "Depreciation is a tax deduction that allows you to claim the cost of an asset over its useful life. That means if you buy a new ai...learn more about it now"
 keywords: air conditioner
-publishDate: 4/3/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

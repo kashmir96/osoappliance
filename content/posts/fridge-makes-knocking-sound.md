@@ -3,7 +3,6 @@
 title: Fridge Makes Knocking Sound
 description: "Does your fridge make a knocking noise every now and then? If so, you may be wondering what is causing this strange sound and whet...keep reading to learn"
 keywords: fridge
-publishDate: 11/17/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

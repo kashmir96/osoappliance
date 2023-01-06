@@ -3,7 +3,6 @@
 title: Rent Apoliances Nz
 description: "Rent Appliances NZ is an online store that specializes in providing New Zealanders with top quality, affordable and energy efficie...you wont regret reading on"
 keywords: nz
-publishDate: 12/12/2022
 tags: ["New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

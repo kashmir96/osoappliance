@@ -3,7 +3,6 @@
 title: Best Way To Clean Dishwasher
 description: "Cleaning your dishwasher is an important part of keeping your kitchen clean and hygienic. Not only does a clean dishwasher help ke...lets find out"
 keywords: best clean dishwasher
-publishDate: 9/21/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

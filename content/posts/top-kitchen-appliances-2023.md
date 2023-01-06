@@ -3,7 +3,6 @@
 title: Top Kitchen Appliances 2023
 description: "The kitchen is the heart of the home and appliances are what make it truly special. As technology advances, kitchen appliances are...learn about it in this post"
 keywords: top kitchen appliances 2023
-publishDate: 7/14/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

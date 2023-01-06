@@ -3,7 +3,6 @@
 title: How To Get A Mouse Out Of Your Dryer
 description: "If you’ve ever found a mouse in your dryer, you know it can be a stressful situation. Not only is it unpleasant, but it can also b...check it out to learn"
 keywords: how to dryer
-publishDate: 6/30/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

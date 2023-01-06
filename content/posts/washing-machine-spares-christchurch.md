@@ -3,7 +3,6 @@
 title: Washing Machine Spares Christchurch
 description: "If you’re looking for washing machine spares in Christchurch, you’ve come to the right place! Whether you need a new drum, hose, o...learn more about it now"
 keywords: washing machine christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

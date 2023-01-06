@@ -3,7 +3,6 @@
 title: Electrical Appliances Consumption Chart
 description: "The electrical appliances consumption chart is a helpful tool for understanding how much energy is used in your home. This chart c...find out now"
 keywords: appliances consumption chart
-publishDate: 6/19/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

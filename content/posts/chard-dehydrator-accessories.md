@@ -3,7 +3,6 @@
 title: Chard Dehydrator Accessories
 description: "Dehydrators are great appliances for making dried fruits, vegetables and more. They can also be used to make jerky and other snack...read now to learn more"
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

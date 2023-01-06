@@ -3,7 +3,6 @@
 title: Washing Machine Easy Fix
 description: "Are you having trouble with your washing machine? Don’t worry, it may not be as difficult to fix as you might think. There are a f...read now to learn more"
 keywords: washing machine fix
-publishDate: 2/19/2023
 tags: ["Washing Machine", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

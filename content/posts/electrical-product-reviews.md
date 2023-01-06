@@ -3,7 +3,6 @@
 title: Electrical Product Reviews
 description: "When it comes to purchasing electrical products, having reliable product reviews can help you make the best buying decision. Knowi...scroll on and keep learning"
 keywords: reviews
-publishDate: 1/17/2023
 tags: ["Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

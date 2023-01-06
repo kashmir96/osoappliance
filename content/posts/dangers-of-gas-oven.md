@@ -3,7 +3,6 @@
 title: Dangers Of Gas Oven
 description: "Gas ovens are often seen as the most efficient and convenient way to cook, but they can also be dangerous if not used properly. Re...continue on"
 keywords: gas oven
-publishDate: 12/12/2022
 tags: ["Oven", "Stove"]
 author: Curtis
 categories: ["Household Appliances"]

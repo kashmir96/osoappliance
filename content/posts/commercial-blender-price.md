@@ -3,7 +3,6 @@
 title: Commercial Blender Price
 description: "When it comes to commercial blenders, you get what you pay for. Commercial blenders are more powerful and durable than the average...keep reading to learn"
 keywords: blender
-publishDate: 4/10/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

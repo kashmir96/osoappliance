@@ -3,7 +3,6 @@
 title: Washing Machine Cleaning Powder
 description: "If you want to keep your washing machine running in top condition, you need to use a good quality washing machine cleaning powder....read now to learn more"
 keywords: washing machine
-publishDate: 2/3/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

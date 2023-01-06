@@ -3,7 +3,6 @@
 title: Electric Cooker Price
 description: "Are you looking to buy an electric cooker? If so, you may be wondering what the average price of an electric cooker is. In this bl...see more detail"
 keywords: cooker
-publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

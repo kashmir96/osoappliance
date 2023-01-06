@@ -3,7 +3,6 @@
 title: Dishwasher Nz
 description: "Dishwashers are a great way to make your life easier and save time in the kitchen. In New Zealand, dishwashers are becoming increa...keep going and find out"
 keywords: dishwasher nz
-publishDate: 12/12/2022
 tags: ["Dishwasher", "New Zealand", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dangers Of Air Purifier Ionizers
 description: "We’ve all heard of air purifiers and the many benefits they can provide us with in regards to improving our indoor air quality. Ho...you wont regret reading on"
 keywords: air purifier
-publishDate: 12/29/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

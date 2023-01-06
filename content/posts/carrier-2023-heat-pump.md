@@ -3,7 +3,6 @@
 title: Carrier 2023 Heat Pump
 description: "If you’re looking for an efficient and reliable way to heat your home, the Carrier 2023 heat pump is a great option. The Carrier 2...keep reading to learn"
 keywords: 2023 heat pump
-publishDate: 5/17/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Oven Gloves
 description: "Oven gloves, also known as pot holders, are an essential item for any kitchen. They provide heat protection from hot dishes and pa...read now to learn more"
 keywords: most popular oven
-publishDate: 7/29/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

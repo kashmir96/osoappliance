@@ -3,7 +3,6 @@
 title: Can Water Filters Cause Health Issues
 description: "Water filters are important components of any home, providing clean and safe drinking water. While they can be valuable investment...keep reading to learn"
 keywords: water
-publishDate: 12/12/2022
 tags: ["Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

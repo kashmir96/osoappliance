@@ -3,7 +3,6 @@
 title: Dryer Washer
 description: "If you’re in the market for a new washer and dryer, you may be wondering what the difference is between a dryer washer and a regul...scroll on and keep learning"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

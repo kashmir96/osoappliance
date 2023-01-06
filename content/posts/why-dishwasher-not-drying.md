@@ -3,7 +3,6 @@
 title: Why Dishwasher Not Drying
 description: "If you’ve noticed that your dishwasher isn’t drying dishes as well as it used to, there could be a few different issues causing th...see more detail"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

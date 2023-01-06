@@ -3,7 +3,6 @@
 title: Dangers Of Wood Stoves
 description: "Wood stoves are a great option for those seeking an alternative to traditional heating sources. However, there are some dangers as...get the full scoop"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

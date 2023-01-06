@@ -3,7 +3,6 @@
 title: Washing Machine Makes Clothes Smell
 description: "Having a washing machine that leaves your clothes smelling bad can be incredibly frustrating. Fortunately, there are some simple s...continue on"
 keywords: washing machine
-publishDate: 2/13/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

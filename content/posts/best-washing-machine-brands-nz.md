@@ -3,7 +3,6 @@
 title: Best Washing Machine Brands Nz
 description: If you're looking for the best washing machine brands in New Zealand, you should read this post! We've compiled a list of the top-rated brands and highlighted some of their best models.
 keywords: washing machine nz
-publishDate: 6/26/2022
 tags: ["Washing Machine", "Appliances", New Zealand]
 author: Curtis
 categories: ["Appliances Christchurch"]

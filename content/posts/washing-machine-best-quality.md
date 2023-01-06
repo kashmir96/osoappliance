@@ -3,7 +3,6 @@
 title: Washing Machine Best Quality
 description: "Are you in the market for a new washing machine? With so many options available, it can be difficult to decide which one is right ...get more detail"
 keywords: washing machine best
-publishDate: 1/23/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

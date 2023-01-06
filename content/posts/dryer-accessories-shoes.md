@@ -3,7 +3,6 @@
 title: Dryer Accessories Shoes
 description: "When it comes to doing laundry, the dryer is just as important as the washer. But what about those extra items that turn your dryi...take a moment to check it out "
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

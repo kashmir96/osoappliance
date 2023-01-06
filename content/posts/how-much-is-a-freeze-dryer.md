@@ -3,7 +3,6 @@
 title: How Much Is A Freeze Dryer
 description: "A freeze dryer is a specialized piece of equipment used to preserve food, pharmaceuticals, and other materials. It works by freezi...see more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

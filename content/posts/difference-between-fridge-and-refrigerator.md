@@ -3,7 +3,6 @@
 title: Difference Between Fridge And Refrigerator
 description: "When it comes to purchasing a new cooling appliance, it can be difficult to decide between a fridge and refrigerator. Although bot...get the full scoop"
 keywords: fridge
-publishDate: 4/13/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Dutch Oven
 description: "A Dutch oven is a large cooking pot with a lid that is made from cast iron or ceramic. It is commonly used to cook stews, soups, r...get the full scoop"
 keywords: oven
-publishDate: 4/28/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

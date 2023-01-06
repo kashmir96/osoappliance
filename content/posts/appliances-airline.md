@@ -3,7 +3,6 @@
 title: Appliances Airline
 description: "If you have recently been on a trip, you may have noticed the many appliances airline air hostesses use to make sure passengers ha...you wont regret reading on"
 keywords: appliances
-publishDate: 12/14/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

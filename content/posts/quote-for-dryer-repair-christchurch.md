@@ -3,7 +3,6 @@
 title: Quote For Dryer Repair Christchurch
 description: If you're experiencing a problem with your dryer in Christchurch, this post will show you how professional repair services can help get it running again; read on to find out more.
 keywords: dryer repair christchurch
-publishDate: 12/14/2022
 tags: ["Christchurch", "Dryer", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

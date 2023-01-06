@@ -3,7 +3,6 @@
 title: How Long Should A Dishwasher Last
 description: Find out how long a dishwasher should last and how to maintain it for optimum performance in this informative article - so read on now!
 keywords: dishwasher
-publishDate: 8/18/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

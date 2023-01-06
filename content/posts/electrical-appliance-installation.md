@@ -3,7 +3,6 @@
 title: Electrical Appliance Installation
 description: "Installing electrical appliances can be a daunting task, especially if you’re not familiar with the process. In this blog post, we...swipe up to find out"
 keywords: appliance installation
-publishDate: 6/8/2023
 tags: ["Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

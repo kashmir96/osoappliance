@@ -3,7 +3,6 @@
 title: Why Stove Top Covers
 description: "Stove top covers are an essential part of any kitchen. They are designed to provide both safety and convenience. Here are a few re...scroll on and keep learning"
 keywords: stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

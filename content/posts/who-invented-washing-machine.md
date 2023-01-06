@@ -3,7 +3,6 @@
 title: Who Invented Washing Machine
 description: "The invention of the washing machine is credited to Jacob Christian Schäffer, a German inventor who created the first washing mach...continue on"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

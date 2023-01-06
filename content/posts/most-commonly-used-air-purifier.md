@@ -3,7 +3,6 @@
 title: Most Commonly Used Air Purifier
 description: "Air purifiers are becoming increasingly popular as people become more aware of the dangers of air pollutants. An air purifier is a...take a moment to check it out "
 keywords: most air purifier
-publishDate: 3/1/2022
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Much Is A Mini Fridge
 description: "A mini fridge is a great way to keep food and drinks cold in a small space. But how much does one cost? The answer depends on what...read now to learn more"
 keywords: mini fridge
-publishDate: 12/19/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

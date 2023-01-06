@@ -3,7 +3,6 @@
 title: Biggest Air Fryer Oven
 description: "An air fryer oven is a type of kitchen appliance that uses hot air to cook food. It is an alternative to traditional deep-frying a...get more detail"
 keywords: air oven
-publishDate: 4/6/2022
 tags: ["Heat Pump", "Oven"]
 author: Curtis
 categories: ["Household Appliances"]

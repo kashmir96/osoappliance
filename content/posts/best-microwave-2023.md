@@ -3,7 +3,6 @@
 title: Best Microwave 2023
 description: "If you are looking for the best microwave of 2023, you have come to the right place. With so many models on the market, it can be ...continue on"
 keywords: best microwave 2023
-publishDate: 4/29/2023
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

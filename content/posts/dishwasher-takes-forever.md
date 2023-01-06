@@ -3,7 +3,6 @@
 title: Dishwasher Takes Forever
 description: "A dishwasher is an appliance that washes dishes, glasses, cups, and other utensils. While it is a convenient kitchen device for bu...find out now"
 keywords: dishwasher
-publishDate: 3/6/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

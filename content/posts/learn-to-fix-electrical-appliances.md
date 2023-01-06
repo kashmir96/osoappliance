@@ -3,7 +3,6 @@
 title: Learn To Fix Electrical Appliances
 description: "Do you ever wonder why it’s so hard to find someone who can repair your electrical appliances? The truth is, not many people know ...get more detail"
 keywords: fix appliances
-publishDate: 25/12/2022
 tags: ["Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

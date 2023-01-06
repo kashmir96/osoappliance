@@ -3,7 +3,6 @@
 title: Washing Machine Pc Repair Charges
 description: "If you own a washing machine, then you know that repairs can be expensive. The good news is that with proper maintenance and a few...learn about it in this post"
 keywords: washing machine repair
-publishDate: 2/17/2023
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Hair Dryer Brand
 description: "Hair dryers are essential beauty tools used to blow-dry, style and maintain the health of your hair. There are a lot of different ...you wont regret reading on"
 keywords: most popular hair dryer brand
-publishDate: 3/15/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

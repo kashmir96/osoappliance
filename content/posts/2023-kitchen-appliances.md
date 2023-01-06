@@ -3,7 +3,6 @@
 title: 2023 Kitchen Appliances
 description: "The kitchen has always been a place of innovation and exploration when it comes to technology, and 2023 is no different. With the ...learn more"
 keywords: 2023 kitchen appliances
-publishDate: 3/6/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

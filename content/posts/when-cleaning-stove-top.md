@@ -3,7 +3,6 @@
 title: When Cleaning Stove Top
 description: "Cooking up delicious meals is a great way to bring the family together, but it’s important to remember that keeping your stove top...swipe up to find out"
 keywords: stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Buying Appliances As A Flat
 description: "Are you a flat owner and looking for appliances that will make your home more comfortable and modern? Congratulations on taking th...find out now"
 keywords: buying appliances
-publishDate: 1/20/2023
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

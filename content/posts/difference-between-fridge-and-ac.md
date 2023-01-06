@@ -3,7 +3,6 @@
 title: Difference Between Fridge And Ac
 description: "When it comes to cooling appliances, two of the most popular items are refrigerators and air conditioners. While they both offer a...keep reading to learn"
 keywords: fridge
-publishDate: 4/20/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

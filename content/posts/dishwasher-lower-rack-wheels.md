@@ -3,7 +3,6 @@
 title: Dishwasher Lower Rack Wheels
 description: "If you’ve ever opened your dishwasher and noticed that the lower rack isn’t sliding in and out as smoothly as it should, the probl...keep reading to learn"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Air Purifier In India
 description: "Air purifiers are increasingly being used in India, as air pollution levels continue to rise. With the increasing demand for air p...read now to learn more"
 keywords: most popular air purifier
-publishDate: 2/26/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

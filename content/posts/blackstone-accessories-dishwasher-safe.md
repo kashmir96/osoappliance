@@ -3,7 +3,6 @@
 title: Blackstone Accessories Dishwasher Safe
 description: "When it comes to kitchen accessories, Blackstone Accessories dishwasher safe items are some of the best on the market. Their produ...continue on"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

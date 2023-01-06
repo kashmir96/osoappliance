@@ -3,7 +3,6 @@
 title: Most Popular Robot Vacuum For Carpet
 description: "Robot vacuums are the perfect solution for busy households and those who want to keep their carpets spick and span with minimal ef...learn more about it now"
 keywords: most popular vacuum
-publishDate: 2/23/2022
 tags: ["Vacuum", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

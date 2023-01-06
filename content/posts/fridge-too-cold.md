@@ -3,7 +3,6 @@
 title: Fridge Too Cold
 description: If your food is frozen in your refrigerator, you should read this blog to learn why your fridge is too cold and how to fix it. Continue reading to find out more.
 keywords: fridge
-publishDate: 10/10/2022
 tags: ["Appliances", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Ninja Commercial Blender
 description: "If you’re in the market for a powerful, versatile blender that can handle just about any job, then you should consider the Ninja C...continue on"
 keywords: blender
-publishDate: 6/22/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

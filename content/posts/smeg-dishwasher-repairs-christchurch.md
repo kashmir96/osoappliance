@@ -3,7 +3,6 @@
 title: Smeg Dishwasher Repairs Christchurch
 description: "If you live in Christchurch and own a Smeg dishwasher, then you may find yourself in need of repairs at some point. Fortunately, t...find out now"
 keywords: dishwasher christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Appliance Repair", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

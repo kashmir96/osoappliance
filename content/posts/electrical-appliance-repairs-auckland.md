@@ -3,7 +3,6 @@
 title: Electrical Appliance Repairs Auckland
 description: "When something goes wrong with your electrical appliances, it can be difficult to know where to turn. If you live in Auckland, you...learn more about it now"
 keywords: appliance
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

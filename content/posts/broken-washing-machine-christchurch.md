@@ -3,7 +3,6 @@
 title: Broken Washing Machine Christchurch
 description: If you have a broken washing machine in Christchurch, read on for tips on how to get it fixed quickly and easily - don't wait and waste money to go to the laundromat!
 keywords: washing machine christchurch
-publishDate: 7/29/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

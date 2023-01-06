@@ -3,7 +3,6 @@
 title: Best Dishwasher
 description: "A dishwasher is an essential appliance for any kitchen, but with so many models and features available, it can be hard to choose t...scroll on and keep learning"
 keywords: best dishwasher
-publishDate: 8/5/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

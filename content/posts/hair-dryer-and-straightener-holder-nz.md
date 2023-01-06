@@ -3,7 +3,6 @@
 title: Hair Dryer And Straightener Holder Nz
 description: "If you’ve ever been in a rush to get ready and had to search around your bathroom for your hair dryer or straightener, then you kn...check it out to learn"
 keywords: hair dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Appliance Disposal", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

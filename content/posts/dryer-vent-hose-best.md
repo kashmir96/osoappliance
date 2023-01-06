@@ -3,7 +3,6 @@
 title: Dryer Vent Hose Best
 description: "As a homeowner, it is important to understand the basics of dryer vent hose best practices. Dryer vent hoses are essential for kee...get more info"
 keywords: dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

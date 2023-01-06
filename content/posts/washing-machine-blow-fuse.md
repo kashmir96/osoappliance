@@ -3,7 +3,6 @@
 title: Washing Machine Blow Fuse
 description: If your washing machine is blowing fuses, it could be a sign of a problem with the washer or an issue with the electrical circuit. Read on to learn more.
 keywords: washing machine
-publishDate: 6/24/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

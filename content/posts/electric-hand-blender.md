@@ -3,7 +3,6 @@
 title: Electric Hand Blender
 description: "A hand blender, also known as an immersion blender or wand blender, is a kitchen tool that blends and purees ingredients quickly a...learn more about it now"
 keywords: blender
-publishDate: 3/22/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

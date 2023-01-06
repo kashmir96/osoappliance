@@ -3,7 +3,6 @@
 title: Dryer Isnt Turning
 description: "If your clothes dryer isn't turning, then you may have a problem that needs to be addressed. Here are some possible causes of why ...you wont regret reading on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

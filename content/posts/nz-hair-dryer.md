@@ -3,7 +3,6 @@
 title: Nz Hair Dryer
 description: "If you're looking for a great place to buy a hair dryer in New Zealand, you've come to the right place. Hair dryers are a must-hav...check it out to learn"
 keywords: nz hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

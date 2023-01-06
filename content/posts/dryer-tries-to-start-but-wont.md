@@ -3,7 +3,6 @@
 title: Dryer Tries To Start But Wont
 description: "If your dryer tries to start but won't, there are a few potential causes that could be preventing it from working properly. In thi...see more detail"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

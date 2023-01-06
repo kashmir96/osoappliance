@@ -3,7 +3,6 @@
 title: Best Washing Machine Nz
 description: "When it comes to buying a washing machine, it can be difficult to know which one is the best for you. With so many different types...see more"
 keywords: best washing machine nz
-publishDate: 9/18/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

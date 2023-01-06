@@ -3,7 +3,6 @@
 title: Types Of Electric Cooker
 description: "An electric cooker is a stove that uses electricity to heat and cook food. They come in a variety of styles, sizes, and designs, d...lets find out"
 keywords: cooker
-publishDate: 6/1/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Oven Where To Buy
 description: "If you're looking for a new oven, you have plenty of options to choose from. Whether you're looking for a high-end model or a more...keep going and find out"
 keywords: oven buy
-publishDate: 12/12/2022
 tags: ["Oven", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

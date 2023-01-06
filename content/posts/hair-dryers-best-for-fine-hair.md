@@ -3,7 +3,6 @@
 title: Hair Dryers Best For Fine Hair
 description: "When it comes to styling fine hair, the wrong hair dryer can make a world of difference. If you have fine hair, you know that it c...get more info"
 keywords: dryers best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

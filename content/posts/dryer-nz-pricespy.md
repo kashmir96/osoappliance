@@ -3,7 +3,6 @@
 title: Dryer Nz Pricespy
 description: "Shopping for a new dryer in New Zealand can be a daunting task. With so many brands and models available, it can be hard to know w...get the full scoop"
 keywords: dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

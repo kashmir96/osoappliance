@@ -3,7 +3,6 @@
 title: Best Washer Dryer Combo Australia
 description: "If you are looking to up your laundry your best bet could be a washer dryer combo if you're from Australia. That's because it’s a ...read now to learn more"
 keywords: best dryer
-publishDate: 11/11/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

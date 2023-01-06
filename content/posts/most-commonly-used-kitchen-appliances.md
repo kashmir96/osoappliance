@@ -3,7 +3,6 @@
 title: Most Commonly Used Kitchen Appliances
 description: "In the world of modern kitchen appliances, there are so many options to choose from. With so much choice, it can be difficult to d...learn more"
 keywords: most kitchen appliances
-publishDate: 2/1/2022
 tags: ["Kitchen Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Stove Isnt Working
 description: "If your stove isn't working, don't panic! There are a few simple steps you can take to troubleshoot and identify the source of the...learn about it in this post"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

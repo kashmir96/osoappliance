@@ -3,7 +3,6 @@
 title: 2023 Dishwasher
 description: "The dishwasher has long been an essential appliance in the home, but with technological advancements over the years, this humble m...see more"
 keywords: 2023 dishwasher
-publishDate: 2/24/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

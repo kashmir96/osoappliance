@@ -3,7 +3,6 @@
 title: What Time Of Year Do New Appliances Come Out
 description: "If you’re in the market for a new appliance, you may be wondering when the best time of year to purchase one is. The answer depend...read now to learn more"
 keywords: appliances
-publishDate: 2/24/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Appliance Storage Kitchen
 description: "When it comes to optimizing your kitchen storage, appliances should be a key consideration. Your small kitchen appliances are esse...find out now"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

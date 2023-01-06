@@ -3,7 +3,6 @@
 title: Dishwasher Has No Power
 description: "Are you having trouble with your dishwasher not having any power? This can be a frustrating issue, but luckily there are some step...get the full scoop"
 keywords: dishwasher power
-publishDate: 10/26/2022
 tags: ["Dishwasher", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryers Used In Food Industry
 description: "Most people are familiar with dryers, but when it comes to their use in the food industry, the average consumer may not know where...scroll on and keep learning"
 keywords: dryers
-publishDate: 1/10/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

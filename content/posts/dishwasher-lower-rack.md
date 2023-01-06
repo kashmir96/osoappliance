@@ -3,7 +3,6 @@
 title: Dishwasher Lower Rack
 description: "The lower rack of a dishwasher is an essential part of the dishwashing process. It is designed to be the main area where your dish...see more detail"
 keywords: dishwasher
-publishDate: 11/30/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

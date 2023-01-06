@@ -3,7 +3,6 @@
 title: Guide To Buying Air Conditioner
 description: "Buying an air conditioner can be a daunting task, especially if you don’t know what to look for. Whether you’re replacing an old a...continue on"
 keywords: guide buying air conditioner
-publishDate: 7/5/2022
 tags: ["Heat Pump", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

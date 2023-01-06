@@ -3,7 +3,6 @@
 title: Drier Blow Fuse
 description: This post explains dryer fuses and why they might blow, followed by explaining potential reasons it may have gone. Read on to learn more 
 keywords: drier
-publishDate: 6/25/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

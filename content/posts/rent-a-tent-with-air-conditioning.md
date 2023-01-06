@@ -3,7 +3,6 @@
 title: Rent A Tent With Air Conditioning
 description: "Are you looking for an easy way to beat the summer heat? Renting a tent with air conditioning is a great way to cool off and enjoy...keep reading to learn"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

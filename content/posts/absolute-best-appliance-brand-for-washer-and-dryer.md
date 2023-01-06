@@ -3,7 +3,6 @@
 title: Best Appliance Brand For Washer And Dryer
 description: "When shopping for a washer and dryer, you want to make sure you get the best quality and reliability for your money. With so many ...learn more about it now"
 keywords: best appliance brand dryer
-publishDate: 8/15/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

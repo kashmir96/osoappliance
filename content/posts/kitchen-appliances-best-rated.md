@@ -3,7 +3,6 @@
 title: Kitchen Appliances Best Rated
 description: "If you’re looking for the best rated kitchen appliances, you’ve come to the right place. With so many options available on the mar...see more"
 keywords: kitchen best
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

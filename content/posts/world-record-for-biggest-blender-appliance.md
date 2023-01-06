@@ -3,7 +3,6 @@
 title: World Record For Biggest Blender Appliance
 description: "If you’ve ever wanted to make a big batch of smoothies, shakes or other blended drinks, then you’ll be impressed with the world re...get more detail"
 keywords: blender appliance
-publishDate: 7/29/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

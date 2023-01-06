@@ -3,7 +3,6 @@
 title: Washing Machine Smart Inverter
 description: "In recent years, washing machines have become much smarter and more efficient than ever before. One of the key technologies behind...take a moment to check it out "
 keywords: washing machine smart
-publishDate: 4/2/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

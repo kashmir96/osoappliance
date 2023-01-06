@@ -3,7 +3,6 @@
 title: When Camping Stove
 description: "Camping stoves are an essential piece of equipment for anyone who loves camping outdoors. Whether you’re a weekend camper or a sea...lets find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

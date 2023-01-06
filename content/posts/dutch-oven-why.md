@@ -3,7 +3,6 @@
 title: Dutch Oven Why
 description: "A Dutch oven is a type of cooking pot made from cast iron, which has been used in kitchens around the world for centuries. It's a ...lets find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

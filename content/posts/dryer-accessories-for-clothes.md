@@ -3,7 +3,6 @@
 title: Dryer Accessories For Clothes
 description: "If you’re like most people, you probably use your dryer on a regular basis to get your clothes dry. But did you know there are sev...check it out to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

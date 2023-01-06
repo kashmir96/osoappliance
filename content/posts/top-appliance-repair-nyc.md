@@ -3,7 +3,6 @@
 title: Top Appliance Repair Nyc
 description: "If you live in New York City and your appliances are in need of repair, you’re in luck! NYC is home to some of the best appliance ...get more detail"
 keywords: top appliance repair
-publishDate: 7/6/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

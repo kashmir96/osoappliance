@@ -3,7 +3,6 @@
 title: Appliances Aircon
 description: "When the heat of summer hits, nothing is better than a good air conditioner to keep you cool. But what exactly is an air condition...continue on"
 keywords: appliances aircon
-publishDate: 12/13/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

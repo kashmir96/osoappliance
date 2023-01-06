@@ -3,7 +3,6 @@
 title: Oven How To Use
 description: "Cooking with an oven is one of the most common and versatile cooking methods, and it can be used to make a variety of meals. Wheth...get more info"
 keywords: oven how to use
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

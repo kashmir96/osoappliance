@@ -3,7 +3,6 @@
 title: Rental Air Conditioning System
 description: "If your home or business doesn't already have a central air conditioning system, you may want to consider investing in a rental ai...swipe up to find out"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

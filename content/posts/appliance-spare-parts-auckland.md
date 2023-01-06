@@ -3,7 +3,6 @@
 title: Appliance Spare Parts Auckland
 description: "Appliances form an integral part of any home, and Aucklanders are no exception. From fridges to washing machines, ovens to dishwas...learn about it in this post"
 keywords: appliance parts
-publishDate: 9/17/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

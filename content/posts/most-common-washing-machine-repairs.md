@@ -3,7 +3,6 @@
 title: Most Common Washing Machine Repairs
 description: "If you are a homeowner, you know how important it is to keep your appliances in working order. Washing machines are no exception. ...get the full scoop"
 keywords: most washing machine
-publishDate: 6/15/2022
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

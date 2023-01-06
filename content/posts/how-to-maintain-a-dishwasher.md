@@ -3,7 +3,6 @@
 title: How To Maintain A Dishwasher
 description: This post discusses essential dishwasher maintenance habits to help keep your dishwasher running at its best, so if you want to ensure your dishwasher works as efficiently as possible, read on!
 keywords: how to maintain dishwasher
-publishDate: 9/28/2022
 tags: ["Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

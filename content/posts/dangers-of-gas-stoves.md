@@ -3,7 +3,6 @@
 title: Dangers Of Gas Stoves
 description: "Every day, millions of Americans use gas stoves to cook meals in their homes without a second thought. Although gas stoves are kno...read now to learn more"
 keywords: gas
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

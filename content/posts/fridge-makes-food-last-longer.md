@@ -3,7 +3,6 @@
 title: Fridge Makes Food Last Longer
 description: "The refrigerator is an essential and integral part of modern kitchens, but one that often goes unappreciated. Not only does it pro...you wont regret reading on"
 keywords: fridge last
-publishDate: 11/13/2021
 tags: ["Kitchen Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

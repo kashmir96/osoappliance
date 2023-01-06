@@ -3,7 +3,6 @@
 title: Air Conditioning Options For Old Homes
 description: "As the summer months approach, many people are looking for ways to cool their homes. If you live in an older home, your options fo...get the full scoop"
 keywords: air old
-publishDate: 6/30/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

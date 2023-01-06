@@ -3,7 +3,6 @@
 title: Electrical Appliance Parts
 description: "An electrical appliance is a device that uses electricity to perform a task such as heating, cooling, or powering a motor. Electri...keep reading to learn"
 keywords: appliance parts
-publishDate: 6/10/2023
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

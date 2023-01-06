@@ -3,7 +3,6 @@
 title: Best Price Appliance Parts
 description: "Finding the best price for appliance parts can be a challenge, especially if you’re on a budget. While there are many stores that ...learn more"
 keywords: best appliance parts
-publishDate: 10/16/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

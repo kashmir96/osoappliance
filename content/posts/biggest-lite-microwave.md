@@ -3,7 +3,6 @@
 title: Biggest Lite Microwave
 description: "When it comes to microwaves, bigger is often better. A larger microwave oven can heat food faster and more evenly than smaller mod...get the full scoop"
 keywords: microwave
-publishDate: 5/9/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

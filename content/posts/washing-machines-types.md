@@ -3,7 +3,6 @@
 title: Washing Machines Types
 description: "Washing machines are an essential appliance for any home. They make the chore of doing laundry much easier and more efficient. The...get more detail"
 keywords: washing machines
-publishDate: 4/12/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

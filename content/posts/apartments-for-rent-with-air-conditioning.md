@@ -3,7 +3,6 @@
 title: Apartments For Rent With Air Conditioning
 description: "The summer months can be hot and humid, and it's important to have an apartment that offers both comfort and convenience. A great ...you wont regret reading on"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

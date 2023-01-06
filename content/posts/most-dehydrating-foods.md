@@ -3,7 +3,6 @@
 title: Most Dehydrating Foods
 description: "Dehydrating foods is an excellent way to preserve and store food for longer periods of time. It's also a great way to reduce waste...see more"
 keywords: most
-publishDate: 1/1/2022
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

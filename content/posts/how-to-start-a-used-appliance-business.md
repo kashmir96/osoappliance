@@ -3,7 +3,6 @@
 title: How To Start A Used Appliance Business
 description: "Are you looking to start a used appliance business? If so, you’ve come to the right place! Starting a used appliance business can ...continue on"
 keywords: how to appliance
-publishDate: 12/12/2022
 tags: ["Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

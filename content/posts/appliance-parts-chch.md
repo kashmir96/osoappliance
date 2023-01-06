@@ -3,7 +3,6 @@
 title: Appliance Parts Chch
 description: "When it comes to appliance parts in Christchurch, New Zealand, there is no shortage of options to choose from. Whether you're look...keep going and find out"
 keywords: appliance parts chch
-publishDate: 8/26/2021
 tags: ["Christchurch", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

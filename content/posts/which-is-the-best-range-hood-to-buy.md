@@ -3,7 +3,6 @@
 title: Which Is The Best Range Hood To Buy
 description: "When it comes to kitchen ventilation, a range hood is an essential appliance. Not only does a range hood help remove unwanted smok...swipe up to find out"
 keywords: best range buy
-publishDate: 4/19/2023
 tags: ["Stove", "Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

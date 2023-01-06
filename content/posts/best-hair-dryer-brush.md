@@ -3,7 +3,6 @@
 title: Best Hair Dryer Brush
 description: "If you’re looking for a new way to style your hair, you may want to consider investing in a hair dryer brush. This versatile tool ...get more detail"
 keywords: best hair dryer
-publishDate: 8/19/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

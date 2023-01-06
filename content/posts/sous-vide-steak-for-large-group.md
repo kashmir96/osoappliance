@@ -3,7 +3,6 @@
 title: Sous Vide Steak For Large Group
 description: "If you're looking to feed a large group or party with steak, sous vide is the perfect solution. Sous vide is a cooking technique t...learn about it in this post"
 keywords: sous
-publishDate: 2/7/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How To Clear A Dishwasher Drain Trap
 description: If your dishwasher isn't draining properly, this article explains how to solve this in an easy and straightforward way, so be sure to read on!
 keywords: how to dishwasher
-publishDate: 12/1/2022
 tags: ["Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

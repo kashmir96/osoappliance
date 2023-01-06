@@ -3,7 +3,6 @@
 title: Washing Machine Cleaner Top Loader
 description: "Are you looking for a top-loading washing machine cleaner? If so, you’ve come to the right place! Today we’ll discuss why it’s imp...read now to learn more"
 keywords: washing machine top
-publishDate: 1/29/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

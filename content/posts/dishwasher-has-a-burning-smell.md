@@ -3,7 +3,6 @@
 title: Dishwasher Has A Burning Smell
 description: "If you're noticing a burning smell coming from your dishwasher, it's likely that something is wrong. The most common cause of this...learn more about it now"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

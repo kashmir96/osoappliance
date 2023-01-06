@@ -3,7 +3,6 @@
 title: Air Filter Options
 description: "Air filters are a vital part of any home or business. They help keep the air clean by trapping dust, pollen, and other airborne pa...keep reading to learn"
 keywords: air
-publishDate: 3/4/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

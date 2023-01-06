@@ -3,7 +3,6 @@
 title: Commercial Grade Blender
 description: "A commercial grade blender is an essential piece of equipment for any kitchen that serves blended drinks or other food items. It’s...get more detail"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

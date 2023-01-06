@@ -3,7 +3,6 @@
 title: Commercial Fridge Freezer Nz
 description: "If you’re in the market for a commercial fridge freezer, then New Zealand is a great place to find one. With a variety of options ...check it out to learn"
 keywords: fridge nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dishwashers For Sale Christchurch
 description: "When it comes to buying a dishwasher in Christchurch, there are many places to look for great deals. Whether you’re looking for an...lets find out"
 keywords: sale christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Long Does A Stick Vacuum Last
 description: "When it comes to stick vacuums, one of the most common questions people ask is, “How long does a stick vacuum last?” The answer to...learn about it in this post"
 keywords: vacuum last
-publishDate: 6/9/2022
 tags: ["Vacuum", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

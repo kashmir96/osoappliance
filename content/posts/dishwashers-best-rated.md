@@ -3,7 +3,6 @@
 title: Dishwashers Best Rated
 description: "If you’re in the market for a new dishwasher, you’ve probably noticed that there are a lot of options out there. With so many mode...check it out to learn"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

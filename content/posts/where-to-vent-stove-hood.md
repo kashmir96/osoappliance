@@ -3,7 +3,6 @@
 title: Where To Vent Stove Hood
 description: "Venting a stove hood is an important step in the installation process of any kitchen range hood. Properly venting your range hood ...learn more"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

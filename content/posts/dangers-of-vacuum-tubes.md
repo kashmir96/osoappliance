@@ -3,7 +3,6 @@
 title: Dangers Of Vacuum Tubes
 description: "In the early days of electronics, vacuum tubes were the primary component of most electronic devices. Vacuum tubes are vacuum seal...continue on"
 keywords: vacuum
-publishDate: 12/12/2022
 tags: ["Vacuum"]
 author: Curtis
 categories: ["Household Appliances"]

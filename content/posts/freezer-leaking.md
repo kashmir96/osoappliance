@@ -3,7 +3,6 @@
 title: Freezer Leaking
 description: If you're dealing with a leaking freezer, this post will help you identify and fix the problem quickly and easily - so read on to learn more!
 keywords: freezer
-publishDate: 12/23/2022
 tags: ["Appliances", "Freezer", "Freezer"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: What Is The Most Unreliable Appliance Brand
 description: "When it comes to appliances, reliability is an important factor to consider. After all, no one wants to buy an appliance that is g...swipe up to find out"
 keywords: most unreliable brand
-publishDate: 7/3/2022
 tags: ["Appliance Brand", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

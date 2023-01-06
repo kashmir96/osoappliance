@@ -3,7 +3,6 @@
 title: Most Expensive Washing Machine Brand
 description: If you're looking for a reliable and efficient washing machine and don't mind spending a bit more money, then you should read this post to find out about the most expensive brands on the market.
 keywords: washing machine
-publishDate: 8/20/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

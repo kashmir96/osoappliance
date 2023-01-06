@@ -3,7 +3,6 @@
 title: How Much Does It Cost To Rent Appliances
 description: "When it comes to renting appliances, the cost can vary greatly depending on a variety of factors. From the type of appliance rente...see more"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

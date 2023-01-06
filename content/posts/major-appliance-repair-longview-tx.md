@@ -3,7 +3,6 @@
 title: Major Appliance Repair Longview Tx
 description: "If you live in the Longview, TX area and need major appliance repair, you’ve come to the right place. There are numerous companies...check it out to learn"
 keywords: appliance repair
-publishDate: 6/25/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

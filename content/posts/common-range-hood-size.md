@@ -3,7 +3,6 @@
 title: Common Range Hood Size
 description: "When it comes to your kitchen, having the right range hood size is essential for ensuring proper ventilation and air quality. The ...keep reading to learn"
 keywords: range
-publishDate: 6/26/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

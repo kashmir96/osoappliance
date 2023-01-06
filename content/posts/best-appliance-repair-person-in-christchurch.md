@@ -3,7 +3,6 @@
 title: Best Appliance Repair Person In Christchurch
 description: Appliance repair can be a daunting task, but with the right person, it can be easy! This post will help you find the best appliance repair person in Christchurch.
 keywords: appliance repair christchurch
-publishDate: 6/21/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

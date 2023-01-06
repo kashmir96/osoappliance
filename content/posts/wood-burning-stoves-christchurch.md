@@ -3,7 +3,6 @@
 title: Wood Burning Stoves Christchurch
 description: "Wood burning stoves are an increasingly popular choice for home heating in Christchurch. They offer an eco-friendly and cost-effec...you wont regret reading on"
 keywords: christchurch
-publishDate: 09/09/2022
 tags: ["Stove", "Christchurch", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

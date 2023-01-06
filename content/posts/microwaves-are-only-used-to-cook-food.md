@@ -3,7 +3,6 @@
 title: Microwaves Are Only Used To Cook Food
 description: "Microwaves are one of the most widely used kitchen appliances, and they are often associated with cooking food. While it is true t...learn about it in this post"
 keywords: 
-publishDate: 3/18/2023
 tags: ["Microwave", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

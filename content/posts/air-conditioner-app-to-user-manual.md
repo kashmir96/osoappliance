@@ -3,7 +3,6 @@
 title: Air Conditioner App To User Manual
 description: "Welcome to the user manual for your air conditioner app! This app is designed to help you control the temperature in your home or ...keep going and find out"
 keywords: air conditioner
-publishDate: 4/4/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

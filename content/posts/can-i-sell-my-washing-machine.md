@@ -3,7 +3,6 @@
 title: Can I Sell My Washing Machine
 description: "Are you looking to upgrade your old washing machine or just wanting to get rid of it for some extra cash? Selling a washing machin...scroll on and keep learning"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

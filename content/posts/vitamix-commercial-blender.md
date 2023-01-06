@@ -3,7 +3,6 @@
 title: Vitamix Commercial Blender
 description: "Vitamix commercial blenders are some of the most powerful, durable, and reliable blenders on the market today. They are designed f...get the full scoop"
 keywords: blender
-publishDate: 6/13/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

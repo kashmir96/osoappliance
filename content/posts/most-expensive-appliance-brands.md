@@ -3,7 +3,6 @@
 title: Most Expensive Appliance Brands
 description: "When it comes to home appliances, there is no shortage of options. From washing machines and dryers to refrigerators and ovens, th...get more detail"
 keywords: most brands
-publishDate: 12/12/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

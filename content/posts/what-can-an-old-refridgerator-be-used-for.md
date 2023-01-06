@@ -3,7 +3,6 @@
 title: What Can An Old Refridgerator Be Used For
 description: This post lists a variety of ways to repurpose an old refrigerator, from using it as a cooler to turning it into a bar. If you have an old refrigerator that you're not sure what to do with, read this post for some ideas.
 keywords: refridgerator
-publishDate: 6/15/2022
 tags: ["Appliances", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

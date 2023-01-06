@@ -3,7 +3,6 @@
 title: Dishwasher Repair Christchurch
 description: "If you’ve been living in Christchurch for any length of time, chances are you’ve probably had to deal with a dishwasher repair at ...learn more about it now"
 keywords: dishwasher repair christchurch
-publishDate: 8/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

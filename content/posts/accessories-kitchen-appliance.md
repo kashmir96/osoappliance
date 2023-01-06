@@ -3,7 +3,6 @@
 title: Accessories Kitchen Appliance
 description: "As the kitchen is one of the most important rooms in any home, it’s important to consider how you can make it more efficient and e...lets find out"
 keywords: kitchen appliance
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

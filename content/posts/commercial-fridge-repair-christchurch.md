@@ -3,7 +3,6 @@
 title: Commercial Fridge Repair Christchurch
 description: "When it comes to commercial fridge repair in Christchurch, there are a few steps you can take to ensure your refrigerator is up an...see more"
 keywords: fridge repair christchurch
-publishDate: 8/22/2021
 tags: ["Heat Pump", "Christchurch", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

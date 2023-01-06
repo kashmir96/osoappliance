@@ -3,7 +3,6 @@
 title: Electrical Appliance Repairs Near Me
 description: "Are you looking for electrical appliance repairs near you? If so, then you’ve come to the right place! Electrical appliance repair...get the full scoop"
 keywords: appliance near
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Washing Machine Not Spinning
 description: "If your washing machine is not spinning, it could be due to a variety of reasons. From a broken drive belt to an overloaded machin...continue on"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

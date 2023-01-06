@@ -3,7 +3,6 @@
 title: Most Popular Dyson Air Purifier
 description: "Dyson air purifiers are some of the most advanced and effective air purification systems on the market. From their iconic tower de...keep going and find out"
 keywords: most popular air purifier
-publishDate: 3/5/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

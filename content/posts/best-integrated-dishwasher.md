@@ -3,7 +3,6 @@
 title: Best Integrated Dishwasher
 description: "Integrated dishwashers are a great way to keep your kitchen looking sleek and modern while still getting the best cleaning results...learn about it in this post"
 keywords: best dishwasher
-publishDate: 8/27/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

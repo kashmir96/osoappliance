@@ -3,7 +3,6 @@
 title: Laundry Appliances Sale
 description: "It’s no secret that laundry appliances are an essential part of a home. From washing machines and dryers to irons and steamers, ke...learn more"
 keywords: laundry sale
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

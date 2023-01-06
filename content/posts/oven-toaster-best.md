@@ -3,7 +3,6 @@
 title: Oven Toaster Best
 description: "An oven toaster is an all-in-one kitchen appliance that can be used for baking, roasting, and toasting. It is a great addition to ...keep going and find out"
 keywords: oven best
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

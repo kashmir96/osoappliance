@@ -3,7 +3,6 @@
 title: Electrical Appliance Parts Near Me
 description: "If you’re looking for electrical appliance parts near you, you’re in luck. There are plenty of stores that carry a wide range of p...you wont regret reading on"
 keywords: appliance parts near
-publishDate: 6/11/2023
 tags: ["Buy Appliance", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

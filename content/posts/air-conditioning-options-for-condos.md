@@ -3,7 +3,6 @@
 title: Air Conditioning Options For Condos
 description: "Living in a condo can be a great way to feel part of a community and enjoy the convenience of urban living. However, one of the ch...find out now"
 keywords: air
-publishDate: 6/26/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Ninja Accessories Blender
 description: "Ninja accessories blender is one of the most popular kitchen appliances on the market today. It is an extremely versatile and powe...see more detail"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

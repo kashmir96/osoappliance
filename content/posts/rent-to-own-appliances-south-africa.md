@@ -3,7 +3,6 @@
 title: Rent To Own Appliances South Africa
 description: "Shopping for appliances in South Africa can be expensive, but rent-to-own appliances can provide an affordable way to upgrade your...learn about it in this post"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

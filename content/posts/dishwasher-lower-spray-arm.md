@@ -3,7 +3,6 @@
 title: Dishwasher Lower Spray Arm
 description: "The dishwasher lower spray arm is an important part of the dishwasher that helps ensure dishes are thoroughly cleaned. It is locat...get more info"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

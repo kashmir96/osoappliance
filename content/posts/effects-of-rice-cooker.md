@@ -3,7 +3,6 @@
 title: Effects Of Rice Cooker
 description: "Rice cookers are essential kitchen appliances that can make cooking quick and easy. They can be used to cook a variety of grains, ...get more info"
 keywords: cooker
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

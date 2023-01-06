@@ -3,7 +3,6 @@
 title: Most Common Microwave Oven
 description: "Microwave ovens are an essential appliance in the modern kitchen. They provide an easy and convenient way to heat food quickly and...keep going and find out"
 keywords: most microwave oven
-publishDate: 12/26/2021
 tags: ["Oven", "Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

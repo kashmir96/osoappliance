@@ -3,7 +3,6 @@
 title: Who Is Stove Kitchen
 description: "A stove is an essential kitchen appliance for anyone who enjoys cooking. It is the primary means of preparing hot meals, and it ca...get more info"
 keywords: stove kitchen
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

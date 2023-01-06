@@ -3,7 +3,6 @@
 title: Renting Dishwasher Broken
 description: "When your dishwasher begins to malfunction, it can be quite frustrating and overwhelming. Not only is it inconvenient to have a fa...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer When Not Home
 description: "When you’re away from home, it can be difficult to keep your clothes dry. Without access to a dryer, you may be stuck with wet clo...you wont regret reading on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

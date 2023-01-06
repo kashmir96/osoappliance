@@ -3,7 +3,6 @@
 title: Most Popular Blender Addons
 description: "Blender appliances have become one of the most popular and essential tools in a modern kitchen. They can be used to create a wide ...take a moment to check it out "
 keywords: most popular blender
-publishDate: 2/6/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

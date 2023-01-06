@@ -3,7 +3,6 @@
 title: Air Purifier Hazards
 description: "Air purifiers have become increasingly popular in recent years due to their ability to reduce indoor air pollution. While they can...check it out to learn"
 keywords: air purifier
-publishDate: 3/26/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

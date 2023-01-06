@@ -3,7 +3,6 @@
 title: Washing Machine Easy Slide
 description: "If you’ve ever tried to move a washing machine and found it almost impossible, you know how tough it can be. You can try to slide ...learn more"
 keywords: washing machine
-publishDate: 2/23/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

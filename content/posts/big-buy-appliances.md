@@ -3,7 +3,6 @@
 title: Big Buy Appliances
 description: "When it comes to buying big appliances, such as refrigerators, washing machines, and ovens, it can be overwhelming. The cost of th...see more detail"
 keywords: buy appliances
-publishDate: 3/17/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

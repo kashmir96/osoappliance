@@ -3,7 +3,6 @@
 title: Who Repair Gas Stove
 description: "If you’ve got a gas stove that needs repair, you’re probably wondering who can help. The good news is that there are several optio...you wont regret reading on"
 keywords: repair gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

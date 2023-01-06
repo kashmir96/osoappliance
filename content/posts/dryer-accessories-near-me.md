@@ -3,7 +3,6 @@
 title: Dryer Accessories Near Me
 description: "As the weather gets colder and winter approaches, dryers become an essential appliance in households across the country. Whether y...get the full scoop"
 keywords: dryer near
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

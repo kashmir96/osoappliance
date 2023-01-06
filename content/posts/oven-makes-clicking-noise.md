@@ -3,7 +3,6 @@
 title: Oven Makes Clicking Noise
 description: "If you’ve ever experienced the annoyance of your oven making a clicking noise, you know how disruptive it can be. This sound usual...swipe up to find out"
 keywords: oven
-publishDate: 1/13/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

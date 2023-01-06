@@ -3,7 +3,6 @@
 title: Washing Machine Inverter Vs Brushed Comparison
 description: "In the world of washing machines, the two most popular types are traditional brushed motors and inverter motors. The difference be...learn more"
 keywords: washing machine
-publishDate: 4/25/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

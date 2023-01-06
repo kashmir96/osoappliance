@@ -3,7 +3,6 @@
 title: Christchurch Oven Repairs
 description: "If you live in Christchurch and you have an oven that needs repairs, then you should consider getting in touch with a professional...keep going and find out"
 keywords: christchurch oven
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch", "Appliance Repair"]
 author: Curtis
 categories: ["Household Appliances"]

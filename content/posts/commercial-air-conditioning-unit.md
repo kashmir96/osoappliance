@@ -3,7 +3,6 @@
 title: Commercial Air Conditioning Unit
 description: "If you own a business, having a commercial air conditioning unit is essential for providing comfortable working conditions for you...get more info"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

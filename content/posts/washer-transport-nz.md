@@ -3,7 +3,6 @@
 title: Washer Transport Nz
 description: "If you need to transport a washing machine from one place to another, then you have a few options when it comes to New Zealand. De...swipe up to find out"
 keywords: nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

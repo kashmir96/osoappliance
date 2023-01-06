@@ -3,7 +3,6 @@
 title: Samsung Appliance Repair Christchurch
 description: "If you live in or around Christchurch and have a Samsung appliance that needs repair, you’ve come to the right place. In this blog...keep going and find out"
 keywords: samsung appliance repair christchurch
-publishDate: 8/9/2021
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

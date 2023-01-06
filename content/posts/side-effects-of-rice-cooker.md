@@ -3,7 +3,6 @@
 title: Side Effects Of Rice Cooker
 description: "The rice cooker is one of the most versatile and convenient kitchen appliances. It can be used to cook a variety of different type...keep going and find out"
 keywords: cooker
-publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Commercial Dishwasher For Rent Near Me
 description: "If you’re in the market for a commercial dishwasher, you might be wondering whether renting or buying is the best option. Renting ...get more info"
 keywords: dishwasher near
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

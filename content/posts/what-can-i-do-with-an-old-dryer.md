@@ -3,7 +3,6 @@
 title: What Can I Do With An Old Dryer
 description: This post will teach you how to use an old dryer in a variety of creative ways. So if you have an old dryer that you're not sure what to do with, be sure to read on!
 keywords: dryer
-publishDate: 6/14/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

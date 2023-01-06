@@ -3,7 +3,6 @@
 title: Most Popular Robot Vacuum For Hardwood Floors
 description: "Robot vacuums are a great choice for busy households looking to keep their hardwood floors clean and free of dust, dirt, and debri...take a moment to check it out "
 keywords: most popular vacuum
-publishDate: 2/22/2022
 tags: ["Vacuum", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

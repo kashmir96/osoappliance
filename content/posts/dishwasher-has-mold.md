@@ -3,7 +3,6 @@
 title: Dishwasher Has Mold
 description: "If you’ve been noticing a musty smell coming from your dishwasher or spotting mold on the door and other surfaces, it’s time to ta...see more"
 keywords: dishwasher
-publishDate: 10/25/2022
 tags: ["Dishwasher", "Appliance Disposal", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

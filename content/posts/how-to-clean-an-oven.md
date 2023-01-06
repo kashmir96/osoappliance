@@ -3,7 +3,6 @@
 title: How To Clean An Oven
 description: This post offers helpful tips for cleaning an oven effectively, so read on to learn more about how to keep your oven functioning properly!
 keywords: how to oven
-publishDate: 10/5/2022
 tags: ["Appliances", "Guide", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

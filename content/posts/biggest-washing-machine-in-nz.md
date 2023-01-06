@@ -3,7 +3,6 @@
 title: Biggest Washing Machine In Nz
 description: The largest washing machines available in New Zealand can be found by reading this post. Read on to find out more.
 keywords: washing machine nz
-publishDate: 7/9/2022
 tags: ["Washing Machine", "Appliances", New Zealand]
 author: Curtis
 categories: ["Appliances Christchurch"]

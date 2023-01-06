@@ -3,7 +3,6 @@
 title: Washing Machine Cleaning Hacks
 description: "Having a clean and odor-free washing machine is just as important as having clean clothes. Unfortunately, we often forget about ou...learn more"
 keywords: washing machine
-publishDate: 2/1/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

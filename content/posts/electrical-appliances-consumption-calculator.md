@@ -3,7 +3,6 @@
 title: Electrical Appliances Consumption Calculator
 description: "Are you looking for an easy way to calculate how much electricity your appliances are using? An electrical appliance consumption c...you wont regret reading on"
 keywords: appliances consumption calculator
-publishDate: 6/18/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

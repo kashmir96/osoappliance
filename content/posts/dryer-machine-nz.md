@@ -3,7 +3,6 @@
 title: Dryer Machine Nz
 description: "When it comes to New Zealand households, a dryer machine is a necessity due to the amount of rain and cold days. The rainy climate...learn about it in this post"
 keywords: dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

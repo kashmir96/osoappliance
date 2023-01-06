@@ -3,7 +3,6 @@
 title: Appliance Parts
 description: "Appliance parts are an essential component to the successful functioning of your household appliances. From refrigerator shelves a...read now to learn more"
 keywords: appliance parts
-publishDate: 8/25/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

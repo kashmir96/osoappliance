@@ -3,7 +3,6 @@
 title: Oven Gas Used
 description: "Gas ovens are becoming increasingly popular in the home kitchen due to their energy efficiency and convenience. Gas ovens use gas ...keep going and find out"
 keywords: oven gas
-publishDate: 1/31/2023
 tags: ["Oven", "Stove", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

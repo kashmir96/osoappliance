@@ -3,7 +3,6 @@
 title: How Dryers Catch On Fire
 description: "Dryers can catch on fire due to a variety of causes. The most common cause is lint buildup inside the dryer or ductwork. Lint is h...learn more about it now"
 keywords: dryers
-publishDate: 12/2/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

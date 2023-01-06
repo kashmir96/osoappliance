@@ -3,7 +3,6 @@
 title: Dishwasher Electrical Problems
 description: "If you’re having electrical problems with your dishwasher, you’re probably feeling frustrated and overwhelmed. Don't worry—with a ...take a moment to check it out "
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Electric Air Conditioning Compressor For Car
 description: "Having air conditioning in your car is a blessing we often take for granted. From hot summer days to long road trips, having the a...swipe up to find out"
 keywords: air
-publishDate: 5/29/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

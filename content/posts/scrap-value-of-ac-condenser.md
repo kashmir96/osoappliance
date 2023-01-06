@@ -3,7 +3,6 @@
 title: Scrap Value Of Ac Condenser
 description: "Scrap value of an AC condenser can be a very important factor when it comes to determining the overall cost of replacing or repair...get the full scoop"
 keywords: scrap value ac
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Top Range Hood Manufacturers
 description: "Range hoods are an important kitchen appliance that can help to keep your kitchen clean and free from cooking odors. However, with...see more"
 keywords: top range
-publishDate: 7/19/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

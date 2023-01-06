@@ -3,7 +3,6 @@
 title: Best Washing Powder Nz
 description: "If you’re looking for the best washing powder in New Zealand, you’re in the right place. Washing powder is an essential part of an...learn more about it now"
 keywords: best washing nz
-publishDate: 9/20/2022
 tags: ["Washing Machine", "New Zealand", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

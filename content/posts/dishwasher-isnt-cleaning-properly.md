@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Cleaning Properly
 description: "If your dishwasher isn't cleaning properly, it can be a source of frustration. After all, the purpose of a dishwasher is to make c...get more info"
 keywords: dishwasher
-publishDate: 11/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

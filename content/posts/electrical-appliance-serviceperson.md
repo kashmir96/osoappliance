@@ -3,7 +3,6 @@
 title: Electrical Appliance Serviceperson
 description: "If you have ever experienced problems with your electrical appliances, then you know how frustrating it can be to find someone to ...swipe up to find out"
 keywords: appliance
-publishDate: 4/3/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Oven Repairs Christchurch
 description: "As a homeowner, it’s important to take care of your oven. After all, you use it on a regular basis to prepare meals for you and yo...get more info"
 keywords: oven christchurch
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch", "Appliance Repair"]
 author: Curtis
 categories: ["Household Appliances"]

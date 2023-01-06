@@ -3,7 +3,6 @@
 title: Best Carpet Cleaner
 description: "Carpet cleaning is an important part of home maintenance. It's important to keep your carpets clean not just for aesthetic reasons...learn more about it now"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

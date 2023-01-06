@@ -3,7 +3,6 @@
 title: Jug Kettles Uk
 description: "Jug kettles are a popular choice among UK households. They’re stylish, convenient and easy to use. But what exactly is a jug kettl...learn more about it now"
 keywords: jug
-publishDate: 11/13/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

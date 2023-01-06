@@ -3,7 +3,6 @@
 title: Dishwasher What Is
 description: "A dishwasher is a machine that is used to clean dishes, glassware, cutlery, and other cooking utensils. It is typically installed ...take a moment to check it out "
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

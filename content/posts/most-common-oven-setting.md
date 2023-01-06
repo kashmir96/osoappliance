@@ -3,7 +3,6 @@
 title: Most Common Oven Setting
 description: "The oven is one of the most important pieces of kitchen equipment, and knowing how to properly use it can make cooking a much easi...read now to learn more"
 keywords: most oven
-publishDate: 7/23/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

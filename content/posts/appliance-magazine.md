@@ -3,7 +3,6 @@
 title: Appliance Magazine
 description: "When it comes to selecting an oven for your commercial kitchen, the price of the oven is a major factor to consider. Commercial ov...you wont regret reading on"
 keywords: appliance
-publishDate: 1/22/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

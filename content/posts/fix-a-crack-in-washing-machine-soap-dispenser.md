@@ -3,7 +3,6 @@
 title: Fix A Crack In Washing Machine Soap Dispenser
 description: If you’re dealing with a cracked soap dispenser in your washing machine, this post will walk you through an easy repair process; so, read on to learn how to fix it!
 keywords: fix washing machine
-publishDate: 9/3/2022
 tags: ["Washing Machine", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

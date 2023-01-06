@@ -3,7 +3,6 @@
 title: Why Double Wall Stove Pipe
 description: "When it comes to choosing the right stove pipe for your heating system, double wall stove pipe is an excellent option. Double wall...swipe up to find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

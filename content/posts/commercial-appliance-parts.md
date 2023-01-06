@@ -3,7 +3,6 @@
 title: Commercial Appliance Parts
 description: "Commercial appliance parts are the components that make up an appliance, such as a refrigerator, oven, or dishwasher. These parts ...swipe up to find out"
 keywords: appliance parts
-publishDate: 7/8/2022
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

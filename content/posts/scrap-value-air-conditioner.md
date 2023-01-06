@@ -3,7 +3,6 @@
 title: Scrap Value Air Conditioner
 description: "Scrap value is one of the most important factors to consider when determining the value of an air conditioner. Scrap value refers ...find out now"
 keywords: scrap value air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

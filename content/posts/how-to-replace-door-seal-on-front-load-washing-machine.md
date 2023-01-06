@@ -3,7 +3,6 @@
 title: How To Replace Door Seal On Front Load Washing Machine
 description: This post will teach you how to replace the door seal on a front-load washing machine. Replacing the door seal is a simple task that anyone with basic DIY skills can do.
 keywords: how to washing machine
-publishDate: 6/27/2022
 tags: ["Washing Machine", "Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

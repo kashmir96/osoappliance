@@ -3,7 +3,6 @@
 title: Washing Machine Brand Nz
 description: "If you are looking for a good washing machine brand in New Zealand, you have come to the right place. There are many great brands ...learn more about it now"
 keywords: washing machine brand nz
-publishDate: 8/13/2021
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

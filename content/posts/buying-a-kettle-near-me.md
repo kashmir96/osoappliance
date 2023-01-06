@@ -3,7 +3,6 @@
 title: Buying A Kettle Near Me
 description: "Are you looking to buy a kettle near you? Well, you’ve come to the right place! Kettles are essential kitchen appliances and can b...learn more about it now"
 keywords: buying kettle near
-publishDate: 11/16/2022
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

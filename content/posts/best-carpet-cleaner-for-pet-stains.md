@@ -3,7 +3,6 @@
 title: Best Carpet Cleaner For Pet Stains
 description: "If you have pets, you know that one of the worst problems to deal with is pet stains on the carpet. Not only can these stubborn sp...read now to learn more"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

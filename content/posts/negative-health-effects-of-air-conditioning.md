@@ -3,7 +3,6 @@
 title: Negative Health Effects Of Air Conditioning
 description: "Air conditioning is an important tool for keeping us comfortable in the hot summer months, but it can also have a negative impact ...scroll on and keep learning"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

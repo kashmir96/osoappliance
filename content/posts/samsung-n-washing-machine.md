@@ -3,7 +3,6 @@
 title: Samsung N Washing Machine
 description: "If you’re in the market for a new washing machine, Samsung is a great place to start. Samsung washing machines offer technology an...learn about it in this post"
 keywords: samsung washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

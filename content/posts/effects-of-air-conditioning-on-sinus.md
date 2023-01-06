@@ -3,7 +3,6 @@
 title: Effects Of Air Conditioning On Sinus
 description: "Air conditioning is a common comfort in many parts of the world, but it can have negative effects on sinuses. Air conditioning can...learn more"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

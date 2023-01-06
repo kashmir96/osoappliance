@@ -3,7 +3,6 @@
 title: Electric Dehydrator Uses
 description: "If you’re looking for a way to preserve your harvest of fruits and vegetables, an electric dehydrator is an excellent option. Dehy...see more"
 keywords: dehydrator uses
-publishDate: 25/12/2022
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

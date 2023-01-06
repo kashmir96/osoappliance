@@ -3,7 +3,6 @@
 title: Harvest Right Freeze Dryer Accessories
 description: "Harvest Right freeze dryers are a revolutionary way to preserve food. With the ability to freeze dry fruits, vegetables, meats and...continue on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

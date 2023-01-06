@@ -3,7 +3,6 @@
 title: Dryers Christchurch
 description: "With the unpredictable weather of Christchurch, having a dryer is a must-have for anyone living in the area. With so many differen...get the full scoop"
 keywords: dryers christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Christchurch", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Smells Like Gas
 description: "If your dryer smells like gas, it could be a sign of a serious problem. A gas leak in your dryer can be dangerous and should be ad...continue on"
 keywords: dryer gas
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Stove", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

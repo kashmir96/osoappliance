@@ -3,7 +3,6 @@
 title: Most Popular Air Purifier In Malaysia
 description: "Air purifiers are becoming increasingly popular in Malaysia due to the deteriorating air quality in urban areas. There are many ai...get more info"
 keywords: most popular air purifier
-publishDate: 2/27/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

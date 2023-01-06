@@ -3,7 +3,6 @@
 title: Small Kitchen Appliances List
 description: "Small kitchen appliances are an essential part of any modern kitchen. They help to make cooking and cleaning easier and faster, sa...learn more"
 keywords: kitchen appliances
-publishDate: 12/4/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

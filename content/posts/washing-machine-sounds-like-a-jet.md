@@ -3,7 +3,6 @@
 title: Washing Machine Sounds Like A Jet
 description: This post explains why many people complain about their washing machines making loud, jet engine-like noises and provides tips on how to reduce the noise, so if you're dealing with a noisy washing machine, read on to find out how to fix it.
 keywords: washing machine
-publishDate: 7/18/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Appliance Spare Parts Perth
 description: "The demand for appliance spare parts in Perth is increasing as more and more people are looking to repair their home appliances th...learn about it in this post"
 keywords: appliance parts
-publishDate: 9/22/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

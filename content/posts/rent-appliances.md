@@ -3,7 +3,6 @@
 title: Rent Appliances
 description: "Renting appliances can be a great way to save money and stay up-to-date with the latest technology. Whether you’re looking for a n...get more info"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

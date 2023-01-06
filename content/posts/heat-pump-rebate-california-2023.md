@@ -3,7 +3,6 @@
 title: Heat Pump Rebate California 2023
 description: "As residents in California know, the cost of living is high, and energy bills have been growing over the years. In response to thi...learn about it in this post"
 keywords: heat pump rebate 2023
-publishDate: 6/30/2023
 tags: ["Heat Pump", "Appliance Rules and Regulations", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

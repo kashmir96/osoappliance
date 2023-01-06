@@ -3,7 +3,6 @@
 title: Rent Washing Machine Christchurch
 description: This post explains why renting a washing machine in Christchurch can be a great option, and why you should read on to find out more.
 keywords: washing machine christchurch
-publishDate: 7/25/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

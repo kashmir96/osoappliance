@@ -3,7 +3,6 @@
 title: Most Common Washing Machine Size
 description: "Washing machines come in a variety of sizes and configurations, but the most common size is the traditional top-loading washer. To...learn about it in this post"
 keywords: most washing machine
-publishDate: 6/16/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dishwasher Cant Select Program
 description: "If your dishwasher is not selecting a program, there may be a number of reasons why. The first thing to check is the power supply....take a moment to check it out "
 keywords: dishwasher
-publishDate: 10/18/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

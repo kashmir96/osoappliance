@@ -3,7 +3,6 @@
 title: Reasons A Washing Machine Would Stop Spinning
 description: If your washing machine has suddenly stopped spinning, it could be a sign of a broken belt, a clogged pump, or a problem with the motor. By diagnosing the issue and fixing it, you could save yourself a trip to the repair shop. Learn how to diagnose and fix the problem in this post.
 keywords: washing machine
-publishDate: 6/4/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Best Dryer Nz 2022
 description: "When it comes to laundry, a dryer is an essential appliance for any home. With the right dryer, you can quickly and easily dry you...see more detail"
 keywords: best dryer nz 2022
-publishDate: 8/13/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

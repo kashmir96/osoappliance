@@ -3,7 +3,6 @@
 title: Washing Machine Recycling Christchurch
 description: "As more and more of us turn to digital technology for our everyday needs, recycling washing machines in Christchurch is becoming a...take a moment to check it out "
 keywords: washing machine christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

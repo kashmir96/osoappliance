@@ -3,7 +3,6 @@
 title: Most Common Dryer Receptacle
 description: "If you're looking to replace an existing dryer receptacle or install a new one, it's important to understand the different types o...continue on"
 keywords: most dryer
-publishDate: 7/13/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

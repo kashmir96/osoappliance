@@ -3,7 +3,6 @@
 title: Appliance Cupboard Kitchen
 description: "The appliance cupboard kitchen is a type of kitchen design that is quickly becoming popular among homeowners. This type of kitchen...find out now"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

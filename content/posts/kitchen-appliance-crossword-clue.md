@@ -3,7 +3,6 @@
 title: Kitchen Appliance Crossword Clue
 description: "If you’re creating your own crossword puzzle, kitchen appliance clues can be a great way to add a fun and challenging twist to the...get more detail"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

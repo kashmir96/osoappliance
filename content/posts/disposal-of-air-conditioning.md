@@ -3,7 +3,6 @@
 title: Disposal Of Air Conditioning
 description: "Air conditioners are a great way to beat the heat during summer months, but when it comes time to get rid of your old unit, proper...get more info"
 keywords: disposal air
-publishDate: 5/25/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

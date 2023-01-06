@@ -3,7 +3,6 @@
 title: Best Microwave For Reheating
 description: "As a busy person, it can be difficult to keep up with cooking meals from scratch. That’s why having a dependable microwave for reh...see more"
 keywords: best microwave
-publishDate: 4/30/2023
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dispose Of Old Washing Machine
 description: This post outlines the three most common ways to dispose of an old washing machine and provides information on which option may be best for your machine and specific situation.
 keywords: washing machine
-publishDate: 6/10/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

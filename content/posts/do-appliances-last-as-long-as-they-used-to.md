@@ -3,7 +3,6 @@
 title: Do Appliances Last As Long As They Used To
 description: "Do appliances last as long as they used to? This is a question many people ask when considering the purchase of a new appliance. T...get more detail"
 keywords: last
-publishDate: 7/28/2022
 tags: ["Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

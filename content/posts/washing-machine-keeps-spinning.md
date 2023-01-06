@@ -3,7 +3,6 @@
 title: Washing Machine Keeps Spinning
 description: If your washing machine is spinning constantly, there could be an underlying issue that needs to be addressed; read on to find out what these could be and how to fix them.
 keywords: washing machine
-publishDate: 11/18/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

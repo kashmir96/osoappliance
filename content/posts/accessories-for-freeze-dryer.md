@@ -3,7 +3,6 @@
 title: Accessories For Freeze Dryer
 description: "Freeze dryers are an essential piece of equipment for anyone looking to preserve food and other items. By freezing the material an...read now to learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

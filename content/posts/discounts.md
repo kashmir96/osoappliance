@@ -3,7 +3,6 @@
 title: Discounts
 description: "Discount appliances are a great way to save money while still getting quality products. Discount appliances can be found in a vari...keep going and find out"
 keywords: 
-publishDate: 10/3/2022
 tags: ["Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

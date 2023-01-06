@@ -3,7 +3,6 @@
 title: Dangers Of Purifier And Humidifier
 description: "When it comes to creating a healthy home environment, air purifiers and humidifiers are often touted as lifesavers. However, while...learn about it in this post"
 keywords: purifier humidifier
-publishDate: 5/21/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

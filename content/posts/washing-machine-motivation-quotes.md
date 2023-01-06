@@ -3,7 +3,6 @@
 title: Washing Machine Motivation Quotes
 description: "In today's busy world, it can be difficult to find the motivation to tackle mundane tasks like laundry. Fortunately, there are ple...lets find out"
 keywords: washing machine
-publishDate: 3/3/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

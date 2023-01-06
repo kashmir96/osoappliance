@@ -3,7 +3,6 @@
 title: Where Is The Heating Element On A Samsung Dryer
 description: "If you’re trying to locate the heating element on your Samsung dryer, you’ve come to the right place! The heating element is a cru...keep going and find out"
 keywords: element samsung dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Stove", "Kitchen Appliances", "Laundry Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

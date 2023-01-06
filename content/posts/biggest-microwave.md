@@ -3,7 +3,6 @@
 title: Biggest Microwave
 description: "Microwaves are an essential part of our everyday lives, allowing us to quickly and easily heat up food in a matter of minutes. But...continue on"
 keywords: microwave
-publishDate: 5/13/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

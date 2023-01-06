@@ -3,7 +3,6 @@
 title: Is Washing Machine Cheaper At Night
 description: "Washing machines are typically cheaper at night, due to the fact that most people are off work and not using their washing machine...find out now"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

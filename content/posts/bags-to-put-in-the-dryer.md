@@ -3,7 +3,6 @@
 title: Bags To Put In The Dryer
 description: "If you’re looking for a way to protect your delicate items in the dryer, then you should consider using bags to put in the dryer. ...check it out to learn"
 keywords: dryer
-publishDate: 6/29/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

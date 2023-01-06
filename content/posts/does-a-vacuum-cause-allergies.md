@@ -3,7 +3,6 @@
 title: Does A Vacuum Cause Allergies
 description: "A vacuum cleaner is a great tool for removing dust, dirt, and other allergens from your home, but it can also be a source of aller...keep reading to learn"
 keywords: vacuum
-publishDate: 6/24/2022
 tags: ["Vacuum", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

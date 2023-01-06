@@ -3,7 +3,6 @@
 title: Xiaomi Air Purifier Accessories
 description: "Xiaomi air purifier accessories are the perfect complement to your air purifier, helping you get the most out of your device. Thes...swipe up to find out"
 keywords: air purifier
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

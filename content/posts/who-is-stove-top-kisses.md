@@ -3,7 +3,6 @@
 title: Who Is Stove Top Kisses
 description: "Stove Top Kisses are a delicious and easy to make treat that can be enjoyed by both children and adults alike. The ingredients are...swipe up to find out"
 keywords: stove top
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

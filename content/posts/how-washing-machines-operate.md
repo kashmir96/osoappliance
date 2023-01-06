@@ -3,7 +3,6 @@
 title: How Washing Machines Operate
 description: "Washing machines have been around for centuries, but modern washing machines have come a long way since their inception. Washing m...keep going and find out"
 keywords: washing machines
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

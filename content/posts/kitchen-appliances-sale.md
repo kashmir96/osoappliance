@@ -3,7 +3,6 @@
 title: Kitchen Appliances Sale
 description: "In the modern day, kitchen appliances have become an integral part of our lives. They are not only a necessity but also a lifestyl...continue on"
 keywords: kitchen appliances sale
-publishDate: 1/25/2023
 tags: ["Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

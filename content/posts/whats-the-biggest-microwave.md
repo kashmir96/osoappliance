@@ -3,7 +3,6 @@
 title: Whats The Biggest Microwave
 description: "If you're looking for the biggest microwave on the market, then you may be interested in the Samsung ME21K7010DS Countertop Microw...get more info"
 keywords: microwave
-publishDate: 7/25/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

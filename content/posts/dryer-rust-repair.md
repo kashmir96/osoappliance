@@ -3,7 +3,6 @@
 title: Dryer Rust Repair
 description: If you have ever experienced rust stains in the dryer ruining your clothes, don't worry - there are some simple repairs you can do to get rid of them! Read on to find out more.
 keywords: dryer repair
-publishDate: 9/20/2022
 tags: ["Dryer", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: What Stove Gas Is
 description: "Stove gas is a type of gas used to fuel indoor stoves, typically in residential and commercial settings. It is typically a mixture...you wont regret reading on"
 keywords: stove gas
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

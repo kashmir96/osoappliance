@@ -3,7 +3,6 @@
 title: Best Washer
 description: "When it comes to buying a washer, there are many factors to consider. From size and capacity to energy efficiency and features, it...see more detail"
 keywords: best
-publishDate: 8/30/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

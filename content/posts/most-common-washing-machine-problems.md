@@ -3,7 +3,6 @@
 title: Most Common Washing Machine Problems
 description: "If you have a washing machine, chances are you’ve experienced some problems with it at one time or another. Washing machines can b...keep going and find out"
 keywords: most washing machine
-publishDate: 6/14/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

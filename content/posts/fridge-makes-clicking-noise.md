@@ -3,7 +3,6 @@
 title: Fridge Makes Clicking Noise
 description: "If your fridge is making a clicking noise, it may be a sign that something is wrong with it. The most common cause of this noise i...get more detail"
 keywords: fridge
-publishDate: 11/15/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

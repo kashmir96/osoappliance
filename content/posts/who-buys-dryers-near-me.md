@@ -3,7 +3,6 @@
 title: Who Buys Dryers Near Me
 description: "Are you looking to purchase a new dryer? If so, you may be wondering “who buys dryers near me?” The answer is that there are many ...lets find out"
 keywords: dryers near
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

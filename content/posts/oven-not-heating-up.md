@@ -3,7 +3,6 @@
 title: Oven Not Heating Up
 description: If your oven isn't heating up, find out the possible causes and how to fix the problem by reading this post - so you can get back to baking with ease!
 keywords: oven
-publishDate: 10/11/2022
 tags: ["Appliances", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

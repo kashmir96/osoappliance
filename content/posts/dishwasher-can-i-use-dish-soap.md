@@ -3,7 +3,6 @@
 title: Dishwasher Can I Use Dish Soap
 description: "If you’ve ever asked yourself, “Can I use dish soap in my dishwasher?” the answer is yes, but with caution. While regular dish soa...take a moment to check it out "
 keywords: dishwasher use
-publishDate: 10/16/2022
 tags: ["Dishwasher", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

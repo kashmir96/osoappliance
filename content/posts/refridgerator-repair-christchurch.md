@@ -3,7 +3,6 @@
 title: Refridgerator Repair Christchurch
 description: This post provides a list of qualified technicians in Christchurch, New Zealand who are experienced in repairing refrigerators of all kinds. If you're in need of refrigerator repair, then these technicians are your best bet.
 keywords: refridgerator repair christchurch
-publishDate: 6/17/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

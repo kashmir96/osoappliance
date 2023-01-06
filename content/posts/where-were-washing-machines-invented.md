@@ -3,7 +3,6 @@
 title: Where Were Washing Machines Invented
 description: "The washing machine is one of the most common household appliances, but few people know where it was invented. The history of the ...you wont regret reading on"
 keywords: washing machines
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

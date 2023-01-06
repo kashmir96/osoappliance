@@ -3,7 +3,6 @@
 title: Bosch Washing Machine Repairs Christchurch
 description: "Are you looking for a reliable service provider to get Bosch Washing Machine Repairs in Christchurch? Well fret not, there's more ...get more info"
 keywords: bosch washing machine christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Appliance Repair", "Laundry Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

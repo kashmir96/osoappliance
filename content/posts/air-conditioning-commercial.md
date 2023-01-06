@@ -3,7 +3,6 @@
 title: Air Conditioning Commercial
 description: "Air conditioning is a necessity for businesses, especially during the hot summer months. Commercial air conditioning systems are d...get the full scoop"
 keywords: air
-publishDate: 5/26/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

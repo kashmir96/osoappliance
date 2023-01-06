@@ -3,7 +3,6 @@
 title: Mini Split Heat Pump Accessories
 description: "A mini-split heat pump is a great way to heat and cool your home, but it’s important to consider the many accessories that can be ...get the full scoop"
 keywords: heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

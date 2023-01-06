@@ -3,7 +3,6 @@
 title: Most Popular Stove Top Accessories
 description: "If you’re looking to upgrade your kitchen with the latest stove top accessories, then you’ve come to the right place! These days, ...get more detail"
 keywords: most popular stove top
-publishDate: 12/15/2021
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

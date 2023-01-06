@@ -3,7 +3,6 @@
 title: Dryer Accessories Stores
 description: "Having the right accessories in your laundry room can make all the difference when it comes to drying your clothes. Dryer accessor...get the full scoop"
 keywords: dryer stores
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

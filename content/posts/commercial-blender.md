@@ -3,7 +3,6 @@
 title: Commercial Blender
 description: "A commercial blender is an essential tool in any kitchen, whether it’s in a restaurant, bar, cafe or other food-service business. ...keep reading to learn"
 keywords: blender
-publishDate: 4/7/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

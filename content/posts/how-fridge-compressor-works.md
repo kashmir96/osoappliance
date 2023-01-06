@@ -3,7 +3,6 @@
 title: How Fridge Compressor Works
 description: "A fridge compressor is the powerhouse behind a refrigerator, allowing it to cool down your food and keep it fresh. It works by com...get more info"
 keywords: fridge
-publishDate: 12/3/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

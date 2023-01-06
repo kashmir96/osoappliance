@@ -3,7 +3,6 @@
 title: Air Conditioner Disposal
 description: "As the weather begins to warm up, many people are turning on their air conditioners for relief from the heat. But as the summer mo...find out now"
 keywords: air conditioner disposal
-publishDate: 4/9/2023
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

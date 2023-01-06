@@ -3,7 +3,6 @@
 title: Washing Machine Best
 description: "Are you looking for the best ways to take care of your washing machine? If so, you’ve come to the right place. Taking good care of...learn more about it now"
 keywords: washing machine best
-publishDate: 1/16/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

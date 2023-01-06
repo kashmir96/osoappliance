@@ -3,7 +3,6 @@
 title: Hair Straightener Best
 description: "If you’re looking to get the sleekest, straightest hair possible, a hair straightener is an invaluable tool. But if you’re not sur...learn more about it now"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

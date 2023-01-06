@@ -3,7 +3,6 @@
 title: Dishwasher
 description: "A dishwasher is a kitchen appliance that is used to clean dishes, pots, and pans. It is a great way to save time and energy when i...learn more"
 keywords: dishwasher
-publishDate: 10/5/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

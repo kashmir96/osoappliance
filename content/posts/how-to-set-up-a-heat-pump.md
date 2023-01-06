@@ -3,7 +3,6 @@
 title: How To Set Up A Heat Pump
 description: "When it comes to heating and cooling your home, a heat pump is an excellent choice. Heat pumps use renewable energy sources like t...see more detail"
 keywords: how to set heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

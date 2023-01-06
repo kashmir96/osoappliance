@@ -3,7 +3,6 @@
 title: Biggest Market Share Kitchen Appliances
 description: "In today’s world, the kitchen is an essential part of every home. We use it for meal preparation, entertaining family and friends,...learn more"
 keywords: kitchen appliances
-publishDate: 5/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

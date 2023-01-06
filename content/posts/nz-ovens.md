@@ -3,7 +3,6 @@
 title: Nz Ovens
 description: "When it comes to home cooking, New Zealanders are lucky enough to have some of the best ovens in the world. NZ ovens offer a range...see more"
 keywords: nz
-publishDate: 12/12/2022
 tags: ["Oven", "New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

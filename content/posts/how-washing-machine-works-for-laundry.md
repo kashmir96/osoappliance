@@ -3,7 +3,6 @@
 title: How Washing Machine Works
 description: "A washing machine is a home appliance used to wash laundry. It consists of a motor, pump, agitator, and drum for spinning the clot...lets find out"
 keywords: washing machine
-publishDate: 1/3/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

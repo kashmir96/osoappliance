@@ -3,7 +3,6 @@
 title: Washing Machine Nz
 description: "The washing machine is one of the most important appliances in the home. It’s a big investment, so it’s important to choose wisely...you wont regret reading on"
 keywords: washing machine nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

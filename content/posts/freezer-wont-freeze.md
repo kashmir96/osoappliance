@@ -3,7 +3,6 @@
 title: Freezer Wont Freeze
 description: If your freezer isn't freezing, this post will help you try to resolve the issue yourself, with easy steps to follow - so read on to find out more!
 keywords: freezer
-publishDate: 12/21/2022
 tags: ["Appliances", "Freezer", "Freezer"]
 author: Curtis
 categories: ["Appliances Christchurch"]

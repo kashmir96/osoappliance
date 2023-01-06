@@ -3,7 +3,6 @@
 title: Commercial Convection Oven Nz
 description: "A commercial convection oven is a type of oven designed for professional use in commercial kitchens. It is a versatile tool that c...you wont regret reading on"
 keywords: oven nz
-publishDate: 12/12/2022
 tags: ["Oven", "New Zealand"]
 author: Curtis
 categories: ["Household Appliances"]

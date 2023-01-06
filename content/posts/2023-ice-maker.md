@@ -3,7 +3,6 @@
 title: 2023 Ice Maker
 description: "As technology advances, so do our home appliances. Ice makers are no exception. In 2023, ice makers have come a long way in terms ...take a moment to check it out "
 keywords: 2023 ice maker
-publishDate: 3/4/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

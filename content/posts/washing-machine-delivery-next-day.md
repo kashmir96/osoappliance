@@ -3,7 +3,6 @@
 title: Washing Machine Delivery Next Day
 description: "Shopping for a new washing machine is a big decision. With the right model, your clothes can come out of the wash looking like the...scroll on and keep learning"
 keywords: washing machine
-publishDate: 2/13/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

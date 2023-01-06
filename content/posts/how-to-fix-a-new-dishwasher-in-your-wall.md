@@ -3,7 +3,6 @@
 title: How To Fix A New Dishwasher In Your Wall
 description: "If you’ve recently purchased a new dishwasher and are ready to install it in your wall, you’ve come to the right place! Installing...scroll on and keep learning"
 keywords: how to fix dishwasher
-publishDate: 6/16/2022
 tags: ["Dishwasher", "Appliance Repair", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Washing Machine Wont Drain
 description: "If your washing machine isn't draining properly, it can be a major inconvenience and a real headache. Fortunately, there are sever...learn about it in this post"
 keywords: washing machine
-publishDate: 3/30/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

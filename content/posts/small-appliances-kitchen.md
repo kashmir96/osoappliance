@@ -3,7 +3,6 @@
 title: Small Appliances Kitchen
 description: "The kitchen is the heart of any home, and it’s important to equip it with the right appliances and tools. Small appliances are ess...scroll on and keep learning"
 keywords: appliances kitchen
-publishDate: 11/29/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

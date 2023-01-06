@@ -3,7 +3,6 @@
 title: Blender Used By Starbucks
 description: "Starbucks is a world-renowned coffee chain that has been serving up delicious hot and cold beverages for decades. Recently, they h...you wont regret reading on"
 keywords: blender
-publishDate: 4/7/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

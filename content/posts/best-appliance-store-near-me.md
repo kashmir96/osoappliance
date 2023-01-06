@@ -3,7 +3,6 @@
 title: Best Appliance Store Near Me
 description: "If you’re in the market for some new appliances, you’re likely wondering where the best appliance store near you is located. Findi...lets find out"
 keywords: best store near
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

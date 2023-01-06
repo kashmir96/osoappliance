@@ -3,7 +3,6 @@
 title: Where Is The Belt On A Dryer
 description: "When it comes to servicing a dryer, one of the most common components that needs to be checked is the belt. The belt is an importa...you wont regret reading on"
 keywords: belt dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Rent Dishwasher Bangalore
 description: "Renting a dishwasher in Bangalore is becoming increasingly popular among people living in the city, as it allows them to save mone...get more info"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

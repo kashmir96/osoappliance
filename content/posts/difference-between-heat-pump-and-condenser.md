@@ -3,7 +3,6 @@
 title: Difference Between Heat Pump And Condenser
 description: "When it comes to operating costs, a heat pump dryer and a condenser dryer are two completely different machines. When choosing bet...you wont regret reading on"
 keywords: heat pump
-publishDate: 11/24/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

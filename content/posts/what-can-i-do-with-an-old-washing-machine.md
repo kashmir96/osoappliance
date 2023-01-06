@@ -3,7 +3,6 @@
 title: What Can I Do With An Old Washing Machine
 description: This post is about the best ways to dispose of an old washing machine, read on to find out more!
 keywords: washing machine
-publishDate: 6/13/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

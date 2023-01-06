@@ -3,7 +3,6 @@
 title: Best Buy Dishwasher
 description: "If you’re looking for a new dishwasher in New Zealand, you’ve come to the right place. There are a number of great places to buy d...continue on"
 keywords: best buy dishwasher
-publishDate: 8/3/2022
 tags: ["Dishwasher", "Buy Appliance", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Broken Washing Machine Door
 description: If you've ever encountered a broken washing machine door, this blog post can help you identify the cause and provide solutions to fix it; read on to learn more!
 keywords: washing machine
-publishDate: 7/20/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

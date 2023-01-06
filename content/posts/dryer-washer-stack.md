@@ -3,7 +3,6 @@
 title: Dryer Washer Stack
 description: "When you have limited space in your laundry room, a dryer washer stack can be a great solution. A dryer washer stack is a combinat...learn about it in this post"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

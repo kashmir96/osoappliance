@@ -3,7 +3,6 @@
 title: Why Washing Machine
 description: "In the modern world, washing machines are a boon for all of us. In the past, washing clothes was a laborious and time-consuming ta...check it out to learn"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

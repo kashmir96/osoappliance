@@ -3,7 +3,6 @@
 title: Air Purifier Learn How To
 description: "As air pollution continues to increase, air purifiers have become a popular solution for many people. An air purifier is an electr...learn more about it now"
 keywords: air purifier how to
-publishDate: 3/28/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

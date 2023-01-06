@@ -3,7 +3,6 @@
 title: Oven Cant Get Up To Temp
 description: "If your oven is not reaching the desired temperature or is taking a long time to preheat, there are a few potential causes. The mo...lets find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

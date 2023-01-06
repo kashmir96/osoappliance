@@ -3,7 +3,6 @@
 title: Why Oven Glass Door Shattered
 description: "If you've ever had the unfortunate experience of having your oven glass door shatter, you know how jarring it can be. Oven glass d...you wont regret reading on"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

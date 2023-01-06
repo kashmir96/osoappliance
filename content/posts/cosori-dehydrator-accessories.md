@@ -3,7 +3,6 @@
 title: Cosori Dehydrator Accessories
 description: "If you own a Cosori Dehydrator, you already know it is an incredible kitchen appliance that can help you make healthier snacks and...read now to learn more"
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

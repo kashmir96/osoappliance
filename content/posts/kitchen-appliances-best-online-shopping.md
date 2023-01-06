@@ -3,7 +3,6 @@
 title: Kitchen Appliances Best Online Shopping
 description: "In the modern world, online shopping has become a popular way to purchase kitchen appliances. With so many websites offering a var...learn more about it now"
 keywords: kitchen best online
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

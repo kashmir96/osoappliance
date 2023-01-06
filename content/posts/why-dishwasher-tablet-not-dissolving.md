@@ -3,7 +3,6 @@
 title: Why Dishwasher Tablet Not Dissolving
 description: "If you’ve ever been frustrated by a dishwasher tablet that won’t dissolve, you’re not alone. This can be a common problem and it c...get the full scoop"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Conditioning App To Use In House
 description: "As the summer months approach, many of us are looking for ways to keep our homes cool and comfortable. Air conditioning is one of ...scroll on and keep learning"
 keywords: air use
-publishDate: 5/3/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Tumble Dryer
 description: "A tumble dryer is a household appliance used to dry clothes and other fabrics. It works by using hot air to evaporate the moisture...learn more about it now"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

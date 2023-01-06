@@ -3,7 +3,6 @@
 title: Solo Stove Why
 description: "Solo Stove is a revolutionary product that has revolutionized the way we cook. It is a lightweight, portable, and efficient wood-b...take a moment to check it out "
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

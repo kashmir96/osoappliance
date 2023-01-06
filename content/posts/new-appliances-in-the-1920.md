@@ -3,7 +3,6 @@
 title: New Appliances In The 1920
 description: "In the 1920s, the home appliance industry saw a massive growth in new and innovative products. These appliances were game changers...take a moment to check it out "
 keywords: 1920
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

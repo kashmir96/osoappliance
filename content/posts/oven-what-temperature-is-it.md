@@ -3,7 +3,6 @@
 title: Oven What Temperature Is It
 description: "Oven temperature is an important factor when it comes to baking. Knowing the correct temperature to set your oven at is key to ens...learn more"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

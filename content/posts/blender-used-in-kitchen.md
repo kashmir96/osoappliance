@@ -3,7 +3,6 @@
 title: Blender Used In Kitchen
 description: "Blender is a kitchen appliance that has become an essential tool for many home cooks. It is used to blend, puree, and emulsify a v...you wont regret reading on"
 keywords: blender kitchen
-publishDate: 4/3/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

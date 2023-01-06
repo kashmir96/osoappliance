@@ -3,7 +3,6 @@
 title: Air Conditioning Large Warehouses
 description: "The importance of air conditioning in large warehouses cannot be understated. Not only does it provide comfort for workers, but it...check it out to learn"
 keywords: air
-publishDate: 6/19/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Commercial Smoothie Blender
 description: "Smoothies are a delicious and nutritious way to get your daily dose of fruits and vegetables. A commercial smoothie blender is an ...swipe up to find out"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Oven Temperature Is Important
 description: "Oven temperature is one of the most important factors when it comes to cooking and baking. It can be the difference between a perf...learn about it in this post"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

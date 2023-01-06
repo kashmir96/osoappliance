@@ -3,7 +3,6 @@
 title: Washing Clothes Best For Your Garments
 description: "As a fashion enthusiast, it's important to take extra steps to ensure that your garments are properly cared for and remain in grea...continue on"
 keywords: washing best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

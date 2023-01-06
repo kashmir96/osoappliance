@@ -3,7 +3,6 @@
 title: Why Is Gas Stove Not Lighting
 description: "A gas stove is a highly efficient cooking appliance that can provide a fast, even heat for recipes. However, sometimes the flame o...lets find out"
 keywords: gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

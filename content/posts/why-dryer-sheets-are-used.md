@@ -3,7 +3,6 @@
 title: Why Dryer Sheets Are Used
 description: "Dryer sheets are a convenient household essential used to reduce static cling and keep your clothes soft. They are primarily compo...learn more about it now"
 keywords: dryer
-publishDate: 3/8/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Where To Buy
 description: "When it comes to buying a dryer, you have a lot of options. Whether you’re looking for an electric or gas model, there are plenty ...get more detail"
 keywords: dryer buy
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

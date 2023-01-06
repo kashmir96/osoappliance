@@ -3,7 +3,6 @@
 title: Rent Appliances Near Me
 description: "Rent appliances near me is a great option for those who need to replace an existing appliance or upgrade to a newer model but don’...check it out to learn"
 keywords: appliances near
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Influnecer For Kitchen Appliances
 description: "If you are someone who loves to cook, chances are you have heard of influencers for kitchen appliances. Influencers for kitchen ap...learn more about it now"
 keywords: kitchen appliances
-publishDate: 12/25/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

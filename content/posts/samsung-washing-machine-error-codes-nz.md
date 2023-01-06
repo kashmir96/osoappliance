@@ -3,7 +3,6 @@
 title: Samsung Washing Machine Error Codes Nz
 description: This blog post explains the common error codes for Samsung washing machines in New Zealand, so if you're having trouble with your Samsung washing machine, read on to find out more!
 keywords: washing machine nz
-publishDate: 9/9/2022
 tags: ["Washing Machine", "Appliances", New Zealand]
 author: Curtis
 categories: ["Appliances Christchurch"]

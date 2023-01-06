@@ -3,7 +3,6 @@
 title: Electrical Air Conditioning Unit
 description: "Air conditioning is an essential part of life in many parts of the world, providing comfort and convenience during the hot summer ...continue on"
 keywords: air
-publishDate: 6/1/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Bosch Dishwasher Pc Repair
 description: "If you’re looking for a reliable dishwasher repair service, then look no further than Bosch. Bosch dishwashers are renowned for th...learn more"
 keywords: bosch dishwasher repair
-publishDate: 2/10/2023
 tags: ["Heat Pump", "Dishwasher", "Appliance Repair", "Kitchen Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

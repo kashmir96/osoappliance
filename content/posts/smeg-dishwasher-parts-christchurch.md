@@ -3,7 +3,6 @@
 title: Smeg Dishwasher Parts Christchurch
 description: "If you own a Smeg dishwasher in Christchurch, you’re likely already familiar with the importance of keeping your dishwasher runnin...read now to learn more"
 keywords: dishwasher parts christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Clean Appliance", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

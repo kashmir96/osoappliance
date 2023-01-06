@@ -3,7 +3,6 @@
 title: Does A Dyson Fan Reduce Hayfever
 description: "Do you suffer from hayfever? You’re not alone. Millions of people around the world suffer from this seasonal symptom of allergies....keep going and find out"
 keywords: fan
-publishDate: 12/30/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

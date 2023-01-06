@@ -3,7 +3,6 @@
 title: Where To Put Washing Machine Liquid
 description: "If you’re wondering where to put washing machine liquid detergent, the answer is simple: it depends on your washing machine. Some ...keep going and find out"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

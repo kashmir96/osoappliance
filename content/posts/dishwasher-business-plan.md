@@ -3,7 +3,6 @@
 title: Dishwasher Business Plan
 description: "Do you have a passion for running a successful dishwashing business? Whether you’re looking to open a restaurant or start an indus...learn about it in this post"
 keywords: dishwasher
-publishDate: 5/1/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

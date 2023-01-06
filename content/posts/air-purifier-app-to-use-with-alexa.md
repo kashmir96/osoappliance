@@ -3,7 +3,6 @@
 title: Air Purifier App To Use With Alexa
 description: "The air quality inside your home can have a major impact on your health and wellbeing. That’s why an air purifier is so important....read now to learn more"
 keywords: air purifier use
-publishDate: 3/10/2023
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

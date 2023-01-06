@@ -3,7 +3,6 @@
 title: Air Conditioner Scrap Value
 description: "In today's world, air conditioners are a popular home appliance. But what happens when it’s time to replace your old air condition...see more"
 keywords: air conditioner scrap value
-publishDate: 4/21/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

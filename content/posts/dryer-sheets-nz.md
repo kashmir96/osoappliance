@@ -3,7 +3,6 @@
 title: Dryer Sheets Nz
 description: "Dryer sheets are a great addition to any laundry routine, and they’re especially popular in New Zealand. They help reduce static c...lets find out"
 keywords: dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

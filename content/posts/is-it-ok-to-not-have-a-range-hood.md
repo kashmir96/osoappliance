@@ -3,7 +3,6 @@
 title: Is It Ok To Not Have A Range Hood
 description: "Having a range hood is an important part of any kitchen. It helps to keep the air clean and free of cooking odors, smoke, and grea...learn about it in this post"
 keywords: range
-publishDate: 25/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

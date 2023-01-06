@@ -3,7 +3,6 @@
 title: Dishwasher Lower Rack Replacement
 description: "When it comes to replacing the lower rack of your dishwasher, it’s important to make sure you get the right parts and know how to ...see more"
 keywords: dishwasher replacement
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Appliance Repair", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

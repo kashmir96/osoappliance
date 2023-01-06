@@ -3,7 +3,6 @@
 title: Dangers Of Purifier In Bedroom
 description: "When it comes to purifiers, there are many benefits associated with them. They can help remove dust, pollen, and other airborne pa...scroll on and keep learning"
 keywords: purifier
-publishDate: 5/22/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

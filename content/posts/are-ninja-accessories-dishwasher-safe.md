@@ -3,7 +3,6 @@
 title: Are Ninja Accessories Dishwasher Safe
 description: "Are you a fan of ninja accessories, such as throwing stars or nunchucks? You may be wondering if these items are safe to put in th...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

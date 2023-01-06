@@ -3,7 +3,6 @@
 title: Accessories For Washer And Dryer
 description: "Having a washer and dryer in your home can make it easier to keep your clothes and linens clean, but it’s important to have the ri...continue on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

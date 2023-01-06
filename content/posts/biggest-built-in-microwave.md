@@ -3,7 +3,6 @@
 title: Biggest Built In Microwave
 description: "In recent years, the biggest built-in microwaves have come a long way from their humble beginnings. Nowadays, they are more powerf...see more"
 keywords: microwave
-publishDate: 4/21/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

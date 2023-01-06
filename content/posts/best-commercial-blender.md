@@ -3,7 +3,6 @@
 title: Best Commercial Blender
 description: "A commercial blender is a kitchen appliance that is used to blend, mix, and puree ingredients to create smoothies, soups, sauces, ...learn about it in this post"
 keywords: best blender
-publishDate: 6/16/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

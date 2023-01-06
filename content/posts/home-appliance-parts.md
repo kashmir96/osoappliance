@@ -3,7 +3,6 @@
 title: Home Appliance Parts
 description: "Whether you’re an experienced DIYer or just getting started, understanding the different parts of your home appliances can help yo...get more detail"
 keywords: appliance parts
-publishDate: 7/4/2023
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

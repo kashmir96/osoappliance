@@ -3,7 +3,6 @@
 title: 2023 Heat Pump Tax Credit
 description: "In 2021, the American Rescue Plan Act was passed by Congress, which included generous tax credits for homeowners who install a hea...learn about it in this post"
 keywords: 2023 heat pump
-publishDate: 3/2/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

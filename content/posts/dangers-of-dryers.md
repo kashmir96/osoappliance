@@ -3,7 +3,6 @@
 title: Dangers Of Dryers
 description: "When it comes to laundry appliances, a dryer is the most commonly used appliance. While dryers are incredibly helpful in making ou...swipe up to find out"
 keywords: dryers
-publishDate: 1/10/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

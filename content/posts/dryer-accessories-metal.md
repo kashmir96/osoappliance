@@ -3,7 +3,6 @@
 title: Dryer Accessories Metal
 description: "When it comes to laundry, the dryer is an essential appliance for many households. It’s important to choose the right dryer access...scroll on and keep learning"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

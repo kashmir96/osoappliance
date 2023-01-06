@@ -3,7 +3,6 @@
 title: Washing Machine Delivery Same Day
 description: "Are you in the market for a new washing machine? Have you heard about same-day delivery options? If not, it’s time to get up to sp...see more"
 keywords: washing machine
-publishDate: 2/14/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

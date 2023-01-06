@@ -3,7 +3,6 @@
 title: Big Kitchen Appliances For Sale
 description: "Are you looking to upgrade your kitchen with new appliances? Big kitchen appliances are essential for every household, and they ca...lets find out"
 keywords: kitchen appliances sale
-publishDate: 3/23/2022
 tags: ["Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

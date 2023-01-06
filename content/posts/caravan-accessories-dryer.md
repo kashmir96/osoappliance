@@ -3,7 +3,6 @@
 title: Caravan Accessories Dryer
 description: "Caravan dryer accessories are essential items for anyone who owns a caravan. Not only do these accessories make the camping experi...read now to learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

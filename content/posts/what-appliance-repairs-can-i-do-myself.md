@@ -3,7 +3,6 @@
 title: What Appliance Repairs Can I Do Myself
 description: This post discusses how to repair some common appliances on your own, saving you time and money. Learn more by reading now!
 keywords: appliance repairs
-publishDate: 6/22/2022
 tags: ["Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

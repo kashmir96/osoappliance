@@ -3,7 +3,6 @@
 title: Dangers Of Microwave Ovens
 description: "Microwave ovens have become a mainstay in most kitchens. They are convenient and can help you save time when preparing meals. Whil...find out now"
 keywords: microwave
-publishDate: 12/12/2022
 tags: ["Oven", "Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

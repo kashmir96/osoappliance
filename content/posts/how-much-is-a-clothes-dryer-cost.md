@@ -3,7 +3,6 @@
 title: How Much Is A Clothes Dryer
 description: "If you’re in the market for a new clothes dryer, it’s important to know how much you can expect to spend. The cost of a clothes dr...keep reading to learn"
 keywords: dryer
-publishDate: 12/15/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

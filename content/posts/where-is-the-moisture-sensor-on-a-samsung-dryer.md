@@ -3,7 +3,6 @@
 title: Where Is The Moisture Sensor On A Samsung Dryer
 description: "If you own a Samsung dryer, you may be wondering where the moisture sensor is located. The moisture sensor on a Samsung dryer is l...keep going and find out"
 keywords: samsung dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

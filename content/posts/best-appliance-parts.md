@@ -3,7 +3,6 @@
 title: Best Appliance Parts
 description: "If you’re looking to give new life to old appliances, the best appliance parts for the job are ones that will help restore functio...get more detail"
 keywords: best appliance parts
-publishDate: 10/4/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

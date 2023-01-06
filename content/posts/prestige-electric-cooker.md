@@ -3,7 +3,6 @@
 title: Prestige Electric Cooker
 description: "If you’re looking for a reliable and efficient electric cooker, then the prestige electric cooker is an excellent choice. This coo...find out now"
 keywords: cooker
-publishDate: 5/27/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

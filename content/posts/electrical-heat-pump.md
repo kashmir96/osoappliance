@@ -3,7 +3,6 @@
 title: Electrical Heat Pump
 description: "An electric heat pump is an energy-efficient heating and cooling system that uses electricity to control the temperature of your h...take a moment to check it out "
 keywords: heat pump
-publishDate: 6/4/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

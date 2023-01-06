@@ -3,7 +3,6 @@
 title: Washer Dryer Combos Christchurch
 description: "The washer dryer combo is one of the most convenient and time-saving appliances available for households in Christchurch. With the...keep going and find out"
 keywords: dryer christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

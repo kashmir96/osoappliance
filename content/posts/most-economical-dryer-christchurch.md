@@ -3,7 +3,6 @@
 title: Most Economical Dryer Christchurch
 description: This post provides a comprehensive overview of the most economical dryers available in Christchurch, so if you're looking for a great deal on a dryer, be sure to read on!
 keywords: dryer christchurch
-publishDate: 12/19/2022
 tags: ["Christchurch", "Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

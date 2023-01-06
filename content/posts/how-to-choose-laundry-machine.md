@@ -3,7 +3,6 @@
 title: How To Choose Laundry Machine
 description: "When it comes to selecting the perfect laundry machine for your home, there are a few things to consider. With so many options ava...see more"
 keywords: how to laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

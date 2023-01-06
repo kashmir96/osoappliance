@@ -3,7 +3,6 @@
 title: Rental Dishwasher Replacement
 description: "Renters often face a dilemma when it comes to replacing their dishwasher; they either have to purchase a new one outright, or find...learn more about it now"
 keywords: dishwasher replacement
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Appliance Repair", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

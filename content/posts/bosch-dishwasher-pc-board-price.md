@@ -3,7 +3,6 @@
 title: Bosch Dishwasher Pc Board Price
 description: "Are you the owner of a Bosch dishwasher? If so, you may have heard about the potential need for PCB (Printed Circuit Board) repair...keep going and find out"
 keywords: bosch dishwasher
-publishDate: 2/8/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

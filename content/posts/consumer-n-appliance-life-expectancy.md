@@ -3,7 +3,6 @@
 title: Consumer N Appliance Life Expectancy
 description: "Consumer appliances, such as refrigerators, washing machines, and dryers, are essential pieces of equipment for many households. T...see more"
 keywords: appliance
-publishDate: 2/24/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

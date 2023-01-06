@@ -3,7 +3,6 @@
 title: How To Set Up Your Kitchen Appliances
 description: "Setting up your kitchen appliances is an important part of getting your kitchen ready for use. To ensure that you get the best out...lets find out"
 keywords: how to set kitchen appliances
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

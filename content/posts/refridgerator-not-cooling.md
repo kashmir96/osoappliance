@@ -3,7 +3,6 @@
 title: Refridgerator Not Cooling
 description: This post will teach you how to diagnose and fix a refrigerator that isn't cooling properly. If your fridge isn't working, don't panic - this post will help you get it up and running in no time!
 keywords: refridgerator
-publishDate: 6/16/2022
 tags: ["Appliances", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

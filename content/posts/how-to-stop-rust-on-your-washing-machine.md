@@ -3,7 +3,6 @@
 title: How To Stop Rust On Your Washing Machine
 description: "If you’ve noticed rust on your washing machine, you’re not alone. Rust can be a common problem on washing machines, especially if ...find out now"
 keywords: how to washing machine
-publishDate: 6/19/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

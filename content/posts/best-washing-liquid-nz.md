@@ -3,7 +3,6 @@
 title: Best Washing Liquid Nz
 description: "If you’re looking for the best washing liquid in New Zealand, you’ve come to the right place. With so many options available, it c...learn more about it now"
 keywords: best washing nz
-publishDate: 9/9/2022
 tags: ["Washing Machine", "New Zealand", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

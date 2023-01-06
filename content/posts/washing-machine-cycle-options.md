@@ -3,7 +3,6 @@
 title: Washing Machine Cycle Options
 description: "We all know that washing machines are a time-saving, convenient appliance that makes laundry a breeze. But did you know that your ...keep reading to learn"
 keywords: washing machine
-publishDate: 2/8/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

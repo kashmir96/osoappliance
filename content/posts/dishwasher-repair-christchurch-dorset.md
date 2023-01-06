@@ -3,7 +3,6 @@
 title: Dishwasher Repair Christchurch Dorset
 description: "If you live in Christchurch Dorset, chances are you have a dishwasher that needs repair and you need a reliable dishwasher repair ...learn more about it now"
 keywords: dishwasher repair christchurch
-publishDate: 8/7/2022
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

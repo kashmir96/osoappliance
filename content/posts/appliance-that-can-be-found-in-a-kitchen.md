@@ -3,7 +3,6 @@
 title: Appliance That Can Be Found In A Kitchen
 description: "Appliances are essential in any kitchen. They make cooking and food preparation more efficient and convenient. From blenders to to...learn more about it now"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

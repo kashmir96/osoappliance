@@ -3,7 +3,6 @@
 title: Most Common Microwave Problems
 description: "Microwaves are convenient kitchen appliances that make reheating and cooking meals a breeze. However, just like with any other app...you wont regret reading on"
 keywords: most microwave
-publishDate: 12/23/2021
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

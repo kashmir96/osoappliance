@@ -3,7 +3,6 @@
 title: Washing Machine Repairs Chch
 description: "Are you dealing with a broken washing machine in Christchurch? It can be extremely frustrating when your washing machine stops wor...see more detail"
 keywords: washing machine chch
-publishDate: 3/22/2023
 tags: ["Washing Machine", "Heat Pump", "Christchurch", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Purifier Does It Remove Dust
 description: "An air purifier is a device that helps to remove dust, pollen, pet dander and other airborne particles from the air in your home o...check it out to learn"
 keywords: air purifier
-publishDate: 3/22/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

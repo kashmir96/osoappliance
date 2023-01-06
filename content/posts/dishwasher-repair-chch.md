@@ -3,7 +3,6 @@
 title: Dishwasher Repair Chch
 description: "If you’re living in Chch, or more formally known as Christchurch, New Zealand and your dishwasher is on the fritz, you may be wond...you wont regret reading on"
 keywords: dishwasher repair chch
-publishDate: 8/18/2022
 tags: ["Washing Machine", "Dryer", "Appliance Repair", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

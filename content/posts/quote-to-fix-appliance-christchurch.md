@@ -3,7 +3,6 @@
 title: Quote To Fix Appliance Christchurch
 description: This post outlines why it is important to take action and get broken appliances fixed quickly in Christchurch; read on to find out more about why this is the case.
 keywords: fix appliance christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

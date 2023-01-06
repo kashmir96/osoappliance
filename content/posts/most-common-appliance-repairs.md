@@ -3,7 +3,6 @@
 title: Most Common Appliance Repairs
 description: "When your household appliances like a refrigerator, dishwasher, washer or dryer break down, it can be a huge hassle. Fortunately, ...learn more about it now"
 keywords: most appliance
-publishDate: 3/7/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

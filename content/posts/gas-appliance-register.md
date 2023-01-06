@@ -3,7 +3,6 @@
 title: Gas Appliance Register
 description: "A gas appliance register is a document that records all the gas appliances in a building, including their make, model, and install...check it out to learn"
 keywords: gas
-publishDate: 12/12/2022
 tags: ["Stove"]
 author: Curtis
 categories: ["Household Appliances"]

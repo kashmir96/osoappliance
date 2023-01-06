@@ -3,7 +3,6 @@
 title: 2023 Juicer
 description: "The science and technology of juicing has come a long way since the early days of manual juicers. In 2023, modern juicers are able...check it out to learn"
 keywords: 2023 juicer
-publishDate: 3/5/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

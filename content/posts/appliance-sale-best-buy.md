@@ -3,7 +3,6 @@
 title: Appliance Sale Best Buy
 description: "If you're in the market for new appliances, you may be wondering when the best time to buy is. While there is no single answer to ...get more detail"
 keywords: sale best buy
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

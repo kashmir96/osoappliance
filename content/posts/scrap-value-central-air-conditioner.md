@@ -3,7 +3,6 @@
 title: Scrap Value Central Air Conditioner
 description: "The scrap value of a central air conditioner is determined by the amount of metal and other valuable parts it contains. As with an...you wont regret reading on"
 keywords: scrap value air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]
@@ -28,7 +27,6 @@ In conclusion, while there may not necessarily be a fortune to be made off scrap
 title: Scrap Value Of Ac
 description: ""What is the Scrap Value of an AC?...lets find out""
 keywords: scrap value
-publishDate: 12/12/2022
 tags: [""Appliance Disposal"", ""Buy Appliance""]
 author: Curtis
 categories: [""Household Appliances""]

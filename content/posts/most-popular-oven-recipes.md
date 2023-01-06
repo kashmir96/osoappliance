@@ -3,7 +3,6 @@
 title: Most Popular Oven Recipes
 description: "There are so many oven recipes that are popular, it is hard to know where to start. One of the most popular oven recipes is probab...learn about it in this post"
 keywords: most popular oven
-publishDate: 7/28/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

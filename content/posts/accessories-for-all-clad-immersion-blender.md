@@ -3,7 +3,6 @@
 title: Accessories For All Clad Immersion Blender
 description: "The All-Clad Immersion Blender is an essential tool for any kitchen. It can blend, purée and chop ingredients quickly and easily. ...keep going and find out"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

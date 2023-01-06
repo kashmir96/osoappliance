@@ -3,7 +3,6 @@
 title: Commercial Washing Powder
 description: "Are you looking for a reliable and effective way to clean your clothes? Commercial washing powder might be the answer you are look...swipe up to find out"
 keywords: washing
-publishDate: 2/20/2023
 tags: ["Washing Machine", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Large Washing Machine Nz
 description: "When it comes to washing machines, the larger the better. Bigger washers can handle more clothes in one cycle, saving you time and...continue on"
 keywords: best washing machine nz
-publishDate: 3/8/2022
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

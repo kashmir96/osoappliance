@@ -3,7 +3,6 @@
 title: What Are Smart Home Appliances
 description: "Smart home appliances are electronic devices that use the latest technology to make daily tasks easier and more efficient. Smart h...read now to learn more"
 keywords: smart appliances
-publishDate: 4/13/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
@@ -28,7 +27,6 @@ Overall, smart home appliances offer a great way for homeowners to increase conv
 title: What Are The Advantages Of An Air Purifier
 description: ""Air purifiers are essential appliances for many people in today's world. With the increasing levels of air pollution and the preva...find out now""
 keywords: air purifier
-publishDate: 4/14/2023
 tags: [""Heat Pump""]
 author: Curtis
 categories: [""Household Appliances""]

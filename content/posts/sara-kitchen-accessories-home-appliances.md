@@ -3,7 +3,6 @@
 title: Sara Kitchen Accessories & Home Appliances
 description: "Sara Kitchen Accessories & Home Appliances are a great way to make your kitchen more functional and efficient. With a wide selecti...get more detail"
 keywords: kitchen appliances
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

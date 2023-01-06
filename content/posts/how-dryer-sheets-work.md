@@ -3,7 +3,6 @@
 title: How Dryer Sheets Work
 description: "Dryer sheets are an essential part of doing laundry, but have you ever wondered how they work? Dryer sheets are a simple yet effec...keep going and find out"
 keywords: dryer
-publishDate: 11/27/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

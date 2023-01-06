@@ -3,7 +3,6 @@
 title: Commercial Blender For Sale
 description: "If you’re in the market for a commercial blender, you want a machine that can handle all your blending needs. A commercial blender...keep reading to learn"
 keywords: blender sale
-publishDate: 4/12/2022
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

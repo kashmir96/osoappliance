@@ -3,7 +3,6 @@
 title: Are All Washing Machines The Same Size
 description: This post provides an overview of the various sizes and capacities of washing machines, so if you're in the market for a new one, be sure to read on for more information.
 keywords: washing machines
-publishDate: 11/21/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

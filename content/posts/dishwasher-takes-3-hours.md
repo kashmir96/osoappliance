@@ -3,7 +3,6 @@
 title: Dishwasher Takes 3 Hours
 description: "If you’ve ever been in the market for a new dishwasher, you may have noticed that some models feature a “3-hour wash cycle.” This ...read now to learn more"
 keywords: dishwasher
-publishDate: 3/4/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

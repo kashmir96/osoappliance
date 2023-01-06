@@ -3,7 +3,6 @@
 title: What Is A Second Hand Refridgerator Worth Nz
 description: This post will outline the different types of refrigerators available in New Zealand, as well as the price range you can expect to pay. If you're in the market for a used fridge, this post is a must-read.
 keywords: second hand refridgerator nz
-publishDate: 7/6/2022
 tags: ["Appliances", New Zealand, "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

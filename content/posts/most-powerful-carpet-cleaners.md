@@ -3,7 +3,6 @@
 title: Most Powerful Carpet Cleaners
 description: "Carpets are a great way to add texture and color to your home, but they can also be difficult to keep clean. Dust, dirt, and pet h...scroll on and keep learning"
 keywords: most
-publishDate: 2/14/2022
 tags: ["Appliance Consumption", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

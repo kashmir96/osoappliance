@@ -3,7 +3,6 @@
 title: Best Dryer Brush
 description: "A dryer brush is an essential tool for anyone who wants to keep their clothes looking their best. It is used to remove lint, pet h...continue on"
 keywords: best dryer
-publishDate: 8/10/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

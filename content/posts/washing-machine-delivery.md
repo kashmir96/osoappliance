@@ -3,7 +3,6 @@
 title: Washing Machine Delivery
 description: "If you’re in the market for a new washing machine, you may be wondering about delivery options. Washing machine delivery is an inc...learn about it in this post"
 keywords: washing machine
-publishDate: 2/9/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

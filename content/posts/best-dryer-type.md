@@ -3,7 +3,6 @@
 title: Best Dryer Type
 description: "When it comes to laundry, the dryer is a key component. Not only does it help to speed up the process, but it also helps to keep y...keep reading to learn"
 keywords: best dryer
-publishDate: 8/14/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

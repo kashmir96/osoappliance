@@ -3,7 +3,6 @@
 title: Oven Does Not Work
 description: "If your oven isn't working, it can be extremely frustrating. Ovens are essential kitchen appliances, and when they don't work, it ...lets find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Places To Rent Appliances
 description: "Are you looking for an appliance rental in your area? If so, you’ve come to the right place! With a wide variety of options, you c...learn about it in this post"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

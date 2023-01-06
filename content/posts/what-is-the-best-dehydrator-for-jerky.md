@@ -3,7 +3,6 @@
 title: What Is The Best Dehydrator For Jerky
 description: "When it comes to making delicious, homemade jerky, a dehydrator is an essential tool. But with so many models available on the mar...learn more about it now"
 keywords: best dehydrator
-publishDate: 1/3/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

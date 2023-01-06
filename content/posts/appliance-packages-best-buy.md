@@ -3,7 +3,6 @@
 title: Appliance Packages Best Buy
 description: "If you’re a new home buyer, you’ve probably already put a lot of thought into what kind of furniture, paint colors, and decoration...get more detail"
 keywords: best buy
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

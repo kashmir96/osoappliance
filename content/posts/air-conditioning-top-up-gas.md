@@ -3,7 +3,6 @@
 title: Air Conditioning Top Up Gas
 description: "When it comes to air conditioning top up gas, this is an essential part of maintaining a functional air conditioning system and en...get the full scoop"
 keywords: air top gas
-publishDate: 7/26/2023
 tags: ["Heat Pump", "Stove", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Appliance Retailers
 description: "Today, appliance retailers are a growing part of the retail landscape. With advances in technology, people are able to purchase ap...continue on"
 keywords: appliance
-publishDate: 4/9/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

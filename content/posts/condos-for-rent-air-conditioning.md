@@ -3,7 +3,6 @@
 title: Condos For Rent Air Conditioning
 description: "Air conditioning is an important feature for many renters looking for a condo. Whether you live in a hot climate or just want to s...see more detail"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

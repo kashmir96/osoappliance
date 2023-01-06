@@ -3,7 +3,6 @@
 title: Commercial Ovens For Sale
 description: "If you’re in the market for an oven, whether it’s for a restaurant, bakery, or other commercial kitchen, you’ll want to make sure ...get more detail"
 keywords: sale
-publishDate: 1/14/2023
 tags: ["Oven", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

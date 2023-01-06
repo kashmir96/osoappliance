@@ -3,7 +3,6 @@
 title: When Do 2023 Appliances Come Out
 description: "2023 appliances are just starting to come out. Manufacturers are beginning to release their new products for the upcoming year, so...swipe up to find out"
 keywords: 2023 appliances
-publishDate: 4/16/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

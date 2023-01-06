@@ -3,7 +3,6 @@
 title: Washing Machine Reliability Ratings
 description: "Are you in the market for a new washing machine but have no idea how to tell if it’s reliable or not? Worry no more! With reliabil...lets find out"
 keywords: washing machine ratings
-publishDate: 3/13/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

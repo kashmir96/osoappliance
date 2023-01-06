@@ -3,7 +3,6 @@
 title: Steam Washing Machine Pros And Cons
 description: "Steam washing machines have recently become a popular choice in the laundry room, and for good reason. With their ability to save ...scroll on and keep learning"
 keywords: washing machine
-publishDate: 1/14/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Electrical Dishwasher Kit
 description: "If you’re thinking about installing an electric dishwasher in your home, an electrical dishwasher kit is a great way to get starte...see more detail"
 keywords: dishwasher
-publishDate: 4/19/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

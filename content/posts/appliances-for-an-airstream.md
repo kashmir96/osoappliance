@@ -3,7 +3,6 @@
 title: Appliances For An Airstream
 description: "If you’ve recently purchased an Airstream, you know that it’s a great way to travel and explore the world. But, before you hit the...keep going and find out"
 keywords: appliances
-publishDate: 12/11/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

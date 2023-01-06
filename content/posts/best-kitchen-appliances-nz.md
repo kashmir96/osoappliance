@@ -3,7 +3,6 @@
 title: Best Kitchen Appliances Nz
 description: "As New Zealanders, we all love to spend time in the kitchen cooking up a storm and creating delicious meals. But in order to do th...you wont regret reading on"
 keywords: best kitchen nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Can A Washing Machine Kill You
 description: "Can a Washing Machine Kill You?...scroll on and keep learning"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

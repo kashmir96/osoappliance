@@ -3,7 +3,6 @@
 title: Why Oven Is Used
 description: "Ovens have been an essential part of home cooking for centuries. From baking bread to roasting meats, ovens are a versatile and co...continue on"
 keywords: oven
-publishDate: 3/13/2022
 tags: ["Oven", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

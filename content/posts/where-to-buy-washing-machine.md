@@ -3,7 +3,6 @@
 title: Where To Buy Washing Machine
 description: "When it comes to buying a new washing machine, there are many factors to consider. Size, type, features, and brand are all importa...learn more about it now"
 keywords: buy washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

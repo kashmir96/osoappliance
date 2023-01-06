@@ -3,7 +3,6 @@
 title: Best Carpet Cleaner Solution
 description: "When it comes to keeping a home clean, carpets are often overlooked as an important part of the overall cleanliness of a home. Car...swipe up to find out"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

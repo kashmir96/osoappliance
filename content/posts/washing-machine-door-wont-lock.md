@@ -3,7 +3,6 @@
 title: Washing Machine Door Wont Lock
 description: If your washing machine door won't lock, this post will provide you with simple steps to help fix the issue - read on to find out more!
 keywords: washing machine
-publishDate: 11/24/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

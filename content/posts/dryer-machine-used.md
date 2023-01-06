@@ -3,7 +3,6 @@
 title: Dryer Machine Used
 description: "Welcome to the world of dryers! Dryers are an essential household appliance that is used to remove moisture from clothes, towels, ...see more"
 keywords: dryer
-publishDate: 1/4/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

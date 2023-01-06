@@ -3,7 +3,6 @@
 title: Commercial Hand Blender
 description: "A commercial hand blender is a great kitchen tool for quickly and easily blending, pureeing, and emulsifying all types of food. It...keep going and find out"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Reliability Statistics
 description: "When it comes to purchasing a new washing machine, one of the most important things to consider is reliability. After all, you don...find out now"
 keywords: washing machine
-publishDate: 3/15/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How Washer Dryer Works
 description: "A washer dryer is a combination of two appliances: a washing machine and a clothes dryer. It is an efficient way to do laundry, as...read now to learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

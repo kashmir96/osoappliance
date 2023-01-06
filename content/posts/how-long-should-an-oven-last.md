@@ -3,7 +3,6 @@
 title: How Long Should An Oven Last
 description: This post explains how long an oven should last and why it's important to consider, so if you want to know more, read on!
 keywords: oven
-publishDate: 10/18/2022
 tags: ["Appliances", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

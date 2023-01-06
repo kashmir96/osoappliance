@@ -3,7 +3,6 @@
 title: Dehydrator Accessories
 description: "Dehydrators are a great way to preserve food for longer periods of time. But, in order to get the most out of your dehydrator, the...continue on"
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

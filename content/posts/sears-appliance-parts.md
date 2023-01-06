@@ -3,7 +3,6 @@
 title: Sears Appliance Parts
 description: "Sears is one of the most recognizable names in appliance parts. They offer a wide selection of replacement parts for most major br...learn more about it now"
 keywords: appliance parts
-publishDate: 44583
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

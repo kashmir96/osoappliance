@@ -3,7 +3,6 @@
 title: Arctic Air Conditioning Reviews
 description: "Arctic air conditioning is a great way to keep your home cool during the hot summer months. It is an efficient and affordable alte...see more detail"
 keywords: air reviews
-publishDate: 4/23/2023
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Electrical Socket Above Cooker
 description: "Cookers are an essential part of any kitchen, providing a safe and convenient way to cook meals. But what many people don’t realis...keep reading to learn"
 keywords: cooker
-publishDate: 4/28/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

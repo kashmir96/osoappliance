@@ -3,7 +3,6 @@
 title: Why Gas Stove
 description: "When it comes to cooking, there are a variety of options available to you. From induction cooktops to electric stoves, each has it...read now to learn more"
 keywords: gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

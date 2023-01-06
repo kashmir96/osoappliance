@@ -3,7 +3,6 @@
 title: Refresh Appliances Christchurch
 description: "When it comes to appliances in Christchurch, you may be wondering whether it is better to buy a brand new appliance or a second ha...read now to learn more"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Conditioning Electrical Box
 description: "Air conditioning electrical boxes are a crucial part of any air conditioning unit. They provide the electrical wiring, circuit bre...learn about it in this post"
 keywords: air
-publishDate: 6/7/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

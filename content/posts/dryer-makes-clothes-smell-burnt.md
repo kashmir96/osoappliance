@@ -3,7 +3,6 @@
 title: Dryer Makes Clothes Smell Burnt
 description: "If your dryer is making your clothes smell burnt, don’t panic! While this may seem like a cause for alarm, there are actually seve...lets find out"
 keywords: dryer
-publishDate: 11/2/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

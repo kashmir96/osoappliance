@@ -3,7 +3,6 @@
 title: Kitchenaid Accessories Blender
 description: "KitchenAid is one of the top-rated kitchen appliances brands in the world and their blenders are no exception. Whether you’re look...read now to learn more"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

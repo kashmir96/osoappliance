@@ -3,7 +3,6 @@
 title: Flat White Appliances
 description: "Flat white appliances are becoming increasingly popular in modern homes, as they offer a sleek, contemporary look that blends in w...scroll on and keep learning"
 keywords: appliances
-publishDate: 12/26/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

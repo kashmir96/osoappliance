@@ -3,7 +3,6 @@
 title: Biggest Oven
 description: "When it comes to ovens, size does matter. The biggest ovens on the market today offer a range of features, from convection capabil...see more detail"
 keywords: oven
-publishDate: 5/22/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

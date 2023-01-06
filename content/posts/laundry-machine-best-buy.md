@@ -3,7 +3,6 @@
 title: Laundry Machine Best Buy
 description: "If you’re in the market for a new laundry machine, it can be difficult to know which one to buy. With so many models on the market...see more"
 keywords: laundry best buy
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dangers Of Microwave Oven
 description: "As the convenience of microwave ovens has become commonplace in many homes, it is important to understand the risks associated wit...you wont regret reading on"
 keywords: microwave oven
-publishDate: 12/12/2022
 tags: ["Oven", "Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

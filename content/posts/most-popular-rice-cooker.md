@@ -3,7 +3,6 @@
 title: Most Popular Rice Cooker
 description: "A rice cooker is a kitchen appliance used to boil or steam rice. It consists of a heat source, an inner cooking bowl, and a thermo...get more detail"
 keywords: most popular cooker
-publishDate: 1/28/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

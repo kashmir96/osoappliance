@@ -3,7 +3,6 @@
 title: Are Appliances Getting Too Smart
 description: "Are appliances getting too smart? The answer to this question depends on who you ask. Some people believe that appliances are gett...learn more about it now"
 keywords: smart
-publishDate: 7/27/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

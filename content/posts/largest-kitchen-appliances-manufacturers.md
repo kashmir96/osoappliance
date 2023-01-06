@@ -3,7 +3,6 @@
 title: Largest Kitchen Appliances Manufacturers
 description: "As the demand for kitchen appliances increases, so does the need for trust-worthy manufacturers. To make sure you get quality prod...take a moment to check it out "
 keywords: kitchen appliances
-publishDate: 6/22/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Kitchen Appliances Accessories Sale
 description: "One of the most exciting times of the year for kitchen appliance enthusiasts is when it’s time for accessories sales. With so many...check it out to learn"
 keywords: kitchen appliances sale
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

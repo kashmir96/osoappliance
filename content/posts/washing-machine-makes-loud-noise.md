@@ -3,7 +3,6 @@
 title: Washing Machine Makes Loud Noise
 description: "Have you ever been doing your laundry only to be startled by an incredibly loud noise coming from your washing machine? This can b...learn about it in this post"
 keywords: washing machine
-publishDate: 2/17/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

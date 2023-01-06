@@ -3,7 +3,6 @@
 title: Dangers Of Dryer Lint
 description: "Dryer lint is something that most of us don’t think twice about. We clean out our lint trap after each load, but we never really c...check it out to learn"
 keywords: dryer
-publishDate: 1/6/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

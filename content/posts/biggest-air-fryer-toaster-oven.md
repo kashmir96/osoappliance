@@ -3,7 +3,6 @@
 title: Biggest Air Fryer Toaster Oven
 description: "Air fryer toaster ovens are the newest kitchen appliance that combine the functions of an air fryer and a toaster oven into one co...lets find out"
 keywords: air toaster oven
-publishDate: 4/7/2022
 tags: ["Heat Pump", "Oven", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

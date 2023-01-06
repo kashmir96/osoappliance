@@ -3,7 +3,6 @@
 title: Air Purifier Most Common
 description: "If you are considering investing in an air purifier, you may have come across a number of myths circulating on the internet. It ca...take a moment to check it out "
 keywords: air purifier most
-publishDate: 3/29/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

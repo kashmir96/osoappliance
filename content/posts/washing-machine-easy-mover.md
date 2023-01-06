@@ -3,7 +3,6 @@
 title: Washing Machine Easy Mover
 description: "Do you ever feel like lugging a washing machine around your house is an impossible task? Moving a washing machine can be a dauntin...get more detail"
 keywords: washing machine
-publishDate: 2/22/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

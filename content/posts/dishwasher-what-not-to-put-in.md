@@ -3,7 +3,6 @@
 title: Dishwasher What Not To Put In
 description: "If you’ve recently invested in a dishwasher, you’re probably feeling excited to finally have one of these convenient and time-savi...lets find out"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

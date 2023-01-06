@@ -3,7 +3,6 @@
 title: Top Carpet Cleaner Solution
 description: "As carpets are one of the most expensive pieces of furniture in a home, it is important to take care of them properly. One way to ...get the full scoop"
 keywords: top
-publishDate: 7/8/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

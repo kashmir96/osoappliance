@@ -3,7 +3,6 @@
 title: Common Air Conditioner Brands
 description: "When it comes to air conditioners, there are a variety of brands available on the market. Each brand offers different features and...learn more"
 keywords: air conditioner brands
-publishDate: 5/20/2023
 tags: ["Heat Pump", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

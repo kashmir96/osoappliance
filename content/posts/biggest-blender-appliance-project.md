@@ -3,7 +3,6 @@
 title: Biggest Blender Appliance Project
 description: "If you're a fan of kitchen appliances, then you've likely heard of the Blender appliance. This powerful and versatile device is us...learn about it in this post"
 keywords: blender appliance
-publishDate: 4/19/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Can A Blender Explode
 description: "Blenders are kitchen appliances that have been used by chefs, cooks and other food preparation professionals for years. While blen...scroll on and keep learning"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

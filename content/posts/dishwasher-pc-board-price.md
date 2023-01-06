@@ -3,7 +3,6 @@
 title: Dishwasher Pc Board Price
 description: "If you are looking for a replacement dishwasher PC board to replace your old one, chances are you have questions about the cost an...find out now"
 keywords: dishwasher
-publishDate: 2/4/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

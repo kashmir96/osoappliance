@@ -3,7 +3,6 @@
 title: Stove Was Leaking Gas
 description: "If you have recently noticed that your stove is leaking gas, it is important to take action immediately. A gas leak can be a dange...check it out to learn"
 keywords: stove gas
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

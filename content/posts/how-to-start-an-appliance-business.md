@@ -3,7 +3,6 @@
 title: How To Start An Appliance Business
 description: "Starting an appliance business can be a great way to make money in a competitive market. Whether you're selling new appliances or ...find out now"
 keywords: how to appliance
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

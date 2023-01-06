@@ -3,7 +3,6 @@
 title: Canteen Dishwasher
 description: "A canteen dishwasher is a type of dishwasher designed specifically for use in commercial or institutional kitchens, such as those ...see more"
 keywords: dishwasher
-publishDate: 9/27/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

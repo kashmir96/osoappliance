@@ -3,7 +3,6 @@
 title: Christchurch Appliance Repair
 description: Christchurch residents can find help with any appliance repair they need, from washing machines to dishwashers. If you're in need of appliance repair, be sure to read this post for the best tips and advice.
 keywords: christchurch appliance repair
-publishDate: 6/6/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

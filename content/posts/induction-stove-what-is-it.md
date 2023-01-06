@@ -3,7 +3,6 @@
 title: Induction Stove What Is It
 description: "Induction stoves are a new type of cooking appliance that use electromagnetic induction to heat cookware. Unlike traditional gas o...scroll on and keep learning"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

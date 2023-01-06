@@ -3,7 +3,6 @@
 title: Electric Air Conditioning For Classic Cars
 description: "Most classic car enthusiasts know that keeping their classic car running is paramount. But what about when summer temperatures soa...check it out to learn"
 keywords: air
-publishDate: 5/31/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

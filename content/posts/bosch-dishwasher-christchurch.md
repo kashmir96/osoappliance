@@ -3,7 +3,6 @@
 title: Bosch Dishwasher Christchurch
 description: "If you’re looking for a reliable, efficient and stylish dishwasher for your Christchurch home, then the Bosch range of dishwashers...lets find out"
 keywords: bosch dishwasher christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

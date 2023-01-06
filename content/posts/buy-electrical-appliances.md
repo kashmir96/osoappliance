@@ -3,7 +3,6 @@
 title: Buy Electrical Appliances
 description: "Are you in the market for some new electrical appliances? Whether you’re looking to upgrade your kitchen or stock up on home essen...scroll on and keep learning"
 keywords: buy appliances
-publishDate: 2/4/2023
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

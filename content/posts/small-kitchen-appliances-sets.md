@@ -3,7 +3,6 @@
 title: Small Kitchen Appliances Sets
 description: "If you’ve ever looked around your kitchen and wondered what appliances you should be buying for the optimal culinary experience, t...get the full scoop"
 keywords: kitchen appliances
-publishDate: 12/8/2022
 tags: ["Kitchen Appliances", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

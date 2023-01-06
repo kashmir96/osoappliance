@@ -3,7 +3,6 @@
 title: Most Popular Kitchen Appliances 2023
 description: "As technology advances, so does the variety of kitchen appliances available today. From large to small, from traditional to modern...see more detail"
 keywords: most popular kitchen appliances 2023
-publishDate: 1/29/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

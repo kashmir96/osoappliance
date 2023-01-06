@@ -3,7 +3,6 @@
 title: Dishwasher Electrical Outlet
 description: "If you are planning to install a dishwasher in your kitchen, one of the most important considerations will be the electrical outle...learn about it in this post"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

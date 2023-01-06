@@ -3,7 +3,6 @@
 title: Accessories For Braun Hand Blender
 description: "Are you looking for the perfect accessory for your Braun hand blender? Look no further! A variety of useful accessories are availa...read now to learn more"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

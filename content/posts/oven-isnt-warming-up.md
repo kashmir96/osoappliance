@@ -3,7 +3,6 @@
 title: Oven Isnt Warming Up
 description: "If your oven isn’t warming up, it can be a frustrating and potentially dangerous situation. Before you call a repairman or start s...get more info"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

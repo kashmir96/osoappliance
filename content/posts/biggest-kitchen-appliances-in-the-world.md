@@ -3,7 +3,6 @@
 title: Biggest Kitchen Appliances In The World
 description: "If you’re looking for the biggest and best kitchen appliances, then you’ve come to the right place. There are a variety of options...check it out to learn"
 keywords: kitchen appliances
-publishDate: 5/3/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

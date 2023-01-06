@@ -3,7 +3,6 @@
 title: What Washing Machines Are Most Expensive To Fix In New Zealand
 description: "As with any appliance, the cost of repairing a washing machine in New Zealand can vary greatly depending on the make and model. Ge...you wont regret reading on"
 keywords: washing machines most fix new zealand
-publishDate: 7/5/2022
 tags: ["Washing Machine", "Appliance Repair", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

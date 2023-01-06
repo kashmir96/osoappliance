@@ -3,7 +3,6 @@
 title: How Fridge Magnets Are Made
 description: "When you think of magnets, one of the first things that come to mind is fridge magnets. These decorative and useful little items h...get the full scoop"
 keywords: fridge
-publishDate: 12/8/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

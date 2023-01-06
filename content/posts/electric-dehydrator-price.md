@@ -3,7 +3,6 @@
 title: Electric Dehydrator Price
 description: "When it comes to dehydrating food, an electric dehydrator is a great tool to have on hand. Dehydrators provide a convenient and he...get more detail"
 keywords: dehydrator
-publishDate: 25/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

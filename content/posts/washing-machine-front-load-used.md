@@ -3,7 +3,6 @@
 title: Washing Machine Front Load Used
 description: "As technology continues to evolve and develop, so do our appliances, and washing machines are no exception. Washing machine front ...learn more about it now"
 keywords: washing machine
-publishDate: 1/17/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: 2023 Humidifier
 description: "The 2023 humidifier is a revolutionary piece of technology that is designed to make your home more comfortable and healthier. With...read now to learn more"
 keywords: 2023 humidifier
-publishDate: 3/3/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

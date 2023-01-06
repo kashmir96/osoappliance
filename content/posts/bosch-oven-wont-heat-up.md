@@ -3,7 +3,6 @@
 title: Bosch Oven Wont Heat Up
 description: If your Bosch oven won't heat up, this post will provide you with steps to troubleshoot the issue, so read on to learn more!
 keywords: bosch oven
-publishDate: 9/30/2022
 tags: ["Appliances", "Brands", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

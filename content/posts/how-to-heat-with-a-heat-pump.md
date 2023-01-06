@@ -3,7 +3,6 @@
 title: How To Heat With A Heat Pump
 description: "Are you looking for a more efficient way to heat your home? Heat pumps offer an energy-efficient alternative to traditional heatin...get the full scoop"
 keywords: how to heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

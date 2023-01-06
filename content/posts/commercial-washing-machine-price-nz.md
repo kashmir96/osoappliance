@@ -3,7 +3,6 @@
 title: Commercial Washing Machine Price Nz
 description: "When it comes to finding a commercial washing machine for your business, it's important to consider all of your options before mak...get more info"
 keywords: washing machine nz
-publishDate: 2/19/2023
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

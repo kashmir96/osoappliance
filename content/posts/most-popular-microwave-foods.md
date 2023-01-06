@@ -3,7 +3,6 @@
 title: Most Popular Microwave Foods
 description: "When it comes to convenience, few kitchen appliances can beat the microwave. From quick and easy snacks to full meals, the microwa...see more detail"
 keywords: most popular microwave
-publishDate: 12/29/2021
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

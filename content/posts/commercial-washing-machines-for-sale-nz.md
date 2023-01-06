@@ -3,7 +3,6 @@
 title: Commercial Washing Machines For Sale Nz
 description: "If you're in the market for a commercial washing machine for sale in New Zealand, you've come to the right place. Commercial washi...you wont regret reading on"
 keywords: washing machines sale nz
-publishDate: 2/17/2023
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

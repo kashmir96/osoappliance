@@ -3,7 +3,6 @@
 title: Washing Machine Makes Noise When Spinning
 description: "If your washing machine is making a loud noise when it's spinning, you may be wondering what's wrong and what you can do about it....continue on"
 keywords: washing machine
-publishDate: 2/20/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

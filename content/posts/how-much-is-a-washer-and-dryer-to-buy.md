@@ -3,7 +3,6 @@
 title: How Much Is A Washer And Dryer
 description: "When it comes to buying a washer and dryer, the cost varies depending on the size of the unit, the type of machine you purchase, a...see more detail"
 keywords: dryer
-publishDate: 12/25/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

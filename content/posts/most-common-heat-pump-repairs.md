@@ -3,7 +3,6 @@
 title: Most Common Heat Pump Repairs
 description: "Heat pumps are a great way to keep your home comfortable while saving on energy costs, but like any other appliance, they can deve...get more detail"
 keywords: most heat pump
-publishDate: 1/6/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

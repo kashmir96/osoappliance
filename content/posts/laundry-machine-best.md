@@ -3,7 +3,6 @@
 title: Laundry Machine Best
 description: "When it comes to laundry, having a reliable washing machine is essential. Taking good care of your laundry machine can maximize it...learn more about it now"
 keywords: laundry best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Air Purifier Alternatives
 description: "Air purifiers are a great way to keep your home air clean and free of pollutants. But if you don’t want to invest in an air purifi...swipe up to find out"
 keywords: air purifier
-publishDate: 3/7/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

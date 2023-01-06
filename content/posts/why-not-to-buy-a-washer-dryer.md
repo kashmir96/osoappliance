@@ -3,7 +3,6 @@
 title: Why Not To Buy A Washer Dryer
 description: "When it comes to laundry, washer-dryer combos can seem like a great solution. They save money, space, and time. However, there are...keep going and find out"
 keywords: buy dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

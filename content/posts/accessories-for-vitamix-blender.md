@@ -3,7 +3,6 @@
 title: Accessories For Vitamix Blender
 description: "If you’re the proud owner of a Vitamix blender, you’ll know there are plenty of exciting recipes that you can make with it. But di...learn more about it now"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

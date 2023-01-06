@@ -3,7 +3,6 @@
 title: Do Air Purifiers Improve Health
 description: "Air purifiers are becoming increasingly popular, as people become more aware of the potential health risks associated with poor in...get more info"
 keywords: air
-publishDate: 6/2/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

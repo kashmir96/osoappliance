@@ -3,7 +3,6 @@
 title: Washer And Dryer Christchurch
 description: "If you’re looking for a new washer and dryer for your home in Christchurch, you may be wondering if it’s worth the investment. Was...keep going and find out"
 keywords: dryer christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

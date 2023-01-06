@@ -3,7 +3,6 @@
 title: Oven When Broil
 description: "The broil setting on your oven is a great way to get that golden, crispy finish on your food. Broiling is a method of cooking that...get the full scoop"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

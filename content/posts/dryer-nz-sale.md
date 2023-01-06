@@ -3,7 +3,6 @@
 title: Dryer Nz Sale
 description: "If you're in the market for a new dryer, then you may be wondering when is the best time to buy one. With so many different sales ...learn more"
 keywords: dryer nz sale
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: When Clothes Shrink In The Dryer
 description: "If you’ve ever had clothes shrink in the dryer, you know how frustrating it can be. Unfortunately, it’s a common problem that many...find out now"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

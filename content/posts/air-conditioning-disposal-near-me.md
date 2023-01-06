@@ -3,7 +3,6 @@
 title: Air Conditioning Disposal Near Me
 description: "If you’re looking for an eco-friendly way to dispose of your old air conditioner, there are a few options that can help make the p...learn more about it now"
 keywords: air disposal near
-publishDate: 6/5/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

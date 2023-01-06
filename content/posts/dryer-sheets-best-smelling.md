@@ -3,7 +3,6 @@
 title: Dryer Sheets Best Smelling
 description: "Dryer sheets are an essential part of doing laundry. Not only do they reduce static cling, but they also help to make your clothes...keep reading to learn"
 keywords: dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

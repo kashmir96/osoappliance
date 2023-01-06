@@ -3,7 +3,6 @@
 title: Supplies Hair Dryer
 description: "A hair dryer is an essential piece of equipment for anyone who does their own hair. Whether you’re a professional stylist or just ...swipe up to find out"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Best Portable Air Conditioning Unit Nz
 description: "Are you looking for a way to keep cool during the summer months in New Zealand? If so, then a portable air conditioning unit is an...continue on"
 keywords: best air nz
-publishDate: 12/12/2022
 tags: ["Heat Pump", "New Zealand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

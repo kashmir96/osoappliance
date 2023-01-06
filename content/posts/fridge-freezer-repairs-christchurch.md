@@ -3,7 +3,6 @@
 title: Fridge Freezer Repairs Christchurch
 description: "Having a broken fridge freezer can be a major inconvenience. It can also be costly if you don't catch the problem early on. Fortun...swipe up to find out"
 keywords: fridge christchurch
-publishDate: 8/20/2021
 tags: ["Heat Pump", "Christchurch", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

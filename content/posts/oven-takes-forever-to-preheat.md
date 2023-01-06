@@ -3,7 +3,6 @@
 title: Oven Takes Forever To Preheat
 description: "It’s frustrating when your oven takes forever to preheat. You’re ready to get cooking, but the oven just isn’t cooperating. But wh...see more detail"
 keywords: oven
-publishDate: 12/17/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

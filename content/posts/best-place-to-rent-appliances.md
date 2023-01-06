@@ -3,7 +3,6 @@
 title: Best Place To Rent Appliances
 description: "If you’re looking for convenient and affordable appliances, easy rent appliances are a great option. Easy rent appliances are an a...you wont regret reading on"
 keywords: best appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

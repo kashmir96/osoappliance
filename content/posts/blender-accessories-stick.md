@@ -3,7 +3,6 @@
 title: Blender Accessories Stick
 description: "When it comes to cooking, having the right tools can make all the difference. Blenders are one of those essential kitchen items th...learn more about it now"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

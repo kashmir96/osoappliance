@@ -3,7 +3,6 @@
 title: How To Save Money On Air Conditioning In An Apartment
 description: "In the summer months, your air conditioning bill can become quite expensive if you live in an apartment. Fortunately, there are a ...lets find out"
 keywords: how to air
-publishDate: 12/19/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

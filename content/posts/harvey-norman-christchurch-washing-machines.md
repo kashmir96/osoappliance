@@ -3,7 +3,6 @@
 title: Harvey Norman Christchurch Washing Machines
 description: "Harvey Norman Christchurch offers a wide range of washing machines from top brands such as Miele, Bosch and LG. Whether you are lo...keep reading to learn"
 keywords: christchurch washing machines
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

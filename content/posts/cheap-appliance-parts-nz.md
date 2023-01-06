@@ -3,7 +3,6 @@
 title: Cheap Appliance Parts Nz
 description: If you're looking for affordable appliance parts in New Zealand, this blog post provides information on the best sources and how to go about getting them - so read on to find out more!
 keywords: appliance parts nz
-publishDate: 9/10/2022
 tags: ["Appliances", New Zealand, "Parts"]
 author: Curtis
 categories: ["Appliances Christchurch"]

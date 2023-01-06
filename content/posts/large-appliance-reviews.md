@@ -3,7 +3,6 @@
 title: Large Appliance Reviews
 description: "When it comes to buying large appliances, such as refrigerators and washing machines, reviews can be an incredibly helpful tool. R...learn more"
 keywords: appliance reviews
-publishDate: 6/14/2022
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

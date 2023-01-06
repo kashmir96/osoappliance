@@ -3,7 +3,6 @@
 title: Most Popular Best Air Purifiers
 description: "As air pollution increases, the need for air purifiers is becoming more and more important. Air purifiers are becoming increasingl...lets find out"
 keywords: most popular best air
-publishDate: 3/6/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

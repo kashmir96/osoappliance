@@ -3,7 +3,6 @@
 title: Commercial Fridge
 description: "Commercial fridges are an essential piece of equipment for businesses, allowing them to store and preserve food for extended perio...keep going and find out"
 keywords: fridge
-publishDate: 12/23/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

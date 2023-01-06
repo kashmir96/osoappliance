@@ -3,7 +3,6 @@
 title: Why Washing Machine Makes Noise
 description: "Are you the owner of a washing machine that’s making strange noises? You might be wondering why your washing machine is making noi...continue on"
 keywords: washing machine
-publishDate: 3/24/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

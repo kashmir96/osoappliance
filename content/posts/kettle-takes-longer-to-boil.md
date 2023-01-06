@@ -3,7 +3,6 @@
 title: Kettle Takes Longer To Boil
 description: "We've all been there: You're in a rush, you need boiling water and the kettle seems to be taking forever. But why does it take so ...take a moment to check it out "
 keywords: kettle
-publishDate: 3/23/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

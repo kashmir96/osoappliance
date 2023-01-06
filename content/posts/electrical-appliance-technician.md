@@ -3,7 +3,6 @@
 title: Electrical Appliance Technician
 description: "If you’re in the market for a new appliance or just need your existing one repaired, an electrical appliance technician is the per...take a moment to check it out "
 keywords: appliance
-publishDate: 4/4/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

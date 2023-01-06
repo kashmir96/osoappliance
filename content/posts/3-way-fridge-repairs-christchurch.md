@@ -3,7 +3,6 @@
 title: 3 Way Fridge Repairs Christchurch
 description: "Are you living in Christchurch and dealing with a broken refrigerator? Don’t worry, there are many ways to repair your fridge quic...read now to learn more"
 keywords: fridge christchurch
-publishDate: 8/23/2021
 tags: ["Heat Pump", "Christchurch", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Where Dryer
 description: "The first electric clothes dryer was invented in the late 1800s by George Sampson, a British inventor. His invention was a metal d...read now to learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

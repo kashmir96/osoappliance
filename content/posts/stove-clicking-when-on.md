@@ -3,7 +3,6 @@
 title: Stove Clicking When On
 description: "Stove clicking is a common problem that affects many homeowners. It is a sound that can be heard when the stove is turned on, usua...keep reading to learn"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

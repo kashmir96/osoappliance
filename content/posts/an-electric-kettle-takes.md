@@ -3,7 +3,6 @@
 title: An Electric Kettle Takes
 description: "An electric kettle is a kitchen appliance that uses electricity to quickly heat water to boiling point. It’s a convenient way to q...check it out to learn"
 keywords: kettle
-publishDate: 3/27/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

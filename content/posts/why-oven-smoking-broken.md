@@ -3,7 +3,6 @@
 title: Why Oven Smoking
 description: "Oven smoking is a common problem that can be caused by a variety of reasons. It’s important to understand why oven smoking occurs ...take a moment to check it out "
 keywords: oven
-publishDate: 3/17/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

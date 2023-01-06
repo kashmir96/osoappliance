@@ -3,7 +3,6 @@
 title: Wood Stove When
 description: "A wood stove is a great way to heat your home and provide a cozy ambiance during the colder months. It’s a traditional and classic...swipe up to find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

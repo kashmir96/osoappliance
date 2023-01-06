@@ -3,7 +3,6 @@
 title: Big Microwave Stand
 description: "If you’re looking for an efficient and stylish way to store your microwave, a big microwave stand is a great option. Not only does...get the full scoop"
 keywords: microwave
-publishDate: 3/29/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

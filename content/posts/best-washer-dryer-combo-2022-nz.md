@@ -3,7 +3,6 @@
 title: Best Washer Dryer Combo 2022 Nz
 description: "If you're looking for the best washer dryer combo for 2022 in New Zealand, you've come to the right place. Washer dryer combos are...continue on"
 keywords: best dryer 2022 nz
-publishDate: 9/6/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

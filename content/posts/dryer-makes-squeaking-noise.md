@@ -3,7 +3,6 @@
 title: Dryer Makes Squeaking Noise
 description: "If you hear a squeaking noise coming from your dryer, it can be very frustrating. It's likely that the source of the noise is one ...check it out to learn"
 keywords: dryer
-publishDate: 11/10/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: What Appliances Use The Most Electricity Nz
 description: "When it comes to using electricity in New Zealand, there are a few household appliances that use the most energy. These appliances...find out now"
 keywords: appliances use most electricity nz
-publishDate: 2/22/2022
 tags: ["New Zealand", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

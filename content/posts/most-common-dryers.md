@@ -3,7 +3,6 @@
 title: Most Common Dryers
 description: "Dryers are a necessity for many households, as they are the best way to quickly and efficiently dry your clothes. But with so many...keep reading to learn"
 keywords: most dryers
-publishDate: 7/16/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Blender Accessories Blade
 description: "If you’re a blender enthusiast, then you know that there are some essential accessories that can make your blending experience muc...continue on"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

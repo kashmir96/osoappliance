@@ -3,7 +3,6 @@
 title: When A Dryer Is Not Drying Clothes
 description: "If your dryer is not drying clothes, it can be a frustrating and potentially costly problem. There are several possible causes for...take a moment to check it out "
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

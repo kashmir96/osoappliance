@@ -3,7 +3,6 @@
 title: Laundry Appliances Christchurch
 description: This blog post outlines the different types of laundry appliances available in Christchurch, helping homeowners to choose the right appliance for their needs and keep their home clean and organised. Read on to learn more about the different options available.
 keywords: laundry appliances christchurch
-publishDate: 11/1/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

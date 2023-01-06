@@ -3,7 +3,6 @@
 title: Air Conditioning Compressor Disposal
 description: "Air conditioning compressors are an essential part of keeping your home comfortable during the hot summer months. However, when it...read now to learn more"
 keywords: air disposal
-publishDate: 5/21/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

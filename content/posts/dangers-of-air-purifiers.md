@@ -3,7 +3,6 @@
 title: Dangers Of Air Purifiers
 description: "Air purifiers are becoming increasingly popular for their ability to clean the air of dust, pollen, and other airborne particles. ...read now to learn more"
 keywords: air
-publishDate: 12/28/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

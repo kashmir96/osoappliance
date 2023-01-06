@@ -3,7 +3,6 @@
 title: Best Slimline Dishwasher
 description: "A slimline dishwasher is a great choice for those with limited space in their kitchen. These dishwashers are smaller than standard...scroll on and keep learning"
 keywords: best dishwasher
-publishDate: 8/29/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

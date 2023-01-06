@@ -3,7 +3,6 @@
 title: Dishwashers Best 2022
 description: "As technology continues to evolve, so do the appliances that make our lives easier. Dishwashers are no exception. In 2021, dishwas...continue on"
 keywords: best 2022
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

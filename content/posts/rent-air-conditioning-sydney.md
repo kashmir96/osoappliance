@@ -3,7 +3,6 @@
 title: Rent Air Conditioning Sydney
 description: "Renting air conditioners in Sydney is becoming increasingly popular due to a number of benefits that come along with it. Whether y...learn about it in this post"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

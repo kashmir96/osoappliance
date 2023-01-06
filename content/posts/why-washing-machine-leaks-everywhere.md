@@ -3,7 +3,6 @@
 title: Why Washing Machine Leaks
 description: "When your washing machine leaks, it can be a sign of a serious problem that needs to be addressed. While the cause of the leak mig...take a moment to check it out "
 keywords: washing machine
-publishDate: 3/22/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Whirlpool.Com/Accessories Dryer Rack
 description: "Whirlpool is a trusted brand when it comes to home appliances, and their dryer rack is no exception. The Whirlpool Dryer Rack is a...keep reading to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

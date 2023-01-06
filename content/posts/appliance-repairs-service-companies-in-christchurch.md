@@ -3,7 +3,6 @@
 title: Appliance Repairs Service Companies In Christchurch
 description: "If you're living in Christchurch, New Zealand, you may have already experienced a few appliance breakdowns and be looking for some...continue on"
 keywords: appliance christchurch
-publishDate: 9/10/2021
 tags: ["Heat Pump", "Christchurch", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

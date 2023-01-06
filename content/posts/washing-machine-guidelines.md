@@ -3,7 +3,6 @@
 title: Washing Machine Guidelines
 description: "If you’re like many people, you might not realize how important it is to follow proper washing machine guidelines. It’s easy to ju...read now to learn more"
 keywords: washing machine guidelines
-publishDate: 3/1/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Is A Front Loader Better Than A Toploader
 description: "When it comes to washing machines, a front loader is often considered the better option when compared to a top loader. There are s...get the full scoop"
 keywords: 
-publishDate: 7/24/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

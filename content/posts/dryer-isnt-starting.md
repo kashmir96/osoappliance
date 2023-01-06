@@ -3,7 +3,6 @@
 title: Dryer Isnt Starting
 description: "If your dryer isn't starting, it can be a frustrating experience. Fortunately, there are some steps you can take to try and get it...you wont regret reading on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

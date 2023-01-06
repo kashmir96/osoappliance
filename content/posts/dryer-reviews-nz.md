@@ -3,7 +3,6 @@
 title: Dryer Reviews Nz
 description: "Are you looking for the best dryer for your home? If so, then reviews from New Zealanders can be a great source of information. Dr...get more detail"
 keywords: dryer reviews nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

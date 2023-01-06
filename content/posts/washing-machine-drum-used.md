@@ -3,7 +3,6 @@
 title: Washing Machine Drum Used
 description: "Washing machine drums are essential components of every washing machine. They are the large containers where clothes, linens and o...find out now"
 keywords: washing machine
-publishDate: 1/16/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

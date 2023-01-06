@@ -3,7 +3,6 @@
 title: Dryers Prices Christchurch
 description: "For many Christchurch residents, finding the right price for a new dryer can be a challenge. With so many different models and bra...take a moment to check it out "
 keywords: dryers christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Christchurch", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

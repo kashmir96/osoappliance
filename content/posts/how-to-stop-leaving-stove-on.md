@@ -3,7 +3,6 @@
 title: How To Stop Leaving Stove On
 description: Avoid the risk of fires and gas leaks by learning how to remember to turn off the stove; read this post to learn tips on how to do just that.
 keywords: how to stove
-publishDate: 1/2/2023
 tags: ["Appliances", "Guide", "Stove"]
 author: Curtis
 categories: ["Appliances Christchurch"]

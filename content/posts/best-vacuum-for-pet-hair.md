@@ -3,7 +3,6 @@
 title: Best Vacuum For Pet Hair
 description: "If you’re a pet owner, you know that pet hair can be a real nuisance. It gets everywhere, and it can be hard to keep up with. Vacu...keep reading to learn"
 keywords: best vacuum
-publishDate: 6/11/2022
 tags: ["Vacuum", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

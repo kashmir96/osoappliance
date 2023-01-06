@@ -3,7 +3,6 @@
 title: When To Use Dryer Balls
 description: "When it comes to doing laundry, there are many products and techniques you can use to make sure your clothes come out clean and fr...find out now"
 keywords: use dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

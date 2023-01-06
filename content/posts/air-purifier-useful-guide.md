@@ -3,7 +3,6 @@
 title: Air Purifier Useful Guide
 description: "Air purifiers are an important part of maintaining a healthy indoor environment, especially in urban areas with high levels of air...see more"
 keywords: air purifier guide
-publishDate: 4/17/2023
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

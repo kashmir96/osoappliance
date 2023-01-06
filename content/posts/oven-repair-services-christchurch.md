@@ -3,7 +3,6 @@
 title: Oven Repair Christchurch
 description: "If you're looking for reliable oven repair services in Christchurch, then you've come to the right place! Oven repair people in Ch...learn more"
 keywords: oven repair christchurch
-publishDate: 8/3/2022
 tags: ["Washing Machine", "Heat Pump", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

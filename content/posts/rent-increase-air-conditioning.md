@@ -3,7 +3,6 @@
 title: Rent Increase Air Conditioning
 description: "When the dog days of summer come around, most tenants expect their rental property’s air conditioning to be up and running. Unfort...you wont regret reading on"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

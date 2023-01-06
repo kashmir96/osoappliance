@@ -3,7 +3,6 @@
 title: How A Fridge Guard Works
 description: "When it comes to protecting and preserving food, refrigerators are essential. But while they’re great for keeping food cold and fr...take a moment to check it out "
 keywords: fridge
-publishDate: 12/6/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

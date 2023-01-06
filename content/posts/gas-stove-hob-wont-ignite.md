@@ -3,7 +3,6 @@
 title: Gas Stove Hob Wont Ignite
 description: If the gas hob won't ignite, this post offers possible causes to consider and solutions to try; read on to find out how to fix your problem.
 keywords: stove
-publishDate: 11/25/2022
 tags: ["Appliances", "Stove"]
 author: Curtis
 categories: ["Appliances Christchurch"]

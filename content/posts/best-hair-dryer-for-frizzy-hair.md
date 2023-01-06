@@ -3,7 +3,6 @@
 title: Best Hair Dryer For Frizzy Hair
 description: "If you’re looking for the best hair dryer for frizzy hair, you’ve come to the right place. Frizzy hair can be a real challenge to ...read now to learn more"
 keywords: best hair dryer
-publishDate: 8/22/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

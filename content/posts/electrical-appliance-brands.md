@@ -3,7 +3,6 @@
 title: Electrical Appliance Brands
 description: "When it comes to choosing electrical appliances, there are a lot of different brands. Each brand has its own set of advantages and...lets find out"
 keywords: appliance brands
-publishDate: 6/2/2023
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

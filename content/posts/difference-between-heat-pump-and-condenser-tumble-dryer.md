@@ -3,7 +3,6 @@
 title: Difference Between Heat Pump And Condenser Tumble Dryer
 description: "In this blog, we will discuss the differences between a heat pump and condenser tumble dryer. Heat pumps and condenser tumble drye...see more detail"
 keywords: heat pump dryer
-publishDate: 11/28/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Reviews On Vax Platinum Smartwash Carpet Cleaner
 description: "Vax Platinum SmartWash Carpet Cleaner is a powerful and easy to use carpet cleaning solution that promises to give your carpets a ...you wont regret reading on"
 keywords: reviews
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

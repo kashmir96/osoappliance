@@ -3,7 +3,6 @@
 title: Biggest Portable Carpet Cleaner
 description: "When it comes to keeping your carpets clean and fresh, having a portable carpet cleaner is essential. With so many models out ther...scroll on and keep learning"
 keywords: 
-publishDate: 6/3/2022
 tags: ["Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

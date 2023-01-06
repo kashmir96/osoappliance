@@ -3,7 +3,6 @@
 title: Breville Milkshake Maker Used
 description: "Ah, the Breville milkshake maker. We all know and love it for its ability to create delicious and creamy milkshakes in no time at ...learn about it in this post"
 keywords: milkshake maker
-publishDate: 5/11/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

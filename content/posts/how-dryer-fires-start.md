@@ -3,7 +3,6 @@
 title: How Dryer Fires Start
 description: "Dryer fires are becoming an increasingly common household hazard. Although most people associate dryer fires with lint build-up, t...learn more about it now"
 keywords: dryer
-publishDate: 11/25/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

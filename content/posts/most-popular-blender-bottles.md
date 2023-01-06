@@ -3,7 +3,6 @@
 title: Most Popular Blender Bottles
 description: "Blender bottles are one of the most popular and versatile pieces of kitchen equipment available today. They can be used to create ...read now to learn more"
 keywords: most popular blender
-publishDate: 2/7/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

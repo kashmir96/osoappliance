@@ -3,7 +3,6 @@
 title: What Is The Average Dba For A Dishwasher
 description: "If you are in the market for a new dishwasher, you may be wondering what the average DBA (decibel rating) is for a dishwasher. The...keep going and find out"
 keywords: dishwasher
-publishDate: 5/6/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dishwasher Low Water Pressure
 description: "If you’ve noticed that your dishwasher isn’t performing as well as it used to, it might be because of low water pressure. Low wate...learn more about it now"
 keywords: dishwasher water
-publishDate: 11/26/2022
 tags: ["Dishwasher", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

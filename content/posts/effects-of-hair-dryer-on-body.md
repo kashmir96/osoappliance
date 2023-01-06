@@ -3,7 +3,6 @@
 title: Effects Of Hair Dryer On Body
 description: "A hair dryer is a common household appliance used to quickly and easily dry wet hair. While the convenience of a hair dryer can be...see more"
 keywords: hair dryer
-publishDate: 12/20/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

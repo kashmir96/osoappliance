@@ -3,7 +3,6 @@
 title: Does Air Conditioning Increase The Risk Of Covid-19
 description: "The novel coronavirus pandemic has caused many people to wonder if air conditioning can increase their risk of contracting COVID-1...learn more about it now"
 keywords: air
-publishDate: 4/2/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

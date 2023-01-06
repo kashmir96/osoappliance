@@ -3,7 +3,6 @@
 title: Washing Machine Easy Care
 description: "Are you tired of dealing with laundry stains and odor? Washing your clothes with the Easy Care cycle on your washing machine could...see more"
 keywords: washing machine
-publishDate: 2/17/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

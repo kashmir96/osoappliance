@@ -3,7 +3,6 @@
 title: Most Popular Oven In Singapore
 description: "In Singapore, ovens have become an essential part of many households. Ovens are used for baking cakes, roasting meats and even reh...lets find out"
 keywords: most popular oven
-publishDate: 7/27/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Reliable Dryers
 description: This guide provides the information you need to make an informed decision when purchasing a new dryer, helping you find the most reliable and cost-effective model. Read on to find out more.
 keywords: dryers
-publishDate: 10/27/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

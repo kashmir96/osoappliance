@@ -3,7 +3,6 @@
 title: Granny Flat Appliances
 description: "Granny flats are becoming increasingly popular as an alternate living arrangement for seniors and young adults alike. As such, gra...keep reading to learn"
 keywords: appliances
-publishDate: 12/27/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

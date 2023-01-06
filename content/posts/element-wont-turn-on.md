@@ -3,7 +3,6 @@
 title: Element Wont Turn On
 description: If you're having trouble with an electric stove element not turning on, this post will explain some of the common causes and how to fix them, so read on to find out more!
 keywords: element
-publishDate: 12/31/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

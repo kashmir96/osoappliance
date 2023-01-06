@@ -3,7 +3,6 @@
 title: Oven Takes A Long Time To Ignite
 description: "When it comes to cooking, nothing beats the convenience of an oven. Not only do they provide a consistent, reliable heat source fo...see more"
 keywords: oven
-publishDate: 12/19/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

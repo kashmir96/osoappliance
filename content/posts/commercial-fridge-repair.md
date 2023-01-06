@@ -3,7 +3,6 @@
 title: Commercial Fridge Repair
 description: "Whether you own a restaurant, bakery, cafe, or grocery store, having a functioning commercial refrigerator is essential for keepin...get more info"
 keywords: fridge repair
-publishDate: 12/27/2022
 tags: ["Heat Pump", "Appliance Repair", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

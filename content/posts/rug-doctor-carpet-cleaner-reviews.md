@@ -3,7 +3,6 @@
 title: Rug Doctor Carpet Cleaner Reviews
 description: "Rug Doctor is one of the most popular carpet cleaners on the market today. It's no surprise that so many people are looking for re...get the full scoop"
 keywords: reviews
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

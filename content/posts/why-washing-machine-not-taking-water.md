@@ -3,7 +3,6 @@
 title: Why Washing Machine Not Taking Water
 description: "Are you having problems with your washing machine not taking water? Youre not alone. This is one of the most common issues that p...learn about it in this post"
 keywords: washing machine water
-publishDate: 3/27/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

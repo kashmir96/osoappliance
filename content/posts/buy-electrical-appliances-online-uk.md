@@ -3,7 +3,6 @@
 title: Buy Electrical Appliances Online Uk
 description: "In today’s digital age, buying electrical appliances online in the UK has become increasingly popular amongst shoppers of all ages...check it out to learn"
 keywords: buy appliances online
-publishDate: 2/8/2023
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

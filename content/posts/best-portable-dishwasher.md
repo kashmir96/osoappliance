@@ -3,7 +3,6 @@
 title: Best Portable Dishwasher
 description: "A portable dishwasher is a great way to make dishwashing easier and more convenient. It's a great solution for those who don't hav...lets find out"
 keywords: best dishwasher
-publishDate: 8/28/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

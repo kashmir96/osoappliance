@@ -3,7 +3,6 @@
 title: How To Get Cheaper Appliances
 description: This post explains how to get the best deals on quality appliances and save money in the process - read on to find out more!
 keywords: how to appliances
-publishDate: 8/22/2022
 tags: ["Appliances", "Guide"]
 author: Curtis
 categories: ["Appliances Christchurch"]

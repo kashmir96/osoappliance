@@ -3,7 +3,6 @@
 title: Best Dryer Australia
 description: "When it comes to finding the best dryer for your home, Australia has a wide range of options available. From vented dryers to cond...lets find out"
 keywords: best dryer
-publishDate: 8/8/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

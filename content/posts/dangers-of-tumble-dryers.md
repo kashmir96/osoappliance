@@ -3,7 +3,6 @@
 title: Dangers Of Tumble Dryers
 description: "Tumble dryers are a common appliance found in many homes. While they can be convenient for quickly drying clothes and other items,...keep going and find out"
 keywords: dryers
-publishDate: 12/18/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

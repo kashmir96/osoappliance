@@ -3,7 +3,6 @@
 title: Most Common Stove
 description: "There are many different stove types available for use in kitchens, each with its own advantages and disadvantages. The most commo...scroll on and keep learning"
 keywords: most stove
-publishDate: 12/12/2021
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

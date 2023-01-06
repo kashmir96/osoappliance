@@ -3,7 +3,6 @@
 title: Most Common Rice Cooker In Japan
 description: "Rice cookers have been a staple of Japanese cuisine for centuries, but the modern version of the appliance has only been around si...take a moment to check it out "
 keywords: most cooker
-publishDate: 1/25/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

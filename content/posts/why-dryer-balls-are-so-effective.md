@@ -3,7 +3,6 @@
 title: Why Dryer Balls Are So Effective
 description: "Do you ever feel like you’re constantly running out of dryer sheets and laundry detergent? Dryer balls are a great solution to thi...you wont regret reading on"
 keywords: dryer
-publishDate: 2/28/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

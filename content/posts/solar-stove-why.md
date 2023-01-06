@@ -3,7 +3,6 @@
 title: Solar Stove Why
 description: "Solar stoves are an increasingly popular alternative to traditional gas or electric stoves, as they provide a clean, renewable ene...continue on"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

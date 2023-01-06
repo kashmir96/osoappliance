@@ -3,7 +3,6 @@
 title: Health Benefits Of Food Dehydrator
 description: "Food dehydrators are becoming increasingly popular as people become more aware of the health benefits that come with eating dried ...keep reading to learn"
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

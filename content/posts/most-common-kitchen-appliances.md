@@ -3,7 +3,6 @@
 title: Most Common Kitchen Appliances
 description: "The kitchen is the heart of the home, and having the right appliances can make all the difference when it comes to getting meals o...get more detail"
 keywords: most kitchen appliances
-publishDate: 1/25/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

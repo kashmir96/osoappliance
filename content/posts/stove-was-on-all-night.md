@@ -3,7 +3,6 @@
 title: Stove Was On All Night
 description: "If you’ve ever gone to bed and forgotten to turn off the stove, you know how dangerous it can be. It’s important to make sure that...check it out to learn"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

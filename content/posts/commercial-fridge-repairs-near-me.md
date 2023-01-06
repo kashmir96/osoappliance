@@ -3,7 +3,6 @@
 title: Commercial Fridge Repairs Near Me
 description: "When it comes to finding commercial fridge repairs near me, there are a few things to consider. Commercial fridges are designed to...learn more"
 keywords: fridge near
-publishDate: 12/31/2022
 tags: ["Heat Pump", "Appliance Repair", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

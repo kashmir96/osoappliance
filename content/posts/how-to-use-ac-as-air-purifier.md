@@ -3,7 +3,6 @@
 title: How To Use Ac As Air Purifier
 description: "As summer approaches, it’s important to be aware of how to use your air conditioning (AC) system as an air purifier. With the righ...get more detail"
 keywords: how to use ac air purifier
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

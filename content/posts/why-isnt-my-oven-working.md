@@ -3,7 +3,6 @@
 title: Why Isnt My Oven Working
 description: "If your oven isn’t working, it can be a frustrating experience. Whether you’re trying to cook a meal for your family or just need ...you wont regret reading on"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

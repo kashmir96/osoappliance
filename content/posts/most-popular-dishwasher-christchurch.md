@@ -3,7 +3,6 @@
 title: Most Popular Dishwasher Christchurch
 description: This post outlines the various popular dishwasher models in Christchurch, each offering great features and value for money - read on to find out which one is the best choice for your household!
 keywords: dishwasher christchurch
-publishDate: 8/8/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

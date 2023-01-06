@@ -3,7 +3,6 @@
 title: Most Popular Robot Vacuum For Pet Hair
 description: "If you’re a pet owner, you know how much of a hassle it can be to keep your home clean. Pet hair is one of the biggest culprits wh...continue on"
 keywords: most popular vacuum
-publishDate: 2/21/2022
 tags: ["Heat Pump", "Vacuum", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

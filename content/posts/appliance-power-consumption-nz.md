@@ -3,7 +3,6 @@
 title: Appliance Power Consumption Nz
 description: "As a homeowner, you are likely aware of the impact of energy consumption on your energy bills. From lighting to heating and coolin...see more"
 keywords: appliance power consumption nz
-publishDate: 12/23/2022
 tags: ["New Zealand", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

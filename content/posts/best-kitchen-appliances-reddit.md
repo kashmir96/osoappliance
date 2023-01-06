@@ -3,7 +3,6 @@
 title: Best Kitchen Appliances Reddit
 description: "If you’re looking to upgrade your kitchen appliances, Reddit is a great place to start. With so many knowledgeable users, you can ...learn about it in this post"
 keywords: best kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

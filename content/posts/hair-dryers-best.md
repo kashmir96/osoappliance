@@ -3,7 +3,6 @@
 title: Hair Dryers Best
 description: "If you’re like most people, you probably use a hair dryer on a regular basis. While hair dryers can be incredibly helpful in styli...you wont regret reading on"
 keywords: dryers best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

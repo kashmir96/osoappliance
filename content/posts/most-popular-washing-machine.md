@@ -3,7 +3,6 @@
 title: Most Popular Washing Machine
 description: "The washing machine is one of the most important appliances in your home, so it's important to choose the right one. With so many ...keep reading to learn"
 keywords: most popular washing machine
-publishDate: 6/18/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Stacking Kit Nz
 description: "If you’re looking for a way to maximize the space in your laundry room, a dryer stacking kit is an excellent solution. This innova...learn about it in this post"
 keywords: dryer nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

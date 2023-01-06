@@ -3,7 +3,6 @@
 title: Dryer Washer Set
 description: "A dryer washer set is a combination of two appliances – a washer and a dryer – that work together to provide efficient and effecti...lets find out"
 keywords: dryer set
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

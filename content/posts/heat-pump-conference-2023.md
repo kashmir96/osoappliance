@@ -3,7 +3,6 @@
 title: Heat Pump Conference 2023
 description: "As the world continues to move towards energy-saving alternatives, heat pumps have become a popular choice for many households and...learn more about it now"
 keywords: heat pump 2023
-publishDate: 6/29/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

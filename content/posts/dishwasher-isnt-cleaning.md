@@ -3,7 +3,6 @@
 title: Dishwasher Isnt Cleaning
 description: "Are you having trouble getting your dishes clean in the dishwasher? If so, you’re not alone. Many people experience this same prob...learn about it in this post"
 keywords: dishwasher
-publishDate: 11/9/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

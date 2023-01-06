@@ -3,7 +3,6 @@
 title: Most Popular Kitchen Appliances Uk
 description: "When it comes to outfitting a kitchen, there are a variety of essential appliances that make cooking and meal preparation easier. ...lets find out"
 keywords: most popular kitchen appliances
-publishDate: 2/2/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

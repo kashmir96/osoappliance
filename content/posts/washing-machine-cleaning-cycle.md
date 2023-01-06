@@ -3,7 +3,6 @@
 title: Washing Machine Cleaning Cycle
 description: "Regular cleaning of the washing machine is an important part of maintaining your machine and keeping it running efficiently. The c...get more detail"
 keywords: washing machine
-publishDate: 1/31/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

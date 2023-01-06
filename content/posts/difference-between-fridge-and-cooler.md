@@ -3,7 +3,6 @@
 title: Difference Between Fridge And Cooler
 description: "When it comes to food storage, there are two main options: fridges and coolers. Although both are used for storing food in a cool ...learn about it in this post"
 keywords: fridge
-publishDate: 4/18/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

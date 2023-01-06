@@ -3,7 +3,6 @@
 title: Effects Of Hair Dryer During Pregnancy
 description: "Pregnancy is a time when a woman’s body undergoes many changes, and the hair is no exception. Many pregnant women are concerned ab...get more detail"
 keywords: hair dryer
-publishDate: 12/17/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

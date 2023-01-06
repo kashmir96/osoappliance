@@ -3,7 +3,6 @@
 title: Washing Machine Delivery Upstairs
 description: "Moving a washing machine up stairs can be a daunting task. From heavy lifting to cramped doorways and sharp turns, it can seem lik...get the full scoop"
 keywords: washing machine
-publishDate: 2/16/2023
 tags: ["Washing Machine", "Heat Pump", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

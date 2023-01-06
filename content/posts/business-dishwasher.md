@@ -3,7 +3,6 @@
 title: Business Dishwasher
 description: "A business dishwasher is a valuable piece of equipment for any foodservice establishment. Whether you run a restaurant, cafe, or c...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 4/29/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

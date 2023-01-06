@@ -3,7 +3,6 @@
 title: Commercial Laundry Christchurch
 description: If you're looking for ways to improve the efficiency and productivity of your business in Christchurch, New Zealand, then read on to learn more about the benefits of using commercial laundry services.
 keywords: laundry christchurch
-publishDate: 8/26/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Appliances Christchurch"]

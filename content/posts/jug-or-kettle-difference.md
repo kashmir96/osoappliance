@@ -3,7 +3,6 @@
 title: Jug Or Kettle Difference
 description: "When it comes to boiling water, there is a key difference between a jug and a kettle. A jug is generally used to pour hot water in...scroll on and keep learning"
 keywords: jug kettle
-publishDate: 4/24/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

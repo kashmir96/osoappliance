@@ -3,7 +3,6 @@
 title: Most Popular Kettle
 description: "If you’re looking to take your kettle to the next level, there are plenty of great accessories that can help you do just that! Ket...lets find out"
 keywords: most popular kettle
-publishDate: 2/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

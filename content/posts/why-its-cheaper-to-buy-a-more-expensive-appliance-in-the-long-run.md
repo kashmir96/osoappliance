@@ -3,7 +3,6 @@
 title: Why Its Cheaper To Buy A More Expensive Appliance In The Long Run
 description: This post explains why it is important to consider the cost of ownership when buying a new appliance, and encourages readers to learn more about why this is often the smarter choice.
 keywords: appliance
-publishDate: 1/3/2023
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

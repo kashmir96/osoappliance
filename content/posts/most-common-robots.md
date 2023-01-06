@@ -3,7 +3,6 @@
 title: Most Common Robots
 description: "Robots are increasingly becoming a part of our everyday lives. From vacuum cleaners to factory assembly lines, robots have made th...learn about it in this post"
 keywords: most
-publishDate: 1/3/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

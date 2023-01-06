@@ -3,7 +3,6 @@
 title: Cheap Appliance Parts Outlet
 description: "If you’re a DIY enthusiast or someone who likes to fix their own appliances, then you know how hard it can be to find the right pa...see more"
 keywords: cheap appliance parts
-publishDate: 10/22/2021
 tags: ["Buy Appliance", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

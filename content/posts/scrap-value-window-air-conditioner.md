@@ -3,7 +3,6 @@
 title: Scrap Value Window Air Conditioner
 description: "As the summer months begin, many of us turn to our trusty window air conditioners to keep our homes cool and comfortable. But at t...get more detail"
 keywords: scrap value air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

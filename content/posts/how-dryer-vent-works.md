@@ -3,7 +3,6 @@
 title: How Dryer Vent Works
 description: "If you’ve ever noticed a pesky smell coming from your dryer, or noticed that your dryer isn’t drying clothes as quickly as it used...get more info"
 keywords: dryer
-publishDate: 11/29/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

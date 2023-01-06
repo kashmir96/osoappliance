@@ -3,7 +3,6 @@
 title: Electric Carpet Cleaners For Sale
 description: "As homeowners, we all know the importance of keeping our carpets clean. Not only do carpets add beauty to our homes, but they also...you wont regret reading on"
 keywords: sale
-publishDate: 25/12/2022
 tags: ["Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

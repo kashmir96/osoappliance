@@ -3,7 +3,6 @@
 title: How To Use A Dryer
 description: "Using a dryer is a great way to save time and energy when it comes to drying your clothes. However, if you’re not familiar with th...swipe up to find out"
 keywords: how to use dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

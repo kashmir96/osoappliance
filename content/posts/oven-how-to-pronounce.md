@@ -3,7 +3,6 @@
 title: Oven How To Pronounce
 description: "If you’re like many people, you may have trouble pronouncing the word “oven.” It’s a simple word, but it can be tricky to get righ...keep going and find out"
 keywords: oven how to
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

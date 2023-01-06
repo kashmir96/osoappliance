@@ -3,7 +3,6 @@
 title: Air Conditioning Commercial Service
 description: "Air conditioning is an essential part of keeping your home or business comfortable during the hot summer months. While it’s easy e...continue on"
 keywords: air
-publishDate: 6/1/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

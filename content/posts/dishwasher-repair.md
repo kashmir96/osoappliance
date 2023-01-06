@@ -3,7 +3,6 @@
 title: Dishwasher Repair
 description: "If your dishwasher isn’t working properly, it can be incredibly frustrating and time consuming to figure out what’s wrong and how ...see more"
 keywords: dishwasher repair
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Appliance Repair", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

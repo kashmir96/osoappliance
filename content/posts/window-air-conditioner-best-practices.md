@@ -3,7 +3,6 @@
 title: Window Air Conditioner Best Practices
 description: "Window air conditioners are a great way to cool your home during hot summer months. However, it is important to follow certain bes...get more detail"
 keywords: air conditioner best
-publishDate: 4/22/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

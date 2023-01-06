@@ -3,7 +3,6 @@
 title: Air Purifier Replacement Parts
 description: "Air purifiers are a great way to clean the air in your home and keep it free of dust, pollen, pet dander, and other airborne pollu...check it out to learn"
 keywords: air purifier replacement parts
-publishDate: 4/6/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How To Replace An Ac Unit
 description: "If you’re looking to replace your AC unit, you’ve come to the right place. Replacing an AC unit can be a daunting task, but with t...swipe up to find out"
 keywords: how to replace ac
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Oven Temperature Is Important
 description: "When baking, one of the most important aspects to consider is oven temperature. Having your oven set at the right temperature is e...swipe up to find out"
 keywords: oven
-publishDate: 3/18/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

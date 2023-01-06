@@ -3,7 +3,6 @@
 title: Big Air Conditioning Unit
 description: "A big air conditioning unit is an important piece of equipment to have in any home or business. It helps keep the space cool and c...learn more"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Rent Abatement Air Conditioning
 description: "Rent abatement is a type of leasing agreement that allows tenants to pay reduced rent in exchange for the landlord fixing any issu...read now to learn more"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

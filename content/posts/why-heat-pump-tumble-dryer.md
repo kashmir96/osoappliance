@@ -3,7 +3,6 @@
 title: Why Heat Pump Tumble Dryer
 description: "Heat pump tumble dryers are becoming increasingly popular due to their energy-saving benefits and their ability to effectively dry...learn more about it now"
 keywords: heat pump dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

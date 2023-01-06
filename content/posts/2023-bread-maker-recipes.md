@@ -3,7 +3,6 @@
 title: 2023 Bread Maker Recipes
 description: "The bread maker is a kitchen appliance that makes the process of making homemade bread much easier. It takes away the hassle of kn...see more detail"
 keywords: 2023 bread maker
-publishDate: 2/19/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

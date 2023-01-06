@@ -3,7 +3,6 @@
 title: Appliance Repairs Service Companies Near Me
 description: "If you’re having trouble with any of your household appliances, you may be wondering if it’s time to call an appliance repair serv...learn more"
 keywords: appliance near
-publishDate: 9/11/2021
 tags: ["Heat Pump", "Appliance Repair", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Laundry Appliances
 description: "Laundry appliances have made a huge difference to our daily lives, simplifying the chore and saving us time. From washing machines...swipe up to find out"
 keywords: laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

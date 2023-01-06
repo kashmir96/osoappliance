@@ -3,7 +3,6 @@
 title: Commercial Stick Blender
 description: "A commercial stick blender is a versatile and powerful kitchen tool that can be used for a variety of different tasks. It’s a grea...lets find out"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

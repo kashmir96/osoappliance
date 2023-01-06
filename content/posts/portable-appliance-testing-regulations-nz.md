@@ -3,7 +3,6 @@
 title: Portable Appliance Testing Regulations Nz
 description: "Portable Appliance Testing (PAT) regulations in New Zealand are designed to ensure electrical safety in the workplace. All busines...learn about it in this post"
 keywords: appliance regulations nz
-publishDate: 5/24/2022
 tags: ["New Zealand", "Appliance Rules and Regulations", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

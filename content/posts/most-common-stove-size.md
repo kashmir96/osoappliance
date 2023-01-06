@@ -3,7 +3,6 @@
 title: Most Common Stove Size
 description: "Stove sizes vary depending on the type of stove you are looking for, but the most popular size is a 30-inch freestanding range. Th...see more"
 keywords: most stove
-publishDate: 8/3/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

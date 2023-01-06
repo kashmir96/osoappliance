@@ -3,7 +3,6 @@
 title: Blender Accessories Kitchen Aid
 description: "Blender accessories can really help to simplify your kitchen routine. KitchenAid blenders are some of the most popular kitchen app...get more detail"
 keywords: blender kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

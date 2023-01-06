@@ -3,7 +3,6 @@
 title: Dryer Washer Stackable
 description: "Are you looking for a way to save space in your laundry room? Then a dryer washer stackable might be the perfect solution for you....learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

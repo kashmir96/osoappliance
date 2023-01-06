@@ -3,7 +3,6 @@
 title: Dryer Machine Best 2021
 description: "As the winter months approach, it's time to start thinking about ways to keep your clothes dry and warm. One of the best ways to d...keep reading to learn"
 keywords: dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

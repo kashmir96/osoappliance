@@ -3,7 +3,6 @@
 title: Washing Machine Parts Christchurch
 description: "If you live in Christchurch and are looking to replace or upgrade parts in your washing machine, you’re likely searching for a rel...see more detail"
 keywords: washing machine parts christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Laundry Appliances", "Clean Appliance", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Electrical Appliances Shop In Kuching
 description: "Kuching, the capital of Sarawak, is a bustling city filled with many modern amenities. Among these amenities are electrical applia...learn more"
 keywords: appliances shop
-publishDate: 2/12/2023
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

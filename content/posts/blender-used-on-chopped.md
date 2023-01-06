@@ -3,7 +3,6 @@
 title: Blender Used On Chopped
 description: "Blender is an essential kitchen tool used to make a variety of dishes. It can be used to chop, blend, puree, and emulsify ingredie...you wont regret reading on"
 keywords: blender
-publishDate: 4/11/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

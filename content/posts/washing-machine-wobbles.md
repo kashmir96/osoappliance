@@ -3,7 +3,6 @@
 title: Washing Machine Wobbles
 description: A wobbly washer can be a nuisance, but with this post you can learn how to fix it easily - read on to find out how!
 keywords: washing machine
-publishDate: 9/6/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

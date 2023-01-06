@@ -3,7 +3,6 @@
 title: When To Clean Dryer Vent
 description: "When it comes to maintaining your dryer, one of the most important steps is cleaning the dryer vent. A clogged or blocked dryer ve...see more"
 keywords: clean dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Popular Kettle Uk
 description: "Kettles are a kitchen essential and have been a staple appliance for centuries. In the UK, kettles are used more than ever before,...get the full scoop"
 keywords: most popular kettle
-publishDate: 2/15/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

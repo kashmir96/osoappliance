@@ -3,7 +3,6 @@
 title: Laundry Appliance Parts
 description: "If you’ve ever had to repair a broken washing machine or dryer, you know how important it is to be familiar with the various parts...learn more about it now"
 keywords: laundry parts
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Remington Hair Dryer Christchurch
 description: "If you’re looking for a reliable and high-quality hair dryer to help keep your hair looking its best, look no further than the Rem...check it out to learn"
 keywords: hair dryer christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Christchurch", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Disposal Air Conditioner
 description: "As the temperatures start to heat up and summer approaches, many people are thinking about installing an air conditioner in their ...swipe up to find out"
 keywords: disposal air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

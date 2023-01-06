@@ -3,7 +3,6 @@
 title: Oven Makes Noise When Heating Up
 description: "Are you hearing strange noises coming from your oven while it’s heating up? You’re not alone. Many people experience the same issu...see more"
 keywords: oven
-publishDate: 1/15/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Kenwood Commercial Blender
 description: "A Kenwood commercial blender is a powerful machine used to blend drinks, smoothies, and other food items. It is designed for heavy...keep going and find out"
 keywords: blender
-publishDate: 6/21/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

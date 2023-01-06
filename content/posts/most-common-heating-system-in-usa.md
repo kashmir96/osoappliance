@@ -3,7 +3,6 @@
 title: Most Common Heating System In Usa
 description: "As the winter months approach, many of us are starting to think about how we’ll keep our homes warm and comfortable. Heating syste...continue on"
 keywords: most
-publishDate: 1/20/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

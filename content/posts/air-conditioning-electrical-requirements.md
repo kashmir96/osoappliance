@@ -3,7 +3,6 @@
 title: Air Conditioning Electrical Requirements
 description: "Air conditioning is a vital element of modern living, allowing us to stay cool and comfortable in the hot summer months. As such, ...read now to learn more"
 keywords: air
-publishDate: 6/10/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Best Brand
 description: "When it comes to shopping for a washing machine, there are so many options available that it can be hard to figure out which one i...learn more"
 keywords: washing machine best brand
-publishDate: 1/19/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Common Appliance Repair Parts
 description: "When it comes to appliance repair, it is important to understand the parts involved. Knowing the most common appliance repair part...learn more about it now"
 keywords: most appliance repair parts
-publishDate: 7/8/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

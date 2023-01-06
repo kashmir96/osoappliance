@@ -3,7 +3,6 @@
 title: 2023 Heat Pump Changes
 description: "As we move closer to 2023, the heat pump industry is seeing some significant changes. Heat pumps are becoming increasingly popular...swipe up to find out"
 keywords: 2023 heat pump
-publishDate: 2/27/2023
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

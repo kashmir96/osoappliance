@@ -3,7 +3,6 @@
 title: Fisher And Paykel Washing Machine
 description: "Fisher & Paykel is a household name when it comes to washing machines. With their long history dating back to 1934, this New Zeala...get more detail"
 keywords: washing machine
-publishDate: 6/23/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

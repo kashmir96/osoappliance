@@ -3,7 +3,6 @@
 title: Most Common Microwave Size
 description: "When it comes to purchasing a microwave, one of the most common questions people have is what size microwave should they buy? Afte...learn more"
 keywords: most microwave
-publishDate: 12/22/2021
 tags: ["Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

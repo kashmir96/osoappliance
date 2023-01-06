@@ -3,7 +3,6 @@
 title: Best Washing Machine 2022
 description: "As the year 2022 approaches, it is time to start thinking about the best washing machine for your home. With so many different mod...keep reading to learn"
 keywords: best washing machine 2022
-publishDate: 9/11/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

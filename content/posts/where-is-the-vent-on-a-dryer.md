@@ -3,7 +3,6 @@
 title: Where Is The Vent On A Dryer
 description: "When you are trying to figure out where the vent on a dryer is located, it can be a bit confusing because there are several possib...continue on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

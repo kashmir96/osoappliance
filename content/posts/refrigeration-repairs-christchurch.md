@@ -3,7 +3,6 @@
 title: Refrigeration Repairs Christchurch
 description: "If you live in Christchurch, New Zealand, you know that having reliable and efficient refrigeration repair services is essential. ...learn more"
 keywords: christchurch
-publishDate: 8/17/2021
 tags: ["Heat Pump", "Christchurch", "Appliance Repair"]
 author: Curtis
 categories: ["Household Appliances"]

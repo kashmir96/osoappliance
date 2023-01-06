@@ -3,7 +3,6 @@
 title: Machine Heat Pump 2023
 description: "A heat pump is an air conditioning system that works by transferring thermal energy from one area to another. Heat pumps are a gre...take a moment to check it out "
 keywords: heat pump 2023
-publishDate: 12/28/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

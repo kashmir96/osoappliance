@@ -3,7 +3,6 @@
 title: Dryer Isnt Drying
 description: "If your dryer isn't drying your clothes, it can be a hassle. Not only do you have to wait for the clothes to air dry, but you also...you wont regret reading on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

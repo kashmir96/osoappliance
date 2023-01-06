@@ -3,7 +3,6 @@
 title: Flat With Appliances For Rent
 description: "If you’re looking for a way to save money on your monthly bills, consider flat with appliances for rent. This is a great option fo...see more"
 keywords: appliances
-publishDate: 12/28/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

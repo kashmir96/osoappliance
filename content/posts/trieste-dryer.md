@@ -3,7 +3,6 @@
 title: Trieste Dryer
 description: "Trieste dryers are a unique type of clothes dryer, designed to use a combination of air and steam to dry clothing quickly and effi...swipe up to find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

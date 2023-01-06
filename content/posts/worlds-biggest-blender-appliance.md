@@ -3,7 +3,6 @@
 title: Worlds Biggest Blender Appliance
 description: "The world’s biggest blender appliance is a powerful and multifunctional appliance that can make a variety of delicious drinks and ...find out now"
 keywords: blender appliance
-publishDate: 7/30/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

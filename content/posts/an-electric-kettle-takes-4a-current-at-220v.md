@@ -3,7 +3,6 @@
 title: An Electric Kettle Takes 4A Current At 220V
 description: "An electric kettle is a kitchen appliance that heats water to boiling point quickly and efficiently. It usually takes an input of ...see more"
 keywords: kettle
-publishDate: 3/25/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

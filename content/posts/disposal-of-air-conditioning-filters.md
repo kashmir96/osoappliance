@@ -3,7 +3,6 @@
 title: Disposal Of Air Conditioning Filters
 description: "Air conditioning filters are an important part of keeping your system running efficiently and effectively. Unfortunately, they als...learn about it in this post"
 keywords: disposal air
-publishDate: 5/22/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

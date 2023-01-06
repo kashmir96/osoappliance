@@ -3,7 +3,6 @@
 title: Why Oven Door Wont Close
 description: "If your oven door won’t close, it can be a frustrating experience. There are several possible causes for this issue and understand...lets find out"
 keywords: oven close
-publishDate: 12/12/2022
 tags: ["Oven", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

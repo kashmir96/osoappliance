@@ -3,7 +3,6 @@
 title: Bosch Heat Pump Accessories
 description: "Bosch heat pumps are designed to provide energy efficient heating and cooling for your home. While the heat pump itself is a great...scroll on and keep learning"
 keywords: bosch heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

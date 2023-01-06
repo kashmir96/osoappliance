@@ -3,7 +3,6 @@
 title: Compact Washing Machine Christchurch
 description: Compact washing machines are a great space-saving solution for laundry needs in Christchurch, so find out more to see if they are the perfect choice for you!
 keywords: washing machine christchurch
-publishDate: 12/4/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

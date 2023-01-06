@@ -3,7 +3,6 @@
 title: Why Are Kettles 1.7 Litres
 description: "Kettles are often sold in the capacity of 1.7 liters and this size is not a coincidence. The reason why kettles are usually 1.7 li...lets find out"
 keywords: 
-publishDate: 1/7/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

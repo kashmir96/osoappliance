@@ -3,7 +3,6 @@
 title: Oven Makes Banging Noise
 description: "If you’ve ever found yourself in the kitchen, baking a batch of delicious cookies with your favorite tunes playing in the backgrou...you wont regret reading on"
 keywords: oven
-publishDate: 1/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

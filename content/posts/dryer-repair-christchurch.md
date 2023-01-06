@@ -3,7 +3,6 @@
 title: Dryer Repair Christchurch
 description: Hiring a professional dryer repair technician is a great investment for your home. They will ensure that your dryer is repaired correctly and quickly, saving you time, money, and hassle. Learn more.
 keywords: dryer repair christchurch
-publishDate: 7/13/2022
 tags: ["Christchurch", "Dryer", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

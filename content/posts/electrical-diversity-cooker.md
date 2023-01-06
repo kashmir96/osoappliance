@@ -3,7 +3,6 @@
 title: Electrical Diversity Cooker
 description: "In today’s energy-conscious world, the electrical diversity cooker is becoming increasingly popular. The electrical diversity cook...see more"
 keywords: cooker
-publishDate: 4/20/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dangers Of Dryer Vent
 description: "Dryer vents are essential for safely removing the hot air created during a drying cycle, but they can also be extremely dangerous ...swipe up to find out"
 keywords: dryer
-publishDate: 1/11/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

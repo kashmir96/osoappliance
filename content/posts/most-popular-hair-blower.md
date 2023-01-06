@@ -3,7 +3,6 @@
 title: Most Popular Hair Blower
 description: "If you’ve ever stepped foot in a salon or beauty store, chances are you’ve seen the wide variety of hair blowers available on the ...get the full scoop"
 keywords: most popular
-publishDate: 3/17/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

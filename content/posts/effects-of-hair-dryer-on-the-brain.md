@@ -3,7 +3,6 @@
 title: Effects Of Hair Dryer On The Brain
 description: "Hair dryers are a common part of most people’s daily grooming routines. However, you may be surprised to learn that using a hair d...you wont regret reading on"
 keywords: hair dryer
-publishDate: 12/15/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

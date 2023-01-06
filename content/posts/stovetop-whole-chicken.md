@@ -3,7 +3,6 @@
 title: Stovetop Whole Chicken
 description: "Cooking a whole chicken on the stovetop is a great way to enjoy a delicious and healthy meal with minimal effort. Not only is it a...get more detail"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dryer Smells Like Skunk
 description: "If your dryer smells like skunk, it’s likely due to the build-up of lint and other debris in the lint trap and exhaust vent. As li...see more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

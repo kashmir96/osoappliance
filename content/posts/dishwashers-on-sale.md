@@ -3,7 +3,6 @@
 title: Dishwashers On Sale
 description: "Are you in the market for a new dishwasher? If so, you’ve come to the right place! Dishwashers are an essential appliance for any ...get the full scoop"
 keywords: sale
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

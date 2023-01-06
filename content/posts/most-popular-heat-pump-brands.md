@@ -3,7 +3,6 @@
 title: Most Popular Heat Pump Brands
 description: "Heat pumps are becoming increasingly popular as a way to heat and cool buildings. They are a cost-effective alternative to traditi...get more detail"
 keywords: most popular heat pump brands
-publishDate: 1/8/2022
 tags: ["Heat Pump", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Common Air Conditioning Refrigerant
 description: "Air conditioning systems use a refrigerant to provide cool air within a building. Refrigerants are chemical compounds that absorb ...read now to learn more"
 keywords: most air
-publishDate: 12/31/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

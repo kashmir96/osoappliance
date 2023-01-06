@@ -3,7 +3,6 @@
 title: Appliances Air Conditioner
 description: "When it comes to keeping cool in the summer months, nothing beats an air conditioner. An air conditioner is one of the most popula...learn more about it now"
 keywords: appliances air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

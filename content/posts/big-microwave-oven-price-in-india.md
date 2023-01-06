@@ -3,7 +3,6 @@
 title: Big Microwave Oven Price In India
 description: "Are you looking for a big microwave oven in India? If yes, then you must have come across some hefty price tags. But why are these...continue on"
 keywords: microwave oven
-publishDate: 3/27/2022
 tags: ["Oven", "Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

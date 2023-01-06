@@ -3,7 +3,6 @@
 title: New Appliances For Sale Near Me
 description: "If you’re in the market for some new appliances, you’re in luck! There are lots of options available near you, depending on where ...swipe up to find out"
 keywords: sale near
-publishDate: 12/12/2022
 tags: ["Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

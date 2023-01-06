@@ -3,7 +3,6 @@
 title: Why Washing Machine Is Important
 description: "Washing machines are an essential part of modern life. They save time, energy, and water, making the chore of doing laundry much e...find out now"
 keywords: washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

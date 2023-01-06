@@ -3,7 +3,6 @@
 title: Spare Appliances
 description: "In today’s modern world, spare appliances are an essential part of any home. A spare appliance is a type of equipment that you can...keep reading to learn"
 keywords: appliances
-publishDate: 1/28/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

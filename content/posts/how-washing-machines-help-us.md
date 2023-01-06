@@ -3,7 +3,6 @@
 title: How Washing Machines Help Us
 description: "Washing machines are some of the most important appliances in our lives. They make our lives so much easier by doing the tedious t...read now to learn more"
 keywords: washing machines
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

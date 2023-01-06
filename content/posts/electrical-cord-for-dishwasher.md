@@ -3,7 +3,6 @@
 title: Electrical Cord For Dishwasher
 description: "A dishwasher relies heavily on an electrical cord for operation. An electrical cord is a vital component of any dishwasher as it d...learn about it in this post"
 keywords: dishwasher
-publishDate: 4/16/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

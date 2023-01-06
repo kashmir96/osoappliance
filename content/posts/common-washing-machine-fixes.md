@@ -3,7 +3,6 @@
 title: Common Washing Machine Fixes
 description: Having trouble with your washing machine? Read this post to find out the common issues and how to easily fix them - click to learn more!
 keywords: washing machine
-publishDate: 10/13/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

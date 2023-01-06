@@ -3,7 +3,6 @@
 title: How Fridge Ice Maker Works
 description: "If you’ve ever had a refrigerator with an ice maker, you know how convenient it can be to have cold ice cubes at the ready. But ho...read now to learn more"
 keywords: fridge ice maker
-publishDate: 12/7/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

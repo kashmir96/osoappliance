@@ -3,7 +3,6 @@
 title: Coast Appliance Parts
 description: "Living on the coast can be a challenge when it comes to maintaining your appliances, as the salty air can take its toll over time....get more info"
 keywords: appliance parts
-publishDate: 10/28/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

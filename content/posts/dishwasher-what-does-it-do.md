@@ -3,7 +3,6 @@
 title: Dishwasher What Does It Do
 description: "A dishwasher is a kitchen appliance that is used to wash dishes, glasses, and other cooking utensils. It is a convenient and effic...get the full scoop"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

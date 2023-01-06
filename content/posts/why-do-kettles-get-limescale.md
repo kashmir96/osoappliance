@@ -3,7 +3,6 @@
 title: Why Do Kettles Get Limescale
 description: "Limescale is a chalky white deposit that builds up inside kettles and is caused by the build-up of mineral deposits from hard wate...learn about it in this post"
 keywords: 
-publishDate: 1/9/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washing Machine Cleaning
 description: "Cleaning your washing machine is an important part of keeping your laundry clean and fresh. It might seem like a daunting task at ...learn more about it now"
 keywords: washing machine
-publishDate: 1/30/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

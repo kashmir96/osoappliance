@@ -3,7 +3,6 @@
 title: Whirlpool Dryer
 description: "When it comes to choosing a dryer for your laundry needs, Whirlpool is an excellent brand to consider. Not only do their dryers pr...keep reading to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

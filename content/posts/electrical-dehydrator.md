@@ -3,7 +3,6 @@
 title: Electrical Dehydrator
 description: "A food dehydrator is an appliance used to dry out food in order to preserve it and extend its shelf life. It works by using either...learn more"
 keywords: dehydrator
-publishDate: 4/17/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

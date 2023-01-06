@@ -3,7 +3,6 @@
 title: Dispose Air Conditioner Nyc
 description: "Air conditioners are a great way to stay cool during the hot summer months. However, when it's time to replace or upgrade your air...continue on"
 keywords: dispose air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Disposal"]
 author: Curtis
 categories: ["Household Appliances"]

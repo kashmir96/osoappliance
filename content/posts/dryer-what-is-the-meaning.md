@@ -3,7 +3,6 @@
 title: Dryer What Is The Meaning
 description: "A dryer is an appliance used to remove moisture from clothes and other items. It works by circulating heated air over the items an...you wont regret reading on"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

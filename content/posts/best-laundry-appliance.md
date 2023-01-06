@@ -3,7 +3,6 @@
 title: Best Laundry Appliance
 description: "Are you looking for the best laundry appliance that will make your life easier? With so many options on the market, it can be hard...learn about it in this post"
 keywords: best laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

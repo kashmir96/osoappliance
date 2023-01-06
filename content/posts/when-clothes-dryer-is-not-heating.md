@@ -3,7 +3,6 @@
 title: When Clothes Dryer Is Not Heating
 description: "If you’ve noticed that your clothes dryer isn’t heating up, it could be a sign of several different issues. In this blog, we’ll ex...lets find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

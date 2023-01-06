@@ -3,7 +3,6 @@
 title: Clothes Dryers For Sale Christchurch
 description: "If you’re in the market for a clothes dryer in Christchurch, you’ve come to the right place! There are plenty of options available...see more detail"
 keywords: dryers sale christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Christchurch", "Laundry Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

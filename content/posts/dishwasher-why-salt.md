@@ -3,7 +3,6 @@
 title: Dishwasher Why Salt
 description: "If you’ve ever owned a dishwasher, you’ve probably noticed a compartment labeled “salt”. But why do you need to add salt to your d...check it out to learn"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

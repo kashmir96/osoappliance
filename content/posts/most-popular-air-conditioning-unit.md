@@ -3,7 +3,6 @@
 title: Most Popular Air Conditioning Unit
 description: "Air conditioning units are becoming increasingly popular due to their ability to provide relief from the heat. There are a variety...learn more about it now"
 keywords: most popular air
-publishDate: 7/2/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

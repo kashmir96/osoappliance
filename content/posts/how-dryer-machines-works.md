@@ -3,7 +3,6 @@
 title: How Dryer Works
 description: "Have you ever wondered how your dryer works? Whether you’re using a standard clothes dryer or a combination washer/dryer, the proc...get the full scoop"
 keywords: dryer
-publishDate: 11/30/2021
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

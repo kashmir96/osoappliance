@@ -3,7 +3,6 @@
 title: Best Kitchen Appliances Brand Uk
 description: "When it comes to kitchen appliances, the UK is home to some of the best brands in the world. Whether you’re looking for a new oven...get more detail"
 keywords: best kitchen brand
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

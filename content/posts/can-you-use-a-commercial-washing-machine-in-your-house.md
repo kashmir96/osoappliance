@@ -3,7 +3,6 @@
 title: Can You Use A Commercial Washing Machine In Your House
 description: This post discusses the pros and cons of using a commercial washing machine in your home, and provides tips on how to decide if one is right for you.
 keywords: washing machine
-publishDate: 7/8/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

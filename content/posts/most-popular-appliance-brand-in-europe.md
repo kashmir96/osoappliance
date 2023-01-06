@@ -3,7 +3,6 @@
 title: Most Popular Appliance Brand In Europe
 description: "As the world of home appliances continues to evolve, so too do the preferences of consumers when it comes to choosing their favori...swipe up to find out"
 keywords: most popular appliance brand
-publishDate: 2/17/2022
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

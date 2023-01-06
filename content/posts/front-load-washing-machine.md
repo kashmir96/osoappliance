@@ -3,7 +3,6 @@
 title: Front Load Washing Machine
 description: "Front-load washing machines are the preferred choice of many households due to their energy efficiency and water conservation. The...learn about it in this post"
 keywords: washing machine
-publishDate: 6/24/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

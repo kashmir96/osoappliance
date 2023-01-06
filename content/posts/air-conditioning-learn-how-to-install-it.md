@@ -3,7 +3,6 @@
 title: Air Conditioning Learn How To Install It
 description: "Air conditioning is an incredibly useful tool for keeping your house or office cool in the summer months. It can be a lifesaver du...get more info"
 keywords: air how to install
-publishDate: 6/20/2023
 tags: ["Heat Pump", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

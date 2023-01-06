@@ -3,7 +3,6 @@
 title: Most Common Heating Problems
 description: "Heating problems are one of the most common issues homeowners face, especially in the winter months. From a lack of heat to unusua...find out now"
 keywords: most
-publishDate: 1/22/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

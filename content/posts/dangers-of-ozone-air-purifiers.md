@@ -3,7 +3,6 @@
 title: Dangers Of Ozone Air Purifiers
 description: "Ozone air purifiers are electronic devices designed to clean the air in homes and other spaces by releasing ozone gas. Ozone is a ...see more"
 keywords: air
-publishDate: 1/2/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

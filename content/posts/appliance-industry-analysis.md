@@ -3,7 +3,6 @@
 title: Appliance Industry Analysis
 description: "The appliance industry is one of the most important industries in the world. It provides consumers with a wide range of products, ...see more"
 keywords: appliance
-publishDate: 1/8/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Do Washing Machines Need To Be So Heavy
 description: "When it comes to laundry appliances, the washing machine is usually the heavier of the two. This is because the washing machine co...continue on"
 keywords: washing machines
-publishDate: 7/13/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

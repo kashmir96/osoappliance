@@ -3,7 +3,6 @@
 title: Dangers Of Clogged Dryer Vents
 description: "Having a clogged dryer vent may not seem like a big deal, but the truth is that it can be very dangerous. A clogged dryer vent can...check it out to learn"
 keywords: dryer
-publishDate: 1/12/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Why Are There Transport Bolts On A Washing Machine
 description: "Transport bolts are an important safety feature on washing machines. They are designed to keep the drum and other internal compone...continue on"
 keywords: washing machine
-publishDate: 7/17/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Appliance Installation Best Buy
 description: "If you’ve recently bought a new appliance and you’re ready to install it in your home, it’s important to follow the best practices...swipe up to find out"
 keywords: installation best buy
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

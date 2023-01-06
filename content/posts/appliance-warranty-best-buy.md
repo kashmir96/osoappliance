@@ -3,7 +3,6 @@
 title: Appliance Warranty Best Buy
 description: "When it comes to appliances, it's important to consider the warranty that comes with the product. A good appliance warranty can pr...find out now"
 keywords: best buy
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

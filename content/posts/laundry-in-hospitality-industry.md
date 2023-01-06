@@ -3,7 +3,6 @@
 title: Laundry In Hospitality Industry
 description: "Laundry in the hospitality industry is an important part of keeping facilities clean and presentable. Linens and other items that ...get more info"
 keywords: laundry
-publishDate: 12/16/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

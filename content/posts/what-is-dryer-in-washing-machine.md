@@ -3,7 +3,6 @@
 title: What Is Dryer In Washing Machine
 description: "A dryer in a washing machine is a device that removes moisture from clothes after they have been washed. It is typically used in c...continue on"
 keywords: dryer washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

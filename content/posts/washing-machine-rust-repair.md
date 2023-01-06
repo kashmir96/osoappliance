@@ -3,7 +3,6 @@
 title: Washing Machine Rust Repair
 description: If you have noticed rust forming on your washing machine, don't worry - this post will provide tips on how to repair it and keep your washer in good working condition - read on to find out more!
 keywords: washing machine repair
-publishDate: 9/19/2022
 tags: ["Washing Machine", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

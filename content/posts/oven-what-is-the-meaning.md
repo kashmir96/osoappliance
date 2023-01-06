@@ -3,7 +3,6 @@
 title: Oven What Is The Meaning
 description: "An oven is a kitchen appliance that is used to cook food by using heat. It is typically a large box-shaped device with an enclosed...swipe up to find out"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

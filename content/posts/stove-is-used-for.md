@@ -3,7 +3,6 @@
 title: Stove Is Used For
 description: "Stoves are a type of kitchen appliance that is used for cooking and baking. They come in a variety of styles and sizes, ranging fr...see more"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

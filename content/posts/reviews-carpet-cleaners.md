@@ -3,7 +3,6 @@
 title: Reviews Carpet Cleaners
 description: "Are you in the market for a new carpet cleaner? If so, you’ve likely come across various reviews online. Reviews can be incredibly...check it out to learn"
 keywords: reviews
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

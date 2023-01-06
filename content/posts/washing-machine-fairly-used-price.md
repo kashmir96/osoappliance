@@ -3,7 +3,6 @@
 title: Washing Machine Fairly Used Price
 description: "If you are in the market for a fairly used washing machine, you have come to the right place. Buying a fairly used washing machine...lets find out"
 keywords: washing machine
-publishDate: 1/20/2023
 tags: ["Washing Machine", "Heat Pump", "Laundry Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

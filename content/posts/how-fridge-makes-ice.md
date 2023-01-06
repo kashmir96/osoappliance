@@ -3,7 +3,6 @@
 title: How Fridge Makes Ice
 description: "A refrigerator is an essential household appliance that serves to keep food cold and fresh. But did you know that a fridge can als...scroll on and keep learning"
 keywords: fridge
-publishDate: 12/9/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

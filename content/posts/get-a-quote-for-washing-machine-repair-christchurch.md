@@ -3,7 +3,6 @@
 title: Get A Quote For Washing Machine Repair Christchurch
 description: This post outlines how to find reliable and affordable washing machine repairs in Christchurch, NZ, so read on to learn how you can get a quote for service today!
 keywords: washing machine repair christchurch
-publishDate: 12/13/2022
 tags: ["Washing Machine", "Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: How Fridge Thermostat Works
 description: "A refrigerator thermostat, also known as a fridge thermostat, is an essential component of your refrigerator. Its purpose is to re...keep going and find out"
 keywords: fridge
-publishDate: 12/11/2021
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

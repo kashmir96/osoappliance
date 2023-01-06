@@ -3,7 +3,6 @@
 title: Most Popular Diffuser Hair Dryer
 description: "If you're in the market for a new hair dryer, then you've probably heard of diffuser hair dryers. Diffuser hair dryers are one of ...get more detail"
 keywords: most popular hair dryer
-publishDate: 3/21/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

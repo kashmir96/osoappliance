@@ -3,7 +3,6 @@
 title: Accessories For Vitamix Immersion Blender
 description: "When you are in the market for a kitchen blender, one of the most popular and versatile options is a Vitamix immersion blender. Im...scroll on and keep learning"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

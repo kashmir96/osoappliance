@@ -3,7 +3,6 @@
 title: Rent To Own Appliance Stores
 description: "Rent-to-own appliance stores are a great way to purchase brand new appliances without having to pay the full cost up front. These ...learn more about it now"
 keywords: appliance stores
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

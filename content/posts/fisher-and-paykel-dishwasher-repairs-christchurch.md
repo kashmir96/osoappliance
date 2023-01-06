@@ -3,7 +3,6 @@
 title: Fisher And Paykel Dishwasher Repairs Christchurch
 description: "The Fisher and Paykel dishwasher is a popular choice in Christchurch and the surrounding areas. This is because it offers reliable...check it out to learn"
 keywords: dishwasher christchurch
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Appliance Repair", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

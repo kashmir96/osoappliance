@@ -3,7 +3,6 @@
 title: Most Common Oven Temperatures
 description: "The oven is one of the most commonly used appliances in the kitchen. It can be used for baking, roasting, toasting, and even broil...get more info"
 keywords: most oven
-publishDate: 7/22/2022
 tags: ["Oven", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

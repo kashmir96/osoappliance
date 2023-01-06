@@ -3,7 +3,6 @@
 title: Most Popular Dryer Sheets
 description: "Dryer sheets are a common laundry tool used to reduce static cling, add a pleasant scent, and soften clothes coming out of a dryer...get more detail"
 keywords: most popular dryer
-publishDate: 7/17/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

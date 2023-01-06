@@ -3,7 +3,6 @@
 title: Dishwasher Has A Smell
 description: "If you’ve noticed that your dishwasher has a strange smell, you’re not alone. Many people experience this issue, and it’s a common...learn more"
 keywords: dishwasher
-publishDate: 10/24/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

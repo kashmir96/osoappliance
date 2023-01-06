@@ -3,7 +3,6 @@
 title: Where To Buy Commercial Dishwasher
 description: "Are you in search of a commercial dishwasher for your business? If so, you have come to the right place! Commercial dishwashers ar...keep going and find out"
 keywords: buy dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

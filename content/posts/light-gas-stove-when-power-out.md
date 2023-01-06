@@ -3,7 +3,6 @@
 title: Light Gas Stove When Power Out
 description: "As the weather gets colder, many of us are turning on our heaters and lighting our gas stoves to cook more warm meals. But what ha...read now to learn more"
 keywords: gas stove power
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

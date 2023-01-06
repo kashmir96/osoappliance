@@ -3,7 +3,6 @@
 title: Most Reliable Front Loader Washing Machine Nz
 description: "When it comes to washing machines, reliability is key. You want a machine that can handle all of your clothes, day in and day out,...take a moment to check it out "
 keywords: most reliable washing machine nz
-publishDate: 12/18/2021
 tags: ["Washing Machine", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]
@@ -28,7 +27,6 @@ No matter what type of laundry needs you have or how big your budget is, you’l
 title: Most Popular Washing Machine Brands
 description: ""When it comes to buying a washing machine, it can be difficult to know which brand is best. With so many different models on the m...take a moment to check it out ""
 keywords: most popular washing machine brands
-publishDate: 12/19/2021
 tags: [""Washing Machine"", ""Laundry Appliances"", ""Clean Appliance"", ""Appliance Brand"", ""Appliance Guide""]
 author: Curtis
 categories: [""Household Appliances""]

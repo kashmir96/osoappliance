@@ -3,7 +3,6 @@
 title: Big Microwave Size
 description: "If you’re on the hunt for a new microwave, one of the first questions you’ll need to consider is size. How big of a microwave do y...check it out to learn"
 keywords: microwave
-publishDate: 3/28/2022
 tags: ["Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

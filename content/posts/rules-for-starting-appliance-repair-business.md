@@ -3,7 +3,6 @@
 title: Rules For Starting Appliance Repair Business
 description: This post outlines the essential steps to take when starting an appliance repair business, making it an essential read for anyone considering this venture; read on to find out more!
 keywords: appliance repair
-publishDate: 10/23/2022
 tags: ["Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

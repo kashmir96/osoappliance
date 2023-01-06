@@ -3,7 +3,6 @@
 title: Washing Machine Makes Life Easier How
 description: "A washing machine is an essential appliance in any household. From reducing the time and energy it takes to clean clothes, to cons...keep going and find out"
 keywords: washing machine
-publishDate: 2/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

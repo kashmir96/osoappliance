@@ -3,7 +3,6 @@
 title: Who Repair Washing Machine
 description: "If you're having trouble with your washing machine, you may need to call a repairman. A washing machine repairman can diagnose and...get more info"
 keywords: repair washing machine
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Appliance Repair", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

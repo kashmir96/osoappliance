@@ -3,7 +3,6 @@
 title: Mini Electric Cooker
 description: "A mini electric cooker is a great kitchen appliance for those who are short on space and want to be able to cook small meals quick...get the full scoop"
 keywords: cooker
-publishDate: 5/21/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

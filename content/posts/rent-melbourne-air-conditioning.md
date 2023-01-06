@@ -3,7 +3,6 @@
 title: Rent Melbourne Air Conditioning
 description: "When the summer months hit in Melbourne, many people find themselves struggling to keep cool. With temperatures soaring and humidi...learn about it in this post"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

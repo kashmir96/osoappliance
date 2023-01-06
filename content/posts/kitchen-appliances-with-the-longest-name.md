@@ -3,7 +3,6 @@
 title: Kitchen Appliances With The Longest Name
 description: "As technology continues to evolve, so do the names of kitchen appliances. From the humble microwave oven to the multi-functioning ...keep going and find out"
 keywords: kitchen appliances
-publishDate: 1/26/2023
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

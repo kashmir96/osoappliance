@@ -3,7 +3,6 @@
 title: Most Common Heat Pump Problems
 description: "Heat pumps are a great way to heat and cool your home or business, but like any other heating and cooling system, they can experie...see more"
 keywords: most heat pump
-publishDate: 1/5/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

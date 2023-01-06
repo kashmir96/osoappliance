@@ -3,7 +3,6 @@
 title: Solo Stove Where To Buy
 description: "If you are looking for an efficient, clean-burning stove for your camping or outdoor cooking needs, you should consider the Solo S...learn more about it now"
 keywords: stove buy
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

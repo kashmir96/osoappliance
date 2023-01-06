@@ -3,7 +3,6 @@
 title: What Are The Basics Of Air Conditioning
 description: "Air conditioning is a common technology used to control the temperature and humidity of indoor spaces. It works by circulating air...check it out to learn"
 keywords: air
-publishDate: 7/6/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

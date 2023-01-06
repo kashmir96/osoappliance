@@ -3,7 +3,6 @@
 title: Commercial Air Conditioning Units Prices
 description: "If you're in the market for a commercial air conditioning unit, you may be wondering what prices to expect. The cost of a commerci...swipe up to find out"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

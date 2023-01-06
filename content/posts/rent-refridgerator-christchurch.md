@@ -3,7 +3,6 @@
 title: Rent Refridgerator Christchurch
 description: This post outlines the best and most affordable way to get a refrigerator in Christchurch, New Zealand, and informs readers considering renting one - read on to find out more!
 keywords: refridgerator christchurch
-publishDate: 7/27/2022
 tags: ["Christchurch", "Appliances", "Fridge"]
 author: Curtis
 categories: ["Appliances Christchurch"]

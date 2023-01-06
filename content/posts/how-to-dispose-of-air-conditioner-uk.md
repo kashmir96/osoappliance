@@ -3,7 +3,6 @@
 title: How To Dispose Of Air Conditioner Uk
 description: "When it comes to disposing of an air conditioner, it can be a tricky process as there are a few important steps you need to take i...check it out to learn"
 keywords: how to dispose air conditioner
-publishDate: 5/24/2022
 tags: ["Heat Pump", "Appliance Disposal", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Oven How Much
 description: "When it comes to ovens, the amount of food you can fit in them is determined by the size of the oven and the type of food you plan...find out now"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

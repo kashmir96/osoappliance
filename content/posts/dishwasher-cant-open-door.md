@@ -3,7 +3,6 @@
 title: Dishwasher Cant Open Door
 description: "If your dishwasher won't open, it can be a frustrating experience. Fortunately, the issue is usually an easy fix and doesn't requi...you wont regret reading on"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Most Common Washing Machine Setting
 description: "Washing machines have become an essential appliance in our homes. With so many functions and settings, it can be hard to know whic...see more detail"
 keywords: most washing machine
-publishDate: 6/17/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

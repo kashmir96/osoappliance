@@ -3,7 +3,6 @@
 title: Wall Ovens Christchurch
 description: "Are you considering buying a new oven for your kitchen but can’t decide between a wall oven and a free standing oven? Wall ovens i...see more"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Hair Dryer Reviews Nz
 description: "If you’re looking for the best hair dryer to buy in New Zealand, you’ll want to check out some of the latest reviews. Hair dryers ...read now to learn more"
 keywords: hair dryer reviews nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "New Zealand", "Laundry Appliances", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

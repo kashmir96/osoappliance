@@ -3,7 +3,6 @@
 title: Electrical Connection For Dishwasher
 description: "If you’re looking to install a dishwasher in your kitchen, it’s important to understand the basics of electrical connections. This...scroll on and keep learning"
 keywords: dishwasher
-publishDate: 4/13/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

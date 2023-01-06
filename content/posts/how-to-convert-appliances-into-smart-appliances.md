@@ -3,7 +3,6 @@
 title: How To Convert Appliances Into Smart Appliances
 description: "As the Internet of Things (IoT) continues to grow, more and more of our everyday appliances are becoming smarter. Smart appliances...see more detail"
 keywords: how to appliances smart appliances
-publishDate: 12/14/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

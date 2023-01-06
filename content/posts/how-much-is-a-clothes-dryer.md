@@ -3,7 +3,6 @@
 title: How Much Is A Clothes Dryer
 description: "A clothes dryer is an appliance used to dry wet laundry. The cost of a clothes dryer can vary greatly depending on the type, size,...check it out to learn"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Small Appliances At Walmart
 description: "Are you looking to upgrade your small kitchen appliances at Walmart? You've come to the right place! Walmart has an extensive sele...swipe up to find out"
 keywords: appliances
-publishDate: 1/18/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

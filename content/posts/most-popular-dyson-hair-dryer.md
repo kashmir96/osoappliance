@@ -3,7 +3,6 @@
 title: Most Popular Dyson Hair Dryer
 description: "The Dyson Supersonic Hair Dryer is one of the most popular hair dryers on the market today. It has revolutionized the way people d...keep reading to learn"
 keywords: most popular hair dryer
-publishDate: 3/19/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

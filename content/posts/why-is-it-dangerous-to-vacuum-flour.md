@@ -3,7 +3,6 @@
 title: Why Is It Dangerous To Vacuum Flour
 description: "Vacuuming flour can be a dangerous activity for several reasons. First, flour is a very fine powder which can easily become airbor...continue on"
 keywords: vacuum
-publishDate: 7/21/2022
 tags: ["Vacuum"]
 author: Curtis
 categories: ["Household Appliances"]

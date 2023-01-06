@@ -3,7 +3,6 @@
 title: Dryer Wall Mount Nz
 description: "Dryer wall mounts can be a great addition to any home, especially if you’re looking to free up some floor space or add a touch of ...lets find out"
 keywords: dryer mount nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

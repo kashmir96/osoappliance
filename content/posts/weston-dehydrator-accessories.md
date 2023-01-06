@@ -3,7 +3,6 @@
 title: Weston Dehydrator Accessories
 description: "If you're a fan of dehydrating your food, you know that Weston dehydrators are some of the best on the market. It can be difficult...take a moment to check it out "
 keywords: dehydrator
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

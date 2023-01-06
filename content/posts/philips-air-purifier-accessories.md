@@ -3,7 +3,6 @@
 title: Philips Air Purifier Accessories
 description: "When it comes to air purifiers, Philips is one of the top brands. Philips offers a wide range of air purifier accessories that hel...get more info"
 keywords: air purifier
-publishDate: 1/9/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Washer Dryer Package Nz
 description: "A washer dryer package is an ideal solution for anyone who needs the convenience of a washer and dryer in one compact unit. Washer...learn about it in this post"
 keywords: dryer package nz
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Buy Appliance", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

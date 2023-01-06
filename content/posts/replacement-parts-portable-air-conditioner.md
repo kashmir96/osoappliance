@@ -3,7 +3,6 @@
 title: Replacement Parts Portable Air Conditioner
 description: "Portable air conditioners are a great way to cool off your home or office without having to install a full-size air conditioning u...get more detail"
 keywords: replacement parts air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

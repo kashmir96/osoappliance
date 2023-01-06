@@ -3,7 +3,6 @@
 title: Cant See Heat Pump Remote Screen
 description: This post will explain how to easily fix a heat pump remote with an unreadable screen, so if you're experiencing this issue, read on to find out how to solve it!
 keywords: heat pump
-publishDate: 9/15/2022
 tags: ["Appliances", "Heat Pump"]
 author: Curtis
 categories: ["Appliances Christchurch"]

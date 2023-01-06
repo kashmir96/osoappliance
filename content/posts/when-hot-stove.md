@@ -3,7 +3,6 @@
 title: When Hot Stove
 description: "If you’re using a stove, it can be difficult to tell when it is at the right temperature. Knowing when to adjust the heat can be t...keep reading to learn"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

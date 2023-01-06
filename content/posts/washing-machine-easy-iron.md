@@ -3,7 +3,6 @@
 title: Washing Machine Easy Iron
 description: "If you're looking for a way to make ironing easier, then look no further than your washing machine! Washing machines with easy iro...continue on"
 keywords: washing machine
-publishDate: 2/20/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

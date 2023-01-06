@@ -3,7 +3,6 @@
 title: Commercial Blender Uk
 description: "A commercial blender is a type of blender that is designed for commercial use. It typically features a powerful motor and durable ...you wont regret reading on"
 keywords: blender
-publishDate: 4/14/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

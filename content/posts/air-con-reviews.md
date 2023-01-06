@@ -3,7 +3,6 @@
 title: Air Con Reviews
 description: "When summer approaches, its time to start thinking about air conditioners. In this article, we will be discussing air con reviews"
 keywords: "air con reviews"
-publishDate: 3/23/2023
 tags: ["Heat Pump", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

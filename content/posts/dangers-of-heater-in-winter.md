@@ -3,7 +3,6 @@
 title: Dangers Of Heater In Winter
 description: "As the winter season approaches, many of us turn to the warmth and comfort of our home heaters to keep us warm. While having a hom...read now to learn more"
 keywords: heater
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

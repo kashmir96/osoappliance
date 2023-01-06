@@ -3,7 +3,6 @@
 title: Oven Repair Christchurch
 description: If you're a resident of Christchurch, New Zealand in need of oven repair, then read on to find out how our experienced technicians can help you with any type of issue you may have!
 keywords: oven repair christchurch
-publishDate: 10/1/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair", "Oven"]
 author: Curtis
 categories: ["Appliances Christchurch"]

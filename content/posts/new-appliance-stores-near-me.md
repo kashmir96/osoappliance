@@ -3,7 +3,6 @@
 title: New Appliance Stores Near Me
 description: "If you're in the market for new kitchen or laundry appliances, then shopping at a nearby store is an excellent way to go. Shopping...keep going and find out"
 keywords: stores near
-publishDate: 12/12/2022
 tags: ["Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

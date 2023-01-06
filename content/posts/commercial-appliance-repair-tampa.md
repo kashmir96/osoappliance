@@ -3,7 +3,6 @@
 title: Commercial Appliance Repair Tampa
 description: "When it comes to repairing commercial appliances in Tampa, Florida, there is no better choice than Commercial Appliance Repair Tam...you wont regret reading on"
 keywords: appliance repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

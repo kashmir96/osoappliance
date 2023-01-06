@@ -3,7 +3,6 @@
 title: Circumstances For Getting Appliances Test And Tagged
 description: This post summarises appliance testing and tagging, and why it is an essential part of electrical safety. It encourages readers to learn more about this important safety measure.
 keywords: appliances
-publishDate: 7/1/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

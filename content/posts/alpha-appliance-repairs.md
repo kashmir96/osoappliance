@@ -3,7 +3,6 @@
 title: Alpha Appliance Repairs
 description: "If you have an appliance that needs to be repaired, you may be wondering who to call. While there are many appliance repair servic...get more detail"
 keywords: appliance
-publishDate: 8/24/2021
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

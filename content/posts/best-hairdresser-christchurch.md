@@ -3,7 +3,6 @@
 title: Best Hairdresser Christchurch
 description: "If you’re looking for the best hairdresser in Christchurch, you’ve come to the right place. With so many talented and experienced ...learn more"
 keywords: best christchurch
-publishDate: 8/26/2022
 tags: ["Christchurch", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

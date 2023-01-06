@@ -3,7 +3,6 @@
 title: Most Common Appliances
 description: "Appliances are essential to everyday life. From refrigerators and ovens to washing machines and dryers, they make our lives easier...find out now"
 keywords: most
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

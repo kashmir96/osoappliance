@@ -3,7 +3,6 @@
 title: Dangers Of Space Heaters
 description: "Space heaters provide a great way to add warmth to any room, but they can also be dangerous if not used properly. Before using a s...see more"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

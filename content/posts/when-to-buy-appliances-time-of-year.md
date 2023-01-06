@@ -3,7 +3,6 @@
 title: When To Buy Appliances Time Of Year
 description: "When it comes to buying appliances, timing is everything. Knowing when to buy can save you hundreds of dollars in the long run. He...see more detail"
 keywords: buy appliances
-publishDate: 2/26/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

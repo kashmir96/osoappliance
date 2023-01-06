@@ -3,7 +3,6 @@
 title: Where Is Stove Kitchen From
 description: "Stove kitchen is a term used to describe a kitchen that has a stove as its main cooking appliance. The stove is the most important...swipe up to find out"
 keywords: stove kitchen
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

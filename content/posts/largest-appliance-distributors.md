@@ -3,7 +3,6 @@
 title: Largest Appliance Distributors
 description: "Appliances are essential components of our day-to-day life, and the appliance distributors play a major role in ensuring that we h...get more detail"
 keywords: appliance
-publishDate: 6/18/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

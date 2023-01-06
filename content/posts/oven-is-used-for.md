@@ -3,7 +3,6 @@
 title: Oven Is Used For
 description: "Ovens are one of the most essential kitchen appliances used in homes and restaurants today. They are used to cook, bake, and roast...see more detail"
 keywords: oven
-publishDate: 1/23/2023
 tags: ["Oven", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

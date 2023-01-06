@@ -3,7 +3,6 @@
 title: When To Use Dryer Sheets
 description: "When it comes to laundry, we all have our own preferences and methods for getting the job done. One common tool used by many house...swipe up to find out"
 keywords: use dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

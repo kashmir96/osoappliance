@@ -3,7 +3,6 @@
 title: Wa Commercial Appliance Parts
 description: "Western Australia (WA) is a state located in the southwestern region of Australia. It is home to some of the most diverse and beau...read now to learn more"
 keywords: appliance parts
-publishDate: 12/12/2022
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

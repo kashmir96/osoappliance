@@ -3,7 +3,6 @@
 title: Most Expensive Washing Machine 2023
 description: "As technology advances, the cost of washing machines is also on the rise. In 2023, some of the most expensive washing machines on ...learn more"
 keywords: most washing machine 2023
-publishDate: 1/4/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

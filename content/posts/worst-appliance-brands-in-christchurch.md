@@ -3,7 +3,6 @@
 title: Worst Appliance Brands In Christchurch
 description: Don't waste your money on an unreliable appliance - read this post to find out which brands to avoid in Christchurch, New Zealand and make an informed buying decision. Read on to learn more!
 keywords: appliance christchurch
-publishDate: 8/21/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Air Con Replacement Parts
 description: "Replacing air conditioning parts can be a daunting task, but with the right knowledge and tools it can easily be done. Air conditi...learn more about it now"
 keywords: air con replacement parts
-publishDate: 3/22/2023
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Samsung Dryer Pc Board
 description: "Are you in the market for a new dryer? Are you wondering what a Samsung Dryer PC Board is and how it can benefit you? In this blog...lets find out"
 keywords: samsung dryer
-publishDate: 2/23/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

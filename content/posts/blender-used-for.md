@@ -3,7 +3,6 @@
 title: Blender Used For
 description: "A blender is one of the most versatile kitchen appliances you can have in your home. It's a great tool for making a variety of dis...find out now"
 keywords: blender
-publishDate: 4/2/2023
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Stove Isnt Igniting
 description: "Stove not igniting can be a major problem, especially when you’re trying to get dinner on the table. Fortunately, this is usually ...swipe up to find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

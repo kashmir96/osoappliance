@@ -3,7 +3,6 @@
 title: Washing Machine Best Company List
 description: "When it comes to selecting the best washing machine, it's important to consider a variety of factors such as size, technology, eff...find out now"
 keywords: washing machine best
-publishDate: 1/20/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

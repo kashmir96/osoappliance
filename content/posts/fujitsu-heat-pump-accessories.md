@@ -3,7 +3,6 @@
 title: Fujitsu Heat Pump Accessories
 description: "Fujitsu heat pumps are some of the most reliable and efficient models on the market, and their range of accessories can help you m...get more detail"
 keywords: heat pump
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

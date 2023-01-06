@@ -3,7 +3,6 @@
 title: Who To Install Wood Burning Stove
 description: "If you’re looking to add a cozy and efficient heating option to your home, a wood burning stove is an excellent choice. Not only i...see more detail"
 keywords: install stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

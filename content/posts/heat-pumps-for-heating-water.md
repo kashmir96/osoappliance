@@ -3,7 +3,6 @@
 title: Heat Pumps For Heating Water
 description: "Heat pumps are becoming increasingly popular solutions for heating water in both residential and commercial settings. Heat pumps u...you wont regret reading on"
 keywords: water
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

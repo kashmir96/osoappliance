@@ -3,7 +3,6 @@
 title: Gas Stove Wholesale Market In Delhi
 description: "Delhi is one of the most popular cities for gas stoves in India. It is home to a number of gas stove wholesale markets, where you ...learn more about it now"
 keywords: gas stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

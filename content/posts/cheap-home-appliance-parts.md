@@ -3,7 +3,6 @@
 title: Cheap Home Appliance Parts
 description: "When it comes to fixing home appliances, many people dread the thought of the cost for parts. Fortunately, these days it’s easier ...find out now"
 keywords: cheap appliance parts
-publishDate: 10/25/2021
 tags: ["Buy Appliance", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

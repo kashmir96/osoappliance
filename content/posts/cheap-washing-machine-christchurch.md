@@ -3,7 +3,6 @@
 title: Cheap Washing Machine Christchurch
 description: This post provides an overview of the different types of cheap washing machines available in Christchurch, so you can find the right one for you without breaking the bank - read on to discover the best option for you!
 keywords: washing machine christchurch
-publishDate: 8/23/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

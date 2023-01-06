@@ -3,7 +3,6 @@
 title: Big Carpet Cleaner Rental
 description: "Carpet cleaners are an invaluable tool for keeping carpets clean, but they can be expensive to purchase. Renting a carpet cleaner ...scroll on and keep learning"
 keywords: 
-publishDate: 3/20/2022
 tags: ["Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

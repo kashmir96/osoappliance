@@ -3,7 +3,6 @@
 title: Samsung Washing Machine Pros And Cons
 description: "When it comes to picking a washing machine, Samsung is one of the top brands on the market. Samsung washing machines offer a varie...swipe up to find out"
 keywords: samsung washing machine
-publishDate: 1/11/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

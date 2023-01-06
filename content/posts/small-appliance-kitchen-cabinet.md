@@ -3,7 +3,6 @@
 title: Small Appliance Kitchen Cabinet
 description: "Small appliance storage can be a challenge in any kitchen, especially if your space is limited. With all the gadgets and appliance...read now to learn more"
 keywords: appliance kitchen
-publishDate: 12/1/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

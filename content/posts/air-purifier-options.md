@@ -3,7 +3,6 @@
 title: Air Purifier Options
 description: "When it comes to improving the air quality in your home, an air purifier is one of the best ways to do it. Air purifiers can help ...you wont regret reading on"
 keywords: air purifier
-publishDate: 3/31/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Condenser Dryer Not Collecting Water
 description: This post covers the reasons why a condenser dryer may not be collecting water, as well as some tips for fixing the problem. If your condenser dryer isn't collecting water, read this post to find out why.
 keywords: dryer
-publishDate: 7/12/2022
 tags: ["Dryer", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

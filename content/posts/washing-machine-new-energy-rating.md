@@ -3,7 +3,6 @@
 title: Washing Machine New Energy Rating
 description: "As an environmentally conscious consumer, you may have noticed the new energy ratings on washing machines. In order to assist cons...swipe up to find out"
 keywords: washing machine energy rating
-publishDate: 3/5/2023
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Consumption", "Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

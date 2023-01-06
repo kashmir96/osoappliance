@@ -3,7 +3,6 @@
 title: Commercial Washing Machine Kw Rating
 description: "Commercial washing machines are large-capacity machines used to clean a variety of items, ranging from clothing and linens to indu...learn more"
 keywords: washing machine rating
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

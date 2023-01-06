@@ -3,7 +3,6 @@
 title: Risk Of Covid In Air Conditioning
 description: "The risk of contracting COVID-19 through air conditioning systems has become a major concern for many people as the pandemic conti...you wont regret reading on"
 keywords: air
-publishDate: 4/3/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

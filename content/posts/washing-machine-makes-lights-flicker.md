@@ -3,7 +3,6 @@
 title: Washing Machine Makes Lights Flicker
 description: "Do you have a washing machine that makes the lights flicker? If so, there are a few things you can try before contacting an applia...learn about it in this post"
 keywords: washing machine
-publishDate: 2/15/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

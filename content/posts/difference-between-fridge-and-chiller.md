@@ -3,7 +3,6 @@
 title: Difference Between Fridge And Chiller
 description: "A refrigerator and a chiller are both important appliances for food storage, but the two serve different purposes. Both have the a...check it out to learn"
 keywords: fridge
-publishDate: 4/15/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

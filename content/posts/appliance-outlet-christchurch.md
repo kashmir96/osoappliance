@@ -3,7 +3,6 @@
 title: Appliance Outlet Christchurch
 description: "Welcome to the world of appliance outlets in Christchurch! Appliance outlets are one of the most convenient and cost-effective way...learn more"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

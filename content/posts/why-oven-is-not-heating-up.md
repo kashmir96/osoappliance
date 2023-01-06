@@ -3,7 +3,6 @@
 title: Why Oven Is Not Heating Up
 description: "If your oven isn’t heating up, it’s probably because of one of a few common issues. In this blog, we’ll explore some of the possib...see more detail"
 keywords: oven
-publishDate: 11/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

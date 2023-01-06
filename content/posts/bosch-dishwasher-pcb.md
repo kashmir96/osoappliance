@@ -3,7 +3,6 @@
 title: Bosch Dishwasher Pcb
 description: "Do you own a Bosch dishwasher? If so, then it’s likely that it contains a Printed Circuit Board (PCB). A PCB is an essential compo...find out now"
 keywords: bosch dishwasher
-publishDate: 2/9/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

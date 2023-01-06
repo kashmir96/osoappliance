@@ -3,7 +3,6 @@
 title: Difference Between Fridge Guard And Stabilizer
 description: "A refrigerator guard and a stabilizer are two different products that help protect your refrigerator from being damaged by fluctua...see more"
 keywords: fridge
-publishDate: 4/19/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

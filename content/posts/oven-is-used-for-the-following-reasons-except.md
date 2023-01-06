@@ -3,7 +3,6 @@
 title: Oven Is Used For The Following Reasons Except
 description: "Cooking with an oven can be a great way to prepare delicious meals, but there are some instances when an oven isn’t the best choic...get the full scoop"
 keywords: oven
-publishDate: 1/22/2023
 tags: ["Oven", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

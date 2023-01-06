@@ -3,7 +3,6 @@
 title: How To Move A Washing Machine Easily
 description: "Moving a washing machine is not a task for the faint of heart. It is a heavy and awkward appliance that requires careful planning ...find out now"
 keywords: how to washing machine
-publishDate: 7/9/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

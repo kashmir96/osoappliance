@@ -3,7 +3,6 @@
 title: What Is A Rocket Stove
 description: "A rocket stove is a highly efficient and clean burning stove that uses a small amount of wood fuel to generate heat. It works by u...keep going and find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

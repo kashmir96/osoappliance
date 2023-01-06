@@ -3,7 +3,6 @@
 title: Get Appliance Delivered Christchurch
 description: If you’re looking to get an appliance delivered to Christchurch, this post has all the information you need - read on to find out more about the different delivery options available to you!
 keywords: appliance christchurch
-publishDate: 10/20/2022
 tags: ["Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Used Appliance Parts Canada
 description: "Living in Canada can be great, but it can also be expensive. Not only are the cost of goods and services high, but so is the cost ...get more info"
 keywords: appliance parts
-publishDate: 1/31/2022
 tags: ["Appliance Consumption", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

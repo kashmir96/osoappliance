@@ -3,7 +3,6 @@
 title: Replacement Parts For Frigidaire Air Conditioner
 description: "When it comes to air conditioners, Frigidaire is a popular brand. They offer a variety of models and sizes, so you can find one th...keep going and find out"
 keywords: replacement parts air conditioner
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

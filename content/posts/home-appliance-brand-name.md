@@ -3,7 +3,6 @@
 title: Home Appliance Brand Name
 description: "Have you ever noticed how many different appliances are available with different brand names? It can be quite confusing when you g...lets find out"
 keywords: appliance brand
-publishDate: 7/1/2023
 tags: ["Appliance Brand", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

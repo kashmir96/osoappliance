@@ -3,7 +3,6 @@
 title: Bathroom Accessories Air Purifier
 description: "Bathroom air can be a source of pollutants, such as mold spores, dust mites, and volatile organic compounds (VOCs). An air purifie...lets find out"
 keywords: air purifier
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

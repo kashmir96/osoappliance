@@ -3,7 +3,6 @@
 title: Hair Dryer Parts And Accessories
 description: "A hair dryer is an important tool for styling and maintaining your hair. It can help you create the perfect look, but in order to ...you wont regret reading on"
 keywords: hair dryer parts
-publishDate: 7/1/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

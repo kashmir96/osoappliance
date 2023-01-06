@@ -3,7 +3,6 @@
 title: Washer Fluid Nz
 description: "When it comes to laundry, washing liquid is essential in New Zealand. Washing liquid is a detergent that helps to break down dirt,...see more"
 keywords: nz
-publishDate: 12/12/2022
 tags: ["New Zealand", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

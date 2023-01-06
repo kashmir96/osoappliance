@@ -3,7 +3,6 @@
 title: Most Common Air Conditioner Filter Sizes
 description: "Air conditioner filters come in a variety of sizes to fit the many different types and models of air conditioners. The size of the...find out now"
 keywords: most air conditioner
-publishDate: 7/5/2022
 tags: ["Heat Pump", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

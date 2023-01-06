@@ -3,7 +3,6 @@
 title: Laundry Service Industry Analysis Malaysia
 description: "The Laundry Service Industry in Malaysia is an ever-growing industry with a lot of potential. It is estimated that the total marke...check it out to learn"
 keywords: laundry
-publishDate: 12/19/2022
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

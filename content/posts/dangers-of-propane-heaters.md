@@ -3,7 +3,6 @@
 title: Dangers Of Propane Heaters
 description: "Propane heaters are a great way to heat up a room quickly, but they can also be dangerous if not used properly. Propane is highly ...take a moment to check it out "
 keywords: 
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

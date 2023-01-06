@@ -3,7 +3,6 @@
 title: Dryer Clothes Still Damp
 description: "If you’ve ever taken your clothes out of the dryer only to find them still damp, you’re not alone. This is a common problem, and o...learn about it in this post"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

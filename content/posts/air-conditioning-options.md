@@ -3,7 +3,6 @@
 title: Air Conditioning Options
 description: "If you’re considering the installation of an air conditioning system for your home or business, there are a variety of options to ...check it out to learn"
 keywords: air
-publishDate: 6/24/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

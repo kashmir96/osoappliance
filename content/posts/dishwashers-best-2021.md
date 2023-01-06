@@ -3,7 +3,6 @@
 title: Dishwashers Best 2021
 description: "As technology advances, so do the appliances that make our lives easier. Dishwashers are no exception. 2021 has seen some amazing ...get the full scoop"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

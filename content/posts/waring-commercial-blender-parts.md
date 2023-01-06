@@ -3,7 +3,6 @@
 title: Waring Commercial Blender Parts
 description: "When it comes to blending, Waring Commercial blenders are some of the most reliable and powerful machines on the market. They're b...learn more about it now"
 keywords: blender parts
-publishDate: 6/19/2022
 tags: ["Kitchen Appliances", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

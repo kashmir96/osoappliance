@@ -3,7 +3,6 @@
 title: Why Washing Machine Smells
 description: "...keep going and find out"
 keywords: washing machine
-publishDate: 3/29/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

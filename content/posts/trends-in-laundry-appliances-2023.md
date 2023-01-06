@@ -3,7 +3,6 @@
 title: Trends In Laundry Appliances 2023
 description: This post looks ahead at the future of laundry appliances and the exciting new technologies that are being developed, so read on to find out how this will make your laundry routine easier and more efficient!
 keywords: laundry appliances
-publishDate: 11/3/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

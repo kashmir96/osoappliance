@@ -3,7 +3,6 @@
 title: Best Washing Machine And Dryer Nz
 description: "When it comes to finding the best washing machine and dryer for your home, it can be a daunting task. With so many different model...get more detail"
 keywords: best washing machine dryer nz
-publishDate: 9/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

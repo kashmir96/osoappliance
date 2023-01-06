@@ -3,7 +3,6 @@
 title: Commercial Dryer Vent
 description: "Commercial dryer vent cleaning is an important part of keeping your business’s laundry operations running safely and efficiently. ...get more info"
 keywords: dryer
-publishDate: 5/19/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

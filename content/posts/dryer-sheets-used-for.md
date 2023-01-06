@@ -3,7 +3,6 @@
 title: Dryer Sheets Used For
 description: "Dryer sheets are an essential laundry item that many households use to soften clothes and reduce static cling. They are typically ...scroll on and keep learning"
 keywords: dryer
-publishDate: 1/5/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

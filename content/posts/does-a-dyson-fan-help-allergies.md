@@ -3,7 +3,6 @@
 title: Does A Dyson Fan Help Allergies
 description: "Do you suffer from allergies? If so, then you may want to consider investing in a Dyson fan. While not traditionally seen as an al...scroll on and keep learning"
 keywords: fan
-publishDate: 12/31/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

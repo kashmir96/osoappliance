@@ -3,7 +3,6 @@
 title: Washing Machine Motor Types
 description: "As a homeowner, one of the most important appliances you own is your washing machine. Not only does it make laundry day a breeze, ...learn more"
 keywords: washing machine
-publishDate: 4/24/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Oven Isnt Turning On
 description: "If your oven isn't turning on, it can be a frustrating experience. Fortunately, there are a few steps you can take to troubleshoot...scroll on and keep learning"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

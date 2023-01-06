@@ -3,7 +3,6 @@
 title: Christchurch Appliance Repair Courses
 description: This post outlines the best courses available in Christchurch to become an appliance repair technician. If you're interested in this career, read on to find out more!
 keywords: christchurch appliance repair
-publishDate: 6/7/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

@@ -3,7 +3,6 @@
 title: Lg Dryer Pc Board
 description: "The LG Dryer is a popular appliance used in many households to dry clothing, towels and other items. It is an important part of th...see more"
 keywords: dryer
-publishDate: 2/24/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

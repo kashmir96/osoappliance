@@ -3,7 +3,6 @@
 title: Appliance Trends In 2023
 description: This post outlines the latest trends in the appliance industry that will make life easier and more enjoyable, so read on to learn more about how appliances are changing the way we live!
 keywords: appliance
-publishDate: 11/4/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

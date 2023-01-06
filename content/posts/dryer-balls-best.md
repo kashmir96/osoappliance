@@ -3,7 +3,6 @@
 title: Dryer Balls Best
 description: "Dryer balls are a great way to reduce your energy costs and make laundry day easier. They are an eco-friendly alternative to fabri...get more detail"
 keywords: dryer best
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

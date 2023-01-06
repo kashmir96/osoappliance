@@ -3,7 +3,6 @@
 title: Central Air Conditioner Scrap Value
 description: "As the weather gets warmer, it may be time to upgrade your air conditioner. But before you throw away your old unit, you should kn...get more info"
 keywords: air conditioner scrap value
-publishDate: 5/18/2023
 tags: ["Heat Pump", "Appliance Disposal", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

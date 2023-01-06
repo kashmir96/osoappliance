@@ -3,7 +3,6 @@
 title: Commercial Blender Nz
 description: "When it comes to blending, there is no substitute for a quality commercial blender. Commercial blenders are designed to handle the...keep reading to learn"
 keywords: blender nz
-publishDate: 4/8/2022
 tags: ["New Zealand", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

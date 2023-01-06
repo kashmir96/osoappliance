@@ -3,7 +3,6 @@
 title: Small Appliances Repair Near Me
 description: "Small appliance repair can be a daunting task for homeowners and renters alike. With the advancement of technology, small applianc...continue on"
 keywords: appliances repair near
-publishDate: 1/12/2023
 tags: ["Heat Pump", "Appliance Repair", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

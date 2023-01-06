@@ -3,7 +3,6 @@
 title: How Long Is Chicken Good In The Fridge
 description: "Have you ever cooked a big batch of chicken, only to forget about it in the fridge? If so, you're not alone! Many of us are unawar...get more detail"
 keywords: fridge
-publishDate: 12/13/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

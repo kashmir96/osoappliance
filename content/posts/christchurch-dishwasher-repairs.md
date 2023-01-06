@@ -3,7 +3,6 @@
 title: Christchurch Dishwasher Repairs
 description: "If you live in Christchurch, New Zealand, then you know how important it is to have a good dishwasher. But like any other applianc...learn about it in this post"
 keywords: christchurch dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Christchurch", "Appliance Repair", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

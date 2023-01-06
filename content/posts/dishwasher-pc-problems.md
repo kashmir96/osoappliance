@@ -3,7 +3,6 @@
 title: Dishwasher Pc Problems
 description: "Are you having problems with your dishwasher’s Printed Circuit Board (PCB)? If so, this blog is for you....you wont regret reading on"
 keywords: dishwasher
-publishDate: 2/5/2023
 tags: ["Dishwasher", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

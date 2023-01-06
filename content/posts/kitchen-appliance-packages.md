@@ -3,7 +3,6 @@
 title: Kitchen Appliance Packages
 description: "If you’re planning a home renovation, one of the best ways to get the most bang for your buck is to invest in kitchen appliance pa...get more info"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: What Dryer Setting For Jeans
 description: "Jeans are a wardrobe staple, but it can be tricky to know which dryer setting to choose for them. The best way to ensure your jean...swipe up to find out"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Installation"]
 author: Curtis
 categories: ["Household Appliances"]

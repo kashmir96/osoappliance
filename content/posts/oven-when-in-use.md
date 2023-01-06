@@ -3,7 +3,6 @@
 title: Oven When In Use
 description: "When it comes to cooking, an oven is a must-have appliance. Ovens are used to bake, roast, broil, and even dehydrate food. But wha...read now to learn more"
 keywords: oven use
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

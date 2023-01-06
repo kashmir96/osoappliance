@@ -3,7 +3,6 @@
 title: Does Dehydrator Use A Lot Of Electricity Singapore
 description: "Dehydrators are a great way to preserve food and extend its shelf life. However, there is a common question that many people ask: ...see more"
 keywords: dehydrator use electricity
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

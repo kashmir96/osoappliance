@@ -3,7 +3,6 @@
 title: Second Hand Ovens Christchurch
 description: "Are you looking for an oven in Christchurch but don’t want to break the bank? Consider buying a second-hand oven! Buying second-ha...learn about it in this post"
 keywords: christchurch
-publishDate: 12/12/2022
 tags: ["Oven", "Christchurch"]
 author: Curtis
 categories: ["Household Appliances"]

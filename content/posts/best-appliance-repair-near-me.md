@@ -3,7 +3,6 @@
 title: Best Appliance Repair Near Me
 description: "If you are looking for the best appliance repair near you, you have come to the right place. Appliance repair can be a daunting ta...get more info"
 keywords: best repair near
-publishDate: 12/12/2022
 tags: ["Appliance Repair", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

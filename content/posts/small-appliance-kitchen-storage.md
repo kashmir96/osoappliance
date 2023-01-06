@@ -3,7 +3,6 @@
 title: Small Appliance Kitchen Storage
 description: "When it comes to kitchen storage, small appliances often get overlooked. But given the number of countertop appliances we use on a...see more"
 keywords: appliance kitchen
-publishDate: 11/30/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

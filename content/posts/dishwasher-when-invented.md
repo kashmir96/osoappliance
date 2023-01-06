@@ -3,7 +3,6 @@
 title: Dishwasher When Invented
 description: "The dishwasher has become an indispensable part of modern life, but it wasn’t always so. The invention of the dishwasher is credit...swipe up to find out"
 keywords: dishwasher
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

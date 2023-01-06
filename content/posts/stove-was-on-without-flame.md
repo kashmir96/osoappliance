@@ -3,7 +3,6 @@
 title: Stove Was On Without Flame
 description: "If you have ever cooked on a stove, you know that the flame is essential for heating food. But what happens when the stove is on w...keep going and find out"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

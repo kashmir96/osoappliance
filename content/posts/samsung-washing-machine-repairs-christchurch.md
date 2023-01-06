@@ -3,7 +3,6 @@
 title: Samsung Washing Machine Repairs Christchurch
 description: "If you’ve recently moved to Christchurch and own a Samsung washing machine, you may need to know about the availability of repairs...take a moment to check it out "
 keywords: samsung washing machine christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Christchurch", "Appliance Repair", "Laundry Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

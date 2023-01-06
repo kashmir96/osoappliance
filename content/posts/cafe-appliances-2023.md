@@ -3,7 +3,6 @@
 title: Cafe Appliances 2023
 description: "The world of cafe appliances is ever-evolving, and it can be difficult to keep up with the latest technology. In 2023, cafe owners...learn more"
 keywords: appliances 2023
-publishDate: 5/12/2023
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

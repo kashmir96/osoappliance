@@ -3,7 +3,6 @@
 title: Biggest Magic Bullet Blender Appliance
 description: "The Magic Bullet Blender is an incredibly popular kitchen appliance that has been around for over a decade. It's a powerful, versa...see more"
 keywords: blender appliance
-publishDate: 5/11/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

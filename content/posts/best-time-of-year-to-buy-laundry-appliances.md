@@ -3,7 +3,6 @@
 title: Best Time Of Year To Buy Laundry Appliances
 description: "If you're in the market for a new laundry appliance, you might be wondering when the best time of year to buy is. Here are a few t...continue on"
 keywords: best buy laundry
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

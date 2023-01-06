@@ -3,7 +3,6 @@
 title: When Are Washing Machines Cheapest Christchurch
 description: This post provides advice on when to buy a washing machine in Christchurch, helping you to get the best deal possible; so read on for more information!
 keywords: washing machines christchurch
-publishDate: 12/10/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

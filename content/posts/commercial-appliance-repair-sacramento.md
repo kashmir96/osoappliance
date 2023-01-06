@@ -3,7 +3,6 @@
 title: Commercial Appliance Repair Sacramento
 description: "The city of Sacramento, California is home to a wide range of businesses, from small retail shops to large industrial complexes. A...swipe up to find out"
 keywords: appliance repair
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

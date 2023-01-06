@@ -3,7 +3,6 @@
 title: Oven Takes Long To Cook
 description: "If you’ve ever been in the middle of baking a cake or roasting a chicken and found yourself wondering why it’s taking so long, you...lets find out"
 keywords: oven
-publishDate: 12/22/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

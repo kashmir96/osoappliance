@@ -3,7 +3,6 @@
 title: When To Clean Stove
 description: "When it comes to cleaning your stove, it’s important to know just when to do it. Not only will regular cleaning keep your stove lo...keep going and find out"
 keywords: clean stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

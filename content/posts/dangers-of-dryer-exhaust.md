@@ -3,7 +3,6 @@
 title: Dangers Of Dryer Exhaust
 description: "Are you aware of the dangers associated with a dryer exhaust? Though often overlooked, dryer exhausts can be quite hazardous if no...read now to learn more"
 keywords: dryer
-publishDate: 1/9/2023
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

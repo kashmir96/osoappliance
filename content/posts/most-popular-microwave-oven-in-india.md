@@ -3,7 +3,6 @@
 title: Most Popular Microwave Oven In India
 description: "When it comes to kitchen appliances, a microwave oven is one of the most popular and widely used appliances. With the increasing u...get the full scoop"
 keywords: most popular microwave oven
-publishDate: 12/30/2021
 tags: ["Oven", "Microwave", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

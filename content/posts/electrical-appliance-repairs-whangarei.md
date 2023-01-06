@@ -3,7 +3,6 @@
 title: Electrical Appliance Repairs Whangarei
 description: "If you live in Whangarei and your electrical appliances are on the fritz, you’re in luck! There are plenty of repair services avai...scroll on and keep learning"
 keywords: appliance
-publishDate: 12/12/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

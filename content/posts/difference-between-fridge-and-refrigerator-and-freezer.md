@@ -3,7 +3,6 @@
 title: Difference Between Fridge And Refrigerator And Freezer
 description: "When it comes to food storage, you may be wondering what is the difference between a refrigerator and a freezer, or what is a frid...take a moment to check it out "
 keywords: fridge
-publishDate: 4/17/2023
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Dishwasher Repairs Christchurch Nz
 description: "If you live in Christchurch, New Zealand and you're looking to repair your dishwasher, there are a few options available to you. I...you wont regret reading on"
 keywords: dishwasher christchurch nz
-publishDate: 8/14/2022
 tags: ["Dishwasher", "Appliance Repair", "New Zealand", "Kitchen Appliances", "Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

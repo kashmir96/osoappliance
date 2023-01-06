@@ -3,7 +3,6 @@
 title: Air Conditioning Electrical Supply
 description: "Air conditioning is one of the most important aspects of home comfort, yet many homeowners are unaware of the electrical requireme...see more detail"
 keywords: air
-publishDate: 6/11/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

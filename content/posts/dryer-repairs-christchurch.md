@@ -3,7 +3,6 @@
 title: Dryer Repairs Christchurch
 description: "If you live in Christchurch, New Zealand and are looking for dryer repairs, you’ve come to the right place! Dryer repairs can be a...keep reading to learn"
 keywords: dryer christchurch
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Christchurch", "Appliance Repair", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Bosch Washing Machine
 description: "In today’s day and age, a Bosch washing machine is often the appliance of choice for many households. It’s no wonder why; Bosch ha...swipe up to find out"
 keywords: bosch washing machine
-publishDate: 5/10/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Brand"]
 author: Curtis
 categories: ["Household Appliances"]

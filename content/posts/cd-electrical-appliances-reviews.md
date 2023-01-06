@@ -3,7 +3,6 @@
 title: Cd Electrical Appliances Reviews
 description: "As technology continues to evolve, it is important to stay up-to-date with all the new innovations in the electrical appliance mar...read now to learn more"
 keywords: appliances reviews
-publishDate: 1/22/2023
 tags: ["Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

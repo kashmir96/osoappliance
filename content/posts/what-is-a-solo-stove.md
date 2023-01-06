@@ -3,7 +3,6 @@
 title: What Is A Solo Stove
 description: "A solo stove is a type of wood burning stove that is designed to be used for outdoor cooking. It is a lightweight, portable stove ...continue on"
 keywords: stove
-publishDate: 12/12/2022
 tags: ["Stove", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

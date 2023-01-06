@@ -3,7 +3,6 @@
 title: Sharp Air Purifier Accessories
 description: "The Sharp air purifier is a great way to keep your home clean and free from airborne pollutants. But to get the most out of your a...scroll on and keep learning"
 keywords: air purifier
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

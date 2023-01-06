@@ -3,7 +3,6 @@
 title: How Fridge Temperature Works
 description: "The refrigerator is one of the most important appliances in any household, and it plays a vital role in keeping food safe and fres...you wont regret reading on"
 keywords: fridge
-publishDate: 12/10/2021
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

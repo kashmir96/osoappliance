@@ -3,7 +3,6 @@
 title: Appliance Repair Qualification
 description: This post outlines the essential skills and qualifications needed to become an appliance repair technician, providing readers with all the information they need to decide if this is the right career path for them - so read on to find out more!
 keywords: appliance repair
-publishDate: 10/24/2022
 tags: ["Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

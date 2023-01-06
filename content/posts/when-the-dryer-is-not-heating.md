@@ -3,7 +3,6 @@
 title: When The Dryer Is Not Heating
 description: "If you’ve noticed that your dryer isn’t heating up like it used to, it’s time to figure out the cause of the problem. A dryer that...see more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

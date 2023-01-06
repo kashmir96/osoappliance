@@ -3,7 +3,6 @@
 title: Health Effects Of Ozone Air Purifiers
 description: "Ozone air purifiers are becoming increasingly popular as a way to keep the air in your home fresh and free from pollutants. Howeve...get the full scoop"
 keywords: air
-publishDate: 5/29/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

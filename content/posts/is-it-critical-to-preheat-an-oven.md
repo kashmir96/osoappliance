@@ -3,7 +3,6 @@
 title: Is It Critical To Preheat An Oven
 description: "Preheating an oven is an important step in cooking and baking. It helps to ensure that the food cooks evenly and at the right temp...see more"
 keywords: oven
-publishDate: 12/12/2022
 tags: ["Oven"]
 author: Curtis
 categories: ["Household Appliances"]

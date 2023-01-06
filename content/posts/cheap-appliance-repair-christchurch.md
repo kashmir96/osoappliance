@@ -3,7 +3,6 @@
 title: Cheap Appliance Repair Christchurch
 description: If you're looking for affordable appliance repair in Christchurch, New Zealand, this post is for you! Read on to learn how you can get cheap appliance repair without sacrificing quality.
 keywords: appliance repair christchurch
-publishDate: 12/24/2022
 tags: ["Christchurch", "Appliances", "Appliance Repair"]
 author: Curtis
 categories: ["Appliances Christchurch"]

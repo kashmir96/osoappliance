@@ -3,7 +3,6 @@
 title: What Insulation To Use For Pizza Oven
 description: "If you’re looking to build a pizza oven, insulation is one of the most important components. Not only does insulation help keep th...get the full scoop"
 keywords: use oven
-publishDate: 2/11/2023
 tags: ["Oven", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

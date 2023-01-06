@@ -3,7 +3,6 @@
 title: Why Wool Dryer Balls
 description: "As more people become aware of the environmental impacts of our daily activities, finding ways to reduce our carbon footprint and ...read now to learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

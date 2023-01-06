@@ -3,7 +3,6 @@
 title: What Brand Appliance Is The Most Reliable
 description: "As a consumer, it can be difficult to know which brand of appliance is the most reliable. With so many different brands and models...see more"
 keywords: brand appliance most reliable
-publishDate: 7/23/2022
 tags: ["Appliance Brand", "Appliance Guide", "Appliance Reviews"]
 author: Curtis
 categories: ["Household Appliances"]

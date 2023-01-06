@@ -3,7 +3,6 @@
 title: Microwaves Are Used For Which Communication
 description: "Microwaves are an integral component of modern communications systems. They have been used to transmit data and voice signals for ...lets find out"
 keywords: 
-publishDate: 3/16/2023
 tags: ["Microwave", "Kitchen Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

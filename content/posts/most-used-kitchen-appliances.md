@@ -3,7 +3,6 @@
 title: Most Used Kitchen Appliances
 description: "When it comes to kitchen appliances, there are so many options out there that it can be hard to know which ones you really need. B...lets find out"
 keywords: most kitchen appliances
-publishDate: 1/27/2022
 tags: ["Kitchen Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

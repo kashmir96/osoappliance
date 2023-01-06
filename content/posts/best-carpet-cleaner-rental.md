@@ -3,7 +3,6 @@
 title: Best Carpet Cleaner Rental
 description: "When it comes to keeping your carpets clean, renting a carpet cleaner is often the most cost-effective and convenient solution. Ca...you wont regret reading on"
 keywords: best
-publishDate: 12/12/2022
 tags: ["Clean Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

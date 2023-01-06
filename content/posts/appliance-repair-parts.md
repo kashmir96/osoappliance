@@ -3,7 +3,6 @@
 title: Appliance Repair Parts
 description: "If you own or operate an appliance repair business or you just are a handyman around the house, having a good understanding of app...get the full scoop"
 keywords: appliance repair parts
-publishDate: 9/4/2021
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

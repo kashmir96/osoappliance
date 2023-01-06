@@ -3,7 +3,6 @@
 title: Washing Machine Makes Loud Noise When Draining
 description: "If you’ve ever had the unfortunate experience of your washing machine making loud noises when it drains, you know how annoying and...take a moment to check it out "
 keywords: washing machine
-publishDate: 2/18/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

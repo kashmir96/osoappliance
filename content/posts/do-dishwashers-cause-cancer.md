@@ -3,7 +3,6 @@
 title: Do Dishwashers Cause Cancer
 description: "Dishwashers are a major convenience in the kitchen, allowing you to quickly and easily clean and sanitize your dishes. While the c...swipe up to find out"
 keywords: 
-publishDate: 12/12/2022
 tags: ["Dishwasher", "Kitchen Appliances", "Appliance Consumption", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Biggest Blender Appliance
 description: "The biggest blender appliance is a powerful and versatile kitchen tool. It can be used to make smoothies, shakes, sauces, soups, a...take a moment to check it out "
 keywords: blender appliance
-publishDate: 4/14/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

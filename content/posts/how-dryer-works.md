@@ -3,7 +3,6 @@
 title: How Dryer Works
 description: "A dryer is an essential appliance for many households, but how exactly does it work? In this blog post, we’ll explain the basics o...read now to learn more"
 keywords: dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Laundry Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

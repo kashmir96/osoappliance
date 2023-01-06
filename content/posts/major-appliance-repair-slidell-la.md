@@ -3,7 +3,6 @@
 title: Major Appliance Repair Slidell La
 description: "If you live in Slidell, Louisiana and are in need of major appliance repair, you’re in luck. Slidell is home to several experience...check it out to learn"
 keywords: appliance repair
-publishDate: 6/27/2022
 tags: ["Heat Pump", "Appliance Repair", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Oven And Cooktop Packages Nz
 description: "Are you looking to upgrade your kitchen appliances? Oven and cooktop packages are an excellent way to get the most bang for your b...read now to learn more"
 keywords: oven nz
-publishDate: 12/12/2022
 tags: ["Oven", "New Zealand", "Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

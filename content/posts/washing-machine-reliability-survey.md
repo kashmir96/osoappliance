@@ -3,7 +3,6 @@
 title: Washing Machine Reliability Survey
 description: "If you are a homeowner, then you know that having a reliable washing machine is an essential part of life. But how can you be sure...take a moment to check it out "
 keywords: washing machine
-publishDate: 3/16/2023
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

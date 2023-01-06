@@ -3,7 +3,6 @@
 title: Rental Appliances
 description: "As a renter, it can be difficult to make your rental property feel like home. With rental appliances, you can make those changes e...get more info"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
@@ -30,7 +29,6 @@ Overall, renting appliances gives renters flexibility and peace-of-mind knowing 
 title: Rent To Buy Appliances
 description: ""Are you in the market for a new appliance but don’t have a lot of cash to spend? Rent-to-own appliances might be the perfect solut...lets find out""
 keywords: buy appliances
-publishDate: 12/12/2022
 tags: [""Buy Appliance"", ""Appliance Guide""]
 author: Curtis
 categories: [""Household Appliances""]

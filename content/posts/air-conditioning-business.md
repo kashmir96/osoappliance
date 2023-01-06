@@ -3,7 +3,6 @@
 title: Air Conditioning Business
 description: "If you’re looking to start an air conditioning business, you’ll need a few key pieces of equipment and a good understanding of the...scroll on and keep learning"
 keywords: air
-publishDate: 5/6/2023
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

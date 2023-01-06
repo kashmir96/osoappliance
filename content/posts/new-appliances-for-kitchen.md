@@ -3,7 +3,6 @@
 title: New Appliances For Kitchen
 description: "As technology continues to advance, new appliances are entering the kitchen. Not only do these appliances make cooking easier, the...see more"
 keywords: kitchen
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

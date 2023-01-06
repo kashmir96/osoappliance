@@ -3,7 +3,6 @@
 title: Why Its Important To Get Appliances Test And Tagged
 description: This post explains the importance of test and tagging, and how it can help to keep your workplace safe. Read on to learn more about this essential process.
 keywords: appliances
-publishDate: 6/30/2022
 tags: ["Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

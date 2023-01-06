@@ -3,7 +3,6 @@
 title: Buying A Kettle To Save Money
 description: "If you’re looking to save money, one of the best investments you can make is in a new kettle. A kettle is a great way to save mone...take a moment to check it out "
 keywords: buying kettle
-publishDate: 11/17/2022
 tags: ["Kitchen Appliances", "Buy Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

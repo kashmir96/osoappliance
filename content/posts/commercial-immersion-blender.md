@@ -3,7 +3,6 @@
 title: Commercial Immersion Blender
 description: "A commercial immersion blender is an essential tool for any professional kitchen. It is a powerful and versatile tool that can be ...lets find out"
 keywords: blender
-publishDate: 12/12/2022
 tags: ["Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Big Blender Appliance For Restaurant
 description: "For restaurants looking to improve their menu offerings and expand their culinary capabilities, a big blender appliance could be t...scroll on and keep learning"
 keywords: blender appliance
-publishDate: 3/12/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

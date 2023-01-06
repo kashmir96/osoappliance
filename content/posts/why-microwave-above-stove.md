@@ -3,7 +3,6 @@
 title: Why Microwave Above Stove
 description: "If you’ve been considering installing a microwave above your stove, you may want to think twice. Although it may seem convenient t...get more info"
 keywords: microwave stove
-publishDate: 12/12/2022
 tags: ["Stove", "Microwave", "Kitchen Appliances"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: How To Use Electric Blender
 description: "If you’re new to using an electric blender, it can seem intimidating. But, with a few simple steps, you’ll be blending like a pro ...learn more about it now"
 keywords: how to use blender
-publishDate: 5/15/2022
 tags: ["Kitchen Appliances", "Appliance Consumption", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

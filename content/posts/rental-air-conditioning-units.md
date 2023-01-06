@@ -3,7 +3,6 @@
 title: Rental Air Conditioning Units
 description: "Rental air conditioning units are a great option for people who need access to an AC unit but don’t want to commit to buying one. ...check it out to learn"
 keywords: air
-publishDate: 12/12/2022
 tags: ["Heat Pump"]
 author: Curtis
 categories: ["Household Appliances"]

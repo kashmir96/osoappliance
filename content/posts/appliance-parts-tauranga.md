@@ -3,7 +3,6 @@
 title: Appliance Parts Tauranga
 description: "Appliance Parts Tauranga: A Guide to Home Appliance Maintenance...get more detail"
 keywords: appliance parts
-publishDate: 9/3/2021
 tags: ["Appliance Guide", "Appliance Parts"]
 author: Curtis
 categories: ["Household Appliances"]

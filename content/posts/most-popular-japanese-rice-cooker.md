@@ -3,7 +3,6 @@
 title: Most Popular Japanese Rice Cooker
 description: "A Japanese rice cooker is a kitchen appliance that cooks rice quickly and efficiently. It has become a staple in many Japanese kit...scroll on and keep learning"
 keywords: most popular cooker
-publishDate: 2/3/2022
 tags: ["Stove", "Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

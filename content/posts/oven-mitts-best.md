@@ -3,7 +3,6 @@
 title: Oven Mitts Best
 description: "Oven mitts are an essential kitchen tool that can help protect your hands from hot surfaces and steam. While oven mitts provide a ...swipe up to find out"
 keywords: oven best
-publishDate: 12/12/2022
 tags: ["Oven", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

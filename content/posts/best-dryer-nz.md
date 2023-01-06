@@ -3,7 +3,6 @@
 title: Best Dryer Nz
 description: "If you’re in the market for a new dryer, you’ve come to the right place. New Zealand has a wide range of dryers to choose from, so...see more"
 keywords: best dryer nz
-publishDate: 8/12/2022
 tags: ["Washing Machine", "Dryer", "New Zealand", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

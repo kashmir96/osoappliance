@@ -3,7 +3,6 @@
 title: Washing Machine Installation Christchurch
 description: If you're looking for professional washing machine installation in Christchurch, New Zealand, then this blog post is for you! Read on to learn more about why it's best to trust a team of experts with this service.
 keywords: washing machine christchurch
-publishDate: 10/3/2022
 tags: ["Washing Machine", "Christchurch", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

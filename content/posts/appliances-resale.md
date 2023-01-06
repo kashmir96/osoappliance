@@ -3,7 +3,6 @@
 title: Appliances Resale
 description: "In today’s world of ever-changing technology, the concept of appliances resale is an increasingly popular option. Reselling large ...check it out to learn"
 keywords: appliances
-publishDate: 12/12/2022
 tags: ["Buy Appliance", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

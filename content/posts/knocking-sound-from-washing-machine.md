@@ -3,7 +3,6 @@
 title: Knocking Sound From Washing Machine
 description: If you've heard a strange knocking sound coming from your washing machine, this post is for you; find out how to fix this issue quickly and easily without major repairs.
 keywords: washing machine
-publishDate: 11/11/2022
 tags: ["Washing Machine", "Appliances"]
 author: Curtis
 categories: ["Appliances Christchurch"]

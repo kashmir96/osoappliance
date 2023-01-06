@@ -3,7 +3,6 @@
 title: Hair Dryer Accessories Diffuser
 description: "A hair dryer diffuser is an accessory that easily attaches to the end of your hair dryer and is used to disperse the heat from you...keep going and find out"
 keywords: hair dryer
-publishDate: 12/12/2022
 tags: ["Washing Machine", "Dryer", "Hair Dryer", "Heat Pump", "Laundry Appliances", "Appliance Consumption"]
 author: Curtis
 categories: ["Household Appliances"]

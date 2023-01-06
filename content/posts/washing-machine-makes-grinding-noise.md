@@ -3,7 +3,6 @@
 title: Washing Machine Makes Grinding Noise
 description: "If your washing machine is making a grinding noise, it could be a sign of an issue that needs to be addressed. The good news is th...continue on"
 keywords: washing machine
-publishDate: 2/14/2022
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]
 author: Curtis
 categories: ["Household Appliances"]

@@ -3,7 +3,6 @@
 title: Influencer For Laundry Appliances
 description: "If you are looking to purchase a new laundry appliance, it is worth considering the advice of an influencer. Influencers are peopl...learn more about it now"
 keywords: laundry appliances
-publishDate: 12/26/2022
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]

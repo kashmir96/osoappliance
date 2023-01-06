@@ -3,7 +3,6 @@
 title: Big Kitchen Appliances List
 description: "When it comes to outfitting your kitchen, big kitchen appliances are essential. From fridges and freezers to dishwashers and ovens...lets find out"
 keywords: kitchen appliances
-publishDate: 3/24/2022
 tags: ["Kitchen Appliances", "Appliance Guide"]
 author: Curtis
 categories: ["Household Appliances"]
