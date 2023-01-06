@@ -3,7 +3,7 @@ title: Rent 4 Keeps
 keywords: "Appliance Rental Auckland, Dargaville, Whangerei, Kaitaia, Westport, Gisborne, Taranaki, Hawkes Bay, Manawatu-Whanganui, Wellington, Palmerston North, New Plymouth, Napier, Hastings, Wanganui, Stratford, Levin, Fielding, Bulls, Christchurch, Blenheim, Greymouth, Queenstown, Timaru, Dunedin, Invercargill, Ashburton, Huntly, Hamilton, Tauranga, Rotorua, Taupo, Whakatane, Te Kuiti, Taramanui, Thames"
 type: "Appliance Rental"
 categories: ["New Zealand"]
-tags: ["Auckland, Dargaville, Whangerei, Kaitaia, Westport, Gisborne, Taranaki, Hawkes Bay, Manawatu-Whanganui, Wellington, Palmerston North, New Plymouth, Napier, Hastings, Wanganui, Stratford, Levin, Fielding, Bulls, Christchurch, Blenheim, Greymouth, Queenstown, Timaru, Dunedin, Invercargill, Ashburton, Huntly, Hamilton, Tauranga, Rotorua, Taupo, Whakatane, Te Kuiti, Taramanui, Thames"]
+tags: ["Auckland, Westport, Gisborne, Christchurch, Blenheim, Queenstown, Timaru, Dunedin, Invercargill, Taramanui, Thames"]
 author: Curtis
 cover: 
  image: /img/directory-images/appliance-rental/rent-4-keeps.webp
