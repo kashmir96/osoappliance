@@ -1,9 +1,20 @@
-/* mobile only */
+/* mobile or smaller */
 @media screen and (max-width: 581px) {
     .banner img {display:none;}
 }
 
+/* tablet or smaller */
+@media screen and (max-width: 700px) {
+    .row > img {
+    order: 1;
+    }
+    .row > div {
+    order: 2;
+    }
+}
+
 /* rest */
+
 .row {
     margin: 50px 0px;
 }
