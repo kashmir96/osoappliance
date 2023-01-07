@@ -32,6 +32,11 @@
     color: white;
 }
 
+/* mobile only */
+@media screen and (max-width: 481px) {
+    .banner img {display:none;}
+}
+
 /* css for contact form */
 
 #fcf-form {
