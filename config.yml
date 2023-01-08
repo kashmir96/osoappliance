@@ -35,7 +35,7 @@ menu:
       weight: 10
 
     - identifier: overviews
-      name: Appliance Overviews
+      name: Appliances
       url: /pages/appliance-overview/
       weight: 20
 
