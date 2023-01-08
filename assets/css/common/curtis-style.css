@@ -14,11 +14,15 @@
 }
 
 /* rest */
-.nav a {
+a {
 color:black;
 }
 
-.nav a:not(:hover) {
+a:hover {
+color:rgb(98, 98, 98);
+}
+
+a:not(:hover) {
     text-decoration:none;
 }
 
