@@ -11,13 +11,21 @@
     .row > div {
     order: 2;
     }
+
+}
+
+@media screen and (min-width: 701px) {
+    .main { padding:0px !important; }
 }
 
 /* rest */
-.main { padding:0px !important; }
 
 a {
 color:black;
+}
+
+.dark a { 
+    color: white;
 }
 
 a:hover {
