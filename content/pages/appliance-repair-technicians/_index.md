@@ -25,6 +25,8 @@ A: Each business has a unique profile page with their contact information, inclu
 
 <ul>
     <li><a href="/pages/appliance-repair-technicians/new-zealand/">Appliance Repair Technicians in New Zealand</a></li>
+    <li><a href="/pages/appliance-repair-technicians/australia/">Appliance Repair Technicians in Australia</a></li>
+
 </ul>
 
 <div class="listing-cta">
