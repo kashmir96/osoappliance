@@ -1,0 +1,20 @@
+---
+title: EDGE Studios Grip
+keywords: EDGE Studios Grip Appliance Rental Los Angeles United States 
+type: Appliance Rental 
+categories: ["United States"]
+tags: ["Los Angeles"]
+author: Curtis
+cover:
+    image: /img/directory-images/appliance-rental/edge-studios-grip.webp
+    alt: Cover image for EDGE Studios Grip the United States based Appliance Rental servicing Los Angeles 
+---
+
+# EDGE Studios Grip
+EDGE Studios Grip is an Appliance Rental located in Los Angeles, United States
+
+This business offers a range of Appliance Rental services to households and businesses in and around Los Angeles
+
+## Check out how this Appliance Rental is rated.
+Review Count: (46)
+Review Stars: 4.7

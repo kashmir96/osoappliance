@@ -1,0 +1,20 @@
+---
+title: Onsite Rental Group
+keywords: Onsite Rental Group Appliance Rental Rockhampton Australia 
+type: Appliance Rental 
+categories: ["Australia"]
+tags: ["Rockhampton"]
+author: Curtis
+cover:
+    image: /img/directory-images/appliance-rental/onsite-rental-group.webp
+    alt: Cover image for Onsite Rental Group the Australia based Appliance Rental servicing Rockhampton 
+---
+
+# Onsite Rental Group
+Onsite Rental Group is an Appliance Rental located in Rockhampton, Australia
+
+This business offers a range of Appliance Rental services to households and businesses in and around Rockhampton
+
+## Check out how this Appliance Rental is rated.
+Review Count: (1)
+Review Stars: 4.0
