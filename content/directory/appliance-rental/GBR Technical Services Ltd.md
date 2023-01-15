@@ -1,0 +1,20 @@
+---
+title: GBR Technical Services Ltd
+keywords: GBR Technical Services Ltd Appliance Rental Glasgow United Kingdom 
+type: Appliance Rental 
+categories: ["United Kingdom"]
+tags: ["Glasgow"]
+author: Curtis
+cover:
+    image: /img/directory-images/appliance-rental/gbr-technical-services-ltd.webp
+    alt: Cover image for GBR Technical Services Ltd the United Kingdom based Appliance Rental servicing Glasgow 
+---
+
+# GBR Technical Services Ltd
+GBR Technical Services Ltd is an Appliance Rental located in Glasgow, United Kingdom
+
+This business offers a range of Appliance Rental services to households and businesses in and around Glasgow
+
+## Check out how this Appliance Rental is rated.
+Review Count: (18)
+Review Stars: 4.9
