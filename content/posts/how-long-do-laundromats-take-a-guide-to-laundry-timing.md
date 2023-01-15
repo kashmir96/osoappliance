@@ -1,6 +1,6 @@
 ---
 
-title: How Long Do Laundromats Take: A Guide To Laundry Timing
+title: How Long Do Laundromats Take A Guide To Laundry Timing
 description: "## How Long Do Laundromats Take: A Guide to Laundry Timing...keep reading to learn"
 keywords: laundromats guide laundry
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]

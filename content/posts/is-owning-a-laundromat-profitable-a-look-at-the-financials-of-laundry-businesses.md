@@ -1,6 +1,6 @@
 ---
 
-title: Is Owning A Laundromat Profitable: A Look At The Financials Of Laundry Businesses
+title: Is Owning A Laundromat Profitable A Look At The Financials Of Laundry Businesses
 description: "## Is Owning a Laundromat Profitable?...check it out to learn"
 keywords: laundromat laundry
 tags: ["Washing Machine", "Laundry Appliances"]

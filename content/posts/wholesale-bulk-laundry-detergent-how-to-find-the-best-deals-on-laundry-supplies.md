@@ -1,6 +1,6 @@
 ---
 
-title: Wholesale Bulk Laundry Detergent: How To Find The Best Deals On Laundry Supplies
+title: Wholesale Bulk Laundry Detergent How To Find The Best Deals On Laundry Supplies
 description: "## The Benefits of Buying Wholesale Bulk Laundry Detergent...scroll on and keep learning"
 keywords: laundry how to best deals laundry
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]

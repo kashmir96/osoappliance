@@ -1,6 +1,6 @@
 ---
 
-title: Rent Industrial Air Purifier: A Guide To Renting Air Purifiers
+title: Rent Industrial Air Purifier A Guide To Renting Air Purifiers
 description: "## Rent Industrial Air Purifier: A Guide to Renting Air Purifiers...get more detail"
 keywords: air purifier guide air
 tags: ["Heat Pump", "Appliance Guide"]

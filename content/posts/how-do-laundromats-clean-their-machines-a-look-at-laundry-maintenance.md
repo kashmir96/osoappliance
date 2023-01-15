@@ -1,6 +1,6 @@
 ---
 
-title: How Do Laundromats Clean Their Machines: A Look At Laundry Maintenance
+title: How Do Laundromats Clean Their Machines A Look At Laundry Maintenance
 description: "## How Do Laundromats Clean Their Machines?...see more detail"
 keywords: laundromats clean laundry
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]

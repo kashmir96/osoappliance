@@ -1,6 +1,6 @@
 ---
 
-title: Can You Wash Laundromats: A Look At Laundry Maintenance
+title: Can You Wash Laundromats A Look At Laundry Maintenance
 description: "## Can You Wash Laundromats? A Look at Laundry Maintenance...get more info"
 keywords: wash laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]

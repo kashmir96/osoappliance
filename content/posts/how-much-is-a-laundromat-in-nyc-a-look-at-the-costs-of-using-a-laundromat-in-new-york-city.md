@@ -1,6 +1,6 @@
 ---
 
-title: How Much Is A Laundromat In Nyc: A Look At The Costs Of Using A Laundromat In New York City
+title: How Much Is A Laundromat In Nyc A Look At The Costs Of Using A Laundromat In New York City
 description: "## How Much is a Laundromat in NYC?...get more detail"
 keywords: laundromat laundromat
 tags: ["Laundry Appliances"]

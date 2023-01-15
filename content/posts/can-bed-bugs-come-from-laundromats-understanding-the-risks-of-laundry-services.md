@@ -1,6 +1,6 @@
 ---
 
-title: Can Bed Bugs Come From Laundromats: Understanding The Risks Of Laundry Services
+title: Can Bed Bugs Come From Laundromats Understanding The Risks Of Laundry Services
 description: "## Can Bed Bugs Come from Laundromats?: Understanding the Risks of Laundry Services...keep reading to learn"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

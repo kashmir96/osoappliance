@@ -1,6 +1,6 @@
 ---
 
-title: The Business Of Laundromats: How They Make Money
+title: The Business Of Laundromats How They Make Money
 description: "Laundromats are a convenient way for people to wash their clothes without the hassle of having to own and maintain a home washing ...get more info"
 keywords: laundromats
 tags: ["Laundry Appliances"]

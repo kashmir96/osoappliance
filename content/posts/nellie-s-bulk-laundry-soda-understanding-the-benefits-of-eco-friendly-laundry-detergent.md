@@ -1,6 +1,6 @@
 ---
 
-title: Nellie'S Bulk Laundry Soda: Understanding The Benefits Of Eco-Friendly Laundry Detergent
+title: Nellie'S Bulk Laundry Soda Understanding The Benefits Of Eco-Friendly Laundry Detergent
 description: "## Nellie's Bulk Laundry Soda: Understanding the Benefits of Eco-Friendly Laundry Detergent...check it out to learn"
 keywords: laundry laundry
 tags: ["Washing Machine", "Laundry Appliances"]

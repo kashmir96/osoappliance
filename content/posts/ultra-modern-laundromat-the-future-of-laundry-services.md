@@ -1,6 +1,6 @@
 ---
 
-title: Ultra Modern Laundromat: The Future Of Laundry Services
+title: Ultra Modern Laundromat The Future Of Laundry Services
 description: "The Ultra Modern Laundromat is revolutionizing the laundry industry with its cutting-edge technology and automated systems. This n...lets find out"
 keywords: laundromat laundry
 tags: ["Washing Machine", "Laundry Appliances"]

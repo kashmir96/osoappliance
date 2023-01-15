@@ -1,6 +1,6 @@
 ---
 
-title: Auckland Residents: Why You Should Consider Appliance Rental For Your Next Upgrade
+title: Auckland Residents Why You Should Consider Appliance Rental For Your Next Upgrade
 description: "Are you an Auckland resident looking to upgrade your home appliances? If so, you may want to consider appliance rental as an optio...read now to learn more"
 keywords: appliance
 tags: ["Appliance Guide"]

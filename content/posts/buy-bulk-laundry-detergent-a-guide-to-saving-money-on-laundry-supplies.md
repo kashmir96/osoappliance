@@ -1,6 +1,6 @@
 ---
 
-title: Buy Bulk Laundry Detergent: A Guide To Saving Money On Laundry Supplies
+title: Buy Bulk Laundry Detergent A Guide To Saving Money On Laundry Supplies
 description: "## Buy Bulk Laundry Detergent: A Guide to Saving Money on Laundry Supplies...get more info"
 keywords: buy laundry guide laundry
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]

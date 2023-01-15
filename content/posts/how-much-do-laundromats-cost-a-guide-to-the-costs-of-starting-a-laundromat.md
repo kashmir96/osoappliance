@@ -1,6 +1,6 @@
 ---
 
-title: How Much Do Laundromats Cost: A Guide To The Costs Of Starting A Laundromat
+title: How Much Do Laundromats Cost A Guide To The Costs Of Starting A Laundromat
 description: "## How Much Do Laundromats Cost: A Guide to the Costs of Starting a Laundromat...learn more about it now"
 keywords: laundromats guide laundromat
 tags: ["Laundry Appliances", "Appliance Guide"]

@@ -1,6 +1,6 @@
 ---
 
-title: Can Monkeypox Spread In Laundromats: Understanding The Risks Of Laundry Services
+title: Can Monkeypox Spread In Laundromats Understanding The Risks Of Laundry Services
 description: "## Can Monkeypox Spread in Laundromats? Understanding the Risks of Laundry Services...see more detail"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

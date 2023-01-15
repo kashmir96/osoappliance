@@ -1,6 +1,6 @@
 ---
 
-title: Can Bed Bugs Live In Laundromats: Understanding The Risks Of Laundry Services
+title: Can Bed Bugs Live In Laundromats Understanding The Risks Of Laundry Services
 description: "## Can Bed Bugs Live in Laundromats? Understanding the Risks of Laundry Services...learn about it in this post"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

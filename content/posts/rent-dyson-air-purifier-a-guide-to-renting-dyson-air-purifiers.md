@@ -1,6 +1,6 @@
 ---
 
-title: Rent Dyson Air Purifier: A Guide To Renting Dyson Air Purifiers
+title: Rent Dyson Air Purifier A Guide To Renting Dyson Air Purifiers
 description: "## A Guide to Renting Dyson Air Purifiers...find out now"
 keywords: air purifier guide air
 tags: ["Heat Pump", "Appliance Guide"]

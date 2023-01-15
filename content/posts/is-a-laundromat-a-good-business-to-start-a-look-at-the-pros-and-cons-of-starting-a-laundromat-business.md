@@ -1,6 +1,6 @@
 ---
 
-title: Is A Laundromat A Good Business To Start: A Look At The Pros And Cons Of Starting A Laundromat Business
+title: Is A Laundromat A Good Business To Start A Look At The Pros And Cons Of Starting A Laundromat Business
 description: "## Is a Laundromat a Good Business to Start?...lets find out"
 keywords: laundromat laundromat
 tags: ["Laundry Appliances"]

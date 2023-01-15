@@ -1,6 +1,6 @@
 ---
 
-title: Canmore Laundromats: A Guide To Laundry Services In Canmore
+title: Canmore Laundromats A Guide To Laundry Services In Canmore
 description: "## Canmore Laundromats: A Guide to Laundry Services in Canmore...keep going and find out"
 keywords: laundromats guide laundry
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]

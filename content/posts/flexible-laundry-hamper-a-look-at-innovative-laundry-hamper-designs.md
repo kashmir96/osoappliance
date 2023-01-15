@@ -1,6 +1,6 @@
 ---
 
-title: Flexible Laundry Hamper: A Look At Innovative Laundry Hamper Designs
+title: Flexible Laundry Hamper A Look At Innovative Laundry Hamper Designs
 description: "## Flexible Laundry Hamper: A Look at Innovative Laundry Hamper Designs...take a moment to check it out "
 keywords: laundry laundry
 tags: ["Washing Machine", "Laundry Appliances"]

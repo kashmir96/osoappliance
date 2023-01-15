@@ -1,7 +1,7 @@
 ---
 
-title: Bulk Buy Laundry Detergent: A Look At The Advantages Of Buying In Bulk
-description: "## Bulk Buy Laundry Detergent: A Look at the Advantages of Buying in Bulk...check it out to learn"
+title: Bulk Buy Laundry Detergent A Look At The Advantages Of Buying In Bulk
+description: "Bulk Buy Laundry Detergent: A Look at the Advantages of Buying in Bulk...check it out to learn"
 keywords: buy laundry buying
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance"]
 author: Curtis

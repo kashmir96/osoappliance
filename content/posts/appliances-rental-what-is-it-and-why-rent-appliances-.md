@@ -1,6 +1,6 @@
 ---
 
-title: Appliances Rental: What Is It And Why Rent Appliances?
+title: Appliances Rental What Is It And Why Rent Appliances
 description: "Are you looking for a way to get the latest appliances without having to make a long-term commitment or large financial investment...continue on"
 keywords: appliances appliances
 tags: ["Appliance Guide"]

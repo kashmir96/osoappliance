@@ -1,6 +1,6 @@
 ---
 
-title: How Much Is A Laundromat Business: A Look At The Costs Of Starting A Laundromat
+title: How Much Is A Laundromat Business A Look At The Costs Of Starting A Laundromat
 description: "## How Much is a Laundromat Business: A Look at the Costs of Starting a Laundromat...get more detail"
 keywords: laundromat laundromat
 tags: ["Laundry Appliances"]

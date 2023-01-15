@@ -1,6 +1,6 @@
 ---
 
-title: Is A Laundromat A Service: A Look At The Nature Of Laundry Services
+title: Is A Laundromat A Service A Look At The Nature Of Laundry Services
 description: "## Is a Laundromat a Service? A Look at the Nature of Laundry Services...check it out to learn"
 keywords: laundromat laundry
 tags: ["Washing Machine", "Laundry Appliances"]

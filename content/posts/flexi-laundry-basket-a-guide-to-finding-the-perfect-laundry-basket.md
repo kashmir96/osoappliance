@@ -1,6 +1,6 @@
 ---
 
-title: Flexi Laundry Basket: A Guide To Finding The Perfect Laundry Basket
+title: Flexi Laundry Basket A Guide To Finding The Perfect Laundry Basket
 description: "## Making Laundry Easier: A Guide to Finding the Perfect Flexi Laundry Basket...you wont regret reading on"
 keywords: laundry guide laundry
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]

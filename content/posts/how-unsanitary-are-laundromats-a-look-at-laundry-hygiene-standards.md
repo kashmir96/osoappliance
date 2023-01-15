@@ -1,6 +1,6 @@
 ---
 
-title: How Unsanitary Are Laundromats: A Look At Laundry Hygiene Standards
+title: How Unsanitary Are Laundromats A Look At Laundry Hygiene Standards
 description: "## How Unsanitary Are Laundromats? A Look at Laundry Hygiene Standards...check it out to learn"
 keywords: laundromats laundry standards
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Rules and Regulations"]

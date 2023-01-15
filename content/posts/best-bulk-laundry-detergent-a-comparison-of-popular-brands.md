@@ -1,6 +1,6 @@
 ---
 
-title: Best Bulk Laundry Detergent: A Comparison Of Popular Brands
+title: Best Bulk Laundry Detergent A Comparison Of Popular Brands
 description: "## What Is the Best Bulk Laundry Detergent?...swipe up to find out"
 keywords: best laundry popular brands
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Brand", "Appliance Guide"]

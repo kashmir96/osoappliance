@@ -1,6 +1,6 @@
 ---
 
-title: Flexi Laundry Basket Asda: A Look At Laundry Basket Options At Asda
+title: Flexi Laundry Basket Asda A Look At Laundry Basket Options At Asda
 description: "## Flexi Laundry Basket Asda: A Look at Laundry Basket Options at Asda...learn more about it now"
 keywords: laundry laundry
 tags: ["Washing Machine", "Laundry Appliances"]

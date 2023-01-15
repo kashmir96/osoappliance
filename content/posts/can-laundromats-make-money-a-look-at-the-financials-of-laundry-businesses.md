@@ -1,6 +1,6 @@
 ---
 
-title: Can Laundromats Make Money: A Look At The Financials Of Laundry Businesses
+title: Can Laundromats Make Money A Look At The Financials Of Laundry Businesses
 description: "## Can Laundromats Make Money? A Look at the Financials of Laundry Businesses...you wont regret reading on"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

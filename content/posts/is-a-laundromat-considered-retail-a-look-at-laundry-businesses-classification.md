@@ -1,6 +1,6 @@
 ---
 
-title: Is A Laundromat Considered Retail: A Look At Laundry Businesses Classification
+title: Is A Laundromat Considered Retail A Look At Laundry Businesses Classification
 description: "## Is a Laundromat Considered Retail? A Look at Laundry Businesses Classification...find out now"
 keywords: laundromat laundry
 tags: ["Washing Machine", "Laundry Appliances"]

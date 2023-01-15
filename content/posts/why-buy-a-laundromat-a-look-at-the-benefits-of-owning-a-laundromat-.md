@@ -1,6 +1,6 @@
 ---
 
-title: Why Buy A Laundromat: A Look At The Benefits Of Owning A Laundromat.
+title: Why Buy A Laundromat A Look At The Benefits Of Owning A Laundromat.
 description: "## Why Buy a Laundromat: A Look at the Benefits of Owning a Laundromat...take a moment to check it out "
 keywords: buy laundromat laundromat
 tags: ["Laundry Appliances", "Buy Appliance"]

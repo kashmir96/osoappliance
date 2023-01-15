@@ -1,6 +1,6 @@
 ---
 
-title: Finding The Perfect Appliance Rental Store Near You: A Comprehensive Guide
+title: Finding The Perfect Appliance Rental Store Near You A Comprehensive Guide
 description: "Are you in the market for appliance rental stores near you? Whether you’re looking for a temporary replacement for a broken applia...see more"
 keywords: appliance store near guide
 tags: ["Buy Appliance", "Appliance Guide"]

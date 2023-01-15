@@ -1,6 +1,6 @@
 ---
 
-title: Why Do Laundromats Fail: Understanding The Challenges Of Running A Laundry Business
+title: Why Do Laundromats Fail Understanding The Challenges Of Running A Laundry Business
 description: "## Why Do Laundromats Fail: Understanding the Challenges of Running a Laundry Business...learn more"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

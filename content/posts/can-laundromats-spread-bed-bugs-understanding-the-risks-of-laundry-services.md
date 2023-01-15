@@ -1,6 +1,6 @@
 ---
 
-title: Can Laundromats Spread Bed Bugs: Understanding The Risks Of Laundry Services
+title: Can Laundromats Spread Bed Bugs Understanding The Risks Of Laundry Services
 description: "## Can Laundromats Spread Bed Bugs? Understanding the Risks of Laundry Services...get more detail"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

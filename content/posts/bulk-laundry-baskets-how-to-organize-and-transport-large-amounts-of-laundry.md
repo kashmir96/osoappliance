@@ -1,6 +1,6 @@
 ---
 
-title: Bulk Laundry Baskets: How To Organize And Transport Large Amounts Of Laundry
+title: Bulk Laundry Baskets How To Organize And Transport Large Amounts Of Laundry
 description: "## Bulk Laundry Baskets: How to Organize and Transport Large Amounts of Laundry...you wont regret reading on"
 keywords: laundry how to laundry
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide", "Appliance Installation"]

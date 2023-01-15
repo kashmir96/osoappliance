@@ -1,6 +1,6 @@
 ---
 
-title: Can You Get Diseases From Laundromats: Understanding The Risks Of Laundry Services
+title: Can You Get Diseases From Laundromats Understanding The Risks Of Laundry Services
 description: "## Can You Get Diseases from Laundromats? Understanding the Risks of Laundry Services...you wont regret reading on"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

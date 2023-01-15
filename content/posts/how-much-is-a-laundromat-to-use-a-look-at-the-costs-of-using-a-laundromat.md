@@ -1,6 +1,6 @@
 ---
 
-title: How Much Is A Laundromat To Use: A Look At The Costs Of Using A Laundromat
+title: How Much Is A Laundromat To Use A Look At The Costs Of Using A Laundromat
 description: "## How Much is a Laundromat to Use?...get more detail"
 keywords: laundromat use laundromat
 tags: ["Laundry Appliances", "Appliance Consumption"]

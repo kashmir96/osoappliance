@@ -1,6 +1,6 @@
 ---
 
-title: How Clean Is A Laundromat: A Look At The Hygiene Standards Of Laundromats
+title: How Clean Is A Laundromat A Look At The Hygiene Standards Of Laundromats
 description: "## How Clean is a Laundromat? A Look at the Hygiene Standards of Laundromats...take a moment to check it out "
 keywords: clean laundromat standards laundromats
 tags: ["Laundry Appliances", "Appliance Rules and Regulations", "Clean Appliance"]

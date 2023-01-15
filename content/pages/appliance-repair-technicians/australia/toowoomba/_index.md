@@ -1,3 +1,4 @@
+---
 title: "Appliance Repair Technicians in Toowoomba, Australia"
 description: Our Toowoomba appliance repair directory is here to help you find a professional technician to handle all your household appliance repairs. We've compiled a list of qualified technicians who are up-to-date with the latest technologies and ready to assist with any repair needs in the Toowoomba area.
 type: custom
@@ -5,7 +6,7 @@ layout: directory
 set_type: "Appliance Repair Technician"
 set_category: "Australia"
 set_tag: "Toowoomba"
-
+---
 <h2>Toowoomba Appliance Repair Directory FAQs</h2>
 <h4>Q: What types of appliances do the technicians repair?</h4>
 <p>A: Our technicians are experienced in repairing all types of major household appliances, including refrigerators, ovens, washing machines, dishwashers, and more.</p>

@@ -1,7 +1,7 @@
 ---
 
-title: Bulk Laundry Powder: How To Save Money On Laundry Detergent
-description: "## How to Save Money on Laundry Detergent...keep going and find out"
+title: Bulk Laundry Powder How To Save Money On Laundry Detergent
+description: "How to Save Money on Laundry Detergent...keep going and find out"
 keywords: laundry how to laundry
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]
 author: Curtis

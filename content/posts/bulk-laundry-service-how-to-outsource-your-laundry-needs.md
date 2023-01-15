@@ -1,6 +1,6 @@
 ---
 
-title: Bulk Laundry Service: How To Outsource Your Laundry Needs
+title: Bulk Laundry Service How To Outsource Your Laundry Needs
 description: "Do you find yourself spending too much time and energy on laundry? If so, you might want to consider using a bulk laundry service....lets find out"
 keywords: laundry how to laundry
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]

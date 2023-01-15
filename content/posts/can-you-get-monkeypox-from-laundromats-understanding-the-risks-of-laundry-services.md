@@ -1,6 +1,6 @@
 ---
 
-title: Can You Get Monkeypox From Laundromats: Understanding The Risks Of Laundry Services
+title: Can You Get Monkeypox From Laundromats Understanding The Risks Of Laundry Services
 description: "## Can You Get Monkeypox from Laundromats? Understanding the Risks of Laundry Services...get the full scoop"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

@@ -1,6 +1,6 @@
 ---
 
-title: Why Laundromat: A Look At The Benefits Of Using Laundromats
+title: Why Laundromat A Look At The Benefits Of Using Laundromats
 description: "## The Benefits of Using a Laundromat...check it out to learn"
 keywords: laundromat laundromats
 tags: ["Laundry Appliances"]

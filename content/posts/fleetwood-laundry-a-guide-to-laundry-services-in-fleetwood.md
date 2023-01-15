@@ -1,6 +1,6 @@
 ---
 
-title: Fleetwood Laundry: A Guide To Laundry Services In Fleetwood
+title: Fleetwood Laundry A Guide To Laundry Services In Fleetwood
 description: "## Fleetwood Laundry: A Guide to Laundry Services in Fleetwood...see more"
 keywords: laundry guide laundry
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]

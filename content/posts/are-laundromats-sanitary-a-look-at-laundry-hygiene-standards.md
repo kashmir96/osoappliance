@@ -1,6 +1,6 @@
 ---
 
-title: Are Laundromats Sanitary: A Look At Laundry Hygiene Standards
+title: Are Laundromats Sanitary A Look At Laundry Hygiene Standards
 description: "## Are Laundromats Sanitary: A Look at Laundry Hygiene Standards...continue on"
 keywords: laundromats laundry standards
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Rules and Regulations"]

@@ -1,6 +1,6 @@
 ---
 
-title: Bulk Laundry Bags: A Look At The Convenience Of Transporting Large Amounts Of Laundry
+title: Bulk Laundry Bags A Look At The Convenience Of Transporting Large Amounts Of Laundry
 description: "## Bulk Laundry Bags: A Look at the Convenience of Transporting Large Amounts of Laundry...keep reading to learn"
 keywords: laundry laundry
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Installation"]

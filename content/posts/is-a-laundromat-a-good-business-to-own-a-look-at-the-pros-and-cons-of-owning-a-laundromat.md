@@ -1,6 +1,6 @@
 ---
 
-title: Is A Laundromat A Good Business To Own: A Look At The Pros And Cons Of Owning A Laundromat
+title: Is A Laundromat A Good Business To Own A Look At The Pros And Cons Of Owning A Laundromat
 description: "## Is a Laundromat a Good Business to Own?...read now to learn more"
 keywords: laundromat laundromat
 tags: ["Laundry Appliances"]

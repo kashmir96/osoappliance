@@ -1,6 +1,6 @@
 ---
 
-title: Canberra Laundromats: A Guide To Laundry Services In Canberra
+title: Canberra Laundromats A Guide To Laundry Services In Canberra
 description: "## Canberra Laundromats: A Guide to Laundry Services in Canberra...lets find out"
 keywords: laundromats guide laundry
 tags: ["Washing Machine", "Laundry Appliances", "Appliance Guide"]

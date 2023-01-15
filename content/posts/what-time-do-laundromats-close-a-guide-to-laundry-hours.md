@@ -1,6 +1,6 @@
 ---
 
-title: What Time Do Laundromats Close: A Guide To Laundry Hours
+title: What Time Do Laundromats Close A Guide To Laundry Hours
 description: "## What Time Do Laundromats Close: A Guide to Laundry Hours...check it out to learn"
 keywords: laundromats close guide laundry
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]

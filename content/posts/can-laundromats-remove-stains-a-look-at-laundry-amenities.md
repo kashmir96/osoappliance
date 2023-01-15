@@ -1,6 +1,6 @@
 ---
 
-title: Can Laundromats Remove Stains: A Look At Laundry Amenities
+title: Can Laundromats Remove Stains A Look At Laundry Amenities
 description: "## Can Laundromats Remove Stains? A Look at Laundry Amenities...get the full scoop"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

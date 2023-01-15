@@ -1,6 +1,6 @@
 ---
 
-title: Is A Laundromat A Good Investment Reddit: A Look At Online Discussions On Laundromat Business
+title: Is A Laundromat A Good Investment Reddit A Look At Online Discussions On Laundromat Business
 description: "## Is a Laundromat a Good Investment?...learn more"
 keywords: laundromat online laundromat
 tags: ["Laundry Appliances", "Buy Appliance"]

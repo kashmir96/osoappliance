@@ -1,6 +1,6 @@
 ---
 
-title: Is A Laundromat Passive Income: A Look At The Earnings Of Laundry Businesses
+title: Is A Laundromat Passive Income A Look At The Earnings Of Laundry Businesses
 description: "## Is a Laundromat Passive Income? A Look at the Earnings of Laundry Businesses...continue on"
 keywords: laundromat laundry
 tags: ["Washing Machine", "Laundry Appliances"]

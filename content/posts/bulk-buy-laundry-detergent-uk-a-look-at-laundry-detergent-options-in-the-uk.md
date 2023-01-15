@@ -1,7 +1,7 @@
 ---
 
-title: Bulk Buy Laundry Detergent Uk: A Look At Laundry Detergent Options In The Uk
-description: "## Bulk Buy Laundry Detergent UK: A Look at Laundry Detergent Options in the UK...see more detail"
+title: Bulk Buy Laundry Detergent Uk A Look At Laundry Detergent Options In The Uk
+description: " Bulk Buy Laundry Detergent UK: A Look at Laundry Detergent Options in the UK...see more detail"
 keywords: buy laundry laundry
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance"]
 author: Curtis

@@ -1,6 +1,6 @@
 ---
 
-title: Flea Laundry Detergent: A Look At Laundry Detergents For Pest Control
+title: Flea Laundry Detergent A Look At Laundry Detergents For Pest Control
 description: "## Flea Laundry Detergent: A Look at Laundry Detergents for Pest Control...see more detail"
 keywords: laundry laundry
 tags: ["Washing Machine", "Laundry Appliances"]

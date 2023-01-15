@@ -1,6 +1,6 @@
 ---
 
-title: Flex'N Carry Laundry Basket: A Look At The Convenience Of Flexible Laundry Baskets
+title: Flexn Carry Laundry Basket A Look At The Convenience Of Flexible Laundry Baskets
 description: "## The Convenience of Flexible Laundry Baskets...take a moment to check it out "
 keywords: laundry laundry
 tags: ["Washing Machine", "Laundry Appliances"]

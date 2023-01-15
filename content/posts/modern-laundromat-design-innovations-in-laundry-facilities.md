@@ -1,6 +1,6 @@
 ---
 
-title: Modern Laundromat Design: Innovations In Laundry Facilities
+title: Modern Laundromat Design Innovations In Laundry Facilities
 description: "The modern laundry experience has come a long way since the days when people had to wash their clothes in a river or bucket. Today...scroll on and keep learning"
 keywords: laundromat laundry
 tags: ["Washing Machine", "Laundry Appliances"]

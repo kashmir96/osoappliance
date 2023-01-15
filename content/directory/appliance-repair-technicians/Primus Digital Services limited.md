@@ -1,0 +1,20 @@
+---
+title: Primus Digital Services limited
+keywords: Primus Digital Services limited Appliance Repair Technician Glasgow United Kingdom 
+type: Appliance Repair Technician 
+categories: ["United Kingdom"]
+tags: ["Glasgow"]
+author: Curtis
+cover:
+    image: /img/directory-images/appliance-repair-technician/primus-digital-services-limited.webp
+    alt: Cover image for Primus Digital Services limited the United Kingdom based Appliance Repair Technician servicing Glasgow 
+---
+
+# Primus Digital Services limited
+Primus Digital Services limited is an Appliance Repair Technician located in Glasgow, United Kingdom
+
+This business offers a range of Appliance Repair Technician services to households and businesses in and around Glasgow
+
+## Check out how this Appliance Repair Technician is rated.
+Review Count: (2)
+Review Stars: 4.0

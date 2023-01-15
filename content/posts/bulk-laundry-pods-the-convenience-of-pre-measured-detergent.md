@@ -1,7 +1,7 @@
 ---
 
-title: Bulk Laundry Pods: The Convenience Of Pre-Measured Detergent
-description: "## Bulk Laundry Pods: The Convenience of Pre-Measured Detergent...see more"
+title: Bulk Laundry Pods The Convenience Of Pre-Measured Detergent
+description: "Bulk Laundry Pods: The Convenience of Pre-Measured Detergent...see more"
 keywords: laundry
 tags: ["Washing Machine", "Laundry Appliances"]
 author: Curtis

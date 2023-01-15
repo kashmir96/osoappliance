@@ -1,6 +1,6 @@
 ---
 
-title: Modern Laundromat Lake Havasu: The Future Of Laundry In The Desert
+title: Modern Laundromat Lake Havasu The Future Of Laundry In The Desert
 description: "As Lake Havasu continues to grow and develop, so does the need for modern amenities. Laundromats have long been a staple of conven...get more info"
 keywords: laundromat laundry
 tags: ["Washing Machine", "Laundry Appliances"]

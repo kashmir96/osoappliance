@@ -1,6 +1,6 @@
 ---
 
-title: Flexi Laundry Basket Wilko: A Look At Laundry Basket Options At Wilko
+title: Flexi Laundry Basket Wilko A Look At Laundry Basket Options At Wilko
 description: "## Flexi Laundry Basket Wilko: A Look At Laundry Basket Options...take a moment to check it out "
 keywords: laundry laundry
 tags: ["Washing Machine", "Laundry Appliances"]

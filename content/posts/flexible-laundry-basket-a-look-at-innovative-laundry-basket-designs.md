@@ -1,6 +1,6 @@
 ---
 
-title: Flexible Laundry Basket: A Look At Innovative Laundry Basket Designs
+title: Flexible Laundry Basket A Look At Innovative Laundry Basket Designs
 description: "## Flexible Laundry Basket: A Look at Innovative Laundry Basket Designs...learn more"
 keywords: laundry laundry
 tags: ["Washing Machine", "Laundry Appliances"]

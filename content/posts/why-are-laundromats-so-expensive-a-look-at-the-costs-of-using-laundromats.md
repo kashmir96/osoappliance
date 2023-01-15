@@ -1,6 +1,6 @@
 ---
 
-title: Why Are Laundromats So Expensive: A Look At The Costs Of Using Laundromats
+title: Why Are Laundromats So Expensive A Look At The Costs Of Using Laundromats
 description: "## Why Are Laundromats So Expensive?...keep reading to learn"
 keywords: laundromats laundromats
 tags: ["Laundry Appliances"]

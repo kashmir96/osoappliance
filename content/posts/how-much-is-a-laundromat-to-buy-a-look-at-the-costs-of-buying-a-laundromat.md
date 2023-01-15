@@ -1,6 +1,6 @@
 ---
 
-title: How Much Is A Laundromat To Buy: A Look At The Costs Of Buying A Laundromat
+title: How Much Is A Laundromat To Buy A Look At The Costs Of Buying A Laundromat
 description: "## How Much is a Laundromat to Buy?...see more detail"
 keywords: laundromat buy buying laundromat
 tags: ["Laundry Appliances", "Buy Appliance"]

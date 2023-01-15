@@ -1,6 +1,6 @@
 ---
 
-title: Modern Laundromat: A Look At Innovations In Laundry Amenities
+title: Modern Laundromat A Look At Innovations In Laundry Amenities
 description: "In the past, laundromats were a bare-bones, utilitarian experience. But today, modern laundromats offer much more than just washin...you wont regret reading on"
 keywords: laundromat laundry
 tags: ["Washing Machine", "Laundry Appliances"]

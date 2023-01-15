@@ -1,6 +1,6 @@
 ---
 
-title: Rent Sharp Air Purifier: A Guide To Renting Sharp Air Purifiers
+title: Rent Sharp Air Purifier A Guide To Renting Sharp Air Purifiers
 description: "## Renting a Sharp Air Purifier: A Guide for the General Laundry User...keep reading to learn"
 keywords: air purifier guide air
 tags: ["Heat Pump", "Appliance Guide"]

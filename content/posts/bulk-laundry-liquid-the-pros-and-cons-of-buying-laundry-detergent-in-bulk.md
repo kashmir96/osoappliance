@@ -1,7 +1,7 @@
 ---
 
-title: Bulk Laundry Liquid: The Pros And Cons Of Buying Laundry Detergent In Bulk
-description: "## The Pros and Cons of Buying Laundry Detergent in Bulk...get the full scoop"
+title: Bulk Laundry Liquid The Pros And Cons Of Buying Laundry Detergent In Bulk
+description: "The Pros and Cons of Buying Laundry Detergent in Bulk...get the full scoop"
 keywords: laundry buying laundry
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance"]
 author: Curtis

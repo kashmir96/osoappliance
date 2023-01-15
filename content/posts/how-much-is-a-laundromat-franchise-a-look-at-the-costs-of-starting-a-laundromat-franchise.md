@@ -1,6 +1,6 @@
 ---
 
-title: How Much Is A Laundromat Franchise: A Look At The Costs Of Starting A Laundromat Franchise
+title: How Much Is A Laundromat Franchise A Look At The Costs Of Starting A Laundromat Franchise
 description: "## How Much is a Laundromat Franchise? A Look at the Costs of Starting a Laundromat Franchise...continue on"
 keywords: laundromat laundromat
 tags: ["Laundry Appliances"]

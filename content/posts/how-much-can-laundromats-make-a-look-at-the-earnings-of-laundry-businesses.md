@@ -1,6 +1,6 @@
 ---
 
-title: How Much Can Laundromats Make: A Look At The Earnings Of Laundry Businesses
+title: How Much Can Laundromats Make A Look At The Earnings Of Laundry Businesses
 description: "## How Much Can Laundromats Make: A Look at the Earnings of Laundry Businesses...lets find out"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

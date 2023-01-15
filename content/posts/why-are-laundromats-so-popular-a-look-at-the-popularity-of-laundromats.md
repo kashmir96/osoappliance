@@ -1,6 +1,6 @@
 ---
 
-title: Why Are Laundromats So Popular: A Look At The Popularity Of Laundromats
+title: Why Are Laundromats So Popular A Look At The Popularity Of Laundromats
 description: "## Why Are Laundromats So Popular?...continue on"
 keywords: laundromats popular laundromats
 tags: ["Laundry Appliances", "Appliance Guide"]

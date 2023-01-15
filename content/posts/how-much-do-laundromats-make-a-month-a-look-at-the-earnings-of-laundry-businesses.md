@@ -1,6 +1,6 @@
 ---
 
-title: How Much Do Laundromats Make A Month: A Look At The Earnings Of Laundry Businesses
+title: How Much Do Laundromats Make A Month A Look At The Earnings Of Laundry Businesses
 description: "## How Much Do Laundromats Make a Month?...keep reading to learn"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

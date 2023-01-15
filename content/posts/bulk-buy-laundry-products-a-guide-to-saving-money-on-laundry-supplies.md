@@ -1,7 +1,7 @@
 ---
 
-title: Bulk Buy Laundry Products: A Guide To Saving Money On Laundry Supplies
-description: "## Get Your Laundry Supplies in Bulk and Save Money...keep going and find out"
+title: Bulk Buy Laundry Products A Guide To Saving Money On Laundry Supplies
+description: "Get Your Laundry Supplies in Bulk and Save Money...keep going and find out"
 keywords: buy laundry guide laundry
 tags: ["Washing Machine", "Laundry Appliances", "Buy Appliance", "Appliance Guide"]
 author: Curtis

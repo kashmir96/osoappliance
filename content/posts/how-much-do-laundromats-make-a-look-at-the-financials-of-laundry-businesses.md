@@ -1,6 +1,6 @@
 ---
 
-title: How Much Do Laundromats Make: A Look At The Financials Of Laundry Businesses
+title: How Much Do Laundromats Make A Look At The Financials Of Laundry Businesses
 description: "## How Much Do Laundromats Make?...get more info"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

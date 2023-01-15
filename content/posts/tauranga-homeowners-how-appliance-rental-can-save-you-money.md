@@ -1,6 +1,6 @@
 ---
 
-title: Tauranga Homeowners: How Appliance Rental Can Save You Money
+title: Tauranga Homeowners How Appliance Rental Can Save You Money
 description: "As a homeowner in Tauranga, you know how important it is to maintain the value of your home. One way to do that is by ensuring tha...see more"
 keywords: appliance
 tags: ["Appliance Guide"]

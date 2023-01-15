@@ -1,6 +1,6 @@
 ---
 
-title: Can Laundromats Open In Level 4: A Look At Covid-19 Restrictions For Laundry Services
+title: Can Laundromats Open In Level 4 A Look At Covid-19 Restrictions For Laundry Services
 description: "## Can Laundromats Open in Level 4: A Look at COVID-19 Restrictions for Laundry Services...get the full scoop"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

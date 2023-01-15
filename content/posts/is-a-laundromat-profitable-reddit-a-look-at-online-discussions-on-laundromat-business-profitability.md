@@ -1,6 +1,6 @@
 ---
 
-title: Is A Laundromat Profitable Reddit: A Look At Online Discussions On Laundromat Business Profitability
+title: Is A Laundromat Profitable Reddit A Look At Online Discussions On Laundromat Business Profitability
 description: "## Is a Laundromat Profitable?...learn more"
 keywords: laundromat online laundromat
 tags: ["Laundry Appliances", "Buy Appliance"]

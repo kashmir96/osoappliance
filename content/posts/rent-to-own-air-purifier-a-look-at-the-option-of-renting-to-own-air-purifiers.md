@@ -1,6 +1,6 @@
 ---
 
-title: Rent To Own Air Purifier: A Look At The Option Of Renting To Own Air Purifiers
+title: Rent To Own Air Purifier A Look At The Option Of Renting To Own Air Purifiers
 description: "## Rent to Own Air Purifier: A Look at the Option of Renting to Own Air Purifiers...lets find out"
 keywords: air purifier air
 tags: ["Heat Pump"]

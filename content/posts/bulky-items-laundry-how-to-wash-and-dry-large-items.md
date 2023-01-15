@@ -1,6 +1,6 @@
 ---
 
-title: Bulky Items Laundry: How To Wash And Dry Large Items
+title: Bulky Items Laundry How To Wash And Dry Large Items
 description: "## Bulky Items Laundry: How to Wash and Dry Large Items...keep reading to learn"
 keywords: laundry how to wash
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance", "Appliance Guide"]

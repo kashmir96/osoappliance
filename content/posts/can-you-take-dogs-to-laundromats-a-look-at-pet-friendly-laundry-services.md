@@ -1,6 +1,6 @@
 ---
 
-title: Can You Take Dogs To Laundromats: A Look At Pet-Friendly Laundry Services
+title: Can You Take Dogs To Laundromats A Look At Pet-Friendly Laundry Services
 description: "## Can You Take Dogs to Laundromats? A Look at Pet-Friendly Laundry Services...see more detail"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]

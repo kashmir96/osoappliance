@@ -1,6 +1,6 @@
 ---
 
-title: Is A Laundromat A Good Investment: A Look At The Financials Of Laundry Businesses
+title: Is A Laundromat A Good Investment A Look At The Financials Of Laundry Businesses
 description: "## Is a Laundromat a Good Investment: A Look at the Financials of Laundry Businesses...check it out to learn"
 keywords: laundromat laundry
 tags: ["Washing Machine", "Laundry Appliances"]

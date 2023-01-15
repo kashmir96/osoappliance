@@ -1,6 +1,6 @@
 ---
 
-title: How Much Is A Laundromat Washing Machine: A Look At The Costs Of Laundromat Washing Machines
+title: How Much Is A Laundromat Washing Machine A Look At The Costs Of Laundromat Washing Machines
 description: "## How Much is a Laundromat Washing Machine?...see more detail"
 keywords: laundromat washing machine laundromat washing machines
 tags: ["Washing Machine", "Laundry Appliances", "Clean Appliance"]

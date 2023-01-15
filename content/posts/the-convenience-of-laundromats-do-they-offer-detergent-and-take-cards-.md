@@ -1,6 +1,6 @@
 ---
 
-title: The Convenience Of Laundromats: Do They Offer Detergent And Take Cards?
+title: The Convenience Of Laundromats Do They Offer Detergent And Take Cards?
 description: "Laundromats are a great way to take care of your laundry needs. They provide convenience and affordability, plus they offer a vari...continue on"
 keywords: laundromats
 tags: ["Laundry Appliances"]

@@ -1,6 +1,6 @@
 ---
 
-title: How Do Laundromats Work In Nyc: A Look At Laundry Services In New York City
+title: How Do Laundromats Work In Nyc A Look At Laundry Services In New York City
 description: "## How Do Laundromats Work in NYC: A Look at Laundry Services in New York City...get the full scoop"
 keywords: laundromats laundry
 tags: ["Washing Machine", "Laundry Appliances"]
