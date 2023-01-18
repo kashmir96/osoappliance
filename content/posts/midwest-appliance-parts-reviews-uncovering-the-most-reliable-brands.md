@@ -21,4 +21,4 @@ In addition to the ratings and customer reviews, Midwest Appliance Parts also pr
 ## Get the Most Reliable Parts for Your Appliances
 Thanks to Midwest Appliance Parts reviews, picking the right parts for your appliances is quicker and more informed than ever. Dealing with a trusted provider means that you can save both time and money when it comes to repairs and replacements. 
 
-To get the best parts for your appliances and ensure a high-quality repair, choose Midwest Appliance Parts. For more information on the products and services they offer, visit [Appliance Parts Suppliers - United States](.pages/appliance-parts-suppliers/united-states) today.
+To get the best parts for your appliances and ensure a high-quality repair, choose Midwest Appliance Parts. For more information on the products and services they offer, visit [Appliance Parts Suppliers - United States](./pages/appliance-parts-suppliers/united-states) today.

@@ -20,4 +20,4 @@ Canadian suppliers also offer great customer service. With knowledgeable staff w
 
 Finally, Canadian suppliers offer great deals on parts all year round. Whether you're looking for a particular brand or model, or just need to replace a few parts, you can usually find great discounts on appliance parts from Canadian suppliers. 
 
-Check out [Appliance Parts Suppliers - Canada](.pages/appliance-parts-suppliers/canada) to find the best deals on appliance parts from Canadian suppliers. With lower prices, great customer service and discounts all year round, you can get the parts you need at a great price. Start saving today!
+Check out [Appliance Parts Suppliers - Canada](./pages/appliance-parts-suppliers/canada) to find the best deals on appliance parts from Canadian suppliers. With lower prices, great customer service and discounts all year round, you can get the parts you need at a great price. Start saving today!

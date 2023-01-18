@@ -21,4 +21,4 @@ So, where can you find the right appliance parts company? There are a few differ
 
 Overall, finding the right appliance parts company is essential to ensure that your home remains functional. The important thing is to search for a company that is both reliable and carries the specific part needed for your appliance. With a bit of research and legwork, you’ll be able to locate a reliable and trustworthy appliance parts supplier nearby.
 
-If you need a reliable parts supplier for your household appliances, check out our **[Appliance Parts Suppliers](.pages/appliance-parts-suppliers/)** page today!
+If you need a reliable parts supplier for your household appliances, check out our **[Appliance Parts Suppliers](./pages/appliance-parts-suppliers/)** page today!

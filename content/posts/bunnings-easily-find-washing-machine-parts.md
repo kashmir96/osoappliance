@@ -19,4 +19,4 @@ Bunnings has a range of washing machine spare parts in stock, all at competitive
 
 With the range of washing machine parts available at Bunnings, finding the right parts for your washing machine is easy. You can search for what you need, ask for advice from their customer service team, and trust that you’ll be getting good quality parts at a great price.
 
-If you need help with identifying and choosing the right parts for your washing machine, visit our [Appliance Parts Suppliers](.pages/appliance-parts-suppliers/) page to find resources and experts who can help.
+If you need help with identifying and choosing the right parts for your washing machine, visit our [Appliance Parts Suppliers](./pages/appliance-parts-suppliers/) page to find resources and experts who can help.

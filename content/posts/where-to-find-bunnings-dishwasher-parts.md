@@ -21,4 +21,4 @@ When purchasing parts, make sure to take note of the manufacturer, model, and se
 
 No matter where you choose to buy your Bunnings dishwasher parts, always make sure they are compatible with your machine. It will save you time and frustration in the long run.
 
-When it comes to locating replacement Bunnings dishwasher parts, be sure to search for both generic and original parts and compare prices. You can also consult with our knowledgeable team of appliance parts suppliers to find the perfect part for your appliance. Head to our [Appliance Parts Suppliers](.pages/appliance-parts-suppliers/) today to get started.
+When it comes to locating replacement Bunnings dishwasher parts, be sure to search for both generic and original parts and compare prices. You can also consult with our knowledgeable team of appliance parts suppliers to find the perfect part for your appliance. Head to our [Appliance Parts Suppliers](./pages/appliance-parts-suppliers/) today to get started.

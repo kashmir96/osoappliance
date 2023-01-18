@@ -18,4 +18,4 @@ In some cases, you may also be able to get repair or install advice from your ap
 
 When searching for appliance parts in Auckland, you should look for a supplier with a good reputation. Check online reviews and talk to friends or other appliance owners to find out which suppliers offer the best service. You should also ask the supplier about their return policy and warranty coverage, so you know you're protected.
 
-Finding reliable appliance parts in Auckland is easier than ever. With a reputable supplier, you can get the parts you need quickly and easily. To get started, check out our [Appliance Parts Suppliers - New Zealand](.pages/appliance-parts-suppliers/new-zealand/) to find the best suppliers in Auckland for your needs.
+Finding reliable appliance parts in Auckland is easier than ever. With a reputable supplier, you can get the parts you need quickly and easily. To get started, check out our [Appliance Parts Suppliers - New Zealand](./pages/appliance-parts-suppliers/new-zealand/) to find the best suppliers in Auckland for your needs.

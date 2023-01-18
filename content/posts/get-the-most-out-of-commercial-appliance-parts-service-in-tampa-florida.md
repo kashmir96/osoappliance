@@ -20,4 +20,4 @@ Whether you’re looking to repair a single appliance or upgrade your entire kit
 
 Using reliable and certified parts and services from Tampa, you can ensure that your appliances last for years to come. When you’re ready to get the most out of your commercial-grade appliances, turn to the certified technicians at Commercial Appliance Parts & Service in Tampa, FL.
 
-For more information about appliance parts suppliers in the United States, check out our [Appliance Parts Suppliers - United States](.pages/appliance-parts-suppliers/united-states) page and find the right parts and services for you.
+For more information about appliance parts suppliers in the United States, check out our [Appliance Parts Suppliers - United States](./pages/appliance-parts-suppliers/united-states) page and find the right parts and services for you.

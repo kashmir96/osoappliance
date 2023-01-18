@@ -21,4 +21,4 @@ For reliable appliance parts in and around Brisbane, you can always count on a t
 Conclusion
 Getting your appliance parts in Brisbane can be smooth and stress-free with the right resources and support. Knowing which parts to buy and who to trust for quality labour is a crucial part of ensuring that your repairs go smoothly. By keeping these tips in mind, you can be sure to have your household item running in no time. 
 
-Take the stress out of appliance breakdowns and repairs--check out our [Appliance Parts Suppliers - Australia](.pages/appliance-parts-suppliers/australia) for the best resources and support for Brisbane.
+Take the stress out of appliance breakdowns and repairs--check out our [Appliance Parts Suppliers - Australia](./pages/appliance-parts-suppliers/australia) for the best resources and support for Brisbane.

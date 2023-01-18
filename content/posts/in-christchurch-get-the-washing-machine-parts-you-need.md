@@ -20,4 +20,4 @@ We strive to make sure you get the parts you need quickly and conveniently. All 
 
 Finding the right parts to get your washing machine up and running in Christchurch doesn’t have to be a hassle. Our appliance parts suppliers have you covered with an extensive range of parts and an experienced team ready to help. Get the reliable parts you need for your repairs today! 
 
-If you are looking for washing machine parts in Christchurch, look no further than our reliable appliance parts suppliers. With fast shipping and excellent customer service, we can help you get the right parts quickly and conveniently. Visit our [Appliance Parts Suppliers](.pages/appliance-parts-suppliers/) page today to get started!
+If you are looking for washing machine parts in Christchurch, look no further than our reliable appliance parts suppliers. With fast shipping and excellent customer service, we can help you get the right parts quickly and conveniently. Visit our [Appliance Parts Suppliers](./pages/appliance-parts-suppliers/) page today to get started!

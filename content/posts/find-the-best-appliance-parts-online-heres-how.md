@@ -24,4 +24,4 @@ When shopping for replacement parts, it’s also important to keep an eye out fo
 
 With these tips in mind, you can be sure to find the right parts to help get your broken appliance back on track. Whether you’re shopping for a refrigerator, dishwasher, washing machine, oven, or another major appliance, you can help ensure that you get the best parts available by following a few simple steps.
 
-Are you ready to find the best appliance parts online? Check out our [Appliance Parts Suppliers](.pages/appliance-parts-suppliers/) to get started today!
+Are you ready to find the best appliance parts online? Check out our [Appliance Parts Suppliers](./pages/appliance-parts-suppliers/) to get started today!

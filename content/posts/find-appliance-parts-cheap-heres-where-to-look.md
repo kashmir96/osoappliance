@@ -19,6 +19,6 @@ Another good option to consider is purchasing used parts. If you’re handy and 
 
 You should also ask your local appliance repair shop for advice. Many of these shops have access to parts that are discontinued or hard to find. Plus, their experienced professionals can answer any questions you have regarding the part and how to install it correctly. 
 
-Finally, be sure to check out our [Appliance Parts Suppliers](.pages/appliance-parts-suppliers/) where you can find competitively priced parts shipped directly to your door.
+Finally, be sure to check out our [Appliance Parts Suppliers](./pages/appliance-parts-suppliers/) where you can find competitively priced parts shipped directly to your door.
 
 Finding the right appliance parts doesn’t have to be a stressful experience. With the right information and a bit of research, you can save money and get the parts that you need, quickly and easily. Check out our Appliance Parts Suppliers for the best selection and pricing.

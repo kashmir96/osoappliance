@@ -20,4 +20,4 @@ Finally, one of the best ways to find affordable parts is to check out small, in
 
 Regardless of how much money you have to spend, there are plenty of ways to get quality appliance parts without breaking the bank. If you’re looking for parts at the right price, it’s worth taking the time to do your research and weigh all your options. 
 
-At our website, we provide quality appliance parts at a variety of price points – so if you're in the market for affordable parts, visit us [here](.pages/appliance-parts-suppliers/) today to start your search.
+At our website, we provide quality appliance parts at a variety of price points – so if you're in the market for affordable parts, visit us [here](./pages/appliance-parts-suppliers/) today to start your search.

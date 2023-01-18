@@ -20,4 +20,4 @@ If you do choose to repair your Waring blender yourself, their website and parts
 
 So the next time your Waring blender is running a little slower, or the blades have stopped spinning, have a look and examine the parts carefully to make sure you get the right replacement parts for your blender. With the wide selection available at Waring, you'll be sure to find exactly what you need to get your blender back up and running like new.
 
-For all your appliance parts needs, be sure to check out our [Appliance Parts Suppliers](.pages/appliance-parts-suppliers/) page for the most reliable sources for quality, affordable parts. With the right parts, you can rest easy knowing that your Waring blender will get the job done for years to come.
+For all your appliance parts needs, be sure to check out our [Appliance Parts Suppliers](./pages/appliance-parts-suppliers/) page for the most reliable sources for quality, affordable parts. With the right parts, you can rest easy knowing that your Waring blender will get the job done for years to come.
