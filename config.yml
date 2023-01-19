@@ -3,7 +3,6 @@ languageCode: en-us
 title: OSO Appliance
 theme: PaperMod
 
-
 params:
 
   defaultTheme: light
