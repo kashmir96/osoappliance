@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ozi-appliances-centre.webp
-    alt: Cover image for OZI Appliances Centre the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/398.webp
+ alt: 'Australia from OZIAppliancesCentre'
 ---
 
 # OZI Appliances Centre

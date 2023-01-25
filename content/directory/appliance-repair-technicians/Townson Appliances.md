@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/townson-appliances.webp
-    alt: Cover image for Townson Appliances the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/397.webp
+ alt: 'UnitedKingdom from TownsonAppliances'
 ---
 
 # Townson Appliances

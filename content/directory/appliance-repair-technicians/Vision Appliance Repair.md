@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/vision-appliance-repair.webp
-    alt: Cover image for Vision Appliance Repair the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/77.webp
+ alt: 'UnitedStates from VisionApplianceRepair'
 ---
 
 # Vision Appliance Repair

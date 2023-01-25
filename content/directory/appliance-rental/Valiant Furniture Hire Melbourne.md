@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/valiant-furniture-hire-melbourne.webp
-    alt: Cover image for Valiant Furniture Hire Melbourne the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/368.webp
+ alt: 'Australia from ValiantFurnitureHireMelbourne'
 ---
 
 # Valiant Furniture Hire Melbourne

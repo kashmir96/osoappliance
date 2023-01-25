@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/beaches-appliance-service.webp
-    alt: Cover image for Beaches Appliance Service the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/206.webp
+ alt: 'UnitedStates from BeachesApplianceService'
 ---
 
 # Beaches Appliance Service

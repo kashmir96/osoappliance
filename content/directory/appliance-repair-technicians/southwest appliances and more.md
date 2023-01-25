@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/southwest-appliances-and-more.webp
-    alt: Cover image for southwest appliances and more the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/350.webp
+ alt: 'UnitedStates from southwestappliancesandmore'
 ---
 
 # southwest appliances and more

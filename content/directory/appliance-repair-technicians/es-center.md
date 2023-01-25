@@ -5,9 +5,9 @@ type: "Second hand appliances, New Appliances, Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Nelson"]
 author: Curtis
-cover: 
- image: /img/directory-images/second-hand-appliances,-new-appliances,-appliance-repair-technician/es-center.webp
- alt: 'Logo for ES Center the New Zealand from Nelson'
+cover:
+ image: /img/laundryappliance/127.webp
+ alt: 'NewZealand from escenter'
 ---
 
 # ES Center is an Second hand appliances, New Appliances, Appliance Repair Technician Company operating in Nelson, New Zealand.

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/machine-hygiene-ltd.webp
-    alt: Cover image for Machine Hygiene Ltd the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/161.webp
+ alt: 'UnitedKingdom from MachineHygieneLtd'
 ---
 
 # Machine Hygiene Ltd

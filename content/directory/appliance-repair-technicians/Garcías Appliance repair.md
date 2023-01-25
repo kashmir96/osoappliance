@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/garcías-appliance-repair.webp
-    alt: Cover image for Garcías Appliance repair the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/93.webp
+ alt: 'UnitedStates from GarcíasAppliancerepair'
 ---
 
 # Garcías Appliance repair

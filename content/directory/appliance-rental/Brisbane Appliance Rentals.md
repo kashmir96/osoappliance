@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/brisbane-appliance-rentals.webp
-    alt: Cover image for Brisbane Appliance Rentals the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/140.webp
+ alt: 'Australia from BrisbaneApplianceRentals'
 ---
 
 # Brisbane Appliance Rentals

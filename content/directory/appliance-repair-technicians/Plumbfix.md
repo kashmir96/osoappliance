@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumbfix.webp
-    alt: Cover image for Plumbfix the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/154.webp
+ alt: 'Australia from Plumbfix'
 ---
 
 # Plumbfix

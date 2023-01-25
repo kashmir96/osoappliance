@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/expert-audio-visual-av-hire-audio-visual-hire-event-management-conference-services.webp
-    alt: Cover image for Expert Audio Visual AV Hire Audio Visual Hire Event Management Conference Services the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/186.webp
+ alt: 'Australia from ExpertAudioVisualAVHireAudioVisualHireEventManagementConferenceServices'
 ---
 
 # Expert Audio Visual AV Hire Audio Visual Hire Event Management Conference Services

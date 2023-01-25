@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Blenheim, Christchurch, Dunedin, Gisborne, Invercargill, New Plymouth, Otahuhu"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/dtr.webp
- alt: 'Logo for DTR the Appliance Rental business from Blenheim, Christchurch, Dunedin, Gisborne, Hamilton, Hastings, Henderson, Invercargill, Lower Hutt, Manukau, New Lynn, New Plymouth, Otahuhu, Palmerston North, Panmure, Papakura, Rotorua, Tauranga, Wanganui, Whangarei, New Zealand'
+cover:
+ image: /img/laundryappliance/258.webp
+ alt: 'NewZealand from dtr'
 ---
 
 DTR is an Appliance Rental business located in Blenheim, Christchurch, Dunedin, Gisborne, Hamilton, Hastings, Henderson, Invercargill, Lower Hutt, Manukau, New Lynn, New Plymouth, Otahuhu, Palmerston North, Panmure, Papakura, Rotorua, Tauranga, Wanganui, Whangarei, New Zealand. 

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/act-fast-appliance-repair.webp
-    alt: Cover image for Act Fast Appliance Repair the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/57.webp
+ alt: 'UnitedStates from ActFastApplianceRepair'
 ---
 
 # Act Fast Appliance Repair

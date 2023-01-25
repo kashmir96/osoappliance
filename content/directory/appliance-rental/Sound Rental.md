@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sound-rental.webp
-    alt: Cover image for Sound Rental the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/312.webp
+ alt: 'UnitedStates from SoundRental'
 ---
 
 # Sound Rental

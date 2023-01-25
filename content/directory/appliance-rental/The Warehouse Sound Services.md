@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-warehouse-sound-services.webp
-    alt: Cover image for The Warehouse Sound Services the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/26.webp
+ alt: 'UnitedKingdom from TheWarehouseSoundServices'
 ---
 
 # The Warehouse Sound Services

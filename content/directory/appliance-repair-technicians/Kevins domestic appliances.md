@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kevins-domestic-appliances.webp
-    alt: Cover image for Kevins domestic appliances the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/142.webp
+ alt: 'UnitedKingdom from Kevinsdomesticappliances'
 ---
 
 # Kevins domestic appliances

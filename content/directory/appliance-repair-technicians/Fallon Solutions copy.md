@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fallon-solutions.webp
-    alt: Cover image for Fallon Solutions the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/345.webp
+ alt: 'Australia from FallonSolutionscopy'
 ---
 
 # Fallon Solutions

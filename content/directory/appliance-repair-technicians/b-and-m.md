@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["New Plymouth"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/b-and-m.webp
- alt: 'Logo for B and M the New Zealand from New Plymouth'
+cover:
+ image: /img/laundryappliance/156.webp
+ alt: 'NewZealand from bandm'
 ---
 
 # B and M is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.

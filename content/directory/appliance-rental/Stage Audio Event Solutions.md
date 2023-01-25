@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/stage-audio-event-solutions.webp
-    alt: Cover image for Stage Audio Event Solutions the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/86.webp
+ alt: 'Australia from StageAudioEventSolutions'
 ---
 
 # Stage Audio Event Solutions

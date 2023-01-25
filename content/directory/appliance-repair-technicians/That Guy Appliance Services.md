@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/that-guy-appliance-services.webp
-    alt: Cover image for That Guy Appliance Services the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/236.webp
+ alt: 'UnitedStates from ThatGuyApplianceServices'
 ---
 
 # That Guy Appliance Services

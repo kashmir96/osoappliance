@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Rotorua"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/east-side-electrical.webp
- alt: 'Logo for East Side Electrical the New Zealand from Rotorua'
+cover:
+ image: /img/laundryappliance/369.webp
+ alt: 'NewZealand from eastsideelectrical'
 ---
 
 # East Side Electrical is an Appliance Repair Technician Company operating in Rotorua, New Zealand.

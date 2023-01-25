@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/brik-and-sass-property-styling-ballarat.webp
-    alt: Cover image for Brik and Sass Property Styling Ballarat the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/293.webp
+ alt: 'Australia from BrikandSassPropertyStylingBallarat'
 ---
 
 # Brik and Sass Property Styling Ballarat

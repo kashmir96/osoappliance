@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ballarat-trs.webp
-    alt: Cover image for Ballarat TRS the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/169.webp
+ alt: 'Australia from BallaratTRS'
 ---
 
 # Ballarat TRS

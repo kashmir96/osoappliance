@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bens-appliance.webp
-    alt: Cover image for Bens Appliance the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/114.webp
+ alt: 'UnitedStates from BensAppliance'
 ---
 
 # Bens Appliance

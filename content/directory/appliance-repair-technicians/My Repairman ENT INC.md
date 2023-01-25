@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/my-repairman-ent-inc.webp
-    alt: Cover image for My Repairman ENT INC the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/359.webp
+ alt: 'UnitedStates from MyRepairmanENTINC'
 ---
 
 # My Repairman ENT INC

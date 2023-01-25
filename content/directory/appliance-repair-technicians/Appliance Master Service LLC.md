@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-master-service-llc.webp
-    alt: Cover image for Appliance Master Service LLC the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/304.webp
+ alt: 'UnitedStates from ApplianceMasterServiceLLC'
 ---
 
 # Appliance Master Service LLC

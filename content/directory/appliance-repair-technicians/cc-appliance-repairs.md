@@ -5,9 +5,9 @@ type: "Second hand appliances, New Appliances, Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Dunedin"]
 author: Curtis
-cover: 
- image: /img/directory-images/second-hand-appliances,-new-appliances,-appliance-repair-technician/cc-appliance-repairs.webp
- alt: 'Logo for CC Appliance Repairs the New Zealand from Dunedin'
+cover:
+ image: /img/laundryappliance/18.webp
+ alt: 'NewZealand from ccappliancerepairs'
 ---
 
 # CC Appliance Repairs is an Second hand appliances, New Appliances, Appliance Repair Technician Company operating in Dunedin, New Zealand.

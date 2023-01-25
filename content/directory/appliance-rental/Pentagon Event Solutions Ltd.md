@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/pentagon-event-solutions-ltd.webp
-    alt: Cover image for Pentagon Event Solutions Ltd the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/307.webp
+ alt: 'UnitedKingdom from PentagonEventSolutionsLtd'
 ---
 
 # Pentagon Event Solutions Ltd

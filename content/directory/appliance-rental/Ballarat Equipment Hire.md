@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ballarat-equipment-hire.webp
-    alt: Cover image for Ballarat Equipment Hire the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/67.webp
+ alt: 'Australia from BallaratEquipmentHire'
 ---
 
 # Ballarat Equipment Hire

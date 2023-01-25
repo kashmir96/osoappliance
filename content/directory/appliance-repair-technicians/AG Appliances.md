@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ag-appliances.webp
-    alt: Cover image for AG Appliances the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/64.webp
+ alt: 'UnitedKingdom from AGAppliances'
 ---
 
 # AG Appliances

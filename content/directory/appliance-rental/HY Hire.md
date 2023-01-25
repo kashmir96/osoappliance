@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hy-hire.webp
-    alt: Cover image for HY Hire the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/47.webp
+ alt: 'Australia from HYHire'
 ---
 
 # HY Hire

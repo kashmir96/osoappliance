@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/oven-cleaning-pro-sunshine-coast.webp
-    alt: Cover image for Oven Cleaning Pro Sunshine Coast the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/226.webp
+ alt: 'Australia from OvenCleaningProSunshineCoast'
 ---
 
 # Oven Cleaning Pro Sunshine Coast

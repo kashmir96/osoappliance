@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/g-t-electrical.webp
-    alt: Cover image for G T Electrical the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/180.webp
+ alt: 'UnitedKingdom from GTElectrical'
 ---
 
 # G T Electrical

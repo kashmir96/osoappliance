@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/perch-event-decor.webp
-    alt: Cover image for Perch Event Decor the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/294.webp
+ alt: 'UnitedStates from PerchEventDecor'
 ---
 
 # Perch Event Decor

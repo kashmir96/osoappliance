@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aa-appliance-leasing-houston.webp
-    alt: Cover image for AA Appliance Leasing Houston the United States based Appliance Rental servicing Houston 
+ image: /img/laundryappliance/10.webp
+ alt: 'UnitedStates from AAApplianceLeasingHouston'
 ---
 
 # AA Appliance Leasing Houston

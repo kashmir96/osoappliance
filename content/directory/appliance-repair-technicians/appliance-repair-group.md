@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/appliance-repair-group.webp
- alt: 'Logo for Appliance Repair Group the New Zealand from Hamilton'
+cover:
+ image: /img/laundryappliance/357.webp
+ alt: 'NewZealand from appliancerepairgroup'
 ---
 
 # Appliance Repair Group is an Appliance Repair Technician Company operating in Hamilton, New Zealand.

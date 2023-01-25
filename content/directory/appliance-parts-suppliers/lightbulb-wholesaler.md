@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/lightbulb-wholesaler.webp
- alt: 'Logo for Lightbulb Wholesaler the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/59.webp
+ alt: 'UnitedStates from lightbulbwholesaler'
 ---
 
 # Lightbulb Wholesaler is an Appliance Parts Supplier from United States.

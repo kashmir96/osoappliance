@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/lawrence-appliance-centre.webp
- alt: 'Logo for Lawrence Appliance Centre the Appliance Rental business from Hamilton, New Zealand'
+cover:
+ image: /img/laundryappliance/87.webp
+ alt: 'NewZealand from lawrenceappliancecentre'
 ---
 
 Lawrence Appliance Centre is an Appliance Rental business located in Hamilton, New Zealand. 

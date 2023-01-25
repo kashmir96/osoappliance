@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repairs-tauranga-ltd-.webp
-    alt: Cover image for Appliance Repairs Tauranga Ltd  the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/276.webp
+ alt: 'UnitedKingdom from ApplianceRepairsTaurangaLtd'
 ---
 
 # Appliance Repairs Tauranga Ltd 

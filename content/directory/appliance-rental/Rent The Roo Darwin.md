@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo-darwin.webp
-    alt: Cover image for Rent The Roo Darwin the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/393.webp
+ alt: 'Australia from RentTheRooDarwin'
 ---
 
 # Rent The Roo Darwin

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/commercial-kitchen-parts-service.webp
-    alt: Cover image for Commercial Kitchen Parts Service the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/102.webp
+ alt: 'UnitedStates from CommercialKitchenPartsService'
 ---
 
 # Commercial Kitchen Parts Service

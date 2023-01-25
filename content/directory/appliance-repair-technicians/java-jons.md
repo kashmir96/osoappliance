@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/java-jons.webp
- alt: 'Logo for Java Jons the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/280.webp
+ alt: 'NewZealand from javajons'
 ---
 
 # Java Jons is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

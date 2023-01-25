@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/deluxe-decorations.webp
-    alt: Cover image for Deluxe Decorations the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/359.webp
+ alt: 'Australia from DeluxeDecorations'
 ---
 
 # Deluxe Decorations

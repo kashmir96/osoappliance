@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Columbus"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/economic-appliance-service.webp
-    alt: Cover image for Economic Appliance Service the United States based Appliance Rental servicing Columbus 
+ image: /img/laundryappliance/166.webp
+ alt: 'UnitedStates from EconomicApplianceService'
 ---
 
 # Economic Appliance Service

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dans-appliance-repairs.webp
-    alt: Cover image for Dans Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/164.webp
+ alt: 'UnitedKingdom from DansApplianceRepairs'
 ---
 
 # Dans Appliance Repairs

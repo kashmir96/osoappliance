@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/p-h-services.webp
-    alt: Cover image for P H Services the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/47.webp
+ alt: 'UnitedKingdom from PHServices'
 ---
 
 # P H Services

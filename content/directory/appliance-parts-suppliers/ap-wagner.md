@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/ap-wagner.webp
- alt: 'Logo for AP Wagner the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/39.webp
+ alt: 'Canada from apwagner'
 ---
 
 # AP Wagner is an Appliance Parts Supplier from Canada.

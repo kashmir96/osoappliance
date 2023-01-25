@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/glendon-appliance-repair-service.webp
-    alt: Cover image for Glendon Appliance Repair Service the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/211.webp
+ alt: 'UnitedStates from GlendonApplianceRepairService'
 ---
 
 # Glendon Appliance Repair Service

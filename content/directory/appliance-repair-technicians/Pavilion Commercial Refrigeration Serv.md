@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pavilion-commercial-refrigeration-serv.webp
-    alt: Cover image for Pavilion Commercial Refrigeration Serv the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/279.webp
+ alt: 'UnitedStates from PavilionCommercialRefrigerationServ'
 ---
 
 # Pavilion Commercial Refrigeration Serv

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wefix-liverpool-ltd.webp
-    alt: Cover image for Wefix Liverpool Ltd the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/290.webp
+ alt: 'UnitedKingdom from WefixLiverpoolLtd'
 ---
 
 # Wefix Liverpool Ltd

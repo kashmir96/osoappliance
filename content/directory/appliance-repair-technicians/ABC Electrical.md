@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abc-electrical.webp
-    alt: Cover image for ABC Electrical the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/129.webp
+ alt: 'Australia from ABCElectrical'
 ---
 
 # ABC Electrical

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/repair-giant-domestic-appliance-repairs-london.webp
-    alt: Cover image for Repair Giant Domestic Appliance Repairs London the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/323.webp
+ alt: 'UnitedKingdom from RepairGiantDomesticApplianceRepairsLondon'
 ---
 
 # Repair Giant Domestic Appliance Repairs London

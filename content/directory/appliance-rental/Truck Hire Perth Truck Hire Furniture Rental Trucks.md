@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/truck-hire-perth-truck-hire-furniture-rental-trucks.webp
-    alt: Cover image for Truck Hire Perth Truck Hire Furniture Rental Trucks the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/35.webp
+ alt: 'Australia from TruckHirePerthTruckHireFurnitureRentalTrucks'
 ---
 
 # Truck Hire Perth Truck Hire Furniture Rental Trucks

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/newcastle-air-refrigeration.webp
-    alt: Cover image for Newcastle Air Refrigeration the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/89.webp
+ alt: 'Australia from NewcastleAirRefrigeration'
 ---
 
 # Newcastle Air Refrigeration

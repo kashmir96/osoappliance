@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/capricorn-auto-air.webp
-    alt: Cover image for Capricorn Auto Air the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/217.webp
+ alt: 'Australia from CapricornAutoAir'
 ---
 
 # Capricorn Auto Air

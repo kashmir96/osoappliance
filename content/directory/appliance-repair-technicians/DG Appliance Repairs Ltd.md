@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dg-appliance-repairs-ltd.webp
-    alt: Cover image for DG Appliance Repairs Ltd the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/48.webp
+ alt: 'UnitedKingdom from DGApplianceRepairsLtd'
 ---
 
 # DG Appliance Repairs Ltd

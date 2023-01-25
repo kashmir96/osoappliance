@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Columbus"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/gm-equipment-rentals.webp
-    alt: Cover image for GM EQUIPMENT RENTALS the United States based Appliance Rental servicing Columbus 
+ image: /img/laundryappliance/70.webp
+ alt: 'UnitedStates from GMEQUIPMENTRENTALS'
 ---
 
 # GM EQUIPMENT RENTALS

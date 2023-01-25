@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["New Plymouth"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/washtech.webp
- alt: 'Logo for WashTech the New Zealand from New Plymouth'
+cover:
+ image: /img/laundryappliance/199.webp
+ alt: 'NewZealand from washtech'
 ---
 
 # WashTech is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.

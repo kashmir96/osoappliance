@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/on-point-appliance-repair.webp
-    alt: Cover image for On Point Appliance Repair the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/362.webp
+ alt: 'UnitedStates from OnPointApplianceRepair'
 ---
 
 # On Point Appliance Repair

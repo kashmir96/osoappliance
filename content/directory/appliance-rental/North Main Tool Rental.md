@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/north-main-tool-rental.webp
-    alt: Cover image for North Main Tool Rental the United States based Appliance Rental servicing Houston 
+ image: /img/laundryappliance/179.webp
+ alt: 'UnitedStates from NorthMainToolRental'
 ---
 
 # North Main Tool Rental

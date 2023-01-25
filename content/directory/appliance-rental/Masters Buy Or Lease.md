@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/masters-buy-or-lease.webp
-    alt: Cover image for Masters Buy Or Lease the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/95.webp
+ alt: 'UnitedStates from MastersBuyOrLease'
 ---
 
 # Masters Buy Or Lease

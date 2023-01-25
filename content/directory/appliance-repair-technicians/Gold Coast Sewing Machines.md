@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gold-coast-sewing-machines.webp
-    alt: Cover image for Gold Coast Sewing Machines the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/371.webp
+ alt: 'Australia from GoldCoastSewingMachines'
 ---
 
 # Gold Coast Sewing Machines

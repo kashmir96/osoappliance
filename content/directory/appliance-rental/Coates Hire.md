@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/coates-hire.webp
-    alt: Cover image for Coates Hire the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/3.webp
+ alt: 'Australia from CoatesHire'
 ---
 
 # Coates Hire

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/household-appliance-parts-repairs.webp
-    alt: Cover image for Household Appliance Parts Repairs the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/271.webp
+ alt: 'Australia from HouseholdAppliancePartsRepairs'
 ---
 
 # Household Appliance Parts Repairs

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gastek-australia.webp
-    alt: Cover image for GasTek Australia the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/39.webp
+ alt: 'Australia from GasTekAustralia'
 ---
 
 # GasTek Australia

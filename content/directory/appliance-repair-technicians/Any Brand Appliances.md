@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/any-brand-appliances.webp
-    alt: Cover image for Any Brand Appliances the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/240.webp
+ alt: 'UnitedStates from AnyBrandAppliances'
 ---
 
 # Any Brand Appliances

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-for-event-la.webp
-    alt: Cover image for Rent For Event LA the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/122.webp
+ alt: 'UnitedStates from RentForEventLA'
 ---
 
 # Rent For Event LA

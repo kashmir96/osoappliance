@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mazlin-electrical-services.webp
-    alt: Cover image for Mazlin Electrical Services the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/100.webp
+ alt: 'Australia from MazlinElectricalServices'
 ---
 
 # Mazlin Electrical Services

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/michael-refrigeration-and-air-conditioning-servicesrepair-industrial-compressor-darwin.webp
-    alt: Cover image for Michael Refrigeration and Air conditioning ServicesRepair Industrial Compressor Darwin the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/258.webp
+ alt: 'Australia from MichaelRefrigerationandAirconditioningServicesRepairIndustrialCompressorDarwin'
 ---
 
 # Michael Refrigeration and Air conditioning ServicesRepair Industrial Compressor Darwin

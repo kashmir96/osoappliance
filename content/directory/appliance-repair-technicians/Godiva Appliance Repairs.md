@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/godiva-appliance-repairs.webp
-    alt: Cover image for Godiva Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/197.webp
+ alt: 'UnitedKingdom from GodivaApplianceRepairs'
 ---
 
 # Godiva Appliance Repairs

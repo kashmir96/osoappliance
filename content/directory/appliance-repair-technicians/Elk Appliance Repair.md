@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/elk-appliance-repair.webp
-    alt: Cover image for Elk Appliance Repair the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/53.webp
+ alt: 'UnitedStates from ElkApplianceRepair'
 ---
 
 # Elk Appliance Repair

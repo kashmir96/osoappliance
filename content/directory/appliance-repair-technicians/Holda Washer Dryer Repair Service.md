@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/holda-washer-dryer-repair-service.webp
-    alt: Cover image for Holda Washer Dryer Repair Service the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/48.webp
+ alt: 'UnitedStates from HoldaWasherDryerRepairService'
 ---
 
 # Holda Washer Dryer Repair Service

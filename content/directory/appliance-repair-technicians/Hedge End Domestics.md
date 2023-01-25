@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hedge-end-domestics.webp
-    alt: Cover image for Hedge End Domestics the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/190.webp
+ alt: 'UnitedKingdom from HedgeEndDomestics'
 ---
 
 # Hedge End Domestics

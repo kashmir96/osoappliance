@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ais-domestic-appliance-repairs.webp
-    alt: Cover image for AIS Domestic Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/283.webp
+ alt: 'UnitedKingdom from AISDomesticApplianceRepairs'
 ---
 
 # AIS Domestic Appliance Repairs

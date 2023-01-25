@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/appliancetech.webp
- alt: 'Logo for ApplianceTech the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/58.webp
+ alt: 'NewZealand from appliancetech'
 ---
 
 # ApplianceTech is an Appliance Repair Technician Company operating in Christchurch, New Zealand.

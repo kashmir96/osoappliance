@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domestic-general.webp
-    alt: Cover image for Domestic General the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/244.webp
+ alt: 'UnitedKingdom from DomesticGeneral'
 ---
 
 # Domestic General

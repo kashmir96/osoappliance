@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/projection-plus.webp
-    alt: Cover image for Projection Plus the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/182.webp
+ alt: 'Australia from ProjectionPlus'
 ---
 
 # Projection Plus

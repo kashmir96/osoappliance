@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hawker-ac-refrigeration.webp
-    alt: Cover image for Hawker AC Refrigeration the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/180.webp
+ alt: 'Australia from HawkerACRefrigeration'
 ---
 
 # Hawker AC Refrigeration

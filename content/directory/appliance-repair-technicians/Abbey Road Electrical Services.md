@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abbey-road-electrical-services.webp
-    alt: Cover image for Abbey Road Electrical Services the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/345.webp
+ alt: 'UnitedKingdom from AbbeyRoadElectricalServices'
 ---
 
 # Abbey Road Electrical Services

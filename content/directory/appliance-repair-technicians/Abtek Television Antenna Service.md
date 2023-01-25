@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abtek-television-antenna-service.webp
-    alt: Cover image for Abtek Television Antenna Service the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/230.webp
+ alt: 'Australia from AbtekTelevisionAntennaService'
 ---
 
 # Abtek Television Antenna Service

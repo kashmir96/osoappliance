@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/silver-lake-maytag-repair.webp
-    alt: Cover image for Silver Lake Maytag Repair the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/134.webp
+ alt: 'UnitedStates from SilverLakeMaytagRepair'
 ---
 
 # Silver Lake Maytag Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-fridge.webp
-    alt: Cover image for Mr Fridge the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/94.webp
+ alt: 'UnitedStates from MrFridge'
 ---
 
 # Mr Fridge

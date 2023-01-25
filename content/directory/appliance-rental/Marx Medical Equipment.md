@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/marx-medical-equipment.webp
-    alt: Cover image for Marx Medical Equipment the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/395.webp
+ alt: 'UnitedStates from MarxMedicalEquipment'
 ---
 
 # Marx Medical Equipment

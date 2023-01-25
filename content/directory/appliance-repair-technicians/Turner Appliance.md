@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/turner-appliance.webp
-    alt: Cover image for Turner Appliance the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/137.webp
+ alt: 'UnitedStates from TurnerAppliance'
 ---
 
 # Turner Appliance

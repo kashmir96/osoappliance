@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ro-appliance-repair-co.webp
-    alt: Cover image for RO Appliance Repair Co the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/348.webp
+ alt: 'UnitedStates from ROApplianceRepairCo'
 ---
 
 # RO Appliance Repair Co

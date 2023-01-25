@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hanson-domestics.webp
-    alt: Cover image for Hanson domestics the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/70.webp
+ alt: 'UnitedKingdom from Hansondomestics'
 ---
 
 # Hanson domestics

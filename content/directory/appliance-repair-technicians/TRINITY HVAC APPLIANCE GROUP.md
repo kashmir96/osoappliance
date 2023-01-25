@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/trinity-hvac-appliance-group.webp
-    alt: Cover image for TRINITY HVAC APPLIANCE GROUP the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/101.webp
+ alt: 'UnitedStates from TRINITYHVACAPPLIANCEGROUP'
 ---
 
 # TRINITY HVAC APPLIANCE GROUP

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/advanced-electrical-services-and-solutions-pty-ltd.webp
-    alt: Cover image for Advanced Electrical Services and Solutions PTY LTD the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/274.webp
+ alt: 'Australia from AdvancedElectricalServicesandSolutionsPTYLTD'
 ---
 
 # Advanced Electrical Services and Solutions PTY LTD

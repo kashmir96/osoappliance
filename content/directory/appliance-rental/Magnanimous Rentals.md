@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/magnanimous-rentals.webp
-    alt: Cover image for Magnanimous Rentals the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/195.webp
+ alt: 'UnitedStates from MagnanimousRentals'
 ---
 
 # Magnanimous Rentals

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/think-gas-heating-services-ltd.webp
-    alt: Cover image for THINK GAS HEATING SERVICES LTD the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/174.webp
+ alt: 'UnitedKingdom from THINKGASHEATINGSERVICESLTD'
 ---
 
 # THINK GAS HEATING SERVICES LTD

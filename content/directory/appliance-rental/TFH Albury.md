@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tfh-albury.webp
-    alt: Cover image for TFH Albury the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/14.webp
+ alt: 'Australia from TFHAlbury'
 ---
 
 # TFH Albury

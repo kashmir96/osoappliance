@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jk-domestics-nw-ltd.webp
-    alt: Cover image for JK Domestics NW Ltd the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/262.webp
+ alt: 'UnitedKingdom from JKDomesticsNWLtd'
 ---
 
 # JK Domestics NW Ltd

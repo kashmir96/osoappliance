@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/precision-plumbing-heating-and-cooling.webp
-    alt: Cover image for Precision Plumbing Heating and Cooling the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/171.webp
+ alt: 'Australia from PrecisionPlumbingHeatingandCooling'
 ---
 
 # Precision Plumbing Heating and Cooling

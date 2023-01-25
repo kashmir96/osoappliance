@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/spares-4-homes.webp
- alt: 'Logo for Spares 4 Homes the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/184.webp
+ alt: 'UnitedKingdom from spares4homes'
 ---
 
 # Spares 4 Homes is an Appliance Parts Supplier from United Kingdom.

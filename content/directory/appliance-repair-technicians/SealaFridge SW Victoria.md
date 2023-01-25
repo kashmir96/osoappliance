@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sealafridge-sw-victoria.webp
-    alt: Cover image for SealaFridge SW Victoria the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/87.webp
+ alt: 'Australia from SealaFridgeSWVictoria'
 ---
 
 # SealaFridge SW Victoria

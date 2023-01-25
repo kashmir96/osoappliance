@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/recliner-furniture-repairs.webp
-    alt: Cover image for Recliner Furniture Repairs the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/166.webp
+ alt: 'UnitedKingdom from ReclinerFurnitureRepairs'
 ---
 
 # Recliner Furniture Repairs

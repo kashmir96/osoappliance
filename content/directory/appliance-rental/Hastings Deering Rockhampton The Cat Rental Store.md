@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hastings-deering-rockhampton-the-cat-rental-store.webp
-    alt: Cover image for Hastings Deering Rockhampton The Cat Rental Store the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/353.webp
+ alt: 'Australia from HastingsDeeringRockhamptonTheCatRentalStore'
 ---
 
 # Hastings Deering Rockhampton The Cat Rental Store

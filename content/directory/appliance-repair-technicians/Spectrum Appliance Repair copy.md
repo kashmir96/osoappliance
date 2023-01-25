@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/spectrum-appliance-repair.webp
-    alt: Cover image for Spectrum Appliance Repair the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/179.webp
+ alt: 'UnitedStates from SpectrumApplianceRepaircopy'
 ---
 
 # Spectrum Appliance Repair

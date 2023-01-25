@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nadran-service.webp
-    alt: Cover image for Nadran Service the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/183.webp
+ alt: 'Australia from NadranService'
 ---
 
 # Nadran Service

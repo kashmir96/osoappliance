@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/spares-2-repair.webp
- alt: 'Logo for Spares 2 Repair the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/103.webp
+ alt: 'UnitedKingdom from spares2repair'
 ---
 
 # Spares 2 Repair is an Appliance Parts Supplier from United Kingdom.

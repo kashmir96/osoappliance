@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tas-leak-detection.webp
-    alt: Cover image for Tas Leak Detection the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/46.webp
+ alt: 'Australia from TasLeakDetection'
 ---
 
 # Tas Leak Detection

@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/cool-air.webp
- alt: 'Logo for Cool Air the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/258.webp
+ alt: 'NewZealand from coolair'
 ---
 
 # Cool Air is an Appliance Repair Technician Company operating in Timaru, New Zealand.

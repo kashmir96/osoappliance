@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-good-appliance-guy-inc.webp
-    alt: Cover image for A Good Appliance Guy Inc the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/155.webp
+ alt: 'UnitedStates from AGoodApplianceGuyInc'
 ---
 
 # A Good Appliance Guy Inc

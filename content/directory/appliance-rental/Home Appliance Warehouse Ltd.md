@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/home-appliance-warehouse-ltd.webp
-    alt: Cover image for Home Appliance Warehouse Ltd the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/296.webp
+ alt: 'UnitedKingdom from HomeApplianceWarehouseLtd'
 ---
 
 # Home Appliance Warehouse Ltd

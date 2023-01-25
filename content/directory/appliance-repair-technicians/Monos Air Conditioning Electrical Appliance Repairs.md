@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/monos-air-conditioning-electrical-appliance-repairs.webp
-    alt: Cover image for Monos Air Conditioning Electrical Appliance Repairs the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/385.webp
+ alt: 'Australia from MonosAirConditioningElectricalApplianceRepairs'
 ---
 
 # Monos Air Conditioning Electrical Appliance Repairs

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/act-photo-booth-photo-booth-hire-canberra.webp
-    alt: Cover image for ACT Photo Booth Photo Booth Hire Canberra the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/75.webp
+ alt: 'Australia from ACTPhotoBoothPhotoBoothHireCanberra'
 ---
 
 # ACT Photo Booth Photo Booth Hire Canberra

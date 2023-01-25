@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domestic-appliance-helpline-ltd.webp
-    alt: Cover image for Domestic Appliance Helpline Ltd the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/81.webp
+ alt: 'UnitedKingdom from DomesticApplianceHelplineLtduk'
 ---
 
 # Domestic Appliance Helpline Ltd

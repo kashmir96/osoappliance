@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dst-plumbing.webp
-    alt: Cover image for DST plumbing the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/218.webp
+ alt: 'Australia from DSTplumbing'
 ---
 
 # DST plumbing

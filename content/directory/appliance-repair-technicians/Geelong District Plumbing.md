@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/geelong-district-plumbing.webp
-    alt: Cover image for Geelong District Plumbing the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/334.webp
+ alt: 'Australia from GeelongDistrictPlumbing'
 ---
 
 # Geelong District Plumbing

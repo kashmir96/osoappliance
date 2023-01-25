@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/beechers-appliances-llc.webp
-    alt: Cover image for Beechers appliances llc the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/359.webp
+ alt: 'UnitedStates from Beechersappliancesllc'
 ---
 
 # Beechers appliances llc

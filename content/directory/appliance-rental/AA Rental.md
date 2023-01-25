@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aa-rental.webp
-    alt: Cover image for AA Rental the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/4.webp
+ alt: 'UnitedStates from AARental'
 ---
 
 # AA Rental

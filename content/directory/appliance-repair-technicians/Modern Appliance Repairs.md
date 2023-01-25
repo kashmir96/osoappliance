@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/modern-appliance-repairs.webp
-    alt: Cover image for Modern Appliance Repairs the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/51.webp
+ alt: 'Australia from ModernApplianceRepairs'
 ---
 
 # Modern Appliance Repairs

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/western-appliance-repairs-oven-washing-machine-dishwasher.webp
-    alt: Cover image for Western Appliance Repairs Oven Washing Machine Dishwasher the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/146.webp
+ alt: 'Australia from WesternApplianceRepairsOvenWashingMachineDishwasher'
 ---
 
 # Western Appliance Repairs Oven Washing Machine Dishwasher

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ptr-appliances.webp
-    alt: Cover image for PTR Appliances the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/92.webp
+ alt: 'Australia from PTRAppliances'
 ---
 
 # PTR Appliances

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent4keeps-australia-head-office.webp
-    alt: Cover image for Rent4Keeps Australia Head Office the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/355.webp
+ alt: 'Australia from Rent4KeepsAustraliaHeadOffice'
 ---
 
 # Rent4Keeps Australia Head Office

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/nt-spit-roast-hire.webp
-    alt: Cover image for NT Spit Roast Hire the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/84.webp
+ alt: 'Australia from NTSpitRoastHire'
 ---
 
 # NT Spit Roast Hire

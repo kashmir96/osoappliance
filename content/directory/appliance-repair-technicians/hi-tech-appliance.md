@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/hi-tech-appliance.webp
- alt: 'Logo for Hi-tech Appliance the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/94.webp
+ alt: 'NewZealand from hitechappliance'
 ---
 
 # Hi-tech Appliance is an Appliance Repair Technician Company operating in Auckland, New Zealand.

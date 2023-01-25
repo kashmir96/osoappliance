@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/drtv-service.webp
-    alt: Cover image for drtv Service the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/168.webp
+ alt: 'Australia from drtvService'
 ---
 
 # drtv Service

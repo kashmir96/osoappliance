@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/grants-refrigeration-appliance-service.webp
-    alt: Cover image for Grants Refrigeration Appliance Service the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/104.webp
+ alt: 'Australia from GrantsRefrigerationApplianceService'
 ---
 
 # Grants Refrigeration Appliance Service

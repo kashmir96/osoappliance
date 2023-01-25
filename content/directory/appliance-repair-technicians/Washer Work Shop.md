@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washer-work-shop.webp
-    alt: Cover image for Washer Work Shop the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/149.webp
+ alt: 'UnitedKingdom from WasherWorkShop'
 ---
 
 # Washer Work Shop

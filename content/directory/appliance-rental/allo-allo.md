@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/allo-allo.webp
- alt: 'Logo for Allo Allo the Appliance Rental business from Auckland, New Zealand'
+cover:
+ image: /img/laundryappliance/173.webp
+ alt: 'NewZealand from alloallo'
 ---
 
 Allo Allo is an Appliance Rental business located in Auckland, New Zealand. 

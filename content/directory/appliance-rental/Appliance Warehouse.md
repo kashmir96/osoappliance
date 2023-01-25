@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/appliance-warehouse.webp
-    alt: Cover image for Appliance Warehouse the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/288.webp
+ alt: 'UnitedStates from ApplianceWarehouse'
 ---
 
 # Appliance Warehouse

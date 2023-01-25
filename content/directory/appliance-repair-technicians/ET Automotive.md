@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/et-automotive.webp
-    alt: Cover image for ET Automotive the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/372.webp
+ alt: 'Australia from ETAutomotive'
 ---
 
 # ET Automotive

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/judah-appliance-repair.webp
-    alt: Cover image for Judah Appliance Repair the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/190.webp
+ alt: 'UnitedStates from JudahApplianceRepair'
 ---
 
 # Judah Appliance Repair

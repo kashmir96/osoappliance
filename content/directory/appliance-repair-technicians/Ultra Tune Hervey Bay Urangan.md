@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ultra-tune-hervey-bay-urangan.webp
-    alt: Cover image for Ultra Tune Hervey Bay Urangan the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/111.webp
+ alt: 'Australia from UltraTuneHerveyBayUrangan'
 ---
 
 # Ultra Tune Hervey Bay Urangan

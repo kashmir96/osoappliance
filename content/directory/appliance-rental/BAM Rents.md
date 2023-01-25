@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bam-rents.webp
-    alt: Cover image for BAM Rents the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/17.webp
+ alt: 'UnitedStates from BAMRents'
 ---
 
 # BAM Rents

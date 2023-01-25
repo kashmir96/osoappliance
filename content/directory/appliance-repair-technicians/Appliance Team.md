@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-team.webp
-    alt: Cover image for Appliance Team the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/26.webp
+ alt: 'UnitedKingdom from ApplianceTeam'
 ---
 
 # Appliance Team

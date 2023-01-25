@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/expert-domestic-appliance-services-ltd.webp
-    alt: Cover image for Expert Domestic Appliance Services Ltd the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/389.webp
+ alt: 'UnitedKingdom from ExpertDomesticApplianceServicesLtd'
 ---
 
 # Expert Domestic Appliance Services Ltd

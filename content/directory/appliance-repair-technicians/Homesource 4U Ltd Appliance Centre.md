@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/homesource-4u-ltd-appliance-centre.webp
-    alt: Cover image for Homesource 4U Ltd Appliance Centre the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/333.webp
+ alt: 'UnitedKingdom from Homesource4ULtdApplianceCentre'
 ---
 
 # Homesource 4U Ltd Appliance Centre

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/urgent-appliance-service.webp
-    alt: Cover image for Urgent Appliance Service the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/222.webp
+ alt: 'UnitedStates from UrgentApplianceService'
 ---
 
 # Urgent Appliance Service

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/naborlee.webp
-    alt: Cover image for naborlee the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/231.webp
+ alt: 'Australia from naborlee'
 ---
 
 # naborlee

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/good-tech-appliance-services.webp
-    alt: Cover image for Good Tech Appliance Services the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/73.webp
+ alt: 'UnitedStates from GoodTechApplianceServices'
 ---
 
 # Good Tech Appliance Services

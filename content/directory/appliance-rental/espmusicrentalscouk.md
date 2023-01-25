@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/espmusicrentalscouk.webp
-    alt: Cover image for espmusicrentalscouk the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/18.webp
+ alt: 'UnitedKingdom from espmusicrentalscouk'
 ---
 
 # espmusicrentalscouk

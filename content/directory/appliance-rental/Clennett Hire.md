@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/clennett-hire.webp
-    alt: Cover image for Clennett Hire the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/151.webp
+ alt: 'Australia from ClennettHire'
 ---
 
 # Clennett Hire

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/jaycar-electronics.webp
-    alt: Cover image for Jaycar Electronics the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/22.webp
+ alt: 'Australia from JaycarElectronics'
 ---
 
 # Jaycar Electronics

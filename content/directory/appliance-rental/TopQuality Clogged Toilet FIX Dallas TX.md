@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/topquality-clogged-toilet-fix-dallas-tx.webp
-    alt: Cover image for TopQuality Clogged Toilet FIX Dallas TX the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/389.webp
+ alt: 'UnitedStates from TopQualityCloggedToiletFIXDallasTX'
 ---
 
 # TopQuality Clogged Toilet FIX Dallas TX

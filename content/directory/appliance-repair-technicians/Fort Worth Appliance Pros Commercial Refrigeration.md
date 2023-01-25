@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fort-worth-appliance-pros-commercial-refrigeration.webp
-    alt: Cover image for Fort Worth Appliance Pros Commercial Refrigeration the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/240.webp
+ alt: 'UnitedStates from FortWorthApplianceProsCommercialRefrigeration'
 ---
 
 # Fort Worth Appliance Pros Commercial Refrigeration

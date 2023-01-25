@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ideal-appliance-services.webp
-    alt: Cover image for Ideal Appliance Services the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/163.webp
+ alt: 'UnitedStates from IdealApplianceServices'
 ---
 
 # Ideal Appliance Services

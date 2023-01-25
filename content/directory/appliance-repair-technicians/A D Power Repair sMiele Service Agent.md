@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-d-power-repair-smiele-service-agent.webp
-    alt: Cover image for A D Power Repair sMiele Service Agent the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/110.webp
+ alt: 'Australia from ADPowerRepairsMieleServiceAgent'
 ---
 
 # A D Power Repair sMiele Service Agent

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/zetland-plumbing-repairs.webp
-    alt: Cover image for Zetland Plumbing Repairs the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/128.webp
+ alt: 'Australia from ZetlandPlumbingRepairs'
 ---
 
 # Zetland Plumbing Repairs

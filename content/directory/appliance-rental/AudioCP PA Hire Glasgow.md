@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/audiocp-pa-hire-glasgow.webp
-    alt: Cover image for AudioCP PA Hire Glasgow the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/181.webp
+ alt: 'UnitedKingdom from AudioCPPAHireGlasgow'
 ---
 
 # AudioCP PA Hire Glasgow

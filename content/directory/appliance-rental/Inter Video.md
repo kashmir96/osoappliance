@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/inter-video.webp
-    alt: Cover image for Inter Video the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/113.webp
+ alt: 'UnitedStates from InterVideo'
 ---
 
 # Inter Video

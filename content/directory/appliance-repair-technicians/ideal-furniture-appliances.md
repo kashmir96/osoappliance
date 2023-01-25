@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Oamaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/ideal-furniture-&-appliances.webp
- alt: 'Logo for Ideal Furniture & Appliances the New Zealand from Oamaru'
+cover:
+ image: /img/laundryappliance/205.webp
+ alt: 'NewZealand from idealfurnitureappliances'
 ---
 
 # Ideal Furniture & Appliances is an Appliance Repair Technician Company operating in Oamaru, New Zealand.

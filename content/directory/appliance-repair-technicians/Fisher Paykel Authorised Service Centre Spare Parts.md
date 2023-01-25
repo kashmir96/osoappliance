@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fisher-paykel-authorised-service-centre-spare-parts.webp
-    alt: Cover image for Fisher Paykel Authorised Service Centre Spare Parts the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/141.webp
+ alt: 'Australia from FisherPaykelAuthorisedServiceCentreSpareParts'
 ---
 
 # Fisher Paykel Authorised Service Centre Spare Parts

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-leather-doctor-albury-wodonga.webp
-    alt: Cover image for The Leather Doctor Albury Wodonga the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/66.webp
+ alt: 'Australia from TheLeatherDoctorAlburyWodonga'
 ---
 
 # The Leather Doctor Albury Wodonga

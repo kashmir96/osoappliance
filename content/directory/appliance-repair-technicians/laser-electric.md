@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Oamaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/laser-electric.webp
- alt: 'Logo for Laser Electric the New Zealand from Oamaru'
+cover:
+ image: /img/laundryappliance/167.webp
+ alt: 'NewZealand from laserelectric'
 ---
 
 # Laser Electric is an Appliance Repair Technician Company operating in Oamaru, New Zealand.

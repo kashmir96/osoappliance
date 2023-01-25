@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/luminous-audiovisual.webp
-    alt: Cover image for LUMINOUS AUDIOVISUAL the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/362.webp
+ alt: 'Australia from LUMINOUSAUDIOVISUAL'
 ---
 
 # LUMINOUS AUDIOVISUAL

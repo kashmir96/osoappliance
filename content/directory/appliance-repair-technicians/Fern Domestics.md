@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fern-domestics.webp
-    alt: Cover image for Fern Domestics the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/96.webp
+ alt: 'UnitedKingdom from FernDomestics'
 ---
 
 # Fern Domestics

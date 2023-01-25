@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/appliance-rental.webp
- alt: 'Logo for Appliance Rental the Appliance Rental business from Wellington, New Zealand'
+cover:
+ image: /img/laundryappliance/342.webp
+ alt: 'NewZealand from appliancerental'
 ---
 
 Appliance Rental is an Appliance Rental business located in Wellington, New Zealand. 

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ge-appliance-repair.webp
-    alt: Cover image for GE Appliance Repair the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/98.webp
+ alt: 'UnitedStates from GEApplianceRepaircopy'
 ---
 
 # GE Appliance Repair

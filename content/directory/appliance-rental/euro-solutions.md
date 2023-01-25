@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/euro-solutions.webp
- alt: 'Logo for Euro Solutions the Appliance Rental business from Wellington, New Zealand'
+cover:
+ image: /img/laundryappliance/338.webp
+ alt: 'NewZealand from eurosolutions'
 ---
 
 Euro Solutions is an Appliance Rental business located in Wellington, New Zealand. 

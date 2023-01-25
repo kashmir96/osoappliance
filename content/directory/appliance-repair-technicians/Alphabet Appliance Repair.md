@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/alphabet-appliance-repair.webp
-    alt: Cover image for Alphabet Appliance Repair the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/25.webp
+ alt: 'UnitedStates from AlphabetApplianceRepair'
 ---
 
 # Alphabet Appliance Repair

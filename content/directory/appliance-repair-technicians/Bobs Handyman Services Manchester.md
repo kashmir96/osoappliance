@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bobs-handyman-services-manchester.webp
-    alt: Cover image for Bobs Handyman Services Manchester the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/363.webp
+ alt: 'UnitedKingdom from BobsHandymanServicesManchester'
 ---
 
 # Bobs Handyman Services Manchester

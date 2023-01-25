@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Parts, Test and Tag"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-parts,-test-and-tag/appliance-repairs-auckland.webp
- alt: 'Logo for Appliance Repairs Auckland the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/121.webp
+ alt: 'NewZealand from appliancerepairsauckland'
 ---
 
 # Appliance Repairs Auckland is an Appliance Repair Technician, Parts, Test and Tag Company operating in Auckland, New Zealand.

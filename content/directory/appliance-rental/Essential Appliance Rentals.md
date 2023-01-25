@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/essential-appliance-rentals.webp
-    alt: Cover image for Essential Appliance Rentals the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/1.webp
+ alt: 'Australia from EssentialApplianceRentals'
 ---
 
 # Essential Appliance Rentals

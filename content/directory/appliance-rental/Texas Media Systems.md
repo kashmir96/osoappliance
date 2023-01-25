@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/texas-media-systems.webp
-    alt: Cover image for Texas Media Systems the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/170.webp
+ alt: 'UnitedStates from TexasMediaSystems'
 ---
 
 # Texas Media Systems

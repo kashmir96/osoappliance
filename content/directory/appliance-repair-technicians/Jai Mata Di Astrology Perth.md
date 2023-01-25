@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jai-mata-di-astrology-perth.webp
-    alt: Cover image for Jai Mata Di Astrology Perth the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/88.webp
+ alt: 'Australia from JaiMataDiAstrologyPerth'
 ---
 
 # Jai Mata Di Astrology Perth

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/castleford-domestic-appliances-ltd.webp
-    alt: Cover image for Castleford Domestic Appliances Ltd the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/217.webp
+ alt: 'UnitedKingdom from CastlefordDomesticAppliancesLtd'
 ---
 
 # Castleford Domestic Appliances Ltd

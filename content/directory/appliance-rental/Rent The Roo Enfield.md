@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo-enfield.webp
-    alt: Cover image for Rent The Roo Enfield the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/334.webp
+ alt: 'Australia from RentTheRooEnfield'
 ---
 
 # Rent The Roo Enfield

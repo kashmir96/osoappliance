@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/alz-group.webp
-    alt: Cover image for ALZ Group the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/8.webp
+ alt: 'Australia from ALZGroup'
 ---
 
 # ALZ Group

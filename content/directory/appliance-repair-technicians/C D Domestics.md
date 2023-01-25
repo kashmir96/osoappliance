@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/c-d-domestics.webp
-    alt: Cover image for C D Domestics the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/141.webp
+ alt: 'UnitedKingdom from CDDomestics'
 ---
 
 # C D Domestics

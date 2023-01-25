@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/laser-group.webp
- alt: 'Logo for Laser Group the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/372.webp
+ alt: 'NewZealand from lasergroup'
 ---
 
 # Laser Group is an Appliance Repair Technician Company operating in Timaru, New Zealand.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ark-appliance-repairs.webp
-    alt: Cover image for Ark Appliance Repairs the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/25.webp
+ alt: 'Australia from ArkApplianceRepairs'
 ---
 
 # Ark Appliance Repairs

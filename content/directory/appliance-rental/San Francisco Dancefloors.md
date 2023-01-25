@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/san-francisco-dancefloors.webp
-    alt: Cover image for San Francisco Dancefloors the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/18.webp
+ alt: 'UnitedStates from SanFranciscoDancefloors'
 ---
 
 # San Francisco Dancefloors

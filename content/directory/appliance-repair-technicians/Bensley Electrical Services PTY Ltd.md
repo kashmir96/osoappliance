@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bensley-electrical-services-pty-ltd.webp
-    alt: Cover image for Bensley Electrical Services PTY Ltd the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/74.webp
+ alt: 'Australia from BensleyElectricalServicesPTYLtd'
 ---
 
 # Bensley Electrical Services PTY Ltd

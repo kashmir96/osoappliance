@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/celsius-heating-and-cooling.webp
-    alt: Cover image for Celsius Heating and Cooling the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/144.webp
+ alt: 'Australia from CelsiusHeatingandCooling'
 ---
 
 # Celsius Heating and Cooling

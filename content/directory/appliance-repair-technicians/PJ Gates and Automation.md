@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pj-gates-and-automation.webp
-    alt: Cover image for PJ Gates and Automation the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/198.webp
+ alt: 'UnitedKingdom from PJGatesandAutomation'
 ---
 
 # PJ Gates and Automation

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hoffer-furniture.webp
-    alt: Cover image for Hoffer Furniture the United States based Appliance Rental servicing Houston 
+ image: /img/laundryappliance/5.webp
+ alt: 'UnitedStates from HofferFurniture'
 ---
 
 # Hoffer Furniture

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/oliver-space.webp
-    alt: Cover image for Oliver Space the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/190.webp
+ alt: 'UnitedStates from OliverSpace'
 ---
 
 # Oliver Space

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/westinghouse-oven-repairs-oven-man-adelaide.webp
-    alt: Cover image for Westinghouse Oven Repairs Oven Man Adelaide the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/262.webp
+ alt: 'Australia from WestinghouseOvenRepairsOvenManAdelaide'
 ---
 
 # Westinghouse Oven Repairs Oven Man Adelaide

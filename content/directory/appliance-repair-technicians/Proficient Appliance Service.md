@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/proficient-appliance-service.webp
-    alt: Cover image for Proficient Appliance Service the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/165.webp
+ alt: 'Australia from ProficientApplianceService'
 ---
 
 # Proficient Appliance Service

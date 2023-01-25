@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/detlevs-electrical-commercial-and-residential-electrician-canberra.webp
-    alt: Cover image for Detlevs Electrical Commercial and Residential Electrician Canberra the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/193.webp
+ alt: 'Australia from DetlevsElectricalCommercialandResidentialElectricianCanberra'
 ---
 
 # Detlevs Electrical Commercial and Residential Electrician Canberra

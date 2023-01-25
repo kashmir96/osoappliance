@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ovenrepairs-r-us.webp
-    alt: Cover image for OvenRepairs R Us the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/97.webp
+ alt: 'UnitedKingdom from OvenRepairsRUs'
 ---
 
 # OvenRepairs R Us

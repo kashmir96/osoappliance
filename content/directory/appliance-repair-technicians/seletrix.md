@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Wanaka"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/seletrix.webp
- alt: 'Logo for Seletrix the New Zealand from Wanaka'
+cover:
+ image: /img/laundryappliance/39.webp
+ alt: 'NewZealand from seletrix'
 ---
 
 # Seletrix is an Appliance Repair Technician Company operating in Wanaka, New Zealand.

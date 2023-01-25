@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/glazers-camera-rentals.webp
-    alt: Cover image for Glazers Camera Rentals the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/384.webp
+ alt: 'UnitedStates from GlazersCameraRentals'
 ---
 
 # Glazers Camera Rentals

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/real-appliance-repair-llc.webp
-    alt: Cover image for Real Appliance Repair LLC the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/253.webp
+ alt: 'UnitedStates from RealApplianceRepairLLC'
 ---
 
 # Real Appliance Repair LLC

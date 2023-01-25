@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumbcall-hervey-bay.webp
-    alt: Cover image for Plumbcall Hervey Bay the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/264.webp
+ alt: 'Australia from PlumbcallHerveyBay'
 ---
 
 # Plumbcall Hervey Bay

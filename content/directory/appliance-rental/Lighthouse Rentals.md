@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/lighthouse-rentals.webp
-    alt: Cover image for Lighthouse Rentals the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/159.webp
+ alt: 'Australia from LighthouseRentals'
 ---
 
 # Lighthouse Rentals

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sunshine-slushies.webp
-    alt: Cover image for Sunshine Slushies the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/396.webp
+ alt: 'Australia from SunshineSlushies'
 ---
 
 # Sunshine Slushies

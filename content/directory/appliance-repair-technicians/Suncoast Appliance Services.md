@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/suncoast-appliance-services.webp
-    alt: Cover image for Suncoast Appliance Services the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/117.webp
+ alt: 'Australia from SuncoastApplianceServices'
 ---
 
 # Suncoast Appliance Services

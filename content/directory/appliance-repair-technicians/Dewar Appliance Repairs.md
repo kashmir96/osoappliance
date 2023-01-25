@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dewar-appliance-repairs.webp
-    alt: Cover image for Dewar Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/282.webp
+ alt: 'UnitedKingdom from DewarApplianceRepairs'
 ---
 
 # Dewar Appliance Repairs

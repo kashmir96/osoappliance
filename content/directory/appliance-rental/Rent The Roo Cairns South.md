@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo-cairns-south.webp
-    alt: Cover image for Rent The Roo Cairns South the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/294.webp
+ alt: 'Australia from RentTheRooCairnsSouth'
 ---
 
 # Rent The Roo Cairns South

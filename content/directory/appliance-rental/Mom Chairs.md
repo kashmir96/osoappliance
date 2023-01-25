@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mom-chairs.webp
-    alt: Cover image for Mom Chairs the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/98.webp
+ alt: 'UnitedStates from MomChairs'
 ---
 
 # Mom Chairs

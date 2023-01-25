@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumbspec-albury-wodonga-plumbing-gas-and-air-conditioning-services.webp
-    alt: Cover image for PlumbSpec Albury Wodonga Plumbing Gas and Air Conditioning Services the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/150.webp
+ alt: 'Australia from PlumbSpecAlburyWodongaPlumbingGasandAirConditioningServices'
 ---
 
 # PlumbSpec Albury Wodonga Plumbing Gas and Air Conditioning Services

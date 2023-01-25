@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sealafridge-wide-bay.webp
-    alt: Cover image for SealaFridge Wide Bay the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/282.webp
+ alt: 'Australia from SealaFridgeWideBay'
 ---
 
 # SealaFridge Wide Bay

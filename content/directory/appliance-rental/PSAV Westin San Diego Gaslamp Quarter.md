@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/psav-westin-san-diego-gaslamp-quarter.webp
-    alt: Cover image for PSAV Westin San Diego Gaslamp Quarter the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/155.webp
+ alt: 'UnitedStates from PSAVWestinSanDiegoGaslampQuarter'
 ---
 
 # PSAV Westin San Diego Gaslamp Quarter

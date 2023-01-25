@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Rotorua"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/robertson-home-appliances.webp
- alt: 'Logo for Robertson Home Appliances the New Zealand from Rotorua'
+cover:
+ image: /img/laundryappliance/78.webp
+ alt: 'NewZealand from robertsonhomeappliances'
 ---
 
 # Robertson Home Appliances is an Appliance Repair Technician Company operating in Rotorua, New Zealand.

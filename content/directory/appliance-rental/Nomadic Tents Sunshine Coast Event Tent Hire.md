@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/nomadic-tents-sunshine-coast-event-tent-hire.webp
-    alt: Cover image for Nomadic Tents Sunshine Coast Event Tent Hire the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/276.webp
+ alt: 'Australia from NomadicTentsSunshineCoastEventTentHire'
 ---
 
 # Nomadic Tents Sunshine Coast Event Tent Hire

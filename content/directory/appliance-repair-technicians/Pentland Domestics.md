@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pentland-domestics.webp
-    alt: Cover image for Pentland Domestics the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/298.webp
+ alt: 'UnitedKingdom from PentlandDomestics'
 ---
 
 # Pentland Domestics

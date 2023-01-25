@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hillside-appliance-services-llc.webp
-    alt: Cover image for Hillside Appliance Services LLC the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/299.webp
+ alt: 'UnitedStates from HillsideApplianceServicesLLC'
 ---
 
 # Hillside Appliance Services LLC

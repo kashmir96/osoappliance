@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/event-artillery-perth.webp
-    alt: Cover image for Event Artillery Perth the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/248.webp
+ alt: 'Australia from EventArtilleryPerth'
 ---
 
 # Event Artillery Perth

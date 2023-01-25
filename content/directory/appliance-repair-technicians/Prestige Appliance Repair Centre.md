@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/prestige-appliance-repair-centre.webp
-    alt: Cover image for Prestige Appliance Repair Centre the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/46.webp
+ alt: 'Australia from PrestigeApplianceRepairCentre'
 ---
 
 # Prestige Appliance Repair Centre

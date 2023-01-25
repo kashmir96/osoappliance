@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tv-repair-guys.webp
-    alt: Cover image for TV Repair Guys the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/85.webp
+ alt: 'UnitedKingdom from TVRepairGuys'
 ---
 
 # TV Repair Guys

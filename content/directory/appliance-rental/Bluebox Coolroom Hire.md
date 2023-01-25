@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bluebox-coolroom-hire.webp
-    alt: Cover image for Bluebox Coolroom Hire the Australia based Appliance Rental servicing Geelong 
+ image: /img/laundryappliance/293.webp
+ alt: 'Australia from BlueboxCoolroomHire'
 ---
 
 # Bluebox Coolroom Hire

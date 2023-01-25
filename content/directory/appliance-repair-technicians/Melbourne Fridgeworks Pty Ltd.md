@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/melbourne-fridgeworks-pty-ltd.webp
-    alt: Cover image for Melbourne Fridgeworks Pty Ltd the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/387.webp
+ alt: 'Australia from MelbourneFridgeworksPtyLtd'
 ---
 
 # Melbourne Fridgeworks Pty Ltd

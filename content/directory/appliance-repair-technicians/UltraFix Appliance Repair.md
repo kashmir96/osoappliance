@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ultrafix-appliance-repair.webp
-    alt: Cover image for UltraFix Appliance Repair the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/277.webp
+ alt: 'UnitedStates from UltraFixApplianceRepair'
 ---
 
 # UltraFix Appliance Repair

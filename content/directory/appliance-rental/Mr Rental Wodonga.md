@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-wodonga.webp
-    alt: Cover image for Mr Rental Wodonga the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/165.webp
+ alt: 'Australia from MrRentalWodonga'
 ---
 
 # Mr Rental Wodonga

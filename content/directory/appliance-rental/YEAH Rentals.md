@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/yeah-rentals.webp
-    alt: Cover image for YEAH Rentals the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/272.webp
+ alt: 'UnitedStates from YEAHRentals'
 ---
 
 # YEAH Rentals

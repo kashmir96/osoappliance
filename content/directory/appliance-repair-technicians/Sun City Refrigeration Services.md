@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sun-city-refrigeration-services.webp
-    alt: Cover image for Sun City Refrigeration Services the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/380.webp
+ alt: 'Australia from SunCityRefrigerationServices'
 ---
 
 # Sun City Refrigeration Services

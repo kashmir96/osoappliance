@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/commercial-appliance-repair.webp
-    alt: Cover image for Commercial Appliance Repair the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/15.webp
+ alt: 'Australia from CommercialApplianceRepair'
 ---
 
 # Commercial Appliance Repair

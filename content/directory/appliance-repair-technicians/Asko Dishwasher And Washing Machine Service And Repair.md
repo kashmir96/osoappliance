@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/asko-dishwasher-and-washing-machine-service-and-repair.webp
-    alt: Cover image for Asko Dishwasher And Washing Machine Service And Repair the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/148.webp
+ alt: 'Australia from AskoDishwasherAndWashingMachineServiceAndRepair'
 ---
 
 # Asko Dishwasher And Washing Machine Service And Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/major-appliance-parts.webp
-    alt: Cover image for Major Appliance Parts the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/29.webp
+ alt: 'UnitedStates from MajorApplianceParts'
 ---
 
 # Major Appliance Parts

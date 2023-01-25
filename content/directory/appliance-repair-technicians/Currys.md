@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/currys.webp
-    alt: Cover image for Currys the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/243.webp
+ alt: 'UnitedKingdom from Currys'
 ---
 
 # Currys

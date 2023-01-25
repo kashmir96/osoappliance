@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/one-way-appliance-repair.webp
-    alt: Cover image for One Way Appliance Repair the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/87.webp
+ alt: 'UnitedStates from OneWayApplianceRepair'
 ---
 
 # One Way Appliance Repair

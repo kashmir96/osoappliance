@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/complete-electrical-cq.webp
-    alt: Cover image for Complete Electrical CQ the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/52.webp
+ alt: 'Australia from CompleteElectricalCQ'
 ---
 
 # Complete Electrical CQ

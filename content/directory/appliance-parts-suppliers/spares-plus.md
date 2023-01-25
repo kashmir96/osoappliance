@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/spares-plus.webp
- alt: 'Logo for Spares Plus the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/132.webp
+ alt: 'UnitedKingdom from sparesplus'
 ---
 
 # Spares Plus is an Appliance Parts Supplier from United Kingdom.

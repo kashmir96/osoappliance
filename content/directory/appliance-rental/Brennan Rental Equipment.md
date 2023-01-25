@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/brennan-rental-equipment.webp
-    alt: Cover image for Brennan Rental Equipment the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/129.webp
+ alt: 'UnitedStates from BrennanRentalEquipment'
 ---
 
 # Brennan Rental Equipment

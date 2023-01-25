@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-good-guys-albury.webp
-    alt: Cover image for The Good Guys Albury the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/345.webp
+ alt: 'Australia from TheGoodGuysAlbury'
 ---
 
 # The Good Guys Albury

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/happy-days-jukebox-and-party-hire.webp
-    alt: Cover image for Happy Days Jukebox and Party Hire the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/282.webp
+ alt: 'Australia from HappyDaysJukeboxandPartyHire'
 ---
 
 # Happy Days Jukebox and Party Hire

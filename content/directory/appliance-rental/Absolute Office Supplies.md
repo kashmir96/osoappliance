@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/absolute-office-supplies.webp
-    alt: Cover image for Absolute Office Supplies the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/346.webp
+ alt: 'Australia from AbsoluteOfficeSupplies'
 ---
 
 # Absolute Office Supplies

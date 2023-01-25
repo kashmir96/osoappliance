@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nationwide-appliance-repairs.webp
-    alt: Cover image for Nationwide Appliance Repairs the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/144.webp
+ alt: 'Australia from NationwideApplianceRepairs'
 ---
 
 # Nationwide Appliance Repairs

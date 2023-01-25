@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent4keeps-toowoomba.webp
-    alt: Cover image for Rent4Keeps Toowoomba the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/367.webp
+ alt: 'Australia from Rent4KeepsToowoomba'
 ---
 
 # Rent4Keeps Toowoomba

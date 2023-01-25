@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/appliances-4-rent.webp
-    alt: Cover image for Appliances 4 Rent the United Kingdom based Appliance Rental servicing Bristol 
+ image: /img/laundryappliance/29.webp
+ alt: 'UnitedKingdom from Appliances4Rent'
 ---
 
 # Appliances 4 Rent

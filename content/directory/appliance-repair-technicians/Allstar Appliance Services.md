@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/allstar-appliance-services.webp
-    alt: Cover image for Allstar Appliance Services the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/98.webp
+ alt: 'Australia from AllstarApplianceServices'
 ---
 
 # Allstar Appliance Services

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/burrows-appliance-repair.webp
-    alt: Cover image for Burrows Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/61.webp
+ alt: 'UnitedStates from BurrowsApplianceRepair'
 ---
 
 # Burrows Appliance Repair

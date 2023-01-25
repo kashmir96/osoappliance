@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/master-appliance-repair.webp
-    alt: Cover image for Master Appliance Repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/204.webp
+ alt: 'UnitedStates from MasterApplianceRepair'
 ---
 
 # Master Appliance Repair

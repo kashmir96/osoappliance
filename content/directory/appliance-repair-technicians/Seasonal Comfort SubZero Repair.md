@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/seasonal-comfort-subzero-repair.webp
-    alt: Cover image for Seasonal Comfort SubZero Repair the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/92.webp
+ alt: 'UnitedStates from SeasonalComfortSubZeroRepair'
 ---
 
 # Seasonal Comfort SubZero Repair

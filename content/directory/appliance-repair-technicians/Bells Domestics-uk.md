@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bells-domestics.webp
-    alt: Cover image for Bells Domestics the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/51.webp
+ alt: 'UnitedKingdom from BellsDomesticsuk'
 ---
 
 # Bells Domestics

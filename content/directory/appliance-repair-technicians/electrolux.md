@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Masterton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/electrolux.webp
- alt: 'Logo for Electrolux the New Zealand from Masterton'
+cover:
+ image: /img/laundryappliance/295.webp
+ alt: 'NewZealand from electrolux'
 ---
 
 # Electrolux is an Appliance Repair Technician Company operating in Masterton, New Zealand.

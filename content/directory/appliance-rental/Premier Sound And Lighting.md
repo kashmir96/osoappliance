@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/premier-sound-and-lighting.webp
-    alt: Cover image for Premier Sound And Lighting the United States based Appliance Rental servicing Houston 
+ image: /img/laundryappliance/140.webp
+ alt: 'UnitedStates from PremierSoundAndLighting'
 ---
 
 # Premier Sound And Lighting

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fridge-repair.webp
-    alt: Cover image for Fridge REPAIR the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/226.webp
+ alt: 'Australia from FridgeREPAIR'
 ---
 
 # Fridge REPAIR

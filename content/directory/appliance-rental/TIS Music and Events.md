@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tis-music-and-events.webp
-    alt: Cover image for TIS Music and Events the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/155.webp
+ alt: 'Australia from TISMusicandEvents'
 ---
 
 # TIS Music and Events

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/complete-entertainment.webp
-    alt: Cover image for Complete Entertainment the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/13.webp
+ alt: 'Australia from CompleteEntertainment'
 ---
 
 # Complete Entertainment

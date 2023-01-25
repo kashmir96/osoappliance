@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pp-appliances.webp
-    alt: Cover image for PP Appliances the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/252.webp
+ alt: 'Australia from PPAppliances'
 ---
 
 # PP Appliances

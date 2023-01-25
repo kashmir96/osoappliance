@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/southwest-appliance-repair-of-san-antonio.webp
-    alt: Cover image for Southwest Appliance Repair of San Antonio the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/286.webp
+ alt: 'UnitedStates from SouthwestApplianceRepairofSanAntonio'
 ---
 
 # Southwest Appliance Repair of San Antonio

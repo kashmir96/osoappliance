@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/austin-chair-table-rental.webp
-    alt: Cover image for Austin Chair Table Rental the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/312.webp
+ alt: 'UnitedStates from AustinChairTableRental'
 ---
 
 # Austin Chair Table Rental

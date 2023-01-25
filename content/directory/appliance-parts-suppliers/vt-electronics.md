@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/vt-electronics.webp
- alt: 'Logo for Vt Electronics the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/157.webp
+ alt: 'UnitedKingdom from vtelectronics'
 ---
 
 # Vt Electronics is an Appliance Parts Supplier from United Kingdom.

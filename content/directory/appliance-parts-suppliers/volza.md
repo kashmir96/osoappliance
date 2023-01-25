@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/volza.webp
- alt: 'Logo for Volza the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/105.webp
+ alt: 'Nigeria from volza'
 ---
 
 # Volza is an Appliance Parts Supplier from Nigeria.

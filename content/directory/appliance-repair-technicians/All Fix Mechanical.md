@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-fix-mechanical.webp
-    alt: Cover image for All Fix Mechanical the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/147.webp
+ alt: 'Australia from AllFixMechanical'
 ---
 
 # All Fix Mechanical

@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/jamie-rosanna.webp
- alt: 'Logo for Jamie Rosanna the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/306.webp
+ alt: 'NewZealand from jamierosanna'
 ---
 
 # Jamie Rosanna is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

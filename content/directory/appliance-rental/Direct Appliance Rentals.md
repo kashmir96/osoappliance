@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/direct-appliance-rentals.webp
-    alt: Cover image for Direct Appliance Rentals the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/235.webp
+ alt: 'Australia from DirectApplianceRentals'
 ---
 
 # Direct Appliance Rentals

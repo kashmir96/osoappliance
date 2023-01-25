@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/any-gadget-repair.webp
-    alt: Cover image for Any Gadget Repair the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/2.webp
+ alt: 'UnitedKingdom from AnyGadgetRepair'
 ---
 
 # Any Gadget Repair

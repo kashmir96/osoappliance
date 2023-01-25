@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abc-appliance-repair.webp
-    alt: Cover image for ABC appliance repair the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/365.webp
+ alt: 'UnitedStates from ABCappliancerepair'
 ---
 
 # ABC appliance repair

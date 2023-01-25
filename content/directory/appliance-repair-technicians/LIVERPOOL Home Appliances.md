@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/liverpool-home-appliances.webp
-    alt: Cover image for LIVERPOOL Home Appliances the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/162.webp
+ alt: 'UnitedKingdom from LIVERPOOLHomeAppliances'
 ---
 
 # LIVERPOOL Home Appliances

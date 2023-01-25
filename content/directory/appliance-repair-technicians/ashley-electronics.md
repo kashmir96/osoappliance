@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Taupo"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/ashley-electronics.webp
- alt: 'Logo for Ashley Electronics the New Zealand from Taupo'
+cover:
+ image: /img/laundryappliance/329.webp
+ alt: 'NewZealand from ashleyelectronics'
 ---
 
 # Ashley Electronics is an Appliance Repair Technician Company operating in Taupo, New Zealand.

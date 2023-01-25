@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tca-emergency-solutions.webp
-    alt: Cover image for TCA Emergency Solutions the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/194.webp
+ alt: 'UnitedKingdom from TCAEmergencySolutions'
 ---
 
 # TCA Emergency Solutions

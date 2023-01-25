@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/siemens.webp
- alt: 'Logo for Siemens the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/55.webp
+ alt: 'UnitedKingdom from siemens'
 ---
 
 # Siemens is an Appliance Parts Supplier from United Kingdom.

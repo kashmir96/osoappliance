@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/party-unlimited-rental.webp
-    alt: Cover image for PARTY UNLIMITED RENTAL the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/247.webp
+ alt: 'UnitedStates from PARTYUNLIMITEDRENTAL'
 ---
 
 # PARTY UNLIMITED RENTAL

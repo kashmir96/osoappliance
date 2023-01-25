@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/megasoundz.webp
-    alt: Cover image for MegaSoundz the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/338.webp
+ alt: 'Australia from MegaSoundz'
 ---
 
 # MegaSoundz

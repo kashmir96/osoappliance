@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/local-techs-appliance-repair.webp
-    alt: Cover image for Local Techs Appliance Repair the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/120.webp
+ alt: 'UnitedStates from LocalTechsApplianceRepair'
 ---
 
 # Local Techs Appliance Repair

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/furniture-fitouts.webp
-    alt: Cover image for Furniture Fitouts the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/174.webp
+ alt: 'Australia from FurnitureFitouts'
 ---
 
 # Furniture Fitouts

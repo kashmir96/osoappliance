@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/fashion-furniture-rental-dallas-texas.webp
-    alt: Cover image for Fashion Furniture Rental Dallas Texas the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/392.webp
+ alt: 'UnitedStates from FashionFurnitureRentalDallasTexas'
 ---
 
 # Fashion Furniture Rental Dallas Texas

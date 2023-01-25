@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/holloway-plumbing.webp
-    alt: Cover image for Holloway Plumbing the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/133.webp
+ alt: 'Australia from HollowayPlumbing'
 ---
 
 # Holloway Plumbing

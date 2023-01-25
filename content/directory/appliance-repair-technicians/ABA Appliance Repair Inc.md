@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aba-appliance-repair-inc.webp
-    alt: Cover image for ABA Appliance Repair Inc the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/400.webp
+ alt: 'UnitedStates from ABAApplianceRepairInc'
 ---
 
 # ABA Appliance Repair Inc

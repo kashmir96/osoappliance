@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pacifica-group-ltd.webp
-    alt: Cover image for Pacifica Group Ltd the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/368.webp
+ alt: 'UnitedKingdom from PacificaGroupLtd'
 ---
 
 # Pacifica Group Ltd

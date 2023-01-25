@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dr-dishwasher.webp
-    alt: Cover image for Dr Dishwasher the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/352.webp
+ alt: 'Australia from DrDishwasher'
 ---
 
 # Dr Dishwasher

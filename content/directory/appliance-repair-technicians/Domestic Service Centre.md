@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domestic-service-centre.webp
-    alt: Cover image for Domestic Service Centre the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/247.webp
+ alt: 'UnitedKingdom from DomesticServiceCentre'
 ---
 
 # Domestic Service Centre

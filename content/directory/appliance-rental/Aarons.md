@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aarons.webp
-    alt: Cover image for Aarons the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/191.webp
+ alt: 'UnitedStates from Aarons'
 ---
 
 # Aarons

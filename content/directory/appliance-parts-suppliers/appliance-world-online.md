@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/appliance-world-online.webp
- alt: 'Logo for Appliance World Online the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/44.webp
+ alt: 'UnitedKingdom from applianceworldonline'
 ---
 
 # Appliance World Online is an Appliance Parts Supplier from United Kingdom.

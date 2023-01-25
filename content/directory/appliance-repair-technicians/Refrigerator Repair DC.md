@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/refrigerator-repair-dc.webp
-    alt: Cover image for Refrigerator Repair DC the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/14.webp
+ alt: 'UnitedStates from RefrigeratorRepairDC'
 ---
 
 # Refrigerator Repair DC

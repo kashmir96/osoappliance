@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/obrien-plumbing-maroochydore.webp
-    alt: Cover image for OBrien Plumbing Maroochydore the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/137.webp
+ alt: 'Australia from OBrienPlumbingMaroochydore'
 ---
 
 # OBrien Plumbing Maroochydore

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/city-gas-new-boiler-installations-repairs-service-powerflush.webp
-    alt: Cover image for City Gas New Boiler Installations Repairs Service Powerflush the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/380.webp
+ alt: 'UnitedKingdom from CityGasNewBoilerInstallationsRepairsServicePowerflush'
 ---
 
 # City Gas New Boiler Installations Repairs Service Powerflush

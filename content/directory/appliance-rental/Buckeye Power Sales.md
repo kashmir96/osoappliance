@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Columbus"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/buckeye-power-sales.webp
-    alt: Cover image for Buckeye Power Sales the United States based Appliance Rental servicing Columbus 
+ image: /img/laundryappliance/46.webp
+ alt: 'UnitedStates from BuckeyePowerSales'
 ---
 
 # Buckeye Power Sales

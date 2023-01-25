@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/southwest-appliance-repair-corp.webp
-    alt: Cover image for Southwest Appliance Repair Corp the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/185.webp
+ alt: 'UnitedStates from SouthwestApplianceRepairCorp'
 ---
 
 # Southwest Appliance Repair Corp

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/top-appliances-repair-corporation.webp
-    alt: Cover image for Top Appliances Repair Corporation the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/263.webp
+ alt: 'UnitedStates from TopAppliancesRepairCorporation'
 ---
 
 # Top Appliances Repair Corporation

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/leppard-electrical-appliance-services.webp
-    alt: Cover image for Leppard Electrical Appliance Services the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/88.webp
+ alt: 'UnitedKingdom from LeppardElectricalApplianceServices'
 ---
 
 # Leppard Electrical Appliance Services

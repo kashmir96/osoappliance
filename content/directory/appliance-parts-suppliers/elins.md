@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/elins.webp
- alt: 'Logo for Elins the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/4.webp
+ alt: 'Nigeria from elins'
 ---
 
 # Elins is an Appliance Parts Supplier from Nigeria.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/harbor-appliance-repair-service.webp
-    alt: Cover image for Harbor Appliance Repair Service the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/373.webp
+ alt: 'UnitedStates from HarborApplianceRepairService'
 ---
 
 # Harbor Appliance Repair Service

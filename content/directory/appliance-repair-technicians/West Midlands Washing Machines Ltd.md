@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/west-midlands-washing-machines-ltd.webp
-    alt: Cover image for West Midlands Washing Machines Ltd the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/182.webp
+ alt: 'UnitedKingdom from WestMidlandsWashingMachinesLtd'
 ---
 
 # West Midlands Washing Machines Ltd

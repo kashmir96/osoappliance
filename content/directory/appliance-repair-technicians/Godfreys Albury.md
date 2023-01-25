@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/godfreys-albury.webp
-    alt: Cover image for Godfreys Albury the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/68.webp
+ alt: 'Australia from GodfreysAlbury'
 ---
 
 # Godfreys Albury

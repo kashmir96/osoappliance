@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wb-fulton-aj-goodwin.webp
-    alt: Cover image for WB Fulton AJ Goodwin the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/218.webp
+ alt: 'Australia from WBFultonAJGoodwin'
 ---
 
 # WB Fulton AJ Goodwin

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/boiler-service-wolverhampton.webp
-    alt: Cover image for Boiler Service Wolverhampton the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/25.webp
+ alt: 'UnitedKingdom from BoilerServiceWolverhampton'
 ---
 
 # Boiler Service Wolverhampton

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cathedral-sewing-machinesbristol.webp
-    alt: Cover image for Cathedral Sewing MachinesBristol the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/196.webp
+ alt: 'UnitedKingdom from CathedralSewingMachinesBristol'
 ---
 
 # Cathedral Sewing MachinesBristol

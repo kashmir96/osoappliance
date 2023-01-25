@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-glasgow-boiler-company.webp
-    alt: Cover image for The Glasgow Boiler Company the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/302.webp
+ alt: 'UnitedKingdom from TheGlasgowBoilerCompany'
 ---
 
 # The Glasgow Boiler Company

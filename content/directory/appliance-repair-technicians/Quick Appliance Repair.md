@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/quick-appliance-repair.webp
-    alt: Cover image for Quick Appliance Repair the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/172.webp
+ alt: 'UnitedKingdom from QuickApplianceRepair'
 ---
 
 # Quick Appliance Repair

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/minus21-air-conditioning-and-refrigeration-service.webp
-    alt: Cover image for Minus21 Air Conditioning and Refrigeration Service the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/135.webp
+ alt: 'Australia from Minus21AirConditioningandRefrigerationService'
 ---
 
 # Minus21 Air Conditioning and Refrigeration Service

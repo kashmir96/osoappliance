@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/county-spares-vacuum-repairs-and-vacuum-parts.webp
-    alt: Cover image for County Spares Vacuum Repairs and Vacuum Parts the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/111.webp
+ alt: 'UnitedKingdom from CountySparesVacuumRepairsandVacuumParts'
 ---
 
 # County Spares Vacuum Repairs and Vacuum Parts

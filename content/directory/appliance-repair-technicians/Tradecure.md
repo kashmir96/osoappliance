@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tradecure.webp
-    alt: Cover image for Tradecure the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/19.webp
+ alt: 'Australia from Tradecure'
 ---
 
 # Tradecure

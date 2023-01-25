@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/adept-appliance-service-llc.webp
-    alt: Cover image for Adept Appliance Service LLC the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/29.webp
+ alt: 'UnitedStates from AdeptApplianceServiceLLC'
 ---
 
 # Adept Appliance Service LLC

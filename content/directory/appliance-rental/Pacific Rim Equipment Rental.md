@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/pacific-rim-equipment-rental.webp
-    alt: Cover image for Pacific Rim Equipment Rental the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/37.webp
+ alt: 'UnitedStates from PacificRimEquipmentRental'
 ---
 
 # Pacific Rim Equipment Rental

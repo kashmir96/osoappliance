@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/south-appliance-repair-and-installation.webp
-    alt: Cover image for South Appliance Repair and Installation the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/350.webp
+ alt: 'UnitedStates from SouthApplianceRepairandInstallation'
 ---
 
 # South Appliance Repair and Installation

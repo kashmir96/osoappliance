@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/gabites-appliances.webp
- alt: 'Logo for Gabites Appliances the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/344.webp
+ alt: 'NewZealand from gabitesappliances'
 ---
 
 # Gabites Appliances is an Appliance Repair Technician Company operating in Timaru, New Zealand.

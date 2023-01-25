@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/furniture-rental-party-rental-movie-studio-staging-home-staging-prop-rental.webp
-    alt: Cover image for Furniture Rental Party Rental Movie Studio Staging Home Staging Prop Rental the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/283.webp
+ alt: 'UnitedStates from FurnitureRentalPartyRentalMovieStudioStagingHomeStagingPropRental'
 ---
 
 # Furniture Rental Party Rental Movie Studio Staging Home Staging Prop Rental

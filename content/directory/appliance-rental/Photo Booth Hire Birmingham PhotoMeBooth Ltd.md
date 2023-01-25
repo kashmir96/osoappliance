@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/photo-booth-hire-birmingham-photomebooth-ltd.webp
-    alt: Cover image for Photo Booth Hire Birmingham PhotoMeBooth Ltd the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/3.webp
+ alt: 'UnitedKingdom from PhotoBoothHireBirminghamPhotoMeBoothLtd'
 ---
 
 # Photo Booth Hire Birmingham PhotoMeBooth Ltd

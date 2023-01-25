@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/liveimage-photo-booth.webp
-    alt: Cover image for Liveimage Photo Booth the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/11.webp
+ alt: 'UnitedStates from LiveimagePhotoBooth'
 ---
 
 # Liveimage Photo Booth

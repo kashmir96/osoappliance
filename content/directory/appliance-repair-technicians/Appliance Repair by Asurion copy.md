@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-by-asurion.webp
-    alt: Cover image for Appliance Repair by Asurion the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/308.webp
+ alt: 'UnitedStates from ApplianceRepairbyAsurioncopy'
 ---
 
 # Appliance Repair by Asurion

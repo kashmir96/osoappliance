@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-european-appliance-repairs.webp
-    alt: Cover image for All European Appliance Repairs the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/243.webp
+ alt: 'UnitedStates from AllEuropeanApplianceRepairs'
 ---
 
 # All European Appliance Repairs

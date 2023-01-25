@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cosham-refrigeration-ltd.webp
-    alt: Cover image for Cosham Refrigeration Ltd the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/171.webp
+ alt: 'UnitedKingdom from CoshamRefrigerationLtd'
 ---
 
 # Cosham Refrigeration Ltd

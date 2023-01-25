@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ctm-darwin.webp
-    alt: Cover image for CTM Darwin the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/89.webp
+ alt: 'Australia from CTMDarwin'
 ---
 
 # CTM Darwin

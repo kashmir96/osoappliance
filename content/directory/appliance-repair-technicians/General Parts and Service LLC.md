@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/general-parts-and-service-llc.webp
-    alt: Cover image for General Parts and Service LLC the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/354.webp
+ alt: 'UnitedStates from GeneralPartsandServiceLLC'
 ---
 
 # General Parts and Service LLC

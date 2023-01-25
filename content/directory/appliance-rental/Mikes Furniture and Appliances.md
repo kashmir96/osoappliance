@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mikes-furniture-and-appliances.webp
-    alt: Cover image for Mikes Furniture and Appliances the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/334.webp
+ alt: 'UnitedStates from MikesFurnitureandAppliances'
 ---
 
 # Mikes Furniture and Appliances

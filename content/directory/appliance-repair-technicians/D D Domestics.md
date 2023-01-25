@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/d-d-domestics.webp
-    alt: Cover image for D D Domestics the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/246.webp
+ alt: 'UnitedKingdom from DDDomestics'
 ---
 
 # D D Domestics

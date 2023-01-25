@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/surevision-aurthorised-dyson-service-centre.webp
-    alt: Cover image for SureVision Aurthorised Dyson Service Centre the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/42.webp
+ alt: 'Australia from SureVisionAurthorisedDysonServiceCentre'
 ---
 
 # SureVision Aurthorised Dyson Service Centre

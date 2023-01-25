@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Masterton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/miele.webp
- alt: 'Logo for Miele the New Zealand from Masterton'
+cover:
+ image: /img/laundryappliance/189.webp
+ alt: 'NewZealand from miele'
 ---
 
 # Miele is an Appliance Repair Technician Company operating in Masterton, New Zealand.

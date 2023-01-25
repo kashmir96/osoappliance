@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jet-n-drain.webp
-    alt: Cover image for Jet N Drain the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/388.webp
+ alt: 'Australia from JetNDrain'
 ---
 
 # Jet N Drain

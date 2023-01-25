@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/doug-smith-spares.webp
- alt: 'Logo for Doug Smith Spares the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/165.webp
+ alt: 'Australia from dougsmithspares'
 ---
 
 # Doug Smith Spares is an Appliance Parts Supplier from Australia.

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ehs-domestic-appliances.webp
-    alt: Cover image for EHS Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/286.webp
+ alt: 'UnitedKingdom from EHSDomesticAppliances'
 ---
 
 # EHS Domestic Appliances

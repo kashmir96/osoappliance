@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/coates-canberra-access.webp
-    alt: Cover image for Coates Canberra Access the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/25.webp
+ alt: 'Australia from CoatesCanberraAccess'
 ---
 
 # Coates Canberra Access

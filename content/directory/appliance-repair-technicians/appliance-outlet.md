@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/appliance-outlet.webp
- alt: 'Logo for Appliance Outlet the New Zealand from Hamilton'
+cover:
+ image: /img/laundryappliance/97.webp
+ alt: 'NewZealand from applianceoutlet'
 ---
 
 # Appliance Outlet is an Appliance Repair Technician Company operating in Hamilton, New Zealand.

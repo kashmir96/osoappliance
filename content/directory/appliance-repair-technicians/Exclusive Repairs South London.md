@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/exclusive-repairs-south-london.webp
-    alt: Cover image for Exclusive Repairs South London the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/377.webp
+ alt: 'UnitedKingdom from ExclusiveRepairsSouthLondon'
 ---
 
 # Exclusive Repairs South London

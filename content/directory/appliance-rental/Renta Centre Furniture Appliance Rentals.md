@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/renta-centre-furniture-appliance-rentals.webp
-    alt: Cover image for Renta Centre Furniture Appliance Rentals the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/389.webp
+ alt: 'Australia from RentaCentreFurnitureApplianceRentals'
 ---
 
 # Renta Centre Furniture Appliance Rentals

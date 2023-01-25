@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/happy-home-appliance-repair.webp
-    alt: Cover image for Happy Home Appliance Repair the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/176.webp
+ alt: 'UnitedStates from HappyHomeApplianceRepair'
 ---
 
 # Happy Home Appliance Repair

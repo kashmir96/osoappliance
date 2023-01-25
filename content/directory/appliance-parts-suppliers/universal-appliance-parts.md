@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/universal-appliance-parts.webp
- alt: 'Logo for Universal Appliance Parts the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/33.webp
+ alt: 'Canada from universalapplianceparts'
 ---
 
 # Universal Appliance Parts is an Appliance Parts Supplier from Canada.

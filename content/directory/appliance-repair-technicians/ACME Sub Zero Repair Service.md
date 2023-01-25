@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/acme-sub-zero-repair-service.webp
-    alt: Cover image for ACME Sub Zero Repair Service the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/143.webp
+ alt: 'UnitedStates from ACMESubZeroRepairService'
 ---
 
 # ACME Sub Zero Repair Service

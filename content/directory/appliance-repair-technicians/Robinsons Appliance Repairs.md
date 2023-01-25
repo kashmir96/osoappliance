@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/robinsons-appliance-repairs.webp
-    alt: Cover image for Robinsons Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/287.webp
+ alt: 'UnitedKingdom from RobinsonsApplianceRepairs'
 ---
 
 # Robinsons Appliance Repairs

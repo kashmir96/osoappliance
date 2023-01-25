@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/one-air-commercial-refrigeration.webp
-    alt: Cover image for One Air Commercial Refrigeration the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/168.webp
+ alt: 'Australia from OneAirCommercialRefrigeration'
 ---
 
 # One Air Commercial Refrigeration

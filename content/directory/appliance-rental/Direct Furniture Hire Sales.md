@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/direct-furniture-hire-sales.webp
-    alt: Cover image for Direct Furniture Hire Sales the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/196.webp
+ alt: 'Australia from DirectFurnitureHireSales'
 ---
 
 # Direct Furniture Hire Sales

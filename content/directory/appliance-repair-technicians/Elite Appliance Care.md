@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/elite-appliance-care.webp
-    alt: Cover image for Elite Appliance Care the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/220.webp
+ alt: 'UnitedKingdom from EliteApplianceCare'
 ---
 
 # Elite Appliance Care

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/avis-car-truck-rental-east-albury.webp
-    alt: Cover image for Avis Car Truck Rental East Albury the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/138.webp
+ alt: 'Australia from AvisCarTruckRentalEastAlbury'
 ---
 
 # Avis Car Truck Rental East Albury

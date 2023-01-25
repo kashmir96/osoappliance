@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/haier.webp
- alt: 'Logo for Haier the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/164.webp
+ alt: 'Canada from haier'
 ---
 
 # Haier is an Appliance Parts Supplier from Canada.

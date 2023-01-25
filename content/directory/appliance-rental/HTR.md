@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/htr.webp
-    alt: Cover image for HTR the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/202.webp
+ alt: 'Australia from HTR'
 ---
 
 # HTR

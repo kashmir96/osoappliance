@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/quality-appliance-service.webp
-    alt: Cover image for Quality Appliance Service the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/271.webp
+ alt: 'UnitedStates from QualityApplianceService'
 ---
 
 # Quality Appliance Service

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/clark-plumbing-of-kingston-upon-hull-specialists.webp
-    alt: Cover image for Clark Plumbing of Kingston upon Hull Specialists the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/41.webp
+ alt: 'UnitedKingdom from ClarkPlumbingofKingstonuponHullSpecialists'
 ---
 
 # Clark Plumbing of Kingston upon Hull Specialists

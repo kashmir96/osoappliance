@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/seq-appliance-and-furniture-rentals.webp
-    alt: Cover image for SEQ Appliance and Furniture Rentals the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/59.webp
+ alt: 'Australia from SEQApplianceandFurnitureRentals'
 ---
 
 # SEQ Appliance and Furniture Rentals

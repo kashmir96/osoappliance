@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/top-gunn-equipment-rentals-inc.webp
-    alt: Cover image for Top Gunn Equipment Rentals Inc the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/226.webp
+ alt: 'UnitedStates from TopGunnEquipmentRentalsInc'
 ---
 
 # Top Gunn Equipment Rentals Inc

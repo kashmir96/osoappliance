@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/europcar-rockhampton.webp
-    alt: Cover image for Europcar Rockhampton the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/325.webp
+ alt: 'Australia from EuropcarRockhampton'
 ---
 
 # Europcar Rockhampton

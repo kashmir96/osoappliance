@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/best-buy.webp
- alt: 'Logo for Best buy the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/69.webp
+ alt: 'Canada from bestbuy'
 ---
 
 # Best buy is an Appliance Parts Supplier from Canada.

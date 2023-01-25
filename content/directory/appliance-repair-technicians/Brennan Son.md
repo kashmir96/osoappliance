@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/brennan-son.webp
-    alt: Cover image for Brennan Son the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/23.webp
+ alt: 'UnitedKingdom from BrennanSon'
 ---
 
 # Brennan Son

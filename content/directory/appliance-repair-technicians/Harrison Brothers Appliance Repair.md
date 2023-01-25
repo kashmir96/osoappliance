@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/harrison-brothers-appliance-repair.webp
-    alt: Cover image for Harrison Brothers Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/181.webp
+ alt: 'UnitedStates from HarrisonBrothersApplianceRepair'
 ---
 
 # Harrison Brothers Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/equipment-depot-dfw.webp
-    alt: Cover image for Equipment Depot DFW the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/72.webp
+ alt: 'UnitedStates from EquipmentDepotDFW'
 ---
 
 # Equipment Depot DFW

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/adelaide-oven-repairs.webp
-    alt: Cover image for Adelaide Oven Repairs the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/346.webp
+ alt: 'Australia from AdelaideOvenRepairs'
 ---
 
 # Adelaide Oven Repairs

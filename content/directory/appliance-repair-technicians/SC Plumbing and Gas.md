@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sc-plumbing-and-gas.webp
-    alt: Cover image for SC Plumbing and Gas the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/230.webp
+ alt: 'Australia from SCPlumbingandGas'
 ---
 
 # SC Plumbing and Gas

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/steves-washing-machine-appliance-repairs.webp
-    alt: Cover image for Steves Washing Machine Appliance Repairs the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/378.webp
+ alt: 'Australia from StevesWashingMachineApplianceRepairs'
 ---
 
 # Steves Washing Machine Appliance Repairs

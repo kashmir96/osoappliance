@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fix-it-locally.webp
-    alt: Cover image for Fix It Locally the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/45.webp
+ alt: 'UnitedKingdom from FixItLocally'
 ---
 
 # Fix It Locally

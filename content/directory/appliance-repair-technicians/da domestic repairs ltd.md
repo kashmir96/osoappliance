@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/da-domestic-repairs-ltd.webp
-    alt: Cover image for da domestic repairs ltd the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/127.webp
+ alt: 'UnitedKingdom from dadomesticrepairsltd'
 ---
 
 # da domestic repairs ltd

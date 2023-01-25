@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/protec-equipment-services.webp
-    alt: Cover image for Protec Equipment Services the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/104.webp
+ alt: 'Australia from ProtecEquipmentServices'
 ---
 
 # Protec Equipment Services

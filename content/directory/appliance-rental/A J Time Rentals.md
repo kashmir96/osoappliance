@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/a-j-time-rentals.webp
-    alt: Cover image for A J Time Rentals the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/165.webp
+ alt: 'UnitedStates from AJTimeRentals'
 ---
 
 # A J Time Rentals

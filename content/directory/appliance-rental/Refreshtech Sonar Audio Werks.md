@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/refreshtech-sonar-audio-werks.webp
-    alt: Cover image for Refreshtech Sonar Audio Werks the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/333.webp
+ alt: 'UnitedStates from RefreshtechSonarAudioWerks'
 ---
 
 # Refreshtech Sonar Audio Werks

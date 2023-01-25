@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/direct-appliances-belfast.webp
-    alt: Cover image for Direct Appliances Belfast the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/189.webp
+ alt: 'UnitedKingdom from DirectAppliancesBelfast'
 ---
 
 # Direct Appliances Belfast

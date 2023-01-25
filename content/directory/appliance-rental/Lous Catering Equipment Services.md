@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/lous-catering-equipment-services.webp
-    alt: Cover image for Lous Catering Equipment Services the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/136.webp
+ alt: 'Australia from LousCateringEquipmentServices'
 ---
 
 # Lous Catering Equipment Services

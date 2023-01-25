@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tg-repairs.webp
-    alt: Cover image for TG Repairs the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/296.webp
+ alt: 'UnitedKingdom from TGRepairs'
 ---
 
 # TG Repairs

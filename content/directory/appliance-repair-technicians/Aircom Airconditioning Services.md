@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aircom-airconditioning-services.webp
-    alt: Cover image for Aircom Airconditioning Services the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/54.webp
+ alt: 'Australia from AircomAirconditioningServices'
 ---
 
 # Aircom Airconditioning Services

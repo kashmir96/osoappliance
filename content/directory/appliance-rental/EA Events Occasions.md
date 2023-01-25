@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ea-events-occasions.webp
-    alt: Cover image for EA Events Occasions the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/41.webp
+ alt: 'UnitedKingdom from EAEventsOccasions'
 ---
 
 # EA Events Occasions

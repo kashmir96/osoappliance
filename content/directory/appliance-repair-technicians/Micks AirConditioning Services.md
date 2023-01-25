@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/micks-airconditioning-services.webp
-    alt: Cover image for Micks AirConditioning Services the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/285.webp
+ alt: 'Australia from MicksAirConditioningServices'
 ---
 
 # Micks AirConditioning Services

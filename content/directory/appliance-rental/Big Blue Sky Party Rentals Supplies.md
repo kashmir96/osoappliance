@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/big-blue-sky-party-rentals-supplies.webp
-    alt: Cover image for Big Blue Sky Party Rentals Supplies the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/219.webp
+ alt: 'UnitedStates from BigBlueSkyPartyRentalsSupplies'
 ---
 
 # Big Blue Sky Party Rentals Supplies

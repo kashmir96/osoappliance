@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kt-national-electronics.webp
-    alt: Cover image for KT National Electronics the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/241.webp
+ alt: 'Australia from KTNationalElectronics'
 ---
 
 # KT National Electronics

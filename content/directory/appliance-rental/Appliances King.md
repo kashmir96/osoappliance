@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/appliances-king.webp
-    alt: Cover image for Appliances King the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/363.webp
+ alt: 'Australia from AppliancesKing'
 ---
 
 # Appliances King

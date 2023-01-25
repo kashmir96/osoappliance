@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/titan-appliance-repair.webp
-    alt: Cover image for Titan Appliance Repair the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/195.webp
+ alt: 'UnitedStates from TitanApplianceRepair'
 ---
 
 # Titan Appliance Repair

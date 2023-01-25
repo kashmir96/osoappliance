@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aceco-appliance-rentals.webp
-    alt: Cover image for Aceco Appliance Rentals the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/221.webp
+ alt: 'Australia from AcecoApplianceRentals'
 ---
 
 # Aceco Appliance Rentals

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/vision-furniture-event-rentals.webp
-    alt: Cover image for Vision Furniture Event Rentals the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/303.webp
+ alt: 'UnitedStates from VisionFurnitureEventRentals'
 ---
 
 # Vision Furniture Event Rentals

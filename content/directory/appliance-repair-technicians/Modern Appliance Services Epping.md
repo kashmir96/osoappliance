@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/modern-appliance-services-epping.webp
-    alt: Cover image for Modern Appliance Services Epping the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/24.webp
+ alt: 'Australia from ModernApplianceServicesEpping'
 ---
 
 # Modern Appliance Services Epping

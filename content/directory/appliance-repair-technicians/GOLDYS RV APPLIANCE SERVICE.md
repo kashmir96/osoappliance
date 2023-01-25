@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/goldys-rv-appliance-service.webp
-    alt: Cover image for GOLDYS RV APPLIANCE SERVICE the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/170.webp
+ alt: 'Australia from GOLDYSRVAPPLIANCESERVICE'
 ---
 
 # GOLDYS RV APPLIANCE SERVICE

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/electrolux.webp
-    alt: Cover image for Electrolux the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/31.webp
+ alt: 'Australia from Electroluxcopy'
 ---
 
 # Electrolux

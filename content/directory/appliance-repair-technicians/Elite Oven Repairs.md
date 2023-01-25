@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/elite-oven-repairs.webp
-    alt: Cover image for Elite Oven Repairs the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/4.webp
+ alt: 'Australia from EliteOvenRepairs'
 ---
 
 # Elite Oven Repairs

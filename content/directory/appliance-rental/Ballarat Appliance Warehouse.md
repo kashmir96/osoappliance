@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ballarat-appliance-warehouse.webp
-    alt: Cover image for Ballarat Appliance Warehouse the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/290.webp
+ alt: 'Australia from BallaratApplianceWarehouse'
 ---
 
 # Ballarat Appliance Warehouse

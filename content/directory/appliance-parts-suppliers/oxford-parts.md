@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/oxford-parts.webp
- alt: 'Logo for Oxford Parts the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/127.webp
+ alt: 'Australia from oxfordparts'
 ---
 
 # Oxford Parts is an Appliance Parts Supplier from Australia.

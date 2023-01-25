@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/get-fully-furnished.webp
-    alt: Cover image for Get Fully Furnished the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/378.webp
+ alt: 'UnitedKingdom from GetFullyFurnished'
 ---
 
 # Get Fully Furnished

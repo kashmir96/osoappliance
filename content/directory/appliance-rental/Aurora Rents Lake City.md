@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aurora-rents-lake-city.webp
-    alt: Cover image for Aurora Rents Lake City the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/244.webp
+ alt: 'UnitedStates from AuroraRentsLakeCity'
 ---
 
 # Aurora Rents Lake City

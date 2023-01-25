@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/best-dj-hire-osmic-productions-av-hire-gold-coast.webp
-    alt: Cover image for Best DJ Hire Osmic Productions AV Hire Gold Coast the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/347.webp
+ alt: 'Australia from BestDJHireOsmicProductionsAVHireGoldCoast'
 ---
 
 # Best DJ Hire Osmic Productions AV Hire Gold Coast

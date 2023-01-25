@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/spaghetti-hire-aston.webp
-    alt: Cover image for Spaghetti Hire Aston the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/32.webp
+ alt: 'UnitedKingdom from SpaghettiHireAston'
 ---
 
 # Spaghetti Hire Aston

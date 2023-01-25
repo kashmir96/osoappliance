@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/appliance-services.webp
- alt: 'Logo for Appliance Services the Appliance Rental business from Christchurch, New Zealand'
+cover:
+ image: /img/laundryappliance/81.webp
+ alt: 'NewZealand from applianceservices'
 ---
 
 Appliance Services is an Appliance Rental business located in Christchurch, New Zealand. 

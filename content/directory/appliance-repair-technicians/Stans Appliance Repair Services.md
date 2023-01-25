@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/stans-appliance-repair-services.webp
-    alt: Cover image for Stans Appliance Repair Services the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/365.webp
+ alt: 'UnitedStates from StansApplianceRepairServices'
 ---
 
 # Stans Appliance Repair Services

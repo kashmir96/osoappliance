@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/connect-radio-rental.webp
-    alt: Cover image for Connect Radio Rental the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/118.webp
+ alt: 'UnitedStates from ConnectRadioRental'
 ---
 
 # Connect Radio Rental

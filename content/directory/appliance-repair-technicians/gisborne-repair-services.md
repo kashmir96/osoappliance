@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Gisborne"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/gisborne-repair-services.webp
- alt: 'Logo for Gisborne Repair Services the New Zealand from Gisborne'
+cover:
+ image: /img/laundryappliance/170.webp
+ alt: 'NewZealand from gisbornerepairservices'
 ---
 
 # Gisborne Repair Services is an Appliance Repair Technician Company operating in Gisborne, New Zealand.

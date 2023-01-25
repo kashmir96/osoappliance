@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/crum-spares-repairs-glasgow-appliances.webp
-    alt: Cover image for Crum Spares Repairs Glasgow Appliances the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/296.webp
+ alt: 'UnitedKingdom from CrumSparesRepairsGlasgowAppliances'
 ---
 
 # Crum Spares Repairs Glasgow Appliances

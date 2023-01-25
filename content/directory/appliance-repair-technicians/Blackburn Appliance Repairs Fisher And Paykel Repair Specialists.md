@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/blackburn-appliance-repairs-fisher-and-paykel-repair-specialists.webp
-    alt: Cover image for Blackburn Appliance Repairs Fisher And Paykel Repair Specialists the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/90.webp
+ alt: 'Australia from BlackburnApplianceRepairsFisherAndPaykelRepairSpecialists'
 ---
 
 # Blackburn Appliance Repairs Fisher And Paykel Repair Specialists

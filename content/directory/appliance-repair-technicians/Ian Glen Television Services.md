@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ian-glen-television-services.webp
-    alt: Cover image for Ian Glen Television Services the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/35.webp
+ alt: 'Australia from IanGlenTelevisionServices'
 ---
 
 # Ian Glen Television Services

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/golden-aerial-equipment-rental.webp
-    alt: Cover image for Golden Aerial Equipment Rental the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/83.webp
+ alt: 'UnitedStates from GoldenAerialEquipmentRental'
 ---
 
 # Golden Aerial Equipment Rental

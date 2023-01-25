@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/atlanta-refrigeration-commercial-refrigeration-and-repairs.webp
-    alt: Cover image for Atlanta Refrigeration commercial refrigeration and repairs the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/197.webp
+ alt: 'Australia from AtlantaRefrigerationcommercialrefrigerationandrepairs'
 ---
 
 # Atlanta Refrigeration commercial refrigeration and repairs

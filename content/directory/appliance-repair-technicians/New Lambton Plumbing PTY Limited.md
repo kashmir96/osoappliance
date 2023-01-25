@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/new-lambton-plumbing-pty-limited.webp
-    alt: Cover image for New Lambton Plumbing PTY Limited the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/334.webp
+ alt: 'Australia from NewLambtonPlumbingPTYLimited'
 ---
 
 # New Lambton Plumbing PTY Limited

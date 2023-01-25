@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/p1-plumbing-and-electrical.webp
-    alt: Cover image for P1 Plumbing and Electrical the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/153.webp
+ alt: 'Australia from P1PlumbingandElectrical'
 ---
 
 # P1 Plumbing and Electrical

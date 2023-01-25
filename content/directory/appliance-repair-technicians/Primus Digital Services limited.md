@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/primus-digital-services-limited.webp
-    alt: Cover image for Primus Digital Services limited the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/379.webp
+ alt: 'UnitedKingdom from PrimusDigitalServiceslimited'
 ---
 
 # Primus Digital Services limited

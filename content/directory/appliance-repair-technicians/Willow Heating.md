@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/willow-heating.webp
-    alt: Cover image for Willow Heating the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/272.webp
+ alt: 'UnitedKingdom from WillowHeating'
 ---
 
 # Willow Heating

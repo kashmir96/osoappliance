@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/east-coast-camera.webp
-    alt: Cover image for East Coast Camera the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/381.webp
+ alt: 'Australia from EastCoastCamera'
 ---
 
 # East Coast Camera

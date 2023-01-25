@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domain-appliance-services.webp
-    alt: Cover image for Domain Appliance Services the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/110.webp
+ alt: 'Australia from DomainApplianceServices'
 ---
 
 # Domain Appliance Services

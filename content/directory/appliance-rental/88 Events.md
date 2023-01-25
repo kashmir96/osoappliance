@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/88-events.webp
-    alt: Cover image for 88 Events the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/220.webp
+ alt: 'UnitedKingdom from 88Events'
 ---
 
 # 88 Events

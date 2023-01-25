@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/allenton-appliances.webp
-    alt: Cover image for Allenton Appliances the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/157.webp
+ alt: 'UnitedKingdom from AllentonAppliances'
 ---
 
 # Allenton Appliances

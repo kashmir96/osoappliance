@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ss-spares.webp
-    alt: Cover image for SS Spares the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/67.webp
+ alt: 'UnitedKingdom from SSSpares'
 ---
 
 # SS Spares

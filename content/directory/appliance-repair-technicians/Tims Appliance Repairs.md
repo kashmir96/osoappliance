@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tims-appliance-repairs.webp
-    alt: Cover image for Tims Appliance Repairs the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/139.webp
+ alt: 'Australia from TimsApplianceRepairs'
 ---
 
 # Tims Appliance Repairs

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/led-screen-rental-video-display-visual-impact.webp
-    alt: Cover image for LED Screen Rental Video Display Visual Impact the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/224.webp
+ alt: 'UnitedStates from LEDScreenRentalVideoDisplayVisualImpact'
 ---
 
 # LED Screen Rental Video Display Visual Impact

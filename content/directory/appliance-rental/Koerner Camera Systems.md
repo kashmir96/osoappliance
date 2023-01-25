@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/koerner-camera-systems.webp
-    alt: Cover image for Koerner Camera Systems the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/229.webp
+ alt: 'UnitedStates from KoernerCameraSystems'
 ---
 
 # Koerner Camera Systems

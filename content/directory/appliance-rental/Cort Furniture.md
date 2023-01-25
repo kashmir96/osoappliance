@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Columbus"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cort-furniture.webp
-    alt: Cover image for Cort Furniture the United States based Appliance Rental servicing Columbus 
+ image: /img/laundryappliance/3.webp
+ alt: 'UnitedStates from CortFurniture'
 ---
 
 # Cort Furniture

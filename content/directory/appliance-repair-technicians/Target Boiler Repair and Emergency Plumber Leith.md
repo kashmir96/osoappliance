@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/target-boiler-repair-and-emergency-plumber-leith.webp
-    alt: Cover image for Target Boiler Repair and Emergency Plumber Leith the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/314.webp
+ alt: 'UnitedKingdom from TargetBoilerRepairandEmergencyPlumberLeith'
 ---
 
 # Target Boiler Repair and Emergency Plumber Leith

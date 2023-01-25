@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/one-true-love-vintage-rentals.webp
-    alt: Cover image for One True Love Vintage Rentals the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/49.webp
+ alt: 'UnitedStates from OneTrueLoveVintageRentals'
 ---
 
 # One True Love Vintage Rentals

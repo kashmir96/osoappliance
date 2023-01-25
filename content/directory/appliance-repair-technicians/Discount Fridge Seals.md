@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/discount-fridge-seals.webp
-    alt: Cover image for Discount Fridge Seals the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/304.webp
+ alt: 'Australia from DiscountFridgeSeals'
 ---
 
 # Discount Fridge Seals

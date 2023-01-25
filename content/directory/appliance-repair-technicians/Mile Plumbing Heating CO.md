@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mile-plumbing-heating-co.webp
-    alt: Cover image for Mile Plumbing Heating CO the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/216.webp
+ alt: 'UnitedKingdom from MilePlumbingHeatingCO'
 ---
 
 # Mile Plumbing Heating CO

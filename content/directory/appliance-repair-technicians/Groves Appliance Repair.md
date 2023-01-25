@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/groves-appliance-repair.webp
-    alt: Cover image for Groves Appliance Repair the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/115.webp
+ alt: 'UnitedStates from GrovesApplianceRepair'
 ---
 
 # Groves Appliance Repair

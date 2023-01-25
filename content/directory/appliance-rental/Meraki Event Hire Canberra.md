@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/meraki-event-hire-canberra.webp
-    alt: Cover image for Meraki Event Hire Canberra the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/283.webp
+ alt: 'Australia from MerakiEventHireCanberra'
 ---
 
 # Meraki Event Hire Canberra

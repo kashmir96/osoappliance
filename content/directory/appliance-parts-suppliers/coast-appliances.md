@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/coast-appliances.webp
- alt: 'Logo for Coast Appliances the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/10.webp
+ alt: 'Canada from coastappliances'
 ---
 
 # Coast Appliances is an Appliance Parts Supplier from Canada.

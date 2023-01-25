@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gunter-audio-video.webp
-    alt: Cover image for Gunter Audio Video the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/382.webp
+ alt: 'UnitedStates from GunterAudioVideo'
 ---
 
 # Gunter Audio Video

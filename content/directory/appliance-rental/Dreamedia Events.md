@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/dreamedia-events.webp
-    alt: Cover image for Dreamedia Events the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/144.webp
+ alt: 'Australia from DreamediaEvents'
 ---
 
 # Dreamedia Events

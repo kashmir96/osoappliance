@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-skills-evaporative-and-gas.webp
-    alt: Cover image for All Skills Evaporative and Gas the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/102.webp
+ alt: 'Australia from AllSkillsEvaporativeandGas'
 ---
 
 # All Skills Evaporative and Gas

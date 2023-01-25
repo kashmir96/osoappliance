@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/melbourne-metro-refrigeration-fridge-service-repairs-melbourne.webp
-    alt: Cover image for Melbourne Metro Refrigeration Fridge Service Repairs Melbourne the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/183.webp
+ alt: 'Australia from MelbourneMetroRefrigerationFridgeServiceRepairsMelbourne'
 ---
 
 # Melbourne Metro Refrigeration Fridge Service Repairs Melbourne

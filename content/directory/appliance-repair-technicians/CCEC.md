@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ccec.webp
-    alt: Cover image for CCEC the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/117.webp
+ alt: 'Australia from CCEC'
 ---
 
 # CCEC

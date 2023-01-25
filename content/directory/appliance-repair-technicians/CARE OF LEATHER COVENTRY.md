@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/care-of-leather-coventry.webp
-    alt: Cover image for CARE OF LEATHER COVENTRY the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/328.webp
+ alt: 'UnitedKingdom from CAREOFLEATHERCOVENTRY'
 ---
 
 # CARE OF LEATHER COVENTRY

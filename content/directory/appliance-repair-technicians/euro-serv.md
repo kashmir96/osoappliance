@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Installation, New Appliances"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-installation,-new-appliances/euro-serv.webp
- alt: 'Logo for Euro Serv the New Zealand from Wellington'
+cover:
+ image: /img/laundryappliance/147.webp
+ alt: 'NewZealand from euroserv'
 ---
 
 # Euro Serv is an Appliance Repair Technician, Installation, New Appliances Company operating in Wellington, New Zealand.

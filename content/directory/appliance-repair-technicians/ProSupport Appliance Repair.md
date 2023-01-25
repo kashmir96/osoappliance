@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/prosupport-appliance-repair.webp
-    alt: Cover image for ProSupport Appliance Repair the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/126.webp
+ alt: 'UnitedStates from ProSupportApplianceRepair'
 ---
 
 # ProSupport Appliance Repair

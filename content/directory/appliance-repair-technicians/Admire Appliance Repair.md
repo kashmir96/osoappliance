@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/admire-appliance-repair.webp
-    alt: Cover image for Admire Appliance Repair the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/210.webp
+ alt: 'UnitedStates from AdmireApplianceRepair'
 ---
 
 # Admire Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-san-antonio.webp
-    alt: Cover image for Mr Appliance of San Antonio the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/160.webp
+ alt: 'UnitedStates from MrApplianceofSanAntonio'
 ---
 
 # Mr Appliance of San Antonio

@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Taupo"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/aes-taupo.webp
- alt: 'Logo for AES Taupo the New Zealand from Taupo'
+cover:
+ image: /img/laundryappliance/42.webp
+ alt: 'NewZealand from aestaupo'
 ---
 
 # AES Taupo is an Appliance Repair Technician Company operating in Taupo, New Zealand.

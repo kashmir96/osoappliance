@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/miller-freeman-sons-nottingham-ltd.webp
-    alt: Cover image for Miller Freeman Sons Nottingham Ltd the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/170.webp
+ alt: 'UnitedKingdom from MillerFreemanSonsNottinghamLtd'
 ---
 
 # Miller Freeman Sons Nottingham Ltd

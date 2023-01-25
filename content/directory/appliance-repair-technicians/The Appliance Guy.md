@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-appliance-guy.webp
-    alt: Cover image for The Appliance Guy the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/292.webp
+ alt: 'Australia from TheApplianceGuy'
 ---
 
 # The Appliance Guy

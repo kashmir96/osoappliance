@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/a-s-appliance.webp
-    alt: Cover image for A S Appliance the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/115.webp
+ alt: 'UnitedStates from ASAppliance'
 ---
 
 # A S Appliance

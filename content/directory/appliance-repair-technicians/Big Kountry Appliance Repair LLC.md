@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/big-kountry-appliance-repair-llc.webp
-    alt: Cover image for Big Kountry Appliance Repair LLC the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/182.webp
+ alt: 'UnitedStates from BigKountryApplianceRepairLLC'
 ---
 
 # Big Kountry Appliance Repair LLC

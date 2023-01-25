@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abby-appliances.webp
-    alt: Cover image for Abby Appliances the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/236.webp
+ alt: 'UnitedStates from AbbyAppliances'
 ---
 
 # Abby Appliances

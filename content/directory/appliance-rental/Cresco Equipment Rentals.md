@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cresco-equipment-rentals.webp
-    alt: Cover image for Cresco Equipment Rentals the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/319.webp
+ alt: 'UnitedStates from CrescoEquipmentRentals'
 ---
 
 # Cresco Equipment Rentals

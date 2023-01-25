@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/priory-appliances.webp
-    alt: Cover image for Priory Appliances the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/120.webp
+ alt: 'UnitedKingdom from PrioryAppliances'
 ---
 
 # Priory Appliances

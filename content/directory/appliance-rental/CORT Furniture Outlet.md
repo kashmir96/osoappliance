@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cort-furniture-outlet.webp
-    alt: Cover image for CORT Furniture Outlet the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/263.webp
+ alt: 'UnitedStates from CORTFurnitureOutlet'
 ---
 
 # CORT Furniture Outlet

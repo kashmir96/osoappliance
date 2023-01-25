@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-gold-coast.webp
-    alt: Cover image for Mr Rental Gold Coast the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/205.webp
+ alt: 'Australia from MrRentalGoldCoast'
 ---
 
 # Mr Rental Gold Coast

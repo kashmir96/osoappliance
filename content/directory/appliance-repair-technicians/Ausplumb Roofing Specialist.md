@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ausplumb-roofing-specialist.webp
-    alt: Cover image for Ausplumb Roofing Specialist the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/176.webp
+ alt: 'Australia from AusplumbRoofingSpecialist'
 ---
 
 # Ausplumb Roofing Specialist

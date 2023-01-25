@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/flexi-compras.webp
-    alt: Cover image for Flexi Compras the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/281.webp
+ alt: 'UnitedStates from FlexiCompras'
 ---
 
 # Flexi Compras

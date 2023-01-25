@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aa-services-award-winning-appliance-repair-company.webp
-    alt: Cover image for AA Services Award Winning Appliance Repair company the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/85.webp
+ alt: 'UnitedKingdom from AAServicesAwardWinningApplianceRepaircompany'
 ---
 
 # AA Services Award Winning Appliance Repair company

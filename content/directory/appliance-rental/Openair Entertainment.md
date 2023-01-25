@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/openair-entertainment.webp
-    alt: Cover image for Openair Entertainment the Australia based Appliance Rental servicing Geelong 
+ image: /img/laundryappliance/92.webp
+ alt: 'Australia from OpenairEntertainment'
 ---
 
 # Openair Entertainment

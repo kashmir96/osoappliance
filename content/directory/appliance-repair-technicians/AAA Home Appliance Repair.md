@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aaa-home-appliance-repair.webp
-    alt: Cover image for AAA Home Appliance Repair the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/23.webp
+ alt: 'UnitedStates from AAAHomeApplianceRepair'
 ---
 
 # AAA Home Appliance Repair

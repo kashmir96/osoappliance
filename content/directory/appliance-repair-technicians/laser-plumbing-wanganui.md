@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Wanganui"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/laser-plumbing-wanganui.webp
- alt: 'Logo for Laser Plumbing Wanganui the New Zealand from Wanganui'
+cover:
+ image: /img/laundryappliance/274.webp
+ alt: 'NewZealand from laserplumbingwanganui'
 ---
 
 # Laser Plumbing Wanganui is an Appliance Repair Technician Company operating in Wanganui, New Zealand.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sealafridge-sunshine-coast.webp
-    alt: Cover image for SealAFridge Sunshine Coast the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/305.webp
+ alt: 'Australia from SealAFridgeSunshineCoast'
 ---
 
 # SealAFridge Sunshine Coast

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/baytech-appliance-repairs.webp
-    alt: Cover image for Baytech Appliance Repairs the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/301.webp
+ alt: 'Australia from BaytechApplianceRepairs'
 ---
 
 # Baytech Appliance Repairs

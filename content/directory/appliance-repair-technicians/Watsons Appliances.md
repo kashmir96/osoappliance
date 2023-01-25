@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/watsons-appliances.webp
-    alt: Cover image for Watsons Appliances the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/378.webp
+ alt: 'UnitedStates from WatsonsAppliances'
 ---
 
 # Watsons Appliances

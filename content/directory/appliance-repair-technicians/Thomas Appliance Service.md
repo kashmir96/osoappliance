@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/thomas-appliance-service.webp
-    alt: Cover image for Thomas Appliance Service the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/129.webp
+ alt: 'UnitedStates from ThomasApplianceService'
 ---
 
 # Thomas Appliance Service

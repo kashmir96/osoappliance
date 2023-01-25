@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/derbyshire-appliance-repairs.webp
-    alt: Cover image for Derbyshire Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/153.webp
+ alt: 'UnitedKingdom from DerbyshireApplianceRepairs'
 ---
 
 # Derbyshire Appliance Repairs

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/approved-plumbing-service.webp
-    alt: Cover image for Approved Plumbing Service the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/58.webp
+ alt: 'Australia from ApprovedPlumbingService'
 ---
 
 # Approved Plumbing Service

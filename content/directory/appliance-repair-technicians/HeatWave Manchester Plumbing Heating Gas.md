@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/heatwave-manchester-plumbing-heating-gas.webp
-    alt: Cover image for HeatWave Manchester Plumbing Heating Gas the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/11.webp
+ alt: 'UnitedKingdom from HeatWaveManchesterPlumbingHeatingGas'
 ---
 
 # HeatWave Manchester Plumbing Heating Gas

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/stage-to-sell-adelaide.webp
-    alt: Cover image for Stage To Sell Adelaide the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/119.webp
+ alt: 'Australia from StageToSellAdelaide'
 ---
 
 # Stage To Sell Adelaide

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/vision-events-glasgow-ltd.webp
-    alt: Cover image for Vision Events Glasgow Ltd the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/218.webp
+ alt: 'UnitedKingdom from VisionEventsGlasgowLtd'
 ---
 
 # Vision Events Glasgow Ltd

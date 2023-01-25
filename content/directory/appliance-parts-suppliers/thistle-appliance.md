@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/thistle-appliance.webp
- alt: 'Logo for Thistle Appliance the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/152.webp
+ alt: 'Canada from thistleappliance'
 ---
 
 # Thistle Appliance is an Appliance Parts Supplier from Canada.

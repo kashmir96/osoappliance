@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Columbus"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/columbus-appliance-repair.webp
-    alt: Cover image for Columbus Appliance Repair the United States based Appliance Repair Technician servicing Columbus 
+ image: /img/laundryappliance/337.webp
+ alt: 'UnitedStates from ColumbusApplianceRepair'
 ---
 
 # Columbus Appliance Repair

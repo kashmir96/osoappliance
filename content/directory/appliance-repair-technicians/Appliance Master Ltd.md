@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-master-ltd.webp
-    alt: Cover image for Appliance Master Ltd the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/49.webp
+ alt: 'UnitedKingdom from ApplianceMasterLtd'
 ---
 
 # Appliance Master Ltd

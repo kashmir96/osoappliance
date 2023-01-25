@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Hastings"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/call-small.webp
- alt: 'Logo for Call Small the New Zealand from Hastings'
+cover:
+ image: /img/laundryappliance/22.webp
+ alt: 'NewZealand from callsmall'
 ---
 
 # Call Small is an Appliance Repair Technician Company operating in Hastings, New Zealand.

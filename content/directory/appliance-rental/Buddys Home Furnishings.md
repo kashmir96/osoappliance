@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/buddys-home-furnishings.webp
-    alt: Cover image for Buddys Home Furnishings the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/31.webp
+ alt: 'UnitedStates from BuddysHomeFurnishings'
 ---
 
 # Buddys Home Furnishings

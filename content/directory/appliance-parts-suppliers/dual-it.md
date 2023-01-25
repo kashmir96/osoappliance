@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/dual-it.webp
- alt: 'Logo for Dual It the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/96.webp
+ alt: 'UnitedKingdom from dualit'
 ---
 
 # Dual It is an Appliance Parts Supplier from United Kingdom.

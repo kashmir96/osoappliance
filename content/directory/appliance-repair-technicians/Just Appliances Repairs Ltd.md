@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/just-appliances-repairs-ltd.webp
-    alt: Cover image for Just Appliances Repairs Ltd the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/384.webp
+ alt: 'UnitedKingdom from JustAppliancesRepairsLtd'
 ---
 
 # Just Appliances Repairs Ltd

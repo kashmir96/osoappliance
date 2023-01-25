@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/golden-gate-office-solutions.webp
-    alt: Cover image for Golden Gate Office Solutions the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/198.webp
+ alt: 'UnitedStates from GoldenGateOfficeSolutions'
 ---
 
 # Golden Gate Office Solutions

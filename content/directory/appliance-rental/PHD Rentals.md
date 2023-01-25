@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/phd-rentals.webp
-    alt: Cover image for PHD Rentals the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/150.webp
+ alt: 'Australia from PHDRentals'
 ---
 
 # PHD Rentals

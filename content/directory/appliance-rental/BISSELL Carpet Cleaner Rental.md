@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bissell-carpet-cleaner-rental.webp
-    alt: Cover image for BISSELL Carpet Cleaner Rental the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/191.webp
+ alt: 'UnitedStates from BISSELLCarpetCleanerRental'
 ---
 
 # BISSELL Carpet Cleaner Rental

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/exceltek-group-appliance-repairs-fisher-paykel-specialists-newcastle-maitland-lake-macquarie-surrounding-areas.webp
-    alt: Cover image for Exceltek Group Appliance Repairs Fisher Paykel Specialists Newcastle Maitland Lake Macquarie Surrounding Areas the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/165.webp
+ alt: 'Australia from ExceltekGroupApplianceRepairsFisherPaykelSpecialistsNewcastleMaitlandLakeMacquarieSurroundingAreas'
 ---
 
 # Exceltek Group Appliance Repairs Fisher Paykel Specialists Newcastle Maitland Lake Macquarie Surrounding Areas

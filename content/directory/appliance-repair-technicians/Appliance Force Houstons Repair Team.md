@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-force-houstons-repair-team.webp
-    alt: Cover image for Appliance Force Houstons Repair Team the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/148.webp
+ alt: 'UnitedStates from ApplianceForceHoustonsRepairTeam'
 ---
 
 # Appliance Force Houstons Repair Team

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/durable-plumbing-and-gas.webp
-    alt: Cover image for Durable Plumbing and Gas the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/76.webp
+ alt: 'Australia from DurablePlumbingandGas'
 ---
 
 # Durable Plumbing and Gas

@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/lizard-pg.webp
- alt: 'Logo for Lizard Pg the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/322.webp
+ alt: 'NewZealand from lizardpg'
 ---
 
 # Lizard Pg is an Appliance Repair Technician Company operating in Timaru, New Zealand.

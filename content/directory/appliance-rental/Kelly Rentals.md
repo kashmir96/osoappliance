@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/kelly-rentals.webp
-    alt: Cover image for Kelly Rentals the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/329.webp
+ alt: 'UnitedStates from KellyRentals'
 ---
 
 # Kelly Rentals

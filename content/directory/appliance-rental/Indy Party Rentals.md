@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/indy-party-rentals.webp
-    alt: Cover image for Indy Party Rentals the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/180.webp
+ alt: 'UnitedStates from IndyPartyRentals'
 ---
 
 # Indy Party Rentals

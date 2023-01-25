@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/azuma-leasing-dfw.webp
-    alt: Cover image for AZUMA Leasing DFW the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/356.webp
+ alt: 'UnitedStates from AZUMALeasingDFW'
 ---
 
 # AZUMA Leasing DFW

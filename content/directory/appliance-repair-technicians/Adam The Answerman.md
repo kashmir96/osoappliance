@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/adam-the-answerman.webp
-    alt: Cover image for Adam The Answerman the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/296.webp
+ alt: 'UnitedStates from AdamTheAnswerman'
 ---
 
 # Adam The Answerman

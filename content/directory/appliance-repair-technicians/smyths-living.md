@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Parts, Installation, Second hand appliances,
 categories: ["New Zealand"]
 tags: ["Dunedin"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-parts,-installation,-second-hand-appliances,-new-appliances/smyths-living.webp
- alt: 'Logo for Smyths Living the New Zealand from Dunedin'
+cover:
+ image: /img/laundryappliance/187.webp
+ alt: 'NewZealand from smythsliving'
 ---
 
 # Smyths Living is an Appliance Repair Technician, Parts, Installation, Second hand appliances, New Appliances Company operating in Dunedin, New Zealand.

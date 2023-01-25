@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/telebox.webp
-    alt: Cover image for TeleBox the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/154.webp
+ alt: 'UnitedKingdom from TeleBox'
 ---
 
 # TeleBox

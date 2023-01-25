@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hull-city-handyman.webp
-    alt: Cover image for Hull City Handyman the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/150.webp
+ alt: 'UnitedKingdom from HullCityHandyman'
 ---
 
 # Hull City Handyman

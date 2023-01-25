@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/quick-appliance-repair-today.webp
-    alt: Cover image for Quick Appliance Repair Today the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/81.webp
+ alt: 'UnitedStates from QuickApplianceRepairToday'
 ---
 
 # Quick Appliance Repair Today

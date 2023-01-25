@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/darling-downs-refrigeration.webp
-    alt: Cover image for Darling Downs Refrigeration the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/35.webp
+ alt: 'Australia from DarlingDownsRefrigeration'
 ---
 
 # Darling Downs Refrigeration

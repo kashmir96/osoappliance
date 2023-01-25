@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Gisborne"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/walker-services.webp
- alt: 'Logo for Walker Services the New Zealand from Gisborne'
+cover:
+ image: /img/laundryappliance/118.webp
+ alt: 'NewZealand from walkerservices'
 ---
 
 # Walker Services is an Appliance Repair Technician Company operating in Gisborne, New Zealand.

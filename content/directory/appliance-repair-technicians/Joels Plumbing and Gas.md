@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/joels-plumbing-and-gas.webp
-    alt: Cover image for Joels Plumbing and Gas the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/209.webp
+ alt: 'Australia from JoelsPlumbingandGas'
 ---
 
 # Joels Plumbing and Gas

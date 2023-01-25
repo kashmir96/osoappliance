@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/san-diego-appliance-repair-service-llc-washer-dryer-repair.webp
-    alt: Cover image for San Diego Appliance Repair Service LLC Washer Dryer Repair the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/159.webp
+ alt: 'UnitedStates from SanDiegoApplianceRepairServiceLLCWasherDryerRepair'
 ---
 
 # San Diego Appliance Repair Service LLC Washer Dryer Repair

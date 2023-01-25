@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hireall.webp
-    alt: Cover image for Hireall the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/198.webp
+ alt: 'Australia from Hireall'
 ---
 
 # Hireall

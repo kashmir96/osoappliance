@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["New Plymouth"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/tt-electrical.webp
- alt: 'Logo for TT Electrical the New Zealand from New Plymouth'
+cover:
+ image: /img/laundryappliance/278.webp
+ alt: 'NewZealand from ttelectrical'
 ---
 
 # TT Electrical is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.

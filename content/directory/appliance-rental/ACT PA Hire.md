@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/act-pa-hire.webp
-    alt: Cover image for ACT PA Hire the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/233.webp
+ alt: 'Australia from ACTPAHire'
 ---
 
 # ACT PA Hire

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/toowoomba-electrical-repairs.webp
-    alt: Cover image for Toowoomba Electrical Repairs the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/353.webp
+ alt: 'Australia from ToowoombaElectricalRepairs'
 ---
 
 # Toowoomba Electrical Repairs

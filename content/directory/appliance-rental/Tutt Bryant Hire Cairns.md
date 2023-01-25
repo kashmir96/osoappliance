@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tutt-bryant-hire-cairns.webp
-    alt: Cover image for Tutt Bryant Hire Cairns the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/32.webp
+ alt: 'Australia from TuttBryantHireCairns'
 ---
 
 # Tutt Bryant Hire Cairns

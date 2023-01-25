@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kitchenaid-repairs-philadelphia.webp
-    alt: Cover image for KitchenAid Repairs Philadelphia the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/214.webp
+ alt: 'UnitedStates from KitchenAidRepairsPhiladelphia'
 ---
 
 # KitchenAid Repairs Philadelphia

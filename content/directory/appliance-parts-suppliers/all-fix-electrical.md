@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/all-fix-electrical.webp
- alt: 'Logo for All Fix Electrical the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/14.webp
+ alt: 'Australia from allfixelectrical'
 ---
 
 # All Fix Electrical is an Appliance Parts Supplier from Australia.

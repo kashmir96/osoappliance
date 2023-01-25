@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/vp-ess-glasgow-west.webp
-    alt: Cover image for Vp ESS Glasgow West the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/116.webp
+ alt: 'UnitedKingdom from VpESSGlasgowWest'
 ---
 
 # Vp ESS Glasgow West

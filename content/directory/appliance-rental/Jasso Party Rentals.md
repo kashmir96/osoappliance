@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/jasso-party-rentals.webp
-    alt: Cover image for Jasso Party Rentals the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/383.webp
+ alt: 'UnitedStates from JassoPartyRentals'
 ---
 
 # Jasso Party Rentals

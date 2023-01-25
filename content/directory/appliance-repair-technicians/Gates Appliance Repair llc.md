@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gates-appliance-repair-llc.webp
-    alt: Cover image for Gates Appliance Repair llc the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/161.webp
+ alt: 'UnitedStates from GatesApplianceRepairllc'
 ---
 
 # Gates Appliance Repair llc

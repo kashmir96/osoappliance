@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sign-fairy-au-launceston.webp
-    alt: Cover image for Sign Fairy AU Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/173.webp
+ alt: 'Australia from SignFairyAULaunceston'
 ---
 
 # Sign Fairy AU Launceston

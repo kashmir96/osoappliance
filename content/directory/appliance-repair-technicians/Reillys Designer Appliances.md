@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/reillys-designer-appliances.webp
-    alt: Cover image for Reillys Designer Appliances the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/257.webp
+ alt: 'Australia from ReillysDesignerAppliances'
 ---
 
 # Reillys Designer Appliances

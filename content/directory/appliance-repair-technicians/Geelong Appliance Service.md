@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/geelong-appliance-service.webp
-    alt: Cover image for Geelong Appliance Service the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/64.webp
+ alt: 'Australia from GeelongApplianceService'
 ---
 
 # Geelong Appliance Service

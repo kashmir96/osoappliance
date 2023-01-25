@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/t-james-domestic-appliance-repairs.webp
-    alt: Cover image for T James Domestic Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/140.webp
+ alt: 'UnitedKingdom from TJamesDomesticApplianceRepairs'
 ---
 
 # T James Domestic Appliance Repairs

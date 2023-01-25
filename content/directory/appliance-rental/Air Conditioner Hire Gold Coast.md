@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/air-conditioner-hire-gold-coast.webp
-    alt: Cover image for Air Conditioner Hire Gold Coast the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/114.webp
+ alt: 'Australia from AirConditionerHireGoldCoast'
 ---
 
 # Air Conditioner Hire Gold Coast

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bing-lee.webp
-    alt: Cover image for Bing Lee the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/323.webp
+ alt: 'Australia from BingLee'
 ---
 
 # Bing Lee

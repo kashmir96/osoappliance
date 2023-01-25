@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/houston-katy-appliance-repair.webp
-    alt: Cover image for Houston Katy Appliance Repair the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/202.webp
+ alt: 'UnitedStates from HoustonKatyApplianceRepair'
 ---
 
 # Houston Katy Appliance Repair

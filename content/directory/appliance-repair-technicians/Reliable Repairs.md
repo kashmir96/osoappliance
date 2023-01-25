@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/reliable-repairs.webp
-    alt: Cover image for Reliable Repairs the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/41.webp
+ alt: 'UnitedKingdom from ReliableRepairs'
 ---
 
 # Reliable Repairs

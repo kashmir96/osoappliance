@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jaycee-plumbing-and-gas-fitting.webp
-    alt: Cover image for Jaycee Plumbing and Gas Fitting the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/184.webp
+ alt: 'Australia from JayceePlumbingandGasFitting'
 ---
 
 # Jaycee Plumbing and Gas Fitting

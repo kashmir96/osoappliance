@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/clevedon-domestics.webp
-    alt: Cover image for Clevedon Domestics the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/158.webp
+ alt: 'UnitedKingdom from ClevedonDomestics'
 ---
 
 # Clevedon Domestics

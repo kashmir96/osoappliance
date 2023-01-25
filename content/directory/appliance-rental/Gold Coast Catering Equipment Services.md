@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/gold-coast-catering-equipment-services.webp
-    alt: Cover image for Gold Coast Catering Equipment Services the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/271.webp
+ alt: 'Australia from GoldCoastCateringEquipmentServices'
 ---
 
 # Gold Coast Catering Equipment Services

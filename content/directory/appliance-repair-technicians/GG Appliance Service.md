@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gg-appliance-service.webp
-    alt: Cover image for GG Appliance Service the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/137.webp
+ alt: 'UnitedStates from GGApplianceService'
 ---
 
 # GG Appliance Service

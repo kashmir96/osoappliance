@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-fridge-man.webp
-    alt: Cover image for The Fridge Man the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/253.webp
+ alt: 'UnitedKingdom from TheFridgeMan'
 ---
 
 # The Fridge Man

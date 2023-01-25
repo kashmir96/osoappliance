@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rock-n-roll-rentals.webp
-    alt: Cover image for Rock n Roll Rentals the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/340.webp
+ alt: 'UnitedStates from RocknRollRentals'
 ---
 
 # Rock n Roll Rentals

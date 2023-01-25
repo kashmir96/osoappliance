@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sd-appliance-service.webp
-    alt: Cover image for SD Appliance Service the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/45.webp
+ alt: 'UnitedStates from SDApplianceService'
 ---
 
 # SD Appliance Service

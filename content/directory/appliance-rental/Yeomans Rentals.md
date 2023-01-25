@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/yeomans-rentals.webp
-    alt: Cover image for Yeomans Rentals the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/36.webp
+ alt: 'Australia from YeomansRentals'
 ---
 
 # Yeomans Rentals

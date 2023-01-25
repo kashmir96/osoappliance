@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/eagle-rock-appliances.webp
-    alt: Cover image for eagle rock appliances the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/30.webp
+ alt: 'UnitedStates from eaglerockappliances'
 ---
 
 # eagle rock appliances

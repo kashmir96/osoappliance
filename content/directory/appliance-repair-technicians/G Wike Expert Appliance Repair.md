@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/g-wike-expert-appliance-repair.webp
-    alt: Cover image for G Wike Expert Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/342.webp
+ alt: 'UnitedStates from GWikeExpertApplianceRepair'
 ---
 
 # G Wike Expert Appliance Repair

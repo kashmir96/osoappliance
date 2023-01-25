@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/904-appliance-repair.webp
-    alt: Cover image for 904 Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/363.webp
+ alt: 'UnitedStates from 904ApplianceRepair'
 ---
 
 # 904 Appliance Repair

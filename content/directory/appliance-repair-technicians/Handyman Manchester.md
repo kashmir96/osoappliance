@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/handyman-manchester.webp
-    alt: Cover image for Handyman Manchester the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/318.webp
+ alt: 'UnitedKingdom from HandymanManchester'
 ---
 
 # Handyman Manchester

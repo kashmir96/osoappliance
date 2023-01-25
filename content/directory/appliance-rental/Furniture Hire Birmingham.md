@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/furniture-hire-birmingham.webp
-    alt: Cover image for Furniture Hire Birmingham the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/300.webp
+ alt: 'UnitedKingdom from FurnitureHireBirmingham'
 ---
 
 # Furniture Hire Birmingham

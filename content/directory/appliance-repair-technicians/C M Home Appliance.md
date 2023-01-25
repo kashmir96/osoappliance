@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/c-m-home-appliance.webp
-    alt: Cover image for C M Home Appliance the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/201.webp
+ alt: 'UnitedStates from CMHomeAppliance'
 ---
 
 # C M Home Appliance

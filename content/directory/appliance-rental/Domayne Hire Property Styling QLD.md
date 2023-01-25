@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/domayne-hire-property-styling-qld.webp
-    alt: Cover image for Domayne Hire Property Styling QLD the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/167.webp
+ alt: 'Australia from DomayneHirePropertyStylingQLD'
 ---
 
 # Domayne Hire Property Styling QLD

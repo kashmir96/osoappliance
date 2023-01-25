@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cater-buddy-ltd.webp
-    alt: Cover image for Cater Buddy Ltd the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/71.webp
+ alt: 'UnitedKingdom from CaterBuddyLtd'
 ---
 
 # Cater Buddy Ltd

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/party-central-jumping-castles.webp
-    alt: Cover image for Party central jumping castles the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/175.webp
+ alt: 'Australia from Partycentraljumpingcastles'
 ---
 
 # Party central jumping castles

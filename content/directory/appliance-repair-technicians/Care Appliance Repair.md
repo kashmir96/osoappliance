@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/care-appliance-repair.webp
-    alt: Cover image for Care Appliance Repair the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/95.webp
+ alt: 'UnitedKingdom from CareApplianceRepair'
 ---
 
 # Care Appliance Repair

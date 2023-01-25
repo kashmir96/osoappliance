@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/platinum-style-event-hire.webp
-    alt: Cover image for Platinum Style Event Hire the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/353.webp
+ alt: 'Australia from PlatinumStyleEventHire'
 ---
 
 # Platinum Style Event Hire

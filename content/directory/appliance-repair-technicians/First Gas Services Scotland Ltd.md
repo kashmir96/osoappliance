@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/first-gas-services-scotland-ltd.webp
-    alt: Cover image for First Gas Services Scotland Ltd the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/138.webp
+ alt: 'UnitedKingdom from FirstGasServicesScotlandLtd'
 ---
 
 # First Gas Services Scotland Ltd

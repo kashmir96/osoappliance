@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/friendly-tv-service.webp
-    alt: Cover image for Friendly Tv Service the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/341.webp
+ alt: 'UnitedKingdom from FriendlyTvService'
 ---
 
 # Friendly Tv Service

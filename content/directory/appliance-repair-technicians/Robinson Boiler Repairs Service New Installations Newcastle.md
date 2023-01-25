@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/robinson-boiler-repairs-service-new-installations-newcastle.webp
-    alt: Cover image for Robinson Boiler Repairs Service New Installations Newcastle the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/238.webp
+ alt: 'UnitedKingdom from RobinsonBoilerRepairsServiceNewInstallationsNewcastle'
 ---
 
 # Robinson Boiler Repairs Service New Installations Newcastle

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-midtown-phoenix.webp
-    alt: Cover image for Mr Appliance of Midtown Phoenix the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/235.webp
+ alt: 'UnitedStates from MrApplianceofMidtownPhoenix'
 ---
 
 # Mr Appliance of Midtown Phoenix

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/complete-appliance-repair-denver-metro-area-and-beyond.webp
-    alt: Cover image for Complete Appliance Repair Denver Metro Area and Beyond the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/297.webp
+ alt: 'UnitedStates from CompleteApplianceRepairDenverMetroAreaandBeyond'
 ---
 
 # Complete Appliance Repair Denver Metro Area and Beyond

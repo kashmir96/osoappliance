@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cuckoo-rental-쿠쿠-렌탈-비디오-마트-los-angeles.webp
-    alt: Cover image for CUCKOO RENTAL 쿠쿠 렌탈 비디오 마트 Los Angeles the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/322.webp
+ alt: 'UnitedStates from CUCKOORENTAL쿠쿠렌탈비디오마트LosAngeles'
 ---
 
 # CUCKOO RENTAL 쿠쿠 렌탈 비디오 마트 Los Angeles

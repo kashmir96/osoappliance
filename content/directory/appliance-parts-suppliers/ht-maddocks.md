@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/ht-maddocks.webp
- alt: 'Logo for Ht Maddocks the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/29.webp
+ alt: 'UnitedKingdom from htmaddocks'
 ---
 
 # Ht Maddocks is an Appliance Parts Supplier from United Kingdom.

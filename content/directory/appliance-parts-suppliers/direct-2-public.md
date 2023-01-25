@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/direct-2-public.webp
- alt: 'Logo for Direct 2 Public the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/189.webp
+ alt: 'UnitedKingdom from direct2public'
 ---
 
 # Direct 2 Public is an Appliance Parts Supplier from United Kingdom.

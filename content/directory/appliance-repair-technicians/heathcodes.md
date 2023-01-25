@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/heathcodes.webp
- alt: 'Logo for Heathcodes the New Zealand from Hamilton'
+cover:
+ image: /img/laundryappliance/80.webp
+ alt: 'NewZealand from heathcodes'
 ---
 
 # Heathcodes is an Appliance Repair Technician Company operating in Hamilton, New Zealand.

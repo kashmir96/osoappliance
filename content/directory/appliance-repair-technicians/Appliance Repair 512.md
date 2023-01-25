@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-512.webp
-    alt: Cover image for Appliance Repair 512 the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/155.webp
+ alt: 'UnitedStates from ApplianceRepair512'
 ---
 
 # Appliance Repair 512

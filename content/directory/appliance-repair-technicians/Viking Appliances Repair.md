@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/viking-appliances-repair.webp
-    alt: Cover image for Viking Appliances Repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/387.webp
+ alt: 'UnitedStates from VikingAppliancesRepair'
 ---
 
 # Viking Appliances Repair

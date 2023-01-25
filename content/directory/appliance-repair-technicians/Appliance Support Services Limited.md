@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-support-services-limited.webp
-    alt: Cover image for Appliance Support Services Limited the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/1.webp
+ alt: 'UnitedKingdom from ApplianceSupportServicesLimited'
 ---
 
 # Appliance Support Services Limited

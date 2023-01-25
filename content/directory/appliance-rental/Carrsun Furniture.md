@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/carrsun-furniture.webp
-    alt: Cover image for Carrsun Furniture the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/199.webp
+ alt: 'UnitedStates from CarrsunFurniture'
 ---
 
 # Carrsun Furniture

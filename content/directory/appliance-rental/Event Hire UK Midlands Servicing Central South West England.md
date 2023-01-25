@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/event-hire-uk-midlands-servicing-central-south-west-england.webp
-    alt: Cover image for Event Hire UK Midlands Servicing Central South West England the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/212.webp
+ alt: 'UnitedKingdom from EventHireUKMidlandsServicingCentralSouthWestEngland'
 ---
 
 # Event Hire UK Midlands Servicing Central South West England

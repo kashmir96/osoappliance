@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hotovens.webp
-    alt: Cover image for Hotovens the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/272.webp
+ alt: 'UnitedKingdom from Hotovens'
 ---
 
 # Hotovens

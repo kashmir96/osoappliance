@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/walmart.webp
- alt: 'Logo for Walmart the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/188.webp
+ alt: 'Canada from walmart'
 ---
 
 # Walmart is an Appliance Parts Supplier from Canada.

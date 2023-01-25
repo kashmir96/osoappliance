@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/graeme-kent-electrical-appliance-geelong-service-pty-ltd.webp
-    alt: Cover image for Graeme Kent Electrical Appliance Geelong Service Pty Ltd the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/243.webp
+ alt: 'Australia from GraemeKentElectricalApplianceGeelongServicePtyLtd'
 ---
 
 # Graeme Kent Electrical Appliance Geelong Service Pty Ltd

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/local-appliance-rentals-werribee.webp
-    alt: Cover image for Local Appliance Rentals Werribee the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/61.webp
+ alt: 'Australia from LocalApplianceRentalsWerribee'
 ---
 
 # Local Appliance Rentals Werribee

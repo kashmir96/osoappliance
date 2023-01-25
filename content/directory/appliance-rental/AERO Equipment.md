@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aero-equipment.webp
-    alt: Cover image for AERO Equipment the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/397.webp
+ alt: 'UnitedStates from AEROEquipment'
 ---
 
 # AERO Equipment

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-zone-service.webp
-    alt: Cover image for Appliance Zone Service the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/1.webp
+ alt: 'UnitedStates from ApplianceZoneService'
 ---
 
 # Appliance Zone Service

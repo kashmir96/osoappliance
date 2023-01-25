@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/expert-heat-limited.webp
-    alt: Cover image for Expert Heat Limited the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/132.webp
+ alt: 'UnitedKingdom from ExpertHeatLimited'
 ---
 
 # Expert Heat Limited

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kerrs-electrical-appliance-service.webp
-    alt: Cover image for Kerrs Electrical Appliance Service the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/30.webp
+ alt: 'Australia from KerrsElectricalApplianceService'
 ---
 
 # Kerrs Electrical Appliance Service

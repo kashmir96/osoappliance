@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-man.webp
-    alt: Cover image for Appliance Repair Man the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/310.webp
+ alt: 'UnitedKingdom from ApplianceRepairMan'
 ---
 
 # Appliance Repair Man

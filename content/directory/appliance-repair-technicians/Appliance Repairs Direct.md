@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repairs-direct.webp
-    alt: Cover image for Appliance Repairs Direct the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/221.webp
+ alt: 'UnitedKingdom from ApplianceRepairsDirect'
 ---
 
 # Appliance Repairs Direct

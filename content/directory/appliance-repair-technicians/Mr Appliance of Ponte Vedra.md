@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-ponte-vedra.webp
-    alt: Cover image for Mr Appliance of Ponte Vedra the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/400.webp
+ alt: 'UnitedStates from MrApplianceofPonteVedra'
 ---
 
 # Mr Appliance of Ponte Vedra

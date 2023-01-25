@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rental-equipment-register.webp
-    alt: Cover image for Rental Equipment Register the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/245.webp
+ alt: 'UnitedStates from RentalEquipmentRegister'
 ---
 
 # Rental Equipment Register

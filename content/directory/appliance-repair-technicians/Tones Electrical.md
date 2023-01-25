@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tones-electrical.webp
-    alt: Cover image for Tones Electrical the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/59.webp
+ alt: 'Australia from TonesElectrical'
 ---
 
 # Tones Electrical

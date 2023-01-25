@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fridge-experts.webp
-    alt: Cover image for Fridge Experts the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/82.webp
+ alt: 'Australia from FridgeExperts'
 ---
 
 # Fridge Experts

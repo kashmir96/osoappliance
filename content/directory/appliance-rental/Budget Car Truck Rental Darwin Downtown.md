@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/budget-car-truck-rental-darwin-downtown.webp
-    alt: Cover image for Budget Car Truck Rental Darwin Downtown the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/311.webp
+ alt: 'Australia from BudgetCarTruckRentalDarwinDowntown'
 ---
 
 # Budget Car Truck Rental Darwin Downtown

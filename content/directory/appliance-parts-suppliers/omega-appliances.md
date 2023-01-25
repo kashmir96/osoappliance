@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/omega-appliances.webp
- alt: 'Logo for Omega Appliances the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/11.webp
+ alt: 'NewZealand from omegaappliances'
 ---
 
 # Omega Appliances is an Appliance Parts Supplier from New Zealand.

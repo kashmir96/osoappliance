@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Rotorua"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/temprite.webp
- alt: 'Logo for Temprite the New Zealand from Rotorua'
+cover:
+ image: /img/laundryappliance/247.webp
+ alt: 'NewZealand from temprite'
 ---
 
 # Temprite is an Appliance Repair Technician Company operating in Rotorua, New Zealand.

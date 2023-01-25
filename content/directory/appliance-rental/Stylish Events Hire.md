@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/stylish-events-hire.webp
-    alt: Cover image for Stylish Events Hire the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/399.webp
+ alt: 'Australia from StylishEventsHire'
 ---
 
 # Stylish Events Hire

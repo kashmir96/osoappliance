@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/modern-appliance-repair.webp
-    alt: Cover image for Modern Appliance Repair the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/297.webp
+ alt: 'UnitedStates from ModernApplianceRepair'
 ---
 
 # Modern Appliance Repair

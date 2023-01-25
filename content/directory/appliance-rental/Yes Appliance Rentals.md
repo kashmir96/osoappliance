@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/yes-appliance-rentals.webp
-    alt: Cover image for Yes Appliance Rentals the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/73.webp
+ alt: 'UnitedKingdom from YesApplianceRentals'
 ---
 
 # Yes Appliance Rentals

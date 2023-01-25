@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-park-slope.webp
-    alt: Cover image for Mr Appliance of Park Slope the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/212.webp
+ alt: 'UnitedStates from MrApplianceofParkSlope'
 ---
 
 # Mr Appliance of Park Slope

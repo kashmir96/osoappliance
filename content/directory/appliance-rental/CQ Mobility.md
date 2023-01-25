@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cq-mobility.webp
-    alt: Cover image for CQ Mobility the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/111.webp
+ alt: 'Australia from CQMobility'
 ---
 
 # CQ Mobility

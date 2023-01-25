@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ajs-appliance-service-repair.webp
-    alt: Cover image for AJs Appliance Service Repair the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/241.webp
+ alt: 'UnitedStates from AJsApplianceServiceRepair'
 ---
 
 # AJs Appliance Service Repair

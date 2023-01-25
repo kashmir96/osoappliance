@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/rentronics.webp
- alt: 'Logo for Rentronics the Appliance Rental business from Auckland, New Zealand'
+cover:
+ image: /img/laundryappliance/138.webp
+ alt: 'NewZealand from rentronics'
 ---
 
 Rentronics is an Appliance Rental business located in Auckland, New Zealand. 

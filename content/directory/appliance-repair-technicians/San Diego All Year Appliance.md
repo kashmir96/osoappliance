@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/san-diego-all-year-appliance.webp
-    alt: Cover image for San Diego All Year Appliance the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/20.webp
+ alt: 'UnitedStates from SanDiegoAllYearAppliance'
 ---
 
 # San Diego All Year Appliance

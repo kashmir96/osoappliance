@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/noosa-appliance-service.webp
-    alt: Cover image for Noosa Appliance Service the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/185.webp
+ alt: 'Australia from NoosaApplianceService'
 ---
 
 # Noosa Appliance Service

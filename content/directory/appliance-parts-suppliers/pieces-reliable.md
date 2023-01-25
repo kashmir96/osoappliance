@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/pieces-reliable.webp
- alt: 'Logo for Pieces Reliable the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/90.webp
+ alt: 'Canada from piecesreliable'
 ---
 
 # Pieces Reliable is an Appliance Parts Supplier from Canada.

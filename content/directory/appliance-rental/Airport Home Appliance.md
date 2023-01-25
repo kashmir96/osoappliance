@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/airport-home-appliance.webp
-    alt: Cover image for Airport Home Appliance the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/116.webp
+ alt: 'UnitedStates from AirportHomeAppliance'
 ---
 
 # Airport Home Appliance

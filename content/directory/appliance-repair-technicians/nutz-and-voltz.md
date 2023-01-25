@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Taupo"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/nutz-and-voltz.webp
- alt: 'Logo for Nutz and Voltz the New Zealand from Taupo'
+cover:
+ image: /img/laundryappliance/288.webp
+ alt: 'NewZealand from nutzandvoltz'
 ---
 
 # Nutz and Voltz is an Appliance Repair Technician Company operating in Taupo, New Zealand.

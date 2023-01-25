@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bee-lavish-vintage-rental.webp
-    alt: Cover image for Bee Lavish Vintage Rental the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/120.webp
+ alt: 'UnitedStates from BeeLavishVintageRental'
 ---
 
 # Bee Lavish Vintage Rental

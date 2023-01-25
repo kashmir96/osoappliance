@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/benair-plumbing-refrigeration.webp
-    alt: Cover image for Benair Plumbing Refrigeration the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/364.webp
+ alt: 'Australia from BenairPlumbingRefrigeration'
 ---
 
 # Benair Plumbing Refrigeration

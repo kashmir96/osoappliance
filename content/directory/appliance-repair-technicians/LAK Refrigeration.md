@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lak-refrigeration.webp
-    alt: Cover image for LAK Refrigeration the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/60.webp
+ alt: 'UnitedKingdom from LAKRefrigeration'
 ---
 
 # LAK Refrigeration

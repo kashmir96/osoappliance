@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lsg-microwave-services.webp
-    alt: Cover image for lsg microwave services the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/112.webp
+ alt: 'UnitedKingdom from lsgmicrowaveservices'
 ---
 
 # lsg microwave services

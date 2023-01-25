@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/hadlee-and-brunton.webp
- alt: 'Logo for Hadlee And Brunton the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/106.webp
+ alt: 'NewZealand from hadleeandbrunton'
 ---
 
 # Hadlee And Brunton is an Appliance Repair Technician Company operating in Timaru, New Zealand.

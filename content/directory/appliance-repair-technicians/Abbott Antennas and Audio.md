@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abbott-antennas-and-audio.webp
-    alt: Cover image for Abbott Antennas and Audio the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/136.webp
+ alt: 'Australia from AbbottAntennasandAudio'
 ---
 
 # Abbott Antennas and Audio

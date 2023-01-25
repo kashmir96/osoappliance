@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/prompt-and-precise.webp
- alt: 'Logo for Prompt And Precise the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/47.webp
+ alt: 'UnitedKingdom from promptandprecise'
 ---
 
 # Prompt And Precise is an Appliance Parts Supplier from United Kingdom.

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kingswood-appliances.webp
-    alt: Cover image for Kingswood Appliances the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/21.webp
+ alt: 'UnitedKingdom from KingswoodAppliances'
 ---
 
 # Kingswood Appliances

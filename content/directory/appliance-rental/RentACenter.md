@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rentacenter.webp
-    alt: Cover image for RentACenter the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/264.webp
+ alt: 'UnitedStates from RentACenter'
 ---
 
 # RentACenter

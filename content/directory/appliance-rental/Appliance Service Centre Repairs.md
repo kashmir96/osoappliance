@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/appliance-service-centre-repairs.webp
-    alt: Cover image for Appliance Service Centre Repairs the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/290.webp
+ alt: 'UnitedKingdom from ApplianceServiceCentreRepairs'
 ---
 
 # Appliance Service Centre Repairs

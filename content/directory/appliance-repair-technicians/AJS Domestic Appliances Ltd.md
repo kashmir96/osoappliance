@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ajs-domestic-appliances-ltd.webp
-    alt: Cover image for AJS Domestic Appliances Ltd the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/242.webp
+ alt: 'UnitedKingdom from AJSDomesticAppliancesLtd'
 ---
 
 # AJS Domestic Appliances Ltd

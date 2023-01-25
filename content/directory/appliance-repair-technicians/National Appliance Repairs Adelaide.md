@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/national-appliance-repairs-adelaide.webp
-    alt: Cover image for National Appliance Repairs Adelaide the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/68.webp
+ alt: 'Australia from NationalApplianceRepairsAdelaide'
 ---
 
 # National Appliance Repairs Adelaide

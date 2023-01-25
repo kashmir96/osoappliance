@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-and-more.webp
-    alt: Cover image for Appliance and More the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/60.webp
+ alt: 'UnitedStates from ApplianceandMore'
 ---
 
 # Appliance and More

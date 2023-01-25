@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/violet-vintage-rentals.webp
-    alt: Cover image for Violet Vintage Rentals the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/297.webp
+ alt: 'UnitedStates from VioletVintageRentals'
 ---
 
 # Violet Vintage Rentals

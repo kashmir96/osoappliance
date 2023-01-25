@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/mamtus.webp
- alt: 'Logo for Mamtus the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/58.webp
+ alt: 'Nigeria from mamtus'
 ---
 
 # Mamtus is an Appliance Parts Supplier from Nigeria.

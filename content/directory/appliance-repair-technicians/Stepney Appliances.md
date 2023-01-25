@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/stepney-appliances.webp
-    alt: Cover image for Stepney Appliances the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/295.webp
+ alt: 'Australia from StepneyAppliances'
 ---
 
 # Stepney Appliances

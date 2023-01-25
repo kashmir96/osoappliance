@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hire-intelligence-perth.webp
-    alt: Cover image for Hire Intelligence Perth the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/168.webp
+ alt: 'Australia from HireIntelligencePerth'
 ---
 
 # Hire Intelligence Perth

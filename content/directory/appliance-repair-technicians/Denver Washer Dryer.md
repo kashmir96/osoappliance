@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/denver-washer-dryer.webp
-    alt: Cover image for Denver Washer Dryer the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/216.webp
+ alt: 'UnitedStates from DenverWasherDryer'
 ---
 
 # Denver Washer Dryer

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sje-plumbing-and-gas.webp
-    alt: Cover image for SJE PLUMBING AND GAS the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/229.webp
+ alt: 'UnitedKingdom from SJEPLUMBINGANDGAS'
 ---
 
 # SJE PLUMBING AND GAS

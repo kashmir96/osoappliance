@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dishwasher-repairs-bristol.webp
-    alt: Cover image for Dishwasher Repairs Bristol the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/141.webp
+ alt: 'UnitedKingdom from DishwasherRepairsBristol'
 ---
 
 # Dishwasher Repairs Bristol

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/appliance-parts-hq.webp
- alt: 'Logo for Appliance Parts HQ the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/151.webp
+ alt: 'Canada from appliancepartshq'
 ---
 
 # Appliance Parts HQ is an Appliance Parts Supplier from Canada.

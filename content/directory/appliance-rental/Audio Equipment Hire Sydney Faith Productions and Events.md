@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/audio-equipment-hire-sydney-faith-productions-and-events.webp
-    alt: Cover image for Audio Equipment Hire Sydney Faith Productions and Events the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/261.webp
+ alt: 'Australia from AudioEquipmentHireSydneyFaithProductionsandEvents'
 ---
 
 # Audio Equipment Hire Sydney Faith Productions and Events

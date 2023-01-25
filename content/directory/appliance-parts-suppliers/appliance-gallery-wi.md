@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/appliance-gallery-wi.webp
- alt: 'Logo for Appliance Gallery WI the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/120.webp
+ alt: 'Canada from appliancegallerywi'
 ---
 
 # Appliance Gallery WI is an Appliance Parts Supplier from Canada.

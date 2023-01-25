@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jds-gas-services.webp
-    alt: Cover image for JDS GAS SERVICES the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/55.webp
+ alt: 'UnitedKingdom from JDSGASSERVICES'
 ---
 
 # JDS GAS SERVICES

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/daviess-domestic-appliances.webp
-    alt: Cover image for Daviess Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/80.webp
+ alt: 'UnitedKingdom from DaviessDomesticAppliances'
 ---
 
 # Daviess Domestic Appliances

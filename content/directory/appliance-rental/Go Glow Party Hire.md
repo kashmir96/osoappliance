@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/go-glow-party-hire.webp
-    alt: Cover image for Go Glow Party Hire the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/253.webp
+ alt: 'Australia from GoGlowPartyHire'
 ---
 
 # Go Glow Party Hire

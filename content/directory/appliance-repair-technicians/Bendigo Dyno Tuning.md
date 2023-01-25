@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bendigo-dyno-tuning.webp
-    alt: Cover image for Bendigo Dyno Tuning the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/119.webp
+ alt: 'Australia from BendigoDynoTuning'
 ---
 
 # Bendigo Dyno Tuning

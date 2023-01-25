@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-own.webp
-    alt: Cover image for Rent Own the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/352.webp
+ alt: 'Australia from RentOwn'
 ---
 
 # Rent Own

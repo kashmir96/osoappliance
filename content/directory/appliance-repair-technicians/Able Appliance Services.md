@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/able-appliance-services.webp
-    alt: Cover image for Able Appliance Services the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/112.webp
+ alt: 'UnitedKingdom from AbleApplianceServices'
 ---
 
 # Able Appliance Services

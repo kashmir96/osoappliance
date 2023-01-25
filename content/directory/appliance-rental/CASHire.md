@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cashire.webp
-    alt: Cover image for CASHire the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/287.webp
+ alt: 'UnitedKingdom from CASHire'
 ---
 
 # CASHire

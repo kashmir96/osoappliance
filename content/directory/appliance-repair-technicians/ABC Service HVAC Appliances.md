@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abc-service-hvac-appliances.webp
-    alt: Cover image for ABC Service HVAC Appliances the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/145.webp
+ alt: 'UnitedStates from ABCServiceHVACAppliances'
 ---
 
 # ABC Service HVAC Appliances

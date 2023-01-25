@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/charlotte-equipment-rental.webp
-    alt: Cover image for Charlotte Equipment Rental the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/69.webp
+ alt: 'UnitedStates from CharlotteEquipmentRental'
 ---
 
 # Charlotte Equipment Rental

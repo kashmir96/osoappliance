@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cairns-power-tool-repairs.webp
-    alt: Cover image for Cairns Power Tool Repairs the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/383.webp
+ alt: 'Australia from CairnsPowerToolRepairs'
 ---
 
 # Cairns Power Tool Repairs

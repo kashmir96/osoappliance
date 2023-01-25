@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/is-appliance-repair.webp
-    alt: Cover image for IS Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/156.webp
+ alt: 'UnitedStates from ISApplianceRepair'
 ---
 
 # IS Appliance Repair

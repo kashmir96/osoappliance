@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/woogle.webp
-    alt: Cover image for Woogle the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/162.webp
+ alt: 'Australia from Woogle'
 ---
 
 # Woogle

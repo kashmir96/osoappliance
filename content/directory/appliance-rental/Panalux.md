@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/panalux.webp
-    alt: Cover image for Panalux the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/300.webp
+ alt: 'UnitedKingdom from Panalux'
 ---
 
 # Panalux

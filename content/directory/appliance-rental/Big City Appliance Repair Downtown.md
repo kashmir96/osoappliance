@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/big-city-appliance-repair-downtown.webp
-    alt: Cover image for Big City Appliance Repair Downtown the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/299.webp
+ alt: 'UnitedStates from BigCityApplianceRepairDowntown'
 ---
 
 # Big City Appliance Repair Downtown

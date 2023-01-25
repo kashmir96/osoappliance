@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bird-appliance-repair-services.webp
-    alt: Cover image for Bird Appliance Repair Services the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/229.webp
+ alt: 'UnitedStates from BirdApplianceRepairServices'
 ---
 
 # Bird Appliance Repair Services

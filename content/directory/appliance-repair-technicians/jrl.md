@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["New Plymouth"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/jrl.webp
- alt: 'Logo for JRL the New Zealand from New Plymouth'
+cover:
+ image: /img/laundryappliance/337.webp
+ alt: 'NewZealand from jrl'
 ---
 
 # JRL is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.

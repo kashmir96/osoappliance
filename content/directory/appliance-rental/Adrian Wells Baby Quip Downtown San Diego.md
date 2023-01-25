@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/adrian-wells-baby-quip-downtown-san-diego.webp
-    alt: Cover image for Adrian Wells Baby Quip Downtown San Diego the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/81.webp
+ alt: 'UnitedStates from AdrianWellsBabyQuipDowntownSanDiego'
 ---
 
 # Adrian Wells Baby Quip Downtown San Diego

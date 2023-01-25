@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hireworks-home-appliance-rental-white-goods-hire.webp
-    alt: Cover image for HIREWORKS Home appliance rental White goods hire the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/274.webp
+ alt: 'Australia from HIREWORKSHomeappliancerentalWhitegoodshire'
 ---
 
 # HIREWORKS Home appliance rental White goods hire

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/young-tv-hire-service.webp
-    alt: Cover image for Young TV Hire Service the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/172.webp
+ alt: 'Australia from YoungTVHireService'
 ---
 
 # Young TV Hire Service

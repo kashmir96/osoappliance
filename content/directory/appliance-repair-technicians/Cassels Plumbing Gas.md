@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cassels-plumbing-gas.webp
-    alt: Cover image for Cassels Plumbing Gas the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/188.webp
+ alt: 'Australia from CasselsPlumbingGas'
 ---
 
 # Cassels Plumbing Gas

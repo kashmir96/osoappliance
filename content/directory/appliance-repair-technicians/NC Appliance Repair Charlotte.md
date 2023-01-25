@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nc-appliance-repair-charlotte.webp
-    alt: Cover image for NC Appliance Repair Charlotte the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/375.webp
+ alt: 'UnitedStates from NCApplianceRepairCharlotte'
 ---
 
 # NC Appliance Repair Charlotte

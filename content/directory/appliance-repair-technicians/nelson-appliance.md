@@ -5,9 +5,9 @@ type: "Parts, Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Nelson"]
 author: Curtis
-cover: 
- image: /img/directory-images/parts,-appliance-repair-technician/nelson-appliance.webp
- alt: 'Logo for Nelson Appliance the New Zealand from Nelson'
+cover:
+ image: /img/laundryappliance/20.webp
+ alt: 'NewZealand from nelsonappliance'
 ---
 
 # Nelson Appliance is an Parts, Appliance Repair Technician Company operating in Nelson, New Zealand.

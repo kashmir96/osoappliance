@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/top-appliance-repair-nyc.webp
-    alt: Cover image for Top Appliance Repair NYC the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/72.webp
+ alt: 'UnitedStates from TopApplianceRepairNYC'
 ---
 
 # Top Appliance Repair NYC

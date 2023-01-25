@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repairs-ni-washing-machinesovens-etc.webp
-    alt: Cover image for Appliance Repairs NI Washing machinesovens etc the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/105.webp
+ alt: 'UnitedKingdom from ApplianceRepairsNIWashingmachinesovensetc'
 ---
 
 # Appliance Repairs NI Washing machinesovens etc

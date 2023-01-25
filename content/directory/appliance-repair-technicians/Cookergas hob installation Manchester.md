@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cookergas-hob-installation-manchester.webp
-    alt: Cover image for Cookergas hob installation Manchester the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/156.webp
+ alt: 'UnitedKingdom from CookergashobinstallationManchester'
 ---
 
 # Cookergas hob installation Manchester

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/terrys-appliance-service-repair-seattle.webp
-    alt: Cover image for Terrys Appliance Service Repair Seattle the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/167.webp
+ alt: 'UnitedStates from TerrysApplianceServiceRepairSeattle'
 ---
 
 # Terrys Appliance Service Repair Seattle

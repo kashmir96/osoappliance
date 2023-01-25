@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/thornbury-electrics.webp
-    alt: Cover image for Thornbury Electrics the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/262.webp
+ alt: 'Australia from ThornburyElectrics'
 ---
 
 # Thornbury Electrics

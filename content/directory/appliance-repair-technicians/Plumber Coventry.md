@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumber-coventry.webp
-    alt: Cover image for Plumber Coventry the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/248.webp
+ alt: 'UnitedKingdom from PlumberCoventry'
 ---
 
 # Plumber Coventry

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/united-rentals-storage-containers-and-mobile-offices.webp
-    alt: Cover image for United Rentals Storage Containers and Mobile Offices the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/27.webp
+ alt: 'UnitedStates from UnitedRentalsStorageContainersandMobileOffices'
 ---
 
 # United Rentals Storage Containers and Mobile Offices

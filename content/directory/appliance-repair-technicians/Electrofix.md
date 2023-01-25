@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/electrofix.webp
-    alt: Cover image for Electrofix the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/313.webp
+ alt: 'UnitedKingdom from Electrofix'
 ---
 
 # Electrofix

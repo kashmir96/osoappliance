@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ull-used-appliances.webp
-    alt: Cover image for ULL Used Appliances the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/187.webp
+ alt: 'UnitedStates from ULLUsedAppliances'
 ---
 
 # ULL Used Appliances

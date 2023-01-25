@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/black-label-events.webp
-    alt: Cover image for Black Label Events the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/254.webp
+ alt: 'Australia from BlackLabelEvents'
 ---
 
 # Black Label Events

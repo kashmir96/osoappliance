@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/event-rents.webp
-    alt: Cover image for Event Rents the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/319.webp
+ alt: 'UnitedStates from EventRents'
 ---
 
 # Event Rents

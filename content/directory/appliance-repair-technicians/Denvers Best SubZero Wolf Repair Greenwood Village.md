@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/denvers-best-subzero-wolf-repair-greenwood-village.webp
-    alt: Cover image for Denvers Best SubZero Wolf Repair Greenwood Village the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/202.webp
+ alt: 'UnitedStates from DenversBestSubZeroWolfRepairGreenwoodVillage'
 ---
 
 # Denvers Best SubZero Wolf Repair Greenwood Village

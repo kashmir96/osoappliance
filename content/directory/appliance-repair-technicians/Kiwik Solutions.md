@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kiwik-solutions.webp
-    alt: Cover image for Kiwik Solutions the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/393.webp
+ alt: 'Australia from KiwikSolutions'
 ---
 
 # Kiwik Solutions

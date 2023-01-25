@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/obrien-electrical-cairns-central.webp
-    alt: Cover image for OBrien Electrical Cairns Central the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/239.webp
+ alt: 'Australia from OBrienElectricalCairnsCentral'
 ---
 
 # OBrien Electrical Cairns Central

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/jumia.webp
- alt: 'Logo for Jumia the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/67.webp
+ alt: 'Nigeria from jumia'
 ---
 
 # Jumia is an Appliance Parts Supplier from Nigeria.

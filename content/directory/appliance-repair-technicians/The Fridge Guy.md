@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-fridge-guy.webp
-    alt: Cover image for The Fridge Guy the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/330.webp
+ alt: 'Australia from TheFridgeGuy'
 ---
 
 # The Fridge Guy

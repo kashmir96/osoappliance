@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ajb-washing-machinedryer-repairs.webp
-    alt: Cover image for AJB Washing MachineDryer Repairs the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/232.webp
+ alt: 'Australia from AJBWashingMachineDryerRepairs'
 ---
 
 # AJB Washing MachineDryer Repairs

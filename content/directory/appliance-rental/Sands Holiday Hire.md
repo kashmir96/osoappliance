@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sands-holiday-hire.webp
-    alt: Cover image for Sands Holiday Hire the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/38.webp
+ alt: 'Australia from SandsHolidayHire'
 ---
 
 # Sands Holiday Hire

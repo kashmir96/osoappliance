@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/phils-appliances.webp
-    alt: Cover image for Phils appliances the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/279.webp
+ alt: 'UnitedStates from Philsappliances'
 ---
 
 # Phils appliances

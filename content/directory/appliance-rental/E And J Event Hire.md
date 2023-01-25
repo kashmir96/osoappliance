@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/e-and-j-event-hire.webp
-    alt: Cover image for E And J Event Hire the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/85.webp
+ alt: 'UnitedKingdom from EAndJEventHire'
 ---
 
 # E And J Event Hire

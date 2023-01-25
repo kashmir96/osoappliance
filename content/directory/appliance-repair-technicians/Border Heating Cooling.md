@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/border-heating-cooling.webp
-    alt: Cover image for Border Heating Cooling the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/161.webp
+ alt: 'Australia from BorderHeatingCooling'
 ---
 
 # Border Heating Cooling

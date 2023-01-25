@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/portable-fridge-solutions.webp
-    alt: Cover image for Portable Fridge Solutions the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/122.webp
+ alt: 'Australia from PortableFridgeSolutions'
 ---
 
 # Portable Fridge Solutions

@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["New Plymouth"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/sos-appliance-repairs.webp
- alt: 'Logo for SOS Appliance Repairs the New Zealand from New Plymouth'
+cover:
+ image: /img/laundryappliance/24.webp
+ alt: 'NewZealand from sosappliancerepairs'
 ---
 
 # SOS Appliance Repairs is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.

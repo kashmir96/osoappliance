@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-services.webp
-    alt: Cover image for Appliance Services the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/157.webp
+ alt: 'UnitedKingdom from ApplianceServices'
 ---
 
 # Appliance Services

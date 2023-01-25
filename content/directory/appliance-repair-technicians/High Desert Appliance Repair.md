@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/high-desert-appliance-repair.webp
-    alt: Cover image for High Desert Appliance Repair the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/173.webp
+ alt: 'UnitedStates from HighDesertApplianceRepair'
 ---
 
 # High Desert Appliance Repair

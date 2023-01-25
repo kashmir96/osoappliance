@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/adlib-glasgow.webp
-    alt: Cover image for Adlib Glasgow the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/182.webp
+ alt: 'UnitedKingdom from AdlibGlasgow'
 ---
 
 # Adlib Glasgow

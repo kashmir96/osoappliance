@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ati-appliance-repair.webp
-    alt: Cover image for ATI appliance repair the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/187.webp
+ alt: 'UnitedStates from ATIappliancerepair'
 ---
 
 # ATI appliance repair

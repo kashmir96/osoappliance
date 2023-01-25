@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pacific-coast-appliance-repair-van-nuys.webp
-    alt: Cover image for Pacific Coast Appliance Repair Van Nuys the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/54.webp
+ alt: 'UnitedStates from PacificCoastApplianceRepairVanNuys'
 ---
 
 # Pacific Coast Appliance Repair Van Nuys

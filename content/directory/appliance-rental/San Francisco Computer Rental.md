@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/san-francisco-computer-rental.webp
-    alt: Cover image for San Francisco Computer Rental the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/223.webp
+ alt: 'UnitedStates from SanFranciscoComputerRental'
 ---
 
 # San Francisco Computer Rental

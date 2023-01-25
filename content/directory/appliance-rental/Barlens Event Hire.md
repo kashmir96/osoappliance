@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/barlens-event-hire.webp
-    alt: Cover image for Barlens Event Hire the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/348.webp
+ alt: 'Australia from BarlensEventHire'
 ---
 
 # Barlens Event Hire

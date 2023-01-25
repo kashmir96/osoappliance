@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-pro-repair.webp
-    alt: Cover image for Appliance PRO Repair the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/374.webp
+ alt: 'UnitedStates from AppliancePRORepair'
 ---
 
 # Appliance PRO Repair

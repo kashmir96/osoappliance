@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-nyc.webp
-    alt: Cover image for Mr Appliance NYC the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/278.webp
+ alt: 'UnitedStates from MrApplianceNYC'
 ---
 
 # Mr Appliance NYC

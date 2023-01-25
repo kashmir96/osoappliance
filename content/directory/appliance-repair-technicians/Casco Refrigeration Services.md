@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/casco-refrigeration-services.webp
-    alt: Cover image for Casco Refrigeration Services the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/314.webp
+ alt: 'Australia from CascoRefrigerationServices'
 ---
 
 # Casco Refrigeration Services

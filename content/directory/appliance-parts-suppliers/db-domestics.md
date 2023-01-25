@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/db-domestics.webp
- alt: 'Logo for Db Domestics the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/5.webp
+ alt: 'UnitedKingdom from dbdomestics'
 ---
 
 # Db Domestics is an Appliance Parts Supplier from United Kingdom.

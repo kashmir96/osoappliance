@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/mr-bean-2-cup.webp
- alt: 'Logo for Mr Bean 2 Cup the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/126.webp
+ alt: 'UnitedKingdom from mrbean2cup'
 ---
 
 # Mr Bean 2 Cup is an Appliance Parts Supplier from United Kingdom.

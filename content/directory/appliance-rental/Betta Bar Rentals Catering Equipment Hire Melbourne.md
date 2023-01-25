@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/betta-bar-rentals-catering-equipment-hire-melbourne.webp
-    alt: Cover image for Betta Bar Rentals Catering Equipment Hire Melbourne the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/288.webp
+ alt: 'Australia from BettaBarRentalsCateringEquipmentHireMelbourne'
 ---
 
 # Betta Bar Rentals Catering Equipment Hire Melbourne

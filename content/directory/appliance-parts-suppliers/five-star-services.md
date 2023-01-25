@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/five-star-services.webp
- alt: 'Logo for Five Star Services the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/161.webp
+ alt: 'UnitedKingdom from fivestarservices'
 ---
 
 # Five Star Services is an Appliance Parts Supplier from United Kingdom.

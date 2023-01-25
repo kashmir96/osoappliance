@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-rx.webp
-    alt: Cover image for Appliance Rx the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/362.webp
+ alt: 'UnitedStates from ApplianceRx'
 ---
 
 # Appliance Rx

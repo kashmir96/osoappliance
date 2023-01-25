@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/tauranga-appliance-repairs.webp
- alt: 'Logo for Tauranga Appliance Repairs the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/350.webp
+ alt: 'NewZealand from taurangaappliancerepairs'
 ---
 
 # Tauranga Appliance Repairs is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

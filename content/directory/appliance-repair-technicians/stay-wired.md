@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Masterton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/stay-wired.webp
- alt: 'Logo for Stay Wired the New Zealand from Masterton'
+cover:
+ image: /img/laundryappliance/192.webp
+ alt: 'NewZealand from staywired'
 ---
 
 # Stay Wired is an Appliance Repair Technician Company operating in Masterton, New Zealand.

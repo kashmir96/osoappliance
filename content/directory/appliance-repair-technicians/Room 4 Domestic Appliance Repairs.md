@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/room-4-domestic-appliance-repairs.webp
-    alt: Cover image for Room 4 Domestic Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/361.webp
+ alt: 'UnitedKingdom from Room4DomesticApplianceRepairs'
 ---
 
 # Room 4 Domestic Appliance Repairs

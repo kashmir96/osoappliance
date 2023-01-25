@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-coorparoo.webp
-    alt: Cover image for Mr Rental Coorparoo the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/171.webp
+ alt: 'Australia from MrRentalCoorparoo'
 ---
 
 # Mr Rental Coorparoo

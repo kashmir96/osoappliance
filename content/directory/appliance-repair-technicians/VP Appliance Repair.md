@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/vp-appliance-repair.webp
-    alt: Cover image for VP Appliance Repair the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/335.webp
+ alt: 'UnitedStates from VPApplianceRepair'
 ---
 
 # VP Appliance Repair

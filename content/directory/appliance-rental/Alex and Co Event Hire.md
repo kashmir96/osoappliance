@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/alex-and-co-event-hire.webp
-    alt: Cover image for Alex and Co Event Hire the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/335.webp
+ alt: 'Australia from AlexandCoEventHire'
 ---
 
 # Alex and Co Event Hire

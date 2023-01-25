@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ocean-beach-equipment-rentals.webp
-    alt: Cover image for Ocean Beach Equipment Rentals the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/286.webp
+ alt: 'UnitedStates from OceanBeachEquipmentRentals'
 ---
 
 # Ocean Beach Equipment Rentals

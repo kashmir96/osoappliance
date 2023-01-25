@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hubbell-power-systems-inc.webp
-    alt: Cover image for Hubbell Power Systems Inc the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/143.webp
+ alt: 'UnitedStates from HubbellPowerSystemsInc'
 ---
 
 # Hubbell Power Systems Inc

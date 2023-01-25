@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/imperial-party-rentals-inc.webp
-    alt: Cover image for Imperial Party Rentals Inc the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/157.webp
+ alt: 'UnitedStates from ImperialPartyRentalsInc'
 ---
 
 # Imperial Party Rentals Inc

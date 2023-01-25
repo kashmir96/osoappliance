@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/one-smart-lighting.webp
- alt: 'Logo for One Smart Lighting the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/154.webp
+ alt: 'UnitedStates from onesmartlighting'
 ---
 
 # One Smart Lighting is an Appliance Parts Supplier from United States.

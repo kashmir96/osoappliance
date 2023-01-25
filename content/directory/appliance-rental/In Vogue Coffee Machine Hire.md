@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/in-vogue-coffee-machine-hire.webp
-    alt: Cover image for In Vogue Coffee Machine Hire the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/228.webp
+ alt: 'Australia from InVogueCoffeeMachineHire'
 ---
 
 # In Vogue Coffee Machine Hire

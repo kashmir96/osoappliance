@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ian-black-domestic-appliances.webp
-    alt: Cover image for Ian Black Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/166.webp
+ alt: 'UnitedKingdom from IanBlackDomesticAppliances'
 ---
 
 # Ian Black Domestic Appliances

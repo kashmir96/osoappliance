@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/deacon-appliances.webp
-    alt: Cover image for Deacon Appliances the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/195.webp
+ alt: 'UnitedKingdom from DeaconAppliances'
 ---
 
 # Deacon Appliances

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/party-time-rentals.webp
-    alt: Cover image for Party Time Rentals the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/146.webp
+ alt: 'UnitedStates from PartyTimeRentals'
 ---
 
 # Party Time Rentals

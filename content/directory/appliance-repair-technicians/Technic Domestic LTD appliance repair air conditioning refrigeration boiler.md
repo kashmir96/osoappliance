@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/technic-domestic-ltd-appliance-repair-air-conditioning-refrigeration-boiler.webp
-    alt: Cover image for Technic Domestic LTD appliance repair air conditioning refrigeration boiler the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/149.webp
+ alt: 'UnitedKingdom from TechnicDomesticLTDappliancerepairairconditioningrefrigerationboiler'
 ---
 
 # Technic Domestic LTD appliance repair air conditioning refrigeration boiler

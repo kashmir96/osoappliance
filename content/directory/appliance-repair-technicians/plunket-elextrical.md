@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/plunket-elextrical.webp
- alt: 'Logo for Plunket Elextrical the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/362.webp
+ alt: 'NewZealand from plunketelextrical'
 ---
 
 # Plunket Elextrical is an Appliance Repair Technician Company operating in Timaru, New Zealand.

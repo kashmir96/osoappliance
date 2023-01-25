@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/subzero-repair.webp
-    alt: Cover image for SubZero Repair the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/164.webp
+ alt: 'UnitedStates from SubZeroRepair'
 ---
 
 # SubZero Repair

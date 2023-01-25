@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-expert-llc.webp
-    alt: Cover image for Appliance Expert LLC the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/208.webp
+ alt: 'UnitedStates from ApplianceExpertLLC'
 ---
 
 # Appliance Expert LLC

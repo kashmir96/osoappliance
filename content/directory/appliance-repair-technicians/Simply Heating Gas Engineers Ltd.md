@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/simply-heating-gas-engineers-ltd.webp
-    alt: Cover image for Simply Heating Gas Engineers Ltd the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/23.webp
+ alt: 'UnitedKingdom from SimplyHeatingGasEngineersLtd'
 ---
 
 # Simply Heating Gas Engineers Ltd

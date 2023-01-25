@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent4keeps-burnie.webp
-    alt: Cover image for Rent4Keeps Burnie the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/400.webp
+ alt: 'Australia from Rent4KeepsBurnie'
 ---
 
 # Rent4Keeps Burnie

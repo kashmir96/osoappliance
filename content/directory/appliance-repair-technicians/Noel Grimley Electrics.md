@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/noel-grimley-electrics.webp
-    alt: Cover image for Noel Grimley Electrics the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/117.webp
+ alt: 'UnitedKingdom from NoelGrimleyElectrics'
 ---
 
 # Noel Grimley Electrics

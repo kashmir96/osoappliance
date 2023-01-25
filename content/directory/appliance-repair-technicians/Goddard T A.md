@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/goddard-t-a.webp
-    alt: Cover image for Goddard T A the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/212.webp
+ alt: 'UnitedKingdom from GoddardTA'
 ---
 
 # Goddard T A

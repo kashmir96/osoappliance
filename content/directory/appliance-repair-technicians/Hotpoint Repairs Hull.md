@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hotpoint-repairs-hull.webp
-    alt: Cover image for Hotpoint Repairs Hull the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/144.webp
+ alt: 'UnitedKingdom from HotpointRepairsHull'
 ---
 
 # Hotpoint Repairs Hull

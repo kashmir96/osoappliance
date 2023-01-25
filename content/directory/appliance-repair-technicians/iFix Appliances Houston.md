@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ifix-appliances-houston.webp
-    alt: Cover image for iFix Appliances Houston the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/55.webp
+ alt: 'UnitedStates from iFixAppliancesHouston'
 ---
 
 # iFix Appliances Houston

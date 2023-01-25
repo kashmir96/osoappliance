@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/1st-choice-rentals-rockhampton.webp
-    alt: Cover image for 1st Choice Rentals Rockhampton the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/386.webp
+ alt: 'Australia from 1stChoiceRentalsRockhampton'
 ---
 
 # 1st Choice Rentals Rockhampton

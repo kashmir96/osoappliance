@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/stanley-heating-plumbing-services-ltd.webp
-    alt: Cover image for Stanley Heating Plumbing Services Ltd the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/23.webp
+ alt: 'UnitedKingdom from StanleyHeatingPlumbingServicesLtd'
 ---
 
 # Stanley Heating Plumbing Services Ltd

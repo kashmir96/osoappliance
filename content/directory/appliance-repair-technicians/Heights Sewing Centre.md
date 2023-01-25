@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/heights-sewing-centre.webp
-    alt: Cover image for Heights Sewing Centre the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/40.webp
+ alt: 'Australia from HeightsSewingCentre'
 ---
 
 # Heights Sewing Centre

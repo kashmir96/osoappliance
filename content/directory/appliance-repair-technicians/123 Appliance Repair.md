@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/123-appliance-repair.webp
-    alt: Cover image for 123 Appliance Repair the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/198.webp
+ alt: 'UnitedStates from 123ApplianceRepair'
 ---
 
 # 123 Appliance Repair

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aaa-appliance-repairs.webp
-    alt: Cover image for AAA APPLIANCE REPAIRS the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/386.webp
+ alt: 'Australia from AAAAPPLIANCEREPAIRS'
 ---
 
 # AAA APPLIANCE REPAIRS

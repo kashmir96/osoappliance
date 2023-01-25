@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-essential-utensil.webp
-    alt: Cover image for The Essential Utensil the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/281.webp
+ alt: 'Australia from TheEssentialUtensil'
 ---
 
 # The Essential Utensil

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/real-event-enterprises-party-and-production-rental.webp
-    alt: Cover image for Real Event Enterprises Party and Production Rental the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/179.webp
+ alt: 'UnitedStates from RealEventEnterprisesPartyandProductionRental'
 ---
 
 # Real Event Enterprises Party and Production Rental

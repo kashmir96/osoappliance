@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/appliance-outlet.webp
- alt: 'Logo for Appliance Outlet the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/170.webp
+ alt: 'NewZealand from applianceoutlet'
 ---
 
 # Appliance Outlet is an Appliance Parts Supplier from New Zealand.

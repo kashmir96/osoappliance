@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/decor-of-distinction.webp
-    alt: Cover image for Decor of Distinction the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/291.webp
+ alt: 'Australia from DecorofDistinction'
 ---
 
 # Decor of Distinction

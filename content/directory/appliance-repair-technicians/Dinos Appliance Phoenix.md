@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dinos-appliance-phoenix.webp
-    alt: Cover image for Dinos Appliance Phoenix the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/328.webp
+ alt: 'UnitedStates from DinosAppliancePhoenix'
 ---
 
 # Dinos Appliance Phoenix

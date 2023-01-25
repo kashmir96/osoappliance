@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/brook-furniture-rental-distribution-center.webp
-    alt: Cover image for Brook Furniture Rental Distribution Center the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/339.webp
+ alt: 'UnitedStates from BrookFurnitureRentalDistributionCenter'
 ---
 
 # Brook Furniture Rental Distribution Center

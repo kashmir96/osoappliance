@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/a-classic-party-rental.webp
-    alt: Cover image for A Classic Party Rental the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/181.webp
+ alt: 'UnitedStates from AClassicPartyRental'
 ---
 
 # A Classic Party Rental

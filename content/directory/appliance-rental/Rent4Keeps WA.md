@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent4keeps-wa.webp
-    alt: Cover image for Rent4Keeps WA the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/62.webp
+ alt: 'Australia from Rent4KeepsWA'
 ---
 
 # Rent4Keeps WA

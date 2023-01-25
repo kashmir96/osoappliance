@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/blaq-staging.webp
-    alt: Cover image for Blaq Staging the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/234.webp
+ alt: 'Australia from BlaqStaging'
 ---
 
 # Blaq Staging

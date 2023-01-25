@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/service-force.webp
-    alt: Cover image for Service Force the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/290.webp
+ alt: 'Australia from ServiceForce'
 ---
 
 # Service Force

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bj-heating-cooling.webp
-    alt: Cover image for BJ Heating Cooling the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/135.webp
+ alt: 'Australia from BJHeatingCooling'
 ---
 
 # BJ Heating Cooling

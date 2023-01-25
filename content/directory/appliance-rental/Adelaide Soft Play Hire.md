@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/adelaide-soft-play-hire.webp
-    alt: Cover image for Adelaide Soft Play Hire the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/371.webp
+ alt: 'Australia from AdelaideSoftPlayHire'
 ---
 
 # Adelaide Soft Play Hire

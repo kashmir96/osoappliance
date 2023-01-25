@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/furniture-store.webp
-    alt: Cover image for Furniture store the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/58.webp
+ alt: 'Australia from Furniturestore'
 ---
 
 # Furniture store

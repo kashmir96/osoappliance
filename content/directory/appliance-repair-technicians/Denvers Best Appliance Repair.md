@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/denvers-best-appliance-repair.webp
-    alt: Cover image for Denvers Best Appliance Repair the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/12.webp
+ alt: 'UnitedStates from DenversBestApplianceRepair'
 ---
 
 # Denvers Best Appliance Repair

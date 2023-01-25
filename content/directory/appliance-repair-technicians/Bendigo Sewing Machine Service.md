@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bendigo-sewing-machine-service.webp
-    alt: Cover image for Bendigo Sewing Machine Service the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/366.webp
+ alt: 'Australia from BendigoSewingMachineService'
 ---
 
 # Bendigo Sewing Machine Service

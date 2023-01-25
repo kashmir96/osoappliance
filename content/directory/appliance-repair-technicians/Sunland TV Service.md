@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sunland-tv-service.webp
-    alt: Cover image for Sunland TV Service the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/346.webp
+ alt: 'Australia from SunlandTVService'
 ---
 
 # Sunland TV Service

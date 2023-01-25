@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jms-group-australia-refrigeration-air-conditioning-electrical.webp
-    alt: Cover image for JMS Group Australia Refrigeration Air Conditioning Electrical the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/393.webp
+ alt: 'Australia from JMSGroupAustraliaRefrigerationAirConditioningElectrical'
 ---
 
 # JMS Group Australia Refrigeration Air Conditioning Electrical

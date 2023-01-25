@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-service-appliance-repair.webp
-    alt: Cover image for All service appliance repair the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/108.webp
+ alt: 'UnitedStates from Allserviceappliancerepair'
 ---
 
 # All service appliance repair

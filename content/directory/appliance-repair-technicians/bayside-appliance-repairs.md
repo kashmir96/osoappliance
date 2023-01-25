@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/bayside-appliance-repairs.webp
- alt: 'Logo for Bayside Appliance Repairs the New Zealand from Wellington'
+cover:
+ image: /img/laundryappliance/312.webp
+ alt: 'NewZealand from baysideappliancerepairs'
 ---
 
 # Bayside Appliance Repairs is an Appliance Repair Technician Company operating in Wellington, New Zealand.

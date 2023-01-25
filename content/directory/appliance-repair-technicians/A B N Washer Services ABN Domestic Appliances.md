@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-b-n-washer-services-abn-domestic-appliances.webp
-    alt: Cover image for A B N Washer Services ABN Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/44.webp
+ alt: 'UnitedKingdom from ABNWasherServicesABNDomesticAppliances'
 ---
 
 # A B N Washer Services ABN Domestic Appliances

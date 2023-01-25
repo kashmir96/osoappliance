@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/unique-repair-services.webp
-    alt: Cover image for Unique Repair Services the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/275.webp
+ alt: 'UnitedStates from UniqueRepairServices'
 ---
 
 # Unique Repair Services

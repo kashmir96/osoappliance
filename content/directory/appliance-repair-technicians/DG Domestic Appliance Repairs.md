@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dg-domestic-appliance-repairs.webp
-    alt: Cover image for DG Domestic Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/126.webp
+ alt: 'UnitedKingdom from DGDomesticApplianceRepairs'
 ---
 
 # DG Domestic Appliance Repairs

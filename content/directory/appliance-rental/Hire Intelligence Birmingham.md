@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hire-intelligence-birmingham.webp
-    alt: Cover image for Hire Intelligence Birmingham the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/71.webp
+ alt: 'UnitedKingdom from HireIntelligenceBirmingham'
 ---
 
 # Hire Intelligence Birmingham

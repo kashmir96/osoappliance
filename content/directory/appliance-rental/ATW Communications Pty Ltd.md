@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/atw-communications-pty-ltd.webp
-    alt: Cover image for ATW Communications Pty Ltd the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/14.webp
+ alt: 'Australia from ATWCommunicationsPtyLtd'
 ---
 
 # ATW Communications Pty Ltd

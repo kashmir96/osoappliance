@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tower-rental-purchase.webp
-    alt: Cover image for Tower Rental Purchase the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/356.webp
+ alt: 'UnitedStates from TowerRentalPurchase'
 ---
 
 # Tower Rental Purchase

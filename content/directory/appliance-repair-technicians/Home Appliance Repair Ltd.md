@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/home-appliance-repair-ltd.webp
-    alt: Cover image for Home Appliance Repair Ltd the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/247.webp
+ alt: 'UnitedKingdom from HomeApplianceRepairLtd'
 ---
 
 # Home Appliance Repair Ltd

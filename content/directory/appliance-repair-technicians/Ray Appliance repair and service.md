@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ray-appliance-repair-and-service.webp
-    alt: Cover image for Ray Appliance repair and service the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/3.webp
+ alt: 'Australia from RayAppliancerepairandservice'
 ---
 
 # Ray Appliance repair and service

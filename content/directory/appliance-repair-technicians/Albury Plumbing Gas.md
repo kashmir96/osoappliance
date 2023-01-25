@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/albury-plumbing-gas.webp
-    alt: Cover image for Albury Plumbing Gas the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/351.webp
+ alt: 'Australia from AlburyPlumbingGas'
 ---
 
 # Albury Plumbing Gas

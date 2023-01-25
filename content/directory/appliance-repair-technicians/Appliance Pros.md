@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-pros.webp
-    alt: Cover image for Appliance Pros the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/95.webp
+ alt: 'UnitedStates from AppliancePros'
 ---
 
 # Appliance Pros

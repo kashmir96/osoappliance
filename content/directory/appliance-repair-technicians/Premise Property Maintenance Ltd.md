@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/premise-property-maintenance-ltd.webp
-    alt: Cover image for Premise Property Maintenance Ltd the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/340.webp
+ alt: 'UnitedKingdom from PremisePropertyMaintenanceLtd'
 ---
 
 # Premise Property Maintenance Ltd

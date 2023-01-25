@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/jewells-refrigeration.webp
- alt: 'Logo for Jewells Refrigeration the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/262.webp
+ alt: 'NewZealand from jewellsrefrigeration'
 ---
 
 # Jewells Refrigeration is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

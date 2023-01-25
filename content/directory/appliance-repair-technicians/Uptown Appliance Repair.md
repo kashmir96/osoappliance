@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/uptown-appliance-repair.webp
-    alt: Cover image for Uptown Appliance Repair the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/163.webp
+ alt: 'UnitedStates from UptownApplianceRepair'
 ---
 
 # Uptown Appliance Repair

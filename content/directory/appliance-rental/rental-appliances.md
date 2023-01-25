@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Fridges, Freezers, Washing Machines, Dryers"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/rental-appliances.webp
- alt: 'Logo for Rental Appliances the Appliance Rental business from Fridges, Freezers, Washing Machines, Dryers, New Zealand'
+cover:
+ image: /img/laundryappliance/379.webp
+ alt: 'NewZealand from rentalappliances'
 ---
 
 Rental Appliances is an Appliance Rental business located in Fridges, Freezers, Washing Machines, Dryers, New Zealand. 

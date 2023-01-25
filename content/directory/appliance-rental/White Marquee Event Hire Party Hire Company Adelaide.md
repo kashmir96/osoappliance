@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/white-marquee-event-hire-party-hire-company-adelaide.webp
-    alt: Cover image for White Marquee Event Hire Party Hire Company Adelaide the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/374.webp
+ alt: 'Australia from WhiteMarqueeEventHirePartyHireCompanyAdelaide'
 ---
 
 # White Marquee Event Hire Party Hire Company Adelaide

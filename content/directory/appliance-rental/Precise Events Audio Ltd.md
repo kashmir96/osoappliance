@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/precise-events-audio-ltd.webp
-    alt: Cover image for Precise Events Audio Ltd the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/184.webp
+ alt: 'UnitedKingdom from PreciseEventsAudioLtd'
 ---
 
 # Precise Events Audio Ltd

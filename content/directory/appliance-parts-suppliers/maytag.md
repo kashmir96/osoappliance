@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/maytag.webp
- alt: 'Logo for Maytag the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/92.webp
+ alt: 'UnitedStates from maytag'
 ---
 
 # Maytag is an Appliance Parts Supplier from United States.

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/calescent-gas-heating-services-ltd.webp
-    alt: Cover image for Calescent Gas Heating Services Ltd the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/193.webp
+ alt: 'UnitedKingdom from CalescentGasHeatingServicesLtd'
 ---
 
 # Calescent Gas Heating Services Ltd

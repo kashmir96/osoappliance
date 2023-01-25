@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-wide-bay.webp
-    alt: Cover image for Mr Rental Wide Bay the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/279.webp
+ alt: 'Australia from MrRentalWideBay'
 ---
 
 # Mr Rental Wide Bay

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bcc-betta-home-living.webp
-    alt: Cover image for BCC Betta Home Living the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/147.webp
+ alt: 'Australia from BCCBettaHomeLiving'
 ---
 
 # BCC Betta Home Living

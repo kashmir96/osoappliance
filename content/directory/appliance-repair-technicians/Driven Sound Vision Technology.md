@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/driven-sound-vision-technology.webp
-    alt: Cover image for Driven Sound Vision Technology the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/68.webp
+ alt: 'Australia from DrivenSoundVisionTechnology'
 ---
 
 # Driven Sound Vision Technology

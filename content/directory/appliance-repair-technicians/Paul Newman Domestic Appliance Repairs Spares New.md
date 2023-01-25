@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/paul-newman-domestic-appliance-repairs-spares-new.webp
-    alt: Cover image for Paul Newman Domestic Appliance Repairs Spares New the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/64.webp
+ alt: 'UnitedKingdom from PaulNewmanDomesticApplianceRepairsSparesNew'
 ---
 
 # Paul Newman Domestic Appliance Repairs Spares New

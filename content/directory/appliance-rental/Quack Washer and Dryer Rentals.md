@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/quack-washer-and-dryer-rentals.webp
-    alt: Cover image for Quack Washer and Dryer Rentals the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/222.webp
+ alt: 'UnitedStates from QuackWasherandDryerRentals'
 ---
 
 # Quack Washer and Dryer Rentals

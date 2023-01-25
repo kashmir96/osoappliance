@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/appliance-servicing.webp
- alt: 'Logo for Appliance Servicing the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/71.webp
+ alt: 'NewZealand from applianceservicing'
 ---
 
 # Appliance Servicing is an Appliance Repair Technician Company operating in Auckland, New Zealand.

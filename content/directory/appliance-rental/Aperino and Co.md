@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aperino-and-co.webp
-    alt: Cover image for Aperino and Co the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/63.webp
+ alt: 'Australia from AperinoandCo'
 ---
 
 # Aperino and Co

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/avis-car-truck-rental-launceston-airport.webp
-    alt: Cover image for Avis Car Truck Rental Launceston Airport the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/358.webp
+ alt: 'Australia from AvisCarTruckRentalLauncestonAirport'
 ---
 
 # Avis Car Truck Rental Launceston Airport

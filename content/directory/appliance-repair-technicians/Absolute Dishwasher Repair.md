@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/absolute-dishwasher-repair.webp
-    alt: Cover image for Absolute Dishwasher Repair the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/56.webp
+ alt: 'Australia from AbsoluteDishwasherRepair'
 ---
 
 # Absolute Dishwasher Repair

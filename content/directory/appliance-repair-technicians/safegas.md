@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Installation, New Appliances"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-installation,-new-appliances/safegas.webp
- alt: 'Logo for SafeGas the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/228.webp
+ alt: 'NewZealand from safegas'
 ---
 
 # SafeGas is an Appliance Repair Technician, Installation, New Appliances Company operating in Auckland, New Zealand.

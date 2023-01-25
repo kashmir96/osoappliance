@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ace.webp
-    alt: Cover image for ACE the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/382.webp
+ alt: 'UnitedKingdom from ACE'
 ---
 
 # ACE

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-installation-service-glasgow.webp
-    alt: Cover image for Appliance Installation Service Glasgow the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/196.webp
+ alt: 'UnitedKingdom from ApplianceInstallationServiceGlasgow'
 ---
 
 # Appliance Installation Service Glasgow

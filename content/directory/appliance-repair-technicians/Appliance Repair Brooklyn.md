@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-brooklyn.webp
-    alt: Cover image for Appliance Repair Brooklyn the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/76.webp
+ alt: 'UnitedStates from ApplianceRepairBrooklyn'
 ---
 
 # Appliance Repair Brooklyn

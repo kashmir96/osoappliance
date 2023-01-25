@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lease-247-furniture-and-home-appliance-rentals.webp
-    alt: Cover image for Lease 247 Furniture and Home Appliance Rentals the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/363.webp
+ alt: 'Australia from Lease247FurnitureandHomeApplianceRentals'
 ---
 
 # Lease 247 Furniture and Home Appliance Rentals

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repairs-fridge-repair-always-prompt-services-logan.webp
-    alt: Cover image for Appliance Repairs Fridge Repair Always Prompt Services Logan the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/191.webp
+ alt: 'Australia from ApplianceRepairsFridgeRepairAlwaysPromptServicesLogan'
 ---
 
 # Appliance Repairs Fridge Repair Always Prompt Services Logan

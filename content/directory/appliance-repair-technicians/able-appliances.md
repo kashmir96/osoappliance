@@ -5,9 +5,9 @@ type: "New Appliances, Appliance Repair Technician, Installation"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/new-appliances,-appliance-repair-technician,-installation/able-appliances.webp
- alt: 'Logo for Able Appliances the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/335.webp
+ alt: 'NewZealand from ableappliances'
 ---
 
 # Able Appliances is an New Appliances, Appliance Repair Technician, Installation Company operating in Auckland, New Zealand.

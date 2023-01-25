@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jdp-domestic-appliance-repair.webp
-    alt: Cover image for JDP domestic appliance repair the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/204.webp
+ alt: 'UnitedKingdom from JDPdomesticappliancerepair'
 ---
 
 # JDP domestic appliance repair

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dj-equipment-repairs.webp
-    alt: Cover image for DJ Equipment Repairs the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/254.webp
+ alt: 'UnitedKingdom from DJEquipmentRepairs'
 ---
 
 # DJ Equipment Repairs

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jj-appliances.webp
-    alt: Cover image for JJ Appliances the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/61.webp
+ alt: 'UnitedStates from JJAppliances'
 ---
 
 # JJ Appliances

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/industrial-refrigeration-services-ltd.webp
-    alt: Cover image for Industrial Refrigeration Services Ltd the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/45.webp
+ alt: 'UnitedKingdom from IndustrialRefrigerationServicesLtd'
 ---
 
 # Industrial Refrigeration Services Ltd

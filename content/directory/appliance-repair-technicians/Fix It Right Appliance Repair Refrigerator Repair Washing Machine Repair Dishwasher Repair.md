@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fix-it-right-appliance-repair-refrigerator-repair-washing-machine-repair-dishwasher-repair.webp
-    alt: Cover image for Fix It Right Appliance Repair Refrigerator Repair Washing Machine Repair Dishwasher Repair the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/118.webp
+ alt: 'UnitedStates from FixItRightApplianceRepairRefrigeratorRepairWashingMachineRepairDishwasherRepair'
 ---
 
 # Fix It Right Appliance Repair Refrigerator Repair Washing Machine Repair Dishwasher Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/texas-ice-machine-co.webp
-    alt: Cover image for Texas Ice Machine Co the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/136.webp
+ alt: 'UnitedStates from TexasIceMachineCo'
 ---
 
 # Texas Ice Machine Co

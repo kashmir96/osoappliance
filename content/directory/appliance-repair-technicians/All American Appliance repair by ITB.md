@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-american-appliance-repair-by-itb.webp
-    alt: Cover image for All American Appliance repair by ITB the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/278.webp
+ alt: 'UnitedStates from AllAmericanAppliancerepairbyITB'
 ---
 
 # All American Appliance repair by ITB

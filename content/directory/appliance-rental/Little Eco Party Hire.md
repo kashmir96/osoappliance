@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/little-eco-party-hire.webp
-    alt: Cover image for Little Eco Party Hire the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/192.webp
+ alt: 'Australia from LittleEcoPartyHire'
 ---
 
 # Little Eco Party Hire

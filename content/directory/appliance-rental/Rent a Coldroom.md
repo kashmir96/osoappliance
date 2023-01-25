@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-a-coldroom.webp
-    alt: Cover image for Rent a Coldroom the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/80.webp
+ alt: 'Australia from RentaColdroom'
 ---
 
 # Rent a Coldroom

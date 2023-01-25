@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ellnloch-pty-ltd.webp
-    alt: Cover image for EllnLoch Pty Ltd the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/387.webp
+ alt: 'Australia from EllnLochPtyLtd'
 ---
 
 # EllnLoch Pty Ltd

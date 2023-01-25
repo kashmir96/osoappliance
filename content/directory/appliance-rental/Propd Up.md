@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/propd-up.webp
-    alt: Cover image for Propd Up the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/314.webp
+ alt: 'Australia from PropdUp'
 ---
 
 # Propd Up

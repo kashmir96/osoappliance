@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/birite-home-appliances-rockhampton.webp
-    alt: Cover image for BiRite Home Appliances Rockhampton the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/65.webp
+ alt: 'Australia from BiRiteHomeAppliancesRockhampton'
 ---
 
 # BiRite Home Appliances Rockhampton

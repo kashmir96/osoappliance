@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/videodata-staging-hire.webp
-    alt: Cover image for VideoData Staging Hire the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/90.webp
+ alt: 'Australia from VideoDataStagingHire'
 ---
 
 # VideoData Staging Hire

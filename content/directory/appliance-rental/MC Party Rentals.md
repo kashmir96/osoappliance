@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mc-party-rentals.webp
-    alt: Cover image for MC Party Rentals the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/117.webp
+ alt: 'UnitedStates from MCPartyRentals'
 ---
 
 # MC Party Rentals

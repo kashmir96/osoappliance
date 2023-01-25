@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/any-occasion-tents-events.webp
-    alt: Cover image for Any Occasion Tents Events the United States based Appliance Rental servicing Houston 
+ image: /img/laundryappliance/246.webp
+ alt: 'UnitedStates from AnyOccasionTentsEvents'
 ---
 
 # Any Occasion Tents Events

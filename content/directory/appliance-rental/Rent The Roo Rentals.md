@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo-rentals.webp
-    alt: Cover image for Rent The Roo Rentals the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/160.webp
+ alt: 'Australia from RentTheRooRentals'
 ---
 
 # Rent The Roo Rentals

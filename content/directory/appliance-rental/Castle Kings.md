@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/castle-kings.webp
-    alt: Cover image for Castle Kings the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/274.webp
+ alt: 'Australia from CastleKings'
 ---
 
 # Castle Kings

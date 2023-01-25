@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-s-appliance.webp
-    alt: Cover image for A S Appliance the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/263.webp
+ alt: 'UnitedStates from ASAppliance'
 ---
 
 # A S Appliance

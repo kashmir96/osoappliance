@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/mr-appliance.webp
- alt: 'Logo for Mr Appliance the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/185.webp
+ alt: 'Australia from mrappliance'
 ---
 
 # Mr Appliance is an Appliance Parts Supplier from Australia.

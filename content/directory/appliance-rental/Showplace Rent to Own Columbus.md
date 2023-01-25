@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Columbus"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/showplace-rent-to-own-columbus.webp
-    alt: Cover image for Showplace Rent to Own Columbus the United States based Appliance Rental servicing Columbus 
+ image: /img/laundryappliance/207.webp
+ alt: 'UnitedStates from ShowplaceRenttoOwnColumbus'
 ---
 
 # Showplace Rent to Own Columbus

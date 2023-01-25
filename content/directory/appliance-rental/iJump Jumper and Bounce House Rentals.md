@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ijump-jumper-and-bounce-house-rentals.webp
-    alt: Cover image for iJump Jumper and Bounce House Rentals the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/322.webp
+ alt: 'UnitedStates from iJumpJumperandBounceHouseRentals'
 ---
 
 # iJump Jumper and Bounce House Rentals

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/quick-quality-fix-appliance-repair-and-installs.webp
-    alt: Cover image for Quick Quality Fix Appliance Repair and Installs the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/267.webp
+ alt: 'UnitedStates from QuickQualityFixApplianceRepairandInstalls'
 ---
 
 # Quick Quality Fix Appliance Repair and Installs

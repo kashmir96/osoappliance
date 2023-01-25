@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-services.webp
-    alt: Cover image for Appliance Services the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/204.webp
+ alt: 'UnitedKingdom from ApplianceServicescopy'
 ---
 
 # Appliance Services

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/phoenix-appliance-services.webp
-    alt: Cover image for Phoenix Appliance Services the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/210.webp
+ alt: 'UnitedStates from PhoenixApplianceServices'
 ---
 
 # Phoenix Appliance Services

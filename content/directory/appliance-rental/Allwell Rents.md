@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/allwell-rents.webp
-    alt: Cover image for Allwell Rents the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/391.webp
+ alt: 'UnitedStates from AllwellRents'
 ---
 
 # Allwell Rents

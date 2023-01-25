@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/direct-appliance-repair.webp
-    alt: Cover image for Direct Appliance Repair the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/313.webp
+ alt: 'Australia from DirectApplianceRepair'
 ---
 
 # Direct Appliance Repair

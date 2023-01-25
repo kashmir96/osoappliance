@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/s-obrien-heating-solutions.webp
-    alt: Cover image for S OBrien Heating Solutions the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/238.webp
+ alt: 'UnitedKingdom from SOBrienHeatingSolutions'
 ---
 
 # S OBrien Heating Solutions

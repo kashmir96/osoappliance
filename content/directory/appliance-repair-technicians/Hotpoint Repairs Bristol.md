@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hotpoint-repairs-bristol.webp
-    alt: Cover image for Hotpoint Repairs Bristol the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/40.webp
+ alt: 'UnitedKingdom from HotpointRepairsBristol'
 ---
 
 # Hotpoint Repairs Bristol

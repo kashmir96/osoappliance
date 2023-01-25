@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-best-plumber-in-coventry.webp
-    alt: Cover image for The Best Plumber in Coventry the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/285.webp
+ alt: 'UnitedKingdom from TheBestPlumberinCoventry'
 ---
 
 # The Best Plumber in Coventry

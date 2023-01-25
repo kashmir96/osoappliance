@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/renteventcomau.webp
-    alt: Cover image for RentEventcomau the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/360.webp
+ alt: 'Australia from RentEventcomau'
 ---
 
 # RentEventcomau

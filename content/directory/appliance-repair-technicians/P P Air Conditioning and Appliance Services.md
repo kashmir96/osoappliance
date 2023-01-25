@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/p-p-air-conditioning-and-appliance-services.webp
-    alt: Cover image for P P Air Conditioning and Appliance Services the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/9.webp
+ alt: 'Australia from PPAirConditioningandApplianceServices'
 ---
 
 # P P Air Conditioning and Appliance Services

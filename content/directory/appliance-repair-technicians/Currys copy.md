@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/currys.webp
-    alt: Cover image for Currys the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/273.webp
+ alt: 'UnitedKingdom from Curryscopy'
 ---
 
 # Currys

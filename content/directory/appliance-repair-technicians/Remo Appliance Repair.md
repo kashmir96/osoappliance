@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/remo-appliance-repair.webp
-    alt: Cover image for Remo Appliance Repair the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/166.webp
+ alt: 'UnitedStates from RemoApplianceRepair'
 ---
 
 # Remo Appliance Repair

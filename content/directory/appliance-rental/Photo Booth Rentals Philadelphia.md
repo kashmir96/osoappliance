@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/photo-booth-rentals-philadelphia.webp
-    alt: Cover image for Photo Booth Rentals Philadelphia the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/250.webp
+ alt: 'UnitedStates from PhotoBoothRentalsPhiladelphia'
 ---
 
 # Photo Booth Rentals Philadelphia

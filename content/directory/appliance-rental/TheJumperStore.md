@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/thejumperstore.webp
-    alt: Cover image for TheJumperStore the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/169.webp
+ alt: 'UnitedStates from TheJumperStore'
 ---
 
 # TheJumperStore

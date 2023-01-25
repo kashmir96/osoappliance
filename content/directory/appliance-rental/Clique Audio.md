@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/clique-audio.webp
-    alt: Cover image for Clique Audio the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/354.webp
+ alt: 'Australia from CliqueAudio'
 ---
 
 # Clique Audio

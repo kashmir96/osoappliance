@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rs100-pro-sound-light.webp
-    alt: Cover image for RS100 Pro Sound Light the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/104.webp
+ alt: 'UnitedKingdom from RS100ProSoundLight'
 ---
 
 # RS100 Pro Sound Light

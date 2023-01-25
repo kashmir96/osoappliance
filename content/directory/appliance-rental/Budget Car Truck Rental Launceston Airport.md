@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/budget-car-truck-rental-launceston-airport.webp
-    alt: Cover image for Budget Car Truck Rental Launceston Airport the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/126.webp
+ alt: 'Australia from BudgetCarTruckRentalLauncestonAirport'
 ---
 
 # Budget Car Truck Rental Launceston Airport

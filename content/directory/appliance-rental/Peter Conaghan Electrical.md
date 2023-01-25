@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/peter-conaghan-electrical.webp
-    alt: Cover image for Peter Conaghan Electrical the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/86.webp
+ alt: 'Australia from PeterConaghanElectrical'
 ---
 
 # Peter Conaghan Electrical

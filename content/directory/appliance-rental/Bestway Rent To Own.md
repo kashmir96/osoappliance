@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bestway-rent-to-own.webp
-    alt: Cover image for Bestway Rent To Own the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/126.webp
+ alt: 'UnitedStates from BestwayRentToOwn'
 ---
 
 # Bestway Rent To Own

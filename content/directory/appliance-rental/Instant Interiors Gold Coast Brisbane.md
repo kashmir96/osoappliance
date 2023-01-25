@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/instant-interiors-gold-coast-brisbane.webp
-    alt: Cover image for Instant Interiors Gold Coast Brisbane the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/357.webp
+ alt: 'Australia from InstantInteriorsGoldCoastBrisbane'
 ---
 
 # Instant Interiors Gold Coast Brisbane

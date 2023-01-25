@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/complete-electrical-data.webp
-    alt: Cover image for Complete Electrical Data the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/160.webp
+ alt: 'Australia from CompleteElectricalData'
 ---
 
 # Complete Electrical Data

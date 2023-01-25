@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cjm-washer-services-ltd-washing-machine-tumble-dryer-repairs.webp
-    alt: Cover image for CJM Washer Services Ltd Washing Machine Tumble Dryer Repairs the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/33.webp
+ alt: 'UnitedKingdom from CJMWasherServicesLtdWashingMachineTumbleDryerRepairs'
 ---
 
 # CJM Washer Services Ltd Washing Machine Tumble Dryer Repairs

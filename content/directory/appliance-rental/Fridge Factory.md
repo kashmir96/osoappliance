@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/fridge-factory.webp
-    alt: Cover image for Fridge Factory the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/235.webp
+ alt: 'Australia from FridgeFactory'
 ---
 
 # Fridge Factory

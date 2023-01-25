@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/charltons.webp
-    alt: Cover image for Charltons the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/79.webp
+ alt: 'Australia from Charltons'
 ---
 
 # Charltons

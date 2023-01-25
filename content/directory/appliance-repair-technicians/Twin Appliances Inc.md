@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/twin-appliances-inc.webp
-    alt: Cover image for Twin Appliances Inc the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/299.webp
+ alt: 'UnitedStates from TwinAppliancesInc'
 ---
 
 # Twin Appliances Inc

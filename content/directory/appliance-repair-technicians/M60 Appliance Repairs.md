@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/m60-appliance-repairs.webp
-    alt: Cover image for M60 Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/79.webp
+ alt: 'UnitedKingdom from M60ApplianceRepairs'
 ---
 
 # M60 Appliance Repairs

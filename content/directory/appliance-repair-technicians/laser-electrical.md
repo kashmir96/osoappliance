@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Nelson, Blenheim, Dunedin, Gisborne, Invercargill, New Plymouth, Queenstown, Christchurch, Whangarei, Hamilton, Wanganui, Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/laser-electrical.webp
- alt: 'Logo for Laser Electrical the New Zealand from Nelson, Blenheim, Dunedin, Gisborne, Invercargill, New Plymouth, Queenstown, Christchurch, Whangarei, Hamilton, Wanganui, Wellington'
+cover:
+ image: /img/laundryappliance/351.webp
+ alt: 'NewZealand from laserelectrical'
 ---
 
 # Laser Electrical is an Appliance Repair Technician Company operating in Nelson, Blenheim, Dunedin, Gisborne, Invercargill, New Plymouth, Queenstown, Christchurch, Whangarei, Hamilton, Wanganui, Wellington, New Zealand.

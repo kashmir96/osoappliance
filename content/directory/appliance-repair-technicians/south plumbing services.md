@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/south-plumbing-services.webp
-    alt: Cover image for south plumbing services the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/73.webp
+ alt: 'UnitedKingdom from southplumbingservices'
 ---
 
 # south plumbing services

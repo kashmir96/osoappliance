@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mm-appliance-repairs-service.webp
-    alt: Cover image for MM Appliance Repairs Service the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/339.webp
+ alt: 'UnitedStates from MMApplianceRepairsService'
 ---
 
 # MM Appliance Repairs Service

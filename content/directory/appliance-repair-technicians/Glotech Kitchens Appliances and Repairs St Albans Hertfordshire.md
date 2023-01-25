@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/glotech-kitchens-appliances-and-repairs-st-albans-hertfordshire.webp
-    alt: Cover image for Glotech Kitchens Appliances and Repairs St Albans Hertfordshire the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/149.webp
+ alt: 'UnitedKingdom from GlotechKitchensAppliancesandRepairsStAlbansHertfordshire'
 ---
 
 # Glotech Kitchens Appliances and Repairs St Albans Hertfordshire

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kens-appliance-repair.webp
-    alt: Cover image for Kens Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/308.webp
+ alt: 'UnitedStates from KensApplianceRepair'
 ---
 
 # Kens Appliance Repair

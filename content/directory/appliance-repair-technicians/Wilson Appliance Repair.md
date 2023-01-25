@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wilson-appliance-repair.webp
-    alt: Cover image for Wilson Appliance Repair the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/151.webp
+ alt: 'UnitedStates from WilsonApplianceRepair'
 ---
 
 # Wilson Appliance Repair

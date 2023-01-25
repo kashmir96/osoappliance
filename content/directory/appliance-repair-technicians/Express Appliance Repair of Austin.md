@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/express-appliance-repair-of-austin.webp
-    alt: Cover image for Express Appliance Repair of Austin the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/277.webp
+ alt: 'UnitedStates from ExpressApplianceRepairofAustin'
 ---
 
 # Express Appliance Repair of Austin

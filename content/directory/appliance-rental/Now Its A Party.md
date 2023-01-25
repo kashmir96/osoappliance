@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/now-its-a-party.webp
-    alt: Cover image for Now Its A Party the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/205.webp
+ alt: 'UnitedStates from NowItsAParty'
 ---
 
 # Now Its A Party

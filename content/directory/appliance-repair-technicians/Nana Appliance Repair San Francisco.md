@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nana-appliance-repair-san-francisco.webp
-    alt: Cover image for Nana Appliance Repair San Francisco the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/91.webp
+ alt: 'UnitedStates from NanaApplianceRepairSanFrancisco'
 ---
 
 # Nana Appliance Repair San Francisco

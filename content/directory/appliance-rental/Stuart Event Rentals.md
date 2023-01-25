@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/stuart-event-rentals.webp
-    alt: Cover image for Stuart Event Rentals the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/28.webp
+ alt: 'UnitedStates from StuartEventRentals'
 ---
 
 # Stuart Event Rentals

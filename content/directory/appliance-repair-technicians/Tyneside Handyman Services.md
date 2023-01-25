@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tyneside-handyman-services.webp
-    alt: Cover image for Tyneside Handyman Services the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/309.webp
+ alt: 'UnitedKingdom from TynesideHandymanServices'
 ---
 
 # Tyneside Handyman Services

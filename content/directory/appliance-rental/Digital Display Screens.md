@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/digital-display-screens.webp
-    alt: Cover image for Digital Display Screens the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/281.webp
+ alt: 'Australia from DigitalDisplayScreens'
 ---
 
 # Digital Display Screens

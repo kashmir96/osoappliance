@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/team-knowhow.webp
-    alt: Cover image for Team Knowhow the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/336.webp
+ alt: 'UnitedKingdom from TeamKnowhow'
 ---
 
 # Team Knowhow

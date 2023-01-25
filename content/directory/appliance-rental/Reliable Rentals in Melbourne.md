@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/reliable-rentals-in-melbourne.webp
-    alt: Cover image for Reliable Rentals in Melbourne the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/45.webp
+ alt: 'Australia from ReliableRentalsinMelbourne'
 ---
 
 # Reliable Rentals in Melbourne

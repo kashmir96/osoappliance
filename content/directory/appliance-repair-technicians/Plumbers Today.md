@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumbers-today.webp
-    alt: Cover image for Plumbers Today the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/5.webp
+ alt: 'Australia from PlumbersToday'
 ---
 
 # Plumbers Today

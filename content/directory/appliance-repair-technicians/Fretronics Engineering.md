@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fretronics-engineering.webp
-    alt: Cover image for Fretronics Engineering the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/159.webp
+ alt: 'UnitedKingdom from FretronicsEngineering'
 ---
 
 # Fretronics Engineering

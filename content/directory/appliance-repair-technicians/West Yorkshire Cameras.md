@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/west-yorkshire-cameras.webp
-    alt: Cover image for West Yorkshire Cameras the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/272.webp
+ alt: 'UnitedKingdom from WestYorkshireCameras'
 ---
 
 # West Yorkshire Cameras

@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Installation"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-installation/maxey-plumbing.webp
- alt: 'Logo for Maxey Plumbing the New Zealand from Wellington'
+cover:
+ image: /img/laundryappliance/258.webp
+ alt: 'NewZealand from maxeyplumbing'
 ---
 
 # Maxey Plumbing is an Appliance Repair Technician, Installation Company operating in Wellington, New Zealand.

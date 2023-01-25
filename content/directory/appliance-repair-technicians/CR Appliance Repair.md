@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cr-appliance-repair.webp
-    alt: Cover image for CR Appliance Repair the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/81.webp
+ alt: 'UnitedStates from CRApplianceRepair'
 ---
 
 # CR Appliance Repair

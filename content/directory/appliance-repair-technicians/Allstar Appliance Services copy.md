@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/allstar-appliance-services.webp
-    alt: Cover image for Allstar Appliance Services the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/360.webp
+ alt: 'Australia from AllstarApplianceServicescopy'
 ---
 
 # Allstar Appliance Services

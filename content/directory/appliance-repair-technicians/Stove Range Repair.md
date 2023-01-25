@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/stove-range-repair.webp
-    alt: Cover image for Stove Range Repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/49.webp
+ alt: 'UnitedStates from StoveRangeRepair'
 ---
 
 # Stove Range Repair

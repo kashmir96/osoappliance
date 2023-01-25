@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aldridge-mobile-disco-and-karaoke.webp
-    alt: Cover image for Aldridge Mobile Disco and Karaoke the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/17.webp
+ alt: 'UnitedKingdom from AldridgeMobileDiscoandKaraoke'
 ---
 
 # Aldridge Mobile Disco and Karaoke

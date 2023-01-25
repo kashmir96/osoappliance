@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/direct-motion-technologies.webp
-    alt: Cover image for Direct Motion Technologies the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/43.webp
+ alt: 'UnitedStates from DirectMotionTechnologies'
 ---
 
 # Direct Motion Technologies

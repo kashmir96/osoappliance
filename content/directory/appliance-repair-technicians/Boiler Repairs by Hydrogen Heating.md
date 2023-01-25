@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/boiler-repairs-by-hydrogen-heating.webp
-    alt: Cover image for Boiler Repairs by Hydrogen Heating the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/234.webp
+ alt: 'UnitedKingdom from BoilerRepairsbyHydrogenHeating'
 ---
 
 # Boiler Repairs by Hydrogen Heating

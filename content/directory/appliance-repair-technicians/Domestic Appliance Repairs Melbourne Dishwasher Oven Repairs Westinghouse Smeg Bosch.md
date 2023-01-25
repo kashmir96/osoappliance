@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domestic-appliance-repairs-melbourne-dishwasher-oven-repairs-westinghouse-smeg-bosch.webp
-    alt: Cover image for Domestic Appliance Repairs Melbourne Dishwasher Oven Repairs Westinghouse Smeg Bosch the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/50.webp
+ alt: 'Australia from DomesticApplianceRepairsMelbourneDishwasherOvenRepairsWestinghouseSmegBosch'
 ---
 
 # Domestic Appliance Repairs Melbourne Dishwasher Oven Repairs Westinghouse Smeg Bosch

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tj-appliance-repair-inc.webp
-    alt: Cover image for TJ Appliance Repair Inc the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/1.webp
+ alt: 'UnitedStates from TJApplianceRepairInc'
 ---
 
 # TJ Appliance Repair Inc

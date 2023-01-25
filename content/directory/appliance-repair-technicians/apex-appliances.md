@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/apex-appliances.webp
- alt: 'Logo for Apex Appliances the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/80.webp
+ alt: 'NewZealand from apexappliances'
 ---
 
 # Apex Appliances is an Appliance Repair Technician Company operating in Auckland, New Zealand.

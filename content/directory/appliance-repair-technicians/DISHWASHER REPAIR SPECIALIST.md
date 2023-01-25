@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dishwasher-repair-specialist.webp
-    alt: Cover image for DISHWASHER REPAIR SPECIALIST the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/315.webp
+ alt: 'Australia from DISHWASHERREPAIRSPECIALIST'
 ---
 
 # DISHWASHER REPAIR SPECIALIST

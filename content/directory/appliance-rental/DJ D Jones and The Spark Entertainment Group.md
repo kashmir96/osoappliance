@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/dj-d-jones-and-the-spark-entertainment-group.webp
-    alt: Cover image for DJ D Jones and The Spark Entertainment Group the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/197.webp
+ alt: 'UnitedStates from DJDJonesandTheSparkEntertainmentGroup'
 ---
 
 # DJ D Jones and The Spark Entertainment Group

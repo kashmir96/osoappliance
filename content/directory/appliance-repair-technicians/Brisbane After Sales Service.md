@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/brisbane-after-sales-service.webp
-    alt: Cover image for Brisbane After Sales Service the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/317.webp
+ alt: 'Australia from BrisbaneAfterSalesService'
 ---
 
 # Brisbane After Sales Service

@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/tims-appliance-repairs.webp
- alt: 'Logo for Tims Appliance Repairs the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/42.webp
+ alt: 'NewZealand from timsappliancerepairs'
 ---
 
 # Tims Appliance Repairs is an Appliance Repair Technician Company operating in Christchurch, New Zealand.

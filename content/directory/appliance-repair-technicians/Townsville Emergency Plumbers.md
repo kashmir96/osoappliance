@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/townsville-emergency-plumbers.webp
-    alt: Cover image for Townsville Emergency Plumbers the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/148.webp
+ alt: 'Australia from TownsvilleEmergencyPlumbers'
 ---
 
 # Townsville Emergency Plumbers

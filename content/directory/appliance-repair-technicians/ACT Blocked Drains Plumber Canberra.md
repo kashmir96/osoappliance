@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/act-blocked-drains-plumber-canberra.webp
-    alt: Cover image for ACT Blocked Drains Plumber Canberra the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/75.webp
+ alt: 'Australia from ACTBlockedDrainsPlumberCanberra'
 ---
 
 # ACT Blocked Drains Plumber Canberra

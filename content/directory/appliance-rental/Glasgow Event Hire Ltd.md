@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/glasgow-event-hire-ltd.webp
-    alt: Cover image for Glasgow Event Hire Ltd the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/21.webp
+ alt: 'UnitedKingdom from GlasgowEventHireLtd'
 ---
 
 # Glasgow Event Hire Ltd

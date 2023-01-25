@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/americas-appliance-repair.webp
-    alt: Cover image for Americas Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/63.webp
+ alt: 'UnitedStates from AmericasApplianceRepaircopy'
 ---
 
 # Americas Appliance Repair

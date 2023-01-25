@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/crikey-refrigeration.webp
-    alt: Cover image for CRIKEY REFRIGERATION the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/214.webp
+ alt: 'Australia from CRIKEYREFRIGERATION'
 ---
 
 # CRIKEY REFRIGERATION

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/homefix-appliance-repair-ltd.webp
-    alt: Cover image for Homefix Appliance Repair Ltd the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/16.webp
+ alt: 'UnitedKingdom from HomefixApplianceRepairLtd'
 ---
 
 # Homefix Appliance Repair Ltd

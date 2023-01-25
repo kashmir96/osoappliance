@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/local-appliance-rentals-cairns.webp
-    alt: Cover image for Local Appliance Rentals Cairns the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/272.webp
+ alt: 'Australia from LocalApplianceRentalsCairns'
 ---
 
 # Local Appliance Rentals Cairns

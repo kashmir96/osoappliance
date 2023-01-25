@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tv-repairs-r-us.webp
-    alt: Cover image for TV Repairs R Us the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/343.webp
+ alt: 'UnitedKingdom from TVRepairsRUs'
 ---
 
 # TV Repairs R Us

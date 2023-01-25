@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sears-appliance-repair.webp
-    alt: Cover image for Sears Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/84.webp
+ alt: 'UnitedStates from SearsApplianceRepaircopy7'
 ---
 
 # Sears Appliance Repair

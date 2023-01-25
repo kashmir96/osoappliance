@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Queenstown"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/appliance-dr.webp
- alt: 'Logo for Appliance Dr the New Zealand from Queenstown'
+cover:
+ image: /img/laundryappliance/234.webp
+ alt: 'NewZealand from appliancedr'
 ---
 
 # Appliance Dr is an Appliance Repair Technician Company operating in Queenstown, New Zealand.

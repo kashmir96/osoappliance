@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repairs-northeast.webp
-    alt: Cover image for Appliance Repairs Northeast the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/201.webp
+ alt: 'UnitedKingdom from ApplianceRepairsNortheast'
 ---
 
 # Appliance Repairs Northeast

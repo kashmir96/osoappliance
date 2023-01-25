@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aurora-rents-shoreline.webp
-    alt: Cover image for Aurora Rents Shoreline the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/44.webp
+ alt: 'UnitedStates from AuroraRentsShoreline'
 ---
 
 # Aurora Rents Shoreline

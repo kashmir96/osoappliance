@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/enterprise-car-truck-rental.webp
-    alt: Cover image for Enterprise Car Truck Rental the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/311.webp
+ alt: 'Australia from EnterpriseCarTruckRental'
 ---
 
 # Enterprise Car Truck Rental

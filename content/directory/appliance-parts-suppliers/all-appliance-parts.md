@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/all-appliance-parts.webp
- alt: 'Logo for All Appliance Parts the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/125.webp
+ alt: 'Australia from allapplianceparts'
 ---
 
 # All Appliance Parts is an Appliance Parts Supplier from Australia.

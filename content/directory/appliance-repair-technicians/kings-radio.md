@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/kings-radio.webp
- alt: 'Logo for Kings Radio the New Zealand from Hamilton'
+cover:
+ image: /img/laundryappliance/2.webp
+ alt: 'NewZealand from kingsradio'
 ---
 
 # Kings Radio is an Appliance Repair Technician Company operating in Hamilton, New Zealand.

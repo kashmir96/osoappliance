@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/stage-me-up.webp
-    alt: Cover image for Stage Me Up the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/24.webp
+ alt: 'UnitedKingdom from StageMeUp'
 ---
 
 # Stage Me Up

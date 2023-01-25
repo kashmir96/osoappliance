@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gosforth-service-centre.webp
-    alt: Cover image for Gosforth Service Centre the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/203.webp
+ alt: 'UnitedKingdom from GosforthServiceCentre'
 ---
 
 # Gosforth Service Centre

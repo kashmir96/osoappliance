@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-doctor-inc.webp
-    alt: Cover image for Appliance Repair Doctor Inc the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/22.webp
+ alt: 'UnitedStates from ApplianceRepairDoctorInc'
 ---
 
 # Appliance Repair Doctor Inc

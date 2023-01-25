@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jims-after-hours-appliance-repair.webp
-    alt: Cover image for Jims After Hours Appliance Repair the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/90.webp
+ alt: 'UnitedStates from JimsAfterHoursApplianceRepair'
 ---
 
 # Jims After Hours Appliance Repair

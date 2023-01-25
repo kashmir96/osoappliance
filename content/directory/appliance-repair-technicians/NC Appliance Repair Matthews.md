@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nc-appliance-repair-matthews.webp
-    alt: Cover image for NC Appliance Repair Matthews the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/399.webp
+ alt: 'UnitedStates from NCApplianceRepairMatthews'
 ---
 
 # NC Appliance Repair Matthews

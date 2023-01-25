@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hastings-deering-cairns-and-the-cat-rental-store.webp
-    alt: Cover image for Hastings Deering Cairns and The Cat Rental Store the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/244.webp
+ alt: 'Australia from HastingsDeeringCairnsandTheCatRentalStore'
 ---
 
 # Hastings Deering Cairns and The Cat Rental Store

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gc-appliance-service-a-division-of-roshad.webp
-    alt: Cover image for GC APPLIANCE SERVICE a division of Roshad the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/63.webp
+ alt: 'Australia from GCAPPLIANCESERVICEadivisionofRoshad'
 ---
 
 # GC APPLIANCE SERVICE a division of Roshad

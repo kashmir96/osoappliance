@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-appliance-guys.webp
-    alt: Cover image for The Appliance Guys the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/293.webp
+ alt: 'UnitedStates from TheApplianceGuys'
 ---
 
 # The Appliance Guys

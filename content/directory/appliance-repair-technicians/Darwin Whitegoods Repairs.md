@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/darwin-whitegoods-repairs.webp
-    alt: Cover image for Darwin Whitegoods Repairs the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/6.webp
+ alt: 'Australia from DarwinWhitegoodsRepairs'
 ---
 
 # Darwin Whitegoods Repairs

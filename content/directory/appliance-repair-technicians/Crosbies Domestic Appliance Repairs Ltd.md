@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/crosbies-domestic-appliance-repairs-ltd.webp
-    alt: Cover image for Crosbies Domestic Appliance Repairs Ltd the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/13.webp
+ alt: 'UnitedKingdom from CrosbiesDomesticApplianceRepairsLtd'
 ---
 
 # Crosbies Domestic Appliance Repairs Ltd

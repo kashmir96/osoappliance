@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jims-appliance-repair-dallas.webp
-    alt: Cover image for Jims Appliance Repair Dallas the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/259.webp
+ alt: 'UnitedStates from JimsApplianceRepairDallas'
 ---
 
 # Jims Appliance Repair Dallas

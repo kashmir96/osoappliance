@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cookin-on-gas-ltd.webp
-    alt: Cover image for Cookin On Gas Ltd the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/394.webp
+ alt: 'UnitedKingdom from CookinOnGasLtd'
 ---
 
 # Cookin On Gas Ltd

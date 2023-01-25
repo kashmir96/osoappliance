@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/collected-2-home-staging-property-styling-furniture-hire-brisbane.webp
-    alt: Cover image for collected 2 home staging property styling furniture hire brisbane the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/177.webp
+ alt: 'Australia from collected2homestagingpropertystylingfurniturehirebrisbane'
 ---
 
 # collected 2 home staging property styling furniture hire brisbane

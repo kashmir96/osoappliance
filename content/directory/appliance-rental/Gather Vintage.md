@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/gather-vintage.webp
-    alt: Cover image for Gather Vintage the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/390.webp
+ alt: 'Australia from GatherVintage'
 ---
 
 # Gather Vintage

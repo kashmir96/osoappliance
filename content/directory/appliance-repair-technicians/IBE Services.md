@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ibe-services.webp
-    alt: Cover image for IBE Services the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/170.webp
+ alt: 'Australia from IBEServices'
 ---
 
 # IBE Services

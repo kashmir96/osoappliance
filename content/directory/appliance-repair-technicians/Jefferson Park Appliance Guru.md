@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jefferson-park-appliance-guru.webp
-    alt: Cover image for Jefferson Park Appliance Guru the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/275.webp
+ alt: 'UnitedStates from JeffersonParkApplianceGuru'
 ---
 
 # Jefferson Park Appliance Guru

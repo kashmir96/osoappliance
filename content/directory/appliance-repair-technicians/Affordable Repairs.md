@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/affordable-repairs.webp
-    alt: Cover image for Affordable Repairs the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/300.webp
+ alt: 'UnitedStates from AffordableRepairs'
 ---
 
 # Affordable Repairs

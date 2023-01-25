@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Columbus"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ikea.webp
-    alt: Cover image for IKEA the United States based Appliance Rental servicing Columbus 
+ image: /img/laundryappliance/74.webp
+ alt: 'UnitedStates from IKEA'
 ---
 
 # IKEA

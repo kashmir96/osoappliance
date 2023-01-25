@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["New Plymouth"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/leppard-electrical-appliance-services.webp
- alt: 'Logo for Leppard Electrical Appliance Services the New Zealand from New Plymouth'
+cover:
+ image: /img/laundryappliance/89.webp
+ alt: 'NewZealand from leppardelectricalapplianceservices'
 ---
 
 # Leppard Electrical Appliance Services is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.

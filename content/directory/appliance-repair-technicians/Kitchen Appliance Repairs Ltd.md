@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kitchen-appliance-repairs-ltd.webp
-    alt: Cover image for Kitchen Appliance Repairs Ltd the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/268.webp
+ alt: 'UnitedKingdom from KitchenApplianceRepairsLtd'
 ---
 
 # Kitchen Appliance Repairs Ltd

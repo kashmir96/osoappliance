@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/activate-appliances.webp
- alt: 'Logo for Activate Appliances the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/67.webp
+ alt: 'NewZealand from activateappliances'
 ---
 
 # Activate Appliances is an Appliance Repair Technician Company operating in Auckland, New Zealand.

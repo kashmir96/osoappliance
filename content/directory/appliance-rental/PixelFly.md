@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/pixelfly.webp
-    alt: Cover image for PixelFly the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/254.webp
+ alt: 'UnitedStates from PixelFly'
 ---
 
 # PixelFly

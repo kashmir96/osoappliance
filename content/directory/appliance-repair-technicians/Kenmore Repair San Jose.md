@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kenmore-repair-san-jose.webp
-    alt: Cover image for Kenmore Repair San Jose the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/142.webp
+ alt: 'UnitedStates from KenmoreRepairSanJose'
 ---
 
 # Kenmore Repair San Jose

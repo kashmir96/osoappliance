@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/premium-appliance-repair.webp
-    alt: Cover image for Premium Appliance Repair the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/374.webp
+ alt: 'Australia from PremiumApplianceRepair'
 ---
 
 # Premium Appliance Repair

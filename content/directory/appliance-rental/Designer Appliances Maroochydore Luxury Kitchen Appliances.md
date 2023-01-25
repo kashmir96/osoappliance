@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/designer-appliances-maroochydore-luxury-kitchen-appliances.webp
-    alt: Cover image for Designer Appliances Maroochydore Luxury Kitchen Appliances the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/302.webp
+ alt: 'Australia from DesignerAppliancesMaroochydoreLuxuryKitchenAppliances'
 ---
 
 # Designer Appliances Maroochydore Luxury Kitchen Appliances

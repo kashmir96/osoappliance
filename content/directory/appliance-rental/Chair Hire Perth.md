@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/chair-hire-perth.webp
-    alt: Cover image for Chair Hire Perth the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/73.webp
+ alt: 'Australia from ChairHirePerth'
 ---
 
 # Chair Hire Perth

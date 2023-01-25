@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/d-and-l-parts-company.webp
- alt: 'Logo for D And L Parts Company the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/84.webp
+ alt: 'Nigeria from dandlpartscompany'
 ---
 
 # D And L Parts Company is an Appliance Parts Supplier from Nigeria.

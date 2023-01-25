@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/climatic-air-conditioning-aust.webp
-    alt: Cover image for Climatic Air Conditioning Aust the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/10.webp
+ alt: 'Australia from ClimaticAirConditioningAust'
 ---
 
 # Climatic Air Conditioning Aust

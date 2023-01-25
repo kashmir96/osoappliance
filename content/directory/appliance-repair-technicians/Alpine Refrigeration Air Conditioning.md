@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/alpine-refrigeration-air-conditioning.webp
-    alt: Cover image for Alpine Refrigeration Air Conditioning the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/366.webp
+ alt: 'Australia from AlpineRefrigerationAirConditioning'
 ---
 
 # Alpine Refrigeration Air Conditioning

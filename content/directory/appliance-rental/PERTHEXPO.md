@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/perthexpo.webp
-    alt: Cover image for PERTHEXPO the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/16.webp
+ alt: 'Australia from PERTHEXPO'
 ---
 
 # PERTHEXPO

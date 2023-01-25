@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/metro-appliance-repair.webp
-    alt: Cover image for Metro Appliance Repair the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/158.webp
+ alt: 'UnitedStates from MetroApplianceRepair'
 ---
 
 # Metro Appliance Repair

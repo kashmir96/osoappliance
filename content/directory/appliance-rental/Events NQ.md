@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/events-nq.webp
-    alt: Cover image for Events NQ the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/5.webp
+ alt: 'Australia from EventsNQ'
 ---
 
 # Events NQ

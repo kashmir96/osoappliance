@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/used-appliances.webp
- alt: 'Logo for Used Appliances the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/119.webp
+ alt: 'NewZealand from usedappliances'
 ---
 
 # Used Appliances is an Appliance Parts Supplier from New Zealand.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bounce-me-happy-jumping-castle-hire.webp
-    alt: Cover image for Bounce Me Happy Jumping Castle Hire the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/214.webp
+ alt: 'Australia from BounceMeHappyJumpingCastleHire'
 ---
 
 # Bounce Me Happy Jumping Castle Hire

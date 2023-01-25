@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pat-testing-expert-ltd.webp
-    alt: Cover image for Pat Testing Expert Ltd the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/120.webp
+ alt: 'UnitedKingdom from PatTestingExpertLtd'
 ---
 
 # Pat Testing Expert Ltd

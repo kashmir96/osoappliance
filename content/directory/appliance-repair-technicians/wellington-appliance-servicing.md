@@ -5,9 +5,9 @@ type: "Parts, Appliance Repair Technician, Second hand appliances, New Appliance
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/parts,-appliance-repair-technician,-second-hand-appliances,-new-appliances/wellington-appliance-servicing.webp
- alt: 'Logo for Wellington Appliance Servicing the New Zealand from Wellington'
+cover:
+ image: /img/laundryappliance/325.webp
+ alt: 'NewZealand from wellingtonapplianceservicing'
 ---
 
 # Wellington Appliance Servicing is an Parts, Appliance Repair Technician, Second hand appliances, New Appliances Company operating in Wellington, New Zealand.

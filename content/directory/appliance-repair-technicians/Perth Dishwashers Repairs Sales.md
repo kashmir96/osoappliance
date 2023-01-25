@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/perth-dishwashers-repairs-sales.webp
-    alt: Cover image for Perth Dishwashers Repairs Sales the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/76.webp
+ alt: 'Australia from PerthDishwashersRepairsSales'
 ---
 
 # Perth Dishwashers Repairs Sales

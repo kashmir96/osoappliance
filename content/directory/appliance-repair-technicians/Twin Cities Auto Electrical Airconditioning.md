@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/twin-cities-auto-electrical-airconditioning.webp
-    alt: Cover image for Twin Cities Auto Electrical Airconditioning the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/63.webp
+ alt: 'Australia from TwinCitiesAutoElectricalAirconditioning'
 ---
 
 # Twin Cities Auto Electrical Airconditioning

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/groovy-grins-photo-booth-hire-albury-wodonga.webp
-    alt: Cover image for Groovy Grins Photo Booth Hire Albury Wodonga the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/336.webp
+ alt: 'Australia from GroovyGrinsPhotoBoothHireAlburyWodonga'
 ---
 
 # Groovy Grins Photo Booth Hire Albury Wodonga

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/warradale-appliance-service.webp
-    alt: Cover image for Warradale Appliance Service the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/16.webp
+ alt: 'Australia from WarradaleApplianceService'
 ---
 
 # Warradale Appliance Service

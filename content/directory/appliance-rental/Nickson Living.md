@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/nickson-living.webp
-    alt: Cover image for Nickson Living the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/105.webp
+ alt: 'UnitedStates from NicksonLiving'
 ---
 
 # Nickson Living

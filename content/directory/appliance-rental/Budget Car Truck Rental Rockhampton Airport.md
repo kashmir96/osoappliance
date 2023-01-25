@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/budget-car-truck-rental-rockhampton-airport.webp
-    alt: Cover image for Budget Car Truck Rental Rockhampton Airport the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/174.webp
+ alt: 'Australia from BudgetCarTruckRentalRockhamptonAirport'
 ---
 
 # Budget Car Truck Rental Rockhampton Airport

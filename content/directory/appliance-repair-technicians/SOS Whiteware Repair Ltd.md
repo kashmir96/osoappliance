@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sos-whiteware-repair-ltd.webp
-    alt: Cover image for SOS Whiteware Repair Ltd the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/6.webp
+ alt: 'UnitedKingdom from SOSWhitewareRepairLtd'
 ---
 
 # SOS Whiteware Repair Ltd

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/rjr-domestic-appliance-repair-service.webp
-    alt: Cover image for rjr domestic appliance repair service the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/321.webp
+ alt: 'UnitedKingdom from rjrdomesticappliancerepairservice'
 ---
 
 # rjr domestic appliance repair service

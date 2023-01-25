@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-plus-appliance-repair-los-angeles.webp
-    alt: Cover image for A Plus Appliance repair Los Angeles the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/300.webp
+ alt: 'UnitedStates from APlusAppliancerepairLosAngeles'
 ---
 
 # A Plus Appliance repair Los Angeles

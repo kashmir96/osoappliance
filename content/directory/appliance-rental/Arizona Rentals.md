@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/arizona-rentals.webp
-    alt: Cover image for Arizona Rentals the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/240.webp
+ alt: 'UnitedStates from ArizonaRentals'
 ---
 
 # Arizona Rentals

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/staykool-car-air-conditioning-service-derby.webp
-    alt: Cover image for StayKool Car Air Conditioning Service Derby the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/233.webp
+ alt: 'UnitedKingdom from StayKoolCarAirConditioningServiceDerby'
 ---
 
 # StayKool Car Air Conditioning Service Derby

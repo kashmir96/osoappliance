@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/diplomatix-appliances.webp
-    alt: Cover image for DiploMatix Appliances the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/16.webp
+ alt: 'UnitedKingdom from DiploMatixAppliances'
 ---
 
 # DiploMatix Appliances

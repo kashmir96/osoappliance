@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/local-appliance-repair-experts.webp
-    alt: Cover image for Local Appliance Repair Experts the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/362.webp
+ alt: 'UnitedStates from LocalApplianceRepairExperts'
 ---
 
 # Local Appliance Repair Experts

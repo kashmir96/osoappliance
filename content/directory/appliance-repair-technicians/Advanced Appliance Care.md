@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/advanced-appliance-care.webp
-    alt: Cover image for Advanced Appliance Care the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/154.webp
+ alt: 'UnitedKingdom from AdvancedApplianceCare'
 ---
 
 # Advanced Appliance Care

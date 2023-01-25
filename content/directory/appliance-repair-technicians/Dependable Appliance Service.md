@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dependable-appliance-service.webp
-    alt: Cover image for Dependable Appliance Service the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/39.webp
+ alt: 'UnitedStates from DependableApplianceService'
 ---
 
 # Dependable Appliance Service

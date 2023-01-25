@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mi-refrigeration.webp
-    alt: Cover image for MI Refrigeration the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/276.webp
+ alt: 'UnitedKingdom from MIRefrigeration'
 ---
 
 # MI Refrigeration

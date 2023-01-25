@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tx-appliance-repair.webp
-    alt: Cover image for TX Appliance Repair the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/265.webp
+ alt: 'UnitedStates from TXApplianceRepair'
 ---
 
 # TX Appliance Repair

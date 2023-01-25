@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/big-as-furniture-mattress-llc.webp
-    alt: Cover image for Big As Furniture Mattress LLC the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/246.webp
+ alt: 'UnitedStates from BigAsFurnitureMattressLLC'
 ---
 
 # Big As Furniture Mattress LLC

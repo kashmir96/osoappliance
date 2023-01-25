@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/arrive-on-time-appliance-repairs.webp
-    alt: Cover image for Arrive On Time Appliance Repairs the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/364.webp
+ alt: 'Australia from ArriveOnTimeApplianceRepairs'
 ---
 
 # Arrive On Time Appliance Repairs

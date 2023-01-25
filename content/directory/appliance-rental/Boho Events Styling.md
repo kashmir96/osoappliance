@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/boho-events-styling.webp
-    alt: Cover image for Boho Events Styling the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/297.webp
+ alt: 'Australia from BohoEventsStyling'
 ---
 
 # Boho Events Styling

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/view-launceston.webp
-    alt: Cover image for View Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/241.webp
+ alt: 'Australia from ViewLaunceston'
 ---
 
 # View Launceston

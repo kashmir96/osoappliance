@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/top-end-chill-air-conditioning-pty-ltd.webp
-    alt: Cover image for Top End Chill Air Conditioning Pty Ltd the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/296.webp
+ alt: 'Australia from TopEndChillAirConditioningPtyLtd'
 ---
 
 # Top End Chill Air Conditioning Pty Ltd

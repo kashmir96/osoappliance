@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cooker-clinic.webp
-    alt: Cover image for Cooker Clinic the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/287.webp
+ alt: 'UnitedKingdom from CookerClinic'
 ---
 
 # Cooker Clinic

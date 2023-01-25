@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tgj-plumbing.webp
-    alt: Cover image for TGJ Plumbing the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/158.webp
+ alt: 'Australia from TGJPlumbing'
 ---
 
 # TGJ Plumbing

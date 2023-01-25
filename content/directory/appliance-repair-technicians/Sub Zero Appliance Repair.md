@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sub-zero-appliance-repair.webp
-    alt: Cover image for Sub Zero Appliance Repair the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/227.webp
+ alt: 'UnitedStates from SubZeroApplianceRepair'
 ---
 
 # Sub Zero Appliance Repair

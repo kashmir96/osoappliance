@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/radio-rentals.webp
-    alt: Cover image for Radio Rentals the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/1.webp
+ alt: 'Australia from RadioRentals'
 ---
 
 # Radio Rentals

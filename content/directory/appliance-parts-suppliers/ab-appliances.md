@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/ab-appliances.webp
- alt: 'Logo for AB Appliances the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/122.webp
+ alt: 'NewZealand from abappliances'
 ---
 
 # AB Appliances is an Appliance Parts Supplier from New Zealand.

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/appliances-4-rent.webp
-    alt: Cover image for Appliances 4 Rent the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/335.webp
+ alt: 'UnitedKingdom from Appliances4Rentcopy'
 ---
 
 # Appliances 4 Rent

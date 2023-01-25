@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/мy-appliance-service-company.webp
-    alt: Cover image for Мy Appliance Service Company the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/391.webp
+ alt: 'UnitedStates from МyApplianceServiceCompany'
 ---
 
 # Мy Appliance Service Company

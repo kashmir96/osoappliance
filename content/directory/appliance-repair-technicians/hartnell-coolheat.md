@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Installation, New Appliances"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-installation,-new-appliances/hartnell-coolheat.webp
- alt: 'Logo for Hartnell Coolheat the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/323.webp
+ alt: 'NewZealand from hartnellcoolheat'
 ---
 
 # Hartnell Coolheat is an Appliance Repair Technician, Installation, New Appliances Company operating in Christchurch, New Zealand.

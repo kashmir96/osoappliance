@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/yes-appliance-repair-service-seattle-wa.webp
-    alt: Cover image for Yes Appliance Repair Service Seattle WA the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/205.webp
+ alt: 'UnitedStates from YesApplianceRepairServiceSeattleWA'
 ---
 
 # Yes Appliance Repair Service Seattle WA

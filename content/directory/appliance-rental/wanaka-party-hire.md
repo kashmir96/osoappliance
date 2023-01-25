@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Wanaka"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/wanaka-party-hire.webp
- alt: 'Logo for Wanaka Party Hire the Appliance Rental business from Wanaka, New Zealand'
+cover:
+ image: /img/laundryappliance/303.webp
+ alt: 'NewZealand from wanakapartyhire'
 ---
 
 Wanaka Party Hire is an Appliance Rental business located in Wanaka, New Zealand. 

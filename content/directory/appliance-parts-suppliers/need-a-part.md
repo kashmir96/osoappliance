@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/need-a-part.webp
- alt: 'Logo for Need a Part the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/107.webp
+ alt: 'NewZealand from needapart'
 ---
 
 # Need a Part is an Appliance Parts Supplier from New Zealand.

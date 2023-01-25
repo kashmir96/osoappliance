@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/lilybell-picnics-events-and-diy-hire.webp
-    alt: Cover image for Lilybell Picnics Events and DIY Hire the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/2.webp
+ alt: 'Australia from LilybellPicnicsEventsandDIYHire'
 ---
 
 # Lilybell Picnics Events and DIY Hire

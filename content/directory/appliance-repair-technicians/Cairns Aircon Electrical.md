@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cairns-aircon-electrical.webp
-    alt: Cover image for Cairns Aircon Electrical the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/270.webp
+ alt: 'Australia from CairnsAirconElectrical'
 ---
 
 # Cairns Aircon Electrical

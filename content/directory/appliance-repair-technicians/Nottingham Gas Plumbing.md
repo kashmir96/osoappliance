@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nottingham-gas-plumbing.webp
-    alt: Cover image for Nottingham Gas Plumbing the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/237.webp
+ alt: 'UnitedKingdom from NottinghamGasPlumbing'
 ---
 
 # Nottingham Gas Plumbing

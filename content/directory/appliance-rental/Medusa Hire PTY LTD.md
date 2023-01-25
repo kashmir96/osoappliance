@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/medusa-hire-pty-ltd.webp
-    alt: Cover image for Medusa Hire PTY LTD the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/313.webp
+ alt: 'Australia from MedusaHirePTYLTD'
 ---
 
 # Medusa Hire PTY LTD

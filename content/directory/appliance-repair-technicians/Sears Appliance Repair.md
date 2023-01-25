@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sears-appliance-repair.webp
-    alt: Cover image for Sears Appliance Repair the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/217.webp
+ alt: 'UnitedStates from SearsApplianceRepair'
 ---
 
 # Sears Appliance Repair

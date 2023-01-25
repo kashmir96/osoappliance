@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/denvers-best-subzero-wolf-repair-aurora.webp
-    alt: Cover image for Denvers Best SubZero Wolf Repair Aurora the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/219.webp
+ alt: 'UnitedStates from DenversBestSubZeroWolfRepairAurora'
 ---
 
 # Denvers Best SubZero Wolf Repair Aurora

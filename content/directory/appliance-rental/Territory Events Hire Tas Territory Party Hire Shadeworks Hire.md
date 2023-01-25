@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/territory-events-hire-tas-territory-party-hire-shadeworks-hire.webp
-    alt: Cover image for Territory Events Hire Tas Territory Party Hire Shadeworks Hire the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/60.webp
+ alt: 'Australia from TerritoryEventsHireTasTerritoryPartyHireShadeworksHire'
 ---
 
 # Territory Events Hire Tas Territory Party Hire Shadeworks Hire

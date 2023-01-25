@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/penny-lane-domestic-appliances-liverpool.webp
-    alt: Cover image for Penny Lane Domestic Appliances Liverpool the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/312.webp
+ alt: 'UnitedKingdom from PennyLaneDomesticAppliancesLiverpool'
 ---
 
 # Penny Lane Domestic Appliances Liverpool

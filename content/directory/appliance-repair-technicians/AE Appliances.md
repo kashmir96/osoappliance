@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ae-appliances.webp
-    alt: Cover image for AE Appliances the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/389.webp
+ alt: 'UnitedKingdom from AEAppliances'
 ---
 
 # AE Appliances

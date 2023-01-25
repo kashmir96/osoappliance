@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/js-appliance.webp
-    alt: Cover image for JS APPLIANCE the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/143.webp
+ alt: 'UnitedStates from JSAPPLIANCE'
 ---
 
 # JS APPLIANCE

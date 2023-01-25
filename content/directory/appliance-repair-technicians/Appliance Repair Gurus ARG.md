@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-gurus-arg.webp
-    alt: Cover image for Appliance Repair Gurus ARG the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/176.webp
+ alt: 'UnitedStates from ApplianceRepairGurusARG'
 ---
 
 # Appliance Repair Gurus ARG

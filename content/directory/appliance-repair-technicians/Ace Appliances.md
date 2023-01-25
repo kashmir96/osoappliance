@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ace-appliances.webp
-    alt: Cover image for Ace Appliances the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/10.webp
+ alt: 'UnitedKingdom from AceAppliances'
 ---
 
 # Ace Appliances

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/discount-appliance-parts.webp
- alt: 'Logo for Discount Appliance Parts the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/139.webp
+ alt: 'Australia from discountapplianceparts'
 ---
 
 # Discount Appliance Parts is an Appliance Parts Supplier from Australia.

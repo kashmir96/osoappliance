@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/icon-heating-services.webp
-    alt: Cover image for Icon Heating Services the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/353.webp
+ alt: 'UnitedKingdom from IconHeatingServices'
 ---
 
 # Icon Heating Services

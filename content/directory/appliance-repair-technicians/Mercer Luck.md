@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mercer-luck.webp
-    alt: Cover image for Mercer Luck the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/159.webp
+ alt: 'Australia from MercerLuck'
 ---
 
 # Mercer Luck

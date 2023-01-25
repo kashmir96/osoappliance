@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cnl-plumbing-drainage.webp
-    alt: Cover image for CNL Plumbing Drainage the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/103.webp
+ alt: 'Australia from CNLPlumbingDrainage'
 ---
 
 # CNL Plumbing Drainage

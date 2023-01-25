@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/speedy-appliance-parts.webp
- alt: 'Logo for Speedy Appliance Parts the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/166.webp
+ alt: 'Nigeria from speedyapplianceparts'
 ---
 
 # Speedy Appliance Parts is an Appliance Parts Supplier from Nigeria.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/professional-dj-hire-mitchell-price-music.webp
-    alt: Cover image for Professional DJ Hire Mitchell Price Music the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/249.webp
+ alt: 'Australia from ProfessionalDJHireMitchellPriceMusic'
 ---
 
 # Professional DJ Hire Mitchell Price Music

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dc-appliance-repair-asap.webp
-    alt: Cover image for DC Appliance Repair ASAP the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/113.webp
+ alt: 'UnitedStates from DCApplianceRepairASAP'
 ---
 
 # DC Appliance Repair ASAP

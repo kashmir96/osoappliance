@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/appliance-liquidation-outlet.webp
-    alt: Cover image for Appliance Liquidation Outlet the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/378.webp
+ alt: 'UnitedStates from ApplianceLiquidationOutlet'
 ---
 
 # Appliance Liquidation Outlet

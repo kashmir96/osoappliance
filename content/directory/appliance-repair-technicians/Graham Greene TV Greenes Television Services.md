@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/graham-greene-tv-greenes-television-services.webp
-    alt: Cover image for Graham Greene TV Greenes Television Services the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/226.webp
+ alt: 'Australia from GrahamGreeneTVGreenesTelevisionServices'
 ---
 
 # Graham Greene TV Greenes Television Services

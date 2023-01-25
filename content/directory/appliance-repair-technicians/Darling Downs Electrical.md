@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/darling-downs-electrical.webp
-    alt: Cover image for Darling Downs Electrical the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/114.webp
+ alt: 'Australia from DarlingDownsElectrical'
 ---
 
 # Darling Downs Electrical

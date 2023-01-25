@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/toowoomba-music-repairs-formerly-nunns-print-music-repairs.webp
-    alt: Cover image for Toowoomba Music Repairs formerly Nunns Print Music Repairs the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/306.webp
+ alt: 'Australia from ToowoombaMusicRepairsformerlyNunnsPrintMusicRepairs'
 ---
 
 # Toowoomba Music Repairs formerly Nunns Print Music Repairs

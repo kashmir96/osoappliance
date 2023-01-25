@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/shoot-360-uk.webp
-    alt: Cover image for Shoot 360 UK the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/207.webp
+ alt: 'UnitedKingdom from Shoot360UK'
 ---
 
 # Shoot 360 UK

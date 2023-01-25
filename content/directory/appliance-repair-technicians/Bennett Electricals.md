@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bennett-electricals.webp
-    alt: Cover image for Bennett Electricals the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/342.webp
+ alt: 'UnitedKingdom from BennettElectricals'
 ---
 
 # Bennett Electricals

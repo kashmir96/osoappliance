@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domestic-appliance-service.webp
-    alt: Cover image for Domestic Appliance Service the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/338.webp
+ alt: 'Australia from DomesticApplianceService'
 ---
 
 # Domestic Appliance Service

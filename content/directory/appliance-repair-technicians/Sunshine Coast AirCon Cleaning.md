@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sunshine-coast-aircon-cleaning.webp
-    alt: Cover image for Sunshine Coast AirCon Cleaning the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/178.webp
+ alt: 'Australia from SunshineCoastAirConCleaning'
 ---
 
 # Sunshine Coast AirCon Cleaning

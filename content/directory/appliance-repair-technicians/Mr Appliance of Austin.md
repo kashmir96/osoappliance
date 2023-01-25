@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-austin.webp
-    alt: Cover image for Mr Appliance of Austin the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/229.webp
+ alt: 'UnitedStates from MrApplianceofAustin'
 ---
 
 # Mr Appliance of Austin

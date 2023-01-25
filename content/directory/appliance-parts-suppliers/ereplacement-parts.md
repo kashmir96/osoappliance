@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/ereplacement-parts.webp
- alt: 'Logo for Ereplacement Parts the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/124.webp
+ alt: 'Nigeria from ereplacementparts'
 ---
 
 # Ereplacement Parts is an Appliance Parts Supplier from Nigeria.

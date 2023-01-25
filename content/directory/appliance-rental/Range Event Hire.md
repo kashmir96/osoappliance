@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/range-event-hire.webp
-    alt: Cover image for Range Event Hire the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/197.webp
+ alt: 'Australia from RangeEventHire'
 ---
 
 # Range Event Hire

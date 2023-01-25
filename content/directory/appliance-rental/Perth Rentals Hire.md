@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/perth-rentals-hire.webp
-    alt: Cover image for Perth Rentals Hire the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/213.webp
+ alt: 'Australia from PerthRentalsHire'
 ---
 
 # Perth Rentals Hire

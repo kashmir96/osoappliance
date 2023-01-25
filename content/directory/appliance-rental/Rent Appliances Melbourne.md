@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-appliances-melbourne.webp
-    alt: Cover image for Rent Appliances Melbourne the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/162.webp
+ alt: 'Australia from RentAppliancesMelbourne'
 ---
 
 # Rent Appliances Melbourne

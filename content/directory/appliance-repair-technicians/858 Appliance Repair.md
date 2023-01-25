@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/858-appliance-repair.webp
-    alt: Cover image for 858 Appliance Repair the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/14.webp
+ alt: 'UnitedStates from 858ApplianceRepair'
 ---
 
 # 858 Appliance Repair

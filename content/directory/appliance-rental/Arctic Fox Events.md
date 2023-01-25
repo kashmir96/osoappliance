@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/arctic-fox-events.webp
-    alt: Cover image for Arctic Fox Events the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/189.webp
+ alt: 'Australia from ArcticFoxEvents'
 ---
 
 # Arctic Fox Events

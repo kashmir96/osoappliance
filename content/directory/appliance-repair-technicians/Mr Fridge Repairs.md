@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-fridge-repairs.webp
-    alt: Cover image for Mr Fridge Repairs the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/72.webp
+ alt: 'Australia from MrFridgeRepairs'
 ---
 
 # Mr Fridge Repairs

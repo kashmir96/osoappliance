@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sydney-domestic-appliance-centre.webp
-    alt: Cover image for Sydney Domestic Appliance Centre the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/297.webp
+ alt: 'Australia from SydneyDomesticApplianceCentre'
 ---
 
 # Sydney Domestic Appliance Centre

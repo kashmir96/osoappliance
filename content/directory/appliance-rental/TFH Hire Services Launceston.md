@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tfh-hire-services-launceston.webp
-    alt: Cover image for TFH Hire Services Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/102.webp
+ alt: 'Australia from TFHHireServicesLaunceston'
 ---
 
 # TFH Hire Services Launceston

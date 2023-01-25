@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/next-hvac-and-appliance-repair.webp
-    alt: Cover image for Next HVAC and Appliance repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/221.webp
+ alt: 'UnitedStates from NextHVACandAppliancerepair'
 ---
 
 # Next HVAC and Appliance repair

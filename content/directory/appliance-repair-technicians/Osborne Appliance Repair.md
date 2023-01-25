@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/osborne-appliance-repair.webp
-    alt: Cover image for Osborne Appliance Repair the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/320.webp
+ alt: 'UnitedKingdom from OsborneApplianceRepair'
 ---
 
 # Osborne Appliance Repair

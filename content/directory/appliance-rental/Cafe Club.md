@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cafe-club.webp
-    alt: Cover image for Cafe Club the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/361.webp
+ alt: 'Australia from CafeClub'
 ---
 
 # Cafe Club

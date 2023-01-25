@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/location-equipment.webp
-    alt: Cover image for Location Equipment the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/299.webp
+ alt: 'Australia from LocationEquipment'
 ---
 
 # Location Equipment

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/2ndlease.webp
-    alt: Cover image for 2ndLease the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/264.webp
+ alt: 'Australia from 2ndLease'
 ---
 
 # 2ndLease

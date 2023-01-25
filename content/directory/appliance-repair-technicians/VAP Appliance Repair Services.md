@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/vap-appliance-repair-services.webp
-    alt: Cover image for VAP Appliance Repair Services the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/305.webp
+ alt: 'UnitedStates from VAPApplianceRepairServices'
 ---
 
 # VAP Appliance Repair Services

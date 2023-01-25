@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliances-of-edinburgh.webp
-    alt: Cover image for Appliances of Edinburgh the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/328.webp
+ alt: 'UnitedKingdom from AppliancesofEdinburgh'
 ---
 
 # Appliances of Edinburgh

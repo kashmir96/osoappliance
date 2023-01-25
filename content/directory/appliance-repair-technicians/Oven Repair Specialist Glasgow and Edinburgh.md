@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/oven-repair-specialist-glasgow-and-edinburgh.webp
-    alt: Cover image for Oven Repair Specialist Glasgow and Edinburgh the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/13.webp
+ alt: 'UnitedKingdom from OvenRepairSpecialistGlasgowandEdinburgh'
 ---
 
 # Oven Repair Specialist Glasgow and Edinburgh

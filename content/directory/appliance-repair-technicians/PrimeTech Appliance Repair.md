@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/primetech-appliance-repair.webp
-    alt: Cover image for PrimeTech Appliance Repair the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/154.webp
+ alt: 'UnitedStates from PrimeTechApplianceRepair'
 ---
 
 # PrimeTech Appliance Repair

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/camera-house-launceston.webp
-    alt: Cover image for Camera House Launceston the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/85.webp
+ alt: 'Australia from CameraHouseLaunceston'
 ---
 
 # Camera House Launceston

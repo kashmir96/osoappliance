@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/omega-appliances.webp
- alt: 'Logo for Omega Appliances the New Zealand from Hamilton'
+cover:
+ image: /img/laundryappliance/74.webp
+ alt: 'NewZealand from omegaappliances'
 ---
 
 # Omega Appliances is an Appliance Repair Technician Company operating in Hamilton, New Zealand.

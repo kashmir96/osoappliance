@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/david-price-plumbing-central-heating.webp
-    alt: Cover image for David Price Plumbing Central Heating the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/56.webp
+ alt: 'UnitedKingdom from DavidPricePlumbingCentralHeating'
 ---
 
 # David Price Plumbing Central Heating

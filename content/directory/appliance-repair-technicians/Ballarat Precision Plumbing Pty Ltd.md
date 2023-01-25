@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ballarat-precision-plumbing-pty-ltd.webp
-    alt: Cover image for Ballarat Precision Plumbing Pty Ltd the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/184.webp
+ alt: 'Australia from BallaratPrecisionPlumbingPtyLtd'
 ---
 
 # Ballarat Precision Plumbing Pty Ltd

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/asap-appliance-rentals.webp
-    alt: Cover image for ASAP Appliance Rentals the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/251.webp
+ alt: 'UnitedStates from ASAPApplianceRentals'
 ---
 
 # ASAP Appliance Rentals

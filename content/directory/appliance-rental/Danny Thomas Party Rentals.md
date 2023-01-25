@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/danny-thomas-party-rentals.webp
-    alt: Cover image for Danny Thomas Party Rentals the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/161.webp
+ alt: 'UnitedStates from DannyThomasPartyRentals'
 ---
 
 # Danny Thomas Party Rentals

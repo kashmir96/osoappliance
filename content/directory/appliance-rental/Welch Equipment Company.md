@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/welch-equipment-company.webp
-    alt: Cover image for Welch Equipment Company the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/331.webp
+ alt: 'UnitedStates from WelchEquipmentCompany'
 ---
 
 # Welch Equipment Company

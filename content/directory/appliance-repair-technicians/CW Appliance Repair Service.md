@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cw-appliance-repair-service.webp
-    alt: Cover image for CW Appliance Repair Service the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/163.webp
+ alt: 'UnitedStates from CWApplianceRepairService'
 ---
 
 # CW Appliance Repair Service

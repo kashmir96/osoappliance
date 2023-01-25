@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/asc-appliance-repair.webp
-    alt: Cover image for ASC Appliance Repair the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/185.webp
+ alt: 'UnitedStates from ASCApplianceRepair'
 ---
 
 # ASC Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dial-viking-appliance-repair-inc.webp
-    alt: Cover image for Dial Viking Appliance Repair Inc the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/246.webp
+ alt: 'UnitedStates from DialVikingApplianceRepairInc'
 ---
 
 # Dial Viking Appliance Repair Inc

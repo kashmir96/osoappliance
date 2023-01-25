@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/landmark-air.webp
-    alt: Cover image for Landmark Air the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/268.webp
+ alt: 'Australia from LandmarkAir'
 ---
 
 # Landmark Air

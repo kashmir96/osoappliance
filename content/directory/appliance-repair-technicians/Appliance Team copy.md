@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-team.webp
-    alt: Cover image for Appliance Team the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/321.webp
+ alt: 'UnitedKingdom from ApplianceTeamcopy'
 ---
 
 # Appliance Team

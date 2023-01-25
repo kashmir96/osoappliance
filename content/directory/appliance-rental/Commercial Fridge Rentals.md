@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/commercial-fridge-rentals.webp
-    alt: Cover image for Commercial Fridge Rentals the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/382.webp
+ alt: 'Australia from CommercialFridgeRentals'
 ---
 
 # Commercial Fridge Rentals

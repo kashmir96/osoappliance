@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/jax-audio-systems.webp
-    alt: Cover image for Jax Audio Systems the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/132.webp
+ alt: 'Australia from JaxAudioSystems'
 ---
 
 # Jax Audio Systems

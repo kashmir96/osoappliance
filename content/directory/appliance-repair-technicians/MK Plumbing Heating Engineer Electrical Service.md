@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mk-plumbing-heating-engineer-electrical-service.webp
-    alt: Cover image for MK Plumbing Heating Engineer Electrical Service the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/227.webp
+ alt: 'UnitedKingdom from MKPlumbingHeatingEngineerElectricalService'
 ---
 
 # MK Plumbing Heating Engineer Electrical Service

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/wellroomed.webp
-    alt: Cover image for Wellroomed the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/226.webp
+ alt: 'UnitedStates from Wellroomed'
 ---
 
 # Wellroomed

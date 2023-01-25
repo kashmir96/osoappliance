@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["New Plymouth"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/dwyer-tech.webp
- alt: 'Logo for Dwyer Tech the New Zealand from New Plymouth'
+cover:
+ image: /img/laundryappliance/88.webp
+ alt: 'NewZealand from dwyertech'
 ---
 
 # Dwyer Tech is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.

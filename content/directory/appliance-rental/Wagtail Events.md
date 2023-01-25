@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/wagtail-events.webp
-    alt: Cover image for Wagtail Events the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/229.webp
+ alt: 'Australia from WagtailEvents'
 ---
 
 # Wagtail Events

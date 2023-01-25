@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/used-furniture.webp
-    alt: Cover image for Used Furniture the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/350.webp
+ alt: 'UnitedStates from UsedFurniture'
 ---
 
 # Used Furniture

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abrs-domestic-appliances.webp
-    alt: Cover image for ABRS Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/93.webp
+ alt: 'UnitedKingdom from ABRSDomesticAppliances'
 ---
 
 # ABRS Domestic Appliances

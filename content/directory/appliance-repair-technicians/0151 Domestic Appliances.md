@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/0151-domestic-appliances.webp
-    alt: Cover image for 0151 Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/355.webp
+ alt: 'UnitedKingdom from 0151DomesticAppliances'
 ---
 
 # 0151 Domestic Appliances

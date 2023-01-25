@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a1action-refrigeration-and-appliance-repair.webp
-    alt: Cover image for A1action refrigeration and appliance repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/165.webp
+ alt: 'UnitedStates from A1actionrefrigerationandappliancerepair'
 ---
 
 # A1action refrigeration and appliance repair

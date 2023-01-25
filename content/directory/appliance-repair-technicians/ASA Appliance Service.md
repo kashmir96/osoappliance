@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/asa-appliance-service.webp
-    alt: Cover image for ASA Appliance Service the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/347.webp
+ alt: 'Australia from ASAApplianceService'
 ---
 
 # ASA Appliance Service

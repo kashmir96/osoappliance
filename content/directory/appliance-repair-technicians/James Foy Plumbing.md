@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/james-foy-plumbing.webp
-    alt: Cover image for James Foy Plumbing the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/20.webp
+ alt: 'UnitedKingdom from JamesFoyPlumbing'
 ---
 
 # James Foy Plumbing

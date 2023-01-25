@@ -5,9 +5,9 @@ type: "Parts, Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/parts,-appliance-repair-technician/monk-appliances.webp
- alt: 'Logo for Monk Appliances the New Zealand from Wellington'
+cover:
+ image: /img/laundryappliance/105.webp
+ alt: 'NewZealand from monkappliances'
 ---
 
 # Monk Appliances is an Parts, Appliance Repair Technician Company operating in Wellington, New Zealand.

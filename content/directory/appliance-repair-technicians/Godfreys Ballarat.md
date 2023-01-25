@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/godfreys-ballarat.webp
-    alt: Cover image for Godfreys Ballarat the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/166.webp
+ alt: 'Australia from GodfreysBallarat'
 ---
 
 # Godfreys Ballarat

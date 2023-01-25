@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bay-city-plumbing.webp
-    alt: Cover image for Bay City Plumbing the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/207.webp
+ alt: 'Australia from BayCityPlumbing'
 ---
 
 # Bay City Plumbing

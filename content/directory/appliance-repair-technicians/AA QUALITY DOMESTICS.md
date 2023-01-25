@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aa-quality-domestics.webp
-    alt: Cover image for AA QUALITY DOMESTICS the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/143.webp
+ alt: 'UnitedKingdom from AAQUALITYDOMESTICS'
 ---
 
 # AA QUALITY DOMESTICS

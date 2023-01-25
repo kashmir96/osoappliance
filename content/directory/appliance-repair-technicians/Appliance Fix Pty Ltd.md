@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-fix-pty-ltd.webp
-    alt: Cover image for Appliance Fix Pty Ltd the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/249.webp
+ alt: 'Australia from ApplianceFixPtyLtd'
 ---
 
 # Appliance Fix Pty Ltd

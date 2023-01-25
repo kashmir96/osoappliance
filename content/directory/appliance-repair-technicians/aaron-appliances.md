@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Second hand appliances"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-second-hand-appliances/aaron-appliances.webp
- alt: 'Logo for Aaron Appliances the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/34.webp
+ alt: 'NewZealand from aaronappliances'
 ---
 
 # Aaron Appliances is an Appliance Repair Technician, Second hand appliances Company operating in Auckland, New Zealand.

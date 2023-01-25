@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/unit-appliance-pty-ltd.webp
-    alt: Cover image for Unit Appliance Pty Ltd the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/103.webp
+ alt: 'Australia from UnitAppliancePtyLtd'
 ---
 
 # Unit Appliance Pty Ltd

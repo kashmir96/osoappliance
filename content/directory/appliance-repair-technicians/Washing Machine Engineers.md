@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washing-machine-engineers.webp
-    alt: Cover image for Washing Machine Engineers the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/332.webp
+ alt: 'UnitedKingdom from WashingMachineEngineers'
 ---
 
 # Washing Machine Engineers

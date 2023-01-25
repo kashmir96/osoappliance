@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Queenstown"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/mr-rental.webp
- alt: 'Logo for Mr Rental the Appliance Rental business from Queenstown, New Zealand'
+cover:
+ image: /img/laundryappliance/40.webp
+ alt: 'NewZealand from mrrental'
 ---
 
 Mr Rental is an Appliance Rental business located in Queenstown, New Zealand. 

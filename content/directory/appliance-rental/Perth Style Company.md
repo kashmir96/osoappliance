@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/perth-style-company.webp
-    alt: Cover image for Perth Style Company the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/145.webp
+ alt: 'Australia from PerthStyleCompany'
 ---
 
 # Perth Style Company

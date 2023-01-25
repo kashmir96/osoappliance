@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-cairns.webp
-    alt: Cover image for Mr Rental Cairns the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/225.webp
+ alt: 'Australia from MrRentalCairns'
 ---
 
 # Mr Rental Cairns

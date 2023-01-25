@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/source-caps.webp
- alt: 'Logo for Source Caps the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/34.webp
+ alt: 'Canada from sourcecaps'
 ---
 
 # Source Caps is an Appliance Parts Supplier from Canada.

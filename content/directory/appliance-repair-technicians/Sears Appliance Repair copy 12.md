@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sears-appliance-repair.webp
-    alt: Cover image for Sears Appliance Repair the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/318.webp
+ alt: 'UnitedStates from SearsApplianceRepaircopy12'
 ---
 
 # Sears Appliance Repair

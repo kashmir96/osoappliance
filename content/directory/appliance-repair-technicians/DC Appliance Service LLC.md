@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dc-appliance-service-llc.webp
-    alt: Cover image for DC Appliance Service LLC the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/395.webp
+ alt: 'UnitedStates from DCApplianceServiceLLC'
 ---
 
 # DC Appliance Service LLC

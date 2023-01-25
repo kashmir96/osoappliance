@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fixitall.webp
-    alt: Cover image for FixItAll the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/310.webp
+ alt: 'Australia from FixItAll'
 ---
 
 # FixItAll

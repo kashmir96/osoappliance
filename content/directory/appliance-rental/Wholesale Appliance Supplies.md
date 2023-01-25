@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/wholesale-appliance-supplies.webp
-    alt: Cover image for Wholesale Appliance Supplies the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/247.webp
+ alt: 'Australia from WholesaleApplianceSupplies'
 ---
 
 # Wholesale Appliance Supplies

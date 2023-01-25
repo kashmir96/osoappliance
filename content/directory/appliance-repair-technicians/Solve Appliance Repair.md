@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/solve-appliance-repair.webp
-    alt: Cover image for Solve Appliance Repair the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/329.webp
+ alt: 'UnitedStates from SolveApplianceRepair'
 ---
 
 # Solve Appliance Repair

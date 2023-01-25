@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/rf-refrigeration-services-ltd.webp
-    alt: Cover image for RF REFRIGERATION SERVICES LTD the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/373.webp
+ alt: 'UnitedKingdom from RFREFRIGERATIONSERVICESLTD'
 ---
 
 # RF REFRIGERATION SERVICES LTD

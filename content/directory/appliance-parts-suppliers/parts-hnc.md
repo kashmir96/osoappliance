@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/parts-hnc.webp
- alt: 'Logo for Parts Hnc the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/17.webp
+ alt: 'UnitedStates from partshnc'
 ---
 
 # Parts Hnc is an Appliance Parts Supplier from United States.

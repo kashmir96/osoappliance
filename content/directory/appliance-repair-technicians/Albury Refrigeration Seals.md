@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/albury-refrigeration-seals.webp
-    alt: Cover image for Albury Refrigeration Seals the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/311.webp
+ alt: 'Australia from AlburyRefrigerationSeals'
 ---
 
 # Albury Refrigeration Seals

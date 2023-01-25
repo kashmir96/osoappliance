@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/expert-appliance-repairs.webp
-    alt: Cover image for Expert Appliance Repairs the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/124.webp
+ alt: 'Australia from ExpertApplianceRepairs'
 ---
 
 # Expert Appliance Repairs

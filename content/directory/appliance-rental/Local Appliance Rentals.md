@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/local-appliance-rentals.webp
-    alt: Cover image for Local Appliance Rentals the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/28.webp
+ alt: 'Australia from LocalApplianceRentals'
 ---
 
 # Local Appliance Rentals

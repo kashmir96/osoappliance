@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/gecko-party-speaker-chair-and-event-hire.webp
-    alt: Cover image for Gecko Party Speaker Chair and Event Hire the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/260.webp
+ alt: 'Australia from GeckoPartySpeakerChairandEventHire'
 ---
 
 # Gecko Party Speaker Chair and Event Hire

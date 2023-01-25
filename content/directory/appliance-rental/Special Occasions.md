@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/special-occasions.webp
-    alt: Cover image for Special Occasions the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/183.webp
+ alt: 'Australia from SpecialOccasions'
 ---
 
 # Special Occasions

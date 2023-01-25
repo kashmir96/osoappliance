@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/weeding-hire.webp
-    alt: Cover image for Weeding Hire the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/316.webp
+ alt: 'Australia from WeedingHire'
 ---
 
 # Weeding Hire

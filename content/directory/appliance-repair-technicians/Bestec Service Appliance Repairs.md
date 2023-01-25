@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bestec-service-appliance-repairs.webp
-    alt: Cover image for Bestec Service Appliance Repairs the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/367.webp
+ alt: 'Australia from BestecServiceApplianceRepairs'
 ---
 
 # Bestec Service Appliance Repairs

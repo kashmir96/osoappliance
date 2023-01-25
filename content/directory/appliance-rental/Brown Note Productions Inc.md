@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/brown-note-productions-inc.webp
-    alt: Cover image for Brown Note Productions Inc the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/333.webp
+ alt: 'UnitedStates from BrownNoteProductionsInc'
 ---
 
 # Brown Note Productions Inc

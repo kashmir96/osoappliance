@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Hastings"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/butler-hewitt.webp
- alt: 'Logo for Butler Hewitt the New Zealand from Hastings'
+cover:
+ image: /img/laundryappliance/176.webp
+ alt: 'NewZealand from butlerhewitt'
 ---
 
 # Butler Hewitt is an Appliance Repair Technician Company operating in Hastings, New Zealand.

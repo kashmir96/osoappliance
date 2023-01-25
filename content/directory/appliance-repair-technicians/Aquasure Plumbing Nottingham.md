@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aquasure-plumbing-nottingham.webp
-    alt: Cover image for Aquasure Plumbing Nottingham the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/77.webp
+ alt: 'UnitedKingdom from AquasurePlumbingNottingham'
 ---
 
 # Aquasure Plumbing Nottingham

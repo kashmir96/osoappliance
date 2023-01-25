@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/coolbest.webp
-    alt: Cover image for CoolBest the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/36.webp
+ alt: 'UnitedKingdom from CoolBest'
 ---
 
 # CoolBest

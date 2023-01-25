@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/inrent.webp
-    alt: Cover image for inRent the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/40.webp
+ alt: 'Australia from inRent'
 ---
 
 # inRent

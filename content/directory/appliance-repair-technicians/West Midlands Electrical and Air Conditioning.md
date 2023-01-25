@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/west-midlands-electrical-and-air-conditioning.webp
-    alt: Cover image for West Midlands Electrical and Air Conditioning the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/4.webp
+ alt: 'UnitedKingdom from WestMidlandsElectricalandAirConditioning'
 ---
 
 # West Midlands Electrical and Air Conditioning

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/gold-coast-camera-hire.webp
-    alt: Cover image for Gold Coast Camera Hire the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/139.webp
+ alt: 'Australia from GoldCoastCameraHire'
 ---
 
 # Gold Coast Camera Hire

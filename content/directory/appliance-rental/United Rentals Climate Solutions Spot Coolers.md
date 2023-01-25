@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/united-rentals-climate-solutions-spot-coolers.webp
-    alt: Cover image for United Rentals Climate Solutions Spot Coolers the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/289.webp
+ alt: 'UnitedStates from UnitedRentalsClimateSolutionsSpotCoolers'
 ---
 
 # United Rentals Climate Solutions Spot Coolers

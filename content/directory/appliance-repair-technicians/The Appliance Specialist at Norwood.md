@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-appliance-specialist-at-norwood.webp
-    alt: Cover image for The Appliance Specialist at Norwood the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/374.webp
+ alt: 'Australia from TheApplianceSpecialistatNorwood'
 ---
 
 # The Appliance Specialist at Norwood

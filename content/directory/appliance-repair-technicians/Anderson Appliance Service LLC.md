@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/anderson-appliance-service-llc.webp
-    alt: Cover image for Anderson Appliance Service LLC the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/377.webp
+ alt: 'UnitedStates from AndersonApplianceServiceLLC'
 ---
 
 # Anderson Appliance Service LLC

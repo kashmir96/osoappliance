@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/keiths-food-equipment-repairs-pty-ltd.webp
-    alt: Cover image for Keiths Food Equipment Repairs Pty Ltd the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/146.webp
+ alt: 'Australia from KeithsFoodEquipmentRepairsPtyLtd'
 ---
 
 # Keiths Food Equipment Repairs Pty Ltd

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tfs-appliance-repairs-pty-ltd.webp
-    alt: Cover image for TFS Appliance Repairs Pty Ltd the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/193.webp
+ alt: 'Australia from TFSApplianceRepairsPtyLtd'
 ---
 
 # TFS Appliance Repairs Pty Ltd

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/district-of-columbia-roper-rpr.webp
-    alt: Cover image for District of Columbia Roper Rpr the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/55.webp
+ alt: 'UnitedStates from DistrictofColumbiaRoperRpr'
 ---
 
 # District of Columbia Roper Rpr

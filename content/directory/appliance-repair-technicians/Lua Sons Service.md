@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lua-sons-service.webp
-    alt: Cover image for Lua Sons Service the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/106.webp
+ alt: 'UnitedStates from LuaSonsService'
 ---
 
 # Lua Sons Service

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/saxons.webp
- alt: 'Logo for Saxons the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/187.webp
+ alt: 'NewZealand from saxons'
 ---
 
 # Saxons is an Appliance Parts Supplier from New Zealand.

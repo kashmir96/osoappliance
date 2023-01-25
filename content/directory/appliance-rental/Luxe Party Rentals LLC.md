@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/luxe-party-rentals-llc.webp
-    alt: Cover image for Luxe Party Rentals LLC the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/66.webp
+ alt: 'UnitedStates from LuxePartyRentalsLLC'
 ---
 
 # Luxe Party Rentals LLC

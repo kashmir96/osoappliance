@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/telehire-service-centre.webp
-    alt: Cover image for Telehire Service Centre the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/337.webp
+ alt: 'UnitedKingdom from TelehireServiceCentre'
 ---
 
 # Telehire Service Centre

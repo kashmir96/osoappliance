@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/patons-electrical-services.webp
-    alt: Cover image for Patons Electrical Services the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/112.webp
+ alt: 'Australia from PatonsElectricalServices'
 ---
 
 # Patons Electrical Services

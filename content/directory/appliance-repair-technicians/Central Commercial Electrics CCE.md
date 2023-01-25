@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/central-commercial-electrics-cce.webp
-    alt: Cover image for Central Commercial Electrics CCE the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/37.webp
+ alt: 'Australia from CentralCommercialElectricsCCE'
 ---
 
 # Central Commercial Electrics CCE

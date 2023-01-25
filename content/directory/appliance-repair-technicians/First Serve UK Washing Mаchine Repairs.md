@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/first-serve-uk-washing-mаchine-repairs.webp
-    alt: Cover image for First Serve UK Washing Mаchine Repairs the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/216.webp
+ alt: 'UnitedKingdom from FirstServeUKWashingMаchineRepairs'
 ---
 
 # First Serve UK Washing Mаchine Repairs

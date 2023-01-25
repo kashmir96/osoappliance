@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-parts-company.webp
-    alt: Cover image for Appliance Parts Company the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/47.webp
+ alt: 'UnitedStates from AppliancePartsCompany'
 ---
 
 # Appliance Parts Company

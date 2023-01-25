@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/timely-appliance-co-inc.webp
-    alt: Cover image for Timely Appliance Co Inc the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/179.webp
+ alt: 'UnitedStates from TimelyApplianceCoInc'
 ---
 
 # Timely Appliance Co Inc

@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/whispering-oaks-camp.webp
- alt: 'Logo for Whispering Oaks Camp the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/353.webp
+ alt: 'NewZealand from whisperingoakscamp'
 ---
 
 # Whispering Oaks Camp is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

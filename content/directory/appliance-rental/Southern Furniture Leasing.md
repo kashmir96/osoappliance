@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/southern-furniture-leasing.webp
-    alt: Cover image for Southern Furniture Leasing the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/146.webp
+ alt: 'UnitedStates from SouthernFurnitureLeasing'
 ---
 
 # Southern Furniture Leasing

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tc-rentals.webp
-    alt: Cover image for TC Rentals the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/25.webp
+ alt: 'UnitedStates from TCRentals'
 ---
 
 # TC Rentals

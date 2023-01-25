@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/repa-group.webp
- alt: 'Logo for Repa Group the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/131.webp
+ alt: 'UnitedKingdom from repagroup'
 ---
 
 # Repa Group is an Appliance Parts Supplier from United Kingdom.

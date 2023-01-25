@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/kitchenaid.webp
- alt: 'Logo for KitchenAid the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/121.webp
+ alt: 'Canada from kitchenaid'
 ---
 
 # KitchenAid is an Appliance Parts Supplier from Canada.

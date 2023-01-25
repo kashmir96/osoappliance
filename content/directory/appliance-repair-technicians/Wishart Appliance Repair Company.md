@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wishart-appliance-repair-company.webp
-    alt: Cover image for Wishart Appliance Repair Company the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/298.webp
+ alt: 'UnitedKingdom from WishartApplianceRepairCompany'
 ---
 
 # Wishart Appliance Repair Company

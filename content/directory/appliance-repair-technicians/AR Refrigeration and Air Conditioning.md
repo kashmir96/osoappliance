@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ar-refrigeration-and-air-conditioning.webp
-    alt: Cover image for AR Refrigeration and Air Conditioning the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/248.webp
+ alt: 'Australia from ARRefrigerationandAirConditioning'
 ---
 
 # AR Refrigeration and Air Conditioning

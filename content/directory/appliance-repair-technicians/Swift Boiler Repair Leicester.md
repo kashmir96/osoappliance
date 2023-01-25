@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/swift-boiler-repair-leicester.webp
-    alt: Cover image for Swift Boiler Repair Leicester the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/381.webp
+ alt: 'UnitedKingdom from SwiftBoilerRepairLeicester'
 ---
 
 # Swift Boiler Repair Leicester

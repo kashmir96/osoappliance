@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/furniture-hire-and-styling-australia.webp
-    alt: Cover image for Furniture Hire and Styling Australia the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/363.webp
+ alt: 'Australia from FurnitureHireandStylingAustralia'
 ---
 
 # Furniture Hire and Styling Australia

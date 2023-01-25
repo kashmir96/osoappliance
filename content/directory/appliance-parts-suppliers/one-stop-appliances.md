@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/one-stop-appliances.webp
- alt: 'Logo for One Stop Appliances the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/150.webp
+ alt: 'UnitedKingdom from onestopappliances'
 ---
 
 # One Stop Appliances is an Appliance Parts Supplier from United Kingdom.

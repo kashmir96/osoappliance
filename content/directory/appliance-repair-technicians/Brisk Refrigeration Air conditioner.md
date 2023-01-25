@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/brisk-refrigeration-air-conditioner.webp
-    alt: Cover image for Brisk Refrigeration Air conditioner the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/341.webp
+ alt: 'Australia from BriskRefrigerationAirconditioner'
 ---
 
 # Brisk Refrigeration Air conditioner

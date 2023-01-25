@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/glasgow-engineering.webp
-    alt: Cover image for Glasgow Engineering the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/310.webp
+ alt: 'Australia from GlasgowEngineering'
 ---
 
 # Glasgow Engineering

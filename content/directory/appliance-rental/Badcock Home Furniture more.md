@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/badcock-home-furniture-more.webp
-    alt: Cover image for Badcock Home Furniture more the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/370.webp
+ alt: 'UnitedStates from BadcockHomeFurnituremore'
 ---
 
 # Badcock Home Furniture more

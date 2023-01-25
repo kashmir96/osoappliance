@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/droylsden-domestics.webp
-    alt: Cover image for Droylsden Domestics the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/142.webp
+ alt: 'UnitedKingdom from DroylsdenDomestics'
 ---
 
 # Droylsden Domestics

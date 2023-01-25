@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/newcastle-custom-electronics.webp
-    alt: Cover image for Newcastle Custom Electronics the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/213.webp
+ alt: 'Australia from NewcastleCustomElectronics'
 ---
 
 # Newcastle Custom Electronics

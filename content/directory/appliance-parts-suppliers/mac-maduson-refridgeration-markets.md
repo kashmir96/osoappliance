@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/mac-maduson-refridgeration-markets.webp
- alt: 'Logo for Mac Maduson Refridgeration Markets the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/179.webp
+ alt: 'Nigeria from macmadusonrefridgerationmarkets'
 ---
 
 # Mac Maduson Refridgeration Markets is an Appliance Parts Supplier from Nigeria.

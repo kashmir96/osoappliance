@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Hastings"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/high-chill.webp
- alt: 'Logo for High Chill the New Zealand from Hastings'
+cover:
+ image: /img/laundryappliance/335.webp
+ alt: 'NewZealand from highchill'
 ---
 
 # High Chill is an Appliance Repair Technician Company operating in Hastings, New Zealand.

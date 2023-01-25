@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/electric-stage-co.webp
-    alt: Cover image for Electric Stage Co the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/341.webp
+ alt: 'UnitedKingdom from ElectricStageCo'
 ---
 
 # Electric Stage Co

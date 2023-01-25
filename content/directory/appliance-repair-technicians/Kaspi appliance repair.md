@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kaspi-appliance-repair.webp
-    alt: Cover image for Kaspi appliance repair the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/105.webp
+ alt: 'UnitedStates from Kaspiappliancerepair'
 ---
 
 # Kaspi appliance repair

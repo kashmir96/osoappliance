@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-action.webp
-    alt: Cover image for appliance action the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/215.webp
+ alt: 'UnitedKingdom from applianceaction'
 ---
 
 # appliance action

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hervey-bay-scaffolding.webp
-    alt: Cover image for Hervey Bay Scaffolding the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/147.webp
+ alt: 'Australia from HerveyBayScaffolding'
 ---
 
 # Hervey Bay Scaffolding

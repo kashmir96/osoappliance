@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-spares-tasmania.webp
-    alt: Cover image for Appliance Spares Tasmania the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/68.webp
+ alt: 'Australia from ApplianceSparesTasmania'
 ---
 
 # Appliance Spares Tasmania

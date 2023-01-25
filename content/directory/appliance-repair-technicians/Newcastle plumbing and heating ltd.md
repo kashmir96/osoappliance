@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/newcastle-plumbing-and-heating-ltd.webp
-    alt: Cover image for Newcastle plumbing and heating ltd the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/330.webp
+ alt: 'UnitedKingdom from Newcastleplumbingandheatingltd'
 ---
 
 # Newcastle plumbing and heating ltd

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/chris-appliance-services.webp
- alt: 'Logo for Chris Appliance Services the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/149.webp
+ alt: 'UnitedStates from chrisapplianceservices'
 ---
 
 # Chris Appliance Services is an Appliance Parts Supplier from United States.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/whybuy.webp
-    alt: Cover image for Whybuy the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/8.webp
+ alt: 'Australia from Whybuy'
 ---
 
 # Whybuy

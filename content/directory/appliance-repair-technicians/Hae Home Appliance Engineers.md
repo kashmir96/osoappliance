@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hae-home-appliance-engineers.webp
-    alt: Cover image for Hae Home Appliance Engineers the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/379.webp
+ alt: 'UnitedKingdom from HaeHomeApplianceEngineers'
 ---
 
 # Hae Home Appliance Engineers

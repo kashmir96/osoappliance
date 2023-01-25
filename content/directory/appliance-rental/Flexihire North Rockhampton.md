@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/flexihire-north-rockhampton.webp
-    alt: Cover image for Flexihire North Rockhampton the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/268.webp
+ alt: 'Australia from FlexihireNorthRockhampton'
 ---
 
 # Flexihire North Rockhampton

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/expert-appliance-service-llc.webp
-    alt: Cover image for Expert Appliance Service LLC the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/376.webp
+ alt: 'UnitedStates from ExpertApplianceServiceLLC'
 ---
 
 # Expert Appliance Service LLC

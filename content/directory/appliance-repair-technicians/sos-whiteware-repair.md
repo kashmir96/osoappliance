@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Hastings"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/sos-whiteware-repair.webp
- alt: 'Logo for SOS Whiteware Repair the New Zealand from Hastings'
+cover:
+ image: /img/laundryappliance/398.webp
+ alt: 'NewZealand from soswhitewarerepair'
 ---
 
 # SOS Whiteware Repair is an Appliance Repair Technician Company operating in Hastings, New Zealand.

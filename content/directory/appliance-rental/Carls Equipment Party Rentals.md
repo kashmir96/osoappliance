@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/carls-equipment-party-rentals.webp
-    alt: Cover image for Carls Equipment Party Rentals the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/156.webp
+ alt: 'UnitedStates from CarlsEquipmentPartyRentals'
 ---
 
 # Carls Equipment Party Rentals

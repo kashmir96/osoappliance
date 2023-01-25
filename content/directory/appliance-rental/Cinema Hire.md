@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cinema-hire.webp
-    alt: Cover image for Cinema Hire the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/20.webp
+ alt: 'UnitedKingdom from CinemaHire'
 ---
 
 # Cinema Hire

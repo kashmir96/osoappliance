@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliancesfix-ltd.webp
-    alt: Cover image for APPLIANCESFIX LTD the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/24.webp
+ alt: 'UnitedKingdom from APPLIANCESFIXLTD'
 ---
 
 # APPLIANCESFIX LTD

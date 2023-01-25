@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/thrifty-car-rental-launceston-airport.webp
-    alt: Cover image for Thrifty Car Rental Launceston Airport the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/163.webp
+ alt: 'Australia from ThriftyCarRentalLauncestonAirport'
 ---
 
 # Thrifty Car Rental Launceston Airport

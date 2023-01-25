@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Auckland, Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/fridge-hire.webp
- alt: 'Logo for Fridge Hire the Appliance Rental business from Auckland, Wellington, New Zealand'
+cover:
+ image: /img/laundryappliance/93.webp
+ alt: 'NewZealand from fridgehire'
 ---
 
 Fridge Hire is an Appliance Rental business located in Auckland, Wellington, New Zealand. 

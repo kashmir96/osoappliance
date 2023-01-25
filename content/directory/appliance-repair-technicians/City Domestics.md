@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/city-domestics.webp
-    alt: Cover image for City Domestics the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/195.webp
+ alt: 'UnitedKingdom from CityDomestics'
 ---
 
 # City Domestics

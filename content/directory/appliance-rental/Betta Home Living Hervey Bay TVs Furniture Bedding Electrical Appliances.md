@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/betta-home-living-hervey-bay-tvs-furniture-bedding-electrical-appliances.webp
-    alt: Cover image for Betta Home Living Hervey Bay TVs Furniture Bedding Electrical Appliances the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/11.webp
+ alt: 'Australia from BettaHomeLivingHerveyBayTVsFurnitureBeddingElectricalAppliances'
 ---
 
 # Betta Home Living Hervey Bay TVs Furniture Bedding Electrical Appliances

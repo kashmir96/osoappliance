@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ge-appliance-repair.webp
-    alt: Cover image for GE Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/318.webp
+ alt: 'UnitedStates from GEApplianceRepair'
 ---
 
 # GE Appliance Repair

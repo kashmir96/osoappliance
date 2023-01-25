@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/dann-event-hire.webp
-    alt: Cover image for Dann Event Hire the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/170.webp
+ alt: 'Australia from DannEventHire'
 ---
 
 # Dann Event Hire

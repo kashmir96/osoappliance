@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/san-diego-apliance-repair-contractor-refrigerator-repair.webp
-    alt: Cover image for San Diego Apliance Repair Contractor Refrigerator Repair the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/182.webp
+ alt: 'UnitedStates from SanDiegoAplianceRepairContractorRefrigeratorRepair'
 ---
 
 # San Diego Apliance Repair Contractor Refrigerator Repair

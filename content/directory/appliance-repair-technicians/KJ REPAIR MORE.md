@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kj-repair-more.webp
-    alt: Cover image for KJ REPAIR MORE the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/130.webp
+ alt: 'UnitedStates from KJREPAIRMORE'
 ---
 
 # KJ REPAIR MORE

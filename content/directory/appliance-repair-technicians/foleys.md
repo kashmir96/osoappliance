@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Wanaka"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/foleys.webp
- alt: 'Logo for Foleys the New Zealand from Wanaka'
+cover:
+ image: /img/laundryappliance/397.webp
+ alt: 'NewZealand from foleys'
 ---
 
 # Foleys is an Appliance Repair Technician Company operating in Wanaka, New Zealand.

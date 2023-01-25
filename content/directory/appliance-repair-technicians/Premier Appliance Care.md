@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/premier-appliance-care.webp
-    alt: Cover image for Premier Appliance Care the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/180.webp
+ alt: 'UnitedKingdom from PremierApplianceCare'
 ---
 
 # Premier Appliance Care

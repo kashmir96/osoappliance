@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/npe-tech.webp
- alt: 'Logo for Npe Tech the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/203.webp
+ alt: 'NewZealand from npetech'
 ---
 
 # Npe Tech is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

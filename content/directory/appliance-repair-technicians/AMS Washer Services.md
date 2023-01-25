@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ams-washer-services.webp
-    alt: Cover image for AMS Washer Services the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/46.webp
+ alt: 'UnitedKingdom from AMSWasherServices'
 ---
 
 # AMS Washer Services

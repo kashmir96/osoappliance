@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/thompson-plumbing-heating-specialists.webp
-    alt: Cover image for Thompson Plumbing Heating Specialists the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/62.webp
+ alt: 'UnitedKingdom from ThompsonPlumbingHeatingSpecialists'
 ---
 
 # Thompson Plumbing Heating Specialists

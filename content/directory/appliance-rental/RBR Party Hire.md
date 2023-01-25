@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rbr-party-hire.webp
-    alt: Cover image for RBR Party Hire the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/345.webp
+ alt: 'Australia from RBRPartyHire'
 ---
 
 # RBR Party Hire

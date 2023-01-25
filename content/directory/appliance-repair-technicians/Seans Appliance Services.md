@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/seans-appliance-services.webp
-    alt: Cover image for Seans Appliance Services the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/137.webp
+ alt: 'Australia from SeansApplianceServices'
 ---
 
 # Seans Appliance Services

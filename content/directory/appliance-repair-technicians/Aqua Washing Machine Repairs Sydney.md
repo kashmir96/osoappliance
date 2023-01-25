@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aqua-washing-machine-repairs-sydney.webp
-    alt: Cover image for Aqua Washing Machine Repairs Sydney the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/174.webp
+ alt: 'Australia from AquaWashingMachineRepairsSydney'
 ---
 
 # Aqua Washing Machine Repairs Sydney

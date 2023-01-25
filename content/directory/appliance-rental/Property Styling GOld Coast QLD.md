@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/property-styling-gold-coast-qld.webp
-    alt: Cover image for Property Styling GOld Coast QLD the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/118.webp
+ alt: 'Australia from PropertyStylingGOldCoastQLD'
 ---
 
 # Property Styling GOld Coast QLD

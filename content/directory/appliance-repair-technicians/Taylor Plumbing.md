@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/taylor-plumbing.webp
-    alt: Cover image for Taylor Plumbing the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/282.webp
+ alt: 'UnitedKingdom from TaylorPlumbing'
 ---
 
 # Taylor Plumbing

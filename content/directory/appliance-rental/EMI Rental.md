@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/emi-rental.webp
-    alt: Cover image for EMI Rental the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/398.webp
+ alt: 'UnitedStates from EMIRental'
 ---
 
 # EMI Rental

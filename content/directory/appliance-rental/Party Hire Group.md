@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/party-hire-group.webp
-    alt: Cover image for Party Hire Group the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/22.webp
+ alt: 'Australia from PartyHireGroup'
 ---
 
 # Party Hire Group

@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Auckland, Westport, Gisborne, Christchurch, Blenheim, Queenstown, Timaru, Dunedin, Invercargill, Taramanui, Thames"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/rent-4-keeps.webp
- alt: 'Logo for Rent 4 Keeps the Appliance Rental business from Auckland, Dargaville, Whangerei, Kaitaia, Westport, Gisborne, Taranaki, Hawkes Bay, Manawatu-Whanganui, Wellington, Palmerston North, New Plymouth, Napier, Hastings, Wanganui, Stratford, Levin, Fielding, Bulls, Christchurch, Blenheim, Greymouth, Queenstown, Timaru, Dunedin, Invercargill, Ashburton, Huntly, Hamilton, Tauranga, Rotorua, Taupo, Whakatane, Te Kuiti, Taramanui, Thames, New Zealand'
+cover:
+ image: /img/laundryappliance/177.webp
+ alt: 'NewZealand from rent4keeps'
 ---
 
 Rent 4 Keeps is an Appliance Rental business located in Auckland, Dargaville, Whangerei, Kaitaia, Westport, Gisborne, Taranaki, Hawkes Bay, Manawatu-Whanganui, Wellington, Palmerston North, New Plymouth, Napier, Hastings, Wanganui, Stratford, Levin, Fielding, Bulls, Christchurch, Blenheim, Greymouth, Queenstown, Timaru, Dunedin, Invercargill, Ashburton, Huntly, Hamilton, Tauranga, Rotorua, Taupo, Whakatane, Te Kuiti, Taramanui, Thames, New Zealand. 

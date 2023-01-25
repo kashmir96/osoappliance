@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aaa-rents-events.webp
-    alt: Cover image for AAA Rents Events the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/351.webp
+ alt: 'UnitedStates from AAARentsEvents'
 ---
 
 # AAA Rents Events

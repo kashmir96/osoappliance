@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/albdomestics.webp
-    alt: Cover image for ALBDomestics the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/259.webp
+ alt: 'UnitedKingdom from ALBDomestics'
 ---
 
 # ALBDomestics

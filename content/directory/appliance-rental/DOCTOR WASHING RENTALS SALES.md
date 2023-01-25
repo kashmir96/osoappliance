@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/doctor-washing-rentals-sales.webp
-    alt: Cover image for DOCTOR WASHING RENTALS SALES the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/387.webp
+ alt: 'UnitedStates from DOCTORWASHINGRENTALSSALES'
 ---
 
 # DOCTOR WASHING RENTALS SALES

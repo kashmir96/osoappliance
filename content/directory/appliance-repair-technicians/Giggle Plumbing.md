@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/giggle-plumbing.webp
-    alt: Cover image for Giggle Plumbing the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/288.webp
+ alt: 'Australia from GigglePlumbing'
 ---
 
 # Giggle Plumbing

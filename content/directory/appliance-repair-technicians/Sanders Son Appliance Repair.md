@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sanders-son-appliance-repair.webp
-    alt: Cover image for Sanders Son Appliance Repair the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/285.webp
+ alt: 'UnitedStates from SandersSonApplianceRepair'
 ---
 
 # Sanders Son Appliance Repair

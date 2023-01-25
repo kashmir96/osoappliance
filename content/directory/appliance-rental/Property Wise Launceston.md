@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/property-wise-launceston.webp
-    alt: Cover image for Property Wise Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/388.webp
+ alt: 'Australia from PropertyWiseLaunceston'
 ---
 
 # Property Wise Launceston

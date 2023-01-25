@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/pabs-furniture-rentals.webp
-    alt: Cover image for Pabs Furniture Rentals the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/114.webp
+ alt: 'Australia from PabsFurnitureRentals'
 ---
 
 # Pabs Furniture Rentals

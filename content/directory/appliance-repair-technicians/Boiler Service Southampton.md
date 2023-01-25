@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/boiler-service-southampton.webp
-    alt: Cover image for Boiler Service Southampton the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/107.webp
+ alt: 'UnitedKingdom from BoilerServiceSouthampton'
 ---
 
 # Boiler Service Southampton

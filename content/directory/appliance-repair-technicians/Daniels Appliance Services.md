@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/daniels-appliance-services.webp
-    alt: Cover image for Daniels Appliance Services the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/102.webp
+ alt: 'Australia from DanielsApplianceServices'
 ---
 
 # Daniels Appliance Services

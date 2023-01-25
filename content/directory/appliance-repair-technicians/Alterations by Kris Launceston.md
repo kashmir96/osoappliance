@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/alterations-by-kris-launceston.webp
-    alt: Cover image for Alterations by Kris Launceston the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/123.webp
+ alt: 'Australia from AlterationsbyKrisLaunceston'
 ---
 
 # Alterations by Kris Launceston

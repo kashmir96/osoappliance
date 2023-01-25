@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bendigo-auto-air.webp
-    alt: Cover image for Bendigo Auto Air the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/329.webp
+ alt: 'Australia from BendigoAutoAir'
 ---
 
 # Bendigo Auto Air

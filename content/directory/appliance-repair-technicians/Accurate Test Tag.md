@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/accurate-test-tag.webp
-    alt: Cover image for Accurate Test Tag the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/171.webp
+ alt: 'Australia from AccurateTestTag'
 ---
 
 # Accurate Test Tag

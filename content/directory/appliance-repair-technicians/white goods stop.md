@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/white-goods-stop.webp
-    alt: Cover image for white goods stop the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/100.webp
+ alt: 'UnitedKingdom from whitegoodsstop'
 ---
 
 # white goods stop

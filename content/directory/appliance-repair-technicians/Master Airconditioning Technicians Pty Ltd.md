@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/master-airconditioning-technicians-pty-ltd.webp
-    alt: Cover image for Master Airconditioning Technicians Pty Ltd the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/397.webp
+ alt: 'Australia from MasterAirconditioningTechniciansPtyLtd'
 ---
 
 # Master Airconditioning Technicians Pty Ltd

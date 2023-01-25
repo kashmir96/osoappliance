@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/northern-traders-leeds-ltd.webp
-    alt: Cover image for Northern Traders Leeds Ltd the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/221.webp
+ alt: 'UnitedKingdom from NorthernTradersLeedsLtd'
 ---
 
 # Northern Traders Leeds Ltd

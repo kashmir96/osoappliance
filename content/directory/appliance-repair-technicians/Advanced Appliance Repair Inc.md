@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/advanced-appliance-repair-inc.webp
-    alt: Cover image for Advanced Appliance Repair Inc the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/196.webp
+ alt: 'UnitedStates from AdvancedApplianceRepairInc'
 ---
 
 # Advanced Appliance Repair Inc

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/boswood-plumbing.webp
-    alt: Cover image for Boswood Plumbing the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/97.webp
+ alt: 'Australia from BoswoodPlumbing'
 ---
 
 # Boswood Plumbing

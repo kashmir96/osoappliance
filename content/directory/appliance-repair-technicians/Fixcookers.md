@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fixcookers.webp
-    alt: Cover image for Fixcookers the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/147.webp
+ alt: 'UnitedKingdom from Fixcookers'
 ---
 
 # Fixcookers

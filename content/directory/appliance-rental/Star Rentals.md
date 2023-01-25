@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/star-rentals.webp
-    alt: Cover image for Star Rentals the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/87.webp
+ alt: 'UnitedStates from StarRentals'
 ---
 
 # Star Rentals

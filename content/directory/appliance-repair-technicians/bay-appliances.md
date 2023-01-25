@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/bay-appliances.webp
- alt: 'Logo for Bay Appliances the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/206.webp
+ alt: 'NewZealand from bayappliances'
 ---
 
 # Bay Appliances is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

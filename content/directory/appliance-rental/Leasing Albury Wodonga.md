@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/leasing-albury-wodonga.webp
-    alt: Cover image for Leasing Albury Wodonga the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/237.webp
+ alt: 'Australia from LeasingAlburyWodonga'
 ---
 
 # Leasing Albury Wodonga

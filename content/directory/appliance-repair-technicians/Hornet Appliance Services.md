@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hornet-appliance-services.webp
-    alt: Cover image for Hornet Appliance Services the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/327.webp
+ alt: 'UnitedStates from HornetApplianceServices'
 ---
 
 # Hornet Appliance Services

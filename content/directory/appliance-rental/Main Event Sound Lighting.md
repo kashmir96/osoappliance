@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/main-event-sound-lighting.webp
-    alt: Cover image for Main Event Sound Lighting the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/304.webp
+ alt: 'UnitedStates from MainEventSoundLighting'
 ---
 
 # Main Event Sound Lighting

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-1-domestics-washing-machine-repairs.webp
-    alt: Cover image for A 1 Domestics Washing Machine Repairs the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/276.webp
+ alt: 'UnitedKingdom from A1DomesticsWashingMachineRepairs'
 ---
 
 # A 1 Domestics Washing Machine Repairs

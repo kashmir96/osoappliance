@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/air-conditioner-hire-toowoomba.webp
-    alt: Cover image for Air Conditioner Hire Toowoomba the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/142.webp
+ alt: 'Australia from AirConditionerHireToowoomba'
 ---
 
 # Air Conditioner Hire Toowoomba

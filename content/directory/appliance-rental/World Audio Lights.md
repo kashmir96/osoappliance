@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/world-audio-lights.webp
-    alt: Cover image for World Audio Lights the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/56.webp
+ alt: 'UnitedStates from WorldAudioLights'
 ---
 
 # World Audio Lights

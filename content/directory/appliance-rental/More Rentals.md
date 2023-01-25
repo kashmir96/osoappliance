@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/more-rentals.webp
-    alt: Cover image for More Rentals the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/376.webp
+ alt: 'UnitedStates from MoreRentals'
 ---
 
 # More Rentals

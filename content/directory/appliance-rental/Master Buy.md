@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/master-buy.webp
-    alt: Cover image for Master Buy the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/187.webp
+ alt: 'Australia from MasterBuy'
 ---
 
 # Master Buy

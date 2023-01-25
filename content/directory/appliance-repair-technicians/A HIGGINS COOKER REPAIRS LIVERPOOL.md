@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-higgins-cooker-repairs-liverpool.webp
-    alt: Cover image for A HIGGINS COOKER REPAIRS LIVERPOOL the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/344.webp
+ alt: 'UnitedKingdom from AHIGGINSCOOKERREPAIRSLIVERPOOL'
 ---
 
 # A HIGGINS COOKER REPAIRS LIVERPOOL

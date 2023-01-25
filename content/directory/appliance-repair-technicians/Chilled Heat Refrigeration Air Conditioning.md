@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/chilled-heat-refrigeration-air-conditioning.webp
-    alt: Cover image for Chilled Heat Refrigeration Air Conditioning the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/198.webp
+ alt: 'Australia from ChilledHeatRefrigerationAirConditioning'
 ---
 
 # Chilled Heat Refrigeration Air Conditioning

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/affordable-appliances-repairs-ltd.webp
-    alt: Cover image for Affordable Appliances Repairs Ltd the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/62.webp
+ alt: 'UnitedKingdom from AffordableAppliancesRepairsLtd'
 ---
 
 # Affordable Appliances Repairs Ltd

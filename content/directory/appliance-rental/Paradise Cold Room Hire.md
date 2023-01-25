@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/paradise-cold-room-hire.webp
-    alt: Cover image for Paradise Cold Room Hire the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/17.webp
+ alt: 'Australia from ParadiseColdRoomHire'
 ---
 
 # Paradise Cold Room Hire

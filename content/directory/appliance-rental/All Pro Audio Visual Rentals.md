@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/all-pro-audio-visual-rentals.webp
-    alt: Cover image for All Pro Audio Visual Rentals the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/7.webp
+ alt: 'UnitedStates from AllProAudioVisualRentals'
 ---
 
 # All Pro Audio Visual Rentals

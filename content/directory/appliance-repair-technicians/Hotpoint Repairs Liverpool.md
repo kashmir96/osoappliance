@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hotpoint-repairs-liverpool.webp
-    alt: Cover image for Hotpoint Repairs Liverpool the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/386.webp
+ alt: 'UnitedKingdom from HotpointRepairsLiverpool'
 ---
 
 # Hotpoint Repairs Liverpool

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/stove-doctor-australia.webp
-    alt: Cover image for Stove Doctor Australia the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/219.webp
+ alt: 'Australia from StoveDoctorAustralia'
 ---
 
 # Stove Doctor Australia

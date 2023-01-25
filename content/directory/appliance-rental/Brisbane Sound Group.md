@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/brisbane-sound-group.webp
-    alt: Cover image for Brisbane Sound Group the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/217.webp
+ alt: 'Australia from BrisbaneSoundGroup'
 ---
 
 # Brisbane Sound Group

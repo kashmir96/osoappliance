@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/appliance-man.webp
- alt: 'Logo for Appliance Man the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/381.webp
+ alt: 'NewZealand from applianceman'
 ---
 
 # Appliance Man is an Appliance Repair Technician Company operating in Auckland, New Zealand.

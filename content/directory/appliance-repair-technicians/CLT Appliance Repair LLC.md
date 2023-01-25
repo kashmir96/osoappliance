@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/clt-appliance-repair-llc.webp
-    alt: Cover image for CLT Appliance Repair LLC the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/12.webp
+ alt: 'UnitedStates from CLTApplianceRepairLLC'
 ---
 
 # CLT Appliance Repair LLC

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/harvey-norman-rockhampton-north.webp
-    alt: Cover image for Harvey Norman Rockhampton North the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/252.webp
+ alt: 'Australia from HarveyNormanRockhamptonNorth'
 ---
 
 # Harvey Norman Rockhampton North

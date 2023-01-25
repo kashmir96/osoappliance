@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/coates-albury.webp
-    alt: Cover image for Coates Albury the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/241.webp
+ alt: 'Australia from CoatesAlbury'
 ---
 
 # Coates Albury

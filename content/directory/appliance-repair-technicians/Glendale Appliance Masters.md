@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/glendale-appliance-masters.webp
-    alt: Cover image for Glendale Appliance Masters the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/242.webp
+ alt: 'UnitedStates from GlendaleApplianceMasters'
 ---
 
 # Glendale Appliance Masters

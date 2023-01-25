@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-service-centre-repairs.webp
-    alt: Cover image for Appliance Service Centre Repairs the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/316.webp
+ alt: 'UnitedKingdom from ApplianceServiceCentreRepairs'
 ---
 
 # Appliance Service Centre Repairs

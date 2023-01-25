@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ed-the-fridge-man.webp
-    alt: Cover image for Ed the Fridge Man the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/173.webp
+ alt: 'Australia from EdtheFridgeMan'
 ---
 
 # Ed the Fridge Man

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/john-caldwell-son-domestic-appliance-repairs.webp
-    alt: Cover image for John Caldwell Son Domestic Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/25.webp
+ alt: 'UnitedKingdom from JohnCaldwellSonDomesticApplianceRepairs'
 ---
 
 # John Caldwell Son Domestic Appliance Repairs

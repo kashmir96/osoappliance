@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domestic-appliance-service-centre.webp
-    alt: Cover image for Domestic Appliance Service Centre the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/111.webp
+ alt: 'UnitedKingdom from DomesticApplianceServiceCentre'
 ---
 
 # Domestic Appliance Service Centre

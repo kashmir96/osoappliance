@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/john-thomas-electrical.webp
-    alt: Cover image for John Thomas Electrical the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/108.webp
+ alt: 'Australia from JohnThomasElectrical'
 ---
 
 # John Thomas Electrical

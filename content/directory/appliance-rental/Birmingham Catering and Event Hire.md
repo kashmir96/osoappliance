@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/birmingham-catering-and-event-hire.webp
-    alt: Cover image for Birmingham Catering and Event Hire the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/237.webp
+ alt: 'UnitedKingdom from BirminghamCateringandEventHire'
 ---
 
 # Birmingham Catering and Event Hire

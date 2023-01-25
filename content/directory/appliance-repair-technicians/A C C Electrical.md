@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-c-c-electrical.webp
-    alt: Cover image for A C C Electrical the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/37.webp
+ alt: 'UnitedKingdom from ACCElectrical'
 ---
 
 # A C C Electrical

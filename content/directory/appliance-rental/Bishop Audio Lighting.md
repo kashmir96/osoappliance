@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bishop-audio-lighting.webp
-    alt: Cover image for Bishop Audio Lighting the Australia based Appliance Rental servicing Geelong 
+ image: /img/laundryappliance/240.webp
+ alt: 'Australia from BishopAudioLighting'
 ---
 
 # Bishop Audio Lighting

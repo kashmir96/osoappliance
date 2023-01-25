@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mate-appliance-repairs.webp
-    alt: Cover image for Mate Appliance Repairs the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/243.webp
+ alt: 'Australia from MateApplianceRepairs'
 ---
 
 # Mate Appliance Repairs

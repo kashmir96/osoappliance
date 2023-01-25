@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nova-air-and-electrical.webp
-    alt: Cover image for Nova Air and Electrical the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/35.webp
+ alt: 'Australia from NovaAirandElectrical'
 ---
 
 # Nova Air and Electrical

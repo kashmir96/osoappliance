@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/julians-appliance-centre.webp
-    alt: Cover image for Julians Appliance Centre the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/53.webp
+ alt: 'Australia from JuliansApplianceCentre'
 ---
 
 # Julians Appliance Centre

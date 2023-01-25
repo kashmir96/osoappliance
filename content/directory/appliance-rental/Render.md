@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/render.webp
-    alt: Cover image for Render the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/59.webp
+ alt: 'UnitedStates from Render'
 ---
 
 # Render

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/quest-events.webp
-    alt: Cover image for Quest Events the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/26.webp
+ alt: 'UnitedStates from QuestEvents'
 ---
 
 # Quest Events

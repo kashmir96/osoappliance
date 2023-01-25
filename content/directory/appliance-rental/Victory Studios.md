@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/victory-studios.webp
-    alt: Cover image for Victory Studios the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/93.webp
+ alt: 'UnitedStates from VictoryStudios'
 ---
 
 # Victory Studios

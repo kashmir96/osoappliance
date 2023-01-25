@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/g-and-r-appliance-repair-llc.webp
-    alt: Cover image for G and R Appliance Repair LLC the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/294.webp
+ alt: 'UnitedStates from GandRApplianceRepairLLC'
 ---
 
 # G and R Appliance Repair LLC

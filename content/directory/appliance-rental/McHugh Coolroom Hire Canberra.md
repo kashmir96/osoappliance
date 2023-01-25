@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mchugh-coolroom-hire-canberra.webp
-    alt: Cover image for McHugh Coolroom Hire Canberra the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/12.webp
+ alt: 'Australia from McHughCoolroomHireCanberra'
 ---
 
 # McHugh Coolroom Hire Canberra

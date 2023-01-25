@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/vortex-appliance-repair-installation.webp
-    alt: Cover image for Vortex Appliance Repair Installation the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/61.webp
+ alt: 'UnitedStates from VortexApplianceRepairInstallation'
 ---
 
 # Vortex Appliance Repair Installation

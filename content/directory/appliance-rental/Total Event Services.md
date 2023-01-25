@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/total-event-services.webp
-    alt: Cover image for Total Event Services the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/82.webp
+ alt: 'Australia from TotalEventServices'
 ---
 
 # Total Event Services

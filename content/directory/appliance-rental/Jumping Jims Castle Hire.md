@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/jumping-jims-castle-hire.webp
-    alt: Cover image for Jumping Jims Castle Hire the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/262.webp
+ alt: 'Australia from JumpingJimsCastleHire'
 ---
 
 # Jumping Jims Castle Hire

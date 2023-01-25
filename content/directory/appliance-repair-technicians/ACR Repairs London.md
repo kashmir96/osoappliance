@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/acr-repairs-london.webp
-    alt: Cover image for ACR Repairs London the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/238.webp
+ alt: 'UnitedKingdom from ACRRepairsLondon'
 ---
 
 # ACR Repairs London

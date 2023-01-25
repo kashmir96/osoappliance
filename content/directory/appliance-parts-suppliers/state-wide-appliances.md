@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/state-wide-appliances.webp
- alt: 'Logo for State Wide Appliances the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/35.webp
+ alt: 'Australia from statewideappliances'
 ---
 
 # State Wide Appliances is an Appliance Parts Supplier from Australia.

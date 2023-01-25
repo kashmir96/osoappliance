@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/service-force.webp
-    alt: Cover image for Service Force the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/279.webp
+ alt: 'Australia from ServiceForce'
 ---
 
 # Service Force

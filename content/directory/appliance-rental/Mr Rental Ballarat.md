@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-ballarat.webp
-    alt: Cover image for Mr Rental Ballarat the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/306.webp
+ alt: 'Australia from MrRentalBallarat'
 ---
 
 # Mr Rental Ballarat

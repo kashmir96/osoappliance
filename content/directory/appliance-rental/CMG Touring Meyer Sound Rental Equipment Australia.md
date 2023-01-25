@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cmg-touring-meyer-sound-rental-equipment-australia.webp
-    alt: Cover image for CMG Touring Meyer Sound Rental Equipment Australia the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/78.webp
+ alt: 'Australia from CMGTouringMeyerSoundRentalEquipmentAustralia'
 ---
 
 # CMG Touring Meyer Sound Rental Equipment Australia

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-denver.webp
-    alt: Cover image for Mr Appliance of Denver the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/127.webp
+ alt: 'UnitedStates from MrApplianceofDenver'
 ---
 
 # Mr Appliance of Denver

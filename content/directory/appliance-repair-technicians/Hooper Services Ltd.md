@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hooper-services-ltd.webp
-    alt: Cover image for Hooper Services Ltd the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/287.webp
+ alt: 'UnitedKingdom from HooperServicesLtd'
 ---
 
 # Hooper Services Ltd

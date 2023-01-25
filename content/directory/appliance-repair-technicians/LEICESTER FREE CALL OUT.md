@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/leicester-free-call-out.webp
-    alt: Cover image for LEICESTER FREE CALL OUT the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/266.webp
+ alt: 'UnitedKingdom from LEICESTERFREECALLOUT'
 ---
 
 # LEICESTER FREE CALL OUT

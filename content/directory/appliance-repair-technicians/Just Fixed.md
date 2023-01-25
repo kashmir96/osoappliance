@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/just-fixed.webp
-    alt: Cover image for Just Fixed the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/334.webp
+ alt: 'UnitedKingdom from JustFixed'
 ---
 
 # Just Fixed

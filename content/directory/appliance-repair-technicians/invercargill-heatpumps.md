@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Installation"
 categories: ["New Zealand"]
 tags: ["Invercargill"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-installation/invercargill-heatpumps.webp
- alt: 'Logo for Invercargill Heatpumps the New Zealand from Invercargill'
+cover:
+ image: /img/laundryappliance/117.webp
+ alt: 'NewZealand from invercargillheatpumps'
 ---
 
 # Invercargill Heatpumps is an Appliance Repair Technician, Installation Company operating in Invercargill, New Zealand.

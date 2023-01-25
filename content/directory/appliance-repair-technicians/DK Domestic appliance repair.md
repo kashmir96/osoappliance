@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dk-domestic-appliance-repair.webp
-    alt: Cover image for DK Domestic appliance repair the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/139.webp
+ alt: 'UnitedKingdom from DKDomesticappliancerepair'
 ---
 
 # DK Domestic appliance repair

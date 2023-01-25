@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/service-centre.webp
-    alt: Cover image for Service Centre the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/62.webp
+ alt: 'UnitedKingdom from ServiceCentre'
 ---
 
 # Service Centre

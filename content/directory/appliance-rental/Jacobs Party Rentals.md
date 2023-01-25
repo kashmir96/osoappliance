@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/jacobs-party-rentals.webp
-    alt: Cover image for Jacobs Party Rentals the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/344.webp
+ alt: 'UnitedStates from JacobsPartyRentals'
 ---
 
 # Jacobs Party Rentals

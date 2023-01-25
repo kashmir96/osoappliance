@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/crystal-clean-appliance-repair.webp
-    alt: Cover image for Crystal Clean Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/395.webp
+ alt: 'UnitedStates from CrystalCleanApplianceRepair'
 ---
 
 # Crystal Clean Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-mersey-electric-oven-repairs.webp
-    alt: Cover image for All Mersey Electric Oven Repairs the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/319.webp
+ alt: 'UnitedKingdom from AllMerseyElectricOvenRepairs'
 ---
 
 # All Mersey Electric Oven Repairs

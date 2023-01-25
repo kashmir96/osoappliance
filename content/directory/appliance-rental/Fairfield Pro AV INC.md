@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/fairfield-pro-av-inc.webp
-    alt: Cover image for Fairfield Pro AV INC the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/192.webp
+ alt: 'UnitedStates from FairfieldProAVINC'
 ---
 
 # Fairfield Pro AV INC

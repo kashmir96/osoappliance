@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pap-domestics.webp
-    alt: Cover image for PAP Domestics the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/62.webp
+ alt: 'UnitedKingdom from PAPDomestics'
 ---
 
 # PAP Domestics

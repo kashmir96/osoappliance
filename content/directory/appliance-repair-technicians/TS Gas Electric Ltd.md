@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ts-gas-electric-ltd.webp
-    alt: Cover image for TS Gas Electric Ltd the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/230.webp
+ alt: 'UnitedKingdom from TSGasElectricLtd'
 ---
 
 # TS Gas Electric Ltd

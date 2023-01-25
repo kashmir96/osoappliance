@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lees-appliance-refrigeration-service.webp
-    alt: Cover image for Lees Appliance Refrigeration Service the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/124.webp
+ alt: 'UnitedStates from LeesApplianceRefrigerationService'
 ---
 
 # Lees Appliance Refrigeration Service

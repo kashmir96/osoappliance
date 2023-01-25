@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/centric-subzero-repair-llc.webp
-    alt: Cover image for Centric Subzero Repair LLC the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/375.webp
+ alt: 'UnitedStates from CentricSubzeroRepairLLC'
 ---
 
 # Centric Subzero Repair LLC

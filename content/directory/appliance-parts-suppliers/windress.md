@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/windress.webp
- alt: 'Logo for Windress the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/101.webp
+ alt: 'NewZealand from windress'
 ---
 
 # Windress is an Appliance Parts Supplier from New Zealand.

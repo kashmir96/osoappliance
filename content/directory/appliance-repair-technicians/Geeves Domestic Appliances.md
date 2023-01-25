@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/geeves-domestic-appliances.webp
-    alt: Cover image for Geeves Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/10.webp
+ alt: 'UnitedKingdom from GeevesDomesticAppliances'
 ---
 
 # Geeves Domestic Appliances

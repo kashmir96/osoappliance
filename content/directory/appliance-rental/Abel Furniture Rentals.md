@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/abel-furniture-rentals.webp
-    alt: Cover image for Abel Furniture Rentals the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/15.webp
+ alt: 'Australia from AbelFurnitureRentals'
 ---
 
 # Abel Furniture Rentals

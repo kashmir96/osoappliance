@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cleanequip.webp
-    alt: Cover image for Cleanequip the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/241.webp
+ alt: 'Australia from Cleanequip'
 ---
 
 # Cleanequip

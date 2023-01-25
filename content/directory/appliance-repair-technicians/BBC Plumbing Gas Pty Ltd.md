@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bbc-plumbing-gas-pty-ltd.webp
-    alt: Cover image for BBC Plumbing Gas Pty Ltd the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/370.webp
+ alt: 'Australia from BBCPlumbingGasPtyLtd'
 ---
 
 # BBC Plumbing Gas Pty Ltd

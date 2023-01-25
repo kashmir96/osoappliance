@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hume-hire.webp
-    alt: Cover image for Hume Hire the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/56.webp
+ alt: 'Australia from HumeHire'
 ---
 
 # Hume Hire

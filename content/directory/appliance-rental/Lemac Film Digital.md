@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/lemac-film-digital.webp
-    alt: Cover image for Lemac Film Digital the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/88.webp
+ alt: 'Australia from LemacFilmDigital'
 ---
 
 # Lemac Film Digital

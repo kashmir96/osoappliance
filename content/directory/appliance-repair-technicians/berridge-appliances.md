@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/berridge-appliances.webp
- alt: 'Logo for Berridge Appliances the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/152.webp
+ alt: 'NewZealand from berridgeappliances'
 ---
 
 # Berridge Appliances is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

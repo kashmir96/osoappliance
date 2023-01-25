@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/eastwood-domestics-ltd.webp
-    alt: Cover image for Eastwood Domestics Ltd the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/236.webp
+ alt: 'UnitedKingdom from EastwoodDomesticsLtd'
 ---
 
 # Eastwood Domestics Ltd

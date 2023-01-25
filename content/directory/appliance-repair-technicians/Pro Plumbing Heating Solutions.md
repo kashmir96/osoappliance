@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pro-plumbing-heating-solutions.webp
-    alt: Cover image for Pro Plumbing Heating Solutions the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/118.webp
+ alt: 'UnitedKingdom from ProPlumbingHeatingSolutions'
 ---
 
 # Pro Plumbing Heating Solutions

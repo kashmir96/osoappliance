@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ani-appliances-sales-and-repairs.webp
-    alt: Cover image for Ani Appliances Sales and Repairs the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/56.webp
+ alt: 'UnitedKingdom from AniAppliancesSalesandRepairs'
 ---
 
 # Ani Appliances Sales and Repairs

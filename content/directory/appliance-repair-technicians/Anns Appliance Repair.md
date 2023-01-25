@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/anns-appliance-repair.webp
-    alt: Cover image for Anns Appliance Repair the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/309.webp
+ alt: 'UnitedStates from AnnsApplianceRepair'
 ---
 
 # Anns Appliance Repair

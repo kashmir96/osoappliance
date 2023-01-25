@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/allset-rentals.webp
-    alt: Cover image for AllSet Rentals the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/94.webp
+ alt: 'Australia from AllSetRentals'
 ---
 
 # AllSet Rentals

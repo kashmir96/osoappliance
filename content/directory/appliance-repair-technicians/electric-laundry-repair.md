@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/electric-laundry-repair.webp
- alt: 'Logo for Electric Laundry Repair the New Zealand from Hamilton'
+cover:
+ image: /img/laundryappliance/316.webp
+ alt: 'NewZealand from electriclaundryrepair'
 ---
 
 # Electric Laundry Repair is an Appliance Repair Technician Company operating in Hamilton, New Zealand.

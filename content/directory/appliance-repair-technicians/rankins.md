@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Parts, New Appliances"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-parts,-new-appliances/rankins.webp
- alt: 'Logo for Rankins the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/315.webp
+ alt: 'NewZealand from rankins'
 ---
 
 # Rankins is an Appliance Repair Technician, Parts, New Appliances Company operating in Auckland, New Zealand.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/multideck.webp
-    alt: Cover image for MULTIDECK the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/257.webp
+ alt: 'Australia from MULTIDECK'
 ---
 
 # MULTIDECK

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/enderby-appliance-repairs.webp
-    alt: Cover image for Enderby Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/288.webp
+ alt: 'UnitedKingdom from EnderbyApplianceRepairs'
 ---
 
 # Enderby Appliance Repairs

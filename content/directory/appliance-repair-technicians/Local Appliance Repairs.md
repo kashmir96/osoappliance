@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/local-appliance-repairs.webp
-    alt: Cover image for Local Appliance Repairs the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/173.webp
+ alt: 'Australia from LocalApplianceRepairs'
 ---
 
 # Local Appliance Repairs

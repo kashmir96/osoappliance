@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-appliance-parts.webp
-    alt: Cover image for All Appliance Parts the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/175.webp
+ alt: 'UnitedStates from AllApplianceParts'
 ---
 
 # All Appliance Parts

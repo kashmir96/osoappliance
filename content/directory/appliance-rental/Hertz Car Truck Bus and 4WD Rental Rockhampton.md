@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hertz-car-truck-bus-and-4wd-rental-rockhampton.webp
-    alt: Cover image for Hertz Car Truck Bus and 4WD Rental Rockhampton the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/105.webp
+ alt: 'Australia from HertzCarTruckBusand4WDRentalRockhampton'
 ---
 
 # Hertz Car Truck Bus and 4WD Rental Rockhampton

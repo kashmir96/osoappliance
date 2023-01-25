@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/matthew-graham-plumbing.webp
-    alt: Cover image for Matthew Graham Plumbing the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/301.webp
+ alt: 'Australia from MatthewGrahamPlumbing'
 ---
 
 # Matthew Graham Plumbing

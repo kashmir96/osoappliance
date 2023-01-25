@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/emerald-isle-appliance-service.webp
-    alt: Cover image for Emerald Isle Appliance Service the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/146.webp
+ alt: 'Australia from EmeraldIsleApplianceService'
 ---
 
 # Emerald Isle Appliance Service

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dcr-domestic-appliances.webp
-    alt: Cover image for DCR DOMESTIC APPLIANCES the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/292.webp
+ alt: 'UnitedKingdom from DCRDOMESTICAPPLIANCES'
 ---
 
 # DCR DOMESTIC APPLIANCES

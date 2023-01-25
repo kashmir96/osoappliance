@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/media-service-solutions.webp
-    alt: Cover image for Media Service Solutions the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/267.webp
+ alt: 'UnitedKingdom from MediaServiceSolutions'
 ---
 
 # Media Service Solutions

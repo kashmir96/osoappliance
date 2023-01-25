@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ballarat-blockages-plumbing-pty-ltd.webp
-    alt: Cover image for Ballarat Blockages Plumbing Pty Ltd the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/100.webp
+ alt: 'Australia from BallaratBlockagesPlumbingPtyLtd'
 ---
 
 # Ballarat Blockages Plumbing Pty Ltd

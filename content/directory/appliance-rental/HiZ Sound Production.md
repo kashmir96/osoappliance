@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hiz-sound-production.webp
-    alt: Cover image for HiZ Sound Production the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/270.webp
+ alt: 'Australia from HiZSoundProduction'
 ---
 
 # HiZ Sound Production

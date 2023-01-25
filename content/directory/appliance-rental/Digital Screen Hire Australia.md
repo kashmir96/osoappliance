@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/digital-screen-hire-australia.webp
-    alt: Cover image for Digital Screen Hire Australia the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/208.webp
+ alt: 'Australia from DigitalScreenHireAustralia'
 ---
 
 # Digital Screen Hire Australia

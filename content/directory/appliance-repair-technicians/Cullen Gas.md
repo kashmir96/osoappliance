@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cullen-gas.webp
-    alt: Cover image for Cullen Gas the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/254.webp
+ alt: 'Australia from CullenGas'
 ---
 
 # Cullen Gas

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/vac-attack.webp
-    alt: Cover image for Vac Attack the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/132.webp
+ alt: 'UnitedKingdom from VacAttack'
 ---
 
 # Vac Attack

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/genuine-appliance-parts.webp
- alt: 'Logo for Genuine Appliance Parts the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/36.webp
+ alt: 'Canada from genuineapplianceparts'
 ---
 
 # Genuine Appliance Parts is an Appliance Parts Supplier from Canada.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mias-booth-rental.webp
-    alt: Cover image for Mias Booth Rental the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/203.webp
+ alt: 'UnitedStates from MiasBoothRental'
 ---
 
 # Mias Booth Rental

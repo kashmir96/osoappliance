@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/neu-appliance-outlet.webp
-    alt: Cover image for Neu Appliance Outlet the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/395.webp
+ alt: 'UnitedStates from NeuApplianceOutlet'
 ---
 
 # Neu Appliance Outlet

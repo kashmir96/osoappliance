@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/coates-launceston.webp
-    alt: Cover image for Coates Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/261.webp
+ alt: 'Australia from CoatesLaunceston'
 ---
 
 # Coates Launceston

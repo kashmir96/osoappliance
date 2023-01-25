@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/local-appliance-rentals-wide-bay.webp
-    alt: Cover image for Local Appliance Rentals Wide Bay the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/68.webp
+ alt: 'Australia from LocalApplianceRentalsWideBay'
 ---
 
 # Local Appliance Rentals Wide Bay

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/thrifty-car-rental-hervey-bay-downtown.webp
-    alt: Cover image for Thrifty Car Rental Hervey Bay Downtown the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/121.webp
+ alt: 'Australia from ThriftyCarRentalHerveyBayDowntown'
 ---
 
 # Thrifty Car Rental Hervey Bay Downtown

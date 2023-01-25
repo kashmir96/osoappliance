@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/3rd-phase-audio-solutions.webp
-    alt: Cover image for 3rd Phase Audio Solutions the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/365.webp
+ alt: 'Australia from 3rdPhaseAudioSolutions'
 ---
 
 # 3rd Phase Audio Solutions

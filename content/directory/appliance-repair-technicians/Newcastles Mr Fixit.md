@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/newcastles-mr-fixit.webp
-    alt: Cover image for Newcastles Mr Fixit the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/229.webp
+ alt: 'Australia from NewcastlesMrFixit'
 ---
 
 # Newcastles Mr Fixit

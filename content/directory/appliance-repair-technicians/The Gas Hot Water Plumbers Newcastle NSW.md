@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-gas-hot-water-plumbers-newcastle-nsw.webp
-    alt: Cover image for The Gas Hot Water Plumbers Newcastle NSW the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/96.webp
+ alt: 'Australia from TheGasHotWaterPlumbersNewcastleNSW'
 ---
 
 # The Gas Hot Water Plumbers Newcastle NSW

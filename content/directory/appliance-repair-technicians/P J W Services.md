@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/p-j-w-services.webp
-    alt: Cover image for P J W Services the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/337.webp
+ alt: 'UnitedKingdom from PJWServices'
 ---
 
 # P J W Services

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumber-to-your-door-townsville.webp
-    alt: Cover image for Plumber To Your Door Townsville the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/138.webp
+ alt: 'Australia from PlumberToYourDoorTownsville'
 ---
 
 # Plumber To Your Door Townsville

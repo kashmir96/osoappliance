@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/boiler-repairs-direct.webp
-    alt: Cover image for Boiler Repairs Direct the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/313.webp
+ alt: 'UnitedKingdom from BoilerRepairsDirect'
 ---
 
 # Boiler Repairs Direct

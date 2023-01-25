@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-service-centre-repairs.webp
-    alt: Cover image for Appliance Service Centre Repairs the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/160.webp
+ alt: 'UnitedKingdom from ApplianceServiceCentreRepairscopy'
 ---
 
 # Appliance Service Centre Repairs

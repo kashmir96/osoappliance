@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hercs-electical-maintenance-and-repairs.webp
-    alt: Cover image for Hercs Electical Maintenance and Repairs the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/211.webp
+ alt: 'Australia from HercsElecticalMaintenanceandRepairs'
 ---
 
 # Hercs Electical Maintenance and Repairs

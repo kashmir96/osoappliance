@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bendigo-refrigeration-airconditioning-services.webp
-    alt: Cover image for Bendigo Refrigeration Airconditioning Services the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/155.webp
+ alt: 'Australia from BendigoRefrigerationAirconditioningServices'
 ---
 
 # Bendigo Refrigeration Airconditioning Services

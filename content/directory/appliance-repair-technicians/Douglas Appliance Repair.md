@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/douglas-appliance-repair.webp
-    alt: Cover image for Douglas Appliance Repair the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/294.webp
+ alt: 'UnitedStates from DouglasApplianceRepair'
 ---
 
 # Douglas Appliance Repair

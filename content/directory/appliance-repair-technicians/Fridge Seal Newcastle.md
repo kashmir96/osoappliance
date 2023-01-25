@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fridge-seal-newcastle.webp
-    alt: Cover image for Fridge Seal Newcastle the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/98.webp
+ alt: 'Australia from FridgeSealNewcastle'
 ---
 
 # Fridge Seal Newcastle

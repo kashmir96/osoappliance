@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hotpoint-repairs-birmingham.webp
-    alt: Cover image for Hotpoint Repairs Birmingham the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/97.webp
+ alt: 'UnitedKingdom from HotpointRepairsBirmingham'
 ---
 
 # Hotpoint Repairs Birmingham

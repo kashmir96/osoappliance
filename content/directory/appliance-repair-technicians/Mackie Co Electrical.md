@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mackie-co-electrical.webp
-    alt: Cover image for Mackie Co Electrical the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/27.webp
+ alt: 'Australia from MackieCoElectrical'
 ---
 
 # Mackie Co Electrical

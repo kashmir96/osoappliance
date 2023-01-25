@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/j-v-appliance-services.webp
-    alt: Cover image for J V Appliance Services the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/294.webp
+ alt: 'UnitedStates from JVApplianceServices'
 ---
 
 # J V Appliance Services

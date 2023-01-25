@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/appliances-4-rent.webp
- alt: 'Logo for Appliances 4 Rent the Appliance Rental business from Christchurch, New Zealand'
+cover:
+ image: /img/laundryappliance/328.webp
+ alt: 'NewZealand from appliances4rent'
 ---
 
 Appliances 4 Rent is an Appliance Rental business located in Christchurch, New Zealand. 

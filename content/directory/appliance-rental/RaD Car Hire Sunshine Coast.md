@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rad-car-hire-sunshine-coast.webp
-    alt: Cover image for RaD Car Hire Sunshine Coast the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/95.webp
+ alt: 'Australia from RaDCarHireSunshineCoast'
 ---
 
 # RaD Car Hire Sunshine Coast

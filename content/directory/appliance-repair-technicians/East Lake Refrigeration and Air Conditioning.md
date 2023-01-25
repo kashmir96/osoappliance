@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/east-lake-refrigeration-and-air-conditioning.webp
-    alt: Cover image for East Lake Refrigeration and Air Conditioning the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/301.webp
+ alt: 'Australia from EastLakeRefrigerationandAirConditioning'
 ---
 
 # East Lake Refrigeration and Air Conditioning

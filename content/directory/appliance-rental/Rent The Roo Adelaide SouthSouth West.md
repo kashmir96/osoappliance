@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo-adelaide-southsouth-west.webp
-    alt: Cover image for Rent The Roo Adelaide SouthSouth West the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/75.webp
+ alt: 'Australia from RentTheRooAdelaideSouthSouthWest'
 ---
 
 # Rent The Roo Adelaide SouthSouth West

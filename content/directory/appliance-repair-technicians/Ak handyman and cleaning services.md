@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ak-handyman-and-cleaning-services.webp
-    alt: Cover image for Ak handyman and cleaning services the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/348.webp
+ alt: 'Australia from Akhandymanandcleaningservices'
 ---
 
 # Ak handyman and cleaning services

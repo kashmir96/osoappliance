@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/adjust.webp
- alt: 'Logo for Adjust the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/254.webp
+ alt: 'NewZealand from adjust'
 ---
 
 # Adjust is an Appliance Repair Technician Company operating in Timaru, New Zealand.

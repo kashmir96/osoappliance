@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/primero-fiesta-rentals-pfr-event-party-rentals.webp
-    alt: Cover image for Primero Fiesta Rentals PFR Event Party Rentals the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/137.webp
+ alt: 'UnitedStates from PrimeroFiestaRentalsPFREventPartyRentals'
 ---
 
 # Primero Fiesta Rentals PFR Event Party Rentals

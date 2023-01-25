@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/around-the-clock-appliance-repair.webp
-    alt: Cover image for Around The Clock Appliance Repair the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/19.webp
+ alt: 'UnitedStates from AroundTheClockApplianceRepair'
 ---
 
 # Around The Clock Appliance Repair

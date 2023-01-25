@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aardvark-appliance-service.webp
-    alt: Cover image for aardvark appliance service the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/369.webp
+ alt: 'UnitedKingdom from aardvarkapplianceservice'
 ---
 
 # aardvark appliance service

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/fmh-material-handling-solutions-inc-denver.webp
-    alt: Cover image for FMH Material Handling Solutions Inc Denver the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/178.webp
+ alt: 'UnitedStates from FMHMaterialHandlingSolutionsIncDenver'
 ---
 
 # FMH Material Handling Solutions Inc Denver

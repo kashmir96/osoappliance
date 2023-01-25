@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/place-settings-premium-event-hire.webp
-    alt: Cover image for Place Settings Premium Event Hire the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/295.webp
+ alt: 'Australia from PlaceSettingsPremiumEventHire'
 ---
 
 # Place Settings Premium Event Hire

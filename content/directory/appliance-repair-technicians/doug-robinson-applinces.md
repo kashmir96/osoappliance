@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/doug-robinson-applinces.webp
- alt: 'Logo for Doug Robinson Applinces the New Zealand from Hamilton'
+cover:
+ image: /img/laundryappliance/246.webp
+ alt: 'NewZealand from dougrobinsonapplinces'
 ---
 
 # Doug Robinson Applinces is an Appliance Repair Technician Company operating in Hamilton, New Zealand.

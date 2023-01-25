@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Taupo"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/hodge-electrical.webp
- alt: 'Logo for Hodge Electrical the New Zealand from Taupo'
+cover:
+ image: /img/laundryappliance/229.webp
+ alt: 'NewZealand from hodgeelectrical'
 ---
 
 # Hodge Electrical is an Appliance Repair Technician Company operating in Taupo, New Zealand.

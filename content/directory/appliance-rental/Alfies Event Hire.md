@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/alfies-event-hire.webp
-    alt: Cover image for Alfies Event Hire the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/160.webp
+ alt: 'Australia from AlfiesEventHire'
 ---
 
 # Alfies Event Hire

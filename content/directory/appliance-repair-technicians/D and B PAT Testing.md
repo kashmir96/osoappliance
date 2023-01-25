@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/d-and-b-pat-testing.webp
-    alt: Cover image for D and B PAT Testing the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/38.webp
+ alt: 'UnitedKingdom from DandBPATTesting'
 ---
 
 # D and B PAT Testing

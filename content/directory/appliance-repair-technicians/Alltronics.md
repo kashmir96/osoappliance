@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/alltronics.webp
-    alt: Cover image for Alltronics the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/207.webp
+ alt: 'Australia from Alltronics'
 ---
 
 # Alltronics

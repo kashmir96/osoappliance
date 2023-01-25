@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/resurrect-appliances.webp
-    alt: Cover image for Resurrect appliances the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/126.webp
+ alt: 'Australia from Resurrectappliances'
 ---
 
 # Resurrect appliances

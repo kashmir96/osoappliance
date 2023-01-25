@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/clr-electrical-refrigeration.webp
-    alt: Cover image for CLR Electrical Refrigeration the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/3.webp
+ alt: 'Australia from CLRElectricalRefrigeration'
 ---
 
 # CLR Electrical Refrigeration

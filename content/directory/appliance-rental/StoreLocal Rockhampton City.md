@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/storelocal-rockhampton-city.webp
-    alt: Cover image for StoreLocal Rockhampton City the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/309.webp
+ alt: 'Australia from StoreLocalRockhamptonCity'
 ---
 
 # StoreLocal Rockhampton City

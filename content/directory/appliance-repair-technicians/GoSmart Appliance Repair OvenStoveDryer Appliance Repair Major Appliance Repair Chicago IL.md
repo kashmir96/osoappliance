@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gosmart-appliance-repair-ovenstovedryer-appliance-repair-major-appliance-repair-chicago-il.webp
-    alt: Cover image for GoSmart Appliance Repair OvenStoveDryer Appliance Repair Major Appliance Repair Chicago IL the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/81.webp
+ alt: 'UnitedStates from GoSmartApplianceRepairOvenStoveDryerApplianceRepairMajorApplianceRepairChicagoIL'
 ---
 
 # GoSmart Appliance Repair OvenStoveDryer Appliance Repair Major Appliance Repair Chicago IL

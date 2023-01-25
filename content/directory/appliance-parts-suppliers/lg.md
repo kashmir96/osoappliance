@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/lg.webp
- alt: 'Logo for Lg the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/70.webp
+ alt: 'UnitedStates from lg'
 ---
 
 # Lg is an Appliance Parts Supplier from United States.

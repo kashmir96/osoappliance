@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/furniture-4-staging.webp
-    alt: Cover image for Furniture 4 Staging the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/313.webp
+ alt: 'UnitedStates from Furniture4Staging'
 ---
 
 # Furniture 4 Staging

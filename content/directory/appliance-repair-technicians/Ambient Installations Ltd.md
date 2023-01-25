@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ambient-installations-ltd.webp
-    alt: Cover image for Ambient Installations Ltd the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/8.webp
+ alt: 'UnitedKingdom from AmbientInstallationsLtd'
 ---
 
 # Ambient Installations Ltd

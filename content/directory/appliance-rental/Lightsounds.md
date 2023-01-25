@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/lightsounds.webp
-    alt: Cover image for Lightsounds the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/199.webp
+ alt: 'Australia from Lightsounds'
 ---
 
 # Lightsounds

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/speedmates-appliance-repair.webp
-    alt: Cover image for Speedmates Appliance Repair the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/233.webp
+ alt: 'UnitedStates from SpeedmatesApplianceRepair'
 ---
 
 # Speedmates Appliance Repair

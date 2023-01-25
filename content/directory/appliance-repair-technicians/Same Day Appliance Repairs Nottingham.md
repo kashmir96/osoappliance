@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/same-day-appliance-repairs-nottingham.webp
-    alt: Cover image for Same Day Appliance Repairs Nottingham the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/192.webp
+ alt: 'UnitedKingdom from SameDayApplianceRepairsNottingham'
 ---
 
 # Same Day Appliance Repairs Nottingham

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bonita-appliance-repair-oven-refrigerator-repair.webp
-    alt: Cover image for Bonita Appliance Repair Oven Refrigerator Repair the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/99.webp
+ alt: 'UnitedStates from BonitaApplianceRepairOvenRefrigeratorRepair'
 ---
 
 # Bonita Appliance Repair Oven Refrigerator Repair

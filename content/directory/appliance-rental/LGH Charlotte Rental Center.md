@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/lgh-charlotte-rental-center.webp
-    alt: Cover image for LGH Charlotte Rental Center the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/36.webp
+ alt: 'UnitedStates from LGHCharlotteRentalCenter'
 ---
 
 # LGH Charlotte Rental Center

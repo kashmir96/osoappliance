@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/c-w-appliance-repair.webp
-    alt: Cover image for C W Appliance Repair the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/178.webp
+ alt: 'UnitedKingdom from CWApplianceRepair'
 ---
 
 # C W Appliance Repair

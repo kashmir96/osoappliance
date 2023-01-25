@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/castlecroft-domestic-services-wolverhampton.webp
-    alt: Cover image for Castlecroft Domestic Services Wolverhampton the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/114.webp
+ alt: 'UnitedKingdom from CastlecroftDomesticServicesWolverhampton'
 ---
 
 # Castlecroft Domestic Services Wolverhampton

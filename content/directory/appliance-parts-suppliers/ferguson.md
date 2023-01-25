@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/ferguson.webp
- alt: 'Logo for Ferguson the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/83.webp
+ alt: 'UnitedStates from ferguson'
 ---
 
 # Ferguson is an Appliance Parts Supplier from United States.

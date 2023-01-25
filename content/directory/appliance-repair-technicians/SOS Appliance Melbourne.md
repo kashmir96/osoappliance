@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sos-appliance-melbourne.webp
-    alt: Cover image for SOS Appliance Melbourne the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/270.webp
+ alt: 'Australia from SOSApplianceMelbourne'
 ---
 
 # SOS Appliance Melbourne

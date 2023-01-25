@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumbers-bendigo.webp
-    alt: Cover image for Plumbers Bendigo the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/380.webp
+ alt: 'Australia from PlumbersBendigo'
 ---
 
 # Plumbers Bendigo

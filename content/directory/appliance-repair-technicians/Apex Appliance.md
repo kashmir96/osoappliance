@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/apex-appliance.webp
-    alt: Cover image for Apex Appliance the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/103.webp
+ alt: 'UnitedStates from ApexAppliance'
 ---
 
 # Apex Appliance

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/able-appliances.webp
- alt: 'Logo for Able Appliances the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/156.webp
+ alt: 'NewZealand from ableappliances'
 ---
 
 # Able Appliances is an Appliance Parts Supplier from New Zealand.

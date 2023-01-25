@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/if-atm-sydney.webp
-    alt: Cover image for If ATM Sydney the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/285.webp
+ alt: 'Australia from IfATMSydney'
 ---
 
 # If ATM Sydney

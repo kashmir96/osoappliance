@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rt-rentals-and-event-decor.webp
-    alt: Cover image for RT Rentals and Event Decor the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/39.webp
+ alt: 'UnitedStates from RTRentalsandEventDecor'
 ---
 
 # RT Rentals and Event Decor

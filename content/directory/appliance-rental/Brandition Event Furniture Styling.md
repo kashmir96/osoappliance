@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/brandition-event-furniture-styling.webp
-    alt: Cover image for Brandition Event Furniture Styling the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/195.webp
+ alt: 'Australia from BranditionEventFurnitureStyling'
 ---
 
 # Brandition Event Furniture Styling

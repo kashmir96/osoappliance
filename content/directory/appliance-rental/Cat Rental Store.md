@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cat-rental-store.webp
-    alt: Cover image for Cat Rental Store the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/27.webp
+ alt: 'Australia from CatRentalStore'
 ---
 
 # Cat Rental Store

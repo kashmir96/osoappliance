@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/frostys-fridge-rentals.webp
-    alt: Cover image for Frostys Fridge Rentals the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/204.webp
+ alt: 'Australia from FrostysFridgeRentals'
 ---
 
 # Frostys Fridge Rentals

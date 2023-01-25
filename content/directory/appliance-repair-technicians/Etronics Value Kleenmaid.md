@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/etronics-value-kleenmaid.webp
-    alt: Cover image for Etronics Value Kleenmaid the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/328.webp
+ alt: 'Australia from EtronicsValueKleenmaid'
 ---
 
 # Etronics Value Kleenmaid

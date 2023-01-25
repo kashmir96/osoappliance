@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/access-hire-darwin.webp
-    alt: Cover image for Access Hire Darwin the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/364.webp
+ alt: 'Australia from AccessHireDarwin'
 ---
 
 # Access Hire Darwin

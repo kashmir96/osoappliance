@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/avrexpos-san-francisco-ca.webp
-    alt: Cover image for AVRExpos San Francisco CA the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/394.webp
+ alt: 'UnitedStates from AVRExposSanFranciscoCA'
 ---
 
 # AVRExpos San Francisco CA

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/love-appliance-repair-washington-dc.webp
-    alt: Cover image for Love Appliance Repair Washington DC the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/17.webp
+ alt: 'UnitedStates from LoveApplianceRepairWashingtonDC'
 ---
 
 # Love Appliance Repair Washington DC

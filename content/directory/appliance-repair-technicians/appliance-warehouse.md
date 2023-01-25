@@ -5,9 +5,9 @@ type: "New Appliances, Installation, Delivery"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/new-appliances,-installation,-delivery/appliance-warehouse.webp
- alt: 'Logo for Appliance Warehouse the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/152.webp
+ alt: 'NewZealand from appliancewarehouse'
 ---
 
 # Appliance Warehouse is an New Appliances, Installation, Delivery Company operating in Auckland, New Zealand.

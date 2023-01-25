@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ballarat-oven-repair.webp
-    alt: Cover image for Ballarat Oven Repair the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/202.webp
+ alt: 'Australia from BallaratOvenRepair'
 ---
 
 # Ballarat Oven Repair

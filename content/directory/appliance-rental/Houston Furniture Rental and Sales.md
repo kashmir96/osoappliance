@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/houston-furniture-rental-and-sales.webp
-    alt: Cover image for Houston Furniture Rental and Sales the United States based Appliance Rental servicing Houston 
+ image: /img/laundryappliance/4.webp
+ alt: 'UnitedStates from HoustonFurnitureRentalandSales'
 ---
 
 # Houston Furniture Rental and Sales

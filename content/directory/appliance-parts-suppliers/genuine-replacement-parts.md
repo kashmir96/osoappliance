@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/genuine-replacement-parts.webp
- alt: 'Logo for Genuine Replacement Parts the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/78.webp
+ alt: 'UnitedStates from genuinereplacementparts'
 ---
 
 # Genuine Replacement Parts is an Appliance Parts Supplier from United States.

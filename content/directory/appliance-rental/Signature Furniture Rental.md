@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/signature-furniture-rental.webp
-    alt: Cover image for Signature Furniture Rental the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/130.webp
+ alt: 'UnitedStates from SignatureFurnitureRental'
 ---
 
 # Signature Furniture Rental

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jd-appliance-repair-service.webp
-    alt: Cover image for JD Appliance repair service the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/299.webp
+ alt: 'UnitedStates from JDAppliancerepairservice'
 ---
 
 # JD Appliance repair service

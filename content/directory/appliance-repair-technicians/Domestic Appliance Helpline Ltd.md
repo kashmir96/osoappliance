@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domestic-appliance-helpline-ltd.webp
-    alt: Cover image for Domestic Appliance Helpline Ltd the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/18.webp
+ alt: 'UnitedKingdom from DomesticApplianceHelplineLtd'
 ---
 
 # Domestic Appliance Helpline Ltd

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/1st-choice-appliance-repair-nyc.webp
-    alt: Cover image for 1st Choice Appliance Repair NYC the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/222.webp
+ alt: 'UnitedStates from 1stChoiceApplianceRepairNYC'
 ---
 
 # 1st Choice Appliance Repair NYC

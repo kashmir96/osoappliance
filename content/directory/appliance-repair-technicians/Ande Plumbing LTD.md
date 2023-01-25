@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ande-plumbing-ltd.webp
-    alt: Cover image for Ande Plumbing LTD the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/250.webp
+ alt: 'UnitedKingdom from AndePlumbingLTD'
 ---
 
 # Ande Plumbing LTD

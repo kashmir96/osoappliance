@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/home-sale-stagers.webp
-    alt: Cover image for Home Sale Stagers the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/29.webp
+ alt: 'UnitedKingdom from HomeSaleStagers'
 ---
 
 # Home Sale Stagers

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/next-gen-party-hire.webp
-    alt: Cover image for Next Gen Party Hire the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/206.webp
+ alt: 'Australia from NextGenPartyHire'
 ---
 
 # Next Gen Party Hire

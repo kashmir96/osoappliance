@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fix-it-guy-appliance-repair.webp
-    alt: Cover image for Fix It Guy Appliance Repair the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/383.webp
+ alt: 'UnitedStates from FixItGuyApplianceRepair'
 ---
 
 # Fix It Guy Appliance Repair

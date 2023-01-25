@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/scene-change-brisbane.webp
-    alt: Cover image for Scene Change Brisbane the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/282.webp
+ alt: 'Australia from SceneChangeBrisbane'
 ---
 
 # Scene Change Brisbane

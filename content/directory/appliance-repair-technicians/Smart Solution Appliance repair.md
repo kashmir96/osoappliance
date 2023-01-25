@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/smart-solution-appliance-repair.webp
-    alt: Cover image for Smart Solution Appliance repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/119.webp
+ alt: 'UnitedStates from SmartSolutionAppliancerepair'
 ---
 
 # Smart Solution Appliance repair

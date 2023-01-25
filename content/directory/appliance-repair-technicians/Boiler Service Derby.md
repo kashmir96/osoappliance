@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/boiler-service-derby.webp
-    alt: Cover image for Boiler Service Derby the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/103.webp
+ alt: 'UnitedKingdom from BoilerServiceDerby'
 ---
 
 # Boiler Service Derby

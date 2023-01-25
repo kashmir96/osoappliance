@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-good-guys-hervey-bay.webp
-    alt: Cover image for The Good Guys Hervey Bay the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/349.webp
+ alt: 'Australia from TheGoodGuysHerveyBay'
 ---
 
 # The Good Guys Hervey Bay

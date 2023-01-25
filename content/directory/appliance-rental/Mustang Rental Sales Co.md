@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mustang-rental-sales-co.webp
-    alt: Cover image for Mustang Rental Sales Co the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/324.webp
+ alt: 'UnitedStates from MustangRentalSalesCo'
 ---
 
 # Mustang Rental Sales Co

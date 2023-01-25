@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nortech-heating-cooling-refrigeration.webp
-    alt: Cover image for Nortech Heating Cooling Refrigeration the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/239.webp
+ alt: 'UnitedStates from NortechHeatingCoolingRefrigeration'
 ---
 
 # Nortech Heating Cooling Refrigeration

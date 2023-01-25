@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-appliance-repair-guru-corp.webp
-    alt: Cover image for The Appliance Repair Guru Corp the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/10.webp
+ alt: 'UnitedStates from TheApplianceRepairGuruCorp'
 ---
 
 # The Appliance Repair Guru Corp

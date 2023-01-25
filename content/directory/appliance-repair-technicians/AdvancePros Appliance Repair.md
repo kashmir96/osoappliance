@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/advancepros-appliance-repair.webp
-    alt: Cover image for AdvancePros Appliance Repair the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/26.webp
+ alt: 'UnitedStates from AdvanceProsApplianceRepair'
 ---
 
 # AdvancePros Appliance Repair

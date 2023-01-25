@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-car-care-centre.webp
-    alt: Cover image for All car care centre the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/186.webp
+ alt: 'Australia from Allcarcarecentre'
 ---
 
 # All car care centre

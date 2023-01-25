@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gold-coast-fridge-freezer-seals.webp
-    alt: Cover image for Gold Coast Fridge Freezer Seals the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/57.webp
+ alt: 'Australia from GoldCoastFridgeFreezerSeals'
 ---
 
 # Gold Coast Fridge Freezer Seals

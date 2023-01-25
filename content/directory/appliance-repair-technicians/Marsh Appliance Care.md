@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/marsh-appliance-care.webp
-    alt: Cover image for Marsh Appliance Care the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/131.webp
+ alt: 'Australia from MarshApplianceCare'
 ---
 
 # Marsh Appliance Care

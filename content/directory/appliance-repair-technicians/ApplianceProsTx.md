@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/applianceprostx.webp
-    alt: Cover image for ApplianceProsTx the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/58.webp
+ alt: 'UnitedStates from ApplianceProsTx'
 ---
 
 # ApplianceProsTx

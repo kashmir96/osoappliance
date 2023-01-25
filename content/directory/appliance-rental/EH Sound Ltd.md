@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/eh-sound-ltd.webp
-    alt: Cover image for EH Sound Ltd the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/236.webp
+ alt: 'UnitedKingdom from EHSoundLtd'
 ---
 
 # EH Sound Ltd

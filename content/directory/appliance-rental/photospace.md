@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/photospace.webp
-    alt: Cover image for photospace the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/251.webp
+ alt: 'UnitedStates from photospace'
 ---
 
 # photospace

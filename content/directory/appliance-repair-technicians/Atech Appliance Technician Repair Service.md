@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/atech-appliance-technician-repair-service.webp
-    alt: Cover image for Atech Appliance Technician Repair Service the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/65.webp
+ alt: 'UnitedStates from AtechApplianceTechnicianRepairService'
 ---
 
 # Atech Appliance Technician Repair Service

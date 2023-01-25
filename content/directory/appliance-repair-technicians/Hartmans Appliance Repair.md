@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hartmans-appliance-repair.webp
-    alt: Cover image for Hartmans Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/202.webp
+ alt: 'UnitedStates from HartmansApplianceRepair'
 ---
 
 # Hartmans Appliance Repair

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ace-rental-cars-launceston-airport.webp
-    alt: Cover image for Ace Rental Cars Launceston Airport the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/201.webp
+ alt: 'Australia from AceRentalCarsLauncestonAirport'
 ---
 
 # Ace Rental Cars Launceston Airport

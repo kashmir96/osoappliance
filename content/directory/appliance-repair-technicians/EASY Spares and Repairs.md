@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/easy-spares-and-repairs.webp
-    alt: Cover image for EASY Spares and Repairs the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/340.webp
+ alt: 'UnitedKingdom from EASYSparesandRepairs'
 ---
 
 # EASY Spares and Repairs

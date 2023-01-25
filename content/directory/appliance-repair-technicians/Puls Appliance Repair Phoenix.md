@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/puls-appliance-repair-phoenix.webp
-    alt: Cover image for Puls Appliance Repair Phoenix the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/165.webp
+ alt: 'UnitedStates from PulsApplianceRepairPhoenix'
 ---
 
 # Puls Appliance Repair Phoenix

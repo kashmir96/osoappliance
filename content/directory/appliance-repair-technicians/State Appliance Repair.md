@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/state-appliance-repair.webp
-    alt: Cover image for State Appliance Repair the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/65.webp
+ alt: 'UnitedStates from StateApplianceRepair'
 ---
 
 # State Appliance Repair

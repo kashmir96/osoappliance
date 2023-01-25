@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/better-call-lee-heating-and-plumbing.webp
-    alt: Cover image for Better Call Lee Heating and Plumbing the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/135.webp
+ alt: 'UnitedKingdom from BetterCallLeeHeatingandPlumbing'
 ---
 
 # Better Call Lee Heating and Plumbing

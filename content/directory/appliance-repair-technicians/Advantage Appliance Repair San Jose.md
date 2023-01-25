@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/advantage-appliance-repair-san-jose.webp
-    alt: Cover image for Advantage Appliance Repair San Jose the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/111.webp
+ alt: 'UnitedStates from AdvantageApplianceRepairSanJose'
 ---
 
 # Advantage Appliance Repair San Jose

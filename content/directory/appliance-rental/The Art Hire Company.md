@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-art-hire-company.webp
-    alt: Cover image for The Art Hire Company the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/203.webp
+ alt: 'Australia from TheArtHireCompany'
 ---
 
 # The Art Hire Company

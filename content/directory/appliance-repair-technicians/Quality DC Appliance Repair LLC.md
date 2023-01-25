@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/quality-dc-appliance-repair-llc.webp
-    alt: Cover image for Quality DC Appliance Repair LLC the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/42.webp
+ alt: 'UnitedStates from QualityDCApplianceRepairLLC'
 ---
 
 # Quality DC Appliance Repair LLC

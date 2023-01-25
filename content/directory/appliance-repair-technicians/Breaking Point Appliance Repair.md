@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/breaking-point-appliance-repair.webp
-    alt: Cover image for Breaking Point Appliance Repair the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/145.webp
+ alt: 'UnitedStates from BreakingPointApplianceRepair'
 ---
 
 # Breaking Point Appliance Repair

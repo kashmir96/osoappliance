@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sealafridge-south-australia.webp
-    alt: Cover image for SealaFridge South Australia the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/151.webp
+ alt: 'Australia from SealaFridgeSouthAustralia'
 ---
 
 # SealaFridge South Australia

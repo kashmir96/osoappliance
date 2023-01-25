@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliancecare-of-texas.webp
-    alt: Cover image for ApplianceCare of Texas the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/166.webp
+ alt: 'UnitedStates from ApplianceCareofTexas'
 ---
 
 # ApplianceCare of Texas

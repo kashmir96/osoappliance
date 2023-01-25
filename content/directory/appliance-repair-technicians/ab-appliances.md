@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Rotorua"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/ab-appliances.webp
- alt: 'Logo for Ab Appliances the New Zealand from Rotorua'
+cover:
+ image: /img/laundryappliance/294.webp
+ alt: 'NewZealand from abappliances'
 ---
 
 # Ab Appliances is an Appliance Repair Technician Company operating in Rotorua, New Zealand.

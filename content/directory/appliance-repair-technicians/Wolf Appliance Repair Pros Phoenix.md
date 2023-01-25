@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wolf-appliance-repair-pros-phoenix.webp
-    alt: Cover image for Wolf Appliance Repair Pros Phoenix the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/205.webp
+ alt: 'UnitedStates from WolfApplianceRepairProsPhoenix'
 ---
 
 # Wolf Appliance Repair Pros Phoenix

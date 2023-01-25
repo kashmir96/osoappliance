@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/percy-rentals.webp
-    alt: Cover image for Percy Rentals the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/327.webp
+ alt: 'Australia from PercyRentals'
 ---
 
 # Percy Rentals

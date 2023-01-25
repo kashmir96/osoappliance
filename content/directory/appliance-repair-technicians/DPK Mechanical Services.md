@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dpk-mechanical-services.webp
-    alt: Cover image for DPK Mechanical Services the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/56.webp
+ alt: 'Australia from DPKMechanicalServices'
 ---
 
 # DPK Mechanical Services

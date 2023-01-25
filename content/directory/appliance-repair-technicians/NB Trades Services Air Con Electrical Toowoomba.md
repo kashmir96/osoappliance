@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nb-trades-services-air-con-electrical-toowoomba.webp
-    alt: Cover image for NB Trades Services Air Con Electrical Toowoomba the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/255.webp
+ alt: 'Australia from NBTradesServicesAirConElectricalToowoomba'
 ---
 
 # NB Trades Services Air Con Electrical Toowoomba

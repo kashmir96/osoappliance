@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gasworks-edinburgh-ltd.webp
-    alt: Cover image for Gasworks Edinburgh Ltd the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/235.webp
+ alt: 'UnitedKingdom from GasworksEdinburghLtd'
 ---
 
 # Gasworks Edinburgh Ltd

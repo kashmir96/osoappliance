@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/agile-dehumidifier-hire.webp
-    alt: Cover image for Agile Dehumidifier Hire the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/188.webp
+ alt: 'Australia from AgileDehumidifierHire'
 ---
 
 # Agile Dehumidifier Hire

@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["New Plymouth"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/coastal-electronics.webp
- alt: 'Logo for Coastal Electronics the New Zealand from New Plymouth'
+cover:
+ image: /img/laundryappliance/38.webp
+ alt: 'NewZealand from coastalelectronics'
 ---
 
 # Coastal Electronics is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.

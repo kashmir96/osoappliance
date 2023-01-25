@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/delco-maintenance-ltd.webp
-    alt: Cover image for DELCO MAINTENANCE LTD the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/247.webp
+ alt: 'UnitedKingdom from DELCOMAINTENANCELTD'
 ---
 
 # DELCO MAINTENANCE LTD

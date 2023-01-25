@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/super-appliance-man.webp
-    alt: Cover image for Super Appliance Man the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/309.webp
+ alt: 'UnitedStates from SuperApplianceMan'
 ---
 
 # Super Appliance Man

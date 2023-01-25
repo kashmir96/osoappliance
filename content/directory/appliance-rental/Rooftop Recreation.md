@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rooftop-recreation.webp
-    alt: Cover image for Rooftop Recreation the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/153.webp
+ alt: 'UnitedStates from RooftopRecreation'
 ---
 
 # Rooftop Recreation

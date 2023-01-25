@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/service-network-ni.webp
-    alt: Cover image for Service Network NI the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/31.webp
+ alt: 'UnitedKingdom from ServiceNetworkNI'
 ---
 
 # Service Network NI

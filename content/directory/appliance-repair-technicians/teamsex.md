@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Taupo"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/teamsex.webp
- alt: 'Logo for TEAMSEX the New Zealand from Taupo'
+cover:
+ image: /img/laundryappliance/221.webp
+ alt: 'NewZealand from teamsex'
 ---
 
 # TEAMSEX is an Appliance Repair Technician Company operating in Taupo, New Zealand.

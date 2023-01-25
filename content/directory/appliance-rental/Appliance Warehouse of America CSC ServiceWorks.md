@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/appliance-warehouse-of-america-csc-serviceworks.webp
-    alt: Cover image for Appliance Warehouse of America CSC ServiceWorks the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/399.webp
+ alt: 'UnitedStates from ApplianceWarehouseofAmericaCSCServiceWorks'
 ---
 
 # Appliance Warehouse of America CSC ServiceWorks

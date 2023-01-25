@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/partselect.webp
- alt: 'Logo for Partselect the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/162.webp
+ alt: 'Canada from partselect'
 ---
 
 # Partselect is an Appliance Parts Supplier from Canada.

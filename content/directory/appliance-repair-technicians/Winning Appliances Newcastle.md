@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/winning-appliances-newcastle.webp
-    alt: Cover image for Winning Appliances Newcastle the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/348.webp
+ alt: 'Australia from WinningAppliancesNewcastle'
 ---
 
 # Winning Appliances Newcastle

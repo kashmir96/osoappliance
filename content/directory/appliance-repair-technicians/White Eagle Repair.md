@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/white-eagle-repair.webp
-    alt: Cover image for White Eagle Repair the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/101.webp
+ alt: 'UnitedKingdom from WhiteEagleRepair'
 ---
 
 # White Eagle Repair

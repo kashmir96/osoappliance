@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/gap-group-ltd.webp
-    alt: Cover image for GAP Group Ltd the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/371.webp
+ alt: 'UnitedKingdom from GAPGroupLtd'
 ---
 
 # GAP Group Ltd

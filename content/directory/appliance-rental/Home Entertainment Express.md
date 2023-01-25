@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/home-entertainment-express.webp
-    alt: Cover image for Home Entertainment Express the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/388.webp
+ alt: 'Australia from HomeEntertainmentExpress'
 ---
 
 # Home Entertainment Express

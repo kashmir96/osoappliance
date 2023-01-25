@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rentacam-sydney.webp
-    alt: Cover image for RENTaCAM Sydney the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/321.webp
+ alt: 'Australia from RENTaCAMSydney'
 ---
 
 # RENTaCAM Sydney

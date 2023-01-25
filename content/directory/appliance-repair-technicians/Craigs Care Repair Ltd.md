@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/craigs-care-repair-ltd.webp
-    alt: Cover image for Craigs Care Repair Ltd the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/38.webp
+ alt: 'UnitedKingdom from CraigsCareRepairLtd'
 ---
 
 # Craigs Care Repair Ltd

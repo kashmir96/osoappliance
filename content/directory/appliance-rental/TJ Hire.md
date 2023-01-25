@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tj-hire.webp
-    alt: Cover image for TJ Hire the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/142.webp
+ alt: 'Australia from TJHire'
 ---
 
 # TJ Hire

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/smart-electronic-tv-repair.webp
-    alt: Cover image for Smart Electronic TV Repair the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/256.webp
+ alt: 'UnitedKingdom from SmartElectronicTVRepair'
 ---
 
 # Smart Electronic TV Repair

@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Palmerston North"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/central-rentals.webp
- alt: 'Logo for Central Rentals the Appliance Rental business from Palmerston North, New Zealand'
+cover:
+ image: /img/laundryappliance/243.webp
+ alt: 'NewZealand from centralrentals'
 ---
 
 Central Rentals is an Appliance Rental business located in Palmerston North, New Zealand. 

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/moving-pictures.webp
-    alt: Cover image for Moving Pictures the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/160.webp
+ alt: 'UnitedKingdom from MovingPictures'
 ---
 
 # Moving Pictures

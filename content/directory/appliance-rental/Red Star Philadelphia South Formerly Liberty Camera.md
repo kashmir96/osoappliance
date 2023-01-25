@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/red-star-philadelphia-south-formerly-liberty-camera.webp
-    alt: Cover image for Red Star Philadelphia South Formerly Liberty Camera the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/276.webp
+ alt: 'UnitedStates from RedStarPhiladelphiaSouthFormerlyLibertyCamera'
 ---
 
 # Red Star Philadelphia South Formerly Liberty Camera

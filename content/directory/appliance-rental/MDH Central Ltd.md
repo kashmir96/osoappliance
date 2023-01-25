@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mdh-central-ltd.webp
-    alt: Cover image for MDH Central Ltd the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/9.webp
+ alt: 'UnitedKingdom from MDHCentralLtd'
 ---
 
 # MDH Central Ltd

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ksingcomau.webp
-    alt: Cover image for Ksingcomau the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/275.webp
+ alt: 'Australia from Ksingcomau'
 ---
 
 # Ksingcomau

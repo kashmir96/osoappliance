@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-s-r-appliance-service-repairs.webp
-    alt: Cover image for A S R Appliance Service Repairs the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/290.webp
+ alt: 'UnitedKingdom from ASRApplianceServiceRepairs'
 ---
 
 # A S R Appliance Service Repairs

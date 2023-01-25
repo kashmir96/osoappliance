@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/elite-appliance-repair-inc.webp
-    alt: Cover image for Elite Appliance Repair Inc the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/108.webp
+ alt: 'UnitedStates from EliteApplianceRepairInc'
 ---
 
 # Elite Appliance Repair Inc

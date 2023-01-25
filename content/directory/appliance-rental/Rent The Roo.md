@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo.webp
-    alt: Cover image for Rent The Roo the Australia based Appliance Rental servicing Geelong 
+ image: /img/laundryappliance/347.webp
+ alt: 'Australia from RentTheRoo'
 ---
 
 # Rent The Roo

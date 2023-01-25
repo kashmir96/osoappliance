@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cort-furniture-rental.webp
-    alt: Cover image for CORT Furniture Rental the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/54.webp
+ alt: 'UnitedKingdom from CORTFurnitureRentalcopy'
 ---
 
 # CORT Furniture Rental

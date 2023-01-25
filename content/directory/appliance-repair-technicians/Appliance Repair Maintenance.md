@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-maintenance.webp
-    alt: Cover image for Appliance Repair Maintenance the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/14.webp
+ alt: 'UnitedStates from ApplianceRepairMaintenance'
 ---
 
 # Appliance Repair Maintenance

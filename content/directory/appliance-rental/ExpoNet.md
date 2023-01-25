@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/exponet.webp
-    alt: Cover image for ExpoNet the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/268.webp
+ alt: 'Australia from ExpoNet'
 ---
 
 # ExpoNet

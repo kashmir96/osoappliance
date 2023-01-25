@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/shiraz-refrigeration.webp
-    alt: Cover image for Shiraz Refrigeration the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/35.webp
+ alt: 'Australia from ShirazRefrigeration'
 ---
 
 # Shiraz Refrigeration

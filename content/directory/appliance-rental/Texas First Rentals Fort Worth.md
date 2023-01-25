@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/texas-first-rentals-fort-worth.webp
-    alt: Cover image for Texas First Rentals Fort Worth the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/108.webp
+ alt: 'UnitedStates from TexasFirstRentalsFortWorth'
 ---
 
 # Texas First Rentals Fort Worth

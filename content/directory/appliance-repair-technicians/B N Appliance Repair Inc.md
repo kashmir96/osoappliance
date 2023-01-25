@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/b-n-appliance-repair-inc.webp
-    alt: Cover image for B N Appliance Repair Inc the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/389.webp
+ alt: 'UnitedStates from BNApplianceRepairInc'
 ---
 
 # B N Appliance Repair Inc

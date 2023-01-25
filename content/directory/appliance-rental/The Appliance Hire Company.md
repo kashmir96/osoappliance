@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-appliance-hire-company.webp
-    alt: Cover image for The Appliance Hire Company the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/321.webp
+ alt: 'UnitedKingdom from TheApplianceHireCompany'
 ---
 
 # The Appliance Hire Company

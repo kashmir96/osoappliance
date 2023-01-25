@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/donald-harris-appliance-repair-services.webp
-    alt: Cover image for donald harris appliance repair services the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/292.webp
+ alt: 'UnitedStates from donaldharrisappliancerepairservices'
 ---
 
 # donald harris appliance repair services

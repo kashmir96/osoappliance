@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/art-appliance.webp
-    alt: Cover image for Art Appliance the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/95.webp
+ alt: 'UnitedStates from ArtAppliance'
 ---
 
 # Art Appliance

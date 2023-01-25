@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cooker-fitters-derby.webp
-    alt: Cover image for Cooker Fitters Derby the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/279.webp
+ alt: 'UnitedKingdom from CookerFittersDerby'
 ---
 
 # Cooker Fitters Derby

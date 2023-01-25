@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/control-heating.webp
-    alt: Cover image for Control Heating the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/173.webp
+ alt: 'UnitedKingdom from ControlHeating'
 ---
 
 # Control Heating

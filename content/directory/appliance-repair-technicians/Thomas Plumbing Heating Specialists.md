@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/thomas-plumbing-heating-specialists.webp
-    alt: Cover image for Thomas Plumbing Heating Specialists the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/228.webp
+ alt: 'UnitedKingdom from ThomasPlumbingHeatingSpecialists'
 ---
 
 # Thomas Plumbing Heating Specialists

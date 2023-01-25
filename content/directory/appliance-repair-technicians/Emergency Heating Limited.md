@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/emergency-heating-limited.webp
-    alt: Cover image for Emergency Heating Limited the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/307.webp
+ alt: 'UnitedKingdom from EmergencyHeatingLimited'
 ---
 
 # Emergency Heating Limited

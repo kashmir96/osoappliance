@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domestic-heroes-ltd.webp
-    alt: Cover image for Domestic Heroes Ltd the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/383.webp
+ alt: 'UnitedKingdom from DomesticHeroesLtd'
 ---
 
 # Domestic Heroes Ltd

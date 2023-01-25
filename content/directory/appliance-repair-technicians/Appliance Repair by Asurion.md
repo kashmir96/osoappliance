@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-by-asurion.webp
-    alt: Cover image for Appliance Repair by Asurion the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/315.webp
+ alt: 'UnitedStates from ApplianceRepairbyAsurion'
 ---
 
 # Appliance Repair by Asurion

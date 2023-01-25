@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent4keeps-hervey-bay-maryborough.webp
-    alt: Cover image for rent4keeps Hervey Bay Maryborough the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/101.webp
+ alt: 'Australia from rent4keepsHerveyBayMaryborough'
 ---
 
 # rent4keeps Hervey Bay Maryborough

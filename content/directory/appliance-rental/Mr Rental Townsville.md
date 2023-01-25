@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-townsville.webp
-    alt: Cover image for Mr Rental Townsville the Australia based Appliance Rental servicing Townsville 
+ image: /img/laundryappliance/33.webp
+ alt: 'Australia from MrRentalTownsville'
 ---
 
 # Mr Rental Townsville

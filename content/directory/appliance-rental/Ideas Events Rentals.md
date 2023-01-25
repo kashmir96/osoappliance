@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ideas-events-rentals.webp
-    alt: Cover image for Ideas Events Rentals the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/337.webp
+ alt: 'UnitedStates from IdeasEventsRentals'
 ---
 
 # Ideas Events Rentals

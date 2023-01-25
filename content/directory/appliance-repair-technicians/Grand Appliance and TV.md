@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/grand-appliance-and-tv.webp
-    alt: Cover image for Grand Appliance and TV the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/107.webp
+ alt: 'UnitedStates from GrandApplianceandTV'
 ---
 
 # Grand Appliance and TV

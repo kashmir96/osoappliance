@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cinemachine.webp
-    alt: Cover image for Cinemachine the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/211.webp
+ alt: 'Australia from Cinemachine'
 ---
 
 # Cinemachine

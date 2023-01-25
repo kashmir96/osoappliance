@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/d-l-property-maintenance.webp
-    alt: Cover image for D L Property Maintenance the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/283.webp
+ alt: 'UnitedKingdom from DLPropertyMaintenance'
 ---
 
 # D L Property Maintenance

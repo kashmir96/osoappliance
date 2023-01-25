@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/m-h-plumbing-and-refrigeration.webp
-    alt: Cover image for M H Plumbing and Refrigeration the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/19.webp
+ alt: 'Australia from MHPlumbingandRefrigeration'
 ---
 
 # M H Plumbing and Refrigeration

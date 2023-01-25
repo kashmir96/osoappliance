@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/lounge-party-rentals.webp
-    alt: Cover image for Lounge Party Rentals the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/89.webp
+ alt: 'UnitedStates from LoungePartyRentals'
 ---
 
 # Lounge Party Rentals

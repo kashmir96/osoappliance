@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lb-quality-appliance-service.webp
-    alt: Cover image for LB Quality Appliance Service the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/44.webp
+ alt: 'UnitedStates from LBQualityApplianceService'
 ---
 
 # LB Quality Appliance Service

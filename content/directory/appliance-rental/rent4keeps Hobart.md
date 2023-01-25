@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent4keeps-hobart.webp
-    alt: Cover image for rent4keeps Hobart the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/141.webp
+ alt: 'Australia from rent4keepsHobart'
 ---
 
 # rent4keeps Hobart

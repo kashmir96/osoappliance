@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/colorbond-tv-rent-service-pty-ltd.webp
-    alt: Cover image for Colorbond TV Rent Service Pty Ltd the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/360.webp
+ alt: 'Australia from ColorbondTVRentServicePtyLtd'
 ---
 
 # Colorbond TV Rent Service Pty Ltd

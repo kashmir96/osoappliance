@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/parts-4-appliances.webp
- alt: 'Logo for Parts 4 Appliances the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/153.webp
+ alt: 'UnitedKingdom from parts4appliances'
 ---
 
 # Parts 4 Appliances is an Appliance Parts Supplier from United Kingdom.

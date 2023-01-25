@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bb-fridge-freezer-rentals.webp
-    alt: Cover image for BB Fridge Freezer Rentals the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/304.webp
+ alt: 'Australia from BBFridgeFreezerRentals'
 ---
 
 # BB Fridge Freezer Rentals

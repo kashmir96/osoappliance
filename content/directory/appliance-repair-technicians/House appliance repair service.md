@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/house-appliance-repair-service.webp
-    alt: Cover image for House appliance repair service the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/75.webp
+ alt: 'UnitedStates from Houseappliancerepairservice'
 ---
 
 # House appliance repair service

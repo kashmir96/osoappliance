@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/alloallo.webp
- alt: 'Logo for AlloAllo the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/89.webp
+ alt: 'NewZealand from alloallo'
 ---
 
 # AlloAllo is an Appliance Parts Supplier from New Zealand.

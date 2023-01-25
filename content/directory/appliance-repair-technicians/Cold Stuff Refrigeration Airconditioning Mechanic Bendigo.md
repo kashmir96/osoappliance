@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cold-stuff-refrigeration-airconditioning-mechanic-bendigo.webp
-    alt: Cover image for Cold Stuff Refrigeration Airconditioning Mechanic Bendigo the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/67.webp
+ alt: 'Australia from ColdStuffRefrigerationAirconditioningMechanicBendigo'
 ---
 
 # Cold Stuff Refrigeration Airconditioning Mechanic Bendigo

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/time-travel-audio.webp
-    alt: Cover image for Time Travel Audio the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/291.webp
+ alt: 'UnitedKingdom from TimeTravelAudio'
 ---
 
 # Time Travel Audio

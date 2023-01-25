@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/edge-plumbing-and-heating.webp
-    alt: Cover image for Edge Plumbing and Heating the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/135.webp
+ alt: 'UnitedKingdom from EdgePlumbingandHeating'
 ---
 
 # Edge Plumbing and Heating

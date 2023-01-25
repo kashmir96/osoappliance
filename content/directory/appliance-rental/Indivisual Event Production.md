@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/indivisual-event-production.webp
-    alt: Cover image for Indivisual Event Production the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/212.webp
+ alt: 'Australia from IndivisualEventProduction'
 ---
 
 # Indivisual Event Production

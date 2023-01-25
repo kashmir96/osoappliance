@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gantt-appliance-services-inc.webp
-    alt: Cover image for Gantt Appliance Services Inc the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/144.webp
+ alt: 'UnitedStates from GanttApplianceServicesInc'
 ---
 
 # Gantt Appliance Services Inc

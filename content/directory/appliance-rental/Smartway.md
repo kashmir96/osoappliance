@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/smartway.webp
-    alt: Cover image for Smartway the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/218.webp
+ alt: 'UnitedStates from Smartway'
 ---
 
 # Smartway

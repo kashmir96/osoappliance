@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sirena-photo-booth-rentals.webp
-    alt: Cover image for Sirena Photo Booth Rentals the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/10.webp
+ alt: 'UnitedStates from SirenaPhotoBoothRentals'
 ---
 
 # Sirena Photo Booth Rentals

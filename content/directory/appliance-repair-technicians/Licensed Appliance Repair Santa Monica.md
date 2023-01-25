@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/licensed-appliance-repair-santa-monica.webp
-    alt: Cover image for Licensed Appliance Repair Santa Monica the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/125.webp
+ alt: 'UnitedStates from LicensedApplianceRepairSantaMonica'
 ---
 
 # Licensed Appliance Repair Santa Monica

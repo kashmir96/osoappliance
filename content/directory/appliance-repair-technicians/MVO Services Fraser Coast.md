@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mvo-services-fraser-coast.webp
-    alt: Cover image for MVO Services Fraser Coast the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/142.webp
+ alt: 'Australia from MVOServicesFraserCoast'
 ---
 
 # MVO Services Fraser Coast

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/elegant-creations.webp
-    alt: Cover image for Elegant Creations the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/124.webp
+ alt: 'UnitedStates from ElegantCreations'
 ---
 
 # Elegant Creations

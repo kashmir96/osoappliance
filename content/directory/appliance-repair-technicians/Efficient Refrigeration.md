@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/efficient-refrigeration.webp
-    alt: Cover image for Efficient Refrigeration the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/245.webp
+ alt: 'Australia from EfficientRefrigeration'
 ---
 
 # Efficient Refrigeration

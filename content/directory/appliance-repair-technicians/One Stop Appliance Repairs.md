@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/one-stop-appliance-repairs.webp
-    alt: Cover image for One Stop Appliance Repairs the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/131.webp
+ alt: 'UnitedStates from OneStopApplianceRepairs'
 ---
 
 # One Stop Appliance Repairs

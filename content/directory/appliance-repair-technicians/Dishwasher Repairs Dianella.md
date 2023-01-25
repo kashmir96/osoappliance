@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dishwasher-repairs-dianella.webp
-    alt: Cover image for Dishwasher Repairs Dianella the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/316.webp
+ alt: 'Australia from DishwasherRepairsDianella'
 ---
 
 # Dishwasher Repairs Dianella

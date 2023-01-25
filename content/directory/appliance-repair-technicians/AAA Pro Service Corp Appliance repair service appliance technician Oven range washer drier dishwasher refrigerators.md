@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aaa-pro-service-corp-appliance-repair-service-appliance-technician-oven-range-washer-drier-dishwasher-refrigerators.webp
-    alt: Cover image for AAA Pro Service Corp Appliance repair service appliance technician Oven range washer drier dishwasher refrigerators the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/235.webp
+ alt: 'UnitedStates from AAAProServiceCorpAppliancerepairserviceappliancetechnicianOvenrangewasherdrierdishwasherrefrigerators'
 ---
 
 # AAA Pro Service Corp Appliance repair service appliance technician Oven range washer drier dishwasher refrigerators

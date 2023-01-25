@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/big-jons-used-appliances.webp
-    alt: Cover image for Big Jons Used Appliances the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/110.webp
+ alt: 'UnitedStates from BigJonsUsedAppliances'
 ---
 
 # Big Jons Used Appliances

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/albion-appliance-service.webp
-    alt: Cover image for Albion Appliance Service the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/60.webp
+ alt: 'Australia from AlbionApplianceService'
 ---
 
 # Albion Appliance Service

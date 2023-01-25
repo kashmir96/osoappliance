@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/timaru-radiators.webp
- alt: 'Logo for Timaru Radiators the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/47.webp
+ alt: 'NewZealand from timaruradiators'
 ---
 
 # Timaru Radiators is an Appliance Repair Technician Company operating in Timaru, New Zealand.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/canberra-hire.webp
-    alt: Cover image for Canberra Hire the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/125.webp
+ alt: 'Australia from CanberraHire'
 ---
 
 # Canberra Hire

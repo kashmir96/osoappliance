@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repairs-cairns.webp
-    alt: Cover image for Appliance Repairs Cairns the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/176.webp
+ alt: 'Australia from ApplianceRepairsCairns'
 ---
 
 # Appliance Repairs Cairns

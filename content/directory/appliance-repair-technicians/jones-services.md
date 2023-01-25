@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/jones-services.webp
- alt: 'Logo for Jones Services the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/158.webp
+ alt: 'NewZealand from jonesservices'
 ---
 
 # Jones Services is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

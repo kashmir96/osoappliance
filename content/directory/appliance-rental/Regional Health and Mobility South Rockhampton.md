@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/regional-health-and-mobility-south-rockhampton.webp
-    alt: Cover image for Regional Health and Mobility South Rockhampton the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/67.webp
+ alt: 'Australia from RegionalHealthandMobilitySouthRockhampton'
 ---
 
 # Regional Health and Mobility South Rockhampton

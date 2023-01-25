@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sd-appliance-repairs.webp
-    alt: Cover image for SD Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/3.webp
+ alt: 'UnitedKingdom from SDApplianceRepairs'
 ---
 
 # SD Appliance Repairs

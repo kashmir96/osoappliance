@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/yes-appliance-repair-service-dallas-tx.webp
-    alt: Cover image for Yes Appliance Repair Service Dallas TX the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/381.webp
+ alt: 'UnitedStates from YesApplianceRepairServiceDallasTX'
 ---
 
 # Yes Appliance Repair Service Dallas TX

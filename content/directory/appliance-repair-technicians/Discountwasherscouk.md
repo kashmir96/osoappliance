@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/discountwasherscouk.webp
-    alt: Cover image for Discountwasherscouk the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/14.webp
+ alt: 'UnitedKingdom from Discountwasherscouk'
 ---
 
 # Discountwasherscouk

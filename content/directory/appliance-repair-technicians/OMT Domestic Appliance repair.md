@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/omt-domestic-appliance-repair.webp
-    alt: Cover image for OMT Domestic Appliance repair the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/223.webp
+ alt: 'UnitedKingdom from OMTDomesticAppliancerepair'
 ---
 
 # OMT Domestic Appliance repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/inhabitr-phoenix-furniture-rental.webp
-    alt: Cover image for Inhabitr Phoenix Furniture Rental the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/6.webp
+ alt: 'UnitedStates from InhabitrPhoenixFurnitureRental'
 ---
 
 # Inhabitr Phoenix Furniture Rental

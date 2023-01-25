@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ideal-refrigeration-appliance-services.webp
-    alt: Cover image for Ideal Refrigeration Appliance Services the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/194.webp
+ alt: 'Australia from IdealRefrigerationApplianceServices'
 ---
 
 # Ideal Refrigeration Appliance Services

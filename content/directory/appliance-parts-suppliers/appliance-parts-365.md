@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/appliance-parts-365.webp
- alt: 'Logo for Appliance Parts 365 the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/49.webp
+ alt: 'Canada from applianceparts365'
 ---
 
 # Appliance Parts 365 is an Appliance Parts Supplier from Canada.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/wonder-event-rentals.webp
-    alt: Cover image for Wonder Event Rentals the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/271.webp
+ alt: 'UnitedStates from WonderEventRentals'
 ---
 
 # Wonder Event Rentals

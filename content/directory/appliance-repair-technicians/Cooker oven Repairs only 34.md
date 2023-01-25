@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cooker-oven-repairs-only-34.webp
-    alt: Cover image for Cooker oven Repairs only 34 the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/53.webp
+ alt: 'UnitedKingdom from CookerovenRepairsonly34'
 ---
 
 # Cooker oven Repairs only 34

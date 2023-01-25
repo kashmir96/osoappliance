@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/best-thermador-repair-service.webp
-    alt: Cover image for Best Thermador repair service the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/255.webp
+ alt: 'UnitedStates from BestThermadorrepairservice'
 ---
 
 # Best Thermador repair service

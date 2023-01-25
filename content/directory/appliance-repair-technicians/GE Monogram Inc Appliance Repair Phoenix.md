@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ge-monogram-inc-appliance-repair-phoenix.webp
-    alt: Cover image for GE Monogram Inc Appliance Repair Phoenix the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/302.webp
+ alt: 'UnitedStates from GEMonogramIncApplianceRepairPhoenix'
 ---
 
 # GE Monogram Inc Appliance Repair Phoenix

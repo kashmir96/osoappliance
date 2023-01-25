@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ghd-repairs-dundonald.webp
-    alt: Cover image for GHD Repairs Dundonald the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/227.webp
+ alt: 'UnitedKingdom from GHDRepairsDundonald'
 ---
 
 # GHD Repairs Dundonald

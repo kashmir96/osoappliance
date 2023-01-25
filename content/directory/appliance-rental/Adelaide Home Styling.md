@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/adelaide-home-styling.webp
-    alt: Cover image for Adelaide Home Styling the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/350.webp
+ alt: 'Australia from AdelaideHomeStyling'
 ---
 
 # Adelaide Home Styling

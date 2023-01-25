@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washing-machine-repairs.webp
-    alt: Cover image for Washing Machine Repairs the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/269.webp
+ alt: 'Australia from WashingMachineRepairs'
 ---
 
 # Washing Machine Repairs

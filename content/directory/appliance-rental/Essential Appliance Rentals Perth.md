@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/essential-appliance-rentals-perth.webp
-    alt: Cover image for Essential Appliance Rentals Perth the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/24.webp
+ alt: 'Australia from EssentialApplianceRentalsPerth'
 ---
 
 # Essential Appliance Rentals Perth

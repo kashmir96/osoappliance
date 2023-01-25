@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bradmark-appliance-service.webp
-    alt: Cover image for Bradmark Appliance Service the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/34.webp
+ alt: 'Australia from BradmarkApplianceService'
 ---
 
 # Bradmark Appliance Service

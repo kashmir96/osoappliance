@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/barton-electrical-services.webp
-    alt: Cover image for Barton Electrical Services the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/347.webp
+ alt: 'UnitedKingdom from BartonElectricalServices'
 ---
 
 # Barton Electrical Services

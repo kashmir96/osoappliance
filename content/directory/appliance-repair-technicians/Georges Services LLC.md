@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/georges-services-llc.webp
-    alt: Cover image for Georges Services LLC the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/10.webp
+ alt: 'UnitedStates from GeorgesServicesLLC'
 ---
 
 # Georges Services LLC

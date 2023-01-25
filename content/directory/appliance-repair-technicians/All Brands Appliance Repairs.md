@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-brands-appliance-repairs.webp
-    alt: Cover image for All Brands Appliance Repairs the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/140.webp
+ alt: 'Australia from AllBrandsApplianceRepairs'
 ---
 
 # All Brands Appliance Repairs

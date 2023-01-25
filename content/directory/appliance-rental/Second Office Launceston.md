@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/second-office-launceston.webp
-    alt: Cover image for Second Office Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/111.webp
+ alt: 'Australia from SecondOfficeLaunceston'
 ---
 
 # Second Office Launceston

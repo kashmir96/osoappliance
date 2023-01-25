@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/alan-godrich.webp
-    alt: Cover image for Alan Godrich the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/265.webp
+ alt: 'UnitedKingdom from AlanGodrich'
 ---
 
 # Alan Godrich

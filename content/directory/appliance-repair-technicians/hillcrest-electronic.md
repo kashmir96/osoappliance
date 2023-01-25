@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Rotorua"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/hillcrest-electronic.webp
- alt: 'Logo for Hillcrest Electronic the New Zealand from Rotorua'
+cover:
+ image: /img/laundryappliance/285.webp
+ alt: 'NewZealand from hillcrestelectronic'
 ---
 
 # Hillcrest Electronic is an Appliance Repair Technician Company operating in Rotorua, New Zealand.

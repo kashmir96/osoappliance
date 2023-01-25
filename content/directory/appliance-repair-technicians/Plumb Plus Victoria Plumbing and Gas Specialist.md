@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumb-plus-victoria-plumbing-and-gas-specialist.webp
-    alt: Cover image for Plumb Plus Victoria Plumbing and Gas Specialist the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/209.webp
+ alt: 'Australia from PlumbPlusVictoriaPlumbingandGasSpecialist'
 ---
 
 # Plumb Plus Victoria Plumbing and Gas Specialist

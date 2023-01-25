@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/summerton-plumbing.webp
-    alt: Cover image for Summerton Plumbing the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/350.webp
+ alt: 'Australia from SummertonPlumbing'
 ---
 
 # Summerton Plumbing

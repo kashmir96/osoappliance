@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/electrical-and-air-conditioning-services-pty-ltd.webp
-    alt: Cover image for Electrical and Air Conditioning Services Pty Ltd the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/386.webp
+ alt: 'Australia from ElectricalandAirConditioningServicesPtyLtd'
 ---
 
 # Electrical and Air Conditioning Services Pty Ltd

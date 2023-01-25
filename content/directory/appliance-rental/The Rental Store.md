@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-rental-store.webp
-    alt: Cover image for The Rental Store the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/50.webp
+ alt: 'Australia from TheRentalStore'
 ---
 
 # The Rental Store

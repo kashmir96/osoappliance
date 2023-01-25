@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/joeys-appliance-services.webp
-    alt: Cover image for Joeys Appliance Services the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/107.webp
+ alt: 'Australia from JoeysApplianceServices'
 ---
 
 # Joeys Appliance Services

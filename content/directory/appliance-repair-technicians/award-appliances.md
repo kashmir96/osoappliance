@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/award-appliances.webp
- alt: 'Logo for Award Appliances the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/82.webp
+ alt: 'NewZealand from awardappliances'
 ---
 
 # Award Appliances is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

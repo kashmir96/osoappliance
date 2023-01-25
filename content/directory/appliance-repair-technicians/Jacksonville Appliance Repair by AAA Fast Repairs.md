@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jacksonville-appliance-repair-by-aaa-fast-repairs.webp
-    alt: Cover image for Jacksonville Appliance Repair by AAA Fast Repairs the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/184.webp
+ alt: 'UnitedStates from JacksonvilleApplianceRepairbyAAAFastRepairs'
 ---
 
 # Jacksonville Appliance Repair by AAA Fast Repairs

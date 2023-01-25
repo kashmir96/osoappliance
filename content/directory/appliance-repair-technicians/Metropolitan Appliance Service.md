@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/metropolitan-appliance-service.webp
-    alt: Cover image for Metropolitan Appliance Service the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/140.webp
+ alt: 'Australia from MetropolitanApplianceService'
 ---
 
 # Metropolitan Appliance Service

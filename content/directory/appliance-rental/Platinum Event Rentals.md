@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/platinum-event-rentals.webp
-    alt: Cover image for Platinum Event Rentals the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/31.webp
+ alt: 'UnitedStates from PlatinumEventRentals'
 ---
 
 # Platinum Event Rentals

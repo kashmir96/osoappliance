@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/1300-meteor-rentals-cairns.webp
-    alt: Cover image for 1300 Meteor Rentals Cairns the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/216.webp
+ alt: 'Australia from 1300MeteorRentalsCairns'
 ---
 
 # 1300 Meteor Rentals Cairns

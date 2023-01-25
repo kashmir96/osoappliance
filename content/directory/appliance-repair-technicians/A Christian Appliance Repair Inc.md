@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-christian-appliance-repair-inc.webp
-    alt: Cover image for A Christian Appliance Repair Inc the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/227.webp
+ alt: 'UnitedStates from AChristianApplianceRepairInc'
 ---
 
 # A Christian Appliance Repair Inc

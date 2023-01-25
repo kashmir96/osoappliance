@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/florance-electrical.webp
-    alt: Cover image for Florance Electrical the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/293.webp
+ alt: 'Australia from FloranceElectrical'
 ---
 
 # Florance Electrical

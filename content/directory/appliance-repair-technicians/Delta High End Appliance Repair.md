@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/delta-high-end-appliance-repair.webp
-    alt: Cover image for Delta High End Appliance Repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/61.webp
+ alt: 'UnitedStates from DeltaHighEndApplianceRepair'
 ---
 
 # Delta High End Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nisiusa-tv-appliance-service.webp
-    alt: Cover image for NISIUSA TV Appliance Service the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/186.webp
+ alt: 'UnitedStates from NISIUSATVApplianceService'
 ---
 
 # NISIUSA TV Appliance Service

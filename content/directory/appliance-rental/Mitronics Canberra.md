@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mitronics-canberra.webp
-    alt: Cover image for Mitronics Canberra the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/228.webp
+ alt: 'Australia from MitronicsCanberra'
 ---
 
 # Mitronics Canberra

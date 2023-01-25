@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/elite-appliances-repairs.webp
-    alt: Cover image for Elite Appliances Repairs the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/125.webp
+ alt: 'UnitedStates from EliteAppliancesRepairs'
 ---
 
 # Elite Appliances Repairs

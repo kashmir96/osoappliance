@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bay-area-lighting-and-sound-rental-services.webp
-    alt: Cover image for Bay Area Lighting and Sound Rental Services the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/230.webp
+ alt: 'UnitedStates from BayAreaLightingandSoundRentalServices'
 ---
 
 # Bay Area Lighting and Sound Rental Services

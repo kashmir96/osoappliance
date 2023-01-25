@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/moston-lane-appliances.webp
-    alt: Cover image for Moston Lane Appliances the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/11.webp
+ alt: 'UnitedKingdom from MostonLaneAppliances'
 ---
 
 # Moston Lane Appliances

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/genesis-automotive-services.webp
-    alt: Cover image for Genesis Automotive Services the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/62.webp
+ alt: 'Australia from GenesisAutomotiveServices'
 ---
 
 # Genesis Automotive Services

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-lincoln-park.webp
-    alt: Cover image for Mr Appliance of Lincoln Park the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/21.webp
+ alt: 'UnitedStates from MrApplianceofLincolnPark'
 ---
 
 # Mr Appliance of Lincoln Park

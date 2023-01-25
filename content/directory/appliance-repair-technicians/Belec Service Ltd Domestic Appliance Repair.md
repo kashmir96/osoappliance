@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/belec-service-ltd-domestic-appliance-repair.webp
-    alt: Cover image for Belec Service Ltd Domestic Appliance Repair the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/122.webp
+ alt: 'UnitedKingdom from BelecServiceLtdDomesticApplianceRepair'
 ---
 
 # Belec Service Ltd Domestic Appliance Repair

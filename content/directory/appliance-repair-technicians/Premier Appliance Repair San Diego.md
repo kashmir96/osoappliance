@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/premier-appliance-repair-san-diego.webp
-    alt: Cover image for Premier Appliance Repair San Diego the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/80.webp
+ alt: 'UnitedStates from PremierApplianceRepairSanDiego'
 ---
 
 # Premier Appliance Repair San Diego

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/combination-gas-heating-and-plumbing.webp
-    alt: Cover image for CombiNation Gas Heating and Plumbing the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/44.webp
+ alt: 'UnitedKingdom from CombiNationGasHeatingandPlumbing'
 ---
 
 # CombiNation Gas Heating and Plumbing

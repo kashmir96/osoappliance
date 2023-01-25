@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/yaoota.webp
- alt: 'Logo for Yaoota the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/191.webp
+ alt: 'Nigeria from yaoota'
 ---
 
 # Yaoota is an Appliance Parts Supplier from Nigeria.

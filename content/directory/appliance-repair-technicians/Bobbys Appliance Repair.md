@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bobbys-appliance-repair.webp
-    alt: Cover image for Bobbys Appliance Repair the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/36.webp
+ alt: 'UnitedStates from BobbysApplianceRepair'
 ---
 
 # Bobbys Appliance Repair

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/northern-air-repair.webp
-    alt: Cover image for Northern Air Repair the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/121.webp
+ alt: 'Australia from NorthernAirRepair'
 ---
 
 # Northern Air Repair

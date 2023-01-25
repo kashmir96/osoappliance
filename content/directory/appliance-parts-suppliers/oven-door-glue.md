@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/oven-door-glue.webp
- alt: 'Logo for Oven Door Glue the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/168.webp
+ alt: 'UnitedKingdom from ovendoorglue'
 ---
 
 # Oven Door Glue is an Appliance Parts Supplier from United Kingdom.

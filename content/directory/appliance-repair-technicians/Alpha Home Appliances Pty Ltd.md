@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/alpha-home-appliances-pty-ltd.webp
-    alt: Cover image for Alpha Home Appliances Pty Ltd the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/155.webp
+ alt: 'Australia from AlphaHomeAppliancesPtyLtd'
 ---
 
 # Alpha Home Appliances Pty Ltd

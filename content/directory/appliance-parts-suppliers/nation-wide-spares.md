@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/nation-wide-spares.webp
- alt: 'Logo for Nation Wide Spares the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/91.webp
+ alt: 'Australia from nationwidespares'
 ---
 
 # Nation Wide Spares is an Appliance Parts Supplier from Australia.

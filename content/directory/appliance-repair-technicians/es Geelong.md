@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/es-geelong.webp
-    alt: Cover image for es Geelong the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/70.webp
+ alt: 'Australia from esGeelong'
 ---
 
 # es Geelong

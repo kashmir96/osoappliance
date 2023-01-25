@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/infinity-appliances.webp
-    alt: Cover image for Infinity Appliances the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/153.webp
+ alt: 'UnitedStates from InfinityAppliances'
 ---
 
 # Infinity Appliances

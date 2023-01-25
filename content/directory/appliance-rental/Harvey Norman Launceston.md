@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/harvey-norman-launceston.webp
-    alt: Cover image for Harvey Norman Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/156.webp
+ alt: 'Australia from HarveyNormanLaunceston'
 ---
 
 # Harvey Norman Launceston

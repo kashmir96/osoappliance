@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/masters4u-hvac-appliance-repair-service.webp
-    alt: Cover image for Masters4u HVAC appliance repair service the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/69.webp
+ alt: 'UnitedStates from Masters4uHVACappliancerepairservice'
 ---
 
 # Masters4u HVAC appliance repair service

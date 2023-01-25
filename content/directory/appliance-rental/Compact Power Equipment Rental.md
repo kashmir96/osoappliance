@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/compact-power-equipment-rental.webp
-    alt: Cover image for Compact Power Equipment Rental the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/400.webp
+ alt: 'UnitedStates from CompactPowerEquipmentRental'
 ---
 
 # Compact Power Equipment Rental

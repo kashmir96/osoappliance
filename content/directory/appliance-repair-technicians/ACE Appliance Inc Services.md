@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ace-appliance-inc-services.webp
-    alt: Cover image for ACE Appliance Inc Services the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/139.webp
+ alt: 'UnitedStates from ACEApplianceIncServices'
 ---
 
 # ACE Appliance Inc Services

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sound-house-tasmania-pty-ltd.webp
-    alt: Cover image for Sound House Tasmania Pty Ltd the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/351.webp
+ alt: 'Australia from SoundHouseTasmaniaPtyLtd'
 ---
 
 # Sound House Tasmania Pty Ltd

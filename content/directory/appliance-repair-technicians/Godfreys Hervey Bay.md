@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/godfreys-hervey-bay.webp
-    alt: Cover image for Godfreys Hervey Bay the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/152.webp
+ alt: 'Australia from GodfreysHerveyBay'
 ---
 
 # Godfreys Hervey Bay

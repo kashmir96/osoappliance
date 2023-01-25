@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fridge-service-company-london.webp
-    alt: Cover image for Fridge Service Company London the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/104.webp
+ alt: 'UnitedKingdom from FridgeServiceCompanyLondon'
 ---
 
 # Fridge Service Company London

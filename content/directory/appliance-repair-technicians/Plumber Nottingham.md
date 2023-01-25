@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumber-nottingham.webp
-    alt: Cover image for Plumber Nottingham the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/109.webp
+ alt: 'UnitedKingdom from PlumberNottingham'
 ---
 
 # Plumber Nottingham

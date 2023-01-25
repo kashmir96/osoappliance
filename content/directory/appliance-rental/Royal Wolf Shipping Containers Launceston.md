@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/royal-wolf-shipping-containers-launceston.webp
-    alt: Cover image for Royal Wolf Shipping Containers Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/374.webp
+ alt: 'Australia from RoyalWolfShippingContainersLaunceston'
 ---
 
 # Royal Wolf Shipping Containers Launceston

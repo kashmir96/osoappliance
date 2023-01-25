@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mikes-appliance-service.webp
-    alt: Cover image for Mikes Appliance Service the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/205.webp
+ alt: 'UnitedStates from MikesApplianceService'
 ---
 
 # Mikes Appliance Service

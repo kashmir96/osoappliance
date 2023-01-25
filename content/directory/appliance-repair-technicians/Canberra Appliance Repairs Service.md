@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/canberra-appliance-repairs-service.webp
-    alt: Cover image for Canberra Appliance Repairs Service the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/255.webp
+ alt: 'Australia from CanberraApplianceRepairsService'
 ---
 
 # Canberra Appliance Repairs Service

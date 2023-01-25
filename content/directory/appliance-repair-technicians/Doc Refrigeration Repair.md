@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/doc-refrigeration-repair.webp
-    alt: Cover image for Doc Refrigeration Repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/163.webp
+ alt: 'UnitedStates from DocRefrigerationRepair'
 ---
 
 # Doc Refrigeration Repair

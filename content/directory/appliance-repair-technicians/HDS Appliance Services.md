@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hds-appliance-services.webp
-    alt: Cover image for HDS Appliance Services the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/2.webp
+ alt: 'UnitedKingdom from HDSApplianceServices'
 ---
 
 # HDS Appliance Services

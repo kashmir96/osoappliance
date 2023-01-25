@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/corp-rentals.webp
- alt: 'Logo for Corp Rentals the Appliance Rental business from Auckland, New Zealand'
+cover:
+ image: /img/laundryappliance/232.webp
+ alt: 'NewZealand from corprentals'
 ---
 
 Corp Rentals is an Appliance Rental business located in Auckland, New Zealand. 

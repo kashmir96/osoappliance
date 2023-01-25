@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bondi-pa-hire.webp
-    alt: Cover image for Bondi PA Hire the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/9.webp
+ alt: 'Australia from BondiPAHire'
 ---
 
 # Bondi PA Hire

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a1-gas-and-electric-cooker-repairs.webp
-    alt: Cover image for A1 Gas and Electric Cooker Repairs the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/24.webp
+ alt: 'UnitedKingdom from A1GasandElectricCookerRepairs'
 ---
 
 # A1 Gas and Electric Cooker Repairs

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/new-line-appliance-repair.webp
-    alt: Cover image for New Line Appliance Repair the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/109.webp
+ alt: 'UnitedStates from NewLineApplianceRepair'
 ---
 
 # New Line Appliance Repair

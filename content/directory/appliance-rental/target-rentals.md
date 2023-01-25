@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Palmerston North"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/target-rentals.webp
- alt: 'Logo for Target Rentals the Appliance Rental business from Palmerston North, New Zealand'
+cover:
+ image: /img/laundryappliance/110.webp
+ alt: 'NewZealand from targetrentals'
 ---
 
 Target Rentals is an Appliance Rental business located in Palmerston North, New Zealand. 

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/snomaster-australia.webp
-    alt: Cover image for SnoMaster Australia the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/289.webp
+ alt: 'Australia from SnoMasterAustralia'
 ---
 
 # SnoMaster Australia

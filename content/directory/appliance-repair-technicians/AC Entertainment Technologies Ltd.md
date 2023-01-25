@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ac-entertainment-technologies-ltd.webp
-    alt: Cover image for AC Entertainment Technologies Ltd the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/338.webp
+ alt: 'UnitedKingdom from ACEntertainmentTechnologiesLtd'
 ---
 
 # AC Entertainment Technologies Ltd

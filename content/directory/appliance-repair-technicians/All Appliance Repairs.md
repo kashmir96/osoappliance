@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-appliance-repairs.webp
-    alt: Cover image for All Appliance Repairs the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/214.webp
+ alt: 'Australia from AllApplianceRepairs'
 ---
 
 # All Appliance Repairs

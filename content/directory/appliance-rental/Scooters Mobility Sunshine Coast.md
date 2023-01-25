@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/scooters-mobility-sunshine-coast.webp
-    alt: Cover image for Scooters Mobility Sunshine Coast the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/278.webp
+ alt: 'Australia from ScootersMobilitySunshineCoast'
 ---
 
 # Scooters Mobility Sunshine Coast

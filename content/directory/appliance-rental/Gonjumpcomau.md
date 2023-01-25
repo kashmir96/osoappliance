@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/gonjumpcomau.webp
-    alt: Cover image for Gonjumpcomau the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/58.webp
+ alt: 'Australia from Gonjumpcomau'
 ---
 
 # Gonjumpcomau

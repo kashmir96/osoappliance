@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gcp-grant-chugg-plumbing-services.webp
-    alt: Cover image for GCP Grant Chugg Plumbing Services the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/307.webp
+ alt: 'Australia from GCPGrantChuggPlumbingServices'
 ---
 
 # GCP Grant Chugg Plumbing Services

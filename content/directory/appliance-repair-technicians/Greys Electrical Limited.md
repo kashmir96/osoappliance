@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/greys-electrical-limited.webp
-    alt: Cover image for Greys Electrical Limited the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/21.webp
+ alt: 'UnitedKingdom from GreysElectricalLimited'
 ---
 
 # Greys Electrical Limited

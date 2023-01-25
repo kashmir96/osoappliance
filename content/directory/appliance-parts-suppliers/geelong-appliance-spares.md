@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/geelong-appliance-spares.webp
- alt: 'Logo for Geelong Appliance Spares the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/93.webp
+ alt: 'Australia from geelongappliancespares'
 ---
 
 # Geelong Appliance Spares is an Appliance Parts Supplier from Australia.

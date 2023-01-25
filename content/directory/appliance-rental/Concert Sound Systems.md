@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/concert-sound-systems.webp
-    alt: Cover image for Concert Sound Systems the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/185.webp
+ alt: 'UnitedStates from ConcertSoundSystems'
 ---
 
 # Concert Sound Systems

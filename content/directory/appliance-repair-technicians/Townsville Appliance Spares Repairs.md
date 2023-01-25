@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/townsville-appliance-spares-repairs.webp
-    alt: Cover image for Townsville Appliance Spares Repairs the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/250.webp
+ alt: 'Australia from TownsvilleApplianceSparesRepairs'
 ---
 
 # Townsville Appliance Spares Repairs

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/thompsons-appliance-service.webp
-    alt: Cover image for Thompsons Appliance Service the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/368.webp
+ alt: 'UnitedStates from ThompsonsApplianceService'
 ---
 
 # Thompsons Appliance Service

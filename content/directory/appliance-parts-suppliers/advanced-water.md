@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/advanced-water.webp
- alt: 'Logo for Advanced Water the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/12.webp
+ alt: 'UnitedKingdom from advancedwater'
 ---
 
 # Advanced Water is an Appliance Parts Supplier from United Kingdom.

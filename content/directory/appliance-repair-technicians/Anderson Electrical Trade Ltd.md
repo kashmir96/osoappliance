@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/anderson-electrical-trade-ltd.webp
-    alt: Cover image for Anderson Electrical Trade Ltd the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/384.webp
+ alt: 'UnitedKingdom from AndersonElectricalTradeLtd'
 ---
 
 # Anderson Electrical Trade Ltd

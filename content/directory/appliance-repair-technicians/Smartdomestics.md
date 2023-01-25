@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/smartdomestics.webp
-    alt: Cover image for Smartdomestics the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/31.webp
+ alt: 'UnitedKingdom from Smartdomestics'
 ---
 
 # Smartdomestics

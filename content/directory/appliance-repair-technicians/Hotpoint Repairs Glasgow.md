@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hotpoint-repairs-glasgow.webp
-    alt: Cover image for Hotpoint Repairs Glasgow the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/3.webp
+ alt: 'UnitedKingdom from HotpointRepairsGlasgow'
 ---
 
 # Hotpoint Repairs Glasgow

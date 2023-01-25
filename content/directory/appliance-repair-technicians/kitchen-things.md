@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/kitchen-things.webp
- alt: 'Logo for Kitchen Things the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/163.webp
+ alt: 'NewZealand from kitchenthings'
 ---
 
 # Kitchen Things is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

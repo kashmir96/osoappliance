@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/guaranteed-parts.webp
- alt: 'Logo for Guaranteed Parts the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/116.webp
+ alt: 'Canada from guaranteedparts'
 ---
 
 # Guaranteed Parts is an Appliance Parts Supplier from Canada.

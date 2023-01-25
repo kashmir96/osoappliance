@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sj-appliance-servicing-limited.webp
-    alt: Cover image for SJ Appliance Servicing Limited the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/66.webp
+ alt: 'UnitedKingdom from SJApplianceServicingLimited'
 ---
 
 # SJ Appliance Servicing Limited

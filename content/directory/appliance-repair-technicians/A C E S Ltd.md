@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-c-e-s-ltd.webp
-    alt: Cover image for A C E S Ltd the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/26.webp
+ alt: 'UnitedKingdom from ACESLtd'
 ---
 
 # A C E S Ltd

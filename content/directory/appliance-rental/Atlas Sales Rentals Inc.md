@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/atlas-sales-rentals-inc.webp
-    alt: Cover image for Atlas Sales Rentals Inc the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/387.webp
+ alt: 'UnitedStates from AtlasSalesRentalsInc'
 ---
 
 # Atlas Sales Rentals Inc

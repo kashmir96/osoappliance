@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/asap-appliance-service.webp
-    alt: Cover image for ASAP Appliance Service the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/181.webp
+ alt: 'UnitedStates from ASAPApplianceService'
 ---
 
 # ASAP Appliance Service

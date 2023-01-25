@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/fix-part.webp
- alt: 'Logo for Fix Part the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/62.webp
+ alt: 'UnitedKingdom from fixpart'
 ---
 
 # Fix Part is an Appliance Parts Supplier from United Kingdom.

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/best-value-appliances.webp
-    alt: Cover image for Best Value Appliances the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/227.webp
+ alt: 'UnitedKingdom from BestValueAppliances'
 ---
 
 # Best Value Appliances

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/global-hire-and-services.webp
-    alt: Cover image for Global Hire and Services the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/78.webp
+ alt: 'Australia from GlobalHireandServices'
 ---
 
 # Global Hire and Services

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/wowfactors-event-furniture-decor.webp
-    alt: Cover image for WowFactors Event Furniture Decor the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/210.webp
+ alt: 'UnitedStates from WowFactorsEventFurnitureDecor'
 ---
 
 # WowFactors Event Furniture Decor

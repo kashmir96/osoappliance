@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jlm-plumbing-heating-repairs.webp
-    alt: Cover image for Jlm plumbing heating repairs the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/140.webp
+ alt: 'UnitedKingdom from Jlmplumbingheatingrepairs'
 ---
 
 # Jlm plumbing heating repairs

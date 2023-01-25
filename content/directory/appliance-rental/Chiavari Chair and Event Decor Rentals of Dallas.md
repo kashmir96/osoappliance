@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/chiavari-chair-and-event-decor-rentals-of-dallas.webp
-    alt: Cover image for Chiavari Chair and Event Decor Rentals of Dallas the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/42.webp
+ alt: 'UnitedStates from ChiavariChairandEventDecorRentalsofDallas'
 ---
 
 # Chiavari Chair and Event Decor Rentals of Dallas

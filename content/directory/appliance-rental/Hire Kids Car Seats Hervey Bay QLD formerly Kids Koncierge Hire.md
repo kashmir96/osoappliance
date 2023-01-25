@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hire-kids-car-seats-hervey-bay-qld-formerly-kids-koncierge-hire.webp
-    alt: Cover image for Hire Kids Car Seats Hervey Bay QLD formerly Kids Koncierge Hire the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/180.webp
+ alt: 'Australia from HireKidsCarSeatsHerveyBayQLDformerlyKidsKonciergeHire'
 ---
 
 # Hire Kids Car Seats Hervey Bay QLD formerly Kids Koncierge Hire

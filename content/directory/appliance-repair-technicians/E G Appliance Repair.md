@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/e-g-appliance-repair.webp
-    alt: Cover image for E G Appliance Repair the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/357.webp
+ alt: 'UnitedStates from EGApplianceRepair'
 ---
 
 # E G Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fuse-hvac-refrigeration-electrical.webp
-    alt: Cover image for Fuse HVAC Refrigeration Electrical the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/370.webp
+ alt: 'UnitedStates from FuseHVACRefrigerationElectrical'
 ---
 
 # Fuse HVAC Refrigeration Electrical

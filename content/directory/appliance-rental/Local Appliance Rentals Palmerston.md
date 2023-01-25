@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/local-appliance-rentals-palmerston.webp
-    alt: Cover image for Local Appliance Rentals Palmerston the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/103.webp
+ alt: 'Australia from LocalApplianceRentalsPalmerston'
 ---
 
 # Local Appliance Rentals Palmerston

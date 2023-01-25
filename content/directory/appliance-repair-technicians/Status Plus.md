@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/status-plus.webp
-    alt: Cover image for Status Plus the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/6.webp
+ alt: 'Australia from StatusPlus'
 ---
 
 # Status Plus

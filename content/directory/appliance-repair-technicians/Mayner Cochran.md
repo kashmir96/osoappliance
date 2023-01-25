@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mayner-cochran.webp
-    alt: Cover image for Mayner Cochran the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/120.webp
+ alt: 'Australia from MaynerCochran'
 ---
 
 # Mayner Cochran

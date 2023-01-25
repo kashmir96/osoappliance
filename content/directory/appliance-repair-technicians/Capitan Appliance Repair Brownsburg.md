@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/capitan-appliance-repair-brownsburg.webp
-    alt: Cover image for Capitan Appliance Repair Brownsburg the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/365.webp
+ alt: 'UnitedStates from CapitanApplianceRepairBrownsburg'
 ---
 
 # Capitan Appliance Repair Brownsburg

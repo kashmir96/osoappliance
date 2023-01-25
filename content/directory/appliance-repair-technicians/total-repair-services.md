@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/total-repair-services.webp
- alt: 'Logo for Total Repair Services the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/58.webp
+ alt: 'NewZealand from totalrepairservices'
 ---
 
 # Total Repair Services is an Appliance Repair Technician Company operating in Timaru, New Zealand.

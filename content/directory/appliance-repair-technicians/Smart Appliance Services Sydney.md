@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/smart-appliance-services-sydney.webp
-    alt: Cover image for Smart Appliance Services Sydney the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/114.webp
+ alt: 'Australia from SmartApplianceServicesSydney'
 ---
 
 # Smart Appliance Services Sydney

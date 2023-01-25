@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cooker-repair-company.webp
-    alt: Cover image for Cooker Repair Company the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/47.webp
+ alt: 'UnitedKingdom from CookerRepairCompany'
 ---
 
 # Cooker Repair Company

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/perth-projector-hire.webp
-    alt: Cover image for Perth Projector Hire the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/128.webp
+ alt: 'Australia from PerthProjectorHire'
 ---
 
 # Perth Projector Hire

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/goldline-appliances.webp
-    alt: Cover image for Goldline Appliances the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/22.webp
+ alt: 'Australia from GoldlineAppliances'
 ---
 
 # Goldline Appliances

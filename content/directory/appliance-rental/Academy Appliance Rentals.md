@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/academy-appliance-rentals.webp
-    alt: Cover image for Academy Appliance Rentals the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/368.webp
+ alt: 'Australia from AcademyApplianceRentals'
 ---
 
 # Academy Appliance Rentals

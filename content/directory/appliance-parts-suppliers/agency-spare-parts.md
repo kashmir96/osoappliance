@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/agency-spare-parts.webp
- alt: 'Logo for Agency Spare Parts the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/1.webp
+ alt: 'Australia from agencyspareparts'
 ---
 
 # Agency Spare Parts is an Appliance Parts Supplier from Australia.

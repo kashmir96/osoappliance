@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/uncle-harry-appliance-repairs.webp
-    alt: Cover image for Uncle Harry Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/2.webp
+ alt: 'UnitedKingdom from UncleHarryApplianceRepairs'
 ---
 
 # Uncle Harry Appliance Repairs

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/rpm-engine-reconditioning-and-mechanical.webp
-    alt: Cover image for RPM Engine Reconditioning And Mechanical the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/145.webp
+ alt: 'Australia from RPMEngineReconditioningAndMechanical'
 ---
 
 # RPM Engine Reconditioning And Mechanical

@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/appliance-services.webp
- alt: 'Logo for Appliance Services the New Zealand from Hamilton'
+cover:
+ image: /img/laundryappliance/319.webp
+ alt: 'NewZealand from applianceservices'
 ---
 
 # Appliance Services is an Appliance Repair Technician Company operating in Hamilton, New Zealand.

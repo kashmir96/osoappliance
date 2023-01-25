@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/andrews-sykes-hire-ltd.webp
-    alt: Cover image for Andrews Sykes Hire Ltd the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/284.webp
+ alt: 'UnitedKingdom from AndrewsSykesHireLtd'
 ---
 
 # Andrews Sykes Hire Ltd

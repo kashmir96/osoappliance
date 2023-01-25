@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/precision-appliance-services-inc.webp
-    alt: Cover image for Precision Appliance Services Inc the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/257.webp
+ alt: 'UnitedStates from PrecisionApplianceServicesInc'
 ---
 
 # Precision Appliance Services Inc

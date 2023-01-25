@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/apollo-appliances.webp
-    alt: Cover image for Apollo Appliances the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/35.webp
+ alt: 'UnitedKingdom from ApolloAppliances'
 ---
 
 # Apollo Appliances

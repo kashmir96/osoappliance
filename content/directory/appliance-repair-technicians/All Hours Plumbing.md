@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-hours-plumbing.webp
-    alt: Cover image for All Hours Plumbing the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/197.webp
+ alt: 'Australia from AllHoursPlumbing'
 ---
 
 # All Hours Plumbing

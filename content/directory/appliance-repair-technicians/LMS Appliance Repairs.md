@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lms-appliance-repairs.webp
-    alt: Cover image for LMS Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/186.webp
+ alt: 'UnitedKingdom from LMSApplianceRepairs'
 ---
 
 # LMS Appliance Repairs

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/dynamic-sound-lighting.webp
-    alt: Cover image for Dynamic Sound Lighting the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/249.webp
+ alt: 'UnitedStates from DynamicSoundLighting'
 ---
 
 # Dynamic Sound Lighting

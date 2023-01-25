@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/quality-equipment-sales-service.webp
-    alt: Cover image for Quality Equipment Sales Service the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/124.webp
+ alt: 'Australia from QualityEquipmentSalesService'
 ---
 
 # Quality Equipment Sales Service

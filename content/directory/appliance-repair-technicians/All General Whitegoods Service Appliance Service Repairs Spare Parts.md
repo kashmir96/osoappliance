@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-general-whitegoods-service-appliance-service-repairs-spare-parts.webp
-    alt: Cover image for All General Whitegoods Service Appliance Service Repairs Spare Parts the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/73.webp
+ alt: 'Australia from AllGeneralWhitegoodsServiceApplianceServiceRepairsSpareParts'
 ---
 
 # All General Whitegoods Service Appliance Service Repairs Spare Parts

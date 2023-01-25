@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/appliance-repair.webp
- alt: 'Logo for Appliance Repair the New Zealand from Wellington'
+cover:
+ image: /img/laundryappliance/213.webp
+ alt: 'NewZealand from appliancerepair'
 ---
 
 # Appliance Repair is an Appliance Repair Technician Company operating in Wellington, New Zealand.

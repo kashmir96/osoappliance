@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-south-charlotte.webp
-    alt: Cover image for Mr Appliance of South Charlotte the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/263.webp
+ alt: 'UnitedStates from MrApplianceofSouthCharlotte'
 ---
 
 # Mr Appliance of South Charlotte

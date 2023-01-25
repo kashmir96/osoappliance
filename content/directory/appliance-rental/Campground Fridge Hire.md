@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/campground-fridge-hire.webp
-    alt: Cover image for Campground Fridge Hire the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/326.webp
+ alt: 'Australia from CampgroundFridgeHire'
 ---
 
 # Campground Fridge Hire

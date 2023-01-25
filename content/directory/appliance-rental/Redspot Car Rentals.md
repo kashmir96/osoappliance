@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/redspot-car-rentals.webp
-    alt: Cover image for Redspot Car Rentals the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/267.webp
+ alt: 'Australia from RedspotCarRentals'
 ---
 
 # Redspot Car Rentals

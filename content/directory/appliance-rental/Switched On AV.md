@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/switched-on-av.webp
-    alt: Cover image for Switched On AV the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/135.webp
+ alt: 'Australia from SwitchedOnAV'
 ---
 
 # Switched On AV

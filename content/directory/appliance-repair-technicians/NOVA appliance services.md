@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nova-appliance-services.webp
-    alt: Cover image for NOVA appliance services the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/57.webp
+ alt: 'UnitedStates from NOVAapplianceservices'
 ---
 
 # NOVA appliance services

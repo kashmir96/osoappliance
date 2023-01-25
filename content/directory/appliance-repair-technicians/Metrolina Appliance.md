@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/metrolina-appliance.webp
-    alt: Cover image for Metrolina Appliance the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/217.webp
+ alt: 'UnitedStates from MetrolinaAppliance'
 ---
 
 # Metrolina Appliance

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/coway-rental-usa.webp
-    alt: Cover image for Coway Rental USA the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/54.webp
+ alt: 'UnitedStates from CowayRentalUSA'
 ---
 
 # Coway Rental USA

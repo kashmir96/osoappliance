@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/geelong-oven-repairs.webp
-    alt: Cover image for Geelong Oven Repairs the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/6.webp
+ alt: 'Australia from GeelongOvenRepairs'
 ---
 
 # Geelong Oven Repairs

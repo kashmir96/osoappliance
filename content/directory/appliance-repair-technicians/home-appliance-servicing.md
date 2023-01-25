@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/home-appliance-servicing.webp
- alt: 'Logo for Home Appliance Servicing the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/178.webp
+ alt: 'NewZealand from homeapplianceservicing'
 ---
 
 # Home Appliance Servicing is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

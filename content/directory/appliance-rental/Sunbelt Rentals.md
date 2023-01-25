@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sunbelt-rentals.webp
-    alt: Cover image for Sunbelt Rentals the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/8.webp
+ alt: 'UnitedStates from SunbeltRentals'
 ---
 
 # Sunbelt Rentals

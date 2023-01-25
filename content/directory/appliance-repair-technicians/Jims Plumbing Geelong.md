@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jims-plumbing-geelong.webp
-    alt: Cover image for Jims Plumbing Geelong the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/277.webp
+ alt: 'Australia from JimsPlumbingGeelong'
 ---
 
 # Jims Plumbing Geelong

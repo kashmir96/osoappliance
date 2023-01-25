@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/set-the-stage-colorado.webp
-    alt: Cover image for Set The Stage Colorado the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/115.webp
+ alt: 'UnitedStates from SetTheStageColorado'
 ---
 
 # Set The Stage Colorado

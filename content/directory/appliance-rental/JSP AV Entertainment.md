@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/jsp-av-entertainment.webp
-    alt: Cover image for JSP AV Entertainment the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/52.webp
+ alt: 'UnitedStates from JSPAVEntertainment'
 ---
 
 # JSP AV Entertainment

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/smartfix-appliance-repair.webp
-    alt: Cover image for SmartFix Appliance Repair the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/146.webp
+ alt: 'UnitedStates from SmartFixApplianceRepair'
 ---
 
 # SmartFix Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/manchester-appliance-repairs.webp
-    alt: Cover image for Manchester Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/15.webp
+ alt: 'UnitedKingdom from ManchesterApplianceRepairs'
 ---
 
 # Manchester Appliance Repairs

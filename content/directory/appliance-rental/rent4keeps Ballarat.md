@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent4keeps-ballarat.webp
-    alt: Cover image for rent4keeps Ballarat the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/51.webp
+ alt: 'Australia from rent4keepsBallarat'
 ---
 
 # rent4keeps Ballarat

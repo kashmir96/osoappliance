@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/oven-dragon.webp
-    alt: Cover image for Oven Dragon the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/83.webp
+ alt: 'UnitedKingdom from OvenDragon'
 ---
 
 # Oven Dragon

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/morgan-electrics-gas.webp
-    alt: Cover image for Morgan Electrics Gas the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/180.webp
+ alt: 'Australia from MorganElectricsGas'
 ---
 
 # Morgan Electrics Gas

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/save-on-spares.webp
- alt: 'Logo for Save on Spares the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/41.webp
+ alt: 'Australia from saveonspares'
 ---
 
 # Save on Spares is an Appliance Parts Supplier from Australia.

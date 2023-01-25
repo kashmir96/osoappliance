@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/climate-master.webp
-    alt: Cover image for Climate Master the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/205.webp
+ alt: 'Australia from ClimateMaster'
 ---
 
 # Climate Master

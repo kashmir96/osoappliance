@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fast-fix.webp
-    alt: Cover image for Fast Fix the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/101.webp
+ alt: 'UnitedKingdom from FastFix'
 ---
 
 # Fast Fix

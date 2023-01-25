@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hey-key-appliance-repair-ballantyne.webp
-    alt: Cover image for Hey Key Appliance Repair Ballantyne the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/358.webp
+ alt: 'UnitedStates from HeyKeyApplianceRepairBallantyne'
 ---
 
 # Hey Key Appliance Repair Ballantyne

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/seattle-event-rentals.webp
-    alt: Cover image for Seattle Event Rentals the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/2.webp
+ alt: 'UnitedStates from SeattleEventRentals'
 ---
 
 # Seattle Event Rentals

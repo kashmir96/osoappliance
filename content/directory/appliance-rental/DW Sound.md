@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/dw-sound.webp
-    alt: Cover image for DW Sound the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/52.webp
+ alt: 'Australia from DWSound'
 ---
 
 # DW Sound

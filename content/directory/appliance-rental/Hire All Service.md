@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hire-all-service.webp
-    alt: Cover image for Hire All Service the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/143.webp
+ alt: 'Australia from HireAllService'
 ---
 
 # Hire All Service

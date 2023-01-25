@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-medic.webp
-    alt: Cover image for Appliance Medic the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/298.webp
+ alt: 'Australia from ApplianceMedic'
 ---
 
 # Appliance Medic

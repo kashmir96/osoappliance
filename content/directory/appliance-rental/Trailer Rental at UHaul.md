@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/trailer-rental-at-uhaul.webp
-    alt: Cover image for Trailer Rental at UHaul the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/349.webp
+ alt: 'UnitedStates from TrailerRentalatUHaul'
 ---
 
 # Trailer Rental at UHaul

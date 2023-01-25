@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-clinic.webp
-    alt: Cover image for Appliance Clinic the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/357.webp
+ alt: 'UnitedKingdom from ApplianceClinic'
 ---
 
 # Appliance Clinic

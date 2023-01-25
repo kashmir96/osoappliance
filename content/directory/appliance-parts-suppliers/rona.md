@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/rona.webp
- alt: 'Logo for Rona the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/160.webp
+ alt: 'Canada from rona'
 ---
 
 # Rona is an Appliance Parts Supplier from Canada.

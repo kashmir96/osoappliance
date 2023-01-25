@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/appliance-wise.webp
- alt: 'Logo for ApplianceWise the New Zealand from Wellington'
+cover:
+ image: /img/laundryappliance/339.webp
+ alt: 'NewZealand from appliancewise'
 ---
 
 # ApplianceWise is an Appliance Repair Technician Company operating in Wellington, New Zealand.

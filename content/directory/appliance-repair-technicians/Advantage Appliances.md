@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/advantage-appliances.webp
-    alt: Cover image for Advantage Appliances the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/265.webp
+ alt: 'Australia from AdvantageAppliances'
 ---
 
 # Advantage Appliances

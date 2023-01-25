@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wholesale-appliance-supplies.webp
-    alt: Cover image for Wholesale Appliance Supplies the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/43.webp
+ alt: 'Australia from WholesaleApplianceSuppliescopy'
 ---
 
 # Wholesale Appliance Supplies

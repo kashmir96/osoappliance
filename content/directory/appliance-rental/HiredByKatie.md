@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hiredbykatie.webp
-    alt: Cover image for HiredByKatie the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/161.webp
+ alt: 'UnitedKingdom from HiredByKatie'
 ---
 
 # HiredByKatie

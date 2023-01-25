@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Invercargill"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/tansley-electrical.webp
- alt: 'Logo for Tansley Electrical the New Zealand from Invercargill'
+cover:
+ image: /img/laundryappliance/253.webp
+ alt: 'NewZealand from tansleyelectrical'
 ---
 
 # Tansley Electrical is an Appliance Repair Technician Company operating in Invercargill, New Zealand.

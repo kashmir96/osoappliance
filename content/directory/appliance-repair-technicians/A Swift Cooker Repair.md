@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-swift-cooker-repair.webp
-    alt: Cover image for A Swift Cooker Repair the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/199.webp
+ alt: 'UnitedKingdom from ASwiftCookerRepair'
 ---
 
 # A Swift Cooker Repair

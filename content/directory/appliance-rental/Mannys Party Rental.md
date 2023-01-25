@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mannys-party-rental.webp
-    alt: Cover image for Mannys Party Rental the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/20.webp
+ alt: 'UnitedStates from MannysPartyRental'
 ---
 
 # Mannys Party Rental

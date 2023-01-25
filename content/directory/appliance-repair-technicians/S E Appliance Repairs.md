@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/s-e-appliance-repairs.webp
-    alt: Cover image for S E Appliance Repairs the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/193.webp
+ alt: 'UnitedStates from SEApplianceRepairs'
 ---
 
 # S E Appliance Repairs

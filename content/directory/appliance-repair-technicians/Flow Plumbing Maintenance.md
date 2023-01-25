@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/flow-plumbing-maintenance.webp
-    alt: Cover image for Flow Plumbing Maintenance the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/283.webp
+ alt: 'Australia from FlowPlumbingMaintenance'
 ---
 
 # Flow Plumbing Maintenance

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/uwes-european-appliance-repairs.webp
-    alt: Cover image for Uwes European Appliance Repairs the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/275.webp
+ alt: 'Australia from UwesEuropeanApplianceRepairs'
 ---
 
 # Uwes European Appliance Repairs

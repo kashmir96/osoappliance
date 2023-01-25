@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/pirate-grip-electric-llc.webp
-    alt: Cover image for Pirate Grip Electric LLC the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/167.webp
+ alt: 'UnitedStates from PirateGripElectricLLC'
 ---
 
 # Pirate Grip Electric LLC

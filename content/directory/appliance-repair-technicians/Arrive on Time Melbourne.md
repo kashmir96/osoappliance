@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/arrive-on-time-melbourne.webp
-    alt: Cover image for Arrive on Time Melbourne the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/148.webp
+ alt: 'Australia from ArriveonTimeMelbourne'
 ---
 
 # Arrive on Time Melbourne

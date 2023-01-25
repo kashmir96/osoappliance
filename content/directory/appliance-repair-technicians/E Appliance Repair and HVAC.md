@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/e-appliance-repair-and-hvac.webp
-    alt: Cover image for E Appliance Repair and HVAC the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/270.webp
+ alt: 'UnitedStates from EApplianceRepairandHVAC'
 ---
 
 # E Appliance Repair and HVAC

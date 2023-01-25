@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/feztech-plumbing-heating.webp
-    alt: Cover image for feztech plumbing heating the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/376.webp
+ alt: 'UnitedKingdom from feztechplumbingheating'
 ---
 
 # feztech plumbing heating

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hillcrest-av.webp
-    alt: Cover image for Hillcrest AV the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/133.webp
+ alt: 'Australia from HillcrestAV'
 ---
 
 # Hillcrest AV

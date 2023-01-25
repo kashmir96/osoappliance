@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/united-air-plumbing.webp
-    alt: Cover image for United Air Plumbing the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/188.webp
+ alt: 'Australia from UnitedAirPlumbing'
 ---
 
 # United Air Plumbing

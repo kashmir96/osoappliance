@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/big-warehouse.webp
- alt: 'Logo for Big Warehouse the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/27.webp
+ alt: 'Australia from bigwarehouse'
 ---
 
 # Big Warehouse is an Appliance Parts Supplier from Australia.

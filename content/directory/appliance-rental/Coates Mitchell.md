@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/coates-mitchell.webp
-    alt: Cover image for Coates Mitchell the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/47.webp
+ alt: 'Australia from CoatesMitchell'
 ---
 
 # Coates Mitchell

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/smuk-property-styling-ballarat.webp
-    alt: Cover image for Smuk Property Styling Ballarat the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/255.webp
+ alt: 'Australia from SmukPropertyStylingBallarat'
 ---
 
 # Smuk Property Styling Ballarat

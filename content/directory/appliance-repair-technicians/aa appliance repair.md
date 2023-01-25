@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aa-appliance-repair.webp
-    alt: Cover image for aa appliance repair the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/224.webp
+ alt: 'UnitedStates from aaappliancerepair'
 ---
 
 # aa appliance repair

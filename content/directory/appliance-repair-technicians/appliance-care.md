@@ -5,9 +5,9 @@ type: "Parts, Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington, Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/parts,-appliance-repair-technician/appliance-care.webp
- alt: 'Logo for Appliance Care the New Zealand from Wellington, Auckland'
+cover:
+ image: /img/laundryappliance/381.webp
+ alt: 'NewZealand from appliancecare'
 ---
 
 # Appliance Care is an Parts, Appliance Repair Technician Company operating in Wellington, Auckland, New Zealand.

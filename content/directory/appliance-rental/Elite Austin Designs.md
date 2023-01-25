@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/elite-austin-designs.webp
-    alt: Cover image for Elite Austin Designs the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/273.webp
+ alt: 'UnitedStates from EliteAustinDesigns'
 ---
 
 # Elite Austin Designs

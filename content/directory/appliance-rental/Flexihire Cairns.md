@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/flexihire-cairns.webp
-    alt: Cover image for Flexihire Cairns the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/373.webp
+ alt: 'Australia from FlexihireCairns'
 ---
 
 # Flexihire Cairns

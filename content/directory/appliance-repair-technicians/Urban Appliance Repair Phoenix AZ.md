@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/urban-appliance-repair-phoenix-az.webp
-    alt: Cover image for Urban Appliance Repair Phoenix AZ the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/375.webp
+ alt: 'UnitedStates from UrbanApplianceRepairPhoenixAZ'
 ---
 
 # Urban Appliance Repair Phoenix AZ

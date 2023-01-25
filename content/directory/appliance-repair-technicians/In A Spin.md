@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/in-a-spin.webp
-    alt: Cover image for In A Spin the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/299.webp
+ alt: 'UnitedKingdom from InASpin'
 ---
 
 # In A Spin

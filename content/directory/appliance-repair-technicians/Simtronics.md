@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/simtronics.webp
-    alt: Cover image for Simtronics the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/325.webp
+ alt: 'Australia from Simtronics'
 ---
 
 # Simtronics

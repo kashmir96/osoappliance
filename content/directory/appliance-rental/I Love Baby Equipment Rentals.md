@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/i-love-baby-equipment-rentals.webp
-    alt: Cover image for I Love Baby Equipment Rentals the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/259.webp
+ alt: 'UnitedStates from ILoveBabyEquipmentRentals'
 ---
 
 # I Love Baby Equipment Rentals

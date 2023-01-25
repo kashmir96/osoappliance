@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Auckland, Wellington, Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/rent-rite.webp
- alt: 'Logo for Rent Rite the Appliance Rental business from Auckland, Wellington, Christchurch, New Zealand'
+cover:
+ image: /img/laundryappliance/318.webp
+ alt: 'NewZealand from rentrite'
 ---
 
 Rent Rite is an Appliance Rental business located in Auckland, Wellington, Christchurch, New Zealand. 

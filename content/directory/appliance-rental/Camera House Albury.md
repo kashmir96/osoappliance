@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/camera-house-albury.webp
-    alt: Cover image for Camera House Albury the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/97.webp
+ alt: 'Australia from CameraHouseAlbury'
 ---
 
 # Camera House Albury

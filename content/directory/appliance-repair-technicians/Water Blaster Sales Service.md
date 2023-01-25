@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/water-blaster-sales-service.webp
-    alt: Cover image for Water Blaster Sales Service the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/27.webp
+ alt: 'Australia from WaterBlasterSalesService'
 ---
 
 # Water Blaster Sales Service

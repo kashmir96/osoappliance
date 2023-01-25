@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wise-appliance-service.webp
-    alt: Cover image for Wise Appliance Service the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/9.webp
+ alt: 'Australia from WiseApplianceService'
 ---
 
 # Wise Appliance Service

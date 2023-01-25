@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/red-apple-appliance-repair.webp
-    alt: Cover image for Red Apple Appliance Repair the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/149.webp
+ alt: 'UnitedStates from RedAppleApplianceRepair'
 ---
 
 # Red Apple Appliance Repair

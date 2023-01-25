@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/merseyside-domestic-appliances-washing-machines-dryers-cookers-oven-dishwasher-spares-repairs.webp
-    alt: Cover image for Merseyside Domestic Appliances Washing Machines Dryers Cookers Oven Dishwasher Spares Repairs the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/284.webp
+ alt: 'UnitedKingdom from MerseysideDomesticAppliancesWashingMachinesDryersCookersOvenDishwasherSparesRepairs'
 ---
 
 # Merseyside Domestic Appliances Washing Machines Dryers Cookers Oven Dishwasher Spares Repairs

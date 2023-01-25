@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/toowoomba-betta-home-living.webp
-    alt: Cover image for Toowoomba Betta Home Living the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/90.webp
+ alt: 'Australia from ToowoombaBettaHomeLiving'
 ---
 
 # Toowoomba Betta Home Living

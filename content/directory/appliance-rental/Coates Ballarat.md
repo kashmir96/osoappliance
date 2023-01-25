@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/coates-ballarat.webp
-    alt: Cover image for Coates Ballarat the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/301.webp
+ alt: 'Australia from CoatesBallarat'
 ---
 
 # Coates Ballarat

@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Delivery"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-delivery/writes-appliance-repairs.webp
- alt: 'Logo for Writes Appliance Repairs the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/114.webp
+ alt: 'NewZealand from writesappliancerepairs'
 ---
 
 # Writes Appliance Repairs is an Appliance Repair Technician, Delivery Company operating in Christchurch, New Zealand.

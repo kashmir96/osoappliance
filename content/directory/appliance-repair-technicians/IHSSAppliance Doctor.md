@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ihssappliance-doctor.webp
-    alt: Cover image for IHSSAppliance Doctor the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/338.webp
+ alt: 'UnitedStates from IHSSApplianceDoctor'
 ---
 
 # IHSSAppliance Doctor

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/happy-home-appliance-repair-commercial-refrigeration.webp
-    alt: Cover image for Happy Home Appliance Repair Commercial Refrigeration the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/38.webp
+ alt: 'UnitedStates from HappyHomeApplianceRepairCommercialRefrigeration'
 ---
 
 # Happy Home Appliance Repair Commercial Refrigeration

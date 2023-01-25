@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/castle-furniture-rental.webp
-    alt: Cover image for Castle Furniture Rental the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/336.webp
+ alt: 'UnitedStates from CastleFurnitureRental'
 ---
 
 # Castle Furniture Rental

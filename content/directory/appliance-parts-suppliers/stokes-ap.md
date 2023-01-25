@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/stokes-ap.webp
- alt: 'Logo for Stokes AP the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/140.webp
+ alt: 'Australia from stokesap'
 ---
 
 # Stokes AP is an Appliance Parts Supplier from Australia.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cameraquip.webp
-    alt: Cover image for Cameraquip the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/328.webp
+ alt: 'Australia from Cameraquip'
 ---
 
 # Cameraquip

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-ocean-beach.webp
-    alt: Cover image for Mr Appliance of Ocean Beach the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/239.webp
+ alt: 'UnitedStates from MrApplianceofOceanBeach'
 ---
 
 # Mr Appliance of Ocean Beach

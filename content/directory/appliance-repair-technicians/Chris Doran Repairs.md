@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/chris-doran-repairs.webp
-    alt: Cover image for Chris Doran Repairs the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/102.webp
+ alt: 'UnitedKingdom from ChrisDoranRepairs'
 ---
 
 # Chris Doran Repairs

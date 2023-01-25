@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hales-plumbing-roofing-rockhampton.webp
-    alt: Cover image for Hales Plumbing Roofing Rockhampton the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/194.webp
+ alt: 'Australia from HalesPlumbingRoofingRockhampton'
 ---
 
 # Hales Plumbing Roofing Rockhampton

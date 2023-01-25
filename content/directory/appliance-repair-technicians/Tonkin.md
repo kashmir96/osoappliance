@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tonkin.webp
-    alt: Cover image for Tonkin the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/400.webp
+ alt: 'Australia from Tonkin'
 ---
 
 # Tonkin

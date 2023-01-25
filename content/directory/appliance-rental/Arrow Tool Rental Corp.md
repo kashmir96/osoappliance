@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/arrow-tool-rental-corp.webp
-    alt: Cover image for Arrow Tool Rental Corp the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/220.webp
+ alt: 'UnitedStates from ArrowToolRentalCorp'
 ---
 
 # Arrow Tool Rental Corp

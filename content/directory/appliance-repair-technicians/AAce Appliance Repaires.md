@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aace-appliance-repaires.webp
-    alt: Cover image for AAce Appliance Repaires the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/60.webp
+ alt: 'Australia from AAceApplianceRepaires'
 ---
 
 # AAce Appliance Repaires

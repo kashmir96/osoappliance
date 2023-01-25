@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/appliance-parts-usa.webp
- alt: 'Logo for Appliance Parts Usa the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/86.webp
+ alt: 'UnitedStates from appliancepartsusa'
 ---
 
 # Appliance Parts Usa is an Appliance Parts Supplier from United States.

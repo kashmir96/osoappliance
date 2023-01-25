@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dobson-guitar-services.webp
-    alt: Cover image for Dobson Guitar Services the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/17.webp
+ alt: 'Australia from DobsonGuitarServices'
 ---
 
 # Dobson Guitar Services

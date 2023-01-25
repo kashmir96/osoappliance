@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/british-heart-foundation-furniture-electrical.webp
-    alt: Cover image for British Heart Foundation Furniture Electrical the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/240.webp
+ alt: 'UnitedKingdom from BritishHeartFoundationFurnitureElectrical'
 ---
 
 # British Heart Foundation Furniture Electrical

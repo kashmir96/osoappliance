@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/loud-clear.webp
-    alt: Cover image for Loud Clear the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/168.webp
+ alt: 'UnitedKingdom from LoudClear'
 ---
 
 # Loud Clear

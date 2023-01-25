@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-inspired-space-albury.webp
-    alt: Cover image for The Inspired Space Albury the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/14.webp
+ alt: 'Australia from TheInspiredSpaceAlbury'
 ---
 
 # The Inspired Space Albury

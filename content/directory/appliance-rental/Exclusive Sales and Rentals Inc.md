@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/exclusive-sales-and-rentals-inc.webp
-    alt: Cover image for Exclusive Sales and Rentals Inc the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/379.webp
+ alt: 'UnitedStates from ExclusiveSalesandRentalsInc'
 ---
 
 # Exclusive Sales and Rentals Inc

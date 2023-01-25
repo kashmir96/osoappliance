@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/seattle-commercial-restaurant-and-equipment-repair.webp
-    alt: Cover image for Seattle Commercial Restaurant and Equipment Repair the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/16.webp
+ alt: 'UnitedStates from SeattleCommercialRestaurantandEquipmentRepair'
 ---
 
 # Seattle Commercial Restaurant and Equipment Repair

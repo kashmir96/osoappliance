@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/barclays-appliance-centre.webp
-    alt: Cover image for Barclays Appliance Centre the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/246.webp
+ alt: 'Australia from BarclaysApplianceCentre'
 ---
 
 # Barclays Appliance Centre

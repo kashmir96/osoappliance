@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/barwon-electrical-services-pty-ltd-commercial-dishwasher-repairs-catering-equipment-repairs.webp
-    alt: Cover image for BARWON ELECTRICAL SERVICES Pty Ltd Commercial Dishwasher Repairs Catering Equipment Repairs the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/200.webp
+ alt: 'Australia from BARWONELECTRICALSERVICESPtyLtdCommercialDishwasherRepairsCateringEquipmentRepairs'
 ---
 
 # BARWON ELECTRICAL SERVICES Pty Ltd Commercial Dishwasher Repairs Catering Equipment Repairs

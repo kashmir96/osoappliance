@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/camping-fridge-hire.webp
-    alt: Cover image for Camping Fridge Hire the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/359.webp
+ alt: 'Australia from CampingFridgeHire'
 ---
 
 # Camping Fridge Hire

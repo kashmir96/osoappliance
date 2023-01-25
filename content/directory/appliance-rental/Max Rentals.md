@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/max-rentals.webp
-    alt: Cover image for Max Rentals the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/39.webp
+ alt: 'Australia from MaxRentals'
 ---
 
 # Max Rentals

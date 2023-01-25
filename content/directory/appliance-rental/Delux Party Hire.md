@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/delux-party-hire.webp
-    alt: Cover image for Delux Party Hire the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/256.webp
+ alt: 'Australia from DeluxPartyHire'
 ---
 
 # Delux Party Hire

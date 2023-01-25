@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sears-appliance-repair.webp
-    alt: Cover image for Sears Appliance Repair the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/151.webp
+ alt: 'UnitedStates from SearsApplianceRepaircopy14'
 ---
 
 # Sears Appliance Repair

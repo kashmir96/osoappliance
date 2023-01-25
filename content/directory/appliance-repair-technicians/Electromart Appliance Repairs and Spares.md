@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/electromart-appliance-repairs-and-spares.webp
-    alt: Cover image for Electromart Appliance Repairs and Spares the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/242.webp
+ alt: 'UnitedKingdom from ElectromartApplianceRepairsandSpares'
 ---
 
 # Electromart Appliance Repairs and Spares

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sydney-camera-hire.webp
-    alt: Cover image for Sydney Camera Hire the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/224.webp
+ alt: 'Australia from SydneyCameraHire'
 ---
 
 # Sydney Camera Hire

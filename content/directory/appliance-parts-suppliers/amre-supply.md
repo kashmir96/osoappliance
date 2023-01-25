@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/amre-supply.webp
- alt: 'Logo for AMRE Supply the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/56.webp
+ alt: 'Canada from amresupply'
 ---
 
 # AMRE Supply is an Appliance Parts Supplier from Canada.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/brians-mobile-cold-room-freezer-hire.webp
-    alt: Cover image for Brians Mobile Cold Room Freezer Hire the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/144.webp
+ alt: 'Australia from BriansMobileColdRoomFreezerHire'
 ---
 
 # Brians Mobile Cold Room Freezer Hire

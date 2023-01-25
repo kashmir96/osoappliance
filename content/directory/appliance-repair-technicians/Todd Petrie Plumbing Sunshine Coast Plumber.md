@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/todd-petrie-plumbing-sunshine-coast-plumber.webp
-    alt: Cover image for Todd Petrie Plumbing Sunshine Coast Plumber the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/43.webp
+ alt: 'Australia from ToddPetriePlumbingSunshineCoastPlumber'
 ---
 
 # Todd Petrie Plumbing Sunshine Coast Plumber

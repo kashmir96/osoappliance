@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/edinburgh-emergency-plumbing-and-boiler-repair.webp
-    alt: Cover image for Edinburgh Emergency Plumbing and Boiler Repair the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/279.webp
+ alt: 'UnitedKingdom from EdinburghEmergencyPlumbingandBoilerRepair'
 ---
 
 # Edinburgh Emergency Plumbing and Boiler Repair

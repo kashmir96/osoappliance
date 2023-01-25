@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/west-seattle-tool-library.webp
-    alt: Cover image for West Seattle Tool Library the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/104.webp
+ alt: 'UnitedStates from WestSeattleToolLibrary'
 ---
 
 # West Seattle Tool Library

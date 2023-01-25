@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/modern-heating.webp
-    alt: Cover image for Modern Heating the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/201.webp
+ alt: 'UnitedKingdom from ModernHeating'
 ---
 
 # Modern Heating

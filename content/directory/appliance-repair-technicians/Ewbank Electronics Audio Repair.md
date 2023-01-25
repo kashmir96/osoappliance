@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ewbank-electronics-audio-repair.webp
-    alt: Cover image for Ewbank Electronics Audio Repair the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/246.webp
+ alt: 'UnitedKingdom from EwbankElectronicsAudioRepair'
 ---
 
 # Ewbank Electronics Audio Repair

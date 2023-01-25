@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/adaptalift-group.webp
-    alt: Cover image for Adaptalift Group the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/278.webp
+ alt: 'Australia from AdaptaliftGroup'
 ---
 
 # Adaptalift Group

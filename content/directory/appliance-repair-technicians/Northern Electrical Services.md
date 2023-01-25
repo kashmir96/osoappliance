@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/northern-electrical-services.webp
-    alt: Cover image for Northern Electrical Services the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/162.webp
+ alt: 'Australia from NorthernElectricalServices'
 ---
 
 # Northern Electrical Services

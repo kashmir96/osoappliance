@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wednesfield-appliance-repairs.webp
-    alt: Cover image for Wednesfield Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/109.webp
+ alt: 'UnitedKingdom from WednesfieldApplianceRepairs'
 ---
 
 # Wednesfield Appliance Repairs

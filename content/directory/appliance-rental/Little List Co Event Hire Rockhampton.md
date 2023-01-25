@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/little-list-co-event-hire-rockhampton.webp
-    alt: Cover image for Little List Co Event Hire Rockhampton the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/141.webp
+ alt: 'Australia from LittleListCoEventHireRockhampton'
 ---
 
 # Little List Co Event Hire Rockhampton

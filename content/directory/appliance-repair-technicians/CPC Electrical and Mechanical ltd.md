@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cpc-electrical-and-mechanical-ltd.webp
-    alt: Cover image for CPC Electrical and Mechanical ltd the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/16.webp
+ alt: 'UnitedKingdom from CPCElectricalandMechanicalltd'
 ---
 
 # CPC Electrical and Mechanical ltd

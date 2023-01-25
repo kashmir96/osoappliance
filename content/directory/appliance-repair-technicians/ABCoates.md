@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abcoates.webp
-    alt: Cover image for ABCoates the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/116.webp
+ alt: 'UnitedKingdom from ABCoates'
 ---
 
 # ABCoates

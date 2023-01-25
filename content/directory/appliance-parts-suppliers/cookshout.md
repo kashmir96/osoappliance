@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/cookshout.webp
- alt: 'Logo for Cookshout the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/142.webp
+ alt: 'UnitedStates from cookshout'
 ---
 
 # Cookshout is an Appliance Parts Supplier from United States.

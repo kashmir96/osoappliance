@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sweets-automotive-airconditioning-auto-electrics.webp
-    alt: Cover image for Sweets Automotive Airconditioning Auto electrics the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/383.webp
+ alt: 'Australia from SweetsAutomotiveAirconditioningAutoelectrics'
 ---
 
 # Sweets Automotive Airconditioning Auto electrics

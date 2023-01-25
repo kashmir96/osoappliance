@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-service-centre-repairs.webp
-    alt: Cover image for Appliance Service Centre Repairs the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/185.webp
+ alt: 'UnitedKingdom from ApplianceServiceCentreRepairsuk'
 ---
 
 # Appliance Service Centre Repairs

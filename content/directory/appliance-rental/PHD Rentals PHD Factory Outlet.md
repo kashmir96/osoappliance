@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/phd-rentals-phd-factory-outlet.webp
-    alt: Cover image for PHD Rentals PHD Factory Outlet the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/5.webp
+ alt: 'Australia from PHDRentalsPHDFactoryOutlet'
 ---
 
 # PHD Rentals PHD Factory Outlet

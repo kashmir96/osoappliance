@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domestica.webp
-    alt: Cover image for Domestica the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/22.webp
+ alt: 'UnitedKingdom from Domestica'
 ---
 
 # Domestica

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/chilly-air.webp
-    alt: Cover image for Chilly Air the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/300.webp
+ alt: 'Australia from ChillyAir'
 ---
 
 # Chilly Air

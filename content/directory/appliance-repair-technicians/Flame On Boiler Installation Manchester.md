@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/flame-on-boiler-installation-manchester.webp
-    alt: Cover image for Flame On Boiler Installation Manchester the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/231.webp
+ alt: 'UnitedKingdom from FlameOnBoilerInstallationManchester'
 ---
 
 # Flame On Boiler Installation Manchester

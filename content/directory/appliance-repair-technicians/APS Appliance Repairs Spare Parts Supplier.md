@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aps-appliance-repairs-spare-parts-supplier.webp
-    alt: Cover image for APS Appliance Repairs Spare Parts Supplier the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/128.webp
+ alt: 'Australia from APSApplianceRepairsSparePartsSupplier'
 ---
 
 # APS Appliance Repairs Spare Parts Supplier

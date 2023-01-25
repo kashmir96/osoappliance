@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/big-picture-australia-pty-ltd.webp
-    alt: Cover image for Big Picture Australia PTY Ltd the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/23.webp
+ alt: 'Australia from BigPictureAustraliaPTYLtd'
 ---
 
 # Big Picture Australia PTY Ltd

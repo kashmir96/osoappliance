@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/lease-247-furniture-and-home-appliance-rentals.webp
-    alt: Cover image for Lease 247 Furniture and Home Appliance Rentals the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/280.webp
+ alt: 'Australia from Lease247FurnitureandHomeApplianceRentals'
 ---
 
 # Lease 247 Furniture and Home Appliance Rentals

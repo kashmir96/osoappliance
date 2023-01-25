@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/southern-cross-appliances.webp
-    alt: Cover image for Southern Cross Appliances the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/356.webp
+ alt: 'Australia from SouthernCrossAppliances'
 ---
 
 # Southern Cross Appliances

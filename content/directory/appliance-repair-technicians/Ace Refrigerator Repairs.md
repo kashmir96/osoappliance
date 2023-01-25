@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ace-refrigerator-repairs.webp
-    alt: Cover image for Ace Refrigerator Repairs the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/264.webp
+ alt: 'Australia from AceRefrigeratorRepairs'
 ---
 
 # Ace Refrigerator Repairs

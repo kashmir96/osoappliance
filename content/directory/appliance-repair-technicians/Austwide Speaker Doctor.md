@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/austwide-speaker-doctor.webp
-    alt: Cover image for Austwide Speaker Doctor the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/194.webp
+ alt: 'Australia from AustwideSpeakerDoctor'
 ---
 
 # Austwide Speaker Doctor

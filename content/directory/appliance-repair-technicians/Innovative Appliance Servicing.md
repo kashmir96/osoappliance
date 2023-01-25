@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/innovative-appliance-servicing.webp
-    alt: Cover image for Innovative Appliance Servicing the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/231.webp
+ alt: 'Australia from InnovativeApplianceServicing'
 ---
 
 # Innovative Appliance Servicing

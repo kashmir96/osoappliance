@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aes-appliance-service.webp
-    alt: Cover image for AES Appliance Service the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/83.webp
+ alt: 'Australia from AESApplianceService'
 ---
 
 # AES Appliance Service

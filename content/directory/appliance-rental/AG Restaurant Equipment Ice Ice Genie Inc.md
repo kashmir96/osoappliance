@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ag-restaurant-equipment-ice-ice-genie-inc.webp
-    alt: Cover image for AG Restaurant Equipment Ice Ice Genie Inc the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/317.webp
+ alt: 'UnitedStates from AGRestaurantEquipmentIceIceGenieInc'
 ---
 
 # AG Restaurant Equipment Ice Ice Genie Inc

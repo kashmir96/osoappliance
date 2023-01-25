@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/uk-white-goods.webp
- alt: 'Logo for Uk White Goods the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/21.webp
+ alt: 'UnitedKingdom from ukwhitegoods'
 ---
 
 # Uk White Goods is an Appliance Parts Supplier from United Kingdom.

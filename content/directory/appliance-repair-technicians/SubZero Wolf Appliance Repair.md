@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/subzero-wolf-appliance-repair.webp
-    alt: Cover image for SubZero Wolf Appliance Repair the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/97.webp
+ alt: 'UnitedStates from SubZeroWolfApplianceRepair'
 ---
 
 # SubZero Wolf Appliance Repair

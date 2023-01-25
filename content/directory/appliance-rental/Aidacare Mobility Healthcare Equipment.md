@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aidacare-mobility-healthcare-equipment.webp
-    alt: Cover image for Aidacare Mobility Healthcare Equipment the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/343.webp
+ alt: 'Australia from AidacareMobilityHealthcareEquipment'
 ---
 
 # Aidacare Mobility Healthcare Equipment

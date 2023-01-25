@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-liquidation-outlet.webp
-    alt: Cover image for Appliance Liquidation Outlet the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/159.webp
+ alt: 'UnitedStates from ApplianceLiquidationOutlet'
 ---
 
 # Appliance Liquidation Outlet

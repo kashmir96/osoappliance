@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Rotorua"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/philip-smith-electrical.webp
- alt: 'Logo for Philip Smith Electrical the New Zealand from Rotorua'
+cover:
+ image: /img/laundryappliance/122.webp
+ alt: 'NewZealand from philipsmithelectrical'
 ---
 
 # Philip Smith Electrical is an Appliance Repair Technician Company operating in Rotorua, New Zealand.

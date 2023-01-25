@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/sj-appliances.webp
- alt: 'Logo for SJ Appliances the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/136.webp
+ alt: 'NewZealand from sjappliances'
 ---
 
 # SJ Appliances is an Appliance Repair Technician Company operating in Auckland, New Zealand.

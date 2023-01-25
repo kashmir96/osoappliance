@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-central-charlotte.webp
-    alt: Cover image for Mr Appliance of Central Charlotte the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/299.webp
+ alt: 'UnitedStates from MrApplianceofCentralCharlotte'
 ---
 
 # Mr Appliance of Central Charlotte

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/downs-appliance-repairs.webp
-    alt: Cover image for Downs Appliance Repairs the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/280.webp
+ alt: 'Australia from DownsApplianceRepairs'
 ---
 
 # Downs Appliance Repairs

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/toowoomba-cold-room-hire.webp
-    alt: Cover image for Toowoomba Cold Room Hire the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/213.webp
+ alt: 'Australia from ToowoombaColdRoomHire'
 ---
 
 # Toowoomba Cold Room Hire

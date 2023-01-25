@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-zone.webp
-    alt: Cover image for Appliance Zone the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/121.webp
+ alt: 'UnitedKingdom from ApplianceZone'
 ---
 
 # Appliance Zone

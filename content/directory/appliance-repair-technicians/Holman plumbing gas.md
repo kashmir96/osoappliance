@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/holman-plumbing-gas.webp
-    alt: Cover image for Holman plumbing gas the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/252.webp
+ alt: 'Australia from Holmanplumbinggas'
 ---
 
 # Holman plumbing gas

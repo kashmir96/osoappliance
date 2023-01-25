@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/king-hire-trailers.webp
-    alt: Cover image for King Hire Trailers the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/109.webp
+ alt: 'Australia from KingHireTrailers'
 ---
 
 # King Hire Trailers

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/ltc-parts.webp
- alt: 'Logo for LTC Parts the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/80.webp
+ alt: 'NewZealand from ltcparts'
 ---
 
 # LTC Parts is an Appliance Parts Supplier from New Zealand.

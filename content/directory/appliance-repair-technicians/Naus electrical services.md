@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/naus-electrical-services.webp
-    alt: Cover image for Naus electrical services the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/373.webp
+ alt: 'Australia from Nauselectricalservices'
 ---
 
 # Naus electrical services

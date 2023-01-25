@@ -5,9 +5,9 @@ type: "Parts, Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Dunedin"]
 author: Curtis
-cover: 
- image: /img/directory-images/parts,-appliance-repair-technician/frontline-electronics.webp
- alt: 'Logo for Frontline Electronics the New Zealand from Dunedin'
+cover:
+ image: /img/laundryappliance/271.webp
+ alt: 'NewZealand from frontlineelectronics'
 ---
 
 # Frontline Electronics is an Parts, Appliance Repair Technician Company operating in Dunedin, New Zealand.

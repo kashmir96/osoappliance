@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/uzak-appliance.webp
-    alt: Cover image for UZAK Appliance the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/164.webp
+ alt: 'UnitedStates from UZAKAppliance'
 ---
 
 # UZAK Appliance

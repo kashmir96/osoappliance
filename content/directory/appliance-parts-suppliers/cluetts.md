@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/cluetts.webp
- alt: 'Logo for Cluetts the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/114.webp
+ alt: 'Canada from cluetts'
 ---
 
 # Cluetts is an Appliance Parts Supplier from Canada.

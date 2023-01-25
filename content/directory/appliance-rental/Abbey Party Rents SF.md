@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/abbey-party-rents-sf.webp
-    alt: Cover image for Abbey Party Rents SF the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/343.webp
+ alt: 'UnitedStates from AbbeyPartyRentsSF'
 ---
 
 # Abbey Party Rents SF

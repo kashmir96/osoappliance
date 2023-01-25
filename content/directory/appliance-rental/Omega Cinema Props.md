@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/omega-cinema-props.webp
-    alt: Cover image for Omega Cinema Props the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/269.webp
+ alt: 'UnitedStates from OmegaCinemaProps'
 ---
 
 # Omega Cinema Props

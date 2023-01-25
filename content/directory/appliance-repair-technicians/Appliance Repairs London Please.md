@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repairs-london-please.webp
-    alt: Cover image for Appliance Repairs London Please the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/115.webp
+ alt: 'UnitedKingdom from ApplianceRepairsLondonPlease'
 ---
 
 # Appliance Repairs London Please

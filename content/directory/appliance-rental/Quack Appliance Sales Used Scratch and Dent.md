@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/quack-appliance-sales-used-scratch-and-dent.webp
-    alt: Cover image for Quack Appliance Sales Used Scratch and Dent the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/344.webp
+ alt: 'UnitedStates from QuackApplianceSalesUsedScratchandDent'
 ---
 
 # Quack Appliance Sales Used Scratch and Dent

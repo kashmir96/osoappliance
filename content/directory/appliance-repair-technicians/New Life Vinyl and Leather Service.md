@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/new-life-vinyl-and-leather-service.webp
-    alt: Cover image for New Life Vinyl and Leather Service the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/294.webp
+ alt: 'Australia from NewLifeVinylandLeatherService'
 ---
 
 # New Life Vinyl and Leather Service

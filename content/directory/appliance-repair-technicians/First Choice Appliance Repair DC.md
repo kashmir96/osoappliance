@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/first-choice-appliance-repair-dc.webp
-    alt: Cover image for First Choice Appliance Repair DC the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/116.webp
+ alt: 'UnitedStates from FirstChoiceApplianceRepairDC'
 ---
 
 # First Choice Appliance Repair DC

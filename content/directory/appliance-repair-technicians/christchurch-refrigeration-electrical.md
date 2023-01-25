@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Second hand appliances, Installation, Delive
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-second-hand-appliances,-installation,-delivery/christchurch-refrigeration-&-electrical.webp
- alt: 'Logo for Christchurch Refrigeration & Electrical the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/303.webp
+ alt: 'NewZealand from christchurchrefrigerationelectrical'
 ---
 
 # Christchurch Refrigeration & Electrical is an Appliance Repair Technician, Second hand appliances, Installation, Delivery Company operating in Christchurch, New Zealand.

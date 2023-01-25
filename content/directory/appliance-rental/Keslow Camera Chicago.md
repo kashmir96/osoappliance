@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/keslow-camera-chicago.webp
-    alt: Cover image for Keslow Camera Chicago the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/4.webp
+ alt: 'UnitedStates from KeslowCameraChicago'
 ---
 
 # Keslow Camera Chicago

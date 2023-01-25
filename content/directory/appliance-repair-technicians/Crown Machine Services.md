@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/crown-machine-services.webp
-    alt: Cover image for Crown Machine Services the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/248.webp
+ alt: 'UnitedStates from CrownMachineServices'
 ---
 
 # Crown Machine Services

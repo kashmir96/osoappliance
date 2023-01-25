@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mototech.webp
-    alt: Cover image for Mototech the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/141.webp
+ alt: 'UnitedKingdom from Mototech'
 ---
 
 # Mototech

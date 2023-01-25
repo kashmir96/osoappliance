@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/united-rentals-power-hvac.webp
-    alt: Cover image for United Rentals Power HVAC the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/215.webp
+ alt: 'UnitedStates from UnitedRentalsPowerHVAC'
 ---
 
 # United Rentals Power HVAC

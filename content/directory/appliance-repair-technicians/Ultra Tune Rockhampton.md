@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ultra-tune-rockhampton.webp
-    alt: Cover image for Ultra Tune Rockhampton the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/346.webp
+ alt: 'Australia from UltraTuneRockhampton'
 ---
 
 # Ultra Tune Rockhampton

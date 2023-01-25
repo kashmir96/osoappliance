@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/diplomat-appliance-repairs.webp
-    alt: Cover image for Diplomat Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/354.webp
+ alt: 'UnitedKingdom from DiplomatApplianceRepairs'
 ---
 
 # Diplomat Appliance Repairs

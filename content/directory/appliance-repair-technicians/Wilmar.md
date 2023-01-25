@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wilmar.webp
-    alt: Cover image for Wilmar the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/281.webp
+ alt: 'UnitedKingdom from Wilmar'
 ---
 
 # Wilmar

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/coles-refrigeration-air-conditioning.webp
-    alt: Cover image for Coles Refrigeration Air Conditioning the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/293.webp
+ alt: 'Australia from ColesRefrigerationAirConditioning'
 ---
 
 # Coles Refrigeration Air Conditioning

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliances-n-more.webp
-    alt: Cover image for Appliances N More the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/129.webp
+ alt: 'UnitedStates from AppliancesNMore'
 ---
 
 # Appliances N More

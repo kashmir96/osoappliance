@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/total-appliance-repair.webp
-    alt: Cover image for Total Appliance Repair the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/238.webp
+ alt: 'UnitedKingdom from TotalApplianceRepair'
 ---
 
 # Total Appliance Repair

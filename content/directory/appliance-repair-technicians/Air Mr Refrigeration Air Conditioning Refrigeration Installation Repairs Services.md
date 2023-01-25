@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/air-mr-refrigeration-air-conditioning-refrigeration-installation-repairs-services.webp
-    alt: Cover image for Air Mr Refrigeration Air Conditioning Refrigeration Installation Repairs Services the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/183.webp
+ alt: 'Australia from AirMrRefrigerationAirConditioningRefrigerationInstallationRepairsServices'
 ---
 
 # Air Mr Refrigeration Air Conditioning Refrigeration Installation Repairs Services

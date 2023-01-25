@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/zero-degrees-air-conditioning-and-refrigeration-pl.webp
-    alt: Cover image for Zero Degrees Air Conditioning and Refrigeration pl the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/17.webp
+ alt: 'Australia from ZeroDegreesAirConditioningandRefrigerationpl'
 ---
 
 # Zero Degrees Air Conditioning and Refrigeration pl

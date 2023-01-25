@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/croft-auto.webp
-    alt: Cover image for Croft Auto the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/324.webp
+ alt: 'Australia from CroftAuto'
 ---
 
 # Croft Auto

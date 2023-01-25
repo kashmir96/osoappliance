@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sunbelt-rentals-climate-control.webp
-    alt: Cover image for Sunbelt Rentals Climate Control the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/280.webp
+ alt: 'UnitedStates from SunbeltRentalsClimateControl'
 ---
 
 # Sunbelt Rentals Climate Control

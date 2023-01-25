@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/20sound-hire-production.webp
-    alt: Cover image for 20Sound Hire Production the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/50.webp
+ alt: 'Australia from 20SoundHireProduction'
 ---
 
 # 20Sound Hire Production

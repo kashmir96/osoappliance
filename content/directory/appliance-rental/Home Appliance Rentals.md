@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/home-appliance-rentals.webp
-    alt: Cover image for Home Appliance Rentals the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/377.webp
+ alt: 'Australia from HomeApplianceRentals'
 ---
 
 # Home Appliance Rentals

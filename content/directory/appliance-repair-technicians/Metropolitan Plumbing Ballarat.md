@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/metropolitan-plumbing-ballarat.webp
-    alt: Cover image for Metropolitan Plumbing Ballarat the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/260.webp
+ alt: 'Australia from MetropolitanPlumbingBallarat'
 ---
 
 # Metropolitan Plumbing Ballarat

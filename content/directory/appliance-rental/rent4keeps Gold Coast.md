@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent4keeps-gold-coast.webp
-    alt: Cover image for rent4keeps Gold Coast the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/253.webp
+ alt: 'Australia from rent4keepsGoldCoast'
 ---
 
 # rent4keeps Gold Coast

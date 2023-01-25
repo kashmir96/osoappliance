@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washing-machine-repairs-glasgow.webp
-    alt: Cover image for Washing Machine Repairs Glasgow the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/351.webp
+ alt: 'UnitedKingdom from WashingMachineRepairsGlasgow'
 ---
 
 # Washing Machine Repairs Glasgow

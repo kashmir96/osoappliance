@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/vertex-home-services-inc.webp
-    alt: Cover image for Vertex Home Services Inc the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/5.webp
+ alt: 'UnitedStates from VertexHomeServicesInc'
 ---
 
 # Vertex Home Services Inc

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jd-services.webp
-    alt: Cover image for JD Services the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/66.webp
+ alt: 'UnitedKingdom from JDServices'
 ---
 
 # JD Services

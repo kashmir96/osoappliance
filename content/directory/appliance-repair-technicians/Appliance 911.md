@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-911.webp
-    alt: Cover image for Appliance 911 the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/224.webp
+ alt: 'UnitedStates from Appliance911'
 ---
 
 # Appliance 911

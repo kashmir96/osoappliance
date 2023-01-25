@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-doctors.webp
-    alt: Cover image for Appliance Doctors the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/192.webp
+ alt: 'UnitedStates from ApplianceDoctors'
 ---
 
 # Appliance Doctors

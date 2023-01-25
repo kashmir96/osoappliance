@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hire-power-nt.webp
-    alt: Cover image for Hire Power NT the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/372.webp
+ alt: 'Australia from HirePowerNT'
 ---
 
 # Hire Power NT

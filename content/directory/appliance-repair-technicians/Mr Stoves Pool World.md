@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-stoves-pool-world.webp
-    alt: Cover image for Mr Stoves Pool World the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/222.webp
+ alt: 'Australia from MrStovesPoolWorld'
 ---
 
 # Mr Stoves Pool World

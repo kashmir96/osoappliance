@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-emergency-plumbing-bendigo.webp
-    alt: Cover image for Mr Emergency Plumbing Bendigo the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/354.webp
+ alt: 'Australia from MrEmergencyPlumbingBendigo'
 ---
 
 # Mr Emergency Plumbing Bendigo

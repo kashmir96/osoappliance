@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/premier-adapter.webp
- alt: 'Logo for Premier Adapter the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/71.webp
+ alt: 'UnitedKingdom from premieradapter'
 ---
 
 # Premier Adapter is an Appliance Parts Supplier from United Kingdom.

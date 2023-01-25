@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jimi-sparkz-electrical-appliance-repairs.webp
-    alt: Cover image for Jimi Sparkz Electrical Appliance Repairs the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/305.webp
+ alt: 'Australia from JimiSparkzElectricalApplianceRepairs'
 ---
 
 # Jimi Sparkz Electrical Appliance Repairs

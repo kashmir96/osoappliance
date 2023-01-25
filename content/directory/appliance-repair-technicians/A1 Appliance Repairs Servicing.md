@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a1-appliance-repairs-servicing.webp
-    alt: Cover image for A1 Appliance Repairs Servicing the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/377.webp
+ alt: 'Australia from A1ApplianceRepairsServicing'
 ---
 
 # A1 Appliance Repairs Servicing

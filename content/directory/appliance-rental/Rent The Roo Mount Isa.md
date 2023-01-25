@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo-mount-isa.webp
-    alt: Cover image for Rent The Roo Mount Isa the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/107.webp
+ alt: 'Australia from RentTheRooMountIsa'
 ---
 
 # Rent The Roo Mount Isa

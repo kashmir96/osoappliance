@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/happys-rent-to-own.webp
-    alt: Cover image for Happys Rent to Own the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/103.webp
+ alt: 'UnitedStates from HappysRenttoOwn'
 ---
 
 # Happys Rent to Own

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tomtechi-appliance-repair.webp
-    alt: Cover image for Tomtechi Appliance Repair the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/147.webp
+ alt: 'UnitedStates from TomtechiApplianceRepair'
 ---
 
 # Tomtechi Appliance Repair

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/joyce-mayne-townsville.webp
-    alt: Cover image for Joyce Mayne Townsville the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/215.webp
+ alt: 'Australia from JoyceMayneTownsville'
 ---
 
 # Joyce Mayne Townsville

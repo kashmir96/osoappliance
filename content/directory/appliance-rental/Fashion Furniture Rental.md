@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/fashion-furniture-rental.webp
-    alt: Cover image for Fashion Furniture Rental the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/194.webp
+ alt: 'UnitedStates from FashionFurnitureRental'
 ---
 
 # Fashion Furniture Rental

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hotpoint-repairs-coventry.webp
-    alt: Cover image for Hotpoint Repairs Coventry the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/303.webp
+ alt: 'UnitedKingdom from HotpointRepairsCoventry'
 ---
 
 # Hotpoint Repairs Coventry

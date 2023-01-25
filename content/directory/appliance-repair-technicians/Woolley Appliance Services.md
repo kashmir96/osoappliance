@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/woolley-appliance-services.webp
-    alt: Cover image for Woolley Appliance Services the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/54.webp
+ alt: 'Australia from WoolleyApplianceServices'
 ---
 
 # Woolley Appliance Services

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/14all.webp
-    alt: Cover image for 14All the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/257.webp
+ alt: 'UnitedKingdom from 14All'
 ---
 
 # 14All

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hamilton-appliance-repairs.webp
-    alt: Cover image for Hamilton Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/84.webp
+ alt: 'UnitedKingdom from HamiltonApplianceRepairscopy'
 ---
 
 # Hamilton Appliance Repairs

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wallaces-appliance-repairs-parts-sales.webp
-    alt: Cover image for Wallaces Appliance Repairs Parts Sales the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/358.webp
+ alt: 'UnitedKingdom from WallacesApplianceRepairsPartsSales'
 ---
 
 # Wallaces Appliance Repairs Parts Sales

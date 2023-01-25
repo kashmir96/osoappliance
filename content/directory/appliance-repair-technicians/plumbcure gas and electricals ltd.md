@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumbcure-gas-and-electricals-ltd.webp
-    alt: Cover image for plumbcure gas and electricals ltd the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/274.webp
+ alt: 'UnitedKingdom from plumbcuregasandelectricalsltd'
 ---
 
 # plumbcure gas and electricals ltd

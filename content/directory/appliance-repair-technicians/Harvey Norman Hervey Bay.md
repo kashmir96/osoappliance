@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/harvey-norman-hervey-bay.webp
-    alt: Cover image for Harvey Norman Hervey Bay the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/279.webp
+ alt: 'Australia from HarveyNormanHerveyBay'
 ---
 
 # Harvey Norman Hervey Bay

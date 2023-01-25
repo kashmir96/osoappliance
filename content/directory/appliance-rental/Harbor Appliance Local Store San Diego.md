@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/harbor-appliance-local-store-san-diego.webp
-    alt: Cover image for Harbor Appliance Local Store San Diego the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/238.webp
+ alt: 'UnitedStates from HarborApplianceLocalStoreSanDiego'
 ---
 
 # Harbor Appliance Local Store San Diego

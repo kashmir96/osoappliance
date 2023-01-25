@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hjz-enginieering-ltd.webp
-    alt: Cover image for HJZ Enginieering LTD the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/57.webp
+ alt: 'UnitedKingdom from HJZEnginieeringLTD'
 ---
 
 # HJZ Enginieering LTD

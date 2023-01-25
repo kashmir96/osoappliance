@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/waiters-bartenders-cairns.webp
-    alt: Cover image for Waiters Bartenders Cairns the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/15.webp
+ alt: 'Australia from WaitersBartendersCairns'
 ---
 
 # Waiters Bartenders Cairns

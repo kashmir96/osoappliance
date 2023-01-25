@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-appliance-repair-doctor.webp
-    alt: Cover image for The Appliance Repair Doctor the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/137.webp
+ alt: 'UnitedStates from TheApplianceRepairDoctor'
 ---
 
 # The Appliance Repair Doctor

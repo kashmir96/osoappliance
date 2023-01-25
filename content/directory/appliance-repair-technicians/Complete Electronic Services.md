@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/complete-electronic-services.webp
-    alt: Cover image for Complete Electronic Services the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/80.webp
+ alt: 'Australia from CompleteElectronicServices'
 ---
 
 # Complete Electronic Services

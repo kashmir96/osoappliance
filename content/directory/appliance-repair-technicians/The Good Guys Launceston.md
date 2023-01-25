@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-good-guys-launceston.webp
-    alt: Cover image for The Good Guys Launceston the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/230.webp
+ alt: 'Australia from TheGoodGuysLaunceston'
 ---
 
 # The Good Guys Launceston

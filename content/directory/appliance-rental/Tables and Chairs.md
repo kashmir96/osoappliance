@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tables-and-chairs.webp
-    alt: Cover image for Tables and Chairs the United States based Appliance Rental servicing Houston 
+ image: /img/laundryappliance/1.webp
+ alt: 'UnitedStates from TablesandChairs'
 ---
 
 # Tables and Chairs

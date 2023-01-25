@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/z-furniture.webp
-    alt: Cover image for Z Furniture the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/309.webp
+ alt: 'Australia from ZFurniture'
 ---
 
 # Z Furniture

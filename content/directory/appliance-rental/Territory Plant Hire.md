@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/territory-plant-hire.webp
-    alt: Cover image for Territory Plant Hire the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/330.webp
+ alt: 'Australia from TerritoryPlantHire'
 ---
 
 # Territory Plant Hire

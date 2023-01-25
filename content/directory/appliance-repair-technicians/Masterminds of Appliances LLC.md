@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/masterminds-of-appliances-llc.webp
-    alt: Cover image for Masterminds of Appliances LLC the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/257.webp
+ alt: 'UnitedStates from MastermindsofAppliancesLLC'
 ---
 
 # Masterminds of Appliances LLC

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/extreme-transport-refrigeration.webp
-    alt: Cover image for Extreme Transport Refrigeration the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/306.webp
+ alt: 'Australia from ExtremeTransportRefrigeration'
 ---
 
 # Extreme Transport Refrigeration

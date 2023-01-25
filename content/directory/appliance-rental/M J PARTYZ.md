@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/m-j-partyz.webp
-    alt: Cover image for M J PARTYZ the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/239.webp
+ alt: 'Australia from MJPARTYZ'
 ---
 
 # M J PARTYZ

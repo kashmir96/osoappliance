@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ne-appliances.webp
-    alt: Cover image for NE Appliances the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/282.webp
+ alt: 'UnitedKingdom from NEAppliances'
 ---
 
 # NE Appliances

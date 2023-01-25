@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/local-appliance-rentals-preston.webp
-    alt: Cover image for Local Appliance Rentals Preston the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/364.webp
+ alt: 'Australia from LocalApplianceRentalsPreston'
 ---
 
 # Local Appliance Rentals Preston

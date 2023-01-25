@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/full-on-plumbing-gas.webp
-    alt: Cover image for Full On Plumbing Gas the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/54.webp
+ alt: 'Australia from FullOnPlumbingGas'
 ---
 
 # Full On Plumbing Gas

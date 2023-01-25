@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ecorental-solutions.webp
-    alt: Cover image for EcoRental Solutions the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/108.webp
+ alt: 'UnitedStates from EcoRentalSolutions'
 ---
 
 # EcoRental Solutions

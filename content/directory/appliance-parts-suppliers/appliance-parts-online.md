@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/appliance-parts-online.webp
- alt: 'Logo for Appliance Parts Online the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/180.webp
+ alt: 'NewZealand from appliancepartsonline'
 ---
 
 # Appliance Parts Online is an Appliance Parts Supplier from New Zealand.

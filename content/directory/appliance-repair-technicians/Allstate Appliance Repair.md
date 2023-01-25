@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/allstate-appliance-repair.webp
-    alt: Cover image for Allstate Appliance Repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/7.webp
+ alt: 'UnitedStates from AllstateApplianceRepair'
 ---
 
 # Allstate Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/picture-perfect-photobooth-rentals-chicago.webp
-    alt: Cover image for Picture Perfect Photobooth Rentals Chicago the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/223.webp
+ alt: 'UnitedStates from PicturePerfectPhotoboothRentalsChicago'
 ---
 
 # Picture Perfect Photobooth Rentals Chicago

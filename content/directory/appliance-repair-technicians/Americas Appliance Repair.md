@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/americas-appliance-repair.webp
-    alt: Cover image for Americas Appliance Repair the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/74.webp
+ alt: 'UnitedStates from AmericasApplianceRepair'
 ---
 
 # Americas Appliance Repair

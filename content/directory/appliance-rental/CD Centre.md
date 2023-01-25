@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cd-centre.webp
-    alt: Cover image for CD Centre the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/34.webp
+ alt: 'Australia from CDCentre'
 ---
 
 # CD Centre

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/frost-appliance.webp
-    alt: Cover image for Frost Appliance the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/293.webp
+ alt: 'UnitedStates from FrostAppliance'
 ---
 
 # Frost Appliance

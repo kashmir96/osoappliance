@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/j-r-c-services.webp
-    alt: Cover image for J R C Services the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/20.webp
+ alt: 'UnitedKingdom from JRCServices'
 ---
 
 # J R C Services

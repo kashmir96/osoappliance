@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bells-domestics.webp
-    alt: Cover image for Bells Domestics the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/79.webp
+ alt: 'UnitedKingdom from BellsDomestics'
 ---
 
 # Bells Domestics

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/patrick-lunney-home-appliance-service-repairs.webp
-    alt: Cover image for PATRICK LUNNEY HOME APPLIANCE SERVICE REPAIRS the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/251.webp
+ alt: 'Australia from PATRICKLUNNEYHOMEAPPLIANCESERVICEREPAIRS'
 ---
 
 # PATRICK LUNNEY HOME APPLIANCE SERVICE REPAIRS

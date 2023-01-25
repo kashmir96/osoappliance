@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Hastings"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/rp-electronic-services.webp
- alt: 'Logo for RP Electronic Services LTD the New Zealand from Hastings'
+cover:
+ image: /img/laundryappliance/105.webp
+ alt: 'NewZealand from rpelectronicservicesltd'
 ---
 
 # RP Electronic Services LTD is an Appliance Repair Technician Company operating in Hastings, New Zealand.

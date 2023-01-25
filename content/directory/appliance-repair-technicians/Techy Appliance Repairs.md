@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/techy-appliance-repairs.webp
-    alt: Cover image for Techy Appliance Repairs the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/37.webp
+ alt: 'Australia from TechyApplianceRepairs'
 ---
 
 # Techy Appliance Repairs

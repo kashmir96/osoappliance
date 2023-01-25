@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/ace-appliance.webp
- alt: 'Logo for Ace Appliance the New Zealand from Wellington'
+cover:
+ image: /img/laundryappliance/398.webp
+ alt: 'NewZealand from aceappliance'
 ---
 
 # Ace Appliance is an Appliance Repair Technician Company operating in Wellington, New Zealand.

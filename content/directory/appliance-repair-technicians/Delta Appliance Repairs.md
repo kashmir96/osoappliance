@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/delta-appliance-repairs.webp
-    alt: Cover image for Delta Appliance Repairs the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/325.webp
+ alt: 'Australia from DeltaApplianceRepairs'
 ---
 
 # Delta Appliance Repairs

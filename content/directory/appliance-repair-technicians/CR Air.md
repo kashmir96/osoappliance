@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cr-air.webp
-    alt: Cover image for CR Air the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/91.webp
+ alt: 'Australia from CRAir'
 ---
 
 # CR Air

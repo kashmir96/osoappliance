@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/north-coast-appliance-specialists.webp
-    alt: Cover image for North Coast Appliance Specialists the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/44.webp
+ alt: 'Australia from NorthCoastApplianceSpecialists'
 ---
 
 # North Coast Appliance Specialists

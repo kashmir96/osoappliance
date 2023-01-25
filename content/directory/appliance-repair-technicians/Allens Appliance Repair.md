@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/allens-appliance-repair.webp
-    alt: Cover image for Allens Appliance Repair the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/94.webp
+ alt: 'UnitedStates from AllensApplianceRepair'
 ---
 
 # Allens Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/best-beyond-appliance-repair.webp
-    alt: Cover image for Best Beyond Appliance Repair the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/271.webp
+ alt: 'UnitedStates from BestBeyondApplianceRepair'
 ---
 
 # Best Beyond Appliance Repair

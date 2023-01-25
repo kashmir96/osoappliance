@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/dishwasher-centre.webp
- alt: 'Logo for Dishwasher Centre the New Zealand from Wellington'
+cover:
+ image: /img/laundryappliance/145.webp
+ alt: 'NewZealand from dishwashercentre'
 ---
 
 # Dishwasher Centre is an Appliance Repair Technician Company operating in Wellington, New Zealand.

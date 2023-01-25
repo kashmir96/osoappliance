@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/after-5-pm-appliance-repair.webp
-    alt: Cover image for AFTER 5 PM APPLIANCE REPAIR the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/26.webp
+ alt: 'UnitedStates from AFTER5PMAPPLIANCEREPAIR'
 ---
 
 # AFTER 5 PM APPLIANCE REPAIR

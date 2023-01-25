@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/budget-car-truck-rental-albury.webp
-    alt: Cover image for Budget Car Truck Rental Albury the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/64.webp
+ alt: 'Australia from BudgetCarTruckRentalAlbury'
 ---
 
 # Budget Car Truck Rental Albury

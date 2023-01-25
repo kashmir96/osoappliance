@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/asap-oven-repairs.webp
-    alt: Cover image for ASAP Oven Repairs the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/400.webp
+ alt: 'Australia from ASAPOvenRepairs'
 ---
 
 # ASAP Oven Repairs

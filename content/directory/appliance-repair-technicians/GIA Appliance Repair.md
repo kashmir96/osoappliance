@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gia-appliance-repair.webp
-    alt: Cover image for GIA Appliance Repair the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/123.webp
+ alt: 'UnitedStates from GIAApplianceRepair'
 ---
 
 # GIA Appliance Repair

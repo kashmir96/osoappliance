@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/amy-goodill-heating-and-plumbing.webp
-    alt: Cover image for Amy Goodill Heating and Plumbing the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/131.webp
+ alt: 'UnitedKingdom from AmyGoodillHeatingandPlumbing'
 ---
 
 # Amy Goodill Heating and Plumbing

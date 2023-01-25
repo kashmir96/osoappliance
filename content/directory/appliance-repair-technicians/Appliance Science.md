@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-science.webp
-    alt: Cover image for Appliance Science the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/60.webp
+ alt: 'UnitedStates from ApplianceScience'
 ---
 
 # Appliance Science

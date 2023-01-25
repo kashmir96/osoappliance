@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-appliance-medic.webp
-    alt: Cover image for The Appliance Medic the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/43.webp
+ alt: 'UnitedKingdom from TheApplianceMedic'
 ---
 
 # The Appliance Medic

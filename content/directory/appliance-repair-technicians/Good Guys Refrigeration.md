@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/good-guys-refrigeration.webp
-    alt: Cover image for Good Guys Refrigeration the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/67.webp
+ alt: 'UnitedStates from GoodGuysRefrigeration'
 ---
 
 # Good Guys Refrigeration

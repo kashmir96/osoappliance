@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cloud-of-goods-san-diego.webp
-    alt: Cover image for Cloud of Goods San Diego the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/42.webp
+ alt: 'UnitedStates from CloudofGoodsSanDiego'
 ---
 
 # Cloud of Goods San Diego

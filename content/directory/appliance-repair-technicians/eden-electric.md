@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/eden-electric.webp
- alt: 'Logo for Eden Electric the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/209.webp
+ alt: 'NewZealand from edenelectric'
 ---
 
 # Eden Electric is an Appliance Repair Technician Company operating in Auckland, New Zealand.

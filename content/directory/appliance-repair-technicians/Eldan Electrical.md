@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/eldan-electrical.webp
-    alt: Cover image for Eldan Electrical the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/253.webp
+ alt: 'UnitedKingdom from EldanElectrical'
 ---
 
 # Eldan Electrical

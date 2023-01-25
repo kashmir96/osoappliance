@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/handy-hire.webp
-    alt: Cover image for Handy Hire the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/166.webp
+ alt: 'Australia from HandyHire'
 ---
 
 # Handy Hire

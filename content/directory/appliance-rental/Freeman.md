@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/freeman.webp
-    alt: Cover image for Freeman the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/305.webp
+ alt: 'Australia from Freeman'
 ---
 
 # Freeman

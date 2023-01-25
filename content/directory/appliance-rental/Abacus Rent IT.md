@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/abacus-rent-it.webp
-    alt: Cover image for Abacus Rent IT the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/263.webp
+ alt: 'Australia from AbacusRentIT'
 ---
 
 # Abacus Rent IT

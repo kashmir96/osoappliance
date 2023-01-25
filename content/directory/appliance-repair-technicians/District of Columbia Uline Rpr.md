@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/district-of-columbia-uline-rpr.webp
-    alt: Cover image for District of Columbia Uline Rpr the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/360.webp
+ alt: 'UnitedStates from DistrictofColumbiaUlineRpr'
 ---
 
 # District of Columbia Uline Rpr

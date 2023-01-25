@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/texas-first-rentals-dallas.webp
-    alt: Cover image for Texas First Rentals Dallas the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/30.webp
+ alt: 'UnitedStates from TexasFirstRentalsDallas'
 ---
 
 # Texas First Rentals Dallas

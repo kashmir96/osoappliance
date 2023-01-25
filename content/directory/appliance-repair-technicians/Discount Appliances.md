@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/discount-appliances.webp
-    alt: Cover image for Discount Appliances the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/31.webp
+ alt: 'UnitedKingdom from DiscountAppliances'
 ---
 
 # Discount Appliances

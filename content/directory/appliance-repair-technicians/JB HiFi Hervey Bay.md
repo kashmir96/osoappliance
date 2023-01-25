@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jb-hifi-hervey-bay.webp
-    alt: Cover image for JB HiFi Hervey Bay the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/304.webp
+ alt: 'Australia from JBHiFiHerveyBay'
 ---
 
 # JB HiFi Hervey Bay

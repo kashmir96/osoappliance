@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/birstall-domestic-repairs.webp
-    alt: Cover image for Birstall Domestic Repairs the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/281.webp
+ alt: 'UnitedKingdom from BirstallDomesticRepairs'
 ---
 
 # Birstall Domestic Repairs

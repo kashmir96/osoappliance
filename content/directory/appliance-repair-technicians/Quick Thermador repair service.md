@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/quick-thermador-repair-service.webp
-    alt: Cover image for Quick Thermador repair service the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/84.webp
+ alt: 'UnitedStates from QuickThermadorrepairservice'
 ---
 
 # Quick Thermador repair service

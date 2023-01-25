@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washercare-ltd.webp
-    alt: Cover image for Washercare Ltd the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/371.webp
+ alt: 'UnitedKingdom from WashercareLtd'
 ---
 
 # Washercare Ltd

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/berrys-appliances.webp
-    alt: Cover image for Berrys Appliances the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/267.webp
+ alt: 'UnitedStates from BerrysAppliances'
 ---
 
 # Berrys Appliances

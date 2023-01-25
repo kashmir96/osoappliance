@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bouncers-r-us-party-rentals.webp
-    alt: Cover image for Bouncers R Us Party Rentals the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/38.webp
+ alt: 'UnitedStates from BouncersRUsPartyRentals'
 ---
 
 # Bouncers R Us Party Rentals

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/he-equipment-services.webp
-    alt: Cover image for HE Equipment Services the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/89.webp
+ alt: 'UnitedStates from HEEquipmentServices'
 ---
 
 # HE Equipment Services

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/brandon-hire-station.webp
-    alt: Cover image for Brandon Hire Station the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/11.webp
+ alt: 'UnitedKingdom from BrandonHireStation'
 ---
 
 # Brandon Hire Station

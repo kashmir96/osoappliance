@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/designer-appliances-townsville.webp
-    alt: Cover image for Designer Appliances Townsville the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/119.webp
+ alt: 'Australia from DesignerAppliancesTownsville'
 ---
 
 # Designer Appliances Townsville

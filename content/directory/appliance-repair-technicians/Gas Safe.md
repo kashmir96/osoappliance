@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gas-safe.webp
-    alt: Cover image for Gas Safe the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/194.webp
+ alt: 'UnitedKingdom from GasSafe'
 ---
 
 # Gas Safe

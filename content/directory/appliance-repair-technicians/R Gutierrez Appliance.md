@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/r-gutierrez-appliance.webp
-    alt: Cover image for R Gutierrez Appliance the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/118.webp
+ alt: 'UnitedStates from RGutierrezAppliance'
 ---
 
 # R Gutierrez Appliance

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/onsite-rental-group.webp
-    alt: Cover image for Onsite Rental Group the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/236.webp
+ alt: 'Australia from OnsiteRentalGroup'
 ---
 
 # Onsite Rental Group

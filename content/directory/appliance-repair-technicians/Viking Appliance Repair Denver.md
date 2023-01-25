@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/viking-appliance-repair-denver.webp
-    alt: Cover image for Viking Appliance Repair Denver the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/31.webp
+ alt: 'UnitedStates from VikingApplianceRepairDenver'
 ---
 
 # Viking Appliance Repair Denver

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-balcatta.webp
-    alt: Cover image for Mr Rental Balcatta the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/25.webp
+ alt: 'Australia from MrRentalBalcatta'
 ---
 
 # Mr Rental Balcatta

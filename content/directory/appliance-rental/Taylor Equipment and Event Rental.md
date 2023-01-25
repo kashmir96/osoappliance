@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/taylor-equipment-and-event-rental.webp
-    alt: Cover image for Taylor Equipment and Event Rental the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/366.webp
+ alt: 'UnitedStates from TaylorEquipmentandEventRental'
 ---
 
 # Taylor Equipment and Event Rental

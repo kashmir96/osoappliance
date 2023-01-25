@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/advance-electrical.webp
-    alt: Cover image for Advance Electrical the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/172.webp
+ alt: 'Australia from AdvanceElectrical'
 ---
 
 # Advance Electrical

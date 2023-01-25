@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ljb-plumbing-and-gas.webp
-    alt: Cover image for LJB Plumbing And Gas the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/4.webp
+ alt: 'Australia from LJBPlumbingAndGas'
 ---
 
 # LJB Plumbing And Gas

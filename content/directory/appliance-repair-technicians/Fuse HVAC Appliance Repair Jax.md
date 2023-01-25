@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fuse-hvac-appliance-repair-jax.webp
-    alt: Cover image for Fuse HVAC Appliance Repair Jax the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/66.webp
+ alt: 'UnitedStates from FuseHVACApplianceRepairJax'
 ---
 
 # Fuse HVAC Appliance Repair Jax

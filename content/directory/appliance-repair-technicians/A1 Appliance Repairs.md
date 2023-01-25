@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a1-appliance-repairs.webp
-    alt: Cover image for A1 Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/39.webp
+ alt: 'UnitedKingdom from A1ApplianceRepairs'
 ---
 
 # A1 Appliance Repairs

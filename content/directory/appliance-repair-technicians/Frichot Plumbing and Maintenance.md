@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/frichot-plumbing-and-maintenance.webp
-    alt: Cover image for Frichot Plumbing and Maintenance the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/207.webp
+ alt: 'Australia from FrichotPlumbingandMaintenance'
 ---
 
 # Frichot Plumbing and Maintenance

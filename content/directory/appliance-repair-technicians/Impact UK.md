@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/impact-uk.webp
-    alt: Cover image for Impact UK the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/275.webp
+ alt: 'UnitedKingdom from ImpactUK'
 ---
 
 # Impact UK

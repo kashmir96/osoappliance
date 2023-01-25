@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mode-property-styling-ballarat.webp
-    alt: Cover image for Mode Property Styling Ballarat the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/256.webp
+ alt: 'Australia from ModePropertyStylingBallarat'
 ---
 
 # Mode Property Styling Ballarat

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-home-depot.webp
-    alt: Cover image for The Home Depot the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/382.webp
+ alt: 'UnitedStates from TheHomeDepot'
 ---
 
 # The Home Depot

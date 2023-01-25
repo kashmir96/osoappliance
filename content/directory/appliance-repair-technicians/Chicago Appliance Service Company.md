@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/chicago-appliance-service-company.webp
-    alt: Cover image for Chicago Appliance Service Company the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/326.webp
+ alt: 'UnitedStates from ChicagoApplianceServiceCompany'
 ---
 
 # Chicago Appliance Service Company

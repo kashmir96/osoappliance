@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/geelong-automotive-cooling.webp
-    alt: Cover image for Geelong Automotive Cooling the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/288.webp
+ alt: 'Australia from GeelongAutomotiveCooling'
 ---
 
 # Geelong Automotive Cooling

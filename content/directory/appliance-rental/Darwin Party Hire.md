@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/darwin-party-hire.webp
-    alt: Cover image for Darwin Party Hire the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/55.webp
+ alt: 'Australia from DarwinPartyHire'
 ---
 
 # Darwin Party Hire

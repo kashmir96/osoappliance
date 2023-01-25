@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gaggia-service-uk.webp
-    alt: Cover image for Gaggia Service UK the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/210.webp
+ alt: 'UnitedKingdom from GaggiaServiceUK'
 ---
 
 # Gaggia Service UK

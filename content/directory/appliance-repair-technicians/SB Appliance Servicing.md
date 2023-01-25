@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sb-appliance-servicing.webp
-    alt: Cover image for SB Appliance Servicing the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/392.webp
+ alt: 'UnitedKingdom from SBApplianceServicing'
 ---
 
 # SB Appliance Servicing

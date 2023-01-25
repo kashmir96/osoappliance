@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/wwspare.webp
- alt: 'Logo for WW Spares the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/182.webp
+ alt: 'Australia from wwspares'
 ---
 
 # WW Spares is an Appliance Parts Supplier from Australia.

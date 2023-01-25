@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lc-plumbing-gas.webp
-    alt: Cover image for LC Plumbing Gas the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/129.webp
+ alt: 'Australia from LCPlumbingGas'
 ---
 
 # LC Plumbing Gas

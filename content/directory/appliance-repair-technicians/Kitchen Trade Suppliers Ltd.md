@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kitchen-trade-suppliers-ltd.webp
-    alt: Cover image for Kitchen Trade Suppliers Ltd the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/371.webp
+ alt: 'UnitedKingdom from KitchenTradeSuppliersLtd'
 ---
 
 # Kitchen Trade Suppliers Ltd

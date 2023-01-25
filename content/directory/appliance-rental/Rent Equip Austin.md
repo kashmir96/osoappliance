@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-equip-austin.webp
-    alt: Cover image for Rent Equip Austin the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/260.webp
+ alt: 'UnitedStates from RentEquipAustin'
 ---
 
 # Rent Equip Austin

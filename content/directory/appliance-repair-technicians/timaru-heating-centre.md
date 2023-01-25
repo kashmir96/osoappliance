@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/timaru-heating-centre.webp
- alt: 'Logo for Timaru Heating Centre the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/312.webp
+ alt: 'NewZealand from timaruheatingcentre'
 ---
 
 # Timaru Heating Centre is an Appliance Repair Technician Company operating in Timaru, New Zealand.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mcmaster-t-d.webp
-    alt: Cover image for McMaster T D the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/15.webp
+ alt: 'Australia from McMasterTD'
 ---
 
 # McMaster T D

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/eleven04.webp
-    alt: Cover image for ELEVEN04 the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/318.webp
+ alt: 'UnitedStates from ELEVEN04'
 ---
 
 # ELEVEN04

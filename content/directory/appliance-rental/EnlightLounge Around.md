@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/enlightlounge-around.webp
-    alt: Cover image for EnlightLounge Around the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/23.webp
+ alt: 'UnitedStates from EnlightLoungeAround'
 ---
 
 # EnlightLounge Around

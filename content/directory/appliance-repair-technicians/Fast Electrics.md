@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fast-electrics.webp
-    alt: Cover image for Fast Electrics the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/216.webp
+ alt: 'UnitedKingdom from FastElectrics'
 ---
 
 # Fast Electrics

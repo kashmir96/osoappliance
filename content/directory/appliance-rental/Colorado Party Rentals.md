@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/colorado-party-rentals.webp
-    alt: Cover image for Colorado Party Rentals the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/129.webp
+ alt: 'UnitedStates from ColoradoPartyRentals'
 ---
 
 # Colorado Party Rentals

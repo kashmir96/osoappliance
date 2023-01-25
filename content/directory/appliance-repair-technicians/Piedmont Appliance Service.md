@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/piedmont-appliance-service.webp
-    alt: Cover image for Piedmont Appliance Service the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/78.webp
+ alt: 'UnitedStates from PiedmontApplianceService'
 ---
 
 # Piedmont Appliance Service

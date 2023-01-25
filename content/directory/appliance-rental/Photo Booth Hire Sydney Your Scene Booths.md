@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/photo-booth-hire-sydney-your-scene-booths.webp
-    alt: Cover image for Photo Booth Hire Sydney Your Scene Booths the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/310.webp
+ alt: 'Australia from PhotoBoothHireSydneyYourSceneBooths'
 ---
 
 # Photo Booth Hire Sydney Your Scene Booths

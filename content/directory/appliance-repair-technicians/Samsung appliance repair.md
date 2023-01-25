@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/samsung-appliance-repair.webp
-    alt: Cover image for Samsung appliance repair the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/269.webp
+ alt: 'UnitedStates from Samsungappliancerepair'
 ---
 
 # Samsung appliance repair

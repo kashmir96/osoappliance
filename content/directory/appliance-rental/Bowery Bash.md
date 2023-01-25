@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bowery-bash.webp
-    alt: Cover image for Bowery Bash the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/106.webp
+ alt: 'UnitedStates from BoweryBash'
 ---
 
 # Bowery Bash

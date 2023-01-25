@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/affordable-appliance-service.webp
-    alt: Cover image for Affordable Appliance Service the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/379.webp
+ alt: 'UnitedStates from AffordableApplianceService'
 ---
 
 # Affordable Appliance Service

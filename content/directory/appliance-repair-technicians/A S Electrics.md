@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-s-electrics.webp
-    alt: Cover image for A S Electrics the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/272.webp
+ alt: 'UnitedKingdom from ASElectrics'
 ---
 
 # A S Electrics

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/amros-appliance-services.webp
-    alt: Cover image for Amros Appliance Services the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/280.webp
+ alt: 'UnitedStates from AmrosApplianceServices'
 ---
 
 # Amros Appliance Services

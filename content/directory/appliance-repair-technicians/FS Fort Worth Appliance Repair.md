@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fs-fort-worth-appliance-repair.webp
-    alt: Cover image for FS Fort Worth Appliance Repair the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/355.webp
+ alt: 'UnitedStates from FSFortWorthApplianceRepair'
 ---
 
 # FS Fort Worth Appliance Repair

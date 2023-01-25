@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kitchen-appliance-solutions.webp
-    alt: Cover image for Kitchen Appliance Solutions the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/332.webp
+ alt: 'UnitedKingdom from KitchenApplianceSolutions'
 ---
 
 # Kitchen Appliance Solutions

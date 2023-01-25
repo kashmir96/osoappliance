@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/northside-appliance-services.webp
-    alt: Cover image for Northside Appliance Services the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/218.webp
+ alt: 'UnitedStates from NorthsideApplianceServices'
 ---
 
 # Northside Appliance Services

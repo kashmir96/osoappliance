@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/barwon-gas.webp
-    alt: Cover image for Barwon Gas the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/295.webp
+ alt: 'Australia from BarwonGas'
 ---
 
 # Barwon Gas

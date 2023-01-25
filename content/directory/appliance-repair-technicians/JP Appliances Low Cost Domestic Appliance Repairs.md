@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jp-appliances-low-cost-domestic-appliance-repairs.webp
-    alt: Cover image for JP Appliances Low Cost Domestic Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/332.webp
+ alt: 'UnitedKingdom from JPAppliancesLowCostDomesticApplianceRepairs'
 ---
 
 # JP Appliances Low Cost Domestic Appliance Repairs

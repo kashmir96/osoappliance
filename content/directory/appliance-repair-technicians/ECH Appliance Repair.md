@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ech-appliance-repair.webp
-    alt: Cover image for ECH Appliance Repair the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/51.webp
+ alt: 'UnitedStates from ECHApplianceRepair'
 ---
 
 # ECH Appliance Repair

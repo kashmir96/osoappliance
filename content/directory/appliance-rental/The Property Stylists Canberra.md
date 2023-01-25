@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-property-stylists-canberra.webp
-    alt: Cover image for The Property Stylists Canberra the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/357.webp
+ alt: 'Australia from ThePropertyStylistsCanberra'
 ---
 
 # The Property Stylists Canberra

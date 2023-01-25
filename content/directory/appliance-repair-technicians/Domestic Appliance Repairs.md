@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/domestic-appliance-repairs.webp
-    alt: Cover image for Domestic Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/393.webp
+ alt: 'UnitedKingdom from DomesticApplianceRepairs'
 ---
 
 # Domestic Appliance Repairs

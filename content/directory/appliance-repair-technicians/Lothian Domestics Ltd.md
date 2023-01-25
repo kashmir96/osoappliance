@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lothian-domestics-ltd.webp
-    alt: Cover image for Lothian Domestics Ltd the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/386.webp
+ alt: 'UnitedKingdom from LothianDomesticsLtd'
 ---
 
 # Lothian Domestics Ltd

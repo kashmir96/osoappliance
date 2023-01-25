@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/jukebox-hero-jukebox-karaoke-hire.webp
-    alt: Cover image for Jukebox Hero Jukebox Karaoke Hire the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/133.webp
+ alt: 'Australia from JukeboxHeroJukeboxKaraokeHire'
 ---
 
 # Jukebox Hero Jukebox Karaoke Hire

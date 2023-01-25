@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/direct-brand.webp
- alt: 'Logo for Direct Brand the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/19.webp
+ alt: 'UnitedStates from directbrand'
 ---
 
 # Direct Brand is an Appliance Parts Supplier from United States.

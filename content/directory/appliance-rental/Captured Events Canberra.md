@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/captured-events-canberra.webp
-    alt: Cover image for Captured Events Canberra the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/339.webp
+ alt: 'Australia from CapturedEventsCanberra'
 ---
 
 # Captured Events Canberra

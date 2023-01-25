@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-highland-park.webp
-    alt: Cover image for Mr Appliance of Highland Park the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/326.webp
+ alt: 'UnitedStates from MrApplianceofHighlandPark'
 ---
 
 # Mr Appliance of Highland Park

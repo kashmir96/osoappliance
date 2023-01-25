@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/voila-design-home.webp
-    alt: Cover image for Voila Design Home the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/90.webp
+ alt: 'UnitedStates from VoilaDesignHome'
 ---
 
 # Voila Design Home

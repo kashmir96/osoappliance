@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/onsite-appliance.webp
-    alt: Cover image for OnSite Appliance the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/286.webp
+ alt: 'UnitedStates from OnSiteAppliance'
 ---
 
 # OnSite Appliance

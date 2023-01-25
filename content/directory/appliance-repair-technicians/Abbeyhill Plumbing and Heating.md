@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abbeyhill-plumbing-and-heating.webp
-    alt: Cover image for Abbeyhill Plumbing and Heating the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/214.webp
+ alt: 'UnitedKingdom from AbbeyhillPlumbingandHeating'
 ---
 
 # Abbeyhill Plumbing and Heating

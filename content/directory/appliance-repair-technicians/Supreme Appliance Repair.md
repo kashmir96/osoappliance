@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/supreme-appliance-repair.webp
-    alt: Cover image for Supreme Appliance Repair the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/157.webp
+ alt: 'UnitedStates from SupremeApplianceRepair'
 ---
 
 # Supreme Appliance Repair

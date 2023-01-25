@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/inhabitr-chicago-furniture-rental.webp
-    alt: Cover image for Inhabitr Chicago Furniture Rental the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/53.webp
+ alt: 'UnitedStates from InhabitrChicagoFurnitureRental'
 ---
 
 # Inhabitr Chicago Furniture Rental

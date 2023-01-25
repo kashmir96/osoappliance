@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/kitchenware-online.webp
- alt: 'Logo for Kitchenware Online the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/85.webp
+ alt: 'UnitedKingdom from kitchenwareonline'
 ---
 
 # Kitchenware Online is an Appliance Parts Supplier from United Kingdom.

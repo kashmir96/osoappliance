@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cool-cats.webp
-    alt: Cover image for Cool Cats the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/107.webp
+ alt: 'Australia from CoolCats'
 ---
 
 # Cool Cats

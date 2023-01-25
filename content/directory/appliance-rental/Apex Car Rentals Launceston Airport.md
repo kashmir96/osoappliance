@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/apex-car-rentals-launceston-airport.webp
-    alt: Cover image for Apex Car Rentals Launceston Airport the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/210.webp
+ alt: 'Australia from ApexCarRentalsLauncestonAirport'
 ---
 
 # Apex Car Rentals Launceston Airport

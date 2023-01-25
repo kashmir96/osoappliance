@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/endeavour-refrigeration-appliance-services.webp
-    alt: Cover image for Endeavour Refrigeration Appliance Services the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/268.webp
+ alt: 'Australia from EndeavourRefrigerationApplianceServices'
 ---
 
 # Endeavour Refrigeration Appliance Services

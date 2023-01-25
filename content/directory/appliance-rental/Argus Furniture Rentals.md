@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/argus-furniture-rentals.webp
-    alt: Cover image for Argus Furniture Rentals the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/315.webp
+ alt: 'Australia from ArgusFurnitureRentals'
 ---
 
 # Argus Furniture Rentals

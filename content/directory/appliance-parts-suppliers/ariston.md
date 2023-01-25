@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/ariston.webp
- alt: 'Logo for Ariston the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/76.webp
+ alt: 'UnitedKingdom from ariston'
 ---
 
 # Ariston is an Appliance Parts Supplier from United Kingdom.

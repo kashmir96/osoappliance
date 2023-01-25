@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hi-tech-tv-services.webp
-    alt: Cover image for Hi Tech TV Services the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/329.webp
+ alt: 'UnitedKingdom from HiTechTVServices'
 ---
 
 # Hi Tech TV Services

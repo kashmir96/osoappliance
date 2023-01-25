@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nb-plumbing-heating.webp
-    alt: Cover image for NB Plumbing Heating the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/292.webp
+ alt: 'UnitedKingdom from NBPlumbingHeating'
 ---
 
 # NB Plumbing Heating

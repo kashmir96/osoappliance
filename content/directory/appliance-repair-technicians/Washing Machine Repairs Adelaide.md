@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washing-machine-repairs-adelaide.webp
-    alt: Cover image for Washing Machine Repairs Adelaide the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/51.webp
+ alt: 'Australia from WashingMachineRepairsAdelaide'
 ---
 
 # Washing Machine Repairs Adelaide

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/parts-town.webp
- alt: 'Logo for Parts Town the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/51.webp
+ alt: 'Nigeria from partstown'
 ---
 
 # Parts Town is an Appliance Parts Supplier from Nigeria.

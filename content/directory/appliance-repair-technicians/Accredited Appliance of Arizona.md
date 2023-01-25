@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/accredited-appliance-of-arizona.webp
-    alt: Cover image for Accredited Appliance of Arizona the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/289.webp
+ alt: 'UnitedStates from AccreditedApplianceofArizona'
 ---
 
 # Accredited Appliance of Arizona

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cq-video-tv-repairs.webp
-    alt: Cover image for Cq Video Tv Repairs the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/70.webp
+ alt: 'Australia from CqVideoTvRepairs'
 ---
 
 # Cq Video Tv Repairs

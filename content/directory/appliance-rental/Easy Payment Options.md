@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/easy-payment-options.webp
-    alt: Cover image for Easy Payment Options the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/188.webp
+ alt: 'Australia from EasyPaymentOptions'
 ---
 
 # Easy Payment Options

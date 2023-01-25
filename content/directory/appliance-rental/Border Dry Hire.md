@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/border-dry-hire.webp
-    alt: Cover image for Border Dry Hire the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/355.webp
+ alt: 'Australia from BorderDryHire'
 ---
 
 # Border Dry Hire

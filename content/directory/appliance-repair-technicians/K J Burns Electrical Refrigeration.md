@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/k-j-burns-electrical-refrigeration.webp
-    alt: Cover image for K J Burns Electrical Refrigeration the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/110.webp
+ alt: 'Australia from KJBurnsElectricalRefrigeration'
 ---
 
 # K J Burns Electrical Refrigeration

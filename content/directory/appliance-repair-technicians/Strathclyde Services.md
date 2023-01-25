@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/strathclyde-services.webp
-    alt: Cover image for Strathclyde Services the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/311.webp
+ alt: 'UnitedKingdom from StrathclydeServices'
 ---
 
 # Strathclyde Services

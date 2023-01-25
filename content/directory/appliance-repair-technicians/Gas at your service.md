@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gas-at-your-service.webp
-    alt: Cover image for Gas at your service the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/84.webp
+ alt: 'UnitedKingdom from Gasatyourservice'
 ---
 
 # Gas at your service

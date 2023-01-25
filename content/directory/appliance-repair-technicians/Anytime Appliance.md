@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/anytime-appliance.webp
-    alt: Cover image for Anytime Appliance the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/28.webp
+ alt: 'UnitedStates from AnytimeAppliance'
 ---
 
 # Anytime Appliance

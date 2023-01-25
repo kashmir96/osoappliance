@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/perth-appliance-service.webp
-    alt: Cover image for Perth Appliance Service the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/39.webp
+ alt: 'Australia from PerthApplianceService'
 ---
 
 # Perth Appliance Service

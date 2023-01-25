@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mos-appliance-care.webp
-    alt: Cover image for MOS Appliance Care the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/221.webp
+ alt: 'UnitedKingdom from MOSApplianceCare'
 ---
 
 # MOS Appliance Care

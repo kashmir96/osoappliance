@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sa-leisure.webp
-    alt: Cover image for SA Leisure the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/316.webp
+ alt: 'Australia from SALeisure'
 ---
 
 # SA Leisure

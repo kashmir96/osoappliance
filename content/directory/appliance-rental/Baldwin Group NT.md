@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/baldwin-group-nt.webp
-    alt: Cover image for Baldwin Group NT the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/384.webp
+ alt: 'Australia from BaldwinGroupNT'
 ---
 
 # Baldwin Group NT

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tinus-electrical.webp
-    alt: Cover image for Tinus Electrical the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/120.webp
+ alt: 'Australia from TinusElectrical'
 ---
 
 # Tinus Electrical

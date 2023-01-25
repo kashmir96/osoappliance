@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/south-cold-refrigeration.webp
-    alt: Cover image for South cold refrigeration the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/232.webp
+ alt: 'UnitedKingdom from Southcoldrefrigeration'
 ---
 
 # South cold refrigeration

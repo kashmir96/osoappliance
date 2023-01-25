@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Wanganui"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/appliance-repair-care.webp
- alt: 'Logo for Appliance Repair Care the New Zealand from Wanganui'
+cover:
+ image: /img/laundryappliance/306.webp
+ alt: 'NewZealand from appliancerepaircare'
 ---
 
 # Appliance Repair Care is an Appliance Repair Technician Company operating in Wanganui, New Zealand.

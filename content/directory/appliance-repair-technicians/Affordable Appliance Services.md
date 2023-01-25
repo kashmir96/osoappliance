@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/affordable-appliance-services.webp
-    alt: Cover image for Affordable Appliance Services the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/298.webp
+ alt: 'Australia from AffordableApplianceServices'
 ---
 
 # Affordable Appliance Services

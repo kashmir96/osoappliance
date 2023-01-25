@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/obys-appliance-installation.webp
-    alt: Cover image for OBYS Appliance Installation the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/301.webp
+ alt: 'UnitedStates from OBYSApplianceInstallation'
 ---
 
 # OBYS Appliance Installation

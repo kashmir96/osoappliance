@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/king-appliance.webp
-    alt: Cover image for King Appliance the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/132.webp
+ alt: 'UnitedStates from KingAppliance'
 ---
 
 # King Appliance

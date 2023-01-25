@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/local-appliance-services.webp
-    alt: Cover image for Local Appliance Services the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/394.webp
+ alt: 'Australia from LocalApplianceServices'
 ---
 
 # Local Appliance Services

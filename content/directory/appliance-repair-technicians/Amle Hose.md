@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/amle-hose.webp
-    alt: Cover image for Amle Hose the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/159.webp
+ alt: 'UnitedKingdom from AmleHose'
 ---
 
 # Amle Hose

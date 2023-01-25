@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-m-c-vacum-cleaner-repair-centre.webp
-    alt: Cover image for A M C Vacum Cleaner Repair Centre the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/3.webp
+ alt: 'UnitedKingdom from AMCVacumCleanerRepairCentre'
 ---
 
 # A M C Vacum Cleaner Repair Centre

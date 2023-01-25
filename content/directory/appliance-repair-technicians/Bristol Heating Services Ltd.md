@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bristol-heating-services-ltd.webp
-    alt: Cover image for Bristol Heating Services Ltd the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/192.webp
+ alt: 'UnitedKingdom from BristolHeatingServicesLtd'
 ---
 
 # Bristol Heating Services Ltd

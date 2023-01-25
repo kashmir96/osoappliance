@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/marshall-textiles.webp
-    alt: Cover image for Marshall Textiles the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/225.webp
+ alt: 'UnitedKingdom from MarshallTextiles'
 ---
 
 # Marshall Textiles

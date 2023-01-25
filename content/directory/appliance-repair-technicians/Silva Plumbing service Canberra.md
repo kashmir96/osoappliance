@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/silva-plumbing-service-canberra.webp
-    alt: Cover image for Silva Plumbing service Canberra the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/209.webp
+ alt: 'Australia from SilvaPlumbingserviceCanberra'
 ---
 
 # Silva Plumbing service Canberra

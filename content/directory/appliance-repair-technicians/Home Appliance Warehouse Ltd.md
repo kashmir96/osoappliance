@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/home-appliance-warehouse-ltd.webp
-    alt: Cover image for Home Appliance Warehouse Ltd the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/397.webp
+ alt: 'UnitedKingdom from HomeApplianceWarehouseLtd'
 ---
 
 # Home Appliance Warehouse Ltd

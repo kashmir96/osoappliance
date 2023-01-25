@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fda-repairs.webp
-    alt: Cover image for FDA Repairs the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/87.webp
+ alt: 'UnitedKingdom from FDARepairs'
 ---
 
 # FDA Repairs

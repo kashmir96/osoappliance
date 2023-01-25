@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/two-sticks-hire.webp
-    alt: Cover image for Two Sticks Hire the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/163.webp
+ alt: 'Australia from TwoSticksHire'
 ---
 
 # Two Sticks Hire

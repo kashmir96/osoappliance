@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Second hand appliances, New Appliances"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-second-hand-appliances,-new-appliances/maytag-commercial-laundry-repairs.webp
- alt: 'Logo for MayTag Commercial Laundry Repairs the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/104.webp
+ alt: 'NewZealand from maytagcommerciallaundryrepairs'
 ---
 
 # MayTag Commercial Laundry Repairs is an Appliance Repair Technician, Second hand appliances, New Appliances Company operating in Christchurch, New Zealand.

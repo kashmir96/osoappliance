@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/inhabitr-seattle-furniture-rental.webp
-    alt: Cover image for Inhabitr Seattle Furniture Rental the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/211.webp
+ alt: 'UnitedStates from InhabitrSeattleFurnitureRental'
 ---
 
 # Inhabitr Seattle Furniture Rental

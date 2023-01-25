@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/denver-appliance-pros.webp
-    alt: Cover image for Denver Appliance Pros the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/189.webp
+ alt: 'UnitedStates from DenverAppliancePros'
 ---
 
 # Denver Appliance Pros

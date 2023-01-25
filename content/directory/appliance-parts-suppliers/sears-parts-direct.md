@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/sears-parts-direct.webp
- alt: 'Logo for Sears Parts Direct the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/171.webp
+ alt: 'Canada from searspartsdirect'
 ---
 
 # Sears Parts Direct is an Appliance Parts Supplier from Canada.

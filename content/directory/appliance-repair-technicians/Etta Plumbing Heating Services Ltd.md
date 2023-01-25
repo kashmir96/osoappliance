@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/etta-plumbing-heating-services-ltd.webp
-    alt: Cover image for Etta Plumbing Heating Services Ltd the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/138.webp
+ alt: 'UnitedKingdom from EttaPlumbingHeatingServicesLtd'
 ---
 
 # Etta Plumbing Heating Services Ltd

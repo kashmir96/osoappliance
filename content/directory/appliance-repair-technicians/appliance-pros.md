@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/appliance-pros.webp
- alt: 'Logo for Appliance Pros the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/101.webp
+ alt: 'NewZealand from appliancepros'
 ---
 
 # Appliance Pros is an Appliance Repair Technician Company operating in Christchurch, New Zealand.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/repair-my-appliance-nyc.webp
-    alt: Cover image for Repair My Appliance NYC the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/199.webp
+ alt: 'UnitedStates from RepairMyApplianceNYC'
 ---
 
 # Repair My Appliance NYC

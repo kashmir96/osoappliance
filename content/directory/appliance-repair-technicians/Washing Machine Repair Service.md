@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washing-machine-repair-service.webp
-    alt: Cover image for Washing Machine Repair Service the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/245.webp
+ alt: 'UnitedKingdom from WashingMachineRepairService'
 ---
 
 # Washing Machine Repair Service

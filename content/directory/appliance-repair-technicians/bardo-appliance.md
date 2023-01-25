@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/bardo-appliance.webp
- alt: 'Logo for Bardo Appliance the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/213.webp
+ alt: 'NewZealand from bardoappliance'
 ---
 
 # Bardo Appliance is an Appliance Repair Technician Company operating in Auckland, New Zealand.

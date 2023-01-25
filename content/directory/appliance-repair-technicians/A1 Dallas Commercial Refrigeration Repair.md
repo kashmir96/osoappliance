@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a1-dallas-commercial-refrigeration-repair.webp
-    alt: Cover image for A1 Dallas Commercial Refrigeration Repair the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/384.webp
+ alt: 'UnitedStates from A1DallasCommercialRefrigerationRepair'
 ---
 
 # A1 Dallas Commercial Refrigeration Repair

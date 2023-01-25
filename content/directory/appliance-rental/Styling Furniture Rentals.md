@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/styling-furniture-rentals.webp
-    alt: Cover image for Styling Furniture Rentals the Australia based Appliance Rental servicing Geelong 
+ image: /img/laundryappliance/332.webp
+ alt: 'Australia from StylingFurnitureRentals'
 ---
 
 # Styling Furniture Rentals

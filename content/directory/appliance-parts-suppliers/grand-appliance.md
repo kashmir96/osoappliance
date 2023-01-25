@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/grand-appliance.webp
- alt: 'Logo for Grand Appliance the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/75.webp
+ alt: 'Canada from grandappliance'
 ---
 
 # Grand Appliance is an Appliance Parts Supplier from Canada.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/irving-refrigerator-repair.webp
-    alt: Cover image for Irving Refrigerator Repair the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/29.webp
+ alt: 'UnitedStates from IrvingRefrigeratorRepair'
 ---
 
 # Irving Refrigerator Repair

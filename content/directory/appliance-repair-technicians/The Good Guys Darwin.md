@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-good-guys-darwin.webp
-    alt: Cover image for The Good Guys Darwin the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/251.webp
+ alt: 'Australia from TheGoodGuysDarwin'
 ---
 
 # The Good Guys Darwin

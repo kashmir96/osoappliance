@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Wanganui"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/walker-thomas.webp
- alt: 'Logo for Walker Thomas the New Zealand from Wanganui'
+cover:
+ image: /img/laundryappliance/394.webp
+ alt: 'NewZealand from walkerthomas'
 ---
 
 # Walker Thomas is an Appliance Repair Technician Company operating in Wanganui, New Zealand.

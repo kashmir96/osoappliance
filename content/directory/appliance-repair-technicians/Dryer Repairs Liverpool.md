@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dryer-repairs-liverpool.webp
-    alt: Cover image for Dryer Repairs Liverpool the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/239.webp
+ alt: 'UnitedKingdom from DryerRepairsLiverpool'
 ---
 
 # Dryer Repairs Liverpool

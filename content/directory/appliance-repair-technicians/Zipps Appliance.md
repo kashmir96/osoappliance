@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/zipps-appliance.webp
-    alt: Cover image for Zipps Appliance the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/30.webp
+ alt: 'UnitedStates from ZippsAppliance'
 ---
 
 # Zipps Appliance

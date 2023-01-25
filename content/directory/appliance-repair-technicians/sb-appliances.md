@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/sb-appliances.webp
- alt: 'Logo for SB Appliances the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/169.webp
+ alt: 'NewZealand from sbappliances'
 ---
 
 # SB Appliances is an Appliance Repair Technician Company operating in Auckland, New Zealand.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ice-house-party-rentals.webp
-    alt: Cover image for Ice House Party Rentals the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/265.webp
+ alt: 'UnitedStates from IceHousePartyRentals'
 ---
 
 # Ice House Party Rentals

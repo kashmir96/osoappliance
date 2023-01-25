@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hunter-valley-whitegoods.webp
-    alt: Cover image for Hunter Valley Whitegoods the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/203.webp
+ alt: 'Australia from HunterValleyWhitegoods'
 ---
 
 # Hunter Valley Whitegoods

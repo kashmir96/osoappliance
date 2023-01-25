@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/lawrence-&-hansen.webp
- alt: 'Logo for Lawrence & Hansen the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/63.webp
+ alt: 'Australia from lawrencehansen'
 ---
 
 # Lawrence & Hansen is an Appliance Parts Supplier from Australia.

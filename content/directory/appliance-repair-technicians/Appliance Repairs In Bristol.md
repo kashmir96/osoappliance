@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repairs-in-bristol.webp
-    alt: Cover image for Appliance Repairs In Bristol the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/250.webp
+ alt: 'UnitedKingdom from ApplianceRepairsInBristol'
 ---
 
 # Appliance Repairs In Bristol

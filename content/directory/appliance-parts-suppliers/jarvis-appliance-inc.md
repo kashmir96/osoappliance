@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/jarvis-appliance-inc.webp
- alt: 'Logo for Jarvis Appliance Inc the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/94.webp
+ alt: 'Canada from jarvisapplianceinc'
 ---
 
 # Jarvis Appliance Inc is an Appliance Parts Supplier from Canada.

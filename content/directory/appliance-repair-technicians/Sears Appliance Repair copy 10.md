@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sears-appliance-repair.webp
-    alt: Cover image for Sears Appliance Repair the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/301.webp
+ alt: 'UnitedStates from SearsApplianceRepaircopy10'
 ---
 
 # Sears Appliance Repair

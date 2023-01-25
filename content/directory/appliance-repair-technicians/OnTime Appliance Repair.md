@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ontime-appliance-repair.webp
-    alt: Cover image for OnTime Appliance Repair the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/188.webp
+ alt: 'UnitedStates from OnTimeApplianceRepair'
 ---
 
 # OnTime Appliance Repair

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/macrae-rentals.webp
-    alt: Cover image for MacRae Rentals the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/77.webp
+ alt: 'Australia from MacRaeRentals'
 ---
 
 # MacRae Rentals

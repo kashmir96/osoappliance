@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/total-appliance-care.webp
-    alt: Cover image for Total Appliance Care the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/278.webp
+ alt: 'UnitedKingdom from TotalApplianceCare'
 ---
 
 # Total Appliance Care

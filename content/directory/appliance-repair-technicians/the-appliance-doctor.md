@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["New Plymouth"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/the-appliance-doctor.webp
- alt: 'Logo for The Appliance Doctor the New Zealand from New Plymouth'
+cover:
+ image: /img/laundryappliance/96.webp
+ alt: 'NewZealand from theappliancedoctor'
 ---
 
 # The Appliance Doctor is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.

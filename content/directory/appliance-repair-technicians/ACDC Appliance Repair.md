@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/acdc-appliance-repair.webp
-    alt: Cover image for ACDC Appliance Repair the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/4.webp
+ alt: 'UnitedStates from ACDCApplianceRepair'
 ---
 
 # ACDC Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/manton-appliance-service.webp
-    alt: Cover image for Manton Appliance Service the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/108.webp
+ alt: 'UnitedStates from MantonApplianceService'
 ---
 
 # Manton Appliance Service

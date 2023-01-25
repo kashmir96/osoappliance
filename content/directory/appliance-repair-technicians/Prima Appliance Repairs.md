@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/prima-appliance-repairs.webp
-    alt: Cover image for Prima Appliance Repairs the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/185.webp
+ alt: 'Australia from PrimaApplianceRepairs'
 ---
 
 # Prima Appliance Repairs

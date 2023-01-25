@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/always-prompt-services-kenmore.webp
-    alt: Cover image for Always Prompt Services Kenmore the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/89.webp
+ alt: 'Australia from AlwaysPromptServicesKenmore'
 ---
 
 # Always Prompt Services Kenmore

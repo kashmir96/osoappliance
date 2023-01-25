@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/andy-bakewell-domestic-appliances-repairs-nottingham.webp
-    alt: Cover image for Andy Bakewell Domestic Appliances Repairs Nottingham the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/190.webp
+ alt: 'UnitedKingdom from AndyBakewellDomesticAppliancesRepairsNottingham'
 ---
 
 # Andy Bakewell Domestic Appliances Repairs Nottingham

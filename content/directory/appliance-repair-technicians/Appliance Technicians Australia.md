@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-technicians-australia.webp
-    alt: Cover image for Appliance Technicians Australia the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/305.webp
+ alt: 'Australia from ApplianceTechniciansAustralia'
 ---
 
 # Appliance Technicians Australia

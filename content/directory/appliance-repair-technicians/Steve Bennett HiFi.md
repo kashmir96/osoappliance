@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/steve-bennett-hifi.webp
-    alt: Cover image for Steve Bennett HiFi the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/238.webp
+ alt: 'Australia from SteveBennettHiFi'
 ---
 
 # Steve Bennett HiFi

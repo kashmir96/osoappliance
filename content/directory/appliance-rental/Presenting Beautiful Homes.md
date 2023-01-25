@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/presenting-beautiful-homes.webp
-    alt: Cover image for Presenting Beautiful Homes the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/68.webp
+ alt: 'Australia from PresentingBeautifulHomes'
 ---
 
 # Presenting Beautiful Homes

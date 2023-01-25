@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mcs-heating-plumbing-ltd.webp
-    alt: Cover image for MCS Heating Plumbing Ltd the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/259.webp
+ alt: 'UnitedKingdom from MCSHeatingPlumbingLtd'
 ---
 
 # MCS Heating Plumbing Ltd

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abc-maintenance-london.webp
-    alt: Cover image for ABC Maintenance London the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/317.webp
+ alt: 'UnitedKingdom from ABCMaintenanceLondon'
 ---
 
 # ABC Maintenance London

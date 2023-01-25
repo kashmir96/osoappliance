@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/eddies-appliance-repairs.webp
-    alt: Cover image for Eddies Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/173.webp
+ alt: 'UnitedKingdom from EddiesApplianceRepairs'
 ---
 
 # Eddies Appliance Repairs

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-indianapolis.webp
-    alt: Cover image for Appliance Repair Indianapolis the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/283.webp
+ alt: 'UnitedStates from ApplianceRepairIndianapolis'
 ---
 
 # Appliance Repair Indianapolis

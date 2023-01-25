@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/os-appliance-repair-llc.webp
-    alt: Cover image for OS Appliance Repair LLC the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/113.webp
+ alt: 'UnitedStates from OSApplianceRepairLLC'
 ---
 
 # OS Appliance Repair LLC

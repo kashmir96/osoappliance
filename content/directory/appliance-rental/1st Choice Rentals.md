@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/1st-choice-rentals.webp
-    alt: Cover image for 1st Choice Rentals the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/243.webp
+ alt: 'Australia from 1stChoiceRentals'
 ---
 
 # 1st Choice Rentals

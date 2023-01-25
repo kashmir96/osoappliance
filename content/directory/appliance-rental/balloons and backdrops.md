@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/balloons-and-backdrops.webp
-    alt: Cover image for balloons and backdrops the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/70.webp
+ alt: 'Australia from balloonsandbackdrops'
 ---
 
 # balloons and backdrops

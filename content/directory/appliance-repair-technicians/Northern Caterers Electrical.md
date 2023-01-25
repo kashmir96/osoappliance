@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/northern-caterers-electrical.webp
-    alt: Cover image for Northern Caterers Electrical the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/41.webp
+ alt: 'Australia from NorthernCaterersElectrical'
 ---
 
 # Northern Caterers Electrical

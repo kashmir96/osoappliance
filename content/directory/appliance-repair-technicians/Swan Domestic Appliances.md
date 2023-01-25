@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/swan-domestic-appliances.webp
-    alt: Cover image for Swan Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/122.webp
+ alt: 'UnitedKingdom from SwanDomesticAppliances'
 ---
 
 # Swan Domestic Appliances

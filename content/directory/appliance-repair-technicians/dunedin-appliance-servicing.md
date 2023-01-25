@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Dunedin"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/dunedin-appliance-servicing.webp
- alt: 'Logo for Dunedin Appliance Servicing the New Zealand from Dunedin'
+cover:
+ image: /img/laundryappliance/380.webp
+ alt: 'NewZealand from dunedinapplianceservicing'
 ---
 
 # Dunedin Appliance Servicing is an Appliance Repair Technician Company operating in Dunedin, New Zealand.

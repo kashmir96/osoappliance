@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-ac-services.webp
-    alt: Cover image for Appliance AC Services the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/297.webp
+ alt: 'UnitedStates from ApplianceACServices'
 ---
 
 # Appliance AC Services

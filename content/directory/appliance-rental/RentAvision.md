@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rentavision.webp
-    alt: Cover image for RentAvision the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/130.webp
+ alt: 'UnitedStates from RentAvision'
 ---
 
 # RentAvision

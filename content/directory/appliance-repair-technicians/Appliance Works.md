@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-works.webp
-    alt: Cover image for Appliance Works the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/112.webp
+ alt: 'UnitedStates from ApplianceWorks'
 ---
 
 # Appliance Works

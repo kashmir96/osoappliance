@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/all-nite-jukebox-hire.webp
-    alt: Cover image for All Nite Jukebox Hire the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/24.webp
+ alt: 'Australia from AllNiteJukeboxHire'
 ---
 
 # All Nite Jukebox Hire

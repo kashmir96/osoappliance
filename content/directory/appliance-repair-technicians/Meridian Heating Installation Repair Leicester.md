@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/meridian-heating-installation-repair-leicester.webp
-    alt: Cover image for Meridian Heating Installation Repair Leicester the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/282.webp
+ alt: 'UnitedKingdom from MeridianHeatingInstallationRepairLeicester'
 ---
 
 # Meridian Heating Installation Repair Leicester

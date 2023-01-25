@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/boiler-service-coventry.webp
-    alt: Cover image for Boiler Service Coventry the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/13.webp
+ alt: 'UnitedKingdom from BoilerServiceCoventry'
 ---
 
 # Boiler Service Coventry

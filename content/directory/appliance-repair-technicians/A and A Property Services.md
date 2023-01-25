@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-and-a-property-services.webp
-    alt: Cover image for A and A Property Services the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/119.webp
+ alt: 'UnitedKingdom from AandAPropertyServices'
 ---
 
 # A and A Property Services

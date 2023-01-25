@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Gisborne"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/hallrite.webp
- alt: 'Logo for Hallrite the New Zealand from Gisborne'
+cover:
+ image: /img/laundryappliance/237.webp
+ alt: 'NewZealand from hallrite'
 ---
 
 # Hallrite is an Appliance Repair Technician Company operating in Gisborne, New Zealand.

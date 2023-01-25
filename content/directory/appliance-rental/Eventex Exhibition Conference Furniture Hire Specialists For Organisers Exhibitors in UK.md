@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/eventex-exhibition-conference-furniture-hire-specialists-for-organisers-exhibitors-in-uk.webp
-    alt: Cover image for Eventex Exhibition Conference Furniture Hire Specialists For Organisers Exhibitors in UK the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/46.webp
+ alt: 'UnitedKingdom from EventexExhibitionConferenceFurnitureHireSpecialistsForOrganisersExhibitorsinUK'
 ---
 
 # Eventex Exhibition Conference Furniture Hire Specialists For Organisers Exhibitors in UK

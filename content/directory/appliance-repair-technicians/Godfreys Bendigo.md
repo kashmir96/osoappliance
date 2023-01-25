@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/godfreys-bendigo.webp
-    alt: Cover image for Godfreys Bendigo the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/117.webp
+ alt: 'Australia from GodfreysBendigo'
 ---
 
 # Godfreys Bendigo

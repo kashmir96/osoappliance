@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/master-appliance-repair.webp
-    alt: Cover image for Master Appliance Repair the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/201.webp
+ alt: 'UnitedStates from MasterApplianceRepaircopy'
 ---
 
 # Master Appliance Repair

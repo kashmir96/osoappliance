@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sd-plumbing-heating.webp
-    alt: Cover image for SD Plumbing Heating the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/32.webp
+ alt: 'UnitedKingdom from SDPlumbingHeating'
 ---
 
 # SD Plumbing Heating

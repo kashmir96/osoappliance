@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-cowboys.webp
-    alt: Cover image for Appliance Cowboys the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/34.webp
+ alt: 'UnitedStates from ApplianceCowboys'
 ---
 
 # Appliance Cowboys

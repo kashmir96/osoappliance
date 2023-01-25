@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/remote-controls-shop.webp
- alt: 'Logo for Remote Controls Shop the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/60.webp
+ alt: 'UnitedKingdom from remotecontrolsshop'
 ---
 
 # Remote Controls Shop is an Appliance Parts Supplier from United Kingdom.

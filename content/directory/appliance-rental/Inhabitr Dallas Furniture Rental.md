@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/inhabitr-dallas-furniture-rental.webp
-    alt: Cover image for Inhabitr Dallas Furniture Rental the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/255.webp
+ alt: 'UnitedStates from InhabitrDallasFurnitureRental'
 ---
 
 # Inhabitr Dallas Furniture Rental

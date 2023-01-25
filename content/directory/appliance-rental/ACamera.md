@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/acamera.webp
-    alt: Cover image for ACamera the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/194.webp
+ alt: 'UnitedStates from ACamera'
 ---
 
 # ACamera

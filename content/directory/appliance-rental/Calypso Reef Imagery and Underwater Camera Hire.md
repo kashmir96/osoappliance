@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/calypso-reef-imagery-and-underwater-camera-hire.webp
-    alt: Cover image for Calypso Reef Imagery and Underwater Camera Hire the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/65.webp
+ alt: 'Australia from CalypsoReefImageryandUnderwaterCameraHire'
 ---
 
 # Calypso Reef Imagery and Underwater Camera Hire

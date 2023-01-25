@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/target-appliance-repair-sherman-oaks-los-angeles.webp
-    alt: Cover image for Target Appliance Repair Sherman Oaks Los Angeles the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/63.webp
+ alt: 'UnitedStates from TargetApplianceRepairShermanOaksLosAngeles'
 ---
 
 # Target Appliance Repair Sherman Oaks Los Angeles

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sudomatic-domestic-appliance-repair.webp
-    alt: Cover image for Sudomatic Domestic Appliance Repair the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/378.webp
+ alt: 'UnitedKingdom from SudomaticDomesticApplianceRepair'
 ---
 
 # Sudomatic Domestic Appliance Repair

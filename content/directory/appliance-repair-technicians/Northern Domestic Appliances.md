@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/northern-domestic-appliances.webp
-    alt: Cover image for Northern Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/249.webp
+ alt: 'UnitedKingdom from NorthernDomesticAppliances'
 ---
 
 # Northern Domestic Appliances

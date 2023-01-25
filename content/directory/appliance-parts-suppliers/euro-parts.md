@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/euro-parts.webp
- alt: 'Logo for Euro Parts the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/143.webp
+ alt: 'Canada from europarts'
 ---
 
 # Euro Parts is an Appliance Parts Supplier from Canada.

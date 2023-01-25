@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-toowoomba.webp
-    alt: Cover image for Mr Rental Toowoomba the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/62.webp
+ alt: 'Australia from MrRentalToowoomba'
 ---
 
 # Mr Rental Toowoomba

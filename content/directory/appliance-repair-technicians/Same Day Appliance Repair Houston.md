@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/same-day-appliance-repair-houston.webp
-    alt: Cover image for Same Day Appliance Repair Houston the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/232.webp
+ alt: 'UnitedStates from SameDayApplianceRepairHouston'
 ---
 
 # Same Day Appliance Repair Houston

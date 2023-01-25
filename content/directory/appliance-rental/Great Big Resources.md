@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/great-big-resources.webp
-    alt: Cover image for Great Big Resources the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/72.webp
+ alt: 'UnitedKingdom from GreatBigResources'
 ---
 
 # Great Big Resources

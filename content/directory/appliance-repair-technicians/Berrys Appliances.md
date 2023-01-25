@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/berrys-appliances.webp
-    alt: Cover image for Berrys Appliances the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/327.webp
+ alt: 'UnitedStates from BerrysAppliances'
 ---
 
 # Berrys Appliances

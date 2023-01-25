@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/marks-appliance-repair.webp
-    alt: Cover image for Marks appliance repair the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/49.webp
+ alt: 'UnitedKingdom from Marksappliancerepair'
 ---
 
 # Marks appliance repair

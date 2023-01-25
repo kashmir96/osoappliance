@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/otay-mesa-sales-inc.webp
-    alt: Cover image for Otay Mesa Sales Inc the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/12.webp
+ alt: 'UnitedStates from OtayMesaSalesInc'
 ---
 
 # Otay Mesa Sales Inc

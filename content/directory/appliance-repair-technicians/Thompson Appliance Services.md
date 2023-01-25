@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/thompson-appliance-services.webp
-    alt: Cover image for Thompson Appliance Services the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/23.webp
+ alt: 'UnitedKingdom from ThompsonApplianceServices'
 ---
 
 # Thompson Appliance Services

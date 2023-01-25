@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washing-machine-repairs.webp
-    alt: Cover image for Washing Machine Repairs the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/92.webp
+ alt: 'UnitedKingdom from WashingMachineRepairscopy'
 ---
 
 # Washing Machine Repairs

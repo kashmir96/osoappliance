@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fallon-solutions.webp
-    alt: Cover image for Fallon Solutions the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/9.webp
+ alt: 'Australia from FallonSolutions'
 ---
 
 # Fallon Solutions

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washing-machine-repairs-perth.webp
-    alt: Cover image for Washing Machine Repairs Perth the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/298.webp
+ alt: 'Australia from WashingMachineRepairsPerth'
 ---
 
 # Washing Machine Repairs Perth

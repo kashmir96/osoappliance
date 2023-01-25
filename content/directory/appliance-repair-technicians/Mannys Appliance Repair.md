@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mannys-appliance-repair.webp
-    alt: Cover image for Mannys Appliance Repair the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/88.webp
+ alt: 'UnitedStates from MannysApplianceRepair'
 ---
 
 # Mannys Appliance Repair

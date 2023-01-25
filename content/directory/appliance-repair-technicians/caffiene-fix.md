@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Delivery, Appliance Removal, Test and Tag"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-delivery,-appliance-removal,-test-and-tag/caffiene-fix.webp
- alt: 'Logo for Caffiene Fix the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/43.webp
+ alt: 'NewZealand from caffienefix'
 ---
 
 # Caffiene Fix is an Appliance Repair Technician, Delivery, Appliance Removal, Test and Tag Company operating in Christchurch, New Zealand.

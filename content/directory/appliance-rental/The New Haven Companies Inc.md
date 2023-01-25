@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-new-haven-companies-inc.webp
-    alt: Cover image for The New Haven Companies Inc the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/12.webp
+ alt: 'UnitedStates from TheNewHavenCompaniesInc'
 ---
 
 # The New Haven Companies Inc

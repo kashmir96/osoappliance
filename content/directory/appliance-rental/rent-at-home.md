@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/rent-at-home.webp
- alt: 'Logo for Rent at Home the Appliance Rental business from Auckland, New Zealand'
+cover:
+ image: /img/laundryappliance/285.webp
+ alt: 'NewZealand from rentathome'
 ---
 
 Rent at Home is an Appliance Rental business located in Auckland, New Zealand. 

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-hyde-park.webp
-    alt: Cover image for Mr Appliance of Hyde Park the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/167.webp
+ alt: 'UnitedStates from MrApplianceofHydePark'
 ---
 
 # Mr Appliance of Hyde Park

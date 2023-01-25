@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand, Australia"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand, Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/miele.webp
- alt: 'Logo for Miele the Appliance Parts Suppliers from New Zealand, Australia'
+cover:
+ image: /img/kitchenappliances/72.webp
+ alt: 'NewZealandAustralia from miele'
 ---
 
 # Miele is an Appliance Parts Supplier from New Zealand, Australia.

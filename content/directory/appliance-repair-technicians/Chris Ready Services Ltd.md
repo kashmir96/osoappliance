@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/chris-ready-services-ltd.webp
-    alt: Cover image for Chris Ready Services Ltd the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/261.webp
+ alt: 'UnitedKingdom from ChrisReadyServicesLtd'
 ---
 
 # Chris Ready Services Ltd

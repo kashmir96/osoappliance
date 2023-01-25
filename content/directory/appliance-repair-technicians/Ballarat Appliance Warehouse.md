@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ballarat-appliance-warehouse.webp
-    alt: Cover image for Ballarat Appliance Warehouse the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/391.webp
+ alt: 'Australia from BallaratApplianceWarehouse'
 ---
 
 # Ballarat Appliance Warehouse

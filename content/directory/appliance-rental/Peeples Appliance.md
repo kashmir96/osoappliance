@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/peeples-appliance.webp
-    alt: Cover image for Peeples Appliance the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/132.webp
+ alt: 'UnitedStates from PeeplesAppliance'
 ---
 
 # Peeples Appliance

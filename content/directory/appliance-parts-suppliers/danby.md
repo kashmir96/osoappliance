@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/danby.webp
- alt: 'Logo for Danby the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/175.webp
+ alt: 'Canada from danby'
 ---
 
 # Danby is an Appliance Parts Supplier from Canada.

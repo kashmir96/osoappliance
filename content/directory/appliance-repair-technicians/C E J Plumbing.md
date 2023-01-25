@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/c-e-j-plumbing.webp
-    alt: Cover image for C E J Plumbing the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/261.webp
+ alt: 'UnitedKingdom from CEJPlumbing'
 ---
 
 # C E J Plumbing

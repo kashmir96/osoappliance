@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Manufacturer, Parts"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-manufacturer,-parts/aeg.webp
- alt: 'Logo for AEG the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/24.webp
+ alt: 'NewZealand from aeg'
 ---
 
 # AEG is an Appliance Repair Technician, Manufacturer, Parts Company operating in Auckland, New Zealand.

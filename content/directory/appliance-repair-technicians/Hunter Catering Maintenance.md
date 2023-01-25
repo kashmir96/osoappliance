@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hunter-catering-maintenance.webp
-    alt: Cover image for Hunter Catering Maintenance the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/182.webp
+ alt: 'Australia from HunterCateringMaintenance'
 ---
 
 # Hunter Catering Maintenance

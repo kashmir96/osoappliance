@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ajax-electric-co-inc.webp
-    alt: Cover image for Ajax Electric Co Inc the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/245.webp
+ alt: 'UnitedStates from AjaxElectricCoInc'
 ---
 
 # Ajax Electric Co Inc

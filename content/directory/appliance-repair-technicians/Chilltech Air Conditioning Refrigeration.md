@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/chilltech-air-conditioning-refrigeration.webp
-    alt: Cover image for Chilltech Air Conditioning Refrigeration the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/358.webp
+ alt: 'Australia from ChilltechAirConditioningRefrigeration'
 ---
 
 # Chilltech Air Conditioning Refrigeration

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pj-electrical-airconditioning-services.webp
-    alt: Cover image for PJ Electrical AirConditioning Services the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/67.webp
+ alt: 'Australia from PJElectricalAirConditioningServices'
 ---
 
 # PJ Electrical AirConditioning Services

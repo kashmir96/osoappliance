@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kitchenaid-mixer-repairs.webp
-    alt: Cover image for KitchenAid Mixer Repairs the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/91.webp
+ alt: 'Australia from KitchenAidMixerRepairs'
 ---
 
 # KitchenAid Mixer Repairs

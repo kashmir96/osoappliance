@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/east-coast-plumbing-gasfitting.webp
-    alt: Cover image for East Coast Plumbing Gasfitting the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/34.webp
+ alt: 'Australia from EastCoastPlumbingGasfitting'
 ---
 
 # East Coast Plumbing Gasfitting

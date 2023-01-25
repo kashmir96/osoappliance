@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/best-price-party-rentals-fine-catering.webp
-    alt: Cover image for Best Price Party Rentals Fine Catering the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/48.webp
+ alt: 'UnitedStates from BestPricePartyRentalsFineCatering'
 ---
 
 # Best Price Party Rentals Fine Catering

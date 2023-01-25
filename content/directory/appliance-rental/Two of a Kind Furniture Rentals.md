@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/two-of-a-kind-furniture-rentals.webp
-    alt: Cover image for Two of a Kind Furniture Rentals the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/369.webp
+ alt: 'UnitedStates from TwoofaKindFurnitureRentals'
 ---
 
 # Two of a Kind Furniture Rentals

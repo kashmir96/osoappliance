@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/djb-plumbing-gas.webp
-    alt: Cover image for DJB Plumbing Gas the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/219.webp
+ alt: 'Australia from DJBPlumbingGas'
 ---
 
 # DJB Plumbing Gas

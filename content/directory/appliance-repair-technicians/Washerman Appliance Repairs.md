@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washerman-appliance-repairs.webp
-    alt: Cover image for Washerman Appliance Repairs the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/189.webp
+ alt: 'Australia from WashermanApplianceRepairs'
 ---
 
 # Washerman Appliance Repairs

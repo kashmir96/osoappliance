@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/profix-appliance-service.webp
-    alt: Cover image for Profix Appliance Service the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/69.webp
+ alt: 'UnitedStates from ProfixApplianceService'
 ---
 
 # Profix Appliance Service

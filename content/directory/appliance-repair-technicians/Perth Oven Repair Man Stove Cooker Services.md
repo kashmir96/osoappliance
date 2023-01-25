@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/perth-oven-repair-man-stove-cooker-services.webp
-    alt: Cover image for Perth Oven Repair Man Stove Cooker Services the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/195.webp
+ alt: 'Australia from PerthOvenRepairManStoveCookerServices'
 ---
 
 # Perth Oven Repair Man Stove Cooker Services

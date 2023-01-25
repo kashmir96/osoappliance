@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/marklew-productions-ltd.webp
-    alt: Cover image for Marklew Productions Ltd the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/150.webp
+ alt: 'UnitedKingdom from MarklewProductionsLtd'
 ---
 
 # Marklew Productions Ltd

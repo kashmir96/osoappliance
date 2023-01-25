@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/gold-coast-holiday-hire.webp
-    alt: Cover image for Gold Coast Holiday Hire the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/112.webp
+ alt: 'Australia from GoldCoastHolidayHire'
 ---
 
 # Gold Coast Holiday Hire

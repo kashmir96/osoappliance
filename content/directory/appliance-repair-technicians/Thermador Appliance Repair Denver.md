@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/thermador-appliance-repair-denver.webp
-    alt: Cover image for Thermador Appliance Repair Denver the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/268.webp
+ alt: 'UnitedStates from ThermadorApplianceRepairDenver'
 ---
 
 # Thermador Appliance Repair Denver

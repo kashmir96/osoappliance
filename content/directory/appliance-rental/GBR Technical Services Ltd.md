@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/gbr-technical-services-ltd.webp
-    alt: Cover image for GBR Technical Services Ltd the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/317.webp
+ alt: 'UnitedKingdom from GBRTechnicalServicesLtd'
 ---
 
 # GBR Technical Services Ltd

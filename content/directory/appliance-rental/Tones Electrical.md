@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tones-electrical.webp
-    alt: Cover image for Tones Electrical the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/361.webp
+ alt: 'Australia from TonesElectrical'
 ---
 
 # Tones Electrical

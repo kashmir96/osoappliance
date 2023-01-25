@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pivot-stove-heating-co.webp
-    alt: Cover image for Pivot Stove Heating Co the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/168.webp
+ alt: 'Australia from PivotStoveHeatingCo'
 ---
 
 # Pivot Stove Heating Co

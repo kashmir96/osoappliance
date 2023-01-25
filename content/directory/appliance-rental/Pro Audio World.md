@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/pro-audio-world.webp
-    alt: Cover image for Pro Audio World the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/383.webp
+ alt: 'UnitedStates from ProAudioWorld'
 ---
 
 # Pro Audio World

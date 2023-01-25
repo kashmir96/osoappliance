@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/daley-appliance-service.webp
-    alt: Cover image for Daley Appliance Service the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/318.webp
+ alt: 'Australia from DaleyApplianceService'
 ---
 
 # Daley Appliance Service

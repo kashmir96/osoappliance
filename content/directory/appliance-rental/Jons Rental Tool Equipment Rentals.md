@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/jons-rental-tool-equipment-rentals.webp
-    alt: Cover image for Jons Rental Tool Equipment Rentals the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/119.webp
+ alt: 'UnitedStates from JonsRentalToolEquipmentRentals'
 ---
 
 # Jons Rental Tool Equipment Rentals

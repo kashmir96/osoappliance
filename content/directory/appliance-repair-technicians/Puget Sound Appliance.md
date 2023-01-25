@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/puget-sound-appliance.webp
-    alt: Cover image for Puget Sound Appliance the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/15.webp
+ alt: 'UnitedStates from PugetSoundAppliance'
 ---
 
 # Puget Sound Appliance

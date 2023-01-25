@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/optimal-plumbing-and-heating-ltd.webp
-    alt: Cover image for Optimal Plumbing and Heating Ltd the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/336.webp
+ alt: 'UnitedKingdom from OptimalPlumbingandHeatingLtd'
 ---
 
 # Optimal Plumbing and Heating Ltd

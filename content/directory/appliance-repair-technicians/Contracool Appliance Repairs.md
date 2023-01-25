@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/contracool-appliance-repairs.webp
-    alt: Cover image for Contracool Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/265.webp
+ alt: 'UnitedKingdom from ContracoolApplianceRepairs'
 ---
 
 # Contracool Appliance Repairs

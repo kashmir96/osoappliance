@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repairs-gold-coast.webp
-    alt: Cover image for Appliance Repairs Gold Coast the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/391.webp
+ alt: 'Australia from ApplianceRepairsGoldCoast'
 ---
 
 # Appliance Repairs Gold Coast

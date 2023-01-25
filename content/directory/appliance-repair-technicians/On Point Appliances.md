@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/on-point-appliances.webp
-    alt: Cover image for On Point Appliances the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/392.webp
+ alt: 'UnitedKingdom from OnPointAppliances'
 ---
 
 # On Point Appliances

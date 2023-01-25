@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/westinghouse.webp
- alt: 'Logo for Westinghouse the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/181.webp
+ alt: 'NewZealand from westinghouse'
 ---
 
 # Westinghouse is an Appliance Parts Supplier from New Zealand.

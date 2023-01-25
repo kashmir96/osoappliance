@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cattermole-electrical.webp
-    alt: Cover image for Cattermole Electrical the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/352.webp
+ alt: 'UnitedKingdom from CattermoleElectrical'
 ---
 
 # Cattermole Electrical

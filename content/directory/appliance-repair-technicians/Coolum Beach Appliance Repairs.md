@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/coolum-beach-appliance-repairs.webp
-    alt: Cover image for Coolum Beach Appliance Repairs the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/180.webp
+ alt: 'Australia from CoolumBeachApplianceRepairs'
 ---
 
 # Coolum Beach Appliance Repairs

@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Hastings"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/chillmount.webp
- alt: 'Logo for Chillmount the New Zealand from Hastings'
+cover:
+ image: /img/laundryappliance/273.webp
+ alt: 'NewZealand from chillmount'
 ---
 
 # Chillmount is an Appliance Repair Technician Company operating in Hastings, New Zealand.

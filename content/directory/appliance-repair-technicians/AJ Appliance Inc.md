@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aj-appliance-inc.webp
-    alt: Cover image for AJ Appliance Inc the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/190.webp
+ alt: 'UnitedStates from AJApplianceInc'
 ---
 
 # AJ Appliance Inc

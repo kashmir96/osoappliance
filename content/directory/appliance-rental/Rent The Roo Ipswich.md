@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo-ipswich.webp
-    alt: Cover image for Rent The Roo Ipswich the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/340.webp
+ alt: 'Australia from RentTheRooIpswich'
 ---
 
 # Rent The Roo Ipswich

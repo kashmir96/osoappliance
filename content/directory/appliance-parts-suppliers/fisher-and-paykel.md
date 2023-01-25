@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/fisher-and-paykel.webp
- alt: 'Logo for Fisher And Paykel the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/145.webp
+ alt: 'UnitedKingdom from fisherandpaykel'
 ---
 
 # Fisher And Paykel is an Appliance Parts Supplier from United Kingdom.

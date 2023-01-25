@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/newsouth-event-rentals.webp
-    alt: Cover image for NewSouth Event Rentals the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/326.webp
+ alt: 'UnitedStates from NewSouthEventRentals'
 ---
 
 # NewSouth Event Rentals

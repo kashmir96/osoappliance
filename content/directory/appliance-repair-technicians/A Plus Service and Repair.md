@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-plus-service-and-repair.webp
-    alt: Cover image for A Plus Service and Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/223.webp
+ alt: 'UnitedStates from APlusServiceandRepair'
 ---
 
 # A Plus Service and Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aztec-rental-center.webp
-    alt: Cover image for Aztec Rental Center the United States based Appliance Rental servicing Houston 
+ image: /img/laundryappliance/13.webp
+ alt: 'UnitedStates from AztecRentalCenter'
 ---
 
 # Aztec Rental Center

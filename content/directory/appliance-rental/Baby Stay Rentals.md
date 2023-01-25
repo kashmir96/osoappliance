@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/baby-stay-rentals.webp
-    alt: Cover image for Baby Stay Rentals the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/82.webp
+ alt: 'UnitedStates from BabyStayRentals'
 ---
 
 # Baby Stay Rentals

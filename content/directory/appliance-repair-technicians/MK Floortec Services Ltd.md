@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mk-floortec-services-ltd.webp
-    alt: Cover image for MK Floortec Services Ltd the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/284.webp
+ alt: 'UnitedKingdom from MKFloortecServicesLtd'
 ---
 
 # MK Floortec Services Ltd

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cooker-repairs-bristol.webp
-    alt: Cover image for Cooker Repairs Bristol the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/79.webp
+ alt: 'UnitedKingdom from CookerRepairsBristol'
 ---
 
 # Cooker Repairs Bristol

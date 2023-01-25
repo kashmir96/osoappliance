@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/dewar-appliances.webp
- alt: 'Logo for Dewar Appliances the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/96.webp
+ alt: 'NewZealand from dewarappliances'
 ---
 
 # Dewar Appliances is an Appliance Repair Technician Company operating in Auckland, New Zealand.

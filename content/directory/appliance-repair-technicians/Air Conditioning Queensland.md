@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/air-conditioning-queensland.webp
-    alt: Cover image for Air Conditioning Queensland the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/324.webp
+ alt: 'Australia from AirConditioningQueensland'
 ---
 
 # Air Conditioning Queensland

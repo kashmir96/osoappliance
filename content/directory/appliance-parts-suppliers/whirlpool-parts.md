@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/whirlpool-parts.webp
- alt: 'Logo for Whirlpool Parts the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/43.webp
+ alt: 'UnitedStates from whirlpoolparts'
 ---
 
 # Whirlpool Parts is an Appliance Parts Supplier from United States.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bright-black-av.webp
-    alt: Cover image for Bright Black AV the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/398.webp
+ alt: 'Australia from BrightBlackAV'
 ---
 
 # Bright Black AV

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/desert-cart.webp
- alt: 'Logo for Desert Cart the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/68.webp
+ alt: 'Nigeria from desertcart'
 ---
 
 # Desert Cart is an Appliance Parts Supplier from Nigeria.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/m-m-appliance.webp
-    alt: Cover image for M M Appliance the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/143.webp
+ alt: 'UnitedStates from MMAppliance'
 ---
 
 # M M Appliance

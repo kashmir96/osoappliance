@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/san-diego-appliance-contractor-company.webp
-    alt: Cover image for San Diego Appliance Contractor Company the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/100.webp
+ alt: 'UnitedStates from SanDiegoApplianceContractorCompany'
 ---
 
 # San Diego Appliance Contractor Company

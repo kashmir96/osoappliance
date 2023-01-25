@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nt-appliance-spares-repairs.webp
-    alt: Cover image for NT Appliance Spares Repairs the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/252.webp
+ alt: 'Australia from NTApplianceSparesRepairs'
 ---
 
 # NT Appliance Spares Repairs

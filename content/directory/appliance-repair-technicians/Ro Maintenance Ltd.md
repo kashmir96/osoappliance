@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ro-maintenance-ltd.webp
-    alt: Cover image for Ro Maintenance Ltd the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/394.webp
+ alt: 'UnitedKingdom from RoMaintenanceLtd'
 ---
 
 # Ro Maintenance Ltd

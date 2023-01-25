@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/eziflow-plumbing-gas-drainage-services.webp
-    alt: Cover image for EziFlow Plumbing Gas Drainage Services the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/81.webp
+ alt: 'Australia from EziFlowPlumbingGasDrainageServices'
 ---
 
 # EziFlow Plumbing Gas Drainage Services

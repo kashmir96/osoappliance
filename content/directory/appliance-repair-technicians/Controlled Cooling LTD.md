@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/controlled-cooling-ltd.webp
-    alt: Cover image for Controlled Cooling LTD the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/164.webp
+ alt: 'UnitedKingdom from ControlledCoolingLTD'
 ---
 
 # Controlled Cooling LTD

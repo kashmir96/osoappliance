@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-happy-laundry-basket.webp
-    alt: Cover image for The Happy Laundry Basket the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/380.webp
+ alt: 'UnitedStates from TheHappyLaundryBasket'
 ---
 
 # The Happy Laundry Basket

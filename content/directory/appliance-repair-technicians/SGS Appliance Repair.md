@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sgs-appliance-repair.webp
-    alt: Cover image for SGS Appliance Repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/255.webp
+ alt: 'UnitedStates from SGSApplianceRepair'
 ---
 
 # SGS Appliance Repair

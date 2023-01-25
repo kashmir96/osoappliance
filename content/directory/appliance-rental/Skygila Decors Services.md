@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/skygila-decors-services.webp
-    alt: Cover image for Skygila Decors Services the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/100.webp
+ alt: 'Australia from SkygilaDecorsServices'
 ---
 
 # Skygila Decors Services

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kn-service-appliance-repair.webp
-    alt: Cover image for KN Service Appliance Repair the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/251.webp
+ alt: 'UnitedStates from KNServiceApplianceRepair'
 ---
 
 # KN Service Appliance Repair

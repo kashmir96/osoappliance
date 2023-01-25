@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/appliance-master-inc.webp
- alt: 'Logo for Appliance Master Inc the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/130.webp
+ alt: 'Canada from appliancemasterinc'
 ---
 
 # Appliance Master Inc is an Appliance Parts Supplier from Canada.

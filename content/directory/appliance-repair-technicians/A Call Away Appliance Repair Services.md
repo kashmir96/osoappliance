@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-call-away-appliance-repair-services.webp
-    alt: Cover image for A Call Away Appliance Repair Services the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/190.webp
+ alt: 'UnitedStates from ACallAwayApplianceRepairServices'
 ---
 
 # A Call Away Appliance Repair Services

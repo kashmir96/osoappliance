@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/a1-entertainment-group.webp
-    alt: Cover image for A1 Entertainment Group the Australia based Appliance Rental servicing Geelong 
+ image: /img/laundryappliance/107.webp
+ alt: 'Australia from A1EntertainmentGroup'
 ---
 
 # A1 Entertainment Group

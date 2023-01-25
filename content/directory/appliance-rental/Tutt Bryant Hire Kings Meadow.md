@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tutt-bryant-hire-kings-meadow.webp
-    alt: Cover image for Tutt Bryant Hire Kings Meadow the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/101.webp
+ alt: 'Australia from TuttBryantHireKingsMeadow'
 ---
 
 # Tutt Bryant Hire Kings Meadow

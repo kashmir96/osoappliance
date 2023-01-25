@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/winlaton-appliance-repairs.webp
-    alt: Cover image for Winlaton Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/208.webp
+ alt: 'UnitedKingdom from WinlatonApplianceRepairs'
 ---
 
 # Winlaton Appliance Repairs

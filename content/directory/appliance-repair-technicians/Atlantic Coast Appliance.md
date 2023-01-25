@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/atlantic-coast-appliance.webp
-    alt: Cover image for Atlantic Coast Appliance the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/370.webp
+ alt: 'UnitedStates from AtlanticCoastAppliance'
 ---
 
 # Atlantic Coast Appliance

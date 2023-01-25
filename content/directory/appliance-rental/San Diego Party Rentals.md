@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/san-diego-party-rentals.webp
-    alt: Cover image for San Diego Party Rentals the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/8.webp
+ alt: 'UnitedStates from SanDiegoPartyRentals'
 ---
 
 # San Diego Party Rentals

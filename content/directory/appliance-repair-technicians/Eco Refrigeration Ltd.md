@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/eco-refrigeration-ltd.webp
-    alt: Cover image for Eco Refrigeration Ltd the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/95.webp
+ alt: 'UnitedKingdom from EcoRefrigerationLtd'
 ---
 
 # Eco Refrigeration Ltd

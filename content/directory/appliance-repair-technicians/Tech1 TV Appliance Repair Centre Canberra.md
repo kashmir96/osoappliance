@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tech1-tv-appliance-repair-centre-canberra.webp
-    alt: Cover image for Tech1 TV Appliance Repair Centre Canberra the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/158.webp
+ alt: 'Australia from Tech1TVApplianceRepairCentreCanberra'
 ---
 
 # Tech1 TV Appliance Repair Centre Canberra

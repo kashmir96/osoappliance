@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hps-appliance-repair-llc.webp
-    alt: Cover image for HPS Appliance Repair LLC the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/98.webp
+ alt: 'UnitedStates from HPSApplianceRepairLLC'
 ---
 
 # HPS Appliance Repair LLC

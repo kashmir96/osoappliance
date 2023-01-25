@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/midland-domestic-appliances.webp
-    alt: Cover image for Midland Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/343.webp
+ alt: 'UnitedKingdom from MidlandDomesticAppliances'
 ---
 
 # Midland Domestic Appliances

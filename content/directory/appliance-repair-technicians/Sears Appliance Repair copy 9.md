@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sears-appliance-repair.webp
-    alt: Cover image for Sears Appliance Repair the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/136.webp
+ alt: 'UnitedStates from SearsApplianceRepaircopy9'
 ---
 
 # Sears Appliance Repair

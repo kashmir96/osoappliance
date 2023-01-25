@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jason-miekus-plumbing-drainage.webp
-    alt: Cover image for Jason Miekus Plumbing Drainage the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/12.webp
+ alt: 'Australia from JasonMiekusPlumbingDrainage'
 ---
 
 # Jason Miekus Plumbing Drainage

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/one-world-it-rental-scotland.webp
-    alt: Cover image for One World IT Rental Scotland the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/123.webp
+ alt: 'UnitedKingdom from OneWorldITRentalScotland'
 ---
 
 # One World IT Rental Scotland

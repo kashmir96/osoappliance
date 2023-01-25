@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-brothers.webp
-    alt: Cover image for APPLIANCE BROTHERS the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/27.webp
+ alt: 'UnitedKingdom from APPLIANCEBROTHERS'
 ---
 
 # APPLIANCE BROTHERS

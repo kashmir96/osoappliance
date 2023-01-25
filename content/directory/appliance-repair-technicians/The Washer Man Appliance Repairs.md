@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-washer-man-appliance-repairs.webp
-    alt: Cover image for The Washer Man Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/186.webp
+ alt: 'UnitedKingdom from TheWasherManApplianceRepairs'
 ---
 
 # The Washer Man Appliance Repairs

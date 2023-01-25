@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/legacy-appliance-repairs.webp
-    alt: Cover image for Legacy Appliance Repairs the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/161.webp
+ alt: 'Australia from LegacyApplianceRepairs'
 ---
 
 # Legacy Appliance Repairs

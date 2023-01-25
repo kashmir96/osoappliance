@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bjs-sound-lighting-gold-coast.webp
-    alt: Cover image for BJs Sound Lighting Gold Coast the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/380.webp
+ alt: 'Australia from BJsSoundLightingGoldCoast'
 ---
 
 # BJs Sound Lighting Gold Coast

@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Installation, New Appliances, Parts"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-installation,-new-appliances,-parts/axial.webp
- alt: 'Logo for Axial the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/252.webp
+ alt: 'NewZealand from axial'
 ---
 
 # Axial is an Appliance Repair Technician, Installation, New Appliances, Parts Company operating in Auckland, New Zealand.

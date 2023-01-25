@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/frigidaire-appliance-parts.webp
- alt: 'Logo for Frigidaire Appliance Parts the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/110.webp
+ alt: 'UnitedStates from frigidaireapplianceparts'
 ---
 
 # Frigidaire Appliance Parts is an Appliance Parts Supplier from United States.

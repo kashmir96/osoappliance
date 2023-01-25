@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/yes-appliance-repair-service-austin-tx.webp
-    alt: Cover image for Yes Appliance Repair Service Austin TX the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/123.webp
+ alt: 'UnitedStates from YesApplianceRepairServiceAustinTX'
 ---
 
 # Yes Appliance Repair Service Austin TX

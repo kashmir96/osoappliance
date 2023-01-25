@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/applico.webp
- alt: 'Logo for Applico the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/159.webp
+ alt: 'NewZealand from applico'
 ---
 
 # Applico is an Appliance Parts Supplier from New Zealand.

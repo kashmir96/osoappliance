@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/protech-boilers.webp
-    alt: Cover image for ProTech Boilers the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/54.webp
+ alt: 'UnitedKingdom from ProTechBoilers'
 ---
 
 # ProTech Boilers

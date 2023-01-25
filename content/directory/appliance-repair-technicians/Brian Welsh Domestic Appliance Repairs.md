@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/brian-welsh-domestic-appliance-repairs.webp
-    alt: Cover image for Brian Welsh Domestic Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/348.webp
+ alt: 'UnitedKingdom from BrianWelshDomesticApplianceRepairs'
 ---
 
 # Brian Welsh Domestic Appliance Repairs

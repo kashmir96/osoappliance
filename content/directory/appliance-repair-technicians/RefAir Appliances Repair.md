@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/refair-appliances-repair.webp
-    alt: Cover image for RefAir Appliances Repair the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/125.webp
+ alt: 'Australia from RefAirAppliancesRepair'
 ---
 
 # RefAir Appliances Repair

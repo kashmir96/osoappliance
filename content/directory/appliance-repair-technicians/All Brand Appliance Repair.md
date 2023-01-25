@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-brand-appliance-repair.webp
-    alt: Cover image for All Brand Appliance Repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/153.webp
+ alt: 'UnitedStates from AllBrandApplianceRepair'
 ---
 
 # All Brand Appliance Repair

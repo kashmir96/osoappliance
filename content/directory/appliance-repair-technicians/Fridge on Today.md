@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fridge-on-today.webp
-    alt: Cover image for Fridge on Today the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/295.webp
+ alt: 'Australia from FridgeonToday'
 ---
 
 # Fridge on Today

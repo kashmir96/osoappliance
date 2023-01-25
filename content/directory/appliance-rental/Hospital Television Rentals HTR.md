@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hospital-television-rentals-htr.webp
-    alt: Cover image for Hospital Television Rentals HTR the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/131.webp
+ alt: 'Australia from HospitalTelevisionRentalsHTR'
 ---
 
 # Hospital Television Rentals HTR

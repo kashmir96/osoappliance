@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jims-antennas-ballarat.webp
-    alt: Cover image for Jims Antennas Ballarat the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/217.webp
+ alt: 'Australia from JimsAntennasBallarat'
 ---
 
 # Jims Antennas Ballarat

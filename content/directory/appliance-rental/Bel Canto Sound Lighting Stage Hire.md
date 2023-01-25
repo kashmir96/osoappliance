@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bel-canto-sound-lighting-stage-hire.webp
-    alt: Cover image for Bel Canto Sound Lighting Stage Hire the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/34.webp
+ alt: 'Australia from BelCantoSoundLightingStageHire'
 ---
 
 # Bel Canto Sound Lighting Stage Hire

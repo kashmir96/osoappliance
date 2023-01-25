@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gas-fast-the-boiler-specialists.webp
-    alt: Cover image for Gas Fast The Boiler Specialists the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/368.webp
+ alt: 'UnitedKingdom from GasFastTheBoilerSpecialists'
 ---
 
 # Gas Fast The Boiler Specialists

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/william-sons-plumbing.webp
-    alt: Cover image for William Sons Plumbing the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/14.webp
+ alt: 'UnitedStates from WilliamSonsPlumbing'
 ---
 
 # William Sons Plumbing

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-bendigo.webp
-    alt: Cover image for Mr Rental Bendigo the Australia based Appliance Rental servicing Bendigo 
+ image: /img/laundryappliance/137.webp
+ alt: 'Australia from MrRentalBendigo'
 ---
 
 # Mr Rental Bendigo

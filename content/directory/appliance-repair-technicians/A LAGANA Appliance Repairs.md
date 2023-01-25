@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-lagana-appliance-repairs.webp
-    alt: Cover image for A LAGANA Appliance Repairs the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/395.webp
+ alt: 'Australia from ALAGANAApplianceRepairs'
 ---
 
 # A LAGANA Appliance Repairs

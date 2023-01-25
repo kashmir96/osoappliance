@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/arpeys-appliance-repairs.webp
-    alt: Cover image for Arpeys Appliance Repairs the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/101.webp
+ alt: 'UnitedStates from ArpeysApplianceRepairs'
 ---
 
 # Arpeys Appliance Repairs

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-woodley-park.webp
-    alt: Cover image for Mr Appliance of Woodley Park the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/249.webp
+ alt: 'UnitedStates from MrApplianceofWoodleyPark'
 ---
 
 # Mr Appliance of Woodley Park

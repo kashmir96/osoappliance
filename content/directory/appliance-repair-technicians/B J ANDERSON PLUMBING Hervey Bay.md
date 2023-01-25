@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/b-j-anderson-plumbing-hervey-bay.webp
-    alt: Cover image for B J ANDERSON PLUMBING Hervey Bay the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/55.webp
+ alt: 'Australia from BJANDERSONPLUMBINGHerveyBay'
 ---
 
 # B J ANDERSON PLUMBING Hervey Bay

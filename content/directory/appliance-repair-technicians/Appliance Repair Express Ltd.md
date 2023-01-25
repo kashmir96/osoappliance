@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-express-ltd.webp
-    alt: Cover image for Appliance Repair Express Ltd the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/181.webp
+ alt: 'UnitedKingdom from ApplianceRepairExpressLtd'
 ---
 
 # Appliance Repair Express Ltd

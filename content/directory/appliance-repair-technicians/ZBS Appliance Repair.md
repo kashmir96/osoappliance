@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/zbs-appliance-repair.webp
-    alt: Cover image for ZBS Appliance Repair the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/112.webp
+ alt: 'UnitedStates from ZBSApplianceRepair'
 ---
 
 # ZBS Appliance Repair

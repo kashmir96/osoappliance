@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/birite-home-appliances-hervey-bay.webp
-    alt: Cover image for BiRite Home Appliances Hervey Bay the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/122.webp
+ alt: 'Australia from BiRiteHomeAppliancesHerveyBay'
 ---
 
 # BiRite Home Appliances Hervey Bay

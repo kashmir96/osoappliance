@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/komatsu-forklift-australia.webp
-    alt: Cover image for Komatsu Forklift Australia the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/308.webp
+ alt: 'Australia from KomatsuForkliftAustralia'
 ---
 
 # Komatsu Forklift Australia

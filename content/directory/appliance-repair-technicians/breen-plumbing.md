@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/breen-plumbing.webp
- alt: 'Logo for Breen Plumbing the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/242.webp
+ alt: 'NewZealand from breenplumbing'
 ---
 
 # Breen Plumbing is an Appliance Repair Technician Company operating in Timaru, New Zealand.

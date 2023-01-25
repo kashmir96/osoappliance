@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/reliance-plumbing-and-heating.webp
-    alt: Cover image for Reliance Plumbing and Heating the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/349.webp
+ alt: 'UnitedKingdom from ReliancePlumbingandHeating'
 ---
 
 # Reliance Plumbing and Heating

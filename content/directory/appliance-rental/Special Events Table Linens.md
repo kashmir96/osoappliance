@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/special-events-table-linens.webp
-    alt: Cover image for Special Events Table Linens the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/358.webp
+ alt: 'UnitedStates from SpecialEventsTableLinens'
 ---
 
 # Special Events Table Linens

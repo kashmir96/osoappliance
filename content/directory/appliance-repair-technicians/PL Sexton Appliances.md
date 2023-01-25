@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pl-sexton-appliances.webp
-    alt: Cover image for PL Sexton Appliances the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/200.webp
+ alt: 'Australia from PLSextonAppliances'
 ---
 
 # PL Sexton Appliances

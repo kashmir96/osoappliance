@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/star-appliances.webp
-    alt: Cover image for Star Appliances the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/171.webp
+ alt: 'UnitedKingdom from StarAppliances'
 ---
 
 # Star Appliances

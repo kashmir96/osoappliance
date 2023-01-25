@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/equip-4-hire.webp
-    alt: Cover image for Equip 4 Hire the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/106.webp
+ alt: 'Australia from Equip4Hire'
 ---
 
 # Equip 4 Hire

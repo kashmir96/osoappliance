@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-good-guys-geelong.webp
-    alt: Cover image for The Good Guys Geelong the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/73.webp
+ alt: 'Australia from TheGoodGuysGeelong'
 ---
 
 # The Good Guys Geelong

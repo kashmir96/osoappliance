@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/glenfield-electronics.webp
-    alt: Cover image for Glenfield Electronics the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/193.webp
+ alt: 'UnitedKingdom from GlenfieldElectronics'
 ---
 
 # Glenfield Electronics

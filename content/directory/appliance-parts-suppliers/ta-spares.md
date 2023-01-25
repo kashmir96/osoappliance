@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Australia"
 type: "Appliance Parts Suppliers"
 categories: ["Australia"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/ta-spares.webp
- alt: 'Logo for TA Spares the Appliance Parts Suppliers from Australia'
+cover:
+ image: /img/kitchenappliances/147.webp
+ alt: 'Australia from taspares'
 ---
 
 # TA Spares is an Appliance Parts Supplier from Australia.

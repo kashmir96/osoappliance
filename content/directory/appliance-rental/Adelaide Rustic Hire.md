@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/adelaide-rustic-hire.webp
-    alt: Cover image for Adelaide Rustic Hire the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/298.webp
+ alt: 'Australia from AdelaideRusticHire'
 ---
 
 # Adelaide Rustic Hire

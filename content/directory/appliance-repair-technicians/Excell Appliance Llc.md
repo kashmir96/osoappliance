@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/excell-appliance-llc.webp
-    alt: Cover image for Excell Appliance Llc the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/127.webp
+ alt: 'UnitedStates from ExcellApplianceLlc'
 ---
 
 # Excell Appliance Llc

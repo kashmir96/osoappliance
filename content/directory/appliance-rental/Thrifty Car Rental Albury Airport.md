@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/thrifty-car-rental-albury-airport.webp
-    alt: Cover image for Thrifty Car Rental Albury Airport the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/13.webp
+ alt: 'Australia from ThriftyCarRentalAlburyAirport'
 ---
 
 # Thrifty Car Rental Albury Airport

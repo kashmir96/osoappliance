@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/melbourne-table-chair-hire.webp
-    alt: Cover image for Melbourne Table Chair Hire the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/149.webp
+ alt: 'Australia from MelbourneTableChairHire'
 ---
 
 # Melbourne Table Chair Hire

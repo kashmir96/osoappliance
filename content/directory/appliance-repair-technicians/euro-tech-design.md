@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, New Appliances, Delivery, Installation"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-new-appliances,-delivery,-installation/euro-tech-design.webp
- alt: 'Logo for Euro Tech Design the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/234.webp
+ alt: 'NewZealand from eurotechdesign'
 ---
 
 # Euro Tech Design is an Appliance Repair Technician, New Appliances, Delivery, Installation Company operating in Auckland, New Zealand.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-west-phoenix.webp
-    alt: Cover image for Mr Appliance of West Phoenix the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/203.webp
+ alt: 'UnitedStates from MrApplianceofWestPhoenix'
 ---
 
 # Mr Appliance of West Phoenix

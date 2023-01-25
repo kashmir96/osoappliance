@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/becker-appliance.webp
-    alt: Cover image for Becker Appliance the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/99.webp
+ alt: 'UnitedStates from BeckerAppliance'
 ---
 
 # Becker Appliance

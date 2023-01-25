@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/thomos-betta-home-living-furniture-electrical-appliances.webp
-    alt: Cover image for Thomos Betta Home Living Furniture Electrical Appliances the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/218.webp
+ alt: 'Australia from ThomosBettaHomeLivingFurnitureElectricalAppliances'
 ---
 
 # Thomos Betta Home Living Furniture Electrical Appliances

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/buderim-air-sunshine-coast-air-conditioning-and-refrigeration-specialists.webp
-    alt: Cover image for Buderim Air Sunshine Coast Air Conditioning and Refrigeration Specialists the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/115.webp
+ alt: 'Australia from BuderimAirSunshineCoastAirConditioningandRefrigerationSpecialists'
 ---
 
 # Buderim Air Sunshine Coast Air Conditioning and Refrigeration Specialists

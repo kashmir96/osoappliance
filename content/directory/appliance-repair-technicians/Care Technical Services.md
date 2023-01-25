@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/care-technical-services.webp
-    alt: Cover image for Care Technical Services the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/149.webp
+ alt: 'Australia from CareTechnicalServices'
 ---
 
 # Care Technical Services

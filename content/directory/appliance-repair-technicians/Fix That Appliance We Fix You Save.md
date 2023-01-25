@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fix-that-appliance-we-fix-you-save.webp
-    alt: Cover image for Fix That Appliance We Fix You Save the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/263.webp
+ alt: 'UnitedKingdom from FixThatApplianceWeFixYouSave'
 ---
 
 # Fix That Appliance We Fix You Save

@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/find-a-spare.webp
- alt: 'Logo for Find A Spare the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/74.webp
+ alt: 'UnitedKingdom from findaspare'
 ---
 
 # Find A Spare is an Appliance Parts Supplier from United Kingdom.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/super-appliance-repair.webp
-    alt: Cover image for Super Appliance Repair the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/15.webp
+ alt: 'UnitedStates from SuperApplianceRepair'
 ---
 
 # Super Appliance Repair

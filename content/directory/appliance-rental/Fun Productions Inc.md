@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/fun-productions-inc.webp
-    alt: Cover image for Fun Productions Inc the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/373.webp
+ alt: 'UnitedStates from FunProductionsInc'
 ---
 
 # Fun Productions Inc

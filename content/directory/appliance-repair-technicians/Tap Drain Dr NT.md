@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tap-drain-dr-nt.webp
-    alt: Cover image for Tap Drain Dr NT the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/290.webp
+ alt: 'Australia from TapDrainDrNT'
 ---
 
 # Tap Drain Dr NT

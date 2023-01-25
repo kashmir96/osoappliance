@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/segafredo-zanetti-newcastle.webp
-    alt: Cover image for Segafredo Zanetti Newcastle the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/59.webp
+ alt: 'Australia from SegafredoZanettiNewcastle'
 ---
 
 # Segafredo Zanetti Newcastle

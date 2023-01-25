@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/kingz-light-letters.webp
-    alt: Cover image for Kingz Light Letters the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/149.webp
+ alt: 'UnitedStates from KingzLightLetters'
 ---
 
 # Kingz Light Letters

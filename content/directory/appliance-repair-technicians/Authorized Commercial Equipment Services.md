@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/authorized-commercial-equipment-services.webp
-    alt: Cover image for Authorized Commercial Equipment Services the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/72.webp
+ alt: 'UnitedStates from AuthorizedCommercialEquipmentServices'
 ---
 
 # Authorized Commercial Equipment Services

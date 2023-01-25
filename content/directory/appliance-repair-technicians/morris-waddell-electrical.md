@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/morris-waddell-electrical.webp
- alt: 'Logo for Morris Waddell Electrical the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/390.webp
+ alt: 'NewZealand from morriswaddellelectrical'
 ---
 
 # Morris Waddell Electrical is an Appliance Repair Technician Company operating in Timaru, New Zealand.

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/leicester-car-regas.webp
-    alt: Cover image for Leicester car regas the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/33.webp
+ alt: 'UnitedKingdom from Leicestercarregas'
 ---
 
 # Leicester car regas

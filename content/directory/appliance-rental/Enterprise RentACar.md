@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/enterprise-rentacar.webp
-    alt: Cover image for Enterprise RentACar the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/21.webp
+ alt: 'Australia from EnterpriseRentACar'
 ---
 
 # Enterprise RentACar

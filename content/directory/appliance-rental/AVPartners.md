@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/avpartners.webp
-    alt: Cover image for AVPartners the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/77.webp
+ alt: 'Australia from AVPartners'
 ---
 
 # AVPartners

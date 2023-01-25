@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/san-antonio-appliance-repair-llc.webp
-    alt: Cover image for San Antonio Appliance Repair LLC the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/228.webp
+ alt: 'UnitedStates from SanAntonioApplianceRepairLLC'
 ---
 
 # San Antonio Appliance Repair LLC

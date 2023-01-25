@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/thrifty-car-rental-rockhampton-airport.webp
-    alt: Cover image for Thrifty Car Rental Rockhampton Airport the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/125.webp
+ alt: 'Australia from ThriftyCarRentalRockhamptonAirport'
 ---
 
 # Thrifty Car Rental Rockhampton Airport

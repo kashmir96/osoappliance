@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumbtec-24-plumbers-glasgow.webp
-    alt: Cover image for Plumbtec 24 Plumbers Glasgow the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/361.webp
+ alt: 'UnitedKingdom from Plumbtec24PlumbersGlasgow'
 ---
 
 # Plumbtec 24 Plumbers Glasgow

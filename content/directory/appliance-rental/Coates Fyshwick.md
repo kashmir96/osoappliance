@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/coates-fyshwick.webp
-    alt: Cover image for Coates Fyshwick the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/124.webp
+ alt: 'Australia from CoatesFyshwick'
 ---
 
 # Coates Fyshwick

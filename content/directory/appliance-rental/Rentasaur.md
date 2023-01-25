@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rentasaur.webp
-    alt: Cover image for Rentasaur the Australia based Appliance Rental servicing Geelong 
+ image: /img/laundryappliance/88.webp
+ alt: 'Australia from Rentasaur'
 ---
 
 # Rentasaur

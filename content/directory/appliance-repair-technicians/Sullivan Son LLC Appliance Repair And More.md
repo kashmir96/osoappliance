@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sullivan-son-llc-appliance-repair-and-more.webp
-    alt: Cover image for Sullivan Son LLC Appliance Repair And More the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/216.webp
+ alt: 'UnitedStates from SullivanSonLLCApplianceRepairAndMore'
 ---
 
 # Sullivan Son LLC Appliance Repair And More

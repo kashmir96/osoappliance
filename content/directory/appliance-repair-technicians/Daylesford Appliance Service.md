@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/daylesford-appliance-service.webp
-    alt: Cover image for Daylesford Appliance Service the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/287.webp
+ alt: 'Australia from DaylesfordApplianceService'
 ---
 
 # Daylesford Appliance Service

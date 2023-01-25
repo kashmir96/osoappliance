@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/darren-the-washerman.webp
-    alt: Cover image for Darren The Washerman the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/116.webp
+ alt: 'UnitedKingdom from DarrenTheWasherman'
 ---
 
 # Darren The Washerman

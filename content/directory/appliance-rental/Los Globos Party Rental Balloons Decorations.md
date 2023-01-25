@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/los-globos-party-rental-balloons-decorations.webp
-    alt: Cover image for Los Globos Party Rental Balloons Decorations the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/80.webp
+ alt: 'UnitedStates from LosGlobosPartyRentalBalloonsDecorations'
 ---
 
 # Los Globos Party Rental Balloons Decorations

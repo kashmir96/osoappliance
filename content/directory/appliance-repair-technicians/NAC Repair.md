@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nac-repair.webp
-    alt: Cover image for NAC Repair the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/28.webp
+ alt: 'UnitedKingdom from NACRepair'
 ---
 
 # NAC Repair

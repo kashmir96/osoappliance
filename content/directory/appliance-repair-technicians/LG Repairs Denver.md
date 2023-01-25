@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lg-repairs-denver.webp
-    alt: Cover image for LG Repairs Denver the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/365.webp
+ alt: 'UnitedStates from LGRepairsDenver'
 ---
 
 # LG Repairs Denver

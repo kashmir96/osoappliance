@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/premier-denver-event-rentals.webp
-    alt: Cover image for Premier Denver Event Rentals the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/27.webp
+ alt: 'UnitedStates from PremierDenverEventRentals'
 ---
 
 # Premier Denver Event Rentals

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/blueline-plumbing-gas.webp
-    alt: Cover image for Blueline Plumbing Gas the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/305.webp
+ alt: 'Australia from BluelinePlumbingGas'
 ---
 
 # Blueline Plumbing Gas

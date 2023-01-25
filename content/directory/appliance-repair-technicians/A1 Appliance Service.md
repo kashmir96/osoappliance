@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a1-appliance-service.webp
-    alt: Cover image for A1 Appliance Service the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/28.webp
+ alt: 'UnitedStates from A1ApplianceService'
 ---
 
 # A1 Appliance Service

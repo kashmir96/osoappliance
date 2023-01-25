@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cesars-appliance-repair.webp
-    alt: Cover image for Cesars Appliance Repair the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/367.webp
+ alt: 'UnitedStates from CesarsApplianceRepair'
 ---
 
 # Cesars Appliance Repair

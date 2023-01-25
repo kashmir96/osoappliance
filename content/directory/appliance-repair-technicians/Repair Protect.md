@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/repair-protect.webp
-    alt: Cover image for Repair Protect the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/86.webp
+ alt: 'UnitedKingdom from RepairProtect'
 ---
 
 # Repair Protect

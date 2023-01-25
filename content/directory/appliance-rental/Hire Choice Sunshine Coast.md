@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hire-choice-sunshine-coast.webp
-    alt: Cover image for Hire Choice Sunshine Coast the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/265.webp
+ alt: 'Australia from HireChoiceSunshineCoast'
 ---
 
 # Hire Choice Sunshine Coast

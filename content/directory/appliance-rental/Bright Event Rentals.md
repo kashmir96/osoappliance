@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bright-event-rentals.webp
-    alt: Cover image for Bright Event Rentals the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/176.webp
+ alt: 'UnitedStates from BrightEventRentals'
 ---
 
 # Bright Event Rentals

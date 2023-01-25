@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/atlas-copco-rental.webp
-    alt: Cover image for Atlas Copco Rental the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/96.webp
+ alt: 'Australia from AtlasCopcoRental'
 ---
 
 # Atlas Copco Rental

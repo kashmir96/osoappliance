@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/next-door-rentals.webp
-    alt: Cover image for Next Door Rentals the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/252.webp
+ alt: 'UnitedStates from NextDoorRentals'
 ---
 
 # Next Door Rentals

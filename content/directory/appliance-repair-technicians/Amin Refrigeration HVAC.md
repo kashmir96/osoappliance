@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/amin-refrigeration-hvac.webp
-    alt: Cover image for Amin Refrigeration HVAC the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/317.webp
+ alt: 'UnitedStates from AminRefrigerationHVAC'
 ---
 
 # Amin Refrigeration HVAC

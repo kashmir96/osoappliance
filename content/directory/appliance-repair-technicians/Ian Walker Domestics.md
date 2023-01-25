@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ian-walker-domestics.webp
-    alt: Cover image for Ian Walker Domestics the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/240.webp
+ alt: 'UnitedKingdom from IanWalkerDomestics'
 ---
 
 # Ian Walker Domestics

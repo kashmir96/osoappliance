@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-hart-cooker-installer.webp
-    alt: Cover image for A Hart Cooker Installer the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/336.webp
+ alt: 'UnitedKingdom from AHartCookerInstaller'
 ---
 
 # A Hart Cooker Installer

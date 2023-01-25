@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Parts"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-parts/saxons.webp
- alt: 'Logo for Saxons the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/240.webp
+ alt: 'NewZealand from saxons'
 ---
 
 # Saxons is an Appliance Repair Technician, Parts Company operating in Auckland, New Zealand.

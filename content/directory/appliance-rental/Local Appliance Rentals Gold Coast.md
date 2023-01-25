@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/local-appliance-rentals-gold-coast.webp
-    alt: Cover image for Local Appliance Rentals Gold Coast the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/366.webp
+ alt: 'Australia from LocalApplianceRentalsGoldCoast'
 ---
 
 # Local Appliance Rentals Gold Coast

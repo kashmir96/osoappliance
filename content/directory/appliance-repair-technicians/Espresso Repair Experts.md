@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/espresso-repair-experts.webp
-    alt: Cover image for Espresso Repair Experts the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/86.webp
+ alt: 'UnitedStates from EspressoRepairExperts'
 ---
 
 # Espresso Repair Experts

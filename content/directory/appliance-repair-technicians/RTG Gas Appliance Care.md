@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/rtg-gas-appliance-care.webp
-    alt: Cover image for RTG Gas Appliance Care the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/177.webp
+ alt: 'UnitedKingdom from RTGGasApplianceCare'
 ---
 
 # RTG Gas Appliance Care

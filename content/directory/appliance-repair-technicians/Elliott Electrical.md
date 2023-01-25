@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/elliott-electrical.webp
-    alt: Cover image for Elliott Electrical the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/341.webp
+ alt: 'UnitedKingdom from ElliottElectrical'
 ---
 
 # Elliott Electrical

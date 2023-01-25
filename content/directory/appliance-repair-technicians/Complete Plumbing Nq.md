@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/complete-plumbing-nq.webp
-    alt: Cover image for Complete Plumbing Nq the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/25.webp
+ alt: 'Australia from CompletePlumbingNq'
 ---
 
 # Complete Plumbing Nq

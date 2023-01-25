@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/optimus-appliance-hvac-inc.webp
-    alt: Cover image for Optimus Appliance HVAC Inc the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/225.webp
+ alt: 'UnitedStates from OptimusApplianceHVACInc'
 ---
 
 # Optimus Appliance HVAC Inc

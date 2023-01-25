@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bunnings-north-launceston.webp
-    alt: Cover image for Bunnings North Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/222.webp
+ alt: 'Australia from BunningsNorthLaunceston'
 ---
 
 # Bunnings North Launceston

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hire-republic.webp
-    alt: Cover image for Hire Republic the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/71.webp
+ alt: 'Australia from HireRepublic'
 ---
 
 # Hire Republic

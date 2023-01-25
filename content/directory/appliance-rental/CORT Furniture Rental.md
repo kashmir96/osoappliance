@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cort-furniture-rental.webp
-    alt: Cover image for CORT Furniture Rental the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/270.webp
+ alt: 'UnitedStates from CORTFurnitureRental'
 ---
 
 # CORT Furniture Rental

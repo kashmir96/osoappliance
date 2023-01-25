@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/indy-rental-sales-inc.webp
-    alt: Cover image for Indy Rental Sales Inc the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/22.webp
+ alt: 'UnitedStates from IndyRentalSalesInc'
 ---
 
 # Indy Rental Sales Inc

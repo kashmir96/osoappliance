@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/ap-warehouse-usa.webp
- alt: 'Logo for Ap Warehouse Usa the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/20.webp
+ alt: 'UnitedStates from apwarehouseusa'
 ---
 
 # Ap Warehouse Usa is an Appliance Parts Supplier from United States.

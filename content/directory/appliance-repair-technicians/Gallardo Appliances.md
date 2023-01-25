@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gallardo-appliances.webp
-    alt: Cover image for Gallardo Appliances the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/171.webp
+ alt: 'UnitedStates from GallardoAppliances'
 ---
 
 # Gallardo Appliances

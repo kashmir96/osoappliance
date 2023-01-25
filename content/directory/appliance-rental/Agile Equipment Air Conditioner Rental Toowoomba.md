@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/agile-equipment-air-conditioner-rental-toowoomba.webp
-    alt: Cover image for Agile Equipment Air Conditioner Rental Toowoomba the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/92.webp
+ alt: 'Australia from AgileEquipmentAirConditionerRentalToowoomba'
 ---
 
 # Agile Equipment Air Conditioner Rental Toowoomba

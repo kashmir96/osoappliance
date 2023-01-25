@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bargain-rentals.webp
-    alt: Cover image for Bargain Rentals the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/112.webp
+ alt: 'UnitedStates from BargainRentals'
 ---
 
 # Bargain Rentals

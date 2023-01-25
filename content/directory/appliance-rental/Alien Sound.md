@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/alien-sound.webp
-    alt: Cover image for Alien Sound the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/16.webp
+ alt: 'Australia from AlienSound'
 ---
 
 # Alien Sound

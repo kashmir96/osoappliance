@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/2d-plumbing-gas.webp
-    alt: Cover image for 2D Plumbing Gas the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/132.webp
+ alt: 'Australia from 2DPlumbingGas'
 ---
 
 # 2D Plumbing Gas

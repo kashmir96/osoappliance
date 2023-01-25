@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/headland-auto-servicing-air-conditioning.webp
-    alt: Cover image for Headland Auto Servicing Air Conditioning the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/211.webp
+ alt: 'Australia from HeadlandAutoServicingAirConditioning'
 ---
 
 # Headland Auto Servicing Air Conditioning

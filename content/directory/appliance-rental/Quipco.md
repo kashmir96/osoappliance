@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/quipco.webp
-    alt: Cover image for Quipco the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/372.webp
+ alt: 'Australia from Quipco'
 ---
 
 # Quipco

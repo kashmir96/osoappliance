@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mooloolaba-party-hire.webp
-    alt: Cover image for Mooloolaba Party Hire the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/158.webp
+ alt: 'Australia from MooloolabaPartyHire'
 ---
 
 # Mooloolaba Party Hire

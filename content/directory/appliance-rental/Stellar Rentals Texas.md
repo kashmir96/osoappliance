@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/stellar-rentals-texas.webp
-    alt: Cover image for Stellar Rentals Texas the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/30.webp
+ alt: 'UnitedStates from StellarRentalsTexas'
 ---
 
 # Stellar Rentals Texas

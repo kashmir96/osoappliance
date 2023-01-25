@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/procam.webp
-    alt: Cover image for ProCam the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/154.webp
+ alt: 'Australia from ProCam'
 ---
 
 # ProCam

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/magnum-party-hire.webp
-    alt: Cover image for Magnum Party Hire the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/49.webp
+ alt: 'Australia from MagnumPartyHire'
 ---
 
 # Magnum Party Hire

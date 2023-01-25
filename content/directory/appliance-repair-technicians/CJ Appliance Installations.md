@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cj-appliance-installations.webp
-    alt: Cover image for CJ Appliance Installations the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/399.webp
+ alt: 'UnitedStates from CJApplianceInstallations'
 ---
 
 # CJ Appliance Installations

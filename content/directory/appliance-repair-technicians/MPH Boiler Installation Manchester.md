@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mph-boiler-installation-manchester.webp
-    alt: Cover image for MPH Boiler Installation Manchester the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/30.webp
+ alt: 'UnitedKingdom from MPHBoilerInstallationManchester'
 ---
 
 # MPH Boiler Installation Manchester

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/capital-hire.webp
-    alt: Cover image for Capital Hire the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/323.webp
+ alt: 'Australia from CapitalHire'
 ---
 
 # Capital Hire

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-good-guys-albury.webp
-    alt: Cover image for The Good Guys Albury the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/107.webp
+ alt: 'Australia from TheGoodGuysAlbury'
 ---
 
 # The Good Guys Albury

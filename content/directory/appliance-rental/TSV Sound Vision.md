@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tsv-sound-vision.webp
-    alt: Cover image for TSV Sound Vision the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/216.webp
+ alt: 'UnitedStates from TSVSoundVision'
 ---
 
 # TSV Sound Vision

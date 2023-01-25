@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/panacea-collective.webp
-    alt: Cover image for Panacea Collective the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/331.webp
+ alt: 'UnitedStates from PanaceaCollective'
 ---
 
 # Panacea Collective

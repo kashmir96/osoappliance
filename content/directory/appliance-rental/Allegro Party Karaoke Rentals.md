@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/allegro-party-karaoke-rentals.webp
-    alt: Cover image for Allegro Party Karaoke Rentals the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/391.webp
+ alt: 'UnitedStates from AllegroPartyKaraokeRentals'
 ---
 
 # Allegro Party Karaoke Rentals

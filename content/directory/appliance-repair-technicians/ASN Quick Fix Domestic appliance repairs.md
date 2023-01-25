@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/asn-quick-fix-domestic-appliance-repairs.webp
-    alt: Cover image for ASN Quick Fix Domestic appliance repairs the United Kingdom based Appliance Repair Technician servicing Glasgow 
+ image: /img/laundryappliance/261.webp
+ alt: 'UnitedKingdom from ASNQuickFixDomesticappliancerepairs'
 ---
 
 # ASN Quick Fix Domestic appliance repairs

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/azuma-leasing.webp
-    alt: Cover image for AZUMA Leasing the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/302.webp
+ alt: 'UnitedStates from AZUMALeasing'
 ---
 
 # AZUMA Leasing

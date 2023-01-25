@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/paulas-aaa-appliance-repair-san-antonio.webp
-    alt: Cover image for Paulas AAA Appliance Repair San Antonio the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/4.webp
+ alt: 'UnitedStates from PaulasAAAApplianceRepairSanAntonio'
 ---
 
 # Paulas AAA Appliance Repair San Antonio

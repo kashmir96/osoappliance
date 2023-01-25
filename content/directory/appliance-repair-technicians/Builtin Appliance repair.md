@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/builtin-appliance-repair.webp
-    alt: Cover image for Builtin Appliance repair the United States based Appliance Repair Technician servicing San Jose 
+ image: /img/laundryappliance/45.webp
+ alt: 'UnitedStates from BuiltinAppliancerepair'
 ---
 
 # Builtin Appliance repair

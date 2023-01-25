@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/washday-services.webp
-    alt: Cover image for Washday Services the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/105.webp
+ alt: 'UnitedKingdom from WashdayServices'
 ---
 
 # Washday Services

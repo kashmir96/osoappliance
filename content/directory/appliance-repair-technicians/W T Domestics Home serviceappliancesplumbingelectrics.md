@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/w-t-domestics-home-serviceappliancesplumbingelectrics.webp
-    alt: Cover image for W T Domestics Home serviceappliancesplumbingelectrics the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/261.webp
+ alt: 'UnitedKingdom from WTDomesticsHomeserviceappliancesplumbingelectrics'
 ---
 
 # W T Domestics Home serviceappliancesplumbingelectrics

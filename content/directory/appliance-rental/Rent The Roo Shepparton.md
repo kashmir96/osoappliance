@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo-shepparton.webp
-    alt: Cover image for Rent The Roo Shepparton the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/6.webp
+ alt: 'Australia from RentTheRooShepparton'
 ---
 
 # Rent The Roo Shepparton

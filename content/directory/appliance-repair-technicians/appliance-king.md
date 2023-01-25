@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Installation, Delivery"
 categories: ["New Zealand"]
 tags: ["Dunedin"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-installation,-delivery/appliance-king.webp
- alt: 'Logo for Appliance King the New Zealand from Dunedin'
+cover:
+ image: /img/laundryappliance/302.webp
+ alt: 'NewZealand from applianceking'
 ---
 
 # Appliance King is an Appliance Repair Technician, Installation, Delivery Company operating in Dunedin, New Zealand.

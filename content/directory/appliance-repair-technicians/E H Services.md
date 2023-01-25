@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/e-h-services.webp
-    alt: Cover image for E H Services the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/389.webp
+ alt: 'UnitedKingdom from EHServices'
 ---
 
 # E H Services

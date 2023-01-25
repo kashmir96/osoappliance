@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sh-appliances-repairs-london.webp
-    alt: Cover image for SH Appliances Repairs London the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/316.webp
+ alt: 'UnitedKingdom from SHAppliancesRepairsLondon'
 ---
 
 # SH Appliances Repairs London

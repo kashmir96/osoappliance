@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/urbanpro-appliance-repair.webp
-    alt: Cover image for UrbanPro Appliance Repair the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/396.webp
+ alt: 'UnitedStates from UrbanProApplianceRepair'
 ---
 
 # UrbanPro Appliance Repair

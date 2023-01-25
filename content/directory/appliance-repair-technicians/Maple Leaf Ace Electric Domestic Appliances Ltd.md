@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/maple-leaf-ace-electric-domestic-appliances-ltd.webp
-    alt: Cover image for Maple Leaf Ace Electric Domestic Appliances Ltd the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/69.webp
+ alt: 'UnitedKingdom from MapleLeafAceElectricDomesticAppliancesLtd'
 ---
 
 # Maple Leaf Ace Electric Domestic Appliances Ltd

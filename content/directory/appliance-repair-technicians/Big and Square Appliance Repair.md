@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/big-and-square-appliance-repair.webp
-    alt: Cover image for Big and Square Appliance Repair the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/148.webp
+ alt: 'UnitedStates from BigandSquareApplianceRepair'
 ---
 
 # Big and Square Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tool-truck-rental-center-at-the-home-depot.webp
-    alt: Cover image for Tool Truck Rental Center at The Home Depot the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/287.webp
+ alt: 'UnitedStates from ToolTruckRentalCenteratTheHomeDepot'
 ---
 
 # Tool Truck Rental Center at The Home Depot

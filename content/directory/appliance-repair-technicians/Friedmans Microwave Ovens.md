@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/friedmans-microwave-ovens.webp
-    alt: Cover image for Friedmans Microwave Ovens the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/122.webp
+ alt: 'UnitedStates from FriedmansMicrowaveOvens'
 ---
 
 # Friedmans Microwave Ovens

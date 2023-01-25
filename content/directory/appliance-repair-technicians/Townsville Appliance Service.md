@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/townsville-appliance-service.webp
-    alt: Cover image for Townsville Appliance Service the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/143.webp
+ alt: 'Australia from TownsvilleApplianceService'
 ---
 
 # Townsville Appliance Service

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dearne-valley-domestic-appliances.webp
-    alt: Cover image for Dearne Valley Domestic Appliances the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/212.webp
+ alt: 'UnitedKingdom from DearneValleyDomesticAppliances'
 ---
 
 # Dearne Valley Domestic Appliances

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/houston-appliance-center.webp
-    alt: Cover image for Houston Appliance Center the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/189.webp
+ alt: 'UnitedStates from HoustonApplianceCenter'
 ---
 
 # Houston Appliance Center

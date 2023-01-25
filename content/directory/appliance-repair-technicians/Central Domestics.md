@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/central-domestics.webp
-    alt: Cover image for Central Domestics the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/95.webp
+ alt: 'UnitedKingdom from CentralDomestics'
 ---
 
 # Central Domestics

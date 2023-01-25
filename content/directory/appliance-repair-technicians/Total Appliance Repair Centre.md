@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/total-appliance-repair-centre.webp
-    alt: Cover image for Total Appliance Repair Centre the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/357.webp
+ alt: 'Australia from TotalApplianceRepairCentre'
 ---
 
 # Total Appliance Repair Centre

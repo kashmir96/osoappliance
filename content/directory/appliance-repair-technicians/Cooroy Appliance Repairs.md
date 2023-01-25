@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cooroy-appliance-repairs.webp
-    alt: Cover image for Cooroy Appliance Repairs the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/256.webp
+ alt: 'Australia from CooroyApplianceRepairs'
 ---
 
 # Cooroy Appliance Repairs

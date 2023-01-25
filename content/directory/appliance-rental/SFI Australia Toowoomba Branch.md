@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sfi-australia-toowoomba-branch.webp
-    alt: Cover image for SFI Australia Toowoomba Branch the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/296.webp
+ alt: 'Australia from SFIAustraliaToowoombaBranch'
 ---
 
 # SFI Australia Toowoomba Branch

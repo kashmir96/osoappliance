@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/quad-appliance-services.webp
-    alt: Cover image for Quad Appliance Services the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/271.webp
+ alt: 'UnitedStates from QuadApplianceServices'
 ---
 
 # Quad Appliance Services

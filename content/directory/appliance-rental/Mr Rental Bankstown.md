@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-bankstown.webp
-    alt: Cover image for Mr Rental Bankstown the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/96.webp
+ alt: 'Australia from MrRentalBankstown'
 ---
 
 # Mr Rental Bankstown

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sydney-hire.webp
-    alt: Cover image for Sydney Hire the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/370.webp
+ alt: 'Australia from SydneyHire'
 ---
 
 # Sydney Hire

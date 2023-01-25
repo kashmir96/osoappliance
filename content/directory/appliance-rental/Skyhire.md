@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/skyhire.webp
-    alt: Cover image for Skyhire the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/215.webp
+ alt: 'Australia from Skyhire'
 ---
 
 # Skyhire

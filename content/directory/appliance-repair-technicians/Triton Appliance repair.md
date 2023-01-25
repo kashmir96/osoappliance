@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/triton-appliance-repair.webp
-    alt: Cover image for Triton Appliance repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/269.webp
+ alt: 'UnitedStates from TritonAppliancerepair'
 ---
 
 # Triton Appliance repair

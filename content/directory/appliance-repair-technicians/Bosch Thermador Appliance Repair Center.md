@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bosch-thermador-appliance-repair-center.webp
-    alt: Cover image for Bosch Thermador Appliance Repair Center the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/208.webp
+ alt: 'UnitedStates from BoschThermadorApplianceRepairCenter'
 ---
 
 # Bosch Thermador Appliance Repair Center

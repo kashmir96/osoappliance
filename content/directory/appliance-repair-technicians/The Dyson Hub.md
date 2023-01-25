@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-dyson-hub.webp
-    alt: Cover image for The Dyson Hub the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/320.webp
+ alt: 'UnitedKingdom from TheDysonHub'
 ---
 
 # The Dyson Hub

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abbey-electrics.webp
-    alt: Cover image for Abbey Electrics the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/82.webp
+ alt: 'UnitedKingdom from AbbeyElectrics'
 ---
 
 # Abbey Electrics

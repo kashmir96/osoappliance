@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/enviromate-plumbing-roofing.webp
-    alt: Cover image for Enviromate Plumbing Roofing the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/133.webp
+ alt: 'Australia from EnviromatePlumbingRoofing'
 ---
 
 # Enviromate Plumbing Roofing

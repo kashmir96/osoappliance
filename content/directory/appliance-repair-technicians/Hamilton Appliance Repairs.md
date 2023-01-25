@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hamilton-appliance-repairs.webp
-    alt: Cover image for Hamilton Appliance Repairs the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/52.webp
+ alt: 'Australia from HamiltonApplianceRepairs'
 ---
 
 # Hamilton Appliance Repairs

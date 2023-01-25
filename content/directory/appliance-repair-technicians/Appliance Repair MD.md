@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-md.webp
-    alt: Cover image for Appliance Repair MD the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/77.webp
+ alt: 'UnitedStates from ApplianceRepairMD'
 ---
 
 # Appliance Repair MD

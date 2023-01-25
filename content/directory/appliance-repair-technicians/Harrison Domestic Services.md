@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/harrison-domestic-services.webp
-    alt: Cover image for Harrison Domestic Services the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/32.webp
+ alt: 'UnitedKingdom from HarrisonDomesticServices'
 ---
 
 # Harrison Domestic Services

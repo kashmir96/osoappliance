@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/adlec-electrical-services.webp
-    alt: Cover image for Adlec Electrical Services the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/121.webp
+ alt: 'Australia from AdlecElectricalServices'
 ---
 
 # Adlec Electrical Services

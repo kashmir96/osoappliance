@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/pb-services.webp
-    alt: Cover image for PB Services the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/119.webp
+ alt: 'UnitedKingdom from PBServices'
 ---
 
 # PB Services

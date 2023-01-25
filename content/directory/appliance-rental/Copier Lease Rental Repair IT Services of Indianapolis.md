@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/copier-lease-rental-repair-it-services-of-indianapolis.webp
-    alt: Cover image for Copier Lease Rental Repair IT Services of Indianapolis the United States based Appliance Rental servicing Indianapolis 
+ image: /img/laundryappliance/377.webp
+ alt: 'UnitedStates from CopierLeaseRentalRepairITServicesofIndianapolis'
 ---
 
 # Copier Lease Rental Repair IT Services of Indianapolis

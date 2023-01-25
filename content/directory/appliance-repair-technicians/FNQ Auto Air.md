@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fnq-auto-air.webp
-    alt: Cover image for FNQ Auto Air the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/280.webp
+ alt: 'Australia from FNQAutoAir'
 ---
 
 # FNQ Auto Air

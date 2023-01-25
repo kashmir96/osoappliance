@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ace-refrigeration.webp
-    alt: Cover image for Ace Refrigeration the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/290.webp
+ alt: 'Australia from AceRefrigeration'
 ---
 
 # Ace Refrigeration

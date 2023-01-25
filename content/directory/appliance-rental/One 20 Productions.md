@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/one-20-productions.webp
-    alt: Cover image for One 20 Productions the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/37.webp
+ alt: 'Australia from One20Productions'
 ---
 
 # One 20 Productions

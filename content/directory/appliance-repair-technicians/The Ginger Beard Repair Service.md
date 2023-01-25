@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-ginger-beard-repair-service.webp
-    alt: Cover image for The Ginger Beard Repair Service the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/324.webp
+ alt: 'Australia from TheGingerBeardRepairService'
 ---
 
 # The Ginger Beard Repair Service

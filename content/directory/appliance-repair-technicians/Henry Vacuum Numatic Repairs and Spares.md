@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/henry-vacuum-numatic-repairs-and-spares.webp
-    alt: Cover image for Henry Vacuum Numatic Repairs and Spares the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/165.webp
+ alt: 'UnitedKingdom from HenryVacuumNumaticRepairsandSpares'
 ---
 
 # Henry Vacuum Numatic Repairs and Spares

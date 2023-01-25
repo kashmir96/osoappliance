@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/willowbrae-service-centre.webp
-    alt: Cover image for Willowbrae Service Centre the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/108.webp
+ alt: 'UnitedKingdom from WillowbraeServiceCentre'
 ---
 
 # Willowbrae Service Centre

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/subzero-appliance-repair-service-inc.webp
-    alt: Cover image for Subzero Appliance repair Service Inc the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/363.webp
+ alt: 'UnitedStates from SubzeroAppliancerepairServiceInc'
 ---
 
 # Subzero Appliance repair Service Inc

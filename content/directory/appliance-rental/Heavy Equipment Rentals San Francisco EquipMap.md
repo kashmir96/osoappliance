@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/heavy-equipment-rentals-san-francisco-equipmap.webp
-    alt: Cover image for Heavy Equipment Rentals San Francisco EquipMap the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/99.webp
+ alt: 'UnitedStates from HeavyEquipmentRentalsSanFranciscoEquipMap'
 ---
 
 # Heavy Equipment Rentals San Francisco EquipMap

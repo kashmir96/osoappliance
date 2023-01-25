@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/city-appliance-repair-services-domestic.webp
-    alt: Cover image for City Appliance Repair Services Domestic the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/83.webp
+ alt: 'UnitedKingdom from CityApplianceRepairServicesDomestic'
 ---
 
 # City Appliance Repair Services Domestic

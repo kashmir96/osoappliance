@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-buy-appliances-rent-to-buy-furniture-appliances-electronics-more.webp
-    alt: Cover image for Rent Buy Appliances Rent to Buy Furniture Appliances Electronics More the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/83.webp
+ alt: 'Australia from RentBuyAppliancesRenttoBuyFurnitureAppliancesElectronicsMore'
 ---
 
 # Rent Buy Appliances Rent to Buy Furniture Appliances Electronics More

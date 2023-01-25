@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Installation"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-installation/the-tv-service-centre.webp
- alt: 'Logo for The TV Service Centre the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/252.webp
+ alt: 'NewZealand from thetvservicecentre'
 ---
 
 # The TV Service Centre is an Appliance Repair Technician, Installation Company operating in Christchurch, New Zealand.

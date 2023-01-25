@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ae-solutions-nt.webp
-    alt: Cover image for AE Solutions NT the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/322.webp
+ alt: 'Australia from AESolutionsNT'
 ---
 
 # AE Solutions NT

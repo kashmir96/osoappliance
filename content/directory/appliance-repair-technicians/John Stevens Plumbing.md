@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/john-stevens-plumbing.webp
-    alt: Cover image for John Stevens Plumbing the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/333.webp
+ alt: 'Australia from JohnStevensPlumbing'
 ---
 
 # John Stevens Plumbing

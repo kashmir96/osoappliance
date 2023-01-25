@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/johns-appliance-repair-service.webp
-    alt: Cover image for Johns appliance repair service the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/195.webp
+ alt: 'Australia from Johnsappliancerepairservice'
 ---
 
 # Johns appliance repair service

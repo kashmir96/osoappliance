@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/loot-rentals.webp
-    alt: Cover image for Loot Rentals the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/113.webp
+ alt: 'UnitedStates from LootRentals'
 ---
 
 # Loot Rentals

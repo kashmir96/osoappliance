@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/laceystv.webp
-    alt: Cover image for Laceystv the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/326.webp
+ alt: 'Australia from Laceystv'
 ---
 
 # Laceystv

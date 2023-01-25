@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/japtech-hull-ltd.webp
-    alt: Cover image for Japtech Hull Ltd the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/258.webp
+ alt: 'UnitedKingdom from JaptechHullLtd'
 ---
 
 # Japtech Hull Ltd

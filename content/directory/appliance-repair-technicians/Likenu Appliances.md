@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/likenu-appliances.webp
-    alt: Cover image for Likenu Appliances the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/90.webp
+ alt: 'Australia from LikenuAppliances'
 ---
 
 # Likenu Appliances

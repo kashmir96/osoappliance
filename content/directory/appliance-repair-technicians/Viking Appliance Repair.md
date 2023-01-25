@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/viking-appliance-repair.webp
-    alt: Cover image for Viking Appliance Repair the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/285.webp
+ alt: 'UnitedStates from VikingApplianceRepair'
 ---
 
 # Viking Appliance Repair

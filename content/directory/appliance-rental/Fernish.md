@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/fernish.webp
-    alt: Cover image for Fernish the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/193.webp
+ alt: 'UnitedStates from Fernish'
 ---
 
 # Fernish

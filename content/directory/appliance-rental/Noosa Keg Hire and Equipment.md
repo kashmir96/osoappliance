@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/noosa-keg-hire-and-equipment.webp
-    alt: Cover image for Noosa Keg Hire and Equipment the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/352.webp
+ alt: 'Australia from NoosaKegHireandEquipment'
 ---
 
 # Noosa Keg Hire and Equipment

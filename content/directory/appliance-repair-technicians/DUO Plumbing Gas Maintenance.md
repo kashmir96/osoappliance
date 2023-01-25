@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/duo-plumbing-gas-maintenance.webp
-    alt: Cover image for DUO Plumbing Gas Maintenance the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/214.webp
+ alt: 'Australia from DUOPlumbingGasMaintenance'
 ---
 
 # DUO Plumbing Gas Maintenance

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/at-plumbing-and-heating.webp
-    alt: Cover image for AT Plumbing and Heating the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/230.webp
+ alt: 'UnitedKingdom from ATPlumbingandHeating'
 ---
 
 # AT Plumbing and Heating

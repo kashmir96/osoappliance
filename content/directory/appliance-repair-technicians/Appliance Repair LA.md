@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-la.webp
-    alt: Cover image for Appliance Repair LA the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/181.webp
+ alt: 'UnitedStates from ApplianceRepairLA'
 ---
 
 # Appliance Repair LA

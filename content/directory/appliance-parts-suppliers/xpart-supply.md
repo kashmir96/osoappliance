@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/xpart-supply.webp
- alt: 'Logo for XPart Supply the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/141.webp
+ alt: 'Canada from xpartsupply'
 ---
 
 # XPart Supply is an Appliance Parts Supplier from Canada.

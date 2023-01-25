@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-central-seattle.webp
-    alt: Cover image for Mr Appliance of Central Seattle the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/270.webp
+ alt: 'UnitedStates from MrApplianceofCentralSeattle'
 ---
 
 # Mr Appliance of Central Seattle

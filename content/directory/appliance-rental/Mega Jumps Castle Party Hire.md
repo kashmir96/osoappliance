@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mega-jumps-castle-party-hire.webp
-    alt: Cover image for Mega Jumps Castle Party Hire the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/277.webp
+ alt: 'Australia from MegaJumpsCastlePartyHire'
 ---
 
 # Mega Jumps Castle Party Hire

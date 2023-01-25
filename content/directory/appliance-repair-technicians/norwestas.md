@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, New Appliances, Parts"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-new-appliances,-parts/norwestas.webp
- alt: 'Logo for Norwestas the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/27.webp
+ alt: 'NewZealand from norwestas'
 ---
 
 # Norwestas is an Appliance Repair Technician, New Appliances, Parts Company operating in Auckland, New Zealand.

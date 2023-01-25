@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/united-forklift-and-access-solutions.webp
-    alt: Cover image for United Forklift and Access Solutions the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/208.webp
+ alt: 'Australia from UnitedForkliftandAccessSolutions'
 ---
 
 # United Forklift and Access Solutions

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sda-plumbing.webp
-    alt: Cover image for SDA Plumbing the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/7.webp
+ alt: 'Australia from SDAPlumbing'
 ---
 
 # SDA Plumbing

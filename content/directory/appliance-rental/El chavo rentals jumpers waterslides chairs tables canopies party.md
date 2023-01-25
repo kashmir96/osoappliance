@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/el-chavo-rentals-jumpers-waterslides-chairs-tables-canopies-party.webp
-    alt: Cover image for El chavo rentals jumpers waterslides chairs tables canopies party the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/74.webp
+ alt: 'UnitedStates from Elchavorentalsjumperswaterslideschairstablescanopiesparty'
 ---
 
 # El chavo rentals jumpers waterslides chairs tables canopies party

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/valerfix-appliance-air-conditioning.webp
-    alt: Cover image for VALERFIX APPLIANCE AIR CONDITIONING the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/360.webp
+ alt: 'Australia from VALERFIXAPPLIANCEAIRCONDITIONING'
 ---
 
 # VALERFIX APPLIANCE AIR CONDITIONING

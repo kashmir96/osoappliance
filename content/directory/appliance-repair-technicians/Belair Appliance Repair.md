@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/belair-appliance-repair.webp
-    alt: Cover image for Belair Appliance Repair the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/75.webp
+ alt: 'UnitedStates from BelairApplianceRepair'
 ---
 
 # Belair Appliance Repair

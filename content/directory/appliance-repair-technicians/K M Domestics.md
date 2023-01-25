@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/k-m-domestics.webp
-    alt: Cover image for K M Domestics the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/200.webp
+ alt: 'UnitedKingdom from KMDomestics'
 ---
 
 # K M Domestics

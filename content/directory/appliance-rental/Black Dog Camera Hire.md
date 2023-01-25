@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/black-dog-camera-hire.webp
-    alt: Cover image for Black Dog Camera Hire the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/33.webp
+ alt: 'Australia from BlackDogCameraHire'
 ---
 
 # Black Dog Camera Hire

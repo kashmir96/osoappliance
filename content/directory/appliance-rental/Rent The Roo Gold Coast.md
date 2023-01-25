@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo-gold-coast.webp
-    alt: Cover image for Rent The Roo Gold Coast the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/242.webp
+ alt: 'Australia from RentTheRooGoldCoast'
 ---
 
 # Rent The Roo Gold Coast

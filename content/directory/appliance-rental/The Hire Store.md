@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-hire-store.webp
-    alt: Cover image for The Hire Store the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/23.webp
+ alt: 'UnitedKingdom from TheHireStore'
 ---
 
 # The Hire Store

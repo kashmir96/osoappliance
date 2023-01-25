@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/atmosphere-events.webp
-    alt: Cover image for Atmosphere Events the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/148.webp
+ alt: 'Australia from AtmosphereEvents'
 ---
 
 # Atmosphere Events

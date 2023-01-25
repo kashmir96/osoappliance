@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jb-hifi-albury-mates-centre.webp
-    alt: Cover image for JB HiFi Albury Mates Centre the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/281.webp
+ alt: 'Australia from JBHiFiAlburyMatesCentre'
 ---
 
 # JB HiFi Albury Mates Centre

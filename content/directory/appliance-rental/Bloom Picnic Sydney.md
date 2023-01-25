@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bloom-picnic-sydney.webp
-    alt: Cover image for Bloom Picnic Sydney the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/315.webp
+ alt: 'Australia from BloomPicnicSydney'
 ---
 
 # Bloom Picnic Sydney

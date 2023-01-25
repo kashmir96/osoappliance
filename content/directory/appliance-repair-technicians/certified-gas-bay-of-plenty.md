@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Tauranga"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/certified-gas-bay-of-plenty.webp
- alt: 'Logo for Certified Gas Bay Of Plenty the New Zealand from Tauranga'
+cover:
+ image: /img/laundryappliance/71.webp
+ alt: 'NewZealand from certifiedgasbayofplenty'
 ---
 
 # Certified Gas Bay Of Plenty is an Appliance Repair Technician Company operating in Tauranga, New Zealand.

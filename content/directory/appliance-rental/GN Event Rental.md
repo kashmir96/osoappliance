@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/gn-event-rental.webp
-    alt: Cover image for GN Event Rental the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/172.webp
+ alt: 'UnitedStates from GNEventRental'
 ---
 
 # GN Event Rental

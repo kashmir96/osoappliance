@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/rent4keeps-toowoomba.webp
-    alt: Cover image for Rent4Keeps Toowoomba the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/71.webp
+ alt: 'Australia from Rent4KeepsToowoomba'
 ---
 
 # Rent4Keeps Toowoomba

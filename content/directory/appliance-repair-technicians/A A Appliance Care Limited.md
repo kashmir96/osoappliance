@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-a-appliance-care-limited.webp
-    alt: Cover image for A A Appliance Care Limited the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/153.webp
+ alt: 'UnitedKingdom from AAApplianceCareLimited'
 ---
 
 # A A Appliance Care Limited

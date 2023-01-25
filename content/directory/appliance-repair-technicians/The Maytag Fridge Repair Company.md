@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-maytag-fridge-repair-company.webp
-    alt: Cover image for The Maytag Fridge Repair Company the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/188.webp
+ alt: 'UnitedKingdom from TheMaytagFridgeRepairCompany'
 ---
 
 # The Maytag Fridge Repair Company

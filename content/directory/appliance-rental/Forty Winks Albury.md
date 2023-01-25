@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/forty-winks-albury.webp
-    alt: Cover image for Forty Winks Albury the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/21.webp
+ alt: 'Australia from FortyWinksAlbury'
 ---
 
 # Forty Winks Albury

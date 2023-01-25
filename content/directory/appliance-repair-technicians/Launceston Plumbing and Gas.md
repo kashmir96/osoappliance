@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/launceston-plumbing-and-gas.webp
-    alt: Cover image for Launceston Plumbing and Gas the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/37.webp
+ alt: 'Australia from LauncestonPlumbingandGas'
 ---
 
 # Launceston Plumbing and Gas

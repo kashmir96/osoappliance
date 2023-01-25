@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/american-freight-sears-outlet-appliance-furniture-mattress.webp
-    alt: Cover image for American Freight Sears Outlet Appliance Furniture Mattress the United States based Appliance Rental servicing Fort Worth 
+ image: /img/laundryappliance/19.webp
+ alt: 'UnitedStates from AmericanFreightSearsOutletApplianceFurnitureMattress'
 ---
 
 # American Freight Sears Outlet Appliance Furniture Mattress

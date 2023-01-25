@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Wanaka"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/besl.webp
- alt: 'Logo for Besl the New Zealand from Wanaka'
+cover:
+ image: /img/laundryappliance/139.webp
+ alt: 'NewZealand from besl'
 ---
 
 # Besl is an Appliance Repair Technician Company operating in Wanaka, New Zealand.

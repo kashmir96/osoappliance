@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-the-roo-brisbane.webp
-    alt: Cover image for Rent The Roo Brisbane the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/123.webp
+ alt: 'Australia from RentTheRooBrisbane'
 ---
 
 # Rent The Roo Brisbane

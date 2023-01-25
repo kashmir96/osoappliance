@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/expert-appliance-repairs.webp
-    alt: Cover image for Expert Appliance Repairs the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/172.webp
+ alt: 'Australia from ExpertApplianceRepairscopy'
 ---
 
 # Expert Appliance Repairs

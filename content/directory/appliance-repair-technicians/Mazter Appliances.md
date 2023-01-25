@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mazter-appliances.webp
-    alt: Cover image for Mazter Appliances the United States based Appliance Repair Technician servicing Seattle 
+ image: /img/laundryappliance/6.webp
+ alt: 'UnitedStates from MazterAppliances'
 ---
 
 # Mazter Appliances

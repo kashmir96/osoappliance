@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/select-plumbing.webp
-    alt: Cover image for Select Plumbing the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/57.webp
+ alt: 'Australia from SelectPlumbing'
 ---
 
 # Select Plumbing

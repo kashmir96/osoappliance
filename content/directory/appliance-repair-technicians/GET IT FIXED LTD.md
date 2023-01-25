@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/get-it-fixed-ltd.webp
-    alt: Cover image for GET IT FIXED LTD the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/257.webp
+ alt: 'UnitedKingdom from GETITFIXEDLTD'
 ---
 
 # GET IT FIXED LTD

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sunstate-equipment.webp
-    alt: Cover image for Sunstate Equipment the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/262.webp
+ alt: 'UnitedStates from SunstateEquipment'
 ---
 
 # Sunstate Equipment

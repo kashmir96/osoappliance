@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abs-appliance-repair-lg-appliance-repair.webp
-    alt: Cover image for ABS APPLIANCE REPAIR LG APPLIANCE REPAIR the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/157.webp
+ alt: 'UnitedStates from ABSAPPLIANCEREPAIRLGAPPLIANCEREPAIR'
 ---
 
 # ABS APPLIANCE REPAIR LG APPLIANCE REPAIR

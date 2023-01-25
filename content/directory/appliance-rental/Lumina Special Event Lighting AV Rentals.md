@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/lumina-special-event-lighting-av-rentals.webp
-    alt: Cover image for Lumina Special Event Lighting AV Rentals the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/323.webp
+ alt: 'UnitedStates from LuminaSpecialEventLightingAVRentals'
 ---
 
 # Lumina Special Event Lighting AV Rentals

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/boiler-service-nottingham.webp
-    alt: Cover image for Boiler Service Nottingham the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/343.webp
+ alt: 'UnitedKingdom from BoilerServiceNottingham'
 ---
 
 # Boiler Service Nottingham

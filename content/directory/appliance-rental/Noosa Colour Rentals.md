@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/noosa-colour-rentals.webp
-    alt: Cover image for Noosa Colour Rentals the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/66.webp
+ alt: 'Australia from NoosaColourRentals'
 ---
 
 # Noosa Colour Rentals

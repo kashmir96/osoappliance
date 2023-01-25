@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/smartsource-rentals.webp
-    alt: Cover image for SmartSource Rentals the United States based Appliance Rental servicing Houston 
+ image: /img/laundryappliance/57.webp
+ alt: 'UnitedStates from SmartSourceRentals'
 ---
 
 # SmartSource Rentals

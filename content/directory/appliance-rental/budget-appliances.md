@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Queenstown"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/budget-appliances.webp
- alt: 'Logo for Budget Appliances the Appliance Rental business from Queenstown, New Zealand'
+cover:
+ image: /img/laundryappliance/227.webp
+ alt: 'NewZealand from budgetappliances'
 ---
 
 Budget Appliances is an Appliance Rental business located in Queenstown, New Zealand. 

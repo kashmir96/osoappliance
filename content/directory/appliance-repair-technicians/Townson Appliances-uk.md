@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/townson-appliances.webp
-    alt: Cover image for Townson Appliances the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/111.webp
+ alt: 'UnitedKingdom from TownsonAppliancesuk'
 ---
 
 # Townson Appliances

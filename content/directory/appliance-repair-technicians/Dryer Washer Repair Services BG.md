@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dryer-washer-repair-services-bg.webp
-    alt: Cover image for Dryer Washer Repair Services BG the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/360.webp
+ alt: 'UnitedStates from DryerWasherRepairServicesBG'
 ---
 
 # Dryer Washer Repair Services BG

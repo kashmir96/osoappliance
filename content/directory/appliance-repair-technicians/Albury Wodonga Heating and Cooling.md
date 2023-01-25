@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/albury-wodonga-heating-and-cooling.webp
-    alt: Cover image for Albury Wodonga Heating and Cooling the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/256.webp
+ alt: 'Australia from AlburyWodongaHeatingandCooling'
 ---
 
 # Albury Wodonga Heating and Cooling

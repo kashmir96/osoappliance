@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tap-doctor-plumbing-perth.webp
-    alt: Cover image for Tap Doctor Plumbing Perth the Australia based Appliance Repair Technician servicing Perth 
+ image: /img/laundryappliance/91.webp
+ alt: 'Australia from TapDoctorPlumbingPerth'
 ---
 
 # Tap Doctor Plumbing Perth

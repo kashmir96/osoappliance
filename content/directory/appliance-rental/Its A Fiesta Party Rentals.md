@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/its-a-fiesta-party-rentals.webp
-    alt: Cover image for Its A Fiesta Party Rentals the United States based Appliance Rental servicing Phoenix 
+ image: /img/laundryappliance/127.webp
+ alt: 'UnitedStates from ItsAFiestaPartyRentals'
 ---
 
 # Its A Fiesta Party Rentals

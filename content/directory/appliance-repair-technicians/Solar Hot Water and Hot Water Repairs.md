@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/solar-hot-water-and-hot-water-repairs.webp
-    alt: Cover image for Solar Hot Water and Hot Water Repairs the Australia based Appliance Repair Technician servicing Sunshine-Coast 
+ image: /img/laundryappliance/224.webp
+ alt: 'Australia from SolarHotWaterandHotWaterRepairs'
 ---
 
 # Solar Hot Water and Hot Water Repairs

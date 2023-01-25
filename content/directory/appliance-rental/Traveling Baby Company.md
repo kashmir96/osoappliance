@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/traveling-baby-company.webp
-    alt: Cover image for Traveling Baby Company the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/97.webp
+ alt: 'UnitedStates from TravelingBabyCompany'
 ---
 
 # Traveling Baby Company

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/shock-safe-appliance-test-and-tag.webp
-    alt: Cover image for shock safe appliance test and tag the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/273.webp
+ alt: 'Australia from shocksafeappliancetestandtag'
 ---
 
 # shock safe appliance test and tag

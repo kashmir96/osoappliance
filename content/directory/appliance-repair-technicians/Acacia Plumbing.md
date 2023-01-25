@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/acacia-plumbing.webp
-    alt: Cover image for Acacia Plumbing the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/281.webp
+ alt: 'Australia from AcaciaPlumbing'
 ---
 
 # Acacia Plumbing

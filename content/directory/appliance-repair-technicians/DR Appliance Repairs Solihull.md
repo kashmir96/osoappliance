@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dr-appliance-repairs-solihull.webp
-    alt: Cover image for DR Appliance Repairs Solihull the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/113.webp
+ alt: 'UnitedKingdom from DRApplianceRepairsSolihull'
 ---
 
 # DR Appliance Repairs Solihull

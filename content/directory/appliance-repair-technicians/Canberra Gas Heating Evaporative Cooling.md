@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/canberra-gas-heating-evaporative-cooling.webp
-    alt: Cover image for Canberra Gas Heating Evaporative Cooling the Australia based Appliance Repair Technician servicing Canberra 
+ image: /img/laundryappliance/304.webp
+ alt: 'Australia from CanberraGasHeatingEvaporativeCooling'
 ---
 
 # Canberra Gas Heating Evaporative Cooling

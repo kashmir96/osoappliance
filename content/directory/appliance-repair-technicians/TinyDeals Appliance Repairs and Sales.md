@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tinydeals-appliance-repairs-and-sales.webp
-    alt: Cover image for TinyDeals Appliance Repairs and Sales the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/356.webp
+ alt: 'UnitedKingdom from TinyDealsApplianceRepairsandSales'
 ---
 
 # TinyDeals Appliance Repairs and Sales

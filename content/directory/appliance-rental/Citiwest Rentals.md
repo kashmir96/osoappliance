@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/citiwest-rentals.webp
-    alt: Cover image for Citiwest Rentals the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/250.webp
+ alt: 'Australia from CitiwestRentals'
 ---
 
 # Citiwest Rentals

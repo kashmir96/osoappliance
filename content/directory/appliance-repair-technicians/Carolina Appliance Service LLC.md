@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/carolina-appliance-service-llc.webp
-    alt: Cover image for Carolina Appliance Service LLC the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/225.webp
+ alt: 'UnitedStates from CarolinaApplianceServiceLLC'
 ---
 
 # Carolina Appliance Service LLC

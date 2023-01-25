@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/promise-appliance-repair.webp
-    alt: Cover image for Promise Appliance Repair the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/110.webp
+ alt: 'UnitedStates from PromiseApplianceRepair'
 ---
 
 # Promise Appliance Repair

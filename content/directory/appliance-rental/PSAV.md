@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/psav.webp
-    alt: Cover image for PSAV the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/19.webp
+ alt: 'UnitedStates from PSAV'
 ---
 
 # PSAV

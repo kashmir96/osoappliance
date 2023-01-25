@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/reflect-events.webp
-    alt: Cover image for Reflect Events the Australia based Appliance Rental servicing Ballarat 
+ image: /img/laundryappliance/320.webp
+ alt: 'Australia from ReflectEvents'
 ---
 
 # Reflect Events

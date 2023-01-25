@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/allfix-electrical-electronic-repair-service.webp
-    alt: Cover image for Allfix Electrical Electronic Repair Service the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/175.webp
+ alt: 'Australia from AllfixElectricalElectronicRepairService'
 ---
 
 # Allfix Electrical Electronic Repair Service

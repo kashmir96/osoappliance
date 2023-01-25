@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aays-rents-sells-inc.webp
-    alt: Cover image for AAYS Rents Sells Inc the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/175.webp
+ alt: 'UnitedStates from AAYSRentsSellsInc'
 ---
 
 # AAYS Rents Sells Inc

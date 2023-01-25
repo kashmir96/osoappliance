@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ars-recovery-services-car-sales.webp
-    alt: Cover image for ARS Recovery Services Car Sales the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/40.webp
+ alt: 'UnitedKingdom from ARSRecoveryServicesCarSales'
 ---
 
 # ARS Recovery Services Car Sales

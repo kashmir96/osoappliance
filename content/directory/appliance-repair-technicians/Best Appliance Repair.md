@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/best-appliance-repair.webp
-    alt: Cover image for Best Appliance Repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/102.webp
+ alt: 'UnitedStates from BestApplianceRepair'
 ---
 
 # Best Appliance Repair

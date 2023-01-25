@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/uline-repair-philadelphia.webp
-    alt: Cover image for Uline Repair Philadelphia the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/388.webp
+ alt: 'UnitedStates from UlineRepairPhiladelphia'
 ---
 
 # Uline Repair Philadelphia

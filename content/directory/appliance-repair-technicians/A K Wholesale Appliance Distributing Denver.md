@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-k-wholesale-appliance-distributing-denver.webp
-    alt: Cover image for A K Wholesale Appliance Distributing Denver the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/20.webp
+ alt: 'UnitedStates from AKWholesaleApplianceDistributingDenver'
 ---
 
 # A K Wholesale Appliance Distributing Denver

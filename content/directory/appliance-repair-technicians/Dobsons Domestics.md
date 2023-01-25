@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dobsons-domestics.webp
-    alt: Cover image for Dobsons Domestics the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/283.webp
+ alt: 'UnitedKingdom from DobsonsDomestics'
 ---
 
 # Dobsons Domestics

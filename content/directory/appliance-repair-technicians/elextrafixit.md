@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/elextrafixit.webp
- alt: 'Logo for Elextrafixit the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/344.webp
+ alt: 'NewZealand from elextrafixit'
 ---
 
 # Elextrafixit is an Appliance Repair Technician Company operating in Auckland, New Zealand.

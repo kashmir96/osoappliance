@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/paradise-video-tv-service.webp
-    alt: Cover image for Paradise Video TV Service the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/68.webp
+ alt: 'Australia from ParadiseVideoTVService'
 ---
 
 # Paradise Video TV Service

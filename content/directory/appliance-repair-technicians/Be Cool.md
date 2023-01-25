@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/be-cool.webp
-    alt: Cover image for Be Cool the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/211.webp
+ alt: 'Australia from BeCool'
 ---
 
 # Be Cool

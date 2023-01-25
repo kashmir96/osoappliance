@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/complete-airconditioning-refrigeration-pty-ltd.webp
-    alt: Cover image for Complete AirConditioning Refrigeration PTY LTD the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/223.webp
+ alt: 'Australia from CompleteAirConditioningRefrigerationPTYLTD'
 ---
 
 # Complete AirConditioning Refrigeration PTY LTD

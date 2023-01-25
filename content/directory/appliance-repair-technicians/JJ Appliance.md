@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jj-appliance.webp
-    alt: Cover image for JJ Appliance the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/65.webp
+ alt: 'UnitedStates from JJAppliance'
 ---
 
 # JJ Appliance

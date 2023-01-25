@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/master-buy.webp
-    alt: Cover image for Master Buy the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/130.webp
+ alt: 'Australia from MasterBuy'
 ---
 
 # Master Buy

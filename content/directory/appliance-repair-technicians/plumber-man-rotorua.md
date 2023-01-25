@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Rotorua"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/plumber-man-rotorua.webp
- alt: 'Logo for Plumber Man Rotorua the New Zealand from Rotorua'
+cover:
+ image: /img/laundryappliance/373.webp
+ alt: 'NewZealand from plumbermanrotorua'
 ---
 
 # Plumber Man Rotorua is an Appliance Repair Technician Company operating in Rotorua, New Zealand.

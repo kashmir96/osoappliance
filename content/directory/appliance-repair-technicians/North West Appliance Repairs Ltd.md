@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/north-west-appliance-repairs-ltd.webp
-    alt: Cover image for North West Appliance Repairs Ltd the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/179.webp
+ alt: 'UnitedKingdom from NorthWestApplianceRepairsLtd'
 ---
 
 # North West Appliance Repairs Ltd

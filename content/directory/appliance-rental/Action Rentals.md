@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/action-rentals.webp
-    alt: Cover image for Action Rentals the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/314.webp
+ alt: 'UnitedStates from ActionRentals'
 ---
 
 # Action Rentals

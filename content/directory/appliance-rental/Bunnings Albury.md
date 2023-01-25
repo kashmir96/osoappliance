@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bunnings-albury.webp
-    alt: Cover image for Bunnings Albury the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/202.webp
+ alt: 'Australia from BunningsAlbury'
 ---
 
 # Bunnings Albury

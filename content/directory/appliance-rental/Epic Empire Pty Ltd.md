@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/epic-empire-pty-ltd.webp
-    alt: Cover image for Epic Empire Pty Ltd the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/187.webp
+ alt: 'Australia from EpicEmpirePtyLtd'
 ---
 
 # Epic Empire Pty Ltd

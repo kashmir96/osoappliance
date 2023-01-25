@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/alec-electrics-pty-ltd.webp
-    alt: Cover image for ALec Electrics Pty Ltd the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/254.webp
+ alt: 'Australia from ALecElectricsPtyLtd'
 ---
 
 # ALec Electrics Pty Ltd

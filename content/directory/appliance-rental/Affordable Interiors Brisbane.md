@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/affordable-interiors-brisbane.webp
-    alt: Cover image for Affordable Interiors Brisbane the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/259.webp
+ alt: 'Australia from AffordableInteriorsBrisbane'
 ---
 
 # Affordable Interiors Brisbane

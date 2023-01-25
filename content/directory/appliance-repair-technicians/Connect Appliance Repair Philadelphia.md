@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/connect-appliance-repair-philadelphia.webp
-    alt: Cover image for Connect Appliance Repair Philadelphia the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/32.webp
+ alt: 'UnitedStates from ConnectApplianceRepairPhiladelphia'
 ---
 
 # Connect Appliance Repair Philadelphia

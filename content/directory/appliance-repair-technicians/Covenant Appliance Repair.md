@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/covenant-appliance-repair.webp
-    alt: Cover image for Covenant Appliance Repair the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/206.webp
+ alt: 'UnitedStates from CovenantApplianceRepair'
 ---
 
 # Covenant Appliance Repair

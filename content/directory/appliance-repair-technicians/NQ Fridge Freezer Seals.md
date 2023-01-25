@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nq-fridge-freezer-seals.webp
-    alt: Cover image for NQ Fridge Freezer Seals the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/94.webp
+ alt: 'Australia from NQFridgeFreezerSeals'
 ---
 
 # NQ Fridge Freezer Seals

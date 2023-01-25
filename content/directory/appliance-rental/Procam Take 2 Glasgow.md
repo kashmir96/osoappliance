@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/procam-take-2-glasgow.webp
-    alt: Cover image for Procam Take 2 Glasgow the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/91.webp
+ alt: 'UnitedKingdom from ProcamTake2Glasgow'
 ---
 
 # Procam Take 2 Glasgow

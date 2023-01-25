@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/doug-smith-appliance-parts.webp
-    alt: Cover image for Doug Smith Appliance Parts the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/327.webp
+ alt: 'Australia from DougSmithApplianceParts'
 ---
 
 # Doug Smith Appliance Parts

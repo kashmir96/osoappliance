@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mobility-equipment-hire-direct-ltd.webp
-    alt: Cover image for Mobility Equipment Hire Direct Ltd the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/386.webp
+ alt: 'UnitedKingdom from MobilityEquipmentHireDirectLtd'
 ---
 
 # Mobility Equipment Hire Direct Ltd

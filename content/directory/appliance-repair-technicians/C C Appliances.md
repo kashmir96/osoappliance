@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/c-c-appliances.webp
-    alt: Cover image for C C Appliances the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/241.webp
+ alt: 'UnitedKingdom from CCAppliances'
 ---
 
 # C C Appliances

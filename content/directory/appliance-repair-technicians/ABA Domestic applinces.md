@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aba-domestic-applinces.webp
-    alt: Cover image for ABA Domestic applinces the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/258.webp
+ alt: 'UnitedKingdom from ABADomesticapplinces'
 ---
 
 # ABA Domestic applinces

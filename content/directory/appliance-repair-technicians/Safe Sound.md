@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/safe-sound.webp
-    alt: Cover image for Safe Sound the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/178.webp
+ alt: 'UnitedKingdom from SafeSound'
 ---
 
 # Safe Sound

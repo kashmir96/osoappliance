@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a-same-day-appliance-service-llc.webp
-    alt: Cover image for A Same Day Appliance Service LLC the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/104.webp
+ alt: 'UnitedStates from ASameDayApplianceServiceLLC'
 ---
 
 # A Same Day Appliance Service LLC

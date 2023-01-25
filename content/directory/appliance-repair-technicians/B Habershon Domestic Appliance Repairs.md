@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/b-habershon-domestic-appliance-repairs.webp
-    alt: Cover image for B Habershon Domestic Appliance Repairs the United Kingdom based Appliance Repair Technician servicing Sheffield 
+ image: /img/laundryappliance/201.webp
+ alt: 'UnitedKingdom from BHabershonDomesticApplianceRepairs'
 ---
 
 # B Habershon Domestic Appliance Repairs

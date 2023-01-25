@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/express-furniture-rental.webp
-    alt: Cover image for Express Furniture Rental the United States based Appliance Rental servicing Seattle 
+ image: /img/laundryappliance/341.webp
+ alt: 'UnitedStates from ExpressFurnitureRental'
 ---
 
 # Express Furniture Rental

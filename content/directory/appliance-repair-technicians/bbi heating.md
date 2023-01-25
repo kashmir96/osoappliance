@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bbi-heating.webp
-    alt: Cover image for bbi heating the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/90.webp
+ alt: 'UnitedKingdom from bbiheating'
 ---
 
 # bbi heating

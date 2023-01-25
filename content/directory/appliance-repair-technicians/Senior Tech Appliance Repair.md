@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/senior-tech-appliance-repair.webp
-    alt: Cover image for Senior Tech Appliance Repair the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/11.webp
+ alt: 'UnitedStates from SeniorTechApplianceRepair'
 ---
 
 # Senior Tech Appliance Repair

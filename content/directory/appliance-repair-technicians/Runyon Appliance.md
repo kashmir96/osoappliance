@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/runyon-appliance.webp
-    alt: Cover image for Runyon Appliance the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/344.webp
+ alt: 'UnitedStates from RunyonAppliance'
 ---
 
 # Runyon Appliance

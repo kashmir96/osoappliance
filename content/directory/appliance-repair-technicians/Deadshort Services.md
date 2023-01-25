@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/deadshort-services.webp
-    alt: Cover image for Deadshort Services the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/177.webp
+ alt: 'Australia from DeadshortServices'
 ---
 
 # Deadshort Services

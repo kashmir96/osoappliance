@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/alan-gordon-enterprises.webp
-    alt: Cover image for Alan Gordon Enterprises the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/91.webp
+ alt: 'UnitedStates from AlanGordonEnterprises'
 ---
 
 # Alan Gordon Enterprises

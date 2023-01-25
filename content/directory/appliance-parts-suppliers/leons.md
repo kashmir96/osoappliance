@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/leons.webp
- alt: 'Logo for Leons the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/40.webp
+ alt: 'Canada from leons'
 ---
 
 # Leons is an Appliance Parts Supplier from Canada.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/suncoast-appliance-services.webp
-    alt: Cover image for Suncoast Appliance Services the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/390.webp
+ alt: 'Australia from SuncoastApplianceServices'
 ---
 
 # Suncoast Appliance Services

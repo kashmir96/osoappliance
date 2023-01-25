@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mike-mullen-gas-services.webp
-    alt: Cover image for Mike Mullen Gas Services the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/269.webp
+ alt: 'UnitedKingdom from MikeMullenGasServices'
 ---
 
 # Mike Mullen Gas Services

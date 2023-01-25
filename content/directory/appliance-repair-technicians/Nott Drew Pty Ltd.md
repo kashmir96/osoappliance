@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nott-drew-pty-ltd.webp
-    alt: Cover image for Nott Drew Pty Ltd the Australia based Appliance Repair Technician servicing Geelong 
+ image: /img/laundryappliance/284.webp
+ alt: 'Australia from NottDrewPtyLtd'
 ---
 
 # Nott Drew Pty Ltd

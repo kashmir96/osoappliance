@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/expo-hire-uk-ltd.webp
-    alt: Cover image for Expo Hire UK Ltd the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/381.webp
+ alt: 'UnitedKingdom from ExpoHireUKLtd'
 ---
 
 # Expo Hire UK Ltd

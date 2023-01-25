@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ultimate-appliances-pty-ltd.webp
-    alt: Cover image for Ultimate Appliances Pty Ltd the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/48.webp
+ alt: 'Australia from UltimateAppliancesPtyLtd'
 ---
 
 # Ultimate Appliances Pty Ltd

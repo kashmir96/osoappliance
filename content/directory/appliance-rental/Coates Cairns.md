@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/coates-cairns.webp
-    alt: Cover image for Coates Cairns the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/200.webp
+ alt: 'Australia from CoatesCairns'
 ---
 
 # Coates Cairns

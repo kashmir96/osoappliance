@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/complete-function-hire.webp
-    alt: Cover image for Complete Function Hire the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/64.webp
+ alt: 'Australia from CompleteFunctionHire'
 ---
 
 # Complete Function Hire

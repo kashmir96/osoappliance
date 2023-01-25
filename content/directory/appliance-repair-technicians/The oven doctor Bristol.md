@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-oven-doctor-bristol.webp
-    alt: Cover image for The oven doctor Bristol the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/50.webp
+ alt: 'UnitedKingdom from TheovendoctorBristol'
 ---
 
 # The oven doctor Bristol

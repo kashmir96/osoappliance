@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/speedy-ac-repair-philadelphia.webp
-    alt: Cover image for Speedy AC Repair Philadelphia the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/206.webp
+ alt: 'UnitedStates from SpeedyACRepairPhiladelphia'
 ---
 
 # Speedy AC Repair Philadelphia

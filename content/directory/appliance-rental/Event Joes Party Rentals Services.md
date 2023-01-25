@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/event-joes-party-rentals-services.webp
-    alt: Cover image for Event Joes Party Rentals Services the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/273.webp
+ alt: 'UnitedStates from EventJoesPartyRentalsServices'
 ---
 
 # Event Joes Party Rentals Services

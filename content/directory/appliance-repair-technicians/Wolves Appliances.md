@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/wolves-appliances.webp
-    alt: Cover image for Wolves Appliances the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/210.webp
+ alt: 'UnitedKingdom from WolvesAppliances'
 ---
 
 # Wolves Appliances

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/e-auto-mechanic-cairns.webp
-    alt: Cover image for E Auto Mechanic Cairns the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/340.webp
+ alt: 'Australia from EAutoMechanicCairns'
 ---
 
 # E Auto Mechanic Cairns

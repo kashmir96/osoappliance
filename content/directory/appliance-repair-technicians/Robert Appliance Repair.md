@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/robert-appliance-repair.webp
-    alt: Cover image for Robert Appliance Repair the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/177.webp
+ alt: 'UnitedStates from RobertApplianceRepair'
 ---
 
 # Robert Appliance Repair

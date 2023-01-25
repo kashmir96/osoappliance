@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/peter-bakers-refrigeration-services.webp
-    alt: Cover image for Peter Bakers refrigeration services the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/21.webp
+ alt: 'UnitedKingdom from PeterBakersrefrigerationservices'
 ---
 
 # Peter Bakers refrigeration services

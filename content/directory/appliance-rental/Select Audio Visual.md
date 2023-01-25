@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/select-audio-visual.webp
-    alt: Cover image for Select Audio Visual the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/61.webp
+ alt: 'Australia from SelectAudioVisual'
 ---
 
 # Select Audio Visual

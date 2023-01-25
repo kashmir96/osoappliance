@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/gt-solutions-nt.webp
-    alt: Cover image for GT Solutions NT the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/272.webp
+ alt: 'Australia from GTSolutionsNT'
 ---
 
 # GT Solutions NT

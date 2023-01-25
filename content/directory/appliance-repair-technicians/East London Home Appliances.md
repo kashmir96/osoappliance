@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/east-london-home-appliances.webp
-    alt: Cover image for East London Home Appliances the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/52.webp
+ alt: 'UnitedKingdom from EastLondonHomeAppliances'
 ---
 
 # East London Home Appliances

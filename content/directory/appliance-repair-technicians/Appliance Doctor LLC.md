@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-doctor-llc.webp
-    alt: Cover image for Appliance Doctor LLC the United States based Appliance Repair Technician servicing Charlotte 
+ image: /img/laundryappliance/226.webp
+ alt: 'UnitedStates from ApplianceDoctorLLC'
 ---
 
 # Appliance Doctor LLC

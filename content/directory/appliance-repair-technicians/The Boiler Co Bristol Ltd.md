@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-boiler-co-bristol-ltd.webp
-    alt: Cover image for The Boiler Co Bristol Ltd the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/297.webp
+ alt: 'UnitedKingdom from TheBoilerCoBristolLtd'
 ---
 
 # The Boiler Co Bristol Ltd

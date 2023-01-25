@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/tasmanian-big-letter-co-event-hire-launceston.webp
-    alt: Cover image for Tasmanian Big Letter Co Event Hire Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/362.webp
+ alt: 'Australia from TasmanianBigLetterCoEventHireLaunceston'
 ---
 
 # Tasmanian Big Letter Co Event Hire Launceston

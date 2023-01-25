@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/kennards-hire-toowoomba.webp
-    alt: Cover image for Kennards Hire Toowoomba the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/329.webp
+ alt: 'Australia from KennardsHireToowoomba'
 ---
 
 # Kennards Hire Toowoomba

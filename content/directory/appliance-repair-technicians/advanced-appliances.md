@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/advanced-appliances.webp
- alt: 'Logo for Advanced Appliances the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/34.webp
+ alt: 'NewZealand from advancedappliances'
 ---
 
 # Advanced Appliances is an Appliance Repair Technician Company operating in Timaru, New Zealand.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/living-edge-rental.webp
-    alt: Cover image for Living Edge Rental the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/48.webp
+ alt: 'Australia from LivingEdgeRental'
 ---
 
 # Living Edge Rental

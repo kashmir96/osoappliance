@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/affordable-appliance-repair-co.webp
-    alt: Cover image for Affordable Appliance Repair Co the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/331.webp
+ alt: 'UnitedStates from AffordableApplianceRepairCo'
 ---
 
 # Affordable Appliance Repair Co

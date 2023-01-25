@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/quality-appliance-repair-san-francisco-llc.webp
-    alt: Cover image for Quality Appliance Repair San Francisco LLC the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/192.webp
+ alt: 'UnitedStates from QualityApplianceRepairSanFranciscoLLC'
 ---
 
 # Quality Appliance Repair San Francisco LLC

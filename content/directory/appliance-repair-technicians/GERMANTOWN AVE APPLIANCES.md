@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/germantown-ave-appliances.webp
-    alt: Cover image for GERMANTOWN AVE APPLIANCES the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/313.webp
+ alt: 'UnitedStates from GERMANTOWNAVEAPPLIANCES'
 ---
 
 # GERMANTOWN AVE APPLIANCES

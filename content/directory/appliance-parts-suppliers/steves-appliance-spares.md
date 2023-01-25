@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/steves-appliance-spares.webp
- alt: 'Logo for Steves Appliance Spares the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/32.webp
+ alt: 'NewZealand from stevesappliancespares'
 ---
 
 # Steves Appliance Spares is an Appliance Parts Supplier from New Zealand.

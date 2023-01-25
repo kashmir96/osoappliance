@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/blast-balloons-and-parties.webp
-    alt: Cover image for Blast Balloons and Parties the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/346.webp
+ alt: 'Australia from BlastBalloonsandParties'
 ---
 
 # Blast Balloons and Parties

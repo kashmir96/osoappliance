@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mp-appliance-repair.webp
-    alt: Cover image for MP Appliance Repair the United Kingdom based Appliance Repair Technician servicing Liverpool 
+ image: /img/laundryappliance/231.webp
+ alt: 'UnitedKingdom from MPApplianceRepair'
 ---
 
 # MP Appliance Repair

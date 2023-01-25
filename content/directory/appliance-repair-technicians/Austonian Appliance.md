@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/austonian-appliance.webp
-    alt: Cover image for Austonian Appliance the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/336.webp
+ alt: 'UnitedStates from AustonianAppliance'
 ---
 
 # Austonian Appliance

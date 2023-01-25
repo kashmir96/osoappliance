@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/cq-party-hire.webp
-    alt: Cover image for CQ Party Hire the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/131.webp
+ alt: 'Australia from CQPartyHire'
 ---
 
 # CQ Party Hire

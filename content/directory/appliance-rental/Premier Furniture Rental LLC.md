@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/premier-furniture-rental-llc.webp
-    alt: Cover image for Premier Furniture Rental LLC the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/55.webp
+ alt: 'UnitedStates from PremierFurnitureRentalLLC'
 ---
 
 # Premier Furniture Rental LLC

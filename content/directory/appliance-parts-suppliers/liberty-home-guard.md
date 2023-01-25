@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/liberty-home-guard.webp
- alt: 'Logo for Liberty Home Guard the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/192.webp
+ alt: 'UnitedStates from libertyhomeguard'
 ---
 
 # Liberty Home Guard is an Appliance Parts Supplier from United States.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hollywood-appliance-repair-inc.webp
-    alt: Cover image for Hollywood Appliance Repair Inc the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/52.webp
+ alt: 'UnitedStates from HollywoodApplianceRepairInc'
 ---
 
 # Hollywood Appliance Repair Inc

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tamara-alterations.webp
-    alt: Cover image for Tamara Alterations the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/29.webp
+ alt: 'Australia from TamaraAlterations'
 ---
 
 # Tamara Alterations

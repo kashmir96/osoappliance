@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/matt-davies-plumbing-heating.webp
-    alt: Cover image for Matt Davies Plumbing Heating the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/19.webp
+ alt: 'UnitedKingdom from MattDaviesPlumbingHeating'
 ---
 
 # Matt Davies Plumbing Heating

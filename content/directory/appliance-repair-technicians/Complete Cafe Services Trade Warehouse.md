@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/complete-cafe-services-trade-warehouse.webp
-    alt: Cover image for Complete Cafe Services Trade Warehouse the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/76.webp
+ alt: 'Australia from CompleteCafeServicesTradeWarehouse'
 ---
 
 # Complete Cafe Services Trade Warehouse

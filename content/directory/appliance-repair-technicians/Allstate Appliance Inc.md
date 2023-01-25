@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/allstate-appliance-inc.webp
-    alt: Cover image for Allstate Appliance Inc the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/292.webp
+ alt: 'UnitedStates from AllstateApplianceInc'
 ---
 
 # Allstate Appliance Inc

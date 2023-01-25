@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/frontline-appliances.webp
- alt: 'Logo for Frontline Appliances the New Zealand from Wellington'
+cover:
+ image: /img/laundryappliance/321.webp
+ alt: 'NewZealand from frontlineappliances'
 ---
 
 # Frontline Appliances is an Appliance Repair Technician Company operating in Wellington, New Zealand.

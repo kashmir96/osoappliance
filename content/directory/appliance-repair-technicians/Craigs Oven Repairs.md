@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/craigs-oven-repairs.webp
-    alt: Cover image for Craigs Oven Repairs the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/5.webp
+ alt: 'Australia from CraigsOvenRepairs'
 ---
 
 # Craigs Oven Repairs

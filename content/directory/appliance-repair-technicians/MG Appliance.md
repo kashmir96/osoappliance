@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mg-appliance.webp
-    alt: Cover image for MG Appliance the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/5.webp
+ alt: 'UnitedStates from MGAppliance'
 ---
 
 # MG Appliance

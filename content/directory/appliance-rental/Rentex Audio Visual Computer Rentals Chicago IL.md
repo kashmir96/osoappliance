@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rentex-audio-visual-computer-rentals-chicago-il.webp
-    alt: Cover image for Rentex Audio Visual Computer Rentals Chicago IL the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/239.webp
+ alt: 'UnitedStates from RentexAudioVisualComputerRentalsChicagoIL'
 ---
 
 # Rentex Audio Visual Computer Rentals Chicago IL

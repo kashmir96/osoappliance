@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fridge-repairs-brisbane-inhome-service-closed-for-maintenance.webp
-    alt: Cover image for Fridge Repairs Brisbane InHome Service Closed for Maintenance the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/219.webp
+ alt: 'Australia from FridgeRepairsBrisbaneInHomeServiceClosedforMaintenance'
 ---
 
 # Fridge Repairs Brisbane InHome Service Closed for Maintenance

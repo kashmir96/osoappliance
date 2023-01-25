@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/watts-electrical.webp
-    alt: Cover image for WATTS ELECTRICAL the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/203.webp
+ alt: 'UnitedKingdom from WATTSELECTRICAL'
 ---
 
 # WATTS ELECTRICAL

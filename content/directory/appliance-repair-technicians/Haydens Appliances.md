@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/haydens-appliances.webp
-    alt: Cover image for Haydens Appliances the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/256.webp
+ alt: 'UnitedStates from HaydensAppliances'
 ---
 
 # Haydens Appliances

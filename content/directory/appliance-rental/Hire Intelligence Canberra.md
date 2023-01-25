@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hire-intelligence-canberra.webp
-    alt: Cover image for Hire Intelligence Canberra the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/53.webp
+ alt: 'Australia from HireIntelligenceCanberra'
 ---
 
 # Hire Intelligence Canberra

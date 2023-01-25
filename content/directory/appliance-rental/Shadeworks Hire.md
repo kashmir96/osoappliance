@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/shadeworks-hire.webp
-    alt: Cover image for Shadeworks Hire the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/291.webp
+ alt: 'Australia from ShadeworksHire'
 ---
 
 # Shadeworks Hire

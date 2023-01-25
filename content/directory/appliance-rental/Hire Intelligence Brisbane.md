@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hire-intelligence-brisbane.webp
-    alt: Cover image for Hire Intelligence Brisbane the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/19.webp
+ alt: 'Australia from HireIntelligenceBrisbane'
 ---
 
 # Hire Intelligence Brisbane

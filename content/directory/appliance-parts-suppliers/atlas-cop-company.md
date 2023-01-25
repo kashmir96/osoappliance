@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Nigeria"
 type: "Appliance Parts Suppliers"
 categories: ["Nigeria"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/atlas-cop-company.webp
- alt: 'Logo for Atlas Cop Company the Appliance Parts Suppliers from Nigeria'
+cover:
+ image: /img/kitchenappliances/2.webp
+ alt: 'Nigeria from atlascopcompany'
 ---
 
 # Atlas Cop Company is an Appliance Parts Supplier from Nigeria.

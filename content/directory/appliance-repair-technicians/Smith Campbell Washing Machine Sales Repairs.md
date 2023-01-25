@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/smith-campbell-washing-machine-sales-repairs.webp
-    alt: Cover image for Smith Campbell Washing Machine Sales Repairs the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/361.webp
+ alt: 'Australia from SmithCampbellWashingMachineSalesRepairs'
 ---
 
 # Smith Campbell Washing Machine Sales Repairs

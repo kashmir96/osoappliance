@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/general-parts-group.webp
-    alt: Cover image for General Parts Group the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/304.webp
+ alt: 'UnitedStates from GeneralPartsGroup'
 ---
 
 # General Parts Group

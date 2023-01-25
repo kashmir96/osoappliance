@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/l-b-appliance-repair-ltd.webp
-    alt: Cover image for L B Appliance Repair Ltd the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/174.webp
+ alt: 'UnitedKingdom from LBApplianceRepairLtd'
 ---
 
 # L B Appliance Repair Ltd

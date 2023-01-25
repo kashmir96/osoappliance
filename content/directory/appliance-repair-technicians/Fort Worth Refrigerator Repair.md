@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fort-worth-refrigerator-repair.webp
-    alt: Cover image for Fort Worth Refrigerator Repair the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/223.webp
+ alt: 'UnitedStates from FortWorthRefrigeratorRepair'
 ---
 
 # Fort Worth Refrigerator Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/party-rental-ltd.webp
-    alt: Cover image for Party Rental Ltd the United States based Appliance Rental servicing Philadelphia 
+ image: /img/laundryappliance/69.webp
+ alt: 'UnitedStates from PartyRentalLtd'
 ---
 
 # Party Rental Ltd

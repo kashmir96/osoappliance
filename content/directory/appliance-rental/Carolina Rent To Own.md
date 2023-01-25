@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/carolina-rent-to-own.webp
-    alt: Cover image for Carolina Rent To Own the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/308.webp
+ alt: 'UnitedStates from CarolinaRentToOwn'
 ---
 
 # Carolina Rent To Own

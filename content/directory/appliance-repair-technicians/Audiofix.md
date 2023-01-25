@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/audiofix.webp
-    alt: Cover image for Audiofix the United Kingdom based Appliance Repair Technician servicing Bristol 
+ image: /img/laundryappliance/172.webp
+ alt: 'UnitedKingdom from Audiofix'
 ---
 
 # Audiofix

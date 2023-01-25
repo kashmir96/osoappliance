@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/crackerjack-appliances-llc.webp
-    alt: Cover image for Crackerjack Appliances LLC the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/243.webp
+ alt: 'UnitedStates from CrackerjackAppliancesLLC'
 ---
 
 # Crackerjack Appliances LLC

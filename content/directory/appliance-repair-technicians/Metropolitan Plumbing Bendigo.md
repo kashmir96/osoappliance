@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/metropolitan-plumbing-bendigo.webp
-    alt: Cover image for Metropolitan Plumbing Bendigo the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/319.webp
+ alt: 'Australia from MetropolitanPlumbingBendigo'
 ---
 
 # Metropolitan Plumbing Bendigo

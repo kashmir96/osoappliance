@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/big-joe-appliance-repair-service.webp
-    alt: Cover image for BIG JOE APPLIANCE REPAIR SERVICE the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/374.webp
+ alt: 'UnitedStates from BIGJOEAPPLIANCEREPAIRSERVICE'
 ---
 
 # BIG JOE APPLIANCE REPAIR SERVICE

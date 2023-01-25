@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/vc-appliances.webp
-    alt: Cover image for Vc appliances the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/223.webp
+ alt: 'UnitedStates from Vcappliances'
 ---
 
 # Vc appliances

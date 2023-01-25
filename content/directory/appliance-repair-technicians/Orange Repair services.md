@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/orange-repair-services.webp
-    alt: Cover image for Orange Repair services the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/224.webp
+ alt: 'UnitedKingdom from OrangeRepairservices'
 ---
 
 # Orange Repair services

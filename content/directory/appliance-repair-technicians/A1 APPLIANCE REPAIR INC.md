@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/a1-appliance-repair-inc.webp
-    alt: Cover image for A1 APPLIANCE REPAIR INC the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/322.webp
+ alt: 'UnitedStates from A1APPLIANCEREPAIRINC'
 ---
 
 # A1 APPLIANCE REPAIR INC

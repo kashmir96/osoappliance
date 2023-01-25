@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["New Plymouth"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/rd-tech-shop.webp
- alt: 'Logo for RD Tech Shop the New Zealand from New Plymouth'
+cover:
+ image: /img/laundryappliance/347.webp
+ alt: 'NewZealand from rdtechshop'
 ---
 
 # RD Tech Shop is an Appliance Repair Technician Company operating in New Plymouth, New Zealand.

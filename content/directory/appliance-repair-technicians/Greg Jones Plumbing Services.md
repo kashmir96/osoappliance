@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/greg-jones-plumbing-services.webp
-    alt: Cover image for Greg Jones Plumbing Services the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/115.webp
+ alt: 'Australia from GregJonesPlumbingServices'
 ---
 
 # Greg Jones Plumbing Services

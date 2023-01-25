@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/advance-appliance-repairs.webp
-    alt: Cover image for Advance Appliance Repairs the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/48.webp
+ alt: 'Australia from AdvanceApplianceRepairs'
 ---
 
 # Advance Appliance Repairs

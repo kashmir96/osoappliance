@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/hire-worx.webp
- alt: 'Logo for Hire Worx the Appliance Rental business from Timaru, New Zealand'
+cover:
+ image: /img/laundryappliance/289.webp
+ alt: 'NewZealand from hireworx'
 ---
 
 Hire Worx is an Appliance Rental business located in Timaru, New Zealand. 

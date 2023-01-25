@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cheylesmore-appliances-ltd.webp
-    alt: Cover image for Cheylesmore Appliances Ltd the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/249.webp
+ alt: 'UnitedKingdom from CheylesmoreAppliancesLtd'
 ---
 
 # Cheylesmore Appliances Ltd

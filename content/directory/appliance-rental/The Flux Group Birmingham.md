@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-flux-group-birmingham.webp
-    alt: Cover image for The Flux Group Birmingham the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/332.webp
+ alt: 'UnitedKingdom from TheFluxGroupBirmingham'
 ---
 
 # The Flux Group Birmingham

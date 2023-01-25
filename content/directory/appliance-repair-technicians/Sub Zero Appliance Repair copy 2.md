@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sub-zero-appliance-repair.webp
-    alt: Cover image for Sub Zero Appliance Repair the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/9.webp
+ alt: 'UnitedStates from SubZeroApplianceRepaircopy2'
 ---
 
 # Sub Zero Appliance Repair

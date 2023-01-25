@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/northwest-appliance-repairs-fisher-and-paykel-specialist.webp
-    alt: Cover image for Northwest Appliance Repairs Fisher and Paykel Specialist the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/77.webp
+ alt: 'Australia from NorthwestApplianceRepairsFisherandPaykelSpecialist'
 ---
 
 # Northwest Appliance Repairs Fisher and Paykel Specialist

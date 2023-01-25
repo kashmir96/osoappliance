@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/lowes.webp
- alt: 'Logo for Lowes the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/18.webp
+ alt: 'Canada from lowes'
 ---
 
 # Lowes is an Appliance Parts Supplier from Canada.

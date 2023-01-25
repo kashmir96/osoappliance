@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/eternal-electrical-hervey-bay.webp
-    alt: Cover image for Eternal Electrical Hervey Bay the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/231.webp
+ alt: 'Australia from EternalElectricalHerveyBay'
 ---
 
 # Eternal Electrical Hervey Bay

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/snaffle.webp
-    alt: Cover image for Snaffle the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/35.webp
+ alt: 'Australia from Snaffle'
 ---
 
 # Snaffle

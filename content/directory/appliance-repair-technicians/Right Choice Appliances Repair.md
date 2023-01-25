@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/right-choice-appliances-repair.webp
-    alt: Cover image for Right Choice Appliances Repair the United Kingdom based Appliance Repair Technician servicing London 
+ image: /img/laundryappliance/367.webp
+ alt: 'UnitedKingdom from RightChoiceAppliancesRepair'
 ---
 
 # Right Choice Appliances Repair

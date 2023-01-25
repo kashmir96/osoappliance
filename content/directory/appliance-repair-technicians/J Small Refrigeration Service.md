@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/j-small-refrigeration-service.webp
-    alt: Cover image for J Small Refrigeration Service the Australia based Appliance Repair Technician servicing Sydney 
+ image: /img/laundryappliance/66.webp
+ alt: 'Australia from JSmallRefrigerationService'
 ---
 
 # J Small Refrigeration Service

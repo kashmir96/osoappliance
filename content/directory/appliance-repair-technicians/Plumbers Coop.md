@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumbers-coop.webp
-    alt: Cover image for Plumbers Coop the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/13.webp
+ alt: 'Australia from PlumbersCoop'
 ---
 
 # Plumbers Coop

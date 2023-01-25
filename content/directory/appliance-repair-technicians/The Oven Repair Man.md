@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-oven-repair-man.webp
-    alt: Cover image for The Oven Repair Man the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/322.webp
+ alt: 'Australia from TheOvenRepairMan'
 ---
 
 # The Oven Repair Man

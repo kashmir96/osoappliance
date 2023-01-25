@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/freezer-repair-san-diego.webp
-    alt: Cover image for Freezer Repair San Diego the United States based Appliance Repair Technician servicing San Diego 
+ image: /img/laundryappliance/388.webp
+ alt: 'UnitedStates from FreezerRepairSanDiego'
 ---
 
 # Freezer Repair San Diego

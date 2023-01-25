@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/a2z-live-entertainment.webp
-    alt: Cover image for A2Z Live Entertainment the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/221.webp
+ alt: 'Australia from A2ZLiveEntertainment'
 ---
 
 # A2Z Live Entertainment

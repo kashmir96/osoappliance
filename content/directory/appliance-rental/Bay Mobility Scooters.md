@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bay-mobility-scooters.webp
-    alt: Cover image for Bay Mobility Scooters the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/392.webp
+ alt: 'Australia from BayMobilityScooters'
 ---
 
 # Bay Mobility Scooters

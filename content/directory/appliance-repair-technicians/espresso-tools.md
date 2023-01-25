@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Delivery, Second hand appliances, Parts"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-delivery,-second-hand-appliances,-parts/espresso-tools.webp
- alt: 'Logo for Espresso Tools the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/277.webp
+ alt: 'NewZealand from espressotools'
 ---
 
 # Espresso Tools is an Appliance Repair Technician, Delivery, Second hand appliances, Parts Company operating in Christchurch, New Zealand.

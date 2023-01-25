@@ -5,9 +5,9 @@ type: "Appliance Rental"
 categories: ["New Zealand"]
 tags: ["Auckland, Queenstown"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-rental/esi-appliance-services.webp
- alt: 'Logo for Esi Appliance Services the Appliance Rental business from Auckland, Queenstown, New Zealand'
+cover:
+ image: /img/laundryappliance/76.webp
+ alt: 'NewZealand from esiapplianceservices'
 ---
 
 Esi Appliance Services is an Appliance Rental business located in Auckland, Queenstown, New Zealand. 

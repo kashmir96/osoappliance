@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bay-area-appliances-repair.webp
-    alt: Cover image for Bay Area Appliances Repair the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/156.webp
+ alt: 'UnitedStates from BayAreaAppliancesRepair'
 ---
 
 # Bay Area Appliances Repair

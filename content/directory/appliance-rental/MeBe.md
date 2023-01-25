@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mebe.webp
-    alt: Cover image for MeBe the United States based Appliance Rental servicing San Diego 
+ image: /img/laundryappliance/225.webp
+ alt: 'UnitedStates from MeBe'
 ---
 
 # MeBe

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/accurate-appliance.webp
-    alt: Cover image for Accurate Appliance the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/98.webp
+ alt: 'UnitedStates from AccurateAppliance'
 ---
 
 # Accurate Appliance

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/s-j-b-appliances.webp
-    alt: Cover image for S J B Appliances the United Kingdom based Appliance Repair Technician servicing Derby 
+ image: /img/laundryappliance/264.webp
+ alt: 'UnitedKingdom from SJBAppliances'
 ---
 
 # S J B Appliances

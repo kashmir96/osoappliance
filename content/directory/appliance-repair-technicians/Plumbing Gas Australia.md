@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumbing-gas-australia.webp
-    alt: Cover image for Plumbing Gas Australia the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/295.webp
+ alt: 'Australia from PlumbingGasAustralia'
 ---
 
 # Plumbing Gas Australia

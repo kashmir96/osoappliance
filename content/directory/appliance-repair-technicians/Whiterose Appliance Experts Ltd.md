@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/whiterose-appliance-experts-ltd.webp
-    alt: Cover image for Whiterose Appliance Experts Ltd the United Kingdom based Appliance Repair Technician servicing Leeds 
+ image: /img/laundryappliance/109.webp
+ alt: 'UnitedKingdom from WhiteroseApplianceExpertsLtd'
 ---
 
 # Whiterose Appliance Experts Ltd

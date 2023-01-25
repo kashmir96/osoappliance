@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/five-star-appliances.webp
- alt: 'Logo for Five Star Appliances the New Zealand from Hamilton'
+cover:
+ image: /img/laundryappliance/126.webp
+ alt: 'NewZealand from fivestarappliances'
 ---
 
 # Five Star Appliances is an Appliance Repair Technician Company operating in Hamilton, New Zealand.

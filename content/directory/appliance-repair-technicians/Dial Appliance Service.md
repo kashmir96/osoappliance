@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dial-appliance-service.webp
-    alt: Cover image for Dial Appliance Service the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/182.webp
+ alt: 'UnitedStates from DialApplianceService'
 ---
 
 # Dial Appliance Service

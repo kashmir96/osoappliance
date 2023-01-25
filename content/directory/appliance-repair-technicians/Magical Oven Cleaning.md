@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/magical-oven-cleaning.webp
-    alt: Cover image for Magical Oven Cleaning the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/29.webp
+ alt: 'Australia from MagicalOvenCleaning'
 ---
 
 # Magical Oven Cleaning

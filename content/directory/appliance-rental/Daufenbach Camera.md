@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/daufenbach-camera.webp
-    alt: Cover image for Daufenbach Camera the United States based Appliance Rental servicing Chicago 
+ image: /img/laundryappliance/76.webp
+ alt: 'UnitedStates from DaufenbachCamera'
 ---
 
 # Daufenbach Camera

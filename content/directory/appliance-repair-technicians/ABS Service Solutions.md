@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/abs-service-solutions.webp
-    alt: Cover image for ABS Service Solutions the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/331.webp
+ alt: 'Australia from ABSServiceSolutions'
 ---
 
 # ABS Service Solutions

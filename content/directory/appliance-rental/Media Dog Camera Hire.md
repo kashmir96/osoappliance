@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/media-dog-camera-hire.webp
-    alt: Cover image for Media Dog Camera Hire the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/51.webp
+ alt: 'UnitedKingdom from MediaDogCameraHire'
 ---
 
 # Media Dog Camera Hire

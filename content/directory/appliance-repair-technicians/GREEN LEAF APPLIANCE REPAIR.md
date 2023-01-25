@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/green-leaf-appliance-repair.webp
-    alt: Cover image for GREEN LEAF APPLIANCE REPAIR the United States based Appliance Repair Technician servicing San Antonio 
+ image: /img/laundryappliance/232.webp
+ alt: 'UnitedStates from GREENLEAFAPPLIANCEREPAIR'
 ---
 
 # GREEN LEAF APPLIANCE REPAIR

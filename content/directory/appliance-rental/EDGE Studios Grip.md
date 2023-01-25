@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/edge-studios-grip.webp
-    alt: Cover image for EDGE Studios Grip the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/396.webp
+ alt: 'UnitedStates from EDGEStudiosGrip'
 ---
 
 # EDGE Studios Grip

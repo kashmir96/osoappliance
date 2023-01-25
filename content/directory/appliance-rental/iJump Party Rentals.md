@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/ijump-party-rentals.webp
-    alt: Cover image for iJump Party Rentals the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/176.webp
+ alt: 'UnitedStates from iJumpPartyRentals'
 ---
 
 # iJump Party Rentals

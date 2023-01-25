@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sears-appliance-repair.webp
-    alt: Cover image for Sears Appliance Repair the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/228.webp
+ alt: 'UnitedStates from SearsApplianceRepaircopy3'
 ---
 
 # Sears Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/multibrand-services.webp
-    alt: Cover image for Multibrand Services the United Kingdom based Appliance Repair Technician servicing Wolverhampton 
+ image: /img/laundryappliance/113.webp
+ alt: 'UnitedKingdom from MultibrandServices'
 ---
 
 # Multibrand Services

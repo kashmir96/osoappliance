@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/oven-appliance-fixer-repairs-installs-melbourne.webp
-    alt: Cover image for Oven Appliance Fixer Repairs Installs Melbourne the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/125.webp
+ alt: 'Australia from OvenApplianceFixerRepairsInstallsMelbourne'
 ---
 
 # Oven Appliance Fixer Repairs Installs Melbourne

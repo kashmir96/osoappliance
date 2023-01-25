@@ -5,9 +5,9 @@ type: "Appliance Repair Technician, Installation"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician,-installation/auckland-plumbing.webp
- alt: 'Logo for Auckland Plumbing the New Zealand from Auckland'
+cover:
+ image: /img/laundryappliance/178.webp
+ alt: 'NewZealand from aucklandplumbing'
 ---
 
 # Auckland Plumbing is an Appliance Repair Technician, Installation Company operating in Auckland, New Zealand.

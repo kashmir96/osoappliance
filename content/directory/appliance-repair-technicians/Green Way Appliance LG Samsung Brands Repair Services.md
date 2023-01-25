@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/green-way-appliance-lg-samsung-brands-repair-services.webp
-    alt: Cover image for Green Way Appliance LG Samsung Brands Repair Services the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/64.webp
+ alt: 'UnitedStates from GreenWayApplianceLGSamsungBrandsRepairServices'
 ---
 
 # Green Way Appliance LG Samsung Brands Repair Services

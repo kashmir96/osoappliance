@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-fort-worth.webp
-    alt: Cover image for Mr Appliance of Fort Worth the United States based Appliance Repair Technician servicing Fort Worth 
+ image: /img/laundryappliance/1.webp
+ alt: 'UnitedStates from MrApplianceofFortWorth'
 ---
 
 # Mr Appliance of Fort Worth

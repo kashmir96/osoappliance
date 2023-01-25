@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/123-repairs.webp
-    alt: Cover image for 123 Repairs the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/267.webp
+ alt: 'UnitedKingdom from 123Repairs'
 ---
 
 # 123 Repairs

@@ -5,9 +5,9 @@ type: "New Appliances, Appliance Repair Technician, Installation"
 categories: ["New Zealand"]
 tags: ["Nelson"]
 author: Curtis
-cover: 
- image: /img/directory-images/new-appliances,-appliance-repair-technician,-installation/sturrock-&-greenwood.webp
- alt: 'Logo for Sturrock & Greenwood the New Zealand from Nelson'
+cover:
+ image: /img/laundryappliance/346.webp
+ alt: 'NewZealand from sturrockgreenwood'
 ---
 
 # Sturrock & Greenwood is an New Appliances, Appliance Repair Technician, Installation Company operating in Nelson, New Zealand.

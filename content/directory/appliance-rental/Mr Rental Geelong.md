@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-geelong.webp
-    alt: Cover image for Mr Rental Geelong the Australia based Appliance Rental servicing Geelong 
+ image: /img/laundryappliance/7.webp
+ alt: 'Australia from MrRentalGeelong'
 ---
 
 # Mr Rental Geelong

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/move-yourself-trailer-hire.webp
-    alt: Cover image for Move Yourself Trailer Hire the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/7.webp
+ alt: 'Australia from MoveYourselfTrailerHire'
 ---
 
 # Move Yourself Trailer Hire

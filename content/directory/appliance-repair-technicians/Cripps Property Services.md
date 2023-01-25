@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/cripps-property-services.webp
-    alt: Cover image for Cripps Property Services the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/288.webp
+ alt: 'UnitedKingdom from CrippsPropertyServices'
 ---
 
 # Cripps Property Services

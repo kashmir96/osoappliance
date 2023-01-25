@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/afr-furniture-rental.webp
-    alt: Cover image for AFR Furniture Rental the United States based Appliance Rental servicing Charlotte 
+ image: /img/laundryappliance/44.webp
+ alt: 'UnitedStates from AFRFurnitureRental'
 ---
 
 # AFR Furniture Rental

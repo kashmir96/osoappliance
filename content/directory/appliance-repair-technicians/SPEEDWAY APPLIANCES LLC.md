@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/speedway-appliances-llc.webp
-    alt: Cover image for SPEEDWAY APPLIANCES LLC the United States based Appliance Repair Technician servicing Indianapolis 
+ image: /img/laundryappliance/174.webp
+ alt: 'UnitedStates from SPEEDWAYAPPLIANCESLLC'
 ---
 
 # SPEEDWAY APPLIANCES LLC

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sanchez-jumpers.webp
-    alt: Cover image for Sanchez Jumpers the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/9.webp
+ alt: 'UnitedStates from SanchezJumpers'
 ---
 
 # Sanchez Jumpers

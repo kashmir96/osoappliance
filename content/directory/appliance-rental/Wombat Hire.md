@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/wombat-hire.webp
-    alt: Cover image for Wombat Hire the Australia based Appliance Rental servicing Hervey-Bay 
+ image: /img/laundryappliance/393.webp
+ alt: 'Australia from WombatHire'
 ---
 
 # Wombat Hire

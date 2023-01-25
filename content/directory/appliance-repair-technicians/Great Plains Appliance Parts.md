@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/great-plains-appliance-parts.webp
-    alt: Cover image for Great Plains Appliance Parts the United States based Appliance Repair Technician servicing Dallas 
+ image: /img/laundryappliance/248.webp
+ alt: 'UnitedStates from GreatPlainsApplianceParts'
 ---
 
 # Great Plains Appliance Parts

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/trinity-domestics.webp
-    alt: Cover image for Trinity Domestics the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/396.webp
+ alt: 'UnitedKingdom from TrinityDomestics'
 ---
 
 # Trinity Domestics

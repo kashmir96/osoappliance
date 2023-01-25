@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-parts-source.webp
-    alt: Cover image for Appliance Parts Source the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/130.webp
+ alt: 'UnitedStates from AppliancePartsSource'
 ---
 
 # Appliance Parts Source

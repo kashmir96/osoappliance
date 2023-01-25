@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/d-b-s.webp
-    alt: Cover image for D B S the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/266.webp
+ alt: 'UnitedKingdom from DBS'
 ---
 
 # D B S

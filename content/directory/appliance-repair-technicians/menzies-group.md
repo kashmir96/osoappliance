@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/menzies-group.webp
- alt: 'Logo for Menzies Group the New Zealand from Timaru'
+cover:
+ image: /img/laundryappliance/289.webp
+ alt: 'NewZealand from menziesgroup'
 ---
 
 # Menzies Group is an Appliance Repair Technician Company operating in Timaru, New Zealand.

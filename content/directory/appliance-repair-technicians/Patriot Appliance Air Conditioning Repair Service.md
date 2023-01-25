@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/patriot-appliance-air-conditioning-repair-service.webp
-    alt: Cover image for Patriot Appliance Air Conditioning Repair Service the United States based Appliance Repair Technician servicing Austin 
+ image: /img/laundryappliance/138.webp
+ alt: 'UnitedStates from PatriotApplianceAirConditioningRepairService'
 ---
 
 # Patriot Appliance Air Conditioning Repair Service

@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Masterton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/lasergroup.webp
- alt: 'Logo for Lasergroup the New Zealand from Masterton'
+cover:
+ image: /img/laundryappliance/220.webp
+ alt: 'NewZealand from lasergroup'
 ---
 
 # Lasergroup is an Appliance Repair Technician Company operating in Masterton, New Zealand.

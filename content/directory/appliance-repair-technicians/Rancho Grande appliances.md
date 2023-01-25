@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/rancho-grande-appliances.webp
-    alt: Cover image for Rancho Grande appliances the United States based Appliance Repair Technician servicing San Francisco 
+ image: /img/laundryappliance/69.webp
+ alt: 'UnitedStates from RanchoGrandeappliances'
 ---
 
 # Rancho Grande appliances

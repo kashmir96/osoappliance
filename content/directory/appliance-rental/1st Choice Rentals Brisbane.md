@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/1st-choice-rentals-brisbane.webp
-    alt: Cover image for 1st Choice Rentals Brisbane the Australia based Appliance Rental servicing Brisbane 
+ image: /img/laundryappliance/227.webp
+ alt: 'Australia from 1stChoiceRentalsBrisbane'
 ---
 
 # 1st Choice Rentals Brisbane

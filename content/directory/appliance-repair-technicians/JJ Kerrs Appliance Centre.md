@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jj-kerrs-appliance-centre.webp
-    alt: Cover image for JJ Kerrs Appliance Centre the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/332.webp
+ alt: 'Australia from JJKerrsApplianceCentre'
 ---
 
 # JJ Kerrs Appliance Centre

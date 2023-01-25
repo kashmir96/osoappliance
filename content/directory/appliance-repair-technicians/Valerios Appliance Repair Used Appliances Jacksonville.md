@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/valerios-appliance-repair-used-appliances-jacksonville.webp
-    alt: Cover image for Valerios Appliance Repair Used Appliances Jacksonville the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/361.webp
+ alt: 'UnitedStates from ValeriosApplianceRepairUsedAppliancesJacksonville'
 ---
 
 # Valerios Appliance Repair Used Appliances Jacksonville

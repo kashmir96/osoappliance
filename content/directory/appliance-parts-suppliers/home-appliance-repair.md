@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/home-appliance-repair.webp
- alt: 'Logo for Home Appliance Repair the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/98.webp
+ alt: 'UnitedKingdom from homeappliancerepair'
 ---
 
 # Home Appliance Repair is an Appliance Parts Supplier from United Kingdom.

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/progig.webp
-    alt: Cover image for Progig the Australia based Appliance Rental servicing Cairns 
+ image: /img/laundryappliance/219.webp
+ alt: 'Australia from Progig'
 ---
 
 # Progig

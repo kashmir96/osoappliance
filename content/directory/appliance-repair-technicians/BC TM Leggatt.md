@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bc-tm-leggatt.webp
-    alt: Cover image for BC TM Leggatt the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/78.webp
+ alt: 'Australia from BCTMLeggatt'
 ---
 
 # BC TM Leggatt

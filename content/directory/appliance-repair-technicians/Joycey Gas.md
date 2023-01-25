@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/joycey-gas.webp
-    alt: Cover image for Joycey Gas the United Kingdom based Appliance Repair Technician servicing Portsmouth 
+ image: /img/laundryappliance/369.webp
+ alt: 'UnitedKingdom from JoyceyGas'
 ---
 
 # Joycey Gas

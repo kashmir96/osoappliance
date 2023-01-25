@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/rdt-heating-and-plumbing-coventry.webp
-    alt: Cover image for RDT Heating and Plumbing Coventry the United Kingdom based Appliance Repair Technician servicing Coventry 
+ image: /img/laundryappliance/267.webp
+ alt: 'UnitedKingdom from RDTHeatingandPlumbingCoventry'
 ---
 
 # RDT Heating and Plumbing Coventry

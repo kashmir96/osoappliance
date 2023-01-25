@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/shields-bargains-ltd.webp
-    alt: Cover image for Shields Bargains Ltd the United Kingdom based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/2.webp
+ alt: 'UnitedKingdom from ShieldsBargainsLtd'
 ---
 
 # Shields Bargains Ltd

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/lewie-loos-plumbing.webp
-    alt: Cover image for Lewie Loos Plumbing the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/133.webp
+ alt: 'Australia from LewieLoosPlumbing'
 ---
 
 # Lewie Loos Plumbing

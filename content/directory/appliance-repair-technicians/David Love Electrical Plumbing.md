@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/david-love-electrical-plumbing.webp
-    alt: Cover image for David Love Electrical Plumbing the United Kingdom based Appliance Repair Technician servicing Edinburgh 
+ image: /img/laundryappliance/162.webp
+ alt: 'UnitedKingdom from DavidLoveElectricalPlumbing'
 ---
 
 # David Love Electrical Plumbing

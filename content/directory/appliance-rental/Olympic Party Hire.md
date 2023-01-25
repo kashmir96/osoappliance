@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/olympic-party-hire.webp
-    alt: Cover image for Olympic Party Hire the Australia based Appliance Rental servicing Adelaide 
+ image: /img/laundryappliance/301.webp
+ alt: 'Australia from OlympicPartyHire'
 ---
 
 # Olympic Party Hire

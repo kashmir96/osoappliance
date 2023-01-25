@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/nightcliff-plumbing-gas.webp
-    alt: Cover image for Nightcliff Plumbing Gas the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/260.webp
+ alt: 'Australia from NightcliffPlumbingGas'
 ---
 
 # Nightcliff Plumbing Gas

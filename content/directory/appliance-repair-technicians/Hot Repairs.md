@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/hot-repairs.webp
-    alt: Cover image for Hot Repairs the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/53.webp
+ alt: 'UnitedKingdom from HotRepairs'
 ---
 
 # Hot Repairs

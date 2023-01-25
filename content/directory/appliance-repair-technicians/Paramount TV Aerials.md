@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/paramount-tv-aerials.webp
-    alt: Cover image for Paramount TV Aerials the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/263.webp
+ alt: 'Australia from ParamountTVAerials'
 ---
 
 # Paramount TV Aerials

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/nomad-outback-hire.webp
-    alt: Cover image for Nomad Outback Hire the Australia based Appliance Rental servicing Perth 
+ image: /img/laundryappliance/169.webp
+ alt: 'Australia from NomadOutbackHire'
 ---
 
 # Nomad Outback Hire

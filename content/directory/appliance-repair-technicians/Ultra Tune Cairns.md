@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ultra-tune-cairns.webp
-    alt: Cover image for Ultra Tune Cairns the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/235.webp
+ alt: 'Australia from UltraTuneCairns'
 ---
 
 # Ultra Tune Cairns

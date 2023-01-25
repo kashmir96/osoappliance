@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/deluxe-guitars-backline-hire.webp
-    alt: Cover image for Deluxe Guitars Backline Hire the Australia based Appliance Rental servicing Melbourne 
+ image: /img/laundryappliance/60.webp
+ alt: 'Australia from DeluxeGuitarsBacklineHire'
 ---
 
 # Deluxe Guitars Backline Hire

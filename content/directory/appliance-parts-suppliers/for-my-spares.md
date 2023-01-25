@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United Kingdom"
 type: "Appliance Parts Suppliers"
 categories: ["United Kingdom"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/for-my-spares.webp
- alt: 'Logo for For My Spares the Appliance Parts Suppliers from United Kingdom'
+cover:
+ image: /img/kitchenappliances/173.webp
+ alt: 'UnitedKingdom from formyspares'
 ---
 
 # For My Spares is an Appliance Parts Supplier from United Kingdom.

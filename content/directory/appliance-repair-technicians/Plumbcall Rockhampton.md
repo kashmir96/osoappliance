@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/plumbcall-rockhampton.webp
-    alt: Cover image for Plumbcall Rockhampton the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/18.webp
+ alt: 'Australia from PlumbcallRockhampton'
 ---
 
 # Plumbcall Rockhampton

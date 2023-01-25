@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/dr-appliance-repair-leicester.webp
-    alt: Cover image for DR Appliance Repair Leicester the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/89.webp
+ alt: 'UnitedKingdom from DRApplianceRepairLeicester'
 ---
 
 # DR Appliance Repair Leicester

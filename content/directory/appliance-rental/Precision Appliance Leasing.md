@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/precision-appliance-leasing.webp
-    alt: Cover image for Precision Appliance Leasing the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/206.webp
+ alt: 'UnitedStates from PrecisionApplianceLeasing'
 ---
 
 # Precision Appliance Leasing

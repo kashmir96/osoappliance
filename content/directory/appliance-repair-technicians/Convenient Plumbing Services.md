@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/convenient-plumbing-services.webp
-    alt: Cover image for Convenient Plumbing Services the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/330.webp
+ alt: 'Australia from ConvenientPlumbingServices'
 ---
 
 # Convenient Plumbing Services

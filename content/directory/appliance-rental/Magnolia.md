@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/magnolia.webp
-    alt: Cover image for Magnolia the United States based Appliance Rental servicing San Jose 
+ image: /img/laundryappliance/109.webp
+ alt: 'UnitedStates from Magnolia'
 ---
 
 # Magnolia

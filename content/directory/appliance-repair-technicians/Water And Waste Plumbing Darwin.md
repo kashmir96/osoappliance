@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/water-and-waste-plumbing-darwin.webp
-    alt: Cover image for Water And Waste Plumbing Darwin the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/191.webp
+ alt: 'Australia from WaterAndWastePlumbingDarwin'
 ---
 
 # Water And Waste Plumbing Darwin

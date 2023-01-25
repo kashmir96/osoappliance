@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fix-it-all-appliance.webp
-    alt: Cover image for Fix It All Appliance the United States based Appliance Repair Technician servicing Denver 
+ image: /img/laundryappliance/11.webp
+ alt: 'UnitedStates from FixItAllAppliance'
 ---
 
 # Fix It All Appliance

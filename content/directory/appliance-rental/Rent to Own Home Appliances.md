@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-to-own-home-appliances.webp
-    alt: Cover image for Rent to Own Home Appliances the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/178.webp
+ alt: 'Australia from RenttoOwnHomeAppliances'
 ---
 
 # Rent to Own Home Appliances

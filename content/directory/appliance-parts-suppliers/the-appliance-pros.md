@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers Canada"
 type: "Appliance Parts Suppliers"
 categories: ["Canada"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/the-appliance-pros.webp
- alt: 'Logo for The Appliance Pros the Appliance Parts Suppliers from Canada'
+cover:
+ image: /img/kitchenappliances/102.webp
+ alt: 'Canada from theappliancepros'
 ---
 
 # The Appliance Pros is an Appliance Parts Supplier from Canada.

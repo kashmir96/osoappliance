@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fifth-avenue-appliance-service.webp
-    alt: Cover image for Fifth Avenue Appliance Service the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/368.webp
+ alt: 'UnitedStates from FifthAvenueApplianceService'
 ---
 
 # Fifth Avenue Appliance Service

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/extra-life-appliance-llc.webp
-    alt: Cover image for Extra Life Appliance LLC the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/342.webp
+ alt: 'UnitedStates from ExtraLifeApplianceLLC'
 ---
 
 # Extra Life Appliance LLC

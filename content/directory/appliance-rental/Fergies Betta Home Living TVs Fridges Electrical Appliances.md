@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/fergies-betta-home-living-tvs-fridges-electrical-appliances.webp
-    alt: Cover image for Fergies Betta Home Living TVs Fridges Electrical Appliances the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/324.webp
+ alt: 'Australia from FergiesBettaHomeLivingTVsFridgesElectricalAppliances'
 ---
 
 # Fergies Betta Home Living TVs Fridges Electrical Appliances

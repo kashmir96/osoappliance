@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/wilson-hire.webp
-    alt: Cover image for Wilson Hire the Australia based Appliance Rental servicing Darwin 
+ image: /img/laundryappliance/186.webp
+ alt: 'Australia from WilsonHire'
 ---
 
 # Wilson Hire

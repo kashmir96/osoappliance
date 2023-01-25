@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/wise-productions.webp
-    alt: Cover image for Wise Productions the Australia based Appliance Rental servicing Albury 
+ image: /img/laundryappliance/248.webp
+ alt: 'Australia from WiseProductions'
 ---
 
 # Wise Productions

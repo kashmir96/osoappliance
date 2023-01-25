@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/jacksonville-event-rentals.webp
-    alt: Cover image for Jacksonville Event Rentals the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/337.webp
+ alt: 'UnitedStates from JacksonvilleEventRentals'
 ---
 
 # Jacksonville Event Rentals

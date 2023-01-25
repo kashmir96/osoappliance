@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/coldzone.webp
-    alt: Cover image for Coldzone the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/171.webp
+ alt: 'Australia from Coldzone'
 ---
 
 # Coldzone

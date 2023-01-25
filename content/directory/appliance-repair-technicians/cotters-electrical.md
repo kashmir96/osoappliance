@@ -5,9 +5,9 @@ type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technician/cotters-electrical.webp
- alt: 'Logo for Cotters Electrical the New Zealand from Christchurch'
+cover:
+ image: /img/laundryappliance/59.webp
+ alt: 'NewZealand from cotterselectrical'
 ---
 
 # Cotters Electrical is an Appliance Repair Technician Company operating in Christchurch, New Zealand.

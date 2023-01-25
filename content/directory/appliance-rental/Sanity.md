@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/sanity.webp
-    alt: Cover image for Sanity the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/190.webp
+ alt: 'Australia from Sanity'
 ---
 
 # Sanity

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/stan.webp
-    alt: Cover image for Stan the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/378.webp
+ alt: 'Australia from Stan'
 ---
 
 # Stan

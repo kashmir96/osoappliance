@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/aardvark-appliances.webp
-    alt: Cover image for Aardvark Appliances the United Kingdom based Appliance Repair Technician servicing Southampton 
+ image: /img/laundryappliance/251.webp
+ alt: 'UnitedKingdom from AardvarkAppliances'
 ---
 
 # Aardvark Appliances

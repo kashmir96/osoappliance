@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hss-hire.webp
-    alt: Cover image for HSS Hire the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/395.webp
+ alt: 'UnitedKingdom from HSSHire'
 ---
 
 # HSS Hire

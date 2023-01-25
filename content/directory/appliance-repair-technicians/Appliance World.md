@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-world.webp
-    alt: Cover image for Appliance World the Australia based Appliance Repair Technician servicing Gold-Coast 
+ image: /img/laundryappliance/140.webp
+ alt: 'Australia from ApplianceWorld'
 ---
 
 # Appliance World

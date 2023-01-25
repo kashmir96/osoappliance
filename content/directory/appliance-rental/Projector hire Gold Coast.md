@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/projector-hire-gold-coast.webp
-    alt: Cover image for Projector hire Gold Coast the Australia based Appliance Rental servicing Gold-Coast 
+ image: /img/laundryappliance/41.webp
+ alt: 'Australia from ProjectorhireGoldCoast'
 ---
 
 # Projector hire Gold Coast

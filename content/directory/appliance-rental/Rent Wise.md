@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/rent-wise.webp
-    alt: Cover image for Rent Wise the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/204.webp
+ alt: 'UnitedStates from RentWise'
 ---
 
 # Rent Wise

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/go-assist.webp
-    alt: Cover image for Go Assist the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/302.webp
+ alt: 'UnitedKingdom from GoAssist'
 ---
 
 # Go Assist

@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/village-domestics-supplies-ltd.webp
-    alt: Cover image for Village Domestics Supplies Ltd the United Kingdom based Appliance Repair Technician servicing Manchester 
+ image: /img/laundryappliance/181.webp
+ alt: 'UnitedKingdom from VillageDomesticsSuppliesLtd'
 ---
 
 # Village Domestics Supplies Ltd

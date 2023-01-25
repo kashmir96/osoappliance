@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/2ndgen-appliance-services.webp
-    alt: Cover image for 2ndGen Appliance Services the United States based Appliance Rental servicing Los Angeles 
+ image: /img/laundryappliance/15.webp
+ alt: 'UnitedStates from 2ndGenApplianceServices'
 ---
 
 # 2ndGen Appliance Services

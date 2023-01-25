@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/rowe-plumbing-co.webp
-    alt: Cover image for Rowe Plumbing Co the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/53.webp
+ alt: 'Australia from RowePlumbingCo'
 ---
 
 # Rowe Plumbing Co

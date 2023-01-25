@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-wash-rental-washing-machines-vaxlynx.webp
-    alt: Cover image for Mr Wash Rental Washing Machines Vaxlynx the United Kingdom based Appliance Rental servicing Birmingham 
+ image: /img/laundryappliance/230.webp
+ alt: 'UnitedKingdom from MrWashRentalWashingMachinesVaxlynx'
 ---
 
 # Mr Wash Rental Washing Machines Vaxlynx

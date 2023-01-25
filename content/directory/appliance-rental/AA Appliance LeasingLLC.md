@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Austin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/aa-appliance-leasingllc.webp
-    alt: Cover image for AA Appliance LeasingLLC the United States based Appliance Rental servicing Austin 
+ image: /img/laundryappliance/94.webp
+ alt: 'UnitedStates from AAApplianceLeasingLLC'
 ---
 
 # AA Appliance LeasingLLC

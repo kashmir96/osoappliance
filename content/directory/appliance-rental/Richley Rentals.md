@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/richley-rentals.webp
-    alt: Cover image for Richley Rentals the Australia based Appliance Rental servicing Toowoomba 
+ image: /img/laundryappliance/266.webp
+ alt: 'Australia from RichleyRentals'
 ---
 
 # Richley Rentals

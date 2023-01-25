@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/bolt-productions.webp
-    alt: Cover image for Bolt Productions the United States based Appliance Rental servicing Dallas 
+ image: /img/laundryappliance/117.webp
+ alt: 'UnitedStates from BoltProductions'
 ---
 
 # Bolt Productions

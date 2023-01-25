@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/lowes-home-improvement.webp
-    alt: Cover image for Lowes Home Improvement the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/184.webp
+ alt: 'UnitedStates from LowesHomeImprovement'
 ---
 
 # Lowes Home Improvement

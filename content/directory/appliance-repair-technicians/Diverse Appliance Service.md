@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/diverse-appliance-service.webp
-    alt: Cover image for Diverse Appliance Service the Australia based Appliance Repair Technician servicing Melbourne 
+ image: /img/laundryappliance/369.webp
+ alt: 'Australia from DiverseApplianceService'
 ---
 
 # Diverse Appliance Service

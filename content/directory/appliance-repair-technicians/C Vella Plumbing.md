@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/c-vella-plumbing.webp
-    alt: Cover image for C Vella Plumbing the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/129.webp
+ alt: 'Australia from CVellaPlumbing'
 ---
 
 # C Vella Plumbing

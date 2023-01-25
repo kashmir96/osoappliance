@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/west-bridgford-appliance-services.webp
-    alt: Cover image for West Bridgford Appliance Services the United Kingdom based Appliance Repair Technician servicing Nottingham 
+ image: /img/laundryappliance/307.webp
+ alt: 'UnitedKingdom from WestBridgfordApplianceServices'
 ---
 
 # West Bridgford Appliance Services

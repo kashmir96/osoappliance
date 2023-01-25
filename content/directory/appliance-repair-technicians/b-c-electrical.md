@@ -5,9 +5,9 @@ type: "New Appliances, Installation, Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Queenstown"]
 author: Curtis
-cover: 
- image: /img/directory-images/new-appliances,-installation,-appliance-repair-technician/b+c-electrical.webp
- alt: 'Logo for B+C Electrical the New Zealand from Queenstown'
+cover:
+ image: /img/laundryappliance/345.webp
+ alt: 'NewZealand from bcelectrical'
 ---
 
 # B+C Electrical is an New Appliances, Installation, Appliance Repair Technician Company operating in Queenstown, New Zealand.

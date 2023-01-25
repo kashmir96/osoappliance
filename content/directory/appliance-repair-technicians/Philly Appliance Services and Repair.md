@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/philly-appliance-services-and-repair.webp
-    alt: Cover image for Philly Appliance Services and Repair the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/315.webp
+ alt: 'UnitedStates from PhillyApplianceServicesandRepair'
 ---
 
 # Philly Appliance Services and Repair

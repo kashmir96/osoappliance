@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/jbh-plumbing.webp
-    alt: Cover image for JBH Plumbing the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/311.webp
+ alt: 'Australia from JBHPlumbing'
 ---
 
 # JBH Plumbing

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/andy-bartone-plumbing.webp
-    alt: Cover image for Andy Bartone Plumbing the Australia based Appliance Repair Technician servicing Ballarat 
+ image: /img/laundryappliance/191.webp
+ alt: 'Australia from AndyBartonePlumbing'
 ---
 
 # Andy Bartone Plumbing

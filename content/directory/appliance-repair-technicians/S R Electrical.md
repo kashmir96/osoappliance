@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/s-r-electrical.webp
-    alt: Cover image for S R Electrical the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/162.webp
+ alt: 'UnitedKingdom from SRElectrical'
 ---
 
 # S R Electrical

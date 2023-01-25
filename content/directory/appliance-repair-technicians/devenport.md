@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Masterton"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/devenport.webp
- alt: 'Logo for Devenport the New Zealand from Masterton'
+cover:
+ image: /img/laundryappliance/189.webp
+ alt: 'NewZealand from devenport'
 ---
 
 # Devenport is an Appliance Repair Technician Company operating in Masterton, New Zealand.

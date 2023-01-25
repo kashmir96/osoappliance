@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/quantum-party-productions.webp
-    alt: Cover image for Quantum Party Productions the United States based Appliance Rental servicing San Francisco 
+ image: /img/laundryappliance/375.webp
+ alt: 'UnitedStates from QuantumPartyProductions'
 ---
 
 # Quantum Party Productions

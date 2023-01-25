@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fraser-coast-appliance-repairs.webp
-    alt: Cover image for Fraser Coast Appliance Repairs the Australia based Appliance Repair Technician servicing Hervey-Bay 
+ image: /img/laundryappliance/162.webp
+ alt: 'Australia from FraserCoastApplianceRepairs'
 ---
 
 # Fraser Coast Appliance Repairs

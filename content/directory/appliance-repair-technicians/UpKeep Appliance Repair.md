@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/upkeep-appliance-repair.webp
-    alt: Cover image for UpKeep Appliance Repair the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/215.webp
+ alt: 'UnitedStates from UpKeepApplianceRepair'
 ---
 
 # UpKeep Appliance Repair

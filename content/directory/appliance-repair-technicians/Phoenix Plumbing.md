@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/phoenix-plumbing.webp
-    alt: Cover image for Phoenix Plumbing the Australia based Appliance Repair Technician servicing Bendigo 
+ image: /img/laundryappliance/284.webp
+ alt: 'Australia from PhoenixPlumbing'
 ---
 
 # Phoenix Plumbing

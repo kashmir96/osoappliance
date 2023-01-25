@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/premier-rental-purchase.webp
-    alt: Cover image for Premier Rental Purchase the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/367.webp
+ alt: 'UnitedStates from PremierRentalPurchase'
 ---
 
 # Premier Rental Purchase

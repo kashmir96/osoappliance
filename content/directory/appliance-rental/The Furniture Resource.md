@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/the-furniture-resource.webp
-    alt: Cover image for The Furniture Resource the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/277.webp
+ alt: 'UnitedStates from TheFurnitureResource'
 ---
 
 # The Furniture Resource

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kennedys-electricalspare-parts-service.webp
-    alt: Cover image for Kennedys ElectricalSpare Parts Service the Australia based Appliance Repair Technician servicing Cairns 
+ image: /img/laundryappliance/110.webp
+ alt: 'Australia from KennedysElectricalSparePartsService'
 ---
 
 # Kennedys ElectricalSpare Parts Service

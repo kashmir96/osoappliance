@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/relief-appliance-repair.webp
-    alt: Cover image for Relief Appliance Repair the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/220.webp
+ alt: 'UnitedStates from ReliefApplianceRepair'
 ---
 
 # Relief Appliance Repair

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Washington"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/l-and-sons-appliance-repairs-llc.webp
-    alt: Cover image for L and Sons Appliance Repairs LLC the United States based Appliance Repair Technician servicing Washington 
+ image: /img/laundryappliance/291.webp
+ alt: 'UnitedStates from LandSonsApplianceRepairsLLC'
 ---
 
 # L and Sons Appliance Repairs LLC

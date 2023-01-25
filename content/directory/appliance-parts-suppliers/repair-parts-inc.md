@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/repair-parts-inc.webp
- alt: 'Logo for Repair Parts Inc the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/108.webp
+ alt: 'UnitedStates from repairpartsinc'
 ---
 
 # Repair Parts Inc is an Appliance Parts Supplier from United States.

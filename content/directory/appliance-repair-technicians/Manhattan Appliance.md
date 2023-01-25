@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["New York City"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/manhattan-appliance.webp
-    alt: Cover image for Manhattan Appliance the United States based Appliance Repair Technician servicing New York City 
+ image: /img/laundryappliance/352.webp
+ alt: 'UnitedStates from ManhattanAppliance'
 ---
 
 # Manhattan Appliance

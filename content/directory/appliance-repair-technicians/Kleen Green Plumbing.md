@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/kleen-green-plumbing.webp
-    alt: Cover image for Kleen Green Plumbing the Australia based Appliance Repair Technician servicing Launceston 
+ image: /img/laundryappliance/291.webp
+ alt: 'Australia from KleenGreenPlumbing'
 ---
 
 # Kleen Green Plumbing

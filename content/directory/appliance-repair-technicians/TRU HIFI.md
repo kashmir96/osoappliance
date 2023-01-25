@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tru-hifi.webp
-    alt: Cover image for TRU HIFI the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/55.webp
+ alt: 'Australia from TRUHIFI'
 ---
 
 # TRU HIFI

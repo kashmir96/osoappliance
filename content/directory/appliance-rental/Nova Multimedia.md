@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/nova-multimedia.webp
-    alt: Cover image for Nova Multimedia the Australia based Appliance Rental servicing Canberra 
+ image: /img/laundryappliance/154.webp
+ alt: 'Australia from NovaMultimedia'
 ---
 
 # Nova Multimedia

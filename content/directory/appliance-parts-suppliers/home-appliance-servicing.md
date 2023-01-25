@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/home-appliance-servicing.webp
- alt: 'Logo for Home Appliance Servicing the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/138.webp
+ alt: 'NewZealand from homeapplianceservicing'
 ---
 
 # Home Appliance Servicing is an Appliance Parts Supplier from New Zealand.

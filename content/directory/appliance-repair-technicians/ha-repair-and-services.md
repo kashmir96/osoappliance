@@ -5,9 +5,9 @@ type: "Appliance Repair Technicians"
 categories: ["New Zealand"]
 tags: ["Oamaru"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-repair-technicians/ha-repair-and-services.webp
- alt: 'Logo for Ha Repair And Services the New Zealand from Oamaru'
+cover:
+ image: /img/laundryappliance/184.webp
+ alt: 'NewZealand from harepairandservices'
 ---
 
 # Ha Repair And Services is an Appliance Repair Technician Company operating in Oamaru, New Zealand.

@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mpe-cameras-and-lighting.webp
-    alt: Cover image for MPE Cameras and Lighting the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/385.webp
+ alt: 'UnitedStates from MPECamerasandLighting'
 ---
 
 # MPE Cameras and Lighting

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/all-test-and-tag.webp
-    alt: Cover image for All Test and Tag the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/247.webp
+ alt: 'Australia from AllTestandTag'
 ---
 
 # All Test and Tag

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ezi-electrical-and-solar.webp
-    alt: Cover image for Ezi Electrical and Solar the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/153.webp
+ alt: 'Australia from EziElectricalandSolar'
 ---
 
 # Ezi Electrical and Solar

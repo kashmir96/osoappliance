@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/mr-rental-parramatta.webp
-    alt: Cover image for Mr Rental Parramatta the Australia based Appliance Rental servicing Sydney 
+ image: /img/laundryappliance/164.webp
+ alt: 'Australia from MrRentalParramatta'
 ---
 
 # Mr Rental Parramatta

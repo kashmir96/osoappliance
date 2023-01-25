@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/the-appliance-merchant.webp
-    alt: Cover image for The Appliance Merchant the Australia based Appliance Repair Technician servicing Newcastle 
+ image: /img/laundryappliance/269.webp
+ alt: 'Australia from TheApplianceMerchant'
 ---
 
 # The Appliance Merchant

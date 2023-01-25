@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers United States"
 type: "Appliance Parts Suppliers"
 categories: ["United States"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/reliable-parts.webp
- alt: 'Logo for Reliable Parts the Appliance Parts Suppliers from United States'
+cover:
+ image: /img/kitchenappliances/135.webp
+ alt: 'UnitedStates from reliableparts'
 ---
 
 # Reliable Parts is an Appliance Parts Supplier from United States.

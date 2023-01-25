@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/atlas-appliance-repair.webp
-    alt: Cover image for Atlas Appliance Repair the United States based Appliance Repair Technician servicing Philadelphia 
+ image: /img/laundryappliance/300.webp
+ alt: 'UnitedStates from AtlasApplianceRepair'
 ---
 
 # Atlas Appliance Repair

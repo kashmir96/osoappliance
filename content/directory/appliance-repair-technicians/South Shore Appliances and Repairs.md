@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/south-shore-appliances-and-repairs.webp
-    alt: Cover image for South Shore Appliances and Repairs the United States based Appliance Repair Technician servicing Chicago 
+ image: /img/laundryappliance/242.webp
+ alt: 'UnitedStates from SouthShoreAppliancesandRepairs'
 ---
 
 # South Shore Appliances and Repairs

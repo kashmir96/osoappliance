@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/express-rent-to-own.webp
-    alt: Cover image for Express Rent To Own the United States based Appliance Rental servicing San Antonio 
+ image: /img/laundryappliance/298.webp
+ alt: 'UnitedStates from ExpressRentToOwn'
 ---
 
 # Express Rent To Own

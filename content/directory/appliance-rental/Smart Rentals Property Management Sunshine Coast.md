@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/smart-rentals-property-management-sunshine-coast.webp
-    alt: Cover image for Smart Rentals Property Management Sunshine Coast the Australia based Appliance Rental servicing Sunshine-Coast 
+ image: /img/laundryappliance/327.webp
+ alt: 'Australia from SmartRentalsPropertyManagementSunshineCoast'
 ---
 
 # Smart Rentals Property Management Sunshine Coast

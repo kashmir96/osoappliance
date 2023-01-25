@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/engel-toowoomba.webp
-    alt: Cover image for Engel Toowoomba the Australia based Appliance Repair Technician servicing Toowoomba 
+ image: /img/laundryappliance/18.webp
+ alt: 'Australia from EngelToowoomba'
 ---
 
 # Engel Toowoomba

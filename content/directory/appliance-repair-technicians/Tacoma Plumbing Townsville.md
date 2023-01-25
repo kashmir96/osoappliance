@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/tacoma-plumbing-townsville.webp
-    alt: Cover image for Tacoma Plumbing Townsville the Australia based Appliance Repair Technician servicing Townsville 
+ image: /img/laundryappliance/42.webp
+ alt: 'Australia from TacomaPlumbingTownsville'
 ---
 
 # Tacoma Plumbing Townsville

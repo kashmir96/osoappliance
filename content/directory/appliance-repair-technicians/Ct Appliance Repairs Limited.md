@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/ct-appliance-repairs-limited.webp
-    alt: Cover image for Ct Appliance Repairs Limited the United Kingdom based Appliance Repair Technician servicing Leicester 
+ image: /img/laundryappliance/48.webp
+ alt: 'UnitedKingdom from CtApplianceRepairsLimited'
 ---
 
 # Ct Appliance Repairs Limited

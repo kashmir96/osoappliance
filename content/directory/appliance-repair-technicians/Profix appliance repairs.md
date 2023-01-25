@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/profix-appliance-repairs.webp
-    alt: Cover image for Profix appliance repairs the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/175.webp
+ alt: 'UnitedKingdom from Profixappliancerepairs'
 ---
 
 # Profix appliance repairs

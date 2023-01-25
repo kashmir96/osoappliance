@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/angel-appliances.webp
-    alt: Cover image for Angel Appliances the United States based Appliance Rental servicing Jacksonville 
+ image: /img/laundryappliance/6.webp
+ alt: 'UnitedStates from AngelAppliances'
 ---
 
 # Angel Appliances

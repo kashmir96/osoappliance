@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/bp-air-services.webp
-    alt: Cover image for BP Air Services the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/19.webp
+ alt: 'Australia from BPAirServices'
 ---
 
 # BP Air Services

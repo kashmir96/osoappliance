@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/elite-plumbing-bathrooms.webp
-    alt: Cover image for ELITE Plumbing Bathrooms the United Kingdom based Appliance Repair Technician servicing Kingston upon Hull 
+ image: /img/laundryappliance/130.webp
+ alt: 'UnitedKingdom from ELITEPlumbingBathrooms'
 ---
 
 # ELITE Plumbing Bathrooms

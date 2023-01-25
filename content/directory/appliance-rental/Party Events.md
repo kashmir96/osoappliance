@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/party-events.webp
-    alt: Cover image for Party Events the Australia based Appliance Rental servicing Rockhampton 
+ image: /img/laundryappliance/330.webp
+ alt: 'Australia from PartyEvents'
 ---
 
 # Party Events

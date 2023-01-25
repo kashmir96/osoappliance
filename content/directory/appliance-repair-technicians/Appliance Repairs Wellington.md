@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repairs-wellington.webp
-    alt: Cover image for Appliance Repairs Wellington the United Kingdom based Appliance Repair Technician servicing Belfast 
+ image: /img/laundryappliance/124.webp
+ alt: 'UnitedKingdom from ApplianceRepairsWellington'
 ---
 
 # Appliance Repairs Wellington

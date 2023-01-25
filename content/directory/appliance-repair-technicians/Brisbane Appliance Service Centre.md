@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/brisbane-appliance-service-centre.webp
-    alt: Cover image for Brisbane Appliance Service Centre the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/202.webp
+ alt: 'Australia from BrisbaneApplianceServiceCentre'
 ---
 
 # Brisbane Appliance Service Centre

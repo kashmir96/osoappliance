@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/borshch-electric-birmingham.webp
-    alt: Cover image for Borshch Electric Birmingham the United Kingdom based Appliance Repair Technician servicing Birmingham 
+ image: /img/laundryappliance/234.webp
+ alt: 'UnitedKingdom from BorshchElectricBirmingham'
 ---
 
 # Borshch Electric Birmingham

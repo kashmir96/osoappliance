@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Houston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/mr-appliance-of-river-oaks.webp
-    alt: Cover image for Mr Appliance of River Oaks the United States based Appliance Repair Technician servicing Houston 
+ image: /img/laundryappliance/22.webp
+ alt: 'UnitedStates from MrApplianceofRiverOaks'
 ---
 
 # Mr Appliance of River Oaks

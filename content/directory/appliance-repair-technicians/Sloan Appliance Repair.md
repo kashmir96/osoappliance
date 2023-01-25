@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sloan-appliance-repair.webp
-    alt: Cover image for Sloan Appliance Repair the United States based Appliance Repair Technician servicing Jacksonville 
+ image: /img/laundryappliance/237.webp
+ alt: 'UnitedStates from SloanApplianceRepair'
 ---
 
 # Sloan Appliance Repair

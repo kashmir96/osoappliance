@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/darwin-mobile-fridge-seals.webp
-    alt: Cover image for Darwin Mobile Fridge Seals the Australia based Appliance Repair Technician servicing Darwin 
+ image: /img/laundryappliance/79.webp
+ alt: 'Australia from DarwinMobileFridgeSeals'
 ---
 
 # Darwin Mobile Fridge Seals

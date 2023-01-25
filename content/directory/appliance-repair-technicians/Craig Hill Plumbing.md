@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/craig-hill-plumbing.webp
-    alt: Cover image for Craig Hill Plumbing the Australia based Appliance Repair Technician servicing Rockhampton 
+ image: /img/laundryappliance/59.webp
+ alt: 'Australia from CraigHillPlumbing'
 ---
 
 # Craig Hill Plumbing

@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/appliance-repair-guy.webp
-    alt: Cover image for Appliance Repair Guy the Australia based Appliance Repair Technician servicing Brisbane 
+ image: /img/laundryappliance/161.webp
+ alt: 'Australia from ApplianceRepairGuy'
 ---
 
 # Appliance Repair Guy

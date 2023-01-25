@@ -6,8 +6,8 @@ categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/dynamic-live-events.webp
-    alt: Cover image for Dynamic Live Events the United Kingdom based Appliance Rental servicing Glasgow 
+ image: /img/laundryappliance/20.webp
+ alt: 'UnitedKingdom from DynamicLiveEvents'
 ---
 
 # Dynamic Live Events

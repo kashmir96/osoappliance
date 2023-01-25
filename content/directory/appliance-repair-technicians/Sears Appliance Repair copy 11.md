@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/sears-appliance-repair.webp
-    alt: Cover image for Sears Appliance Repair the United States based Appliance Repair Technician servicing Phoenix 
+ image: /img/laundryappliance/324.webp
+ alt: 'UnitedStates from SearsApplianceRepaircopy11'
 ---
 
 # Sears Appliance Repair

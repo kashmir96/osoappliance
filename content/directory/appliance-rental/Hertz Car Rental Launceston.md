@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hertz-car-rental-launceston.webp
-    alt: Cover image for Hertz Car Rental Launceston the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/214.webp
+ alt: 'Australia from HertzCarRentalLaunceston'
 ---
 
 # Hertz Car Rental Launceston

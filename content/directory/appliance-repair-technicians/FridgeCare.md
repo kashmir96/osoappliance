@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/fridgecare.webp
-    alt: Cover image for FridgeCare the Australia based Appliance Repair Technician servicing Adelaide 
+ image: /img/laundryappliance/356.webp
+ alt: 'Australia from FridgeCare'
 ---
 
 # FridgeCare

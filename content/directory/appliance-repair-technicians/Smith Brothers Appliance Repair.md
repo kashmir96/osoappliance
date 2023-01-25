@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/smith-brothers-appliance-repair.webp
-    alt: Cover image for Smith Brothers Appliance Repair the United States based Appliance Repair Technician servicing Los Angeles 
+ image: /img/laundryappliance/239.webp
+ alt: 'UnitedStates from SmithBrothersApplianceRepair'
 ---
 
 # Smith Brothers Appliance Repair

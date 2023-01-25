@@ -6,8 +6,8 @@ categories: ["United States"]
 tags: ["Denver"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/specialty-appliance.webp
-    alt: Cover image for Specialty Appliance the United States based Appliance Rental servicing Denver 
+ image: /img/laundryappliance/79.webp
+ alt: 'UnitedStates from SpecialtyAppliance'
 ---
 
 # Specialty Appliance

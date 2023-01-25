@@ -4,9 +4,9 @@ keywords: "Appliance Parts Suppliers New Zealand"
 type: "Appliance Parts Suppliers"
 categories: ["New Zealand"]
 author: Curtis
-cover: 
- image: /img/directory-images/appliance-parts-suppliers/smiths-nz.webp
- alt: 'Logo for Smiths NZ the Appliance Parts Suppliers from New Zealand'
+cover:
+ image: /img/kitchenappliances/193.webp
+ alt: 'NewZealand from smithsnz'
 ---
 
 # Smiths NZ is an Appliance Parts Supplier from New Zealand.

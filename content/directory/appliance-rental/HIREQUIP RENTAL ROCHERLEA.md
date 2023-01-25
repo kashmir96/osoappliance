@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-rental/hirequip-rental-rocherlea.webp
-    alt: Cover image for HIREQUIP RENTAL ROCHERLEA the Australia based Appliance Rental servicing Launceston 
+ image: /img/laundryappliance/209.webp
+ alt: 'Australia from HIREQUIPRENTALROCHERLEA'
 ---
 
 # HIREQUIP RENTAL ROCHERLEA

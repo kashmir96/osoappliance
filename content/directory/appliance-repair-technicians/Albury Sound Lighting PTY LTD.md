@@ -6,8 +6,8 @@ categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis
 cover:
-    image: /img/directory-images/appliance-repair-technician/albury-sound-lighting-pty-ltd.webp
-    alt: Cover image for Albury Sound Lighting PTY LTD the Australia based Appliance Repair Technician servicing Albury 
+ image: /img/laundryappliance/72.webp
+ alt: 'Australia from AlburySoundLightingPTYLTD'
 ---
 
 # Albury Sound Lighting PTY LTD
