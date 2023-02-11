@@ -13,7 +13,8 @@ type: Forum
 
 # Loud Washing Machine Spinning
 
-<p>I have a problem with my washing machine. When it's in the spinning cycle, it makes a very loud noise. I'm not sure what the issue could be. Can anyone help me diagnose the problem and find a solution?</p>
+> I have a problem with my washing machine. When it's in the spinning cycle, it makes a very loud noise. I'm not sure what the issue could be. Can anyone help me diagnose the problem and find a solution?
+
 
 </div>
 

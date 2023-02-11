@@ -232,3 +232,67 @@ label.fcf-label {
 input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[type="button"].fcf-btn-block {
     width: 100%;
 }
+
+.author {
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 80%;
+    display: inline-block;
+    position: relative;
+    margin: 10px;
+  }
+  
+  .author:before {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: -5px;
+    border-style: solid;
+    border-width: 5px 10px 5px 0;
+    border-color: transparent lightblue transparent transparent;
+  }
+  
+  .technician {
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 80%;
+    display: inline-block;
+    position: relative;
+    margin: 10px;
+    float: right;
+    clear: both;
+  }
+  
+  .technician:before {
+    content: "";
+    position: absolute;
+    top: 10px;
+    right: -5px;
+    border-style: solid;
+    border-width: 5px 0 5px 10px;
+    border-color: transparent transparent transparent lightgray;
+  }
+  
+  .initial-post {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  .initial-post h3 {
+    margin-top: 0;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .initial-post p {
+    margin-top: 10px;
+    color: #555;
+  }
+  

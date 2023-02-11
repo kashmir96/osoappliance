@@ -12,7 +12,9 @@ type: Forum
 <div class="initial-post">
 
 # Noisy Washing Machine on Spin
-<p>I'm having an issue with my washing machine. When I run the spin cycle, it's making a lot of noise. I'm not sure what the problem is, but I would appreciate any help you can offer. Please let me know what details you need from me so that we can try to resolve this issue.</p>
+
+> I'm having an issue with my washing machine. When I run the spin cycle, it's making a lot of noise. I'm not sure what the problem is, but I would appreciate any help you can offer. Please let me know what details you need from me so that we can try to resolve this issue.
+
 
 </div>
 
