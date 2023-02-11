@@ -1,9 +1,5 @@
-
-for-professionals-top-whiteware-ceramics-tips
 ---
-title: essional
-
-For Professionals Top Whiteware Ceramics Tips
+title: For Professionals Top Whiteware Ceramics Tips
 description: "Learn the best practices for creating high-quality ceramic art pieces from picking the correct materials to crafting show-stopping designs Get the most out of your ceramics with these top tips"
 keywords: whiteware
 tags: ["Laundry Appliances"]

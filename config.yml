@@ -62,12 +62,12 @@ menu:
     - identifier: forums
       name: Appliance Forums
       url: /pages/forum/
-      weight: 50
+      weight: 60
 
     - identifier: contact
       name: Contact
       url: /contact
-      weight: 60
+      weight: 70
 
 
 

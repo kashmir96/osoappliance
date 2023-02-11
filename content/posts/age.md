@@ -1,10 +1,6 @@
-
-an-artful-creation-crafting-a-broken-oven-collage
 ---
-title: age
-
-An Artful Creation Crafting a Broken Oven Collage
-description: "-- Learn how to turn a broken oven into a work of art with this simple collage tutorial With a few simple supplies and a bit of creativity you can create an artful masterpiece and upcycle a broken oven"
+title: An Artful Creation Crafting a Broken Oven Collage
+description: "Learn how to turn a broken oven into a work of art with this simple collage tutorial With a few simple supplies and a bit of creativity you can create an artful masterpiece and upcycle a broken oven"
 keywords: oven
 tags: ["Oven"]
 author: Curtis

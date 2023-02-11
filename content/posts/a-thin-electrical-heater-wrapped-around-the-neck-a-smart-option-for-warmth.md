@@ -1,9 +1,5 @@
-
-a-thin-electrical-heater-wrapped-around-the-neck-a-smart-option-for-warmth
 ---
-title: the neck
-
-A Thin Electrical Heater Wrapped Around the Neck A Smart Option for Warmth
+title: A Thin Electrical Heater Wrapped Around the Neck A Smart Option for Warmth
 description: "Update your winter wardrobe with this smart stylish and practical solution to staying warm this season Find out how a thin electrical heater wrapped around the neck is the perfect choice for keeping warm while still looking fashionable"
 keywords: heater
 tags: ["Heat Pump"]
