@@ -45,27 +45,27 @@ menu:
       weight: 20
 
     - identifier: rental
-      name: Appliance Rental
+      name: Rental
       url: /pages/appliance-rental/
       weight: 30
 
     - identifier: parts
-      name: Appliance Parts
+      name: Parts
       url: /pages/appliance-parts-suppliers/
       weight: 40
 
     - identifier: repairs
-      name: Appliance Repairs
+      name: Repairers
       url: /pages/appliance-repair-technicians/
       weight: 50
 
     - identifier: forums
-      name: Appliance Forums
+      name: Forums
       url: /pages/forum/
       weight: 60
 
     - identifier: error-codes
-      name: Appliance Error Codes
+      name: Error Codes
       url: /error-codes/
       weight: 70
 

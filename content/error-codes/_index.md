@@ -98,12 +98,6 @@ draft: false
   <div class="error-code">
     <h4 class="error-code-heading">F12</h4>
     <strong class="error-code-brand">Bosch</strong>
-    <p class="error-code-description
-
-
-  <div class="error-code">
-    <h4 class="error-code-heading">F12</h4>
-    <strong class="error-code-brand">Bosch</strong>
     <p class="error-code-description">This error code indicates a short circuit or a faulty motor in the washing machine.</p>
     <p class="error-code-appliance-type" style="color: lightgray;">Washing Machine</p>
   </div>
