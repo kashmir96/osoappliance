@@ -64,10 +64,15 @@ menu:
       url: /pages/forum/
       weight: 60
 
+    - identifier: error-codes
+      name: Appliance Error Codes
+      url: /error-codes/
+      weight: 70
+
     - identifier: contact
       name: Contact
       url: /contact
-      weight: 70
+      weight: 80
 
 
 
