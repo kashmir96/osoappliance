@@ -335,6 +335,9 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: 100px auto;
+    height: 900px;  /* Add a fixed height */
+    overflow: auto;  /* Enable scrolling */
   }
   
   .error-code {
@@ -359,3 +362,10 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
   .error-code-description {
     font-size: 14px;
   }  
+
+  @media only screen and (max-width: 767px) {
+    .error-code {
+      width: 100%;  /* Change the width to 100% */
+    }
+  }
+  
