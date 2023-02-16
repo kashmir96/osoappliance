@@ -16,7 +16,7 @@ layout: codes
 
 <div class="error-code-container">
 
-"<div class="error-code">
+<div class="error-code">
     <h4 class="error-code-heading">1E</h4>
     <strong class="error-code-brand">Samsung</strong>
     <p class="error-code-description">This error code indicates a problem with the water level sensor.</p>
@@ -229,7 +229,7 @@ layout: codes
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">This error code indicates an issue with the temperature sensor in the washing machine.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Washing Machine</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">9C1</h4>
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Abnormal voltage being supplied to the dryer, may appear if the dryer is stacked with washer</p>
@@ -558,7 +558,7 @@ layout: codes
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Approximately 80% of the vent is clogged</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">E08</h4>
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Oven not heating properly due to issues with heating elements, broil element, baking element, or temperature sensor.</p>
@@ -611,7 +611,7 @@ layout: codes
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Oven door lock error.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">C0, C1, C2, C3</h4>
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Sensor error</p>
@@ -634,7 +634,7 @@ layout: codes
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Pan detection error</p>
   <p class="error-code-appliance-type">Stove</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">C-10, C-11, C-12</h4>
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Error with gas/easy/PH sensor</p>
@@ -958,7 +958,7 @@ layout: codes
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Touch communication error</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Microwave</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">E 1 or 21</h4>
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Defective temperature sensor in the room</p>
@@ -999,7 +999,7 @@ layout: codes
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Short or open heater temperature sensor</p>
   <p class="error-code-appliance-type">Heat pump</p>
-</div>"			"<div class="error-code">
+</div>			<div class="error-code">
   <h4 class="error-code-heading">3C</h4>
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Pump operation error</p>
@@ -1094,7 +1094,7 @@ layout: codes
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Half load connection error</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">AP</h4>
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">The refrigerator is acting as an access point.</p>
@@ -1213,7 +1213,7 @@ layout: codes
   <strong class="error-code-brand">Samsung</strong>
   <p class="error-code-description">Compressor Lock</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Refrigerator</p>
-</div>"
+</div>
 
 </div>
 

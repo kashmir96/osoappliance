@@ -324,7 +324,7 @@ layout: codes
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">This error code indicates a water supply fault.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Washing Machine</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">F1</h4>
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">NTC heater sensor short circuit</p>
@@ -401,7 +401,7 @@ layout: codes
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">Airpath leak</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">F5</h4>
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">Oven PT1000 Sensor Short Circuit</p>
@@ -604,7 +604,7 @@ layout: codes
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">Communication Fault with Radio Food Probe.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">F5</h4>
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">Oven PT1000 Sensor Short Circuit</p>
@@ -813,7 +813,7 @@ layout: codes
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">Communication Fault with Radio Food Probe.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Stove</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">F5</h4>
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">Oven PT1000 Sensor Short Circuit</p>
@@ -890,7 +890,7 @@ layout: codes
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">Unauthorised temperature excess</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Microwave</p>
-</div>"		"<div class="error-code">
+</div>		<div class="error-code">
   <h4 class="error-code-heading">F1</h4>
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">There is a fault inside the machine.</p>
@@ -1015,7 +1015,7 @@ layout: codes
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">Steam heater is overheating due to a power electronic fault.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Coffee Machine</p>
-</div>"		"<div class="error-code">
+</div>		<div class="error-code">
   <h4 class="error-code-heading">F01</h4>
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">Water heater NTC short-circuited</p>
@@ -1110,10 +1110,10 @@ layout: codes
   <strong class="error-code-brand">Miele</strong>
   <p class="error-code-description">Turbidity sensor fault</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">F0</h4>
   <strong class="error-code-brand">Miele</strong>
-  <p class="error-code-description">Faulty sensor for fresh air in "BioFresh"</p>
+  <p class="error-code-description">Faulty sensor for fresh air in "BioFresh</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Fridge</p>
 </div>
 <div class="error-code">

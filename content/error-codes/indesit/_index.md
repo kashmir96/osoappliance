@@ -14,7 +14,7 @@ layout: codes
   <button type="button" id="clear-search" class="error-code-clear">Clear</button>
 </form>
 
-<div class="error-code-container">"
+<div class="error-code-container">
 <div class="error-code">
     <h4 class="error-code-heading">F1</h4>
     <strong class="error-code-brand">Indesit</strong>

@@ -14,7 +14,7 @@ layout: codes
   <button type="button" id="clear-search" class="error-code-clear">Clear</button>
 </form>
 
-<div class="error-code-container">"
+<div class="error-code-container">
 <div class="error-code">
         <h4 class="error-code-heading">IE</h4>
         <strong class="error-code-brand">LG</strong>
@@ -825,7 +825,7 @@ layout: codes
 </div>
 
 
-"</div>
+</div>
 
 <h2>LG Appliance Error Codes FAQ</h2>
 <h4>What is a LG appliance error code?</h4>

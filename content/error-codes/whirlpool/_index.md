@@ -457,7 +457,7 @@ layout: codes
 </div>
 
 
-"</div>
+</div>
 
 <h2>Whirlpool Appliance Error Codes FAQ</h2>
 <h4>What is a Whirlpool appliance error code?</h4>

@@ -64,7 +64,7 @@ layout: codes
   <p class="error-code-description">There is a communication error between the display control module and the ice and water dispenser control module.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Fridge</p>
 </div>
-"</div>
+</div>
 
 <h2>Bosch Fridge Error Codes FAQ</h2>
 <h4>What do Bosch fridge error codes mean?</h4>

@@ -14,7 +14,7 @@ layout: codes
   <button type="button" id="clear-search" class="error-code-clear">Clear</button>
 </form>
 
-<div class="error-code-container">"
+<div class="error-code-container">
 <div class="error-code">
   <h4 class="error-code-heading">E10</h4>
   <strong class="error-code-brand">Electrolux</strong>
@@ -632,7 +632,7 @@ layout: codes
   <p class="error-code-appliance-type" style="color: lightgray;">Coffee machine</p>
 </div>
 
-"</div>
+</div>
 
 <h2>Electrolux Appliance Error Codes FAQ</h2>
 <h4>What does an Electrolux appliance error code indicate?</h4>

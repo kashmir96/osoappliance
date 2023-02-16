@@ -14,7 +14,7 @@ layout: codes
   <button type="button" id="clear-search" class="error-code-clear">Clear</button>
 </form>
 
-<div class="error-code-container">"
+<div class="error-code-container">
 <div class="error-code">
   <h4 class="error-code-heading">E1</h4>
   <strong class="error-code-brand">Delonghi</strong>
@@ -213,7 +213,7 @@ layout: codes
   <p class="error-code-appliance-type" style="color: lightgray;">Coffee Machine</p>
 </div>
 
-"</div>
+</div>
 <h2>DeLonghi Appliance Error Codes FAQ</h2>
 <h4>What does a DeLonghi appliance error code signify?</h4>
 > A DeLonghi appliance error code is a series of letters or numbers displayed on your DeLonghi appliance that indicates a specific problem or malfunction with the machine.

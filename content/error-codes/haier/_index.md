@@ -14,7 +14,7 @@ layout: codes
   <button type="button" id="clear-search" class="error-code-clear">Clear</button>
 </form>
 
-<div class="error-code-container">"
+<div class="error-code-container">
 <div class="error-code">
     <h4 class="error-code-heading">Err1</h4>
     <strong class="error-code-brand">Haier</strong>
@@ -536,7 +536,7 @@ layout: codes
 </div>
 
 
-"</div>
+</div>
 
 <h2>Haier Appliance Error Codes FAQ</h2>
 <h4>What is a Haier appliance error code?</h4>

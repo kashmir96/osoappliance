@@ -129,7 +129,7 @@ layout: codes
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">The washing machine door lock cannot engage with the latch in place - The door lock cannot lock with the latch in its current position.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Washing Machine</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">U12</h4>
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">The door is not shut properly, close it securely and press start button</p>
@@ -152,7 +152,7 @@ layout: codes
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Inspection is required, pull out the power plug and contact customer service with the displayed content (2-digit number after H)</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">H99</h4>
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Error in inverter's on/off control</p>
@@ -313,7 +313,7 @@ layout: codes
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Shorted contacts in RY-4.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
-</div>"		"<div class="error-code">
+</div>		<div class="error-code">
   <h4 class="error-code-heading">H02</h4>
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Memory IC error (can occur in both test and cooking modes).</p>
@@ -402,7 +402,7 @@ layout: codes
   <strong class="error-code-brand">Panasonic Microwave</strong>
   <p class="error-code-description">Magnetron thermistor failure.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Microwave</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">H12</h4>
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Inappropriate device capacities</p>
@@ -697,7 +697,7 @@ layout: codes
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Fault due to HP protection cooling in the outdoor unit.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Microwave</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">E1</h4>
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Long water inlet time</p>
@@ -732,7 +732,7 @@ layout: codes
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Failure of Orientation of Distributary Valve</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Coffee Machine</p>
-</div>"		"<div class="error-code">
+</div>		<div class="error-code">
   <h4 class="error-code-heading">E1</h4>
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Water filling exceeded pre-set time</p>
@@ -761,7 +761,7 @@ layout: codes
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Short-circuit failure of thermistor</p>
   <p class="error-code-appliance-type">Dishwasher</p>
-</div>"	"<div class="error-code">
+</div>	<div class="error-code">
   <h4 class="error-code-heading">Sr</h4>
   <strong class="error-code-brand">Panasonic Fridge</strong>
   <p class="error-code-description">Failure/Warning</p>
@@ -803,7 +803,7 @@ layout: codes
 > The error code for your Panasonic appliance may be displayed on the machine itself, in the owner's manual, or you can search for it in our directory of Panasonic appliance error codes.
 <h4>What does the error code mean and how can I fix the problem?</h4>
 > The meaning of the error code and how to resolve the issue can be found in our directory of Panasonic appliance error codes. Simply search for the code and find a brief and easy-to-understand description of the problem and its solution.
-"</div>
+</div>
 
 <h2>Panasonic Appliance Error Codes FAQ</h2>
 <h4>What is a Panasonic appliance error code?</h4>
