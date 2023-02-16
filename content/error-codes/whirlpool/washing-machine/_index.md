@@ -144,9 +144,9 @@ layout: codes
 > Our directory of Whirlpool washing machine error codes provides a brief and easy-to-understand description of the problem and its solution. Simply search for your specific error code to find the cause and resolution.
 <h4>What should I do if I can't resolve the issue with my Whirlpool washing machine?</h4>
 > If you are unable to resolve the issue with your Whirlpool washing machine, it is recommended to contact a professional for assistance.
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 <ul>

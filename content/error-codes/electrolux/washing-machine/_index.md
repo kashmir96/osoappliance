@@ -203,9 +203,9 @@ layout: codes
 
 <h4>Is it safe to try to fix the problem myself using the error code and explanation from the directory?</h4>
 > The solution provided in the directory for a specific error code is intended to be a general guide. If you are unsure about your ability to safely and effectively resolve the issue, it is recommended that you consult a professional.
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 

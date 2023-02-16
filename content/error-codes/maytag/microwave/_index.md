@@ -1,10 +1,8 @@
 --- 
-title: "Maytag Heat Pump Error Codes"
-description: "Discover Maytag heat pump error codes with ease in our directory. Find the error code for your Maytag heat pump, understand the cause of the issue, and quickly resolve it with our easy-to-understand descriptions."
-keywords: "Maytag heat pump error codes, directory, error code, appliance brand, issue, cause, description, resolve, easy-to-understand."
+title: "Maytag Microwave Error Codes"
+description: "Quickly identify and troubleshoot Maytag microwave error codes using our comprehensive directory. Find the error code for your Maytag microwave, understand the cause of the issue, and quickly resolve it with our easy-to-understand descriptions."
+keywords: "Maytag microwave error codes, directory, error code, appliance brand, issue, cause, description, resolve, easy-to-understand."
 draft: false
-type: custom
-layout: codes
 ---
 
 {{<rawhtml>}}
@@ -14,7 +12,8 @@ layout: codes
   <button type="button" id="clear-search" class="error-code-clear">Clear</button>
 </form>
 
-<div class="error-code-container"><div class="error-code">
+<div class="error-code-container">
+<div class="error-code">
   <h4 class="error-code-heading">AccuPop Fail</h4>
   <strong class="error-code-brand">Maytag</strong>
   <p class="error-code-description">Failed AccuPop sensor</p>
@@ -135,19 +134,18 @@ layout: codes
   <p class="error-code-appliance-type" style="color: lightgray;">Microwave</p>
 </div></div>
 
-<h2>Maytag Heat Pump Error Codes FAQ</h2>
-<h4>What is a Maytag heat pump error code?</h4>
-> A Maytag heat pump error code is a series of numbers or letters displayed on your appliance that indicate a specific issue or problem with the heat pump.
-<h4>Why do I need to know about Maytag heat pump error codes?</h4>
-> Knowing Maytag heat pump error codes can help you quickly diagnose and resolve problems with your appliance, saving you time and money.
-<h4>How can I find the error code for my Maytag heat pump?</h4>
-> The error code for your Maytag heat pump may be displayed on the appliance itself, in the owner's manual, or you can search for it in our directory of Maytag heat pump error codes.
-<h4>What does the error code mean and how can I resolve the issue?</h4>
-> The meaning of the error code and how to resolve the issue can be found in our directory of Maytag heat pump error codes, where you can search for the code and find a brief and easy-to-understand description of the problem and its solution.
-<h2>Need Help with Your Appliance?</h2>
-<p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+</div>
 
+
+<h2>Maytag Microwave Error Codes FAQ</h2>
+<h4>What is a Maytag microwave error code?</h4>
+<p>A Maytag microwave error code is a series of numbers or letters displayed on your appliance that indicate a specific issue or problem with the microwave.</p>
+<h4>Why do I need to know about Maytag microwave error codes?</h4>
+<p>Knowing Maytag microwave error codes can help you quickly diagnose and resolve problems with your appliance, saving you time and money.</p>
+<h4>How can I find the error code for my Maytag microwave?</h4>
+<p>The error code for your Maytag microwave may be displayed on the appliance itself, in the owner's manual, or you can search for it in our directory of Maytag microwave error codes.</p>
+<h4>What does the error code mean and how can I resolve the issue?</h4>
+<p>The meaning of the error code and how to resolve the issue can be found in our directory of Maytag microwave error codes, where you can search for the code and find a brief and easy-to-understand description of the problem and its solution.</p>
 
 <ul>
 <li><a href="/error-codes/">Appliance Error Codes</a></li>
@@ -162,6 +160,7 @@ layout: codes
 <li><a href="/error-codes/maytag/dishwasher">Maytag Dishwasher Error Codes</a></li>
 <li><a href="/error-codes/maytag/fridge">Maytag Fridge Error Codes</a></li>
 </ul>
+
 
 <script>
    const errorCodeForm = document.querySelector("#error-code-form");

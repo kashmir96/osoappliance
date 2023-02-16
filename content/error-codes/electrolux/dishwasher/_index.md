@@ -95,9 +95,9 @@ layout: codes
 
 <h4>How can I fix the issue indicated by the error code?</h4>
 > Once you have identified the error code for your Electrolux dishwasher, you can search for it in our directory of Electrolux dishwasher error codes to learn more about the issue and how to fix it. Our explanations are straightforward and easy to understand, helping you to quickly and easily resolve the issue with your dishwasher.
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 

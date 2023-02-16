@@ -48,9 +48,9 @@ layout: codes
 > The error code for your Bosch microwave may be displayed on the machine itself, in the owner's manual, or you can search for it in our directory of Bosch microwave error codes.
 <h4>How can I fix the problem indicated by the error code?</h4>
 > The solution to the problem indicated by the error code can be found in our directory of Bosch microwave error codes. Simply search for the code and find a straightforward and easy-to-understand explanation of the issue and how to resolve it.
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 <ul>
 <li><a href="/error-codes/">Appliance Error Codes</a></li>

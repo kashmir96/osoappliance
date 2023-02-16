@@ -805,18 +805,9 @@ layout: codes
 > The meaning of the error code and how to resolve the issue can be found in our directory of Panasonic appliance error codes. Simply search for the code and find a brief and easy-to-understand description of the problem and its solution.
 </div>
 
-<h2>Panasonic Appliance Error Codes FAQ</h2>
-<h4>What is a Panasonic appliance error code?</h4>
-> A Panasonic appliance error code is a series of letters or numbers displayed on your Panasonic appliance, indicating a specific problem or issue with the machine.
-<h4>Why is it important to know about Panasonic appliance error codes?</h4>
-> Understanding Panasonic appliance error codes can help you quickly diagnose and resolve problems with your Panasonic appliance, saving you time and money in the process.
-<h4>How can I find the error code for my Panasonic appliance?</h4>
-> The error code for your Panasonic appliance may be displayed on the machine itself, in the owner's manual, or you can search for it in our directory of Panasonic appliance error codes.
-<h4>What does the error code mean and how can I fix the problem?</h4>
-> The meaning of the error code and how to resolve the issue can be found in our directory of Panasonic appliance error codes. Simply search for the code and find a brief and easy-to-understand description of the problem and its solution.
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 <ul>

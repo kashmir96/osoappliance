@@ -143,9 +143,9 @@ layout: codes
 > Knowing about Maytag washing machine error codes can help you diagnose and resolve problems with your machine quickly, saving you time and money. 
 <h4>When should I seek professional help for my washing machine?</h4>
 > If you are unable to resolve the issue using the information from our directory of Maytag washing machine error codes, it is recommended to seek professional help.
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 <ul>

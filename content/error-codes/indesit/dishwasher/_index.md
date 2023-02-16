@@ -18,55 +18,55 @@ layout: codes
   <h4 class="error-code-heading">F10</h4>
   <strong class="error-code-brand">Indesit</strong>
   <p class="error-code-description">The dishwasher could not fill or empty within the set time.</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">F11</h4>
   <strong class="error-code-brand">Indesit</strong>
   <p class="error-code-description">The dishwasher's heater was unable to reach the required temperature level.</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">F20</h4>
   <strong class="error-code-brand">Indesit</strong>
   <p class="error-code-description">The dishwasher's temperature is too low.</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">F21</h4>
   <strong class="error-code-brand">Indesit</strong>
   <p class="error-code-description">The dishwasher's temperature is too high.</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">A01</h4>
   <strong class="error-code-brand">Indesit</strong>
   <p class="error-code-description">The float switch has been activated.</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">A02</h4>
   <strong class="error-code-brand">Indesit</strong>
   <p class="error-code-description">There is a problem with the heater relay.</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">A03</h4>
   <strong class="error-code-brand">Indesit</strong>
   <p class="error-code-description">There is a short circuit with the thermistor.</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">A04</h4>
   <strong class="error-code-brand">Indesit</strong>
   <p class="error-code-description">The dishwasher has been unable to sense or reach the correct temperature within 70 minutes.</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">A05</h4>
   <strong class="error-code-brand">Indesit</strong>
   <p class="error-code-description">The pressure switch has not been reset.</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dishwasher</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">A14</h4>
@@ -140,9 +140,9 @@ layout: codes
 > The error code for your Indesit dishwasher may be displayed on the machine itself, in the owner's manual, or you can search for it in our directory of Indesit dishwasher error codes.
 <h4>How can I fix the problem indicated by the error code?</h4>
 > The solution to the problem indicated by the error code can be found in our directory of Indesit dishwasher error codes. Simply search for the code and find a straightforward and easy-to-understand explanation of the issue and how to resolve it.
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 <ul>

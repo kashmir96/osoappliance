@@ -18,49 +18,49 @@ layout: codes
   <h4 class="error-code-heading">Err2 or E2</h4>
   <strong class="error-code-brand">Fisher and Paykel</strong>
   <p class="error-code-description">Drain Pump Failure</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">All Models</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">Err3 or E3</h4>
   <strong class="error-code-brand">Fisher and Paykel</strong>
   <p class="error-code-description">NTC1 Error (Exhaust Thermistor Error)</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">DE7060M1, DE5060M1, DE4060M1, DE8060P2</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">Err4 or E4</h4>
   <strong class="error-code-brand">Fisher and Paykel</strong>
   <p class="error-code-description">Heater or Sensor Faulty</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">All Models</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">Err6 or E6</h4>
   <strong class="error-code-brand">Fisher and Paykel</strong>
   <p class="error-code-description">Lint Filters Blocked</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">All Models</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">Err9 or E9</h4>
   <strong class="error-code-brand">Fisher and Paykel</strong>
   <p class="error-code-description">NTC2 Error (Heater Thermistor Error)</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">DE7060M1, DE5060M1, DE4060M1, DE8060P2</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">E32</h4>
   <strong class="error-code-brand">Fisher and Paykel</strong>
   <p class="error-code-description">NTC2 is Out of Range</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">DH8060C1</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">E33</h4>
   <strong class="error-code-brand">Fisher and Paykel</strong>
   <p class="error-code-description">NTC3 is Out of Range</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">DH8060C1</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
 </div>
 <div class="error-code">
   <h4 class="error-code-heading">E70</h4>
   <strong class="error-code-brand">Fisher and Paykel</strong>
   <p class="error-code-description">Voltage to Drum Motor is Incorrect</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">DH8060C1</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
 </div>
 
 <div class="error-code">
@@ -121,7 +121,7 @@ layout: codes
   <h4 class="error-code-heading">CLN cond</h4>
   <strong class="error-code-brand">Fisher and Paykel</strong>
   <p class="error-code-description">The condenser needs cleaning.</p>
-  <p class="error-code-appliance-type" style="color: lightgray;">All models</p>
+  <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
 </div></div>
 
 <h2>Fisher and Paykel Dryer Error Codes FAQ</h2>
@@ -135,9 +135,9 @@ layout: codes
 > You can find the meaning of the error code and how to resolve the issue by searching for it in our guide to Fisher and Paykel dryer error codes. Our descriptions are brief and easy-to-understand, making it simple for you to get your dryer back up and running.
 <h4>What should I do if I cannot find my error code in the guide?</h4>
 > If you are unable to find your error code in our guide to Fisher and Paykel dryer error codes, it may be best to reach out to a professional for assistance.
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 <ul>

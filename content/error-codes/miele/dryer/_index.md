@@ -102,9 +102,9 @@ layout: codes
 > The error code for your Miele dryer may be displayed on the machine itself, in the owner's manual, or you can search for it in our directory of Miele dryer error codes.
 <h4>How can I resolve the issue indicated by the error code?</h4>
 > The solution to the issue indicated by the error code can be found in our directory of Miele dryer error codes. Simply search for the code and find a concise and easy-to-understand explanation of the problem and how to fix it.
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 <ul>

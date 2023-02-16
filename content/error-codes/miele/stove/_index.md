@@ -237,9 +237,9 @@ layout: codes
 <h4>What do the error codes mean and how can I resolve the problem?</h4>
 > Our directory of Miele stove error codes provides clear explanations of the issue and its resolution, so you can identify the meaning of the code and resolve the problem with ease.
 
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 <ul>

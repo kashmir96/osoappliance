@@ -1,4 +1,4 @@
-"---
+---
 title: "Samsung Dryer Error Codes"
 description: "Discover the solution to your Samsung dryer issues with our directory of error codes. Find the specific error code for your machine, understand the cause, and quickly resolve it with our easy-to-follow explanations."
 keywords: "Samsung dryer error codes, directory, error code, dryer, cause, description, resolve, easy-to-follow."
@@ -354,9 +354,9 @@ layout: codes
 > The error code for your Samsung dryer may be displayed on the machine itself, in the owner's manual, or you can search for it in our directory of Samsung dryer error codes.
 <h4>How can I fix the issue indicated by the error code?</h4>
 > The solution to the issue indicated by the error code can be found in our directory of Samsung dryer error codes. Simply search for the code and find a clear and straightforward explanation of the problem and how to resolve it.
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 <ul>
@@ -403,4 +403,4 @@ errorCodeClear.addEventListener("click", function() {
 });
 
 </script>
-{{</rawhtml>}}"
+{{</rawhtml>}}

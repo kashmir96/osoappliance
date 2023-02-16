@@ -175,9 +175,9 @@ layout: codes
 <h4>What does the error code mean and how do I fix the issue?</h4>
 > The meaning of the error code and how to resolve the issue can be found in our directory of Maytag dryer error codes. You can easily search for the code and find a brief and straightforward description of the problem and its solution.
 
-<h2>Need Help with Your Appliance?</h2>
+<div><h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
-<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
+<a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a></div>
 
 
 <ul>
