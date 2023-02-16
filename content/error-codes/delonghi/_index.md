@@ -69,9 +69,9 @@ layout: codes
   <p class="error-code-description">Power failure.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Dryer</p>
 </div>
-NA
-NA
-NA
+
+
+
 <div class="error-code">
   <h4 class="error-code-heading">LE</h4>
   <strong class="error-code-brand">Delonghi</strong>
@@ -269,7 +269,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = ";
+  errorCodeSearch.value = "";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });

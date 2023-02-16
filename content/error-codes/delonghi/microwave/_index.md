@@ -16,7 +16,7 @@ layout: codes
 
 
 <div class="error-code-container">
-NA
+
 </div>
 <h2>DeLonghi Microwave Error Codes FAQ</h2>
 <h4>What is a DeLonghi microwave error code?</h4>
@@ -70,7 +70,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = ";
+  errorCodeSearch.value = "";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });

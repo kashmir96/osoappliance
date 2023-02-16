@@ -14,7 +14,7 @@ layout: codes
   <button type="button" id="clear-search" class="error-code-clear">Clear</button>
 </form>
 
-<div class="error-code-container">"
+<div class="error-code-container">
 <div class="error-code">
     <h4 class="error-code-heading">F1</h4>
     <strong class="error-code-brand">Fisher and Paykel</strong>
@@ -382,12 +382,7 @@ layout: codes
   <p class="error-code-description">The cooker has been incorrectly connected.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Stove</p>
 </div>
-
-NA
-NA
-NA
-
-"</div>
+</div>
 
 <h2>Fisher & Paykel Appliance Error Codes FAQ</h2>
 <h4>What is a Fisher & Paykel appliance error code?</h4>
@@ -440,7 +435,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = ";
+  errorCodeSearch.value = "";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });

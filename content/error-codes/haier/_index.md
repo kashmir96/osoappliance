@@ -413,7 +413,7 @@ layout: codes
   <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
 </div>
 
-NA
+
 <div class="error-code">
   <h4 class="error-code-heading">E1</h4>
   <strong class="error-code-brand">Haier</strong>
@@ -534,7 +534,7 @@ NA
   <p class="error-code-description">There's a fault with the ambient temperature sensor.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Heatpump</p>
 </div>
-NA
+
 
 "</div>
 
@@ -591,7 +591,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = ";
+  errorCodeSearch.value = "";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });

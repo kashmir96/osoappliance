@@ -15,7 +15,7 @@ layout: codes
 </form>
 
 <div class="error-code-container">
-NA
+
 </div>
 
 <h2>Fisher & Paykel Microwave Error Codes FAQ</h2>
@@ -69,7 +69,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = ";
+  errorCodeSearch.value = "";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });

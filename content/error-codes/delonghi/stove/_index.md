@@ -16,7 +16,7 @@ layout: codes
 
 
 <div class="error-code-container">
-NA
+
 </div>
 <h2>Delonghi Stove Error Codes FAQ</h2>
 <h4>What is a Delonghi stove error code?</h4>
@@ -71,7 +71,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = ";
+  errorCodeSearch.value = "";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });

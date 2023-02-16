@@ -463,7 +463,7 @@ layout: codes
   <p class="error-code-description">Analog/Digital Supervisory - Problem with the oven's analog/digital supervisory system.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
 </div>
-NA
+
 <div class="error-code">
   <h4 class="error-code-heading">AccuPop Fail</h4>
   <strong class="error-code-brand">Maytag</strong>
@@ -584,8 +584,8 @@ NA
   <p class="error-code-description">Failing humidity sensor or associated wiring</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Microwave</p>
 </div>
-NA
-NA
+
+
 
 "</div>
 
@@ -644,7 +644,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = ";
+  errorCodeSearch.value = "";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });

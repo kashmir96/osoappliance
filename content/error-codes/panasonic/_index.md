@@ -313,7 +313,7 @@ layout: codes
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Shorted contacts in RY-4.</p>
   <p class="error-code-appliance-type" style="color: lightgray;">Oven</p>
-</div>"	NA	"<div class="error-code">
+</div>"		"<div class="error-code">
   <h4 class="error-code-heading">H02</h4>
   <strong class="error-code-brand">Panasonic</strong>
   <p class="error-code-description">Memory IC error (can occur in both test and cooking modes).</p>
@@ -857,7 +857,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = ";
+  errorCodeSearch.value = "";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });
