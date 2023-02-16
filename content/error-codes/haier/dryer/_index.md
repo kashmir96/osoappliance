@@ -3,9 +3,10 @@ title: "Haier Dryer Error Codes"
 description: "Find and resolve issues with your Haier dryer with ease. Our directory of Haier dryer error codes provides you with a quick and simple way to understand the cause of any issues and resolve them."
 keywords: "Haier dryer error codes, directory, issue, cause, resolve, quick, simple, understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

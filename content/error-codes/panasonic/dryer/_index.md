@@ -3,6 +3,8 @@ title: "Panasonic Dryer Error Codes"
 description: "Discover what's causing issues with your Panasonic dryer by uncovering the error codes. Quickly find the error code and understand the problem, and resolve it easily with our clear explanations."
 keywords: "Panasonic dryer error codes, discover, uncover, issue, cause, explanation, resolve, easily"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

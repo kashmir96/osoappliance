@@ -3,9 +3,10 @@ title: "Whirlpool Dryer Error Codes"
 description: "Discover the cause of problems with your Whirlpool dryer by identifying error codes in our comprehensive directory. Quickly locate the error code, understand the issue, and resolve it easily with our clear explanations."
 keywords: "Whirlpool dryer error codes, comprehensive directory, error code, issue, cause, clear explanations, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

@@ -3,9 +3,10 @@ title: "Maytag Stove Error Codes"
 description: "Discover the root cause of issues with your Maytag stove by decoding error codes in our comprehensive directory. Quickly find the error code, understand the problem, and resolve it with ease through our clear and simple explanations."
 keywords: "Maytag stove error codes, directory, error code, issue, cause, resolution, simple explanations"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

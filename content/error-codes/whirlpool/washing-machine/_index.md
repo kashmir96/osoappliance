@@ -3,9 +3,10 @@ title: "Whirlpool Washing Machine Error Codes"
 description: "Get to the bottom of any issue with your Whirlpool washing machine with our comprehensive directory of error codes. Find your specific error code, understand the cause, and resolve the problem with ease."
 keywords: "Whirlpool washing machine error codes, directory, error code, cause, issue, problem, resolution, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

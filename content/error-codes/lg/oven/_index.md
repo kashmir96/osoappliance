@@ -3,9 +3,10 @@ title: "LG Oven Error Codes"
 description: "Find the source of your LG oven's malfunction by decoding the error codes with our comprehensive directory. Discover the meaning of the code, understand the problem, and resolve it effortlessly with our user-friendly explanations."
 keywords: "LG oven error codes, directory, error code, malfunction, source, meaning, problem, resolution, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

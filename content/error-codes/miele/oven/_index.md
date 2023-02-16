@@ -3,9 +3,10 @@ title: "Miele Oven Error Codes"
 description: "Uncover the root cause of problems with your Miele oven by identifying error codes. Quickly find the error code, understand the issue, and resolve it easily with clear explanations in our directory."
 keywords: "Miele oven error codes, directory, error code, issue, root cause, explanation, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search for error codes..." id="error-code-search" class="error-code-search">

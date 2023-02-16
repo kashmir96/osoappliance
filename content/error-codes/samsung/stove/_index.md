@@ -3,6 +3,8 @@ title: "Samsung Stove Error Codes"
 description: "Find the source of your Samsung stove issues with our comprehensive list of error codes. Quickly identify the code, understand the cause, and resolve the problem easily with our detailed explanations."
 keywords: "Samsung stove error codes, list, code, cause, problem, resolution, explanation, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

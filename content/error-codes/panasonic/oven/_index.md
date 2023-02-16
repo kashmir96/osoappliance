@@ -3,6 +3,8 @@ title: "Panasonic Oven Error Codes"
 description: "Discover the reason behind issues with your Panasonic oven with our directory of error codes. Quickly find the error code, understand the problem, and resolve it easily with our clear descriptions."
 keywords: "Panasonic oven error codes, directory, error code, issue, reason, description, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

@@ -3,9 +3,10 @@ title: "Miele Washing Machine Error Codes"
 description: "Easily find and understand Miele washing machine error codes with our comprehensive directory. Discover what the codes mean and how to quickly resolve issues with your Miele washing machine."
 keywords: "Miele washing machine error codes, directory, code meaning, resolve, issues, quickly"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

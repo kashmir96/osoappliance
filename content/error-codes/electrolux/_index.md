@@ -3,6 +3,8 @@ title: "Electrolux Appliance Error Codes"
 description: "Get quick solutions for your Electrolux appliance issues with our comprehensive directory of error codes. Find the specific error code for your Electrolux appliance, understand the cause, and resolve it easily with our clear and concise explanations."
 keywords: "Electrolux appliance error codes, directory, error code, Electrolux appliance, issue, cause, explanation, resolution, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

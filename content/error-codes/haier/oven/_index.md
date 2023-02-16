@@ -3,9 +3,10 @@ title: "Haier Oven Error Codes"
 description: "Discover the root of problems with your Haier oven by finding the error code in our comprehensive list. Quickly locate the code, comprehend the issue, and solve it easily with clear explanations."
 keywords: "Haier oven error codes, comprehensive list, error code, issue, root, explanation, solve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

@@ -3,9 +3,10 @@ title: "Bosch Oven Error Codes"
 description: "Get to the root of your Bosch oven's problems with our comprehensive directory of error codes. Find the specific error code for your machine, understand the issue, and resolve it quickly and easily with our clear explanations."
 keywords: "Bosch oven error codes, directory, error code, oven, issue, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

@@ -3,9 +3,10 @@ title: "Maytag Oven Error Codes"
 description: "Easily resolve any issues with your Maytag oven by identifying error codes with our comprehensive directory. Quickly find the error code and understand the problem to get your appliance up and running smoothly again."
 keywords: "Maytag oven error codes, directory, error code, issue, resolve, easily, smoothly"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

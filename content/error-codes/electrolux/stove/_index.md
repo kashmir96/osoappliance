@@ -3,9 +3,10 @@ title: "Electrolux Stove Error Codes"
 description: "Discover the root of your stove's issues by deciphering the error codes displayed on your Electrolux appliance. Our comprehensive directory makes it easy to understand the problem and find a solution."
 keywords: "Electrolux stove error codes, directory, error code, issue, cause, solution, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

@@ -3,9 +3,10 @@ title: "Electrolux Washing Machine Error Codes"
 description: "Get instant access to Electrolux washing machine error codes and resolve issues quickly. Search for your specific error code and find an easy-to-understand explanation of the problem and its solution."
 keywords: "Electrolux washing machine error codes, instant access, resolve issues, error code, explanation, problem, solution, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

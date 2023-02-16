@@ -3,9 +3,10 @@ title: "Delonghi Dryer Error Codes"
 description: "Find out what's causing the issue with your Delonghi dryer with our comprehensive guide to Delonghi dryer error codes. Quickly diagnose the problem and resolve it using our clear and easy-to-understand descriptions."
 keywords: "Delonghi dryer error codes, issue, diagnose, problem, resolve, description, clear, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

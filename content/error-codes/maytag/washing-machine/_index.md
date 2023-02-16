@@ -3,9 +3,10 @@ title: "Maytag Washing Machine Error Codes"
 description: "Discover the error codes for your Maytag washing machine with ease in our directory. Find the code for your machine, understand the cause of the issue, and resolve it quickly with our simple and easy-to-understand descriptions."
 keywords: "Maytag washing machine error codes, directory, error code, machine, issue, cause, description, resolve, simple, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

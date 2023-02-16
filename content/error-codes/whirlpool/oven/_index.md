@@ -3,6 +3,8 @@ title: "Whirlpool Oven Error Codes"
 description: "Find solutions to issues with your Whirlpool oven by identifying error codes in our directory. Quickly locate the error code, understand the problem, and resolve it easily with our clear explanations."
 keywords: "Whirlpool oven error codes, directory, error code, issue, solution, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

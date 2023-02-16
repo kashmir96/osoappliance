@@ -3,6 +3,8 @@ title: "Panasonic Washing Machine Error Codes"
 description: "Get a quick resolution for your Panasonic washing machine error codes with our directory. Discover the meaning behind the code, understand the cause, and resolve the issue with ease using our easy-to-follow descriptions."
 keywords: "panasonic washing machine error codes, directory, error code, meaning, cause, issue, resolution, easy-to-follow descriptions."
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

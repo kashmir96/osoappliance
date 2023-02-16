@@ -3,9 +3,10 @@ title: "Miele Dryer Error Codes"
 description: "Uncover the root of your Miele dryer problems with our comprehensive directory of error codes. Find the exact error code for your machine, comprehend the cause, and quickly fix the issue with our easy-to-understand explanations."
 keywords: "Miele dryer error codes, directory, error code, dryer, cause, explanation, fix, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

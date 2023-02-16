@@ -3,9 +3,10 @@ title: "KitchenAid Fridge Error Codes"
 description: "Troubleshoot your KitchenAid fridge with our comprehensive directory of error codes. Find the specific error code for your fridge, understand the issue, and resolve it easily with our simple explanations."
 keywords: "KitchenAid fridge error codes, directory, error code, fridge, issue, explanation, resolve"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

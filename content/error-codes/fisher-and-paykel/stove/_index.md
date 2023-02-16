@@ -3,9 +3,10 @@ title: "Fisher and Paykel Stove Error Codes"
 description: "Discover the source of issues with your Fisher and Paykel stove by decoding error codes in our directory. Quickly locate the error code, comprehend the problem, and resolve it easily with our clear and concise explanations."
 keywords: "Fisher and Paykel stove error codes, directory, error code, issue, source, explanation, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

@@ -3,9 +3,10 @@ title: "Electrolux Dishwasher Error Codes"
 description: "Get help with your Electrolux dishwasher issues using our list of error codes. Learn about the specific error code displayed on your dishwasher, understand the cause of the issue, and easily resolve it with our clear explanations."
 keywords: "Electrolux dishwasher error codes, directory, error code, dishwasher, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

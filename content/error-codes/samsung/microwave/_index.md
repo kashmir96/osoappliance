@@ -3,9 +3,10 @@ title: "Samsung Microwave Error Codes"
 description: "Get to the bottom of your Samsung microwave issues by checking our comprehensive directory of error codes. Quickly identify the error code, understand the cause, and resolve the problem easily with our clear explanations."
 keywords: "Samsung microwave error codes, directory, error code, issue, cause, resolution, explanation, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

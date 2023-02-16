@@ -3,9 +3,10 @@ title: "Whirlpool Stove Error Codes"
 description: "Uncover the source of problems with your Whirlpool stove by identifying error codes in our comprehensive directory. Quickly find the error code, understand the issue, and resolve it with ease using our straightforward explanations."
 keywords: "Whirlpool stove error codes, directory, error code, source, problem, issue, resolve, straightforward explanation"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

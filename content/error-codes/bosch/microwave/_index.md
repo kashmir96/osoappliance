@@ -3,9 +3,10 @@ title: "Bosch Microwave Error Codes"
 description: "Find the solution to your Bosch microwave issues with our directory of error codes. Discover the specific error code for your machine, understand the cause, and resolve it quickly and easily with our simple explanations."
 keywords: "Bosch microwave error codes, directory, error code, microwave, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

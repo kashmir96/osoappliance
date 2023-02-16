@@ -3,9 +3,10 @@ title: "Bosch Stove Error Codes"
 description: "Discover the solution to your Bosch stove's issues with our directory of error codes. Find the specific error code for your machine, understand the problem, and resolve it quickly and easily with our helpful explanations."
 keywords: "Bosch stove error codes, directory, error code, stove, problem, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

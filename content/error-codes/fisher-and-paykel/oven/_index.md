@@ -3,6 +3,8 @@ title: "Fisher and Paykel Oven Error Codes"
 description: "Find quick solutions to issues with your Fisher and Paykel oven by decoding the error codes with our comprehensive directory. Discover the meaning of your oven's error code and resolve it with ease using our clear descriptions."
 keywords: "Fisher and Paykel oven error codes, directory, error code, issue, solution, resolve, clear descriptions"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

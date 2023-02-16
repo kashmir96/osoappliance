@@ -3,9 +3,10 @@ title: "DeLonghi Appliance Error Codes"
 description: "Get quick and efficient solutions for your DeLonghi appliance problems with our directory of error codes. Identify the specific error code for your DeLonghi appliance, understand the cause, and resolve it easily with our clear explanations."
 keywords: "DeLonghi appliance error codes, directory, error code, DeLonghi appliance, issue, cause, explanation, resolution, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search for error codes..." id="error-code-search" class="error-code-search">

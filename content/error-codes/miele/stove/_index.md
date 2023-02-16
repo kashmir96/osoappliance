@@ -3,9 +3,10 @@ title: "Miele Stove Error Codes"
 description: "Discover the source of your Miele stove difficulties by consulting our extensive list of error codes. Easily recognize the error code, comprehend the cause, and fix the issue with our straightforward explanations."
 keywords: "Miele stove error codes, list, error code, problem, cause, resolution, explanation, easy-to-follow"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

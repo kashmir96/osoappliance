@@ -3,9 +3,10 @@ title: "Miele Dishwasher Error Codes"
 description: "Find solutions to common problems with your Miele dishwasher using our directory of error codes. Learn about the specific error code for your machine, understand the cause, and fix the issue quickly and easily with our simple explanations."
 keywords: "Miele dishwasher error codes, directory, error code, dishwasher, cause, description, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

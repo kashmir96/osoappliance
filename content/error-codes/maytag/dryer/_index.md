@@ -3,9 +3,10 @@ title: "Maytag Dryer Error Codes"
 description: "Easily discover Maytag dryer error codes with our comprehensive directory. Find your specific error code, understand the cause of the issue, and resolve it quickly with our simple and easy-to-understand descriptions."
 keywords: "Maytag dryer error codes, directory, error code, cause, issue, resolve, simple, easy-to-understand, descriptions."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

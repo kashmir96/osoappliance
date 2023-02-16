@@ -3,9 +3,10 @@ title: "Fisher & Paykel Appliance Error Codes"
 description: "Find quick solutions to Fisher & Paykel appliance problems with our directory of error codes. Discover the specific error code for your Fisher & Paykel appliance, understand the issue, and resolve it easily with our clear descriptions."
 keywords: "Fisher & Paykel appliance error codes, directory, error code, Fisher & Paykel appliance, issue, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">
@@ -401,7 +402,6 @@ NA
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
 <a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
 
-
 <ul>
 <li><a href="/error-codes/">Appliance Error Codes</a></li>
 <li><a href="/error-codes/fisher-and-paykel">Fisher & Paykel Appliance Error Codes</a></li>
@@ -415,19 +415,6 @@ NA
 <li><a href="/error-codes/fisher-and-paykel/fridge">Fisher & Paykel Fridge Error Codes</a></li>
 </ul>
 
-
-<ul>
-<li><a href="/error-codes/">Appliance Error Codes</a></li>
-<li><a href="/error-codes/fisher-and-paykel">Fisher & Paykel Appliance Error Codes</a></li>
-<li><a href="/error-codes/fisher-and-paykel/washing-machine">Fisher & Paykel Washing Machine Error Codes</a></li>
-<li><a href="/error-codes/fisher-and-paykel/dryer">Fisher & Paykel Dryer Error Codes</a></li>
-<li><a href="/error-codes/fisher-and-paykel/oven">Fisher & Paykel Oven Error Codes</a></li>
-<li><a href="/error-codes/fisher-and-paykel/stove">Fisher & Paykel Stove Error Codes</a></li>
-<li><a href="/error-codes/fisher-and-paykel/microwave">Fisher & Paykel Microwave Error Codes</a></li>
-<li><a href="/error-codes/fisher-and-paykel/coffee-machine">Fisher & Paykel Coffee Machine Error Codes</a></li>
-<li><a href="/error-codes/fisher-and-paykel/dishwasher">Fisher & Paykel Dishwasher Error Codes</a></li>
-<li><a href="/error-codes/fisher-and-paykel/fridge">Fisher & Paykel Fridge Error Codes</a></li>
-</ul>
 
 <script>
    const errorCodeForm = document.querySelector("#error-code-form");

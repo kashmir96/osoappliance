@@ -3,9 +3,10 @@ title: "Fisher & Paykel Microwave Error Codes"
 description: "Discover Fisher & Paykel microwave error codes with ease in our directory. Find the error code for your Fisher & Paykel microwave, understand the cause of the issue, and quickly resolve it with our easy-to-understand descriptions."
 keywords: "Fisher & Paykel microwave error codes, directory, error code, appliance brand, issue, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

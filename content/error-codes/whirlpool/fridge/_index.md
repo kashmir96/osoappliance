@@ -3,9 +3,10 @@ title: "Whirlpool Fridge Error Codes"
 description: "Troubleshoot your Whirlpool fridge with our comprehensive list of error codes. Identify the error code for your fridge, learn about the cause, and easily resolve the issue with our helpful explanations."
 keywords: "Whirlpool fridge error codes, troubleshooting, error code, fridge, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

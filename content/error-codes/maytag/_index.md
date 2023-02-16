@@ -3,9 +3,10 @@ title: "Maytag Appliance Error Codes"
 description: "Get quick and effective solutions for your Maytag appliance issues with our comprehensive error code directory. Easily identify the specific error code for your Maytag appliance, understand the cause, and solve it with our clear and straightforward explanations."
 keywords: "Maytag appliance error codes, directory, error code, Maytag appliance, problem, cause, explanation, solution, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

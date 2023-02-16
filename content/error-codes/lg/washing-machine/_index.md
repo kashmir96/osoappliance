@@ -3,6 +3,8 @@ title: "LG Washing Machine Error Codes"
 description: "Find the solution to your LG washing machine issues with our comprehensive guide to LG washing machine error codes. Quickly diagnose the problem and find easy-to-understand explanations for resolution."
 keywords: "LG washing machine error codes, comprehensive guide, problem, diagnosis, easy-to-understand, resolution"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

@@ -3,6 +3,8 @@ title: "Indesit Oven Error Codes"
 description: "Discover the cause of issues with your Indesit oven by identifying the error codes. Quickly find the code and understand the problem, with clear descriptions, and resolve the issue easily."
 keywords: "Indesit oven error codes, identify, issue, cause, clear descriptions, resolve, easily"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

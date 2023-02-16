@@ -3,9 +3,10 @@ title: "Electrolux Dryer Error Codes"
 description: "Easily understand your Electrolux dryer error codes with our comprehensive directory. Find the error code for your specific model, understand the cause, and resolve the issue quickly with our simple explanations."
 keywords: "Electrolux dryer error codes, directory, error code, specific model, cause, issue, resolve, simple explanations."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

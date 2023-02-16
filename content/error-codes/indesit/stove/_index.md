@@ -3,6 +3,8 @@ title: "Indesit Stove Error Codes"
 description: "Discover the source of issues with your Indesit stove by identifying error codes in our comprehensive directory. Find the error code, comprehend the problem, and resolve it with ease thanks to our clear and concise explanations."
 keywords: "Indesit stove error codes, directory, error code, issue, source, explanation, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

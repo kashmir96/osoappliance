@@ -3,9 +3,10 @@ title: "Fisher and Paykel Washing Machine Error Codes"
 description: "Uncover Fisher and Paykel washing machine error codes with ease in our comprehensive directory. Find the error code for your appliance, understand the root cause, and resolve the issue quickly with our easy-to-follow descriptions."
 keywords: "Fisher and Paykel washing machine error codes, directory, error code, appliance, cause, issue, resolve, easy-to-follow descriptions."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

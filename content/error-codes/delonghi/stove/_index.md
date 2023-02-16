@@ -3,9 +3,10 @@ title: "Delonghi Stove Error Codes"
 description: "Uncover the root cause of issues with your Delonghi stove by identifying error codes in our directory. Quickly locate the error code, understand the problem, and resolve it effortlessly with our clear descriptions."
 keywords: "Delonghi stove error codes, directory, error code, problem, cause, description, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

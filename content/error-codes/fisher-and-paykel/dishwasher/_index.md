@@ -3,9 +3,10 @@ title: "Fisher and Paykel Dishwasher Error Codes"
 description: "Discover the meaning of Fisher and Paykel dishwasher error codes, how to identify them, and how to resolve them with our comprehensive directory."
 keywords: "Fisher and Paykel, dishwasher, error codes, directory, identify, resolve"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

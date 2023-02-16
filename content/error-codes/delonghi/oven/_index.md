@@ -3,6 +3,8 @@ title: "Delonghi Oven Error Codes"
 description: "Understand the issues with your Delonghi oven by discovering error codes in our comprehensive directory. Find the error code, understand the problem, and resolve it with clear and easy-to-follow explanations."
 keywords: "Delonghi oven error codes, directory, error code, issue, cause, description, resolve, easy-to-follow"
 draft: false
+type: custom
+layout: codes
 ---
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">

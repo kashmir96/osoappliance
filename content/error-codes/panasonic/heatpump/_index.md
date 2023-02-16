@@ -3,9 +3,10 @@ title: "Panasonic Heat Pump Error Codes"
 description: "Discover Panasonic heat pump error codes with ease in our directory. Find the error code for your Panasonic heat pump, understand the cause of the issue, and quickly resolve it with our easy-to-understand descriptions."
 keywords: "Panasonic heat pump error codes, directory, error code, appliance brand, issue, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

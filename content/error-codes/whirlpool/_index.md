@@ -3,9 +3,10 @@ title: "Whirlpool Appliance Error Codes"
 description: "Find quick solutions to Whirlpool appliance problems with our directory of error codes. Discover the specific error code for your Whirlpool appliance, understand the issue, and resolve it easily with our clear descriptions."
 keywords: "Whirlpool appliance error codes, directory, error code, Whirlpool appliance, issue, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

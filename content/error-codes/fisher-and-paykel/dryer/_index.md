@@ -3,9 +3,10 @@ title: "Fisher and Paykel Dryer Error Codes"
 description: "Understand the cause of your Fisher and Paykel dryer's issue with our comprehensive guide to error codes. Quickly search for the code and learn how to resolve the problem with our easy-to-understand descriptions."
 keywords: "Fisher and Paykel, dryer error codes, error code, issue, cause, guide, search, resolve, problem, description, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

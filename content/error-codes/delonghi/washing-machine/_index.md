@@ -3,9 +3,10 @@ title: "Delonghi Washing Machine Error Codes"
 description: "Get quick and easy solutions for Delonghi washing machine error codes. Find the code for your machine, understand the cause, and resolve it with our detailed descriptions."
 keywords: "Delonghi washing machine error codes, solutions, code, cause, resolve, detailed descriptions."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

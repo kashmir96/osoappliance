@@ -3,9 +3,10 @@ title: "Bosch Dryer Error Codes"
 description: "Discover the cause of your Bosch dryer's problems with our directory of error codes. Find the specific error code for your machine, understand the issue, and resolve it quickly and easily with our clear explanations."
 keywords: "Bosch dryer error codes, directory, error code, dryer, issue, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

@@ -3,6 +3,8 @@ title: "Samsung Oven Error Codes"
 description: "Find out the cause of problems with your Samsung oven with the help of our comprehensive directory of error codes. Quickly identify the error code, understand the issue, and resolve it efficiently with our clear explanations."
 keywords: "Samsung oven error codes, directory, error code, issue, cause, description, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

@@ -3,9 +3,10 @@ title: "LG Dishwasher Error Codes"
 description: "Find solutions to your LG dishwasher issues with our comprehensive directory of error codes. Quickly identify the specific error code for your machine and resolve the problem with our easy-to-understand explanations."
 keywords: "LG dishwasher error codes, directory, error code, dishwasher, solution, explanation, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

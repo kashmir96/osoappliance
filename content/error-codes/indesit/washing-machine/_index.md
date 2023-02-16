@@ -3,9 +3,10 @@ title: "Indesit Washing Machine Error Codes"
 description: "Find the solution to your Indesit washing machine problems with our comprehensive directory of error codes. Quickly identify the issue, understand the cause, and get back to enjoying your clean clothes."
 keywords: "Indesit washing machine error codes, directory, error code, issue, cause, solution, identify, understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

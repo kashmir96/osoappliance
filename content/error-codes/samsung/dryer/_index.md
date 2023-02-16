@@ -3,9 +3,10 @@ title: "Samsung Dryer Error Codes"
 description: "Discover the solution to your Samsung dryer issues with our directory of error codes. Find the specific error code for your machine, understand the cause, and quickly resolve it with our easy-to-follow explanations."
 keywords: "Samsung dryer error codes, directory, error code, dryer, cause, description, resolve, easy-to-follow."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

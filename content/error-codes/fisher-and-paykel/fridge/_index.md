@@ -3,9 +3,10 @@ title: "Fisher and Paykel Fridge Error Codes"
 description: "Discover the specific error code for your Fisher and Paykel fridge and learn how to fix the problem quickly and easily with our directory of error codes. Find easy-to-understand explanations of the issue and the steps you can take to resolve it."
 keywords: "Fisher and Paykel fridge error codes, directory, error code, fridge, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

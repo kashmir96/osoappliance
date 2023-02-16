@@ -3,9 +3,10 @@ title: "Kitchenaid Dryer Error Codes"
 description: "Uncover the cause of issues with your Kitchenaid dryer by discovering error codes in our directory. Quickly find the error code, understand the problem, and resolve it easily with our clear descriptions."
 keywords: "Kitchenaid dryer error codes, directory, error code, issue, cause, description, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

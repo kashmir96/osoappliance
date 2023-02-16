@@ -3,9 +3,10 @@ title: "Kitchenaid Oven Error Codes"
 description: "Find the root cause of any issues with your Kitchenaid oven by identifying the error codes displayed. Our comprehensive directory of error codes allows you to quickly understand the problem and its solution, so you can resolve it with ease."
 keywords: "Kitchenaid oven error codes, directory, error code, issue, root cause, solution, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

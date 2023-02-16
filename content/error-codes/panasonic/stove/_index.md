@@ -3,9 +3,10 @@ title: "Panasonic Stove Error Codes"
 description: "Uncover the root of your Panasonic stove problems by referencing our comprehensive directory of error codes. Quickly identify the error code, understand the cause, and resolve the issue easily with our clear explanations."
 keywords: "Panasonic stove error codes, directory, error code, issue, cause, resolution, explanation, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

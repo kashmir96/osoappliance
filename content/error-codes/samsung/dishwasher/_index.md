@@ -3,9 +3,10 @@ title: "Samsung Dishwasher Error Codes"
 description: "Troubleshoot your Samsung dishwasher with our comprehensive list of error codes. Quickly identify the issue with your machine and find the best solution with our easy-to-understand explanations."
 keywords: "Samsung dishwasher error codes, error code, directory, troubleshoot, solution, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">
@@ -119,7 +120,7 @@ draft: false
 > The error code for your Samsung dishwasher may be displayed on the machine itself, in the owner's manual, or you can search for it in our directory of Samsung dishwasher error codes.
 <h4>How can I fix the problem indicated by the error code?</h4>
 > The solution to the problem indicated by the error code can be found in our directory of Samsung dishwasher error codes. Simply search for the code and find a straightforward and easy-to-understand explanation of the issue and how to resolve it.
-{{</rawhtml>}}=
+
 <h2>Need Help with Your Appliance?</h2>
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
 <a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>

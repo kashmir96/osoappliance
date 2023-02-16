@@ -3,6 +3,8 @@ title: "Indesit Dryer Error Codes"
 description: "Discover the root cause of issues with your Indesit dryer by identifying the error codes in our comprehensive directory. Find the error code quickly, understand the problem, and resolve it with ease using our clear and concise explanations."
 keywords: "Indesit dryer error codes, directory, error code, issue, cause, description, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

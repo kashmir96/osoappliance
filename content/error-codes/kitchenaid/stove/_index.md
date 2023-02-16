@@ -3,9 +3,10 @@ title: "Kitchenaid Stove Error Codes"
 description: "Discover the cause of issues with your Kitchenaid stove by finding the error codes in our directory. Easily locate the error code, understand the problem, and solve it quickly with our clear and concise descriptions."
 keywords: "Kitchenaid stove error codes, directory, error code, cause, issue, description, solve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">

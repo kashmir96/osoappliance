@@ -3,6 +3,8 @@ title: "Electrolux Oven Error Codes"
 description: "Troubleshoot issues with your Electrolux oven by discovering the meaning behind error codes. Quickly find the error code, understand the problem, and resolve it easily with our clear descriptions."
 keywords: "Electrolux oven error codes, directory, error code, issue, troubleshoot, cause, description, resolve, easy-to-understand"
 draft: false
+type: custom
+layout: codes
 ---
 
 {{<rawhtml>}}

@@ -3,9 +3,10 @@ title: "Bosch Washing Machine Error Codes"
 description: "Get to the bottom of your Bosch washing machine problems with our directory of error codes. Find the specific error code for your machine, understand the issue, and resolve it quickly and easily with our clear explanations."
 keywords: "Bosch washing machine error codes, directory, error code, washing machine, issue, cause, description, resolve, easy-to-understand."
 draft: false
+type: custom
+layout: codes
 ---
 
-{{<rawhtml>}}
 {{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search error codes..." id="error-code-search" class="error-code-search">
