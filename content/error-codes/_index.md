@@ -9188,7 +9188,7 @@ layout: codes
 <li><a href="/error-codes/bosch">Bosch Appliance Error Codes</a></li>
 <li><a href="/error-codes/samsung">Samsung Error Codes</a></li>
 <li><a href="/error-codes/miele">Miele Error Codes</a></li>
-<li><a href="/error-codes/pasonic">Panasonic Error Codes</a></li>
+<li><a href="/error-codes/panasonic">Panasonic Error Codes</a></li>
 <li><a href="/error-codes/indesit">Indesit Error Codes</a></li>
 <li><a href="/error-codes/lg">LG Error Codes</a></li>
 <li><a href="/error-codes/whirlpool">Whirlpool Error Codes</a></li>
