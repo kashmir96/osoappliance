@@ -92,6 +92,20 @@ draft: false
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
 <a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
 
+
+<ul>
+<li><a href="/error-codes/">Appliance Error Codes</a></li>
+<li><a href="/error-codes/lg">LG Appliance Error Codes</a></li>
+<li><a href="/error-codes/lg/washing-machine">LG Washing Machine Error Codes</a></li>
+<li><a href="/error-codes/lg/dryer">LG Dryer Error Codes</a></li>
+<li><a href="/error-codes/lg/oven">LG Oven Error Codes</a></li>
+<li><a href="/error-codes/lg/stove">LG Stove Error Codes</a></li>
+<li><a href="/error-codes/lg/microwave">LG Microwave Error Codes</a></li>
+<li><a href="/error-codes/lg/heatpump">LG Heatpump Error Codes</a></li>
+<li><a href="/error-codes/lg/dishwasher">LG Dishwasher Error Codes</a></li>
+<li><a href="/error-codes/lg/fridge">LG Fridge Error Codes</a></li>
+</ul>
+
 <script>
    const errorCodeForm = document.querySelector("#error-code-form");
 const errorCodeSearch = document.querySelector("#error-code-search");
@@ -116,7 +130,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = "";
+  errorCodeSearch.value = ";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });

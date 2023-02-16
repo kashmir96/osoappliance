@@ -58,6 +58,21 @@ draft: false
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
 <a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
 
+
+
+<ul>
+<li><a href="/error-codes/">Appliance Error Codes</a></li>
+<li><a href="/error-codes/haier">Haier Appliance Error Codes</a></li>
+<li><a href="/error-codes/haier/washing-machine">Haier Washing Machine Error Codes</a></li>
+<li><a href="/error-codes/haier/dryer">Haier Dryer Error Codes</a></li>
+<li><a href="/error-codes/haier/oven">Haier Oven Error Codes</a></li>
+<li><a href="/error-codes/haier/microwave">Haier Microwave Error Codes</a></li>
+<li><a href="/error-codes/haier/heatpump">Haier Heatpump Error Codes</a></li>
+<li><a href="/error-codes/haier/coffee-machine">Haier Coffee Machine Error Codes</a></li>
+<li><a href="/error-codes/haier/dishwasher">Haier Dishwasher Error Codes</a></li>
+<li><a href="/error-codes/haier/fridge">Haier Fridge Error Codes</a></li>
+</ul>
+
 <script>
    const errorCodeForm = document.querySelector("#error-code-form");
 const errorCodeSearch = document.querySelector("#error-code-search");
@@ -82,7 +97,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = "";
+  errorCodeSearch.value = ";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });

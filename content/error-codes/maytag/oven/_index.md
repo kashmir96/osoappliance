@@ -208,6 +208,21 @@ draft: false
 <p>If you're having trouble resolving an error code, or if you'd rather leave the repairs to the experts, our directory of appliance repair technicians is here to help. Find a trusted professional near you to get your appliance back in working order.</p>
 <a href="/pages/appliance-repair-technicians/" class="btn btn-primary">Find a Technician</a>
 
+
+<ul>
+<li><a href="/error-codes/">Appliance Error Codes</a></li>
+<li><a href="/error-codes/maytag">Maytag Appliance Error Codes</a></li>
+<li><a href="/error-codes/maytag/washing-machine">Maytag Washing Machine Error Codes</a></li>
+<li><a href="/error-codes/maytag/dryer">Maytag Dryer Error Codes</a></li>
+<li><a href="/error-codes/maytag/oven">Maytag Oven Error Codes</a></li>
+<li><a href="/error-codes/maytag/stove">Maytag Stove Error Codes</a></li>
+<li><a href="/error-codes/maytag/microwave">Maytag Microwave Error Codes</a></li>
+<li><a href="/error-codes/maytag/heatpump">Maytag Heatpump Error Codes</a></li>
+<li><a href="/error-codes/maytag/coffee-machine">Maytag Coffee Machine Error Codes</a></li>
+<li><a href="/error-codes/maytag/dishwasher">Maytag Dishwasher Error Codes</a></li>
+<li><a href="/error-codes/maytag/fridge">Maytag Fridge Error Codes</a></li>
+</ul>
+
 <script>
    const errorCodeForm = document.querySelector("#error-code-form");
 const errorCodeSearch = document.querySelector("#error-code-search");
@@ -232,7 +247,7 @@ errorCodeForm.addEventListener("submit", function(e) {
 });
 
 errorCodeClear.addEventListener("click", function() {
-  errorCodeSearch.value = "";
+  errorCodeSearch.value = ";
   errorCodes.forEach(function(errorCode) {
     errorCode.style.display = "block";
   });
