@@ -235,5 +235,9 @@ errorCodeClear.addEventListener("click", function() {
   });
 });
 
+document.addEventListener("contextmenu", function(e){
+  e.preventDefault();
+}, false);
+
 </script>
 {{</rawhtml>}}
