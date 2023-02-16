@@ -5,6 +5,7 @@ keywords: "Indesit dryer error codes, directory, error code, issue, cause, descr
 draft: false
 ---
 
+{{<rawhtml>}}
 <form id="error-code-form" class="error-code-form">
   <input type="text" placeholder="Search for error codes..." id="error-code-search" class="error-code-search">
   <button type="submit" class="error-code-submit">Submit</button>

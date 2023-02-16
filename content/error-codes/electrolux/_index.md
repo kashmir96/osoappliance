@@ -1,15 +1,15 @@
 --- 
-title: "Electrolux Appliance Error Codes"&Char(34)&"
-description: "&Char(34)&"Get quick solutions for your Electrolux appliance issues with our comprehensive directory of error codes. Find the specific error code for your Electrolux appliance, understand the cause, and resolve it easily with our clear and concise explanations."&Char(34)&"
-keywords: "&Char(34)&"Electrolux appliance error codes, directory, error code, Electrolux appliance, issue, cause, explanation, resolution, easy-to-understand."&Char(34)&"
+title: "Electrolux Appliance Error Codes"
+description: "Get quick solutions for your Electrolux appliance issues with our comprehensive directory of error codes. Find the specific error code for your Electrolux appliance, understand the cause, and resolve it easily with our clear and concise explanations."
+keywords: "Electrolux appliance error codes, directory, error code, Electrolux appliance, issue, cause, explanation, resolution, easy-to-understand."
 draft: false
 ---
 
 {{<rawhtml>}}
-<form id="&Char(34)&"error-code-form"&Char(34)&" class="&Char(34)&"error-code-form"&Char(34)&">
-  <input type="&Char(34)&"text"&Char(34)&" placeholder="&Char(34)&"Search for error codes..."&Char(34)&" id="&Char(34)&"error-code-search"&Char(34)&" class="&Char(34)&"error-code-search"&Char(34)&">
-  <button type="&Char(34)&"submit"&Char(34)&" class="&Char(34)&"error-code-submit"&Char(34)&">Submit</button>
-  <button type="&Char(34)&"button"&Char(34)&" id="&Char(34)&"clear-search"&Char(34)&" class="&Char(34)&"error-code-clear"&Char(34)&">Clear</button>
+<form id="error-code-form" class="error-code-form">
+  <input type="text" placeholder="Search for error codes..." id="error-code-search" class="error-code-search">
+  <button type="submit" class="error-code-submit">Submit</button>
+  <button type="button" id="clear-search" class="error-code-clear">Clear</button>
 </form>
 
 <div class="error-code-container">"
