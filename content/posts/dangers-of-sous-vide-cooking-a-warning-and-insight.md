@@ -1,9 +1,6 @@
 
-dangers-of-sous-vide-cooking-a-warning-and-insight
 ---
-title: cooking
-
-Dangers of Sous Vide Cooking A Warning and Insight
+title: Dangers of Sous Vide Cooking A Warning and Insight
 description: "- Learn more about this unique cooking method and what hidden danger it might present in your kitchen"
 keywords: sous
 tags: ["Kitchen Appliances"]
