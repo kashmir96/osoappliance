@@ -1,9 +1,5 @@
-
-washcom-get-expert-appliance-repair-with-their-app
 ---
-title: repair
-
-Washcom Get Expert Appliance Repair with Their App
+title: Washcom Get Expert Appliance Repair with Their App
 description: "Struggling with an appliance issue Find the solution with Washcoms efficient appliance repair services Easily book an appointment and find the professional that fits your needs"
 keywords: wash appliance
 tags: ["Washing Machine", "Clean Appliance", "Appliance Guide"]

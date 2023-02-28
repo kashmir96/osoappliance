@@ -1,9 +1,5 @@
-
-whirlpool-appliance-recall-what-you-need-to-know
 ---
-title: recall
-
-Whirlpool Appliance Recall What You Need to Know
+title: Whirlpool Appliance Recall What You Need to Know
 description: "Learn how to keep your home and family safe by taking the necessary actions in the event of a Whirlpool appliance recall Find out what you need to know in this informative blog post"
 keywords: appliance
 tags: ["Appliance Guide"]

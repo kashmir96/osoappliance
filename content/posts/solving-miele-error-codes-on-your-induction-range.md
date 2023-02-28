@@ -1,9 +1,5 @@
-
-solving-miele-error-codes-on-your-induction-range
 ---
-title: range
-
-Solving Miele Error Codes on Your Induction Range
+title: Solving Miele Error Codes on Your Induction Range
 description: "- Struggling to figure out whats wrong with your induction range Learn how to solve Miele error codes and keep your appliance working smoothly"
 keywords: miele error
 tags: ["Appliance Repair", "Appliance Brand"]

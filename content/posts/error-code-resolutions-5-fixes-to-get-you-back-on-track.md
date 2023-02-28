@@ -1,9 +1,5 @@
-
-error-code-resolutions-5-fixes-to-get-you-back-on-track
 ---
-title: resolutions
-
-Error Code Resolutions 5 Fixes to Get You Back on Track
+title: Error Code Resolutions 5 Fixes to Get You Back on Track
 description: "- Dont let an error code sideline you - learn what you can do to overcome these pesky issues and get back to your projects quickly and easily"
 keywords: error code
 tags: ["Appliance Repair"]

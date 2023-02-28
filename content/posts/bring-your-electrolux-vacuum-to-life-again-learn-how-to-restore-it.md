@@ -1,9 +1,5 @@
-
-bring-your-electrolux-vacuum-to-life-again-learn-how-to-restore-it
 ---
-title: vacuum
-
-Bring your Electrolux Vacuum to Life Again Learn How to Restore It
+title: Bring your Electrolux Vacuum to Life Again Learn How to Restore It
 description: "- This blog post will discuss how to use proper maintenance and preparatory tasks to restore an Electrolux vacuum cleaner From cleaning the fan to checking for damaged parts find out how to get your vacuum working again"
 keywords: electrolux
 tags: ["Buy Appliance", "Appliance Brand"]
