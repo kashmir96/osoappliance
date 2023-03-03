@@ -1,9 +1,6 @@
-
 ---
-title: maintenance
-
-Best Practices for Preventing Dryer Maintenance Learn How Now
-description: "- Find out what you can do to prevent the need for dryer maintenance and learn more about the best practices to keep your dryer running properly"
+title: Best Practices for Preventing Dryer Maintenance Learn How Now
+description: "Find out what you can do to prevent the need for dryer maintenance and learn more about the best practices to keep your dryer running properly"
 keywords: best dryer
 tags: ["Washing Machine", "Dryer", "Laundry Appliances", "Appliance Guide"]
 author: Curtis
