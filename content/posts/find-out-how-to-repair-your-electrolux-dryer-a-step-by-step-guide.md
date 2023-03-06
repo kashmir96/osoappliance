@@ -12,7 +12,7 @@ cover:
 ## Get Your Electrolux Dryer Working Again with a Step-by-Step Repair Guide
 Having an Electrolux dryer that doesn't work can be a major inconvenience. Whether it is making strange noises, running for a short time before stopping, or not heating up, it can be frustrating. Fortunately, there's no need to despair. This blog provides a step-by-step guide that can help you repair most common Electrolux dryer issues.
 
-Most Electrolux dryers come with a comprehensive warranty and the company also offers an extensive list of Electrolux appliance repair and service centers [on their website](https://electrolux.com/service-and-support). Before you start a DIY repair, make sure to consult the warranty and see if your issue is still covered by Electrolux.
+Most Electrolux dryers come with a comprehensive warranty and the company also offers an extensive list of Electrolux appliance repair and service centers on their website. Before you start a DIY repair, make sure to consult the warranty and see if your issue is still covered by Electrolux.
 
 Assuming you've identified the issue and wish to attempt repairs yourself, the first step is to unplug the dryer. You should then inspect different components of the appliance, looking for signs of damage or wear and tear. You should also take a look at the vent pipe and make sure it's properly connected.
 

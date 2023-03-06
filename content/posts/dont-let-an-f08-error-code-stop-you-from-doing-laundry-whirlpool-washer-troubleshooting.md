@@ -21,7 +21,7 @@ Pressure switches can be a little tricky to replace and it’s always best to co
 
 You should always take the time to troubleshoot F08 error codes on your Whirlpool washer and make sure the machine is running properly. Finding the underlying cause of the error code will prevent other potential issues from occurring down the road and help keep your appliance working optimally for the longest time. 
 
-If you don't feel confident in troubleshooting F08 error codes yourself, it's best to contact a professional repair technician. Here at directoryofappliancerepair.com, we offer a [Directory of Appliance Repair Technicians](./pages/appliance-repair-technicians) to make it easy to find a qualified repair professional in your area. Leave all the hard work to the pros and get your Whirlpool running again in no time.
+If you don't feel confident in troubleshooting F08 error codes yourself, it's best to contact a professional repair technician. we offer a [Directory of Appliance Repair Technicians](./pages/appliance-repair-technicians) to make it easy to find a qualified repair professional in your area. Leave all the hard work to the pros and get your Whirlpool running again in no time.
 
 ## Troubleshooting Whirlpool Washer F08 Error Code
 
