@@ -19,7 +19,7 @@ Whirlpool is offering free repairs for affected appliances. This includes rapid 
 
 Whirlpool encourages consumers to contact their appliance dealer to arrange a free repair or refund for affected models. It is important for owners to stay informed of the recall and contact their dealer as soon as possible. 
 
-It is essential to ensure the safety of your household and home by staying informed of any appliance recalls or repairs that may be needed. If you are in need of professional appliance repair technicians, we highly suggest visiting our [Directory of Appliance Repair Technicians](https://www.example.com/pages/appliance-repair-technicians) to connect with experienced, certified professionals in your area.
+It is essential to ensure the safety of your household and home by staying informed of any appliance recalls or repairs that may be needed. If you are in need of professional appliance repair technicians, we highly suggest visiting our [Directory of Appliance Repair Technicians](./pages/appliance-repair-technicians) to connect with experienced, certified professionals in your area.
 
 ## Key Questions About Whirlpool's Appliance Recall
 

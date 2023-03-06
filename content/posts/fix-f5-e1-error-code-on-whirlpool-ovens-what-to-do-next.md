@@ -18,7 +18,7 @@ It is important to first identify the root cause of the problem. The best way to
 
 If the problem is determined to be related to the heating element, it is important to call and consult a professional appliance repair expert. This is to ensure the job is done properly and to prevent any further damage from occurring in the oven. A qualified technician will be able to replace or repair the heating element for you and get your oven up and running again. 
 
-Understanding the cause of the F5 E1 error code on your Whirlpool oven can help to solve the problem much quicker and get you back to cooking in no time. While some checks and measures can be done on your own, in instances where the elements need to be repaired or replaced, it is best to seek the help of an appliance repair technician. When searching for a trusted technician, be sure to check out our [Directory of Appliance Repair Technicians](https://appliancerepairgeeks.com/pages/appliance-repair-technicians).
+Understanding the cause of the F5 E1 error code on your Whirlpool oven can help to solve the problem much quicker and get you back to cooking in no time. While some checks and measures can be done on your own, in instances where the elements need to be repaired or replaced, it is best to seek the help of an appliance repair technician. When searching for a trusted technician, be sure to check out our [Directory of Appliance Repair Technicians](./pages/appliance-repair-technicians).
 
 ## What Causes the F5 E1 Error Code on Whirlpool Ovens?
 
@@ -42,4 +42,4 @@ Understanding the cause of the F5 E1 error code on your Whirlpool oven can help 
 - It's important to check the thermostat calibration, oven door hinges and seals, and heating element 
 - Faulty thermostat calibration, a poorly closed door, or a faulty heating element can be the cause of the F5 E1 error code
 - If the issue is determined to be related to the heating element, it is best to call a professional appliance repair expert
-- To find a trusted appliance repair technician, check out the [Directory of Appliance Repair Technicians](https://appliancerepairgeeks.com/pages/appliance-repair-technicians)
+- To find a trusted appliance repair technician, check out the [Directory of Appliance Repair Technicians](./pages/appliance-repair-technicians/)

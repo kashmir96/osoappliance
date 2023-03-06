@@ -21,7 +21,7 @@ Finally, a key trend in the blender space is the increasing availability of alte
 
 Overall, developments in blenders show no sign of slowing down as manufacturers strive to provide a greater variety of models with more features and convenience.
 
-Are you looking for an appliance repair technician to help you with your blender? At CentralApplianceRepairDirectory.com, we have a [Directory of Appliance Repair Technicians](./pages/appliance-repair-technicians) that you can use to find experienced, qualified professionals in your local area. Contact us today!
+Are you looking for an appliance repair technician to help you with your blender? we have a [Directory of Appliance Repair Technicians](./pages/appliance-repair-technicians) that you can use to find experienced, qualified professionals in your local area. Contact us today!
 
 ## What You Need to Know About Blenders
 

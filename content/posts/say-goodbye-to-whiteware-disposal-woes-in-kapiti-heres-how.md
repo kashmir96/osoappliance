@@ -10,7 +10,7 @@ cover:
  alt: 'Whiteware disposal in Kapiti businessman posing in front of a large trash dump'
 ---
 ## Easily Say Goodbye to Whiteware Disposal in Kapiti 
-Do you want to get rid of your old whiteware appliances in a hassle-free and sustainable manner? We can help! At [Appliance Source](http://www.appliancesource.co.nz/), we have simplified the process of whiteware disposal for those living in Kapiti. 
+Do you want to get rid of your old whiteware appliances in a hassle-free and sustainable manner? We can help! we have simplified the process of whiteware disposal for those living in Kapiti. 
 
 Our service does not involve transporting the appliance from your home; instead, customers can simply book an appointment with us and we will collect it from whichever address is most convenient. We also provide an affordable pricing structure to ensure that the costs of disposal stay within your budget. 
 

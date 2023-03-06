@@ -18,4 +18,4 @@ Error code e08 could also be a result of a reduced airflow through the appliance
 
 Finally, the error code e08 could also be caused by a control board malfunction. A control board is responsible for controlling the temperature and other functions of the appliance. If the control board is defective or malfunctioning, it will need to be replaced in order to restore proper functionality. 
 
-Unlocking the mystery of error codes can be tricky, but with the help of a professional technician and the proper tools, you can get your Panasonic appliance up and running again. At [Home-Tech](www.hometech.com), we provide reliable appliance diagnosis and repair services, and we're committed to restoring your appliances to perfect working condition. Visit our website today to learn more about our services or contact us to schedule an appointment.
+Unlocking the mystery of error codes can be tricky, but with the help of a professional technician and the proper tools, you can get your Panasonic appliance up and running again. Check out our [directory of appliance repair technicians](./pages/appliance-repair-technicians)

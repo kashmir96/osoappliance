@@ -15,11 +15,11 @@ When setting up a kitchen, one of the most important decisions you’ll make is 
 
 To help you out, here are some of the best electrical kitchen appliances suppliers around today. 
 
-One a great option is [Appliance City](https://www.appliancecity.co.uk/). Appliance City offers a great selection of kitchen appliances, from fridges to fans, at very affordable prices. They have a four-star rating for delivery and customer service, and offer a 10-year warranty on their ovens, so you are assured of quality products. 
+One a great option Appliance City offers a great selection of kitchen appliances, from fridges to fans, at very affordable prices. They have a four-star rating for delivery and customer service, and offer a 10-year warranty on their ovens, so you are assured of quality products. 
 
-[Sears Outlet](https://www.searsoutlet.com/Kitchen-Appliances/d/products.jsp) is another great option. With Sears Outlet, you can shop for new, used, and refurbished items at very competitive prices, while also making sure they are of the highest quality. You can also take advantage of their free delivery and installation services on select orders.
+Sears outlet is another great option. With Sears Outlet, you can shop for new, used, and refurbished items at very competitive prices, while also making sure they are of the highest quality. You can also take advantage of their free delivery and installation services on select orders.
 
-For high-end appliances, [Lux Appliance Center](https://luxcourtappliances.com/) is an excellent choice. With over 40 years of experience in dealing with top-of-the-line kitchen appliances, you are assured of quality products that are built to last. They also offer free delivery and handles installation services to ensure your items are up and running as soon as possible.
+For high-end appliances, Lux appliance center is an excellent choice. With over 40 years of experience in dealing with top-of-the-line kitchen appliances, you are assured of quality products that are built to last. They also offer free delivery and handles installation services to ensure your items are up and running as soon as possible.
 
 Lastly, if you’re looking for a more personalized service and are on a tight budget, you can check out your local independent appliance stores. They might have limited selection, but they are more likely to offer a personalized service as well as unbeatable value for money. 
 

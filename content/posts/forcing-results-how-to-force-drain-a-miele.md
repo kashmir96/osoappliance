@@ -16,4 +16,4 @@ For a washing machine, start by unplugging the appliance and accessing the filte
 
 For a dishwasher, you may need to manually scoop out any lingering water by hand. If this still isn't enough, you will likely need to take off the drain cover and unhook the drain hose from the appliance. If this isn’t working, you may need to replace the drain pump motor. 
 
-In either case, consulting a technician at your local appliance service is the best way to obtain an accurate diagnosis of why your Miele is failing to drain properly. Our [Comprehensive Appliance Error Codes Glossary](./error-codes/) can help you if you encounter any unique error codes while attempting to repair your appliance. Have questions or need more answers? Reach out to us at [Pick Your Part](www.pickyourpart.co.uk) and we'll be happy to help!
+In either case, consulting a technician at your local appliance service is the best way to obtain an accurate diagnosis of why your Miele is failing to drain properly. Our [Comprehensive Appliance Error Codes Glossary](./error-codes/) can help you if you encounter any unique error codes while attempting to repair your appliance. 

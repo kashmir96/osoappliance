@@ -36,4 +36,5 @@ The first step to take when receiving an E011 Error Code is to unplug the oven a
 If the temperature sensor needs to be replaced, shut off the power to the oven from the main breaker. Locate the wiring harness that connects to the temperature sensor, and disconnect it. Pull out the old temperature sensor and remove the clip to open the temperature sensor housing. Place the new temperature sensor in the housing and replace the clip. Reconnect the wiring harness to the new temperature sensor, and turn the power back on to the oven.
 
 5. **Does a Bosch oven come with a warranty?**
-Yes, Bosch ovens come with a [2 year warranty](https://www.bosch-home.com/us/products/warranty-information) from the original purchase date. Refer to Bosch's website for any information or questions about the warranty terms.
+Yes, Bosch ovens come with a 2 year warranty
+from the original purchase date. Refer to Bosch's website for any information or questions about the warranty terms.

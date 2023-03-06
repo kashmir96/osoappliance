@@ -18,4 +18,4 @@ The blades on a commercial blender are usually heavier-duty and increase the cap
 
 In addition, the advanced technology found in a commercial blender offers a variety of safety features. The built-in safety switch prevents accidents, allowing you to work with confidence knowing that even if the power is left on when the blender bowl is removed, it will not operate until it is correctly placed back inside. 
 
-A professional-grade blender can truly take your home cooking to the next level. With the commercial blender's performance and features, your next culinary adventure is just a push of a button away. Explore our [Overview of Top Appliances](https://a2z-appliances.netlify.com/pages/appliance-overview) to find the perfect commercial blender for your needs.
+A professional-grade blender can truly take your home cooking to the next level. With the commercial blender's performance and features, your next culinary adventure is just a push of a button away. Explore our [Overview of Top Appliances](./pages/appliance-overview/) to find the perfect commercial blender for your needs.

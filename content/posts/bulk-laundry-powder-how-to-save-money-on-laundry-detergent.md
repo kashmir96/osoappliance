@@ -26,6 +26,6 @@ Using cold water instead of warm or hot water when washing can also help reduce 
 
  ### Have Regular Maintenance Checks On Your Appliances 
 
-To ensure optimum performance from your washing machine and other appliances, it’s important to have them regularly serviced by an appliance repair technician. Regular maintenance checks will ensure they are running efficiently so that you don't waste any more money than necessary on electricity bills or repairs in case something goes wrong with them down the line [Find an appliance repair technician near you here](https://www.osoappliance.com/pages/appliance-repair-technicians/). 
+To ensure optimum performance from your washing machine and other appliances, it’s important to have them regularly serviced by an appliance repair technician. Regular maintenance checks will ensure they are running efficiently so that you don't waste any more money than necessary on electricity bills or repairs in case something goes wrong with them down the line [Find an appliance repair technician near you here](./pages/appliance-repair-technicians/). 
 
 By following these simple tips when using bulk laundry powder, you'll be able to enjoy clean clothes without breaking the bank!

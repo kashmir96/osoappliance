@@ -23,7 +23,7 @@ The most common reason for the washing machine to remain locked is that it may h
 
 If the washing machine has become locked as a result of overflowing, the best course of action is to open the filter and see if it needs cleaning. If so, run the washing machine again to get rid of all the water and allow it to cycle until the end. Another way to get rid of the water is to simply unplug the appliance and tilt it slightly toward the drain to empty out anything that has been left behind.
 
-If the lock is broken, then you will need to replace it. You may be able to find replacement parts online, e.g. https://spare-basket.co.uk/washing-machine-spares, or look for a universal part kit. If it is an older model, you may need to refer to the owner’s manual to identify the correct part.
+If the lock is broken, then you will need to replace it. You may be able to find replacement parts online, or look for a universal part kit. If it is an older model, you may need to refer to the owner’s manual to identify the correct part.
 
 ### Conclusion
 

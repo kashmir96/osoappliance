@@ -33,7 +33,7 @@ The main goal of the Cleaning Up New Zealand Movement is to reduce the amount of
 
 3. How can I get involved with the Cleaning Up New Zealand Movement? 
 
-There are a number of ways to get involved in the Movement. You can start by joining your local clean-up group or registering for an organised clean-up event. You can also spread the word by encouraging friends and family to join the campaign and organising your own clean-up activities. To find out more information and ideas on how to get involved visit: www.cleanupnz.org.
+There are a number of ways to get involved in the Movement. You can start by joining your local clean-up group or registering for an organised clean-up event. You can also spread the word by encouraging friends and family to join the campaign and organising your own clean-up activities.
 
 4. What kind of litter should I be looking out for? 
 

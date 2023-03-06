@@ -20,7 +20,7 @@ Now that we have that covered, we’ll start by identifying the cause of the iss
 
 It's also best to clear any fuzzy logic which is when the washing machine performs a rinse cycle to determine the amount of water necessary for the next load. This can sometimes overtake a washing cycle, giving you an error code. To clear this, turn the knob to the "suds or drain" position, wait five minutes and then unplug the machine. Wait five more minutes and finally plug it back in. 
 
-Once you’ve identified the fault code, you’ll need a detailed list of what it means in order to figure out the best course of action. To help you in this regard, ConsumerMattressReviews.com has compiled an [Comprehensive Appliance Error Codes Glossary](./error-codes/) that includes codes from over 500 manufacturers. This lets you quickly jump in and find what's creating the issue with your Miele W1 washing machine.
+Once you’ve identified the fault code, you’ll need a detailed list of what it means in order to figure out the best course of action. To help you in this regard,[Comprehensive Appliance Error Codes Glossary](./error-codes/) that includes codes from over 500 manufacturers. This lets you quickly jump in and find what's creating the issue with your Miele W1 washing machine.
 
 Following this guide will hopefully have your Miele W1 washing machine up and running in no time. In case things get out of hand or you’re uncomfortable attempting any of the steps mentioned, be sure to reach out to a local technician for professional support.
 

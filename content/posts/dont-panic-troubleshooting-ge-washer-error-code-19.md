@@ -20,4 +20,4 @@ Next, inspect inside the washer drum for any items that may be blocking the move
 
 If none of these remedies solve your issue, there may be an error with the motor or the control, in which case you will be required to contact a professional repair technician to diagnose and repair the issue.
 
-If you are experiencing an issue with your GE washer, we suggest using error code 19 as a guide to troubleshoot and inspect basic issues before contacting an appliance repair technician. For further assistance and a comprehensive list of error codes, please visit our [Comprehensive Appliance Error Codes Glossary](https://www.mrshomeservices.com/resources/error-codes/).
+If you are experiencing an issue with your GE washer, we suggest using error code 19 as a guide to troubleshoot and inspect basic issues before contacting an appliance repair technician. For further assistance and a comprehensive list of error codes, please visit our [Comprehensive Appliance Error Codes Glossary](./error-codes/).

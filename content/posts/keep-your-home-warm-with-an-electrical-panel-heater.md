@@ -17,6 +17,6 @@ An electrical panel heater is a wall mounted electric radiant heat appliance. Un
 
 These heaters are noted to be affordable, safe and provide an efficient method of heating. This type of heater also has the advantage that as it’s wall mounted, it does not take up extra floor space and can be places in a variety of areas.
 
-When purchasing an electrical panel heater, it’s important to consider the size and type of your room and compare different thermostat and power settings. At [Tab Ape Home](https://tabapehome.com/), we provide an overview of top appliances to help you make an informed decision and find the perfect heater for your home. 
+When purchasing an electrical panel heater, it’s important to consider the size and type of your room and compare different thermostat and power settings. At we provide an overview of top appliances to help you make an informed decision and find the perfect heater for your home. 
 
 An electrical panel heater is a great option for those looking for an easy and efficient way to add heat to their home. It’s cost-effective, safe and requires minimal installation. Check out [our overview of top appliances](./pages/appliance-overview) to find the perfect heater for your home and make sure you warm and cozy this winter.

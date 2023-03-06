@@ -21,4 +21,4 @@ Quality equipment is an essential part of any musician's sound, and with Rocknro
 
 At Rocknrollrentals, we understand how important it is to have access to the best equipment in order to create the sound you want. We provide the resources and rental options that make it possible to make your music come alive with high-quality, pro-grade equipment. Take your music to the next level with Rocknrollrentals - experience quality with gear renting.
 
-If you're looking to save on large appliances, consider ApplianceRental.co. With our comprehensive list of appliance rental companies, you can find the perfect provider for your needs and budget. Get started today and rent with confidence.
+If you're looking to save on large appliances,  our comprehensive list of [appliance rental companies](./pages/appliance-rental), you can find the perfect provider for your needs and budget. Get started today and rent with confidence.

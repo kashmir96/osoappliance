@@ -22,4 +22,4 @@ Having access to quality bulk laundry supplies also means you don’t have to wo
 
 Not only does buying from Bulk Laundry Detergent NZ save money on bulk purchases but it also saves time by not having to go out shopping each time you need new supplies. Plus - with all of the great benefits they offer - why would anyone want to shop anywhere else? 
 
- If something goes wrong with any of your appliances when using these detergents then don't hesitate - find a qualified appliance repair technician near you by visiting [OSO Appliance](https://www.osoappliance.com/pages/appliance-repair-technicians/) today!
+ If something goes wrong with any of your appliances when using these detergents then don't hesitate - find a qualified appliance repair technician near you by visiting [OSO Appliance](./pages/appliance-repair-technicians/) today!

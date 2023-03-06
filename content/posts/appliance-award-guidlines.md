@@ -13,8 +13,8 @@ From your email, copy the provided code snippet to your website's HTML code wher
 
 
 EXAMPLE ONLY
-<a href="https://osoappliance.com/pages/top-appliance-repair-technicians/christchurch/2023">
-  <img src="https://osoappliance.com/img/badges/1.webp" alt="Appliance Repair Badge">
+<a href="./pages/top-appliance-repair-technicians/christchurch/2023">
+  <img src="./img/badges/1.webp" alt="Appliance Repair Badge">
 </a>
 
 ## Step 2: Verify the Badge Display

@@ -14,7 +14,7 @@ Finding the best deals on renting home appliances in Mumbai can be a daunting ta
 
 When selecting a rental company, you'll want to consider factors such as their inventory and rental policies, customer service, pricing, and more. It's also important to compare the various rental options available in order to get the best deal. You'll likely want to consider the terms of the deal, the size, and the duration of the rental agreement. 
 
-In addition to researching the companies themselves, there are other resources you can use to find the best deals on home appliance rentals in Mumbai. Online reviews and customer feedback can be a great way to get a better understanding of how certain companies are rated and what customers have experienced. You can also check out sites such as Kompare.in and Rentomojo.com to compare the different rental companies and their offers.
+In addition to researching the companies themselves, there are other resources you can use to find the best deals on home appliance rentals in Mumbai. Online reviews and customer feedback can be a great way to get a better understanding of how certain companies are rated and what customers have experienced. 
 
 When it comes to home appliance rentals, Mumbai has a great deal of selection. There are smaller, local companies offering affordable options as well as larger businesses catering to more high end rentals. It is worth taking some time to research the different companies and make sure that you're getting the best price for your purchase. 
 
