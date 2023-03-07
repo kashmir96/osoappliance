@@ -1,7 +1,7 @@
 ---
 title: Mr Stoves Pool World
 keywords: Mr Stoves Pool World Appliance Repair Technician Albury Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis

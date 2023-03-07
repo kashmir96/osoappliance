@@ -1,7 +1,7 @@
 ---
 title: Espresso Tools
 keywords: "New Zealand Christchurch"
-type: "Appliance Repair Technician, Delivery, Second hand appliances, Parts"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis

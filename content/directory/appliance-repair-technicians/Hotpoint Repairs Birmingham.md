@@ -1,7 +1,7 @@
 ---
 title: Hotpoint Repairs Birmingham
 keywords: Hotpoint Repairs Birmingham Appliance Repair Technician Birmingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Flame On Boiler Installation Manchester
 keywords: Flame On Boiler Installation Manchester Appliance Repair Technician Manchester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis

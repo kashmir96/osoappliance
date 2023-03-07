@@ -1,7 +1,7 @@
 ---
 title: Appliance 911
 keywords: Appliance 911 Appliance Repair Technician Denver United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Denver"]
 author: Curtis

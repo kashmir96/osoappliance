@@ -1,7 +1,7 @@
 ---
 title: Adept Appliance Service LLC
 keywords: Adept Appliance Service LLC Appliance Repair Technician Jacksonville United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis

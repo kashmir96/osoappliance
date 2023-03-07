@@ -1,7 +1,7 @@
 ---
 title: Complete Plumbing Nq
 keywords: Complete Plumbing Nq Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Albury Sound Lighting PTY LTD
 keywords: Albury Sound Lighting PTY LTD Appliance Repair Technician Albury Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Northern Caterers Electrical
 keywords: Northern Caterers Electrical Appliance Repair Technician Launceston Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis

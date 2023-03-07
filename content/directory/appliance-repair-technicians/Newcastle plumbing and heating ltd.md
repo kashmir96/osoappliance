@@ -1,7 +1,7 @@
 ---
 title: Newcastle plumbing and heating ltd
 keywords: Newcastle plumbing and heating ltd Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Pavilion Commercial Refrigeration Serv
 keywords: Pavilion Commercial Refrigeration Serv Appliance Repair Technician Seattle United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis

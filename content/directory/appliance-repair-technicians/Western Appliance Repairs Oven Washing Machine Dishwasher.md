@@ -1,7 +1,7 @@
 ---
 title: Western Appliance Repairs Oven Washing Machine Dishwasher
 keywords: Western Appliance Repairs Oven Washing Machine Dishwasher Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

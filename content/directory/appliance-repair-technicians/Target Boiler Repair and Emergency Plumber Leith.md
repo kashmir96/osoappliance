@@ -1,7 +1,7 @@
 ---
 title: Target Boiler Repair and Emergency Plumber Leith
 keywords: Target Boiler Repair and Emergency Plumber Leith Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

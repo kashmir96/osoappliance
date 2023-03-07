@@ -1,7 +1,7 @@
 ---
 title: Northern Traders Leeds Ltd
 keywords: Northern Traders Leeds Ltd Appliance Repair Technician Leeds United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Colorbond TV Rent Service Pty Ltd
 keywords: Colorbond TV Rent Service Pty Ltd Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Ed the Fridge Man
 keywords: Ed the Fridge Man Appliance Repair Technician Perth Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis

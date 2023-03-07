@@ -1,7 +1,7 @@
 ---
 title: Quality Equipment Sales Service
 keywords: Quality Equipment Sales Service Appliance Repair Technician Launceston Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis

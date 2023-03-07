@@ -1,7 +1,7 @@
 ---
 title: AmTec
 keywords: "New Zealand Invercargill"
-type: "Appliance Repair Technician, Installation"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Invercargill"]
 author: Curtis

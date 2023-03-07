@@ -1,7 +1,7 @@
 ---
 title: The Appliance Guys
 keywords: The Appliance Guys Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Caffiene Fix
 keywords: "New Zealand Christchurch"
-type: "Appliance Repair Technician, Delivery, Appliance Removal, Test and Tag"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis

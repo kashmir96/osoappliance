@@ -1,7 +1,7 @@
 ---
 title: Vac Attack
 keywords: Vac Attack Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

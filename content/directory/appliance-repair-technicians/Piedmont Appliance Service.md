@@ -1,7 +1,7 @@
 ---
 title: Piedmont Appliance Service
 keywords: Piedmont Appliance Service Appliance Repair Technician Charlotte United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis

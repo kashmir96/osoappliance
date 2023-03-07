@@ -1,7 +1,7 @@
 ---
 title: Northern Air Repair
 keywords: Northern Air Repair Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

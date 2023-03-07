@@ -1,7 +1,7 @@
 ---
 title: APPLIANCE BROTHERS
 keywords: APPLIANCE BROTHERS Appliance Repair Technician Sheffield United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis

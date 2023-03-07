@@ -1,7 +1,7 @@
 ---
 title: San Diego Appliance Repair Service LLC Washer Dryer Repair
 keywords: San Diego Appliance Repair Service LLC Washer Dryer Repair Appliance Repair Technician San Diego United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis

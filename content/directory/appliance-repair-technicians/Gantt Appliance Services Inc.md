@@ -1,7 +1,7 @@
 ---
 title: Gantt Appliance Services Inc
 keywords: Gantt Appliance Services Inc Appliance Repair Technician Charlotte United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis

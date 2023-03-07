@@ -1,7 +1,7 @@
 ---
 title: TFS Appliance Repairs Pty Ltd
 keywords: TFS Appliance Repairs Pty Ltd Appliance Repair Technician Gold-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis

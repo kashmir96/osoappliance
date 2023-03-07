@@ -1,7 +1,7 @@
 ---
 title: Wolf Appliance Repair Pros Phoenix
 keywords: Wolf Appliance Repair Pros Phoenix Appliance Repair Technician Phoenix United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis

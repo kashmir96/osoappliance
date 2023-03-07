@@ -1,7 +1,7 @@
 ---
 title: Nova Air and Electrical
 keywords: Nova Air and Electrical Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

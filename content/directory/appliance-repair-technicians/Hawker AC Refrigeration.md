@@ -1,7 +1,7 @@
 ---
 title: Hawker AC Refrigeration
 keywords: Hawker AC Refrigeration Appliance Repair Technician Canberra Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis

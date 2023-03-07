@@ -1,7 +1,7 @@
 ---
 title: 3R Appliance Repair
 keywords: 3R Appliance Repair Appliance Repair Technician San Jose United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis

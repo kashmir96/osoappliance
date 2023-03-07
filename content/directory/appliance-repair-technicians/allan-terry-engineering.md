@@ -1,7 +1,7 @@
 ---
 title: Allan Terry Engineering
 keywords: "New Zealand Dunedin"
-type: "Appliance Repair Technician, New Appliances, Second hand appliances"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Dunedin"]
 author: Curtis

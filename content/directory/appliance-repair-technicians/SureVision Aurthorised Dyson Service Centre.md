@@ -1,7 +1,7 @@
 ---
 title: SureVision Aurthorised Dyson Service Centre
 keywords: SureVision Aurthorised Dyson Service Centre Appliance Repair Technician Adelaide Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis

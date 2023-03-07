@@ -1,7 +1,7 @@
 ---
 title: Craigs Care Repair Ltd
 keywords: Craigs Care Repair Ltd Appliance Repair Technician Coventry United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis

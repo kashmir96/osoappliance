@@ -1,7 +1,7 @@
 ---
 title: The Appliance Repair Guru Corp
 keywords: The Appliance Repair Guru Corp Appliance Repair Technician Washington United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Washington"]
 author: Curtis

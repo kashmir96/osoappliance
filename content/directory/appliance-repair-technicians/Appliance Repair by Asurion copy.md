@@ -1,7 +1,7 @@
 ---
 title: Appliance Repair by Asurion
 keywords: Appliance Repair by Asurion Appliance Repair Technician Fort Worth United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis

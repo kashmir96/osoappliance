@@ -1,7 +1,7 @@
 ---
 title: A C E S Ltd
 keywords: A C E S Ltd Appliance Repair Technician Nottingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Prim GE Appliance Repair Seattle
 keywords: Prim GE Appliance Repair Seattle Appliance Repair Technician Seattle United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis

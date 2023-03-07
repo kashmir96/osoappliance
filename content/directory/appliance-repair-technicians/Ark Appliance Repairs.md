@@ -1,7 +1,7 @@
 ---
 title: Ark Appliance Repairs
 keywords: Ark Appliance Repairs Appliance Repair Technician Sydney Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis

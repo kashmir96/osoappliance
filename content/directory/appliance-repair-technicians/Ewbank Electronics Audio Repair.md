@@ -1,7 +1,7 @@
 ---
 title: Ewbank Electronics Audio Repair
 keywords: Ewbank Electronics Audio Repair Appliance Repair Technician Southampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis

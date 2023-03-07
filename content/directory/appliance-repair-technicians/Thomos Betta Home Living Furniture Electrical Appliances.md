@@ -1,7 +1,7 @@
 ---
 title: Thomos Betta Home Living Furniture Electrical Appliances
 keywords: Thomos Betta Home Living Furniture Electrical Appliances Appliance Repair Technician Rockhampton Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis

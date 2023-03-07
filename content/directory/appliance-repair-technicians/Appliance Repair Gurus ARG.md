@@ -1,7 +1,7 @@
 ---
 title: Appliance Repair Gurus ARG
 keywords: Appliance Repair Gurus ARG Appliance Repair Technician San Jose United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis

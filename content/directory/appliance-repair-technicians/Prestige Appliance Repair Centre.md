@@ -1,7 +1,7 @@
 ---
 title: Prestige Appliance Repair Centre
 keywords: Prestige Appliance Repair Centre Appliance Repair Technician Adelaide Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis

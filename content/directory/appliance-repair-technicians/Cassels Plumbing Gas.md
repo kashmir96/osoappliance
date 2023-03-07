@@ -1,7 +1,7 @@
 ---
 title: Cassels Plumbing Gas
 keywords: Cassels Plumbing Gas Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

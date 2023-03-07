@@ -1,7 +1,7 @@
 ---
 title: PATRICK LUNNEY HOME APPLIANCE SERVICE REPAIRS
 keywords: PATRICK LUNNEY HOME APPLIANCE SERVICE REPAIRS Appliance Repair Technician Gold-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis

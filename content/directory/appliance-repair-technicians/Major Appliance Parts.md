@@ -1,7 +1,7 @@
 ---
 title: Major Appliance Parts
 keywords: Major Appliance Parts Appliance Repair Technician Phoenix United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis

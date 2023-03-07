@@ -1,7 +1,7 @@
 ---
 title: Elite Appliances Repairs
 keywords: Elite Appliances Repairs Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

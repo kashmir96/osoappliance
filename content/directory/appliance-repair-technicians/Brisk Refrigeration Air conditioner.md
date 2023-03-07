@@ -1,7 +1,7 @@
 ---
 title: Brisk Refrigeration Air conditioner
 keywords: Brisk Refrigeration Air conditioner Appliance Repair Technician Gold-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis

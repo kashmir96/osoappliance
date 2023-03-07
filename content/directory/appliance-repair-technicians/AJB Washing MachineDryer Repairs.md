@@ -1,7 +1,7 @@
 ---
 title: AJB Washing MachineDryer Repairs
 keywords: AJB Washing MachineDryer Repairs Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

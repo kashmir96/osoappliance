@@ -1,7 +1,7 @@
 ---
 title: Mr Appliance of Fort Worth
 keywords: Mr Appliance of Fort Worth Appliance Repair Technician Fort Worth United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis

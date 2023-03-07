@@ -1,7 +1,7 @@
 ---
 title: Meridian Heating Installation Repair Leicester
 keywords: Meridian Heating Installation Repair Leicester Appliance Repair Technician Leicester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis

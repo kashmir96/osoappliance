@@ -1,7 +1,7 @@
 ---
 title: Canberra Gas Heating Evaporative Cooling
 keywords: Canberra Gas Heating Evaporative Cooling Appliance Repair Technician Canberra Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis

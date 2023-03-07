@@ -1,7 +1,7 @@
 ---
 title: BC TM Leggatt
 keywords: BC TM Leggatt Appliance Repair Technician Toowoomba Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis

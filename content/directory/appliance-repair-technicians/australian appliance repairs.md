@@ -1,7 +1,7 @@
 ---
 title: Australian Appliance repairs
 keywords: Australian Appliance repairs Appliance Repair Technician Canberra Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis

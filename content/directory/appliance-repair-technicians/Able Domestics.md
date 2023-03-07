@@ -1,7 +1,7 @@
 ---
 title: Able Domestics
 keywords: Able Domestics Appliance Repair Technician Southampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis

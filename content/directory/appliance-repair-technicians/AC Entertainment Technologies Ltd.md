@@ -1,7 +1,7 @@
 ---
 title: AC Entertainment Technologies Ltd
 keywords: AC Entertainment Technologies Ltd Appliance Repair Technician Leeds United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis

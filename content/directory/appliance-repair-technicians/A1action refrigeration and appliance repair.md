@@ -1,7 +1,7 @@
 ---
 title: A1action refrigeration and appliance repair
 keywords: A1action refrigeration and appliance repair Appliance Repair Technician Jacksonville United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Red Apple Appliance Repair
 keywords: Red Apple Appliance Repair Appliance Repair Technician Phoenix United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis

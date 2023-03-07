@@ -1,7 +1,7 @@
 ---
 title: B+C Electrical
 keywords: "New Zealand Queenstown"
-type: "New Appliances, Installation, Appliance Repair Technician"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Queenstown"]
 author: Curtis

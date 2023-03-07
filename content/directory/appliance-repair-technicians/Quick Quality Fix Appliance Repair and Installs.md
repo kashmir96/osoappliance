@@ -1,7 +1,7 @@
 ---
 title: Quick Quality Fix Appliance Repair and Installs
 keywords: Quick Quality Fix Appliance Repair and Installs Appliance Repair Technician Charlotte United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Allstar Appliance Services
 keywords: Allstar Appliance Services Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

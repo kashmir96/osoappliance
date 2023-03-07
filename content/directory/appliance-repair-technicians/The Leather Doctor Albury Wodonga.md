@@ -1,7 +1,7 @@
 ---
 title: The Leather Doctor Albury Wodonga
 keywords: The Leather Doctor Albury Wodonga Appliance Repair Technician Albury Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis

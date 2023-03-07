@@ -1,7 +1,7 @@
 ---
 title: Fisher Paykel Authorised Service Centre Spare Parts
 keywords: Fisher Paykel Authorised Service Centre Spare Parts Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Real Appliance Repair LLC
 keywords: Real Appliance Repair LLC Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

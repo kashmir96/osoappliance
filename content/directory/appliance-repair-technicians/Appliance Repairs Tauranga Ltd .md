@@ -1,7 +1,7 @@
 ---
 title: Appliance Repairs Tauranga Ltd 
 keywords: Appliance Repairs Tauranga Ltd  Appliance Repair Technician Belfast United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis

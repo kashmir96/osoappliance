@@ -1,7 +1,7 @@
 ---
 title: Metropolitan Plumbing Bendigo
 keywords: Metropolitan Plumbing Bendigo Appliance Repair Technician Bendigo Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis

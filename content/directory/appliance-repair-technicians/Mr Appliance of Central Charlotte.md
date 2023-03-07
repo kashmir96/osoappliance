@@ -1,7 +1,7 @@
 ---
 title: Mr Appliance of Central Charlotte
 keywords: Mr Appliance of Central Charlotte Appliance Repair Technician Charlotte United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis

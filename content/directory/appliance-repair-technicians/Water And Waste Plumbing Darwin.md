@@ -1,7 +1,7 @@
 ---
 title: Water And Waste Plumbing Darwin
 keywords: Water And Waste Plumbing Darwin Appliance Repair Technician Darwin Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis

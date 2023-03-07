@@ -1,7 +1,7 @@
 ---
 title: Adam The Answerman
 keywords: Adam The Answerman Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

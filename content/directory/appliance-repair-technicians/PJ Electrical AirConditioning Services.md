@@ -1,7 +1,7 @@
 ---
 title: PJ Electrical AirConditioning Services
 keywords: PJ Electrical AirConditioning Services Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

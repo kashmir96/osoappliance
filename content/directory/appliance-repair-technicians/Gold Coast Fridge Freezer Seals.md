@@ -1,7 +1,7 @@
 ---
 title: Gold Coast Fridge Freezer Seals
 keywords: Gold Coast Fridge Freezer Seals Appliance Repair Technician Gold-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis

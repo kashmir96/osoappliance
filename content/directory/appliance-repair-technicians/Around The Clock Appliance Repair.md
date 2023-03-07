@@ -1,7 +1,7 @@
 ---
 title: Around The Clock Appliance Repair
 keywords: Around The Clock Appliance Repair Appliance Repair Technician San Antonio United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis

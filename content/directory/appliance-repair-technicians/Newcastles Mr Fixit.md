@@ -1,7 +1,7 @@
 ---
 title: Newcastles Mr Fixit
 keywords: Newcastles Mr Fixit Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

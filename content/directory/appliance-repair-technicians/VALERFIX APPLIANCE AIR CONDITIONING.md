@@ -1,7 +1,7 @@
 ---
 title: VALERFIX APPLIANCE AIR CONDITIONING
 keywords: VALERFIX APPLIANCE AIR CONDITIONING Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

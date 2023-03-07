@@ -1,7 +1,7 @@
 ---
 title: LC Plumbing Gas
 keywords: LC Plumbing Gas Appliance Repair Technician Toowoomba Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis

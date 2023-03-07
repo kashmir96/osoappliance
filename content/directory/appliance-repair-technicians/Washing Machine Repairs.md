@@ -1,7 +1,7 @@
 ---
 title: Washing Machine Repairs
 keywords: Washing Machine Repairs Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

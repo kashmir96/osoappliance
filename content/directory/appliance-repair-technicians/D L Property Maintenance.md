@@ -1,7 +1,7 @@
 ---
 title: D L Property Maintenance
 keywords: D L Property Maintenance Appliance Repair Technician Kingston upon Hull United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis

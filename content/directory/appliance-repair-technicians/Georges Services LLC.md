@@ -1,7 +1,7 @@
 ---
 title: Georges Services LLC
 keywords: Georges Services LLC Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

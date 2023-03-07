@@ -1,7 +1,7 @@
 ---
 title: SafeGas
 keywords: "New Zealand Auckland"
-type: "Appliance Repair Technician, Installation, New Appliances"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis

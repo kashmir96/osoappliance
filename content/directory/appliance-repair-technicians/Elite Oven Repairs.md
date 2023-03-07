@@ -1,7 +1,7 @@
 ---
 title: Elite Oven Repairs
 keywords: Elite Oven Repairs Appliance Repair Technician Perth Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis

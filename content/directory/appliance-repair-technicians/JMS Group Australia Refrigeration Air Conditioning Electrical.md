@@ -1,7 +1,7 @@
 ---
 title: JMS Group Australia Refrigeration Air Conditioning Electrical
 keywords: JMS Group Australia Refrigeration Air Conditioning Electrical Appliance Repair Technician Rockhampton Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Indys Best Appliance Service
 keywords: Indys Best Appliance Service Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

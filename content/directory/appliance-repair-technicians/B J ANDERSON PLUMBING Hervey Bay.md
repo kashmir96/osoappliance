@@ -1,7 +1,7 @@
 ---
 title: B J ANDERSON PLUMBING Hervey Bay
 keywords: B J ANDERSON PLUMBING Hervey Bay Appliance Repair Technician Hervey-Bay Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Mr Appliance of Indianapolis
 keywords: Mr Appliance of Indianapolis Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

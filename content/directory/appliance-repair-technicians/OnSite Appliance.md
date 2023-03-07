@@ -1,7 +1,7 @@
 ---
 title: OnSite Appliance
 keywords: OnSite Appliance Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Innovative Appliance Servicing
 keywords: Innovative Appliance Servicing Appliance Repair Technician Gold-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis

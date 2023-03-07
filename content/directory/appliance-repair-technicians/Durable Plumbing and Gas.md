@@ -1,7 +1,7 @@
 ---
 title: Durable Plumbing and Gas
 keywords: Durable Plumbing and Gas Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

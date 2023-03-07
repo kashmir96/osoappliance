@@ -1,7 +1,7 @@
 ---
 title: PAP Domestics
 keywords: PAP Domestics Appliance Repair Technician Sheffield United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis

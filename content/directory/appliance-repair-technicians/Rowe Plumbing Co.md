@@ -1,7 +1,7 @@
 ---
 title: Rowe Plumbing Co
 keywords: Rowe Plumbing Co Appliance Repair Technician Bendigo Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis

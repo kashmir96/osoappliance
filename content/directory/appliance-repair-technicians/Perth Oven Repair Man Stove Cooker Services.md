@@ -1,7 +1,7 @@
 ---
 title: Perth Oven Repair Man Stove Cooker Services
 keywords: Perth Oven Repair Man Stove Cooker Services Appliance Repair Technician Perth Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis

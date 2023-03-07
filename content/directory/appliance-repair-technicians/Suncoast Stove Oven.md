@@ -1,7 +1,7 @@
 ---
 title: Suncoast Stove Oven
 keywords: Suncoast Stove Oven Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

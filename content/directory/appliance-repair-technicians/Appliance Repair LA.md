@@ -1,7 +1,7 @@
 ---
 title: Appliance Repair LA
 keywords: Appliance Repair LA Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

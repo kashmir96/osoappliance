@@ -1,7 +1,7 @@
 ---
 title: 2D Plumbing Gas
 keywords: 2D Plumbing Gas Appliance Repair Technician Bendigo Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis

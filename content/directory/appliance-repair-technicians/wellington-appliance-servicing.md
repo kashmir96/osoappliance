@@ -1,7 +1,7 @@
 ---
 title: Wellington Appliance Servicing
 keywords: "New Zealand Wellington"
-type: "Parts, Appliance Repair Technician, Second hand appliances, New Appliances"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis

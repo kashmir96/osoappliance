@@ -1,7 +1,7 @@
 ---
 title: Electrofix
 keywords: Electrofix Appliance Repair Technician Bristol United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis

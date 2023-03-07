@@ -1,7 +1,7 @@
 ---
 title: Mr Appliance NYC
 keywords: Mr Appliance NYC Appliance Repair Technician New York City United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["New York City"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Triton Appliance repair
 keywords: Triton Appliance repair Appliance Repair Technician San Francisco United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis

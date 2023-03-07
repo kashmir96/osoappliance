@@ -1,7 +1,7 @@
 ---
 title: Southern Cross Appliances
 keywords: Southern Cross Appliances Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

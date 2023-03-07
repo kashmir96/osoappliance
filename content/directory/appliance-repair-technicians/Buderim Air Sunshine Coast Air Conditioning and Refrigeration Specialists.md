@@ -1,7 +1,7 @@
 ---
 title: Buderim Air Sunshine Coast Air Conditioning and Refrigeration Specialists
 keywords: Buderim Air Sunshine Coast Air Conditioning and Refrigeration Specialists Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

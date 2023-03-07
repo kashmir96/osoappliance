@@ -1,7 +1,7 @@
 ---
 title: A A Appliance Repair Serviceindianapolisin
 keywords: A A Appliance Repair Serviceindianapolisin Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

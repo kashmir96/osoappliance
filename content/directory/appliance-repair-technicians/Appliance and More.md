@@ -1,7 +1,7 @@
 ---
 title: Appliance and More
 keywords: Appliance and More Appliance Repair Technician San Diego United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis

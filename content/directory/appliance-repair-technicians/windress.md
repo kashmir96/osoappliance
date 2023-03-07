@@ -1,7 +1,7 @@
 ---
 title: Windress
 keywords: "New Zealand Auckland"
-type: "Appliance Repair Technician, Installation, Parts"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis

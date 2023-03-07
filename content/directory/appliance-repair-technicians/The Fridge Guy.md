@@ -1,7 +1,7 @@
 ---
 title: The Fridge Guy
 keywords: The Fridge Guy Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: AFTER 5 PM APPLIANCE REPAIR
 keywords: AFTER 5 PM APPLIANCE REPAIR Appliance Repair Technician San Antonio United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis

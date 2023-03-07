@@ -1,7 +1,7 @@
 ---
 title: West Midlands Electrical and Air Conditioning
 keywords: West Midlands Electrical and Air Conditioning Appliance Repair Technician Wolverhampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Becker Appliance
 keywords: Becker Appliance Appliance Repair Technician Denver United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Denver"]
 author: Curtis

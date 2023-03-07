@@ -1,7 +1,7 @@
 ---
 title: AIS Domestic Appliance Repairs
 keywords: AIS Domestic Appliance Repairs Appliance Repair Technician Kingston upon Hull United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Marks appliance repair
 keywords: Marks appliance repair Appliance Repair Technician Leicester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis

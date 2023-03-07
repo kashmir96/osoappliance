@@ -1,7 +1,7 @@
 ---
 title: J Small Refrigeration Service
 keywords: J Small Refrigeration Service Appliance Repair Technician Sydney Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis

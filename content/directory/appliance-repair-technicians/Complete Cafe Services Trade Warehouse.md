@@ -1,7 +1,7 @@
 ---
 title: Complete Cafe Services Trade Warehouse
 keywords: Complete Cafe Services Trade Warehouse Appliance Repair Technician Adelaide Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis

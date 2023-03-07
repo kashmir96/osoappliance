@@ -1,7 +1,7 @@
 ---
 title: CJ Appliance Installations
 keywords: CJ Appliance Installations Appliance Repair Technician Fort Worth United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis

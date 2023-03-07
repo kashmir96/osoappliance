@@ -1,7 +1,7 @@
 ---
 title: Hey Key Appliance Repair Ballantyne
 keywords: Hey Key Appliance Repair Ballantyne Appliance Repair Technician Charlotte United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis

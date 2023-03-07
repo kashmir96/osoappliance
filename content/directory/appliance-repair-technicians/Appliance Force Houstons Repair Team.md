@@ -1,7 +1,7 @@
 ---
 title: Appliance Force Houstons Repair Team
 keywords: Appliance Force Houstons Repair Team Appliance Repair Technician Houston United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Houston"]
 author: Curtis

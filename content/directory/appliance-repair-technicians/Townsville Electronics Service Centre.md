@@ -1,7 +1,7 @@
 ---
 title: Townsville Electronics Service Centre
 keywords: Townsville Electronics Service Centre Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

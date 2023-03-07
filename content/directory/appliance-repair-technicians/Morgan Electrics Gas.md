@@ -1,7 +1,7 @@
 ---
 title: Morgan Electrics Gas
 keywords: Morgan Electrics Gas Appliance Repair Technician Geelong Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis

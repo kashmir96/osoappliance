@@ -1,7 +1,7 @@
 ---
 title: Kleen Green Plumbing
 keywords: Kleen Green Plumbing Appliance Repair Technician Launceston Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis

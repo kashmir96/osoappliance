@@ -1,7 +1,7 @@
 ---
 title: Silva Plumbing service Canberra
 keywords: Silva Plumbing service Canberra Appliance Repair Technician Canberra Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Mr Appliance of Austin
 keywords: Mr Appliance of Austin Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

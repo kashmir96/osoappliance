@@ -1,7 +1,7 @@
 ---
 title: Rent4Keeps Toowoomba
 keywords: Rent4Keeps Toowoomba Appliance Repair Technician Toowoomba Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Dryer Washer Repair Services BG
 keywords: Dryer Washer Repair Services BG Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

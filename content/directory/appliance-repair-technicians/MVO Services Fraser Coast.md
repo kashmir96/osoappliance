@@ -1,7 +1,7 @@
 ---
 title: MVO Services Fraser Coast
 keywords: MVO Services Fraser Coast Appliance Repair Technician Hervey-Bay Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: LG Sewing Machines Ltd
 keywords: LG Sewing Machines Ltd Appliance Repair Technician Leicester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis

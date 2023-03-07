@@ -1,7 +1,7 @@
 ---
 title: North Coast Appliance Specialists
 keywords: North Coast Appliance Specialists Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

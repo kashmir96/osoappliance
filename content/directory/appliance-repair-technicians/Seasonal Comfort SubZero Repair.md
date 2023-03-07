@@ -1,7 +1,7 @@
 ---
 title: Seasonal Comfort SubZero Repair
 keywords: Seasonal Comfort SubZero Repair Appliance Repair Technician Houston United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Houston"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: First Serve UK Washing Mаchine Repairs
 keywords: First Serve UK Washing Mаchine Repairs Appliance Repair Technician London United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis

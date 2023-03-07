@@ -1,7 +1,7 @@
 ---
 title: Geelong Oven Repairs
 keywords: Geelong Oven Repairs Appliance Repair Technician Geelong Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis

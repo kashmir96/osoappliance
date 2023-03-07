@@ -1,7 +1,7 @@
 ---
 title: Frankies Appliance Repair
 keywords: Frankies Appliance Repair Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

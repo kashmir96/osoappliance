@@ -1,7 +1,7 @@
 ---
 title: Efficient Refrigeration
 keywords: Efficient Refrigeration Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

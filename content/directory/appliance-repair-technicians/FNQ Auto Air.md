@@ -1,7 +1,7 @@
 ---
 title: FNQ Auto Air
 keywords: FNQ Auto Air Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

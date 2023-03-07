@@ -1,7 +1,7 @@
 ---
 title: Geelong District Plumbing
 keywords: Geelong District Plumbing Appliance Repair Technician Geelong Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis

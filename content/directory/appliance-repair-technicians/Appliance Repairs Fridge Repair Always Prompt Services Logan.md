@@ -1,7 +1,7 @@
 ---
 title: Appliance Repairs Fridge Repair Always Prompt Services Logan
 keywords: Appliance Repairs Fridge Repair Always Prompt Services Logan Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

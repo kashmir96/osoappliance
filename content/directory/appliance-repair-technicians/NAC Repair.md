@@ -1,7 +1,7 @@
 ---
 title: NAC Repair
 keywords: NAC Repair Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

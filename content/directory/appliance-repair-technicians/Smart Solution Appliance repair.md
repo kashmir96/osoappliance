@@ -1,7 +1,7 @@
 ---
 title: Smart Solution Appliance repair
 keywords: Smart Solution Appliance repair Appliance Repair Technician San Francisco United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis

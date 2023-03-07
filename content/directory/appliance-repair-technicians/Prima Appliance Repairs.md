@@ -1,7 +1,7 @@
 ---
 title: Prima Appliance Repairs
 keywords: Prima Appliance Repairs Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

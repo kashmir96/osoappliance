@@ -1,7 +1,7 @@
 ---
 title: Paramount TV Aerials
 keywords: Paramount TV Aerials Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

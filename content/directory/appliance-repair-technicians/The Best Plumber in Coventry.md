@@ -1,7 +1,7 @@
 ---
 title: The Best Plumber in Coventry
 keywords: The Best Plumber in Coventry Appliance Repair Technician Coventry United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis

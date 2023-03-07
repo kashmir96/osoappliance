@@ -1,7 +1,7 @@
 ---
 title: Gasman QT
 keywords: "New Zealand Queenstown"
-type: "Appliance Repair Technician, Installation"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Queenstown"]
 author: Curtis

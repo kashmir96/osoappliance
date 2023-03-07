@@ -1,7 +1,7 @@
 ---
 title: Noosa Appliance Service
 keywords: Noosa Appliance Service Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Altrincham Domestics
 keywords: Altrincham Domestics Appliance Repair Technician Manchester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis

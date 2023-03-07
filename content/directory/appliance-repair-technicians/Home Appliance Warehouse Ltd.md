@@ -1,7 +1,7 @@
 ---
 title: Home Appliance Warehouse Ltd
 keywords: Home Appliance Warehouse Ltd Appliance Repair Technician Birmingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis

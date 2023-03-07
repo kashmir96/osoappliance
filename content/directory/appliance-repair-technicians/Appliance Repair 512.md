@@ -1,7 +1,7 @@
 ---
 title: Appliance Repair 512
 keywords: Appliance Repair 512 Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

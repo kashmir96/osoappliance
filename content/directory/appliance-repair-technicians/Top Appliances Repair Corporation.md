@@ -1,7 +1,7 @@
 ---
 title: Top Appliances Repair Corporation
 keywords: Top Appliances Repair Corporation Appliance Repair Technician Houston United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Houston"]
 author: Curtis

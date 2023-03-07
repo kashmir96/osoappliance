@@ -1,7 +1,7 @@
 ---
 title: Simply Heating Gas Engineers Ltd
 keywords: Simply Heating Gas Engineers Ltd Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

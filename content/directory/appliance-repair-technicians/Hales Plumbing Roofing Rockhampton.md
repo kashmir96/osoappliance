@@ -1,7 +1,7 @@
 ---
 title: Hales Plumbing Roofing Rockhampton
 keywords: Hales Plumbing Roofing Rockhampton Appliance Repair Technician Rockhampton Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis

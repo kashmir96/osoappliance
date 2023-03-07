@@ -1,7 +1,7 @@
 ---
 title: City Appliance Repair Services Domestic
 keywords: City Appliance Repair Services Domestic Appliance Repair Technician London United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis

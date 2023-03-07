@@ -1,7 +1,7 @@
 ---
 title: Mike Mullen Gas Services
 keywords: Mike Mullen Gas Services Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

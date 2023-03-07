@@ -1,7 +1,7 @@
 ---
 title: Big Kountry Appliance Repair LLC
 keywords: Big Kountry Appliance Repair LLC Appliance Repair Technician Houston United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Houston"]
 author: Curtis

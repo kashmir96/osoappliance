@@ -1,7 +1,7 @@
 ---
 title: Jaycee Plumbing and Gas Fitting
 keywords: Jaycee Plumbing and Gas Fitting Appliance Repair Technician Bendigo Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis

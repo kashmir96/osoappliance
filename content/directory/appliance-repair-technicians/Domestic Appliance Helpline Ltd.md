@@ -1,7 +1,7 @@
 ---
 title: Domestic Appliance Helpline Ltd
 keywords: Domestic Appliance Helpline Ltd Appliance Repair Technician Leeds United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis

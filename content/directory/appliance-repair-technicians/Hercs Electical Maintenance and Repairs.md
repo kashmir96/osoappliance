@@ -1,7 +1,7 @@
 ---
 title: Hercs Electical Maintenance and Repairs
 keywords: Hercs Electical Maintenance and Repairs Appliance Repair Technician Hervey-Bay Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis

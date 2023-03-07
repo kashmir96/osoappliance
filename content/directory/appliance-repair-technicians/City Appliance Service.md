@@ -1,7 +1,7 @@
 ---
 title: City Appliance Service
 keywords: City Appliance Service Appliance Repair Technician Philadelphia United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis

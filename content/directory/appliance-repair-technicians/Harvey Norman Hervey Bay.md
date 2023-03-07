@@ -1,7 +1,7 @@
 ---
 title: Harvey Norman Hervey Bay
 keywords: Harvey Norman Hervey Bay Appliance Repair Technician Hervey-Bay Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis

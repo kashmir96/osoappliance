@@ -1,7 +1,7 @@
 ---
 title: WB Fulton AJ Goodwin
 keywords: WB Fulton AJ Goodwin Appliance Repair Technician Launceston Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis

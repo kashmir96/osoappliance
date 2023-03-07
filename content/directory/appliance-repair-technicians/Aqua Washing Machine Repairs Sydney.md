@@ -1,7 +1,7 @@
 ---
 title: Aqua Washing Machine Repairs Sydney
 keywords: Aqua Washing Machine Repairs Sydney Appliance Repair Technician Sydney Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis

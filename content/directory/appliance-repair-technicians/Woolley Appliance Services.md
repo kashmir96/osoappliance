@@ -1,7 +1,7 @@
 ---
 title: Woolley Appliance Services
 keywords: Woolley Appliance Services Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

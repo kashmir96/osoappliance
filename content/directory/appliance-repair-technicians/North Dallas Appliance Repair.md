@@ -1,7 +1,7 @@
 ---
 title: North Dallas Appliance Repair
 keywords: North Dallas Appliance Repair Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

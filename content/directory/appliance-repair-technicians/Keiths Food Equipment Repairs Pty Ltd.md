@@ -1,7 +1,7 @@
 ---
 title: Keiths Food Equipment Repairs Pty Ltd
 keywords: Keiths Food Equipment Repairs Pty Ltd Appliance Repair Technician Gold-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Maple Leaf Ace Electric Domestic Appliances Ltd
 keywords: Maple Leaf Ace Electric Domestic Appliances Ltd Appliance Repair Technician Kingston upon Hull United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis

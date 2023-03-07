@@ -1,7 +1,7 @@
 ---
 title: Fort Worth Appliance Pros Commercial Refrigeration
 keywords: Fort Worth Appliance Pros Commercial Refrigeration Appliance Repair Technician Fort Worth United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis

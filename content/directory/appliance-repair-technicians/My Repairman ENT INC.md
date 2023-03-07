@@ -1,7 +1,7 @@
 ---
 title: My Repairman ENT INC
 keywords: My Repairman ENT INC Appliance Repair Technician San Antonio United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis

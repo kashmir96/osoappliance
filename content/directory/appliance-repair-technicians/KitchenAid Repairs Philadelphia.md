@@ -1,7 +1,7 @@
 ---
 title: KitchenAid Repairs Philadelphia
 keywords: KitchenAid Repairs Philadelphia Appliance Repair Technician Philadelphia United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis

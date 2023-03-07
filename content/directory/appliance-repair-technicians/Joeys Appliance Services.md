@@ -1,7 +1,7 @@
 ---
 title: Joeys Appliance Services
 keywords: Joeys Appliance Services Appliance Repair Technician Geelong Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis

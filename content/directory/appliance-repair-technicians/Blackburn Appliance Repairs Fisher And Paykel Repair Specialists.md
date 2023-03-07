@@ -1,7 +1,7 @@
 ---
 title: Blackburn Appliance Repairs Fisher And Paykel Repair Specialists
 keywords: Blackburn Appliance Repairs Fisher And Paykel Repair Specialists Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

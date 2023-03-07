@@ -1,7 +1,7 @@
 ---
 title: Techy Appliance Repairs
 keywords: Techy Appliance Repairs Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

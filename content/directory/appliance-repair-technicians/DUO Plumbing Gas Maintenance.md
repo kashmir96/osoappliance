@@ -1,7 +1,7 @@
 ---
 title: DUO Plumbing Gas Maintenance
 keywords: DUO Plumbing Gas Maintenance Appliance Repair Technician Darwin Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis

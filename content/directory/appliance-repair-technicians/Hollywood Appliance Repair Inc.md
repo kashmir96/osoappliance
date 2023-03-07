@@ -1,7 +1,7 @@
 ---
 title: Hollywood Appliance Repair Inc
 keywords: Hollywood Appliance Repair Inc Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

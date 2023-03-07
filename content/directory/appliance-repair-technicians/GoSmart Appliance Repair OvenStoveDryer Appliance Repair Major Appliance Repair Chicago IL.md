@@ -1,7 +1,7 @@
 ---
 title: GoSmart Appliance Repair OvenStoveDryer Appliance Repair Major Appliance Repair Chicago IL
 keywords: GoSmart Appliance Repair OvenStoveDryer Appliance Repair Major Appliance Repair Chicago IL Appliance Repair Technician Chicago United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis

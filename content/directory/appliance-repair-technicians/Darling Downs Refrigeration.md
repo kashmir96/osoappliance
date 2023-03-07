@@ -1,7 +1,7 @@
 ---
 title: Darling Downs Refrigeration
 keywords: Darling Downs Refrigeration Appliance Repair Technician Toowoomba Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis

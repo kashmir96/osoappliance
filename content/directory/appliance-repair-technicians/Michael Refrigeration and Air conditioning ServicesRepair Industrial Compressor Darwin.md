@@ -1,7 +1,7 @@
 ---
 title: Michael Refrigeration and Air conditioning ServicesRepair Industrial Compressor Darwin
 keywords: Michael Refrigeration and Air conditioning ServicesRepair Industrial Compressor Darwin Appliance Repair Technician Darwin Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis

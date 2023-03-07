@@ -1,7 +1,7 @@
 ---
 title: Universal Appliance repair
 keywords: Universal Appliance repair Appliance Repair Technician New York City United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["New York City"]
 author: Curtis

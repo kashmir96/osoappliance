@@ -1,7 +1,7 @@
 ---
 title: Robinson Boiler Repairs Service New Installations Newcastle
 keywords: Robinson Boiler Repairs Service New Installations Newcastle Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

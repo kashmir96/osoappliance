@@ -1,7 +1,7 @@
 ---
 title: Modern Appliance Repair
 keywords: Modern Appliance Repair Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

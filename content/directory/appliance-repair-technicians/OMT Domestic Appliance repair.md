@@ -1,7 +1,7 @@
 ---
 title: OMT Domestic Appliance repair
 keywords: OMT Domestic Appliance repair Appliance Repair Technician Leeds United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis

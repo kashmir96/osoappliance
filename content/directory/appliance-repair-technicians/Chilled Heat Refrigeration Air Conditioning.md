@@ -1,7 +1,7 @@
 ---
 title: Chilled Heat Refrigeration Air Conditioning
 keywords: Chilled Heat Refrigeration Air Conditioning Appliance Repair Technician Hervey-Bay Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis

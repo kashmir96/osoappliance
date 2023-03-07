@@ -1,7 +1,7 @@
 ---
 title: All Austin Repairs
 keywords: All Austin Repairs Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

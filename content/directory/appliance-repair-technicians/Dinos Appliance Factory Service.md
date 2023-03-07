@@ -1,7 +1,7 @@
 ---
 title: Dinos Appliance Factory Service
 keywords: Dinos Appliance Factory Service Appliance Repair Technician Phoenix United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis

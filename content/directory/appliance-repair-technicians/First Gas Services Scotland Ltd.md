@@ -1,7 +1,7 @@
 ---
 title: First Gas Services Scotland Ltd
 keywords: First Gas Services Scotland Ltd Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

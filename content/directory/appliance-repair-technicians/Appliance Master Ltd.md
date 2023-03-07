@@ -1,7 +1,7 @@
 ---
 title: Appliance Master Ltd
 keywords: Appliance Master Ltd Appliance Repair Technician Coventry United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis

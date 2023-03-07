@@ -1,7 +1,7 @@
 ---
 title: Quick Thermador repair service
 keywords: Quick Thermador repair service Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

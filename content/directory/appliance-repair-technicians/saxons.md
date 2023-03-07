@@ -1,7 +1,7 @@
 ---
 title: Saxons
 keywords: "New Zealand Auckland"
-type: "Appliance Repair Technician, Parts"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Plumbers Derby
 keywords: Plumbers Derby Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

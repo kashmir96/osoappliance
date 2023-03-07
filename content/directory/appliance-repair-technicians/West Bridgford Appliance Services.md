@@ -1,7 +1,7 @@
 ---
 title: West Bridgford Appliance Services
 keywords: West Bridgford Appliance Services Appliance Repair Technician Nottingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis

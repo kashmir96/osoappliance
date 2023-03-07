@@ -1,7 +1,7 @@
 ---
 title: C W Appliance Repair
 keywords: C W Appliance Repair Appliance Repair Technician Kingston upon Hull United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis

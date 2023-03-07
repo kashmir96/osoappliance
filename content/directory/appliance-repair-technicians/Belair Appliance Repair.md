@@ -1,7 +1,7 @@
 ---
 title: Belair Appliance Repair
 keywords: Belair Appliance Repair Appliance Repair Technician Philadelphia United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis

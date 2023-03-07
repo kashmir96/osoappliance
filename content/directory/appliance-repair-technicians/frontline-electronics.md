@@ -1,7 +1,7 @@
 ---
 title: Frontline Electronics
 keywords: "New Zealand Dunedin"
-type: "Parts, Appliance Repair Technician"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Dunedin"]
 author: Curtis

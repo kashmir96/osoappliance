@@ -1,7 +1,7 @@
 ---
 title: Etta Plumbing Heating Services Ltd
 keywords: Etta Plumbing Heating Services Ltd Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

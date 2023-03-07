@@ -1,7 +1,7 @@
 ---
 title: Newcastle Appliance Repairs
 keywords: Newcastle Appliance Repairs Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

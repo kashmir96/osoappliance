@@ -1,7 +1,7 @@
 ---
 title: Best Service Company Appliance Repair
 keywords: Best Service Company Appliance Repair Appliance Repair Technician Denver United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Denver"]
 author: Curtis

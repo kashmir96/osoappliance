@@ -1,7 +1,7 @@
 ---
 title: JD Appliance repair service
 keywords: JD Appliance repair service Appliance Repair Technician San Francisco United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis

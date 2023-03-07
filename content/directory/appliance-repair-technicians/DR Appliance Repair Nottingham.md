@@ -1,7 +1,7 @@
 ---
 title: DR Appliance Repair Nottingham
 keywords: DR Appliance Repair Nottingham Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

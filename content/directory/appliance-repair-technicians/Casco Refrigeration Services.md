@@ -1,7 +1,7 @@
 ---
 title: Casco Refrigeration Services
 keywords: Casco Refrigeration Services Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

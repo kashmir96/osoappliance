@@ -1,7 +1,7 @@
 ---
 title: Profix Appliance Service
 keywords: Profix Appliance Service Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

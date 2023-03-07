@@ -1,7 +1,7 @@
 ---
 title: Complete AirConditioning Refrigeration PTY LTD
 keywords: Complete AirConditioning Refrigeration PTY LTD Appliance Repair Technician Darwin Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis

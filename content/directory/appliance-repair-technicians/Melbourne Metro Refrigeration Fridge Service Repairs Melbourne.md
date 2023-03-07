@@ -1,7 +1,7 @@
 ---
 title: Melbourne Metro Refrigeration Fridge Service Repairs Melbourne
 keywords: Melbourne Metro Refrigeration Fridge Service Repairs Melbourne Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

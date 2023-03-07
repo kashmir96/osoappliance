@@ -1,7 +1,7 @@
 ---
 title: Eco Refrigeration Ltd
 keywords: Eco Refrigeration Ltd Appliance Repair Technician Glasgow United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis

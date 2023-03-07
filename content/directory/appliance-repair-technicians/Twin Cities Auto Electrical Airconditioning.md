@@ -1,7 +1,7 @@
 ---
 title: Twin Cities Auto Electrical Airconditioning
 keywords: Twin Cities Auto Electrical Airconditioning Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

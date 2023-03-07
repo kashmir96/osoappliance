@@ -1,7 +1,7 @@
 ---
 title: Barclays Appliance Centre
 keywords: Barclays Appliance Centre Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

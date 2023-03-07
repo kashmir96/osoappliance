@@ -1,7 +1,7 @@
 ---
 title: Edinburgh Emergency Plumbing and Boiler Repair
 keywords: Edinburgh Emergency Plumbing and Boiler Repair Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Austin Appliance Masters
 keywords: Austin Appliance Masters Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

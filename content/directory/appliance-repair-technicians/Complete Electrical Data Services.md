@@ -1,7 +1,7 @@
 ---
 title: Complete Electrical Data Services
 keywords: Complete Electrical Data Services Appliance Repair Technician Launceston Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: East Lake Refrigeration and Air Conditioning
 keywords: East Lake Refrigeration and Air Conditioning Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

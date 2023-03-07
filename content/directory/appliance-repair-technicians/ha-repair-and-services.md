@@ -1,7 +1,7 @@
 ---
 title: Ha Repair And Services
 keywords: "New Zealand Oamaru"
-type: "Appliance Repair Technicians"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Oamaru"]
 author: Curtis

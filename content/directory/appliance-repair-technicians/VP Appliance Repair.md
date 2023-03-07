@@ -1,7 +1,7 @@
 ---
 title: VP Appliance Repair
 keywords: VP Appliance Repair Appliance Repair Technician Denver United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Denver"]
 author: Curtis

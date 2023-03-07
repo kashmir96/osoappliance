@@ -1,7 +1,7 @@
 ---
 title: The TV Service Centre
 keywords: "New Zealand Christchurch"
-type: "Appliance Repair Technician, Installation"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis

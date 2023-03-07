@@ -1,7 +1,7 @@
 ---
 title: Coles Refrigeration Air Conditioning
 keywords: Coles Refrigeration Air Conditioning Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

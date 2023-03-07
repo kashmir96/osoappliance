@@ -1,7 +1,7 @@
 ---
 title: Spectrum Appliance Repair
 keywords: Spectrum Appliance Repair Appliance Repair Technician San Jose United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis

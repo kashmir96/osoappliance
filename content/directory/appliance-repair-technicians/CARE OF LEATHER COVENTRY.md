@@ -1,7 +1,7 @@
 ---
 title: CARE OF LEATHER COVENTRY
 keywords: CARE OF LEATHER COVENTRY Appliance Repair Technician Coventry United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis

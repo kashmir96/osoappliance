@@ -1,7 +1,7 @@
 ---
 title: Bells Domestics
 keywords: Bells Domestics Appliance Repair Technician Leeds United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis

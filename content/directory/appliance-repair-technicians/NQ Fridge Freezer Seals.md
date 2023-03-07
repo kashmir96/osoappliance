@@ -1,7 +1,7 @@
 ---
 title: NQ Fridge Freezer Seals
 keywords: NQ Fridge Freezer Seals Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

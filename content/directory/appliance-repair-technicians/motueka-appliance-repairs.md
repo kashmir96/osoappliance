@@ -1,7 +1,7 @@
 ---
 title: Motueka Appliance Repairs
 keywords: "New Zealand Nelson"
-type: "Appliance Repair Technician, Installation, Appliance Removal"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Nelson"]
 author: Curtis

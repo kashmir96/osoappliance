@@ -1,7 +1,7 @@
 ---
 title: MK Plumbing Heating Engineer Electrical Service
 keywords: MK Plumbing Heating Engineer Electrical Service Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

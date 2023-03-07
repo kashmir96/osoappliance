@@ -1,7 +1,7 @@
 ---
 title: Expert Domestic Appliance Services Ltd
 keywords: Expert Domestic Appliance Services Ltd Appliance Repair Technician Southampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis

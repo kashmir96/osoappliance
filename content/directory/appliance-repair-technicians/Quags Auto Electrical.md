@@ -1,7 +1,7 @@
 ---
 title: Quags Auto Electrical
 keywords: Quags Auto Electrical Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

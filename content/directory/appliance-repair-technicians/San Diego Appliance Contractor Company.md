@@ -1,7 +1,7 @@
 ---
 title: San Diego Appliance Contractor Company
 keywords: San Diego Appliance Contractor Company Appliance Repair Technician San Diego United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: JBH Plumbing
 keywords: JBH Plumbing Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

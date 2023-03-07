@@ -1,7 +1,7 @@
 ---
 title: Mr Appliance of San Antonio
 keywords: Mr Appliance of San Antonio Appliance Repair Technician San Antonio United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis

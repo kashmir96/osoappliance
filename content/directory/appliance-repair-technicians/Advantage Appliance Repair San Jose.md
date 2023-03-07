@@ -1,7 +1,7 @@
 ---
 title: Advantage Appliance Repair San Jose
 keywords: Advantage Appliance Repair San Jose Appliance Repair Technician San Jose United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Marsh Appliance Care
 keywords: Marsh Appliance Care Appliance Repair Technician Geelong Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis

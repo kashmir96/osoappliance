@@ -1,7 +1,7 @@
 ---
 title: Celsius Heating and Cooling
 keywords: Celsius Heating and Cooling Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

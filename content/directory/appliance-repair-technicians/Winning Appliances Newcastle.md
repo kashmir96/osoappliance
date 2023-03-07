@@ -1,7 +1,7 @@
 ---
 title: Winning Appliances Newcastle
 keywords: Winning Appliances Newcastle Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

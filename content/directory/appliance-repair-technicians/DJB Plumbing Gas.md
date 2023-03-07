@@ -1,7 +1,7 @@
 ---
 title: DJB Plumbing Gas
 keywords: DJB Plumbing Gas Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

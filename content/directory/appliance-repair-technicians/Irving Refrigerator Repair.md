@@ -1,7 +1,7 @@
 ---
 title: Irving Refrigerator Repair
 keywords: Irving Refrigerator Repair Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

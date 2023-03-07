@@ -1,7 +1,7 @@
 ---
 title: John Caldwell Son Domestic Appliance Repairs
 keywords: John Caldwell Son Domestic Appliance Repairs Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Henry Vacuum Numatic Repairs and Spares
 keywords: Henry Vacuum Numatic Repairs and Spares Appliance Repair Technician Bristol United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis

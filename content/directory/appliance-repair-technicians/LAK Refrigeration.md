@@ -1,7 +1,7 @@
 ---
 title: LAK Refrigeration
 keywords: LAK Refrigeration Appliance Repair Technician Portsmouth United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: David Love Electrical Plumbing
 keywords: David Love Electrical Plumbing Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Masterminds of Appliances LLC
 keywords: Masterminds of Appliances LLC Appliance Repair Technician Houston United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Houston"]
 author: Curtis

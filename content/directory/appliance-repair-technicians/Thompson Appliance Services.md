@@ -1,7 +1,7 @@
 ---
 title: Thompson Appliance Services
 keywords: Thompson Appliance Services Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

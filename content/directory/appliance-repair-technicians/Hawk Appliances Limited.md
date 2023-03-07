@@ -1,7 +1,7 @@
 ---
 title: Hawk Appliances Limited
 keywords: Hawk Appliances Limited Appliance Repair Technician Manchester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis

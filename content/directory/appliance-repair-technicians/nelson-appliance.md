@@ -1,7 +1,7 @@
 ---
 title: Nelson Appliance
 keywords: "New Zealand Nelson"
-type: "Parts, Appliance Repair Technician"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Nelson"]
 author: Curtis

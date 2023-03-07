@@ -1,7 +1,7 @@
 ---
 title: S OBrien Heating Solutions
 keywords: S OBrien Heating Solutions Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

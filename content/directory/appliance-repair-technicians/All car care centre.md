@@ -1,7 +1,7 @@
 ---
 title: All car care centre
 keywords: All car care centre Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Clevedon Domestics
 keywords: Clevedon Domestics Appliance Repair Technician Bristol United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis

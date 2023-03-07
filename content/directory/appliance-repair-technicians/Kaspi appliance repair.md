@@ -1,7 +1,7 @@
 ---
 title: Kaspi appliance repair
 keywords: Kaspi appliance repair Appliance Repair Technician Houston United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Houston"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: M60 Appliance Repairs
 keywords: M60 Appliance Repairs Appliance Repair Technician Manchester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis

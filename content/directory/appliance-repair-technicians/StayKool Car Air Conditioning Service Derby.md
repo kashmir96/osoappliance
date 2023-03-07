@@ -1,7 +1,7 @@
 ---
 title: StayKool Car Air Conditioning Service Derby
 keywords: StayKool Car Air Conditioning Service Derby Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

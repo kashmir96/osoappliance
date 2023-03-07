@@ -1,7 +1,7 @@
 ---
 title: Nicholas Wilshire Plumbing Pty Ltd
 keywords: Nicholas Wilshire Plumbing Pty Ltd Appliance Repair Technician Toowoomba Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis

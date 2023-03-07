@@ -1,7 +1,7 @@
 ---
 title: ACT Blocked Drains Plumber Canberra
 keywords: ACT Blocked Drains Plumber Canberra Appliance Repair Technician Canberra Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis

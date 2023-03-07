@@ -1,7 +1,7 @@
 ---
 title: Pat Testing Expert Ltd
 keywords: Pat Testing Expert Ltd Appliance Repair Technician Kingston upon Hull United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Paul Newman Domestic Appliance Repairs Spares New
 keywords: Paul Newman Domestic Appliance Repairs Spares New Appliance Repair Technician Coventry United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis

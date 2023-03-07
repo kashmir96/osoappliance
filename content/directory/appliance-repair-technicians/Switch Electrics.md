@@ -1,7 +1,7 @@
 ---
 title: Switch Electrics
 keywords: Switch Electrics Appliance Repair Technician Adelaide Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis

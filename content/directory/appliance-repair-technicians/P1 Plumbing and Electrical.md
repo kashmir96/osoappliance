@@ -1,7 +1,7 @@
 ---
 title: P1 Plumbing and Electrical
 keywords: P1 Plumbing and Electrical Appliance Repair Technician Canberra Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis

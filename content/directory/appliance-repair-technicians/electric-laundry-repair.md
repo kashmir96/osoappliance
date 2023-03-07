@@ -1,7 +1,7 @@
 ---
 title: Electric Laundry Repair
 keywords: "New Zealand Hamilton"
-type: "Appliance Repair Technicians"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis

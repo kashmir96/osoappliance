@@ -1,7 +1,7 @@
 ---
 title: John Thomas Electrical
 keywords: John Thomas Electrical Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

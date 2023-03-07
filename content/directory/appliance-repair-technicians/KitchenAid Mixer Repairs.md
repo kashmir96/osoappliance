@@ -1,7 +1,7 @@
 ---
 title: KitchenAid Mixer Repairs
 keywords: KitchenAid Mixer Repairs Appliance Repair Technician Adelaide Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis

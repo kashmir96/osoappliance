@@ -1,7 +1,7 @@
 ---
 title: CW Appliance Repair Service
 keywords: CW Appliance Repair Service Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

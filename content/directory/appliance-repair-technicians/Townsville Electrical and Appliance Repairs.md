@@ -1,7 +1,7 @@
 ---
 title: Townsville Electrical and Appliance Repairs
 keywords: Townsville Electrical and Appliance Repairs Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

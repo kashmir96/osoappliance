@@ -1,7 +1,7 @@
 ---
 title: DC Appliance Service LLC
 keywords: DC Appliance Service LLC Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

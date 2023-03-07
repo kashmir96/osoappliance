@@ -1,7 +1,7 @@
 ---
 title: DR Appliance Repairs Derby
 keywords: DR Appliance Repairs Derby Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

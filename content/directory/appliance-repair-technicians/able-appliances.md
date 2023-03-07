@@ -1,7 +1,7 @@
 ---
 title: Able Appliances
 keywords: "New Zealand Auckland"
-type: "New Appliances, Appliance Repair Technician, Installation"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis

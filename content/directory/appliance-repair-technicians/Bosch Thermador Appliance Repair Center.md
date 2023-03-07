@@ -1,7 +1,7 @@
 ---
 title: Bosch Thermador Appliance Repair Center
 keywords: Bosch Thermador Appliance Repair Center Appliance Repair Technician San Diego United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis

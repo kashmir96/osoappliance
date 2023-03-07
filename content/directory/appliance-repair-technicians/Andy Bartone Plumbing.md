@@ -1,7 +1,7 @@
 ---
 title: Andy Bartone Plumbing
 keywords: Andy Bartone Plumbing Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

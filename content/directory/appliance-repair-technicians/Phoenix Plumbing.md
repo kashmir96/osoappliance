@@ -1,7 +1,7 @@
 ---
 title: Phoenix Plumbing
 keywords: Phoenix Plumbing Appliance Repair Technician Bendigo Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis

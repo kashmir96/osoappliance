@@ -1,7 +1,7 @@
 ---
 title: Amos Appliance Repairs
 keywords: "New Zealand Nelson"
-type: "Appliance Repair Technician, Second hand appliances"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Nelson"]
 author: Curtis

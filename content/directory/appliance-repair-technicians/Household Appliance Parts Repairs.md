@@ -1,7 +1,7 @@
 ---
 title: Household Appliance Parts Repairs
 keywords: Household Appliance Parts Repairs Appliance Repair Technician Perth Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis

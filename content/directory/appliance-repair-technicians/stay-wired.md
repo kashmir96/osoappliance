@@ -1,7 +1,7 @@
 ---
 title: Stay Wired
 keywords: "New Zealand Masterton"
-type: "Appliance Repair Technicians"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Masterton"]
 author: Curtis

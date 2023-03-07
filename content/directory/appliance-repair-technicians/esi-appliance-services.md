@@ -1,7 +1,7 @@
 ---
 title: ESI Appliance Services, Auckland
 keywords: "New Zealand Queenstown, Auckland"
-type: "Appliance Repair Technician, Installation, Appliance Rental, Second hand appliances"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Queenstown, Auckland"]
 author: Curtis

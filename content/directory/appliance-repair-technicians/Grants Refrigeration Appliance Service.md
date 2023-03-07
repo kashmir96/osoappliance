@@ -1,7 +1,7 @@
 ---
 title: Grants Refrigeration Appliance Service
 keywords: Grants Refrigeration Appliance Service Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

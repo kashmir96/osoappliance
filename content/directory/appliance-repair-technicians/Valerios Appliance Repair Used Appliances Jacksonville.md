@@ -1,7 +1,7 @@
 ---
 title: Valerios Appliance Repair Used Appliances Jacksonville
 keywords: Valerios Appliance Repair Used Appliances Jacksonville Appliance Repair Technician Jacksonville United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis

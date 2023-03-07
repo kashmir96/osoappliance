@@ -1,7 +1,7 @@
 ---
 title: Complete Appliance Repair Denver Metro Area and Beyond
 keywords: Complete Appliance Repair Denver Metro Area and Beyond Appliance Repair Technician Denver United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Denver"]
 author: Curtis

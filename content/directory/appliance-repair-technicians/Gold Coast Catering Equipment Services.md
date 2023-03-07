@@ -1,7 +1,7 @@
 ---
 title: Gold Coast Catering Equipment Services
 keywords: Gold Coast Catering Equipment Services Appliance Repair Technician Gold-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: MARRS Domestics
 keywords: MARRS Domestics Appliance Repair Technician Coventry United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis

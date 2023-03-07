@@ -1,7 +1,7 @@
 ---
 title: Tonkin
 keywords: Tonkin Appliance Repair Technician Albury Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis

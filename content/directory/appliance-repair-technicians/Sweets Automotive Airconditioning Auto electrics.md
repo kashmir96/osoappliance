@@ -1,7 +1,7 @@
 ---
 title: Sweets Automotive Airconditioning Auto electrics
 keywords: Sweets Automotive Airconditioning Auto electrics Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

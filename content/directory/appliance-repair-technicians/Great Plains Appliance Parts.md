@@ -1,7 +1,7 @@
 ---
 title: Great Plains Appliance Parts
 keywords: Great Plains Appliance Parts Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

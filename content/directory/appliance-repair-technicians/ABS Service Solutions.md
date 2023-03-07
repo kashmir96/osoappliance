@@ -1,7 +1,7 @@
 ---
 title: ABS Service Solutions
 keywords: ABS Service Solutions Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

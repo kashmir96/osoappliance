@@ -1,7 +1,7 @@
 ---
 title: 858 Appliance Service
 keywords: 858 Appliance Service Appliance Repair Technician San Diego United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis

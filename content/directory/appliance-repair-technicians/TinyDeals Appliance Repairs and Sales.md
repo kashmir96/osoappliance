@@ -1,7 +1,7 @@
 ---
 title: TinyDeals Appliance Repairs and Sales
 keywords: TinyDeals Appliance Repairs and Sales Appliance Repair Technician Leeds United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis

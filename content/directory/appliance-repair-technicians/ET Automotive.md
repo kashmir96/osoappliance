@@ -1,7 +1,7 @@
 ---
 title: ET Automotive
 keywords: ET Automotive Appliance Repair Technician Rockhampton Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis

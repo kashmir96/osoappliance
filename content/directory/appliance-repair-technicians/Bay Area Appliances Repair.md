@@ -1,7 +1,7 @@
 ---
 title: Bay Area Appliances Repair
 keywords: Bay Area Appliances Repair Appliance Repair Technician San Francisco United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis

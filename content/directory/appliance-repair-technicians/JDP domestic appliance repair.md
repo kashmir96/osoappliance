@@ -1,7 +1,7 @@
 ---
 title: JDP domestic appliance repair
 keywords: JDP domestic appliance repair Appliance Repair Technician Bristol United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis

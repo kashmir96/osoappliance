@@ -1,7 +1,7 @@
 ---
 title: Appliance Care, Auckland
 keywords: "New Zealand Wellington, Auckland"
-type: "Parts, Appliance Repair Technician"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington, Auckland"]
 author: Curtis

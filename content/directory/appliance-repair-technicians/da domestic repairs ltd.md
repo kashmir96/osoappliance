@@ -1,7 +1,7 @@
 ---
 title: da domestic repairs ltd
 keywords: da domestic repairs ltd Appliance Repair Technician Manchester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis

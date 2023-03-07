@@ -1,7 +1,7 @@
 ---
 title: Vertex Home Services Inc
 keywords: Vertex Home Services Inc Appliance Repair Technician Washington United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Washington"]
 author: Curtis

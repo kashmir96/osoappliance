@@ -1,7 +1,7 @@
 ---
 title: Yes Appliance Repair Service Seattle WA
 keywords: Yes Appliance Repair Service Seattle WA Appliance Repair Technician Seattle United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Columbus Appliance Repair
 keywords: Columbus Appliance Repair Appliance Repair Technician Columbus United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Columbus"]
 author: Curtis

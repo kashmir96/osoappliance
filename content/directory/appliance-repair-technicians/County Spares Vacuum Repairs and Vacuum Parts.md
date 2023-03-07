@@ -1,7 +1,7 @@
 ---
 title: County Spares Vacuum Repairs and Vacuum Parts
 keywords: County Spares Vacuum Repairs and Vacuum Parts Appliance Repair Technician Nottingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis

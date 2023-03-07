@@ -1,7 +1,7 @@
 ---
 title: Domestic Appliance Repairs Melbourne Dishwasher Oven Repairs Westinghouse Smeg Bosch
 keywords: Domestic Appliance Repairs Melbourne Dishwasher Oven Repairs Westinghouse Smeg Bosch Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Domestic Appliance Repair Centre
 keywords: Domestic Appliance Repair Centre Appliance Repair Technician Birmingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis

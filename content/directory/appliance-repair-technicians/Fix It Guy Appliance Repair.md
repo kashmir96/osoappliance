@@ -1,7 +1,7 @@
 ---
 title: Fix It Guy Appliance Repair
 keywords: Fix It Guy Appliance Repair Appliance Repair Technician Chicago United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis

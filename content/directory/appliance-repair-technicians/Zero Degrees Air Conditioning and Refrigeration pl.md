@@ -1,7 +1,7 @@
 ---
 title: Zero Degrees Air Conditioning and Refrigeration pl
 keywords: Zero Degrees Air Conditioning and Refrigeration pl Appliance Repair Technician Toowoomba Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis

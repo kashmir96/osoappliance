@@ -1,7 +1,7 @@
 ---
 title: Nottingham Gas Plumbing
 keywords: Nottingham Gas Plumbing Appliance Repair Technician Nottingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis

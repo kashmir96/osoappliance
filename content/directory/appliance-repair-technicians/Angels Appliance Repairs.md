@@ -1,7 +1,7 @@
 ---
 title: Angels Appliance Repairs
 keywords: Angels Appliance Repairs Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

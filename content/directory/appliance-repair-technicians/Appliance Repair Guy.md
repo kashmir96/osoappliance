@@ -1,7 +1,7 @@
 ---
 title: Appliance Repair Guy
 keywords: Appliance Repair Guy Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

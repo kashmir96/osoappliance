@@ -1,7 +1,7 @@
 ---
 title: A Christian Appliance Repair Inc
 keywords: A Christian Appliance Repair Inc Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

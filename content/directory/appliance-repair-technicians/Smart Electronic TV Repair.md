@@ -1,7 +1,7 @@
 ---
 title: Smart Electronic TV Repair
 keywords: Smart Electronic TV Repair Appliance Repair Technician Manchester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis

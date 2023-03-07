@@ -1,7 +1,7 @@
 ---
 title: Ballarat Plumbing Services
 keywords: Ballarat Plumbing Services Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

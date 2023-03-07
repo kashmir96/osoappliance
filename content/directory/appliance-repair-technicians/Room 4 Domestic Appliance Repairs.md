@@ -1,7 +1,7 @@
 ---
 title: Room 4 Domestic Appliance Repairs
 keywords: Room 4 Domestic Appliance Repairs Appliance Repair Technician Glasgow United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis

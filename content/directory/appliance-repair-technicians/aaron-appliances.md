@@ -1,7 +1,7 @@
 ---
 title: Aaron Appliances
 keywords: "New Zealand Auckland"
-type: "Appliance Repair Technician, Second hand appliances"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis

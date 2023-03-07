@@ -1,7 +1,7 @@
 ---
 title: Adelaide Washing Machine Repairs
 keywords: Adelaide Washing Machine Repairs Appliance Repair Technician Adelaide Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis

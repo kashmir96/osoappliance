@@ -1,7 +1,7 @@
 ---
 title: Oven Repairs Perth Stove Man
 keywords: Oven Repairs Perth Stove Man Appliance Repair Technician Perth Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Tap Doctor Plumbing Perth
 keywords: Tap Doctor Plumbing Perth Appliance Repair Technician Perth Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis

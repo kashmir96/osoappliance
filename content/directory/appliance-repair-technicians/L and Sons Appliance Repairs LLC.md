@@ -1,7 +1,7 @@
 ---
 title: L and Sons Appliance Repairs LLC
 keywords: L and Sons Appliance Repairs LLC Appliance Repair Technician Washington United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Washington"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Lothian Domestics Ltd
 keywords: Lothian Domestics Ltd Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

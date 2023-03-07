@@ -1,7 +1,7 @@
 ---
 title: B N Appliance Repair Inc
 keywords: B N Appliance Repair Inc Appliance Repair Technician Jacksonville United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis

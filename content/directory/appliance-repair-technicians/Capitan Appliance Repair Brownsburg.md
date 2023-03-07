@@ -1,7 +1,7 @@
 ---
 title: Capitan Appliance Repair Brownsburg
 keywords: Capitan Appliance Repair Brownsburg Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Arrive On Time Appliance Services
 keywords: Arrive On Time Appliance Services Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Vortex Appliance Repair Installation
 keywords: Vortex Appliance Repair Installation Appliance Repair Technician San Diego United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis

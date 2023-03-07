@@ -1,7 +1,7 @@
 ---
 title: Ballarat Blockages Plumbing Pty Ltd
 keywords: Ballarat Blockages Plumbing Pty Ltd Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

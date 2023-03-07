@@ -1,7 +1,7 @@
 ---
 title: Technic Domestic LTD appliance repair air conditioning refrigeration boiler
 keywords: Technic Domestic LTD appliance repair air conditioning refrigeration boiler Appliance Repair Technician Southampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis

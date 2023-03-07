@@ -1,7 +1,7 @@
 ---
 title: Sydney Domestic Appliance Centre
 keywords: Sydney Domestic Appliance Centre Appliance Repair Technician Sydney Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis

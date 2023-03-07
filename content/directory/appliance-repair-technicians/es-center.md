@@ -1,7 +1,7 @@
 ---
 title: ES Center
 keywords: "New Zealand Nelson"
-type: "Second hand appliances, New Appliances, Appliance Repair Technician"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Nelson"]
 author: Curtis

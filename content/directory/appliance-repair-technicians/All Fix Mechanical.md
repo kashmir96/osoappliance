@@ -1,7 +1,7 @@
 ---
 title: All Fix Mechanical
 keywords: All Fix Mechanical Appliance Repair Technician Darwin Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis

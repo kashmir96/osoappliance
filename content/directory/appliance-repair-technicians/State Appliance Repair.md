@@ -1,7 +1,7 @@
 ---
 title: State Appliance Repair
 keywords: State Appliance Repair Appliance Repair Technician Charlotte United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis

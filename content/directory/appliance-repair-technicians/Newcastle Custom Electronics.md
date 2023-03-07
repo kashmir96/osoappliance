@@ -1,7 +1,7 @@
 ---
 title: Newcastle Custom Electronics
 keywords: Newcastle Custom Electronics Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

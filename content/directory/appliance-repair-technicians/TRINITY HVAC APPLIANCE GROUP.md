@@ -1,7 +1,7 @@
 ---
 title: TRINITY HVAC APPLIANCE GROUP
 keywords: TRINITY HVAC APPLIANCE GROUP Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: ULL Used Appliances
 keywords: ULL Used Appliances Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

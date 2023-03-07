@@ -1,7 +1,7 @@
 ---
 title: Nana Appliance Repair San Francisco
 keywords: Nana Appliance Repair San Francisco Appliance Repair Technician San Francisco United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis

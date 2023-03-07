@@ -1,7 +1,7 @@
 ---
 title: Amin Refrigeration HVAC
 keywords: Amin Refrigeration HVAC Appliance Repair Technician Seattle United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis

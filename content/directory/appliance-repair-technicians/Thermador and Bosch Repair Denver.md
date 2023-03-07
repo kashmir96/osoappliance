@@ -1,7 +1,7 @@
 ---
 title: Thermador and Bosch Repair Denver
 keywords: Thermador and Bosch Repair Denver Appliance Repair Technician Denver United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Denver"]
 author: Curtis

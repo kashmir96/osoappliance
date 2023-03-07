@@ -1,7 +1,7 @@
 ---
 title: Atech Appliance Technician Repair Service
 keywords: Atech Appliance Technician Repair Service Appliance Repair Technician San Francisco United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis

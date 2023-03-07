@@ -1,7 +1,7 @@
 ---
 title: Local Appliance Repairs Ltd
 keywords: Local Appliance Repairs Ltd Appliance Repair Technician London United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis

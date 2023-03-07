@@ -1,7 +1,7 @@
 ---
 title: APS Appliance Repairs Spare Parts Supplier
 keywords: APS Appliance Repairs Spare Parts Supplier Appliance Repair Technician Perth Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis

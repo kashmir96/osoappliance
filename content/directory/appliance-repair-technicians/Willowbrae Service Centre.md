@@ -1,7 +1,7 @@
 ---
 title: Willowbrae Service Centre
 keywords: Willowbrae Service Centre Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Appliance Repairs London Please
 keywords: Appliance Repairs London Please Appliance Repair Technician London United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis

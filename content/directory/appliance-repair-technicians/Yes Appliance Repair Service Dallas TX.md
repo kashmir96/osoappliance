@@ -1,7 +1,7 @@
 ---
 title: Yes Appliance Repair Service Dallas TX
 keywords: Yes Appliance Repair Service Dallas TX Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

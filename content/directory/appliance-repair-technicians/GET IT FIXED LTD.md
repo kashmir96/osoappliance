@@ -1,7 +1,7 @@
 ---
 title: GET IT FIXED LTD
 keywords: GET IT FIXED LTD Appliance Repair Technician Birmingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis

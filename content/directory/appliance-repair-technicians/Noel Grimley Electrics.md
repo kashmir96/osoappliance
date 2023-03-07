@@ -1,7 +1,7 @@
 ---
 title: Noel Grimley Electrics
 keywords: Noel Grimley Electrics Appliance Repair Technician Belfast United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis

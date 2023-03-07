@@ -1,7 +1,7 @@
 ---
 title: BuiltIn Kitchen Appliances Ltd
 keywords: BuiltIn Kitchen Appliances Ltd Appliance Repair Technician Liverpool United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis

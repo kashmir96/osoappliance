@@ -1,7 +1,7 @@
 ---
 title: 1st Choice Appliance Repair NYC
 keywords: 1st Choice Appliance Repair NYC Appliance Repair Technician New York City United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["New York City"]
 author: Curtis

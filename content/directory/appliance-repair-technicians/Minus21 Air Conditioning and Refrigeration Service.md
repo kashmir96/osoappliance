@@ -1,7 +1,7 @@
 ---
 title: Minus21 Air Conditioning and Refrigeration Service
 keywords: Minus21 Air Conditioning and Refrigeration Service Appliance Repair Technician Hervey-Bay Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: All Brands Appliance Repairs
 keywords: All Brands Appliance Repairs Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

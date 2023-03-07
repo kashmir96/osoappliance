@@ -1,7 +1,7 @@
 ---
 title: Houston Home Appliance Repair
 keywords: Houston Home Appliance Repair Appliance Repair Technician Houston United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Houston"]
 author: Curtis

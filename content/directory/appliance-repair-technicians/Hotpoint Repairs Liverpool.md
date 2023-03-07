@@ -1,7 +1,7 @@
 ---
 title: Hotpoint Repairs Liverpool
 keywords: Hotpoint Repairs Liverpool Appliance Repair Technician Liverpool United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis

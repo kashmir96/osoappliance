@@ -1,7 +1,7 @@
 ---
 title: Boiler Repairs by Hydrogen Heating
 keywords: Boiler Repairs by Hydrogen Heating Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

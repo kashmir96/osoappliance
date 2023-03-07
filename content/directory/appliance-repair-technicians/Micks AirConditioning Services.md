@@ -1,7 +1,7 @@
 ---
 title: Micks AirConditioning Services
 keywords: Micks AirConditioning Services Appliance Repair Technician Rockhampton Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis

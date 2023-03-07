@@ -1,7 +1,7 @@
 ---
 title: Nottingham Appliance Repairs
 keywords: Nottingham Appliance Repairs Appliance Repair Technician Nottingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis

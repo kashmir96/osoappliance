@@ -1,7 +1,7 @@
 ---
 title: Texas Ice Machine Co
 keywords: Texas Ice Machine Co Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

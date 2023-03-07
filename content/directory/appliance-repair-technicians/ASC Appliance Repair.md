@@ -1,7 +1,7 @@
 ---
 title: ASC Appliance Repair
 keywords: ASC Appliance Repair Appliance Repair Technician Charlotte United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: SOS Whiteware Repair Ltd
 keywords: SOS Whiteware Repair Ltd Appliance Repair Technician Belfast United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis

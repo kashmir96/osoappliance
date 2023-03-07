@@ -1,7 +1,7 @@
 ---
 title: Secure Appliance Repair
 keywords: Secure Appliance Repair Appliance Repair Technician San Jose United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis

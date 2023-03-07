@@ -1,7 +1,7 @@
 ---
 title: New Lambton Plumbing PTY Limited
 keywords: New Lambton Plumbing PTY Limited Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

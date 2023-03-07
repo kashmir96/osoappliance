@@ -1,7 +1,7 @@
 ---
 title: Jason Miekus Plumbing Drainage
 keywords: Jason Miekus Plumbing Drainage Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Astra Appliance Service
 keywords: Astra Appliance Service Appliance Repair Technician Sydney Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis

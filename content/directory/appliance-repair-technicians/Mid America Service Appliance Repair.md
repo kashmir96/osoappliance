@@ -1,7 +1,7 @@
 ---
 title: Mid America Service Appliance Repair
 keywords: Mid America Service Appliance Repair Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Used Appliances
 keywords: "New Zealand Auckland"
-type: "Appliance Repair Technician, Second hand appliances, Appliance Removal, Installation, Delivery, Parts"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis

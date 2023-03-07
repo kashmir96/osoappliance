@@ -1,7 +1,7 @@
 ---
 title: Wallaces Appliance Repairs Parts Sales
 keywords: Wallaces Appliance Repairs Parts Sales Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

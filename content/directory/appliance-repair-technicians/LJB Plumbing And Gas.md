@@ -1,7 +1,7 @@
 ---
 title: LJB Plumbing And Gas
 keywords: LJB Plumbing And Gas Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

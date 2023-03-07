@@ -1,7 +1,7 @@
 ---
 title: A 1 Domestics Washing Machine Repairs
 keywords: A 1 Domestics Washing Machine Repairs Appliance Repair Technician Birmingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis

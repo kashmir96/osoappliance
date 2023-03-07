@@ -1,7 +1,7 @@
 ---
 title: Seattle Commercial Restaurant and Equipment Repair
 keywords: Seattle Commercial Restaurant and Equipment Repair Appliance Repair Technician Seattle United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: SS Spares
 keywords: SS Spares Appliance Repair Technician Coventry United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Quality DC Appliance Repair LLC
 keywords: Quality DC Appliance Repair LLC Appliance Repair Technician Washington United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Washington"]
 author: Curtis

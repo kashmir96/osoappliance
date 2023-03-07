@@ -1,7 +1,7 @@
 ---
 title: CombiNation Gas Heating and Plumbing
 keywords: CombiNation Gas Heating and Plumbing Appliance Repair Technician Southampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis

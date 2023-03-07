@@ -1,7 +1,7 @@
 ---
 title: Jet City Appliance Repair
 keywords: Jet City Appliance Repair Appliance Repair Technician Seattle United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis

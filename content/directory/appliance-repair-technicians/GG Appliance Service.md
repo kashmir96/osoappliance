@@ -1,7 +1,7 @@
 ---
 title: GG Appliance Service
 keywords: GG Appliance Service Appliance Repair Technician New York City United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["New York City"]
 author: Curtis

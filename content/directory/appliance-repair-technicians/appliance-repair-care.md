@@ -1,7 +1,7 @@
 ---
 title: Appliance Repair Care
 keywords: "New Zealand Wanganui"
-type: "Appliance Repair Technicians"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wanganui"]
 author: Curtis

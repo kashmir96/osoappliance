@@ -1,7 +1,7 @@
 ---
 title: Dewar Appliance Repairs
 keywords: Dewar Appliance Repairs Appliance Repair Technician Belfast United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis

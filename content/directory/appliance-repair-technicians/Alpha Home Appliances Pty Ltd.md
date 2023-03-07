@@ -1,7 +1,7 @@
 ---
 title: Alpha Home Appliances Pty Ltd
 keywords: Alpha Home Appliances Pty Ltd Appliance Repair Technician Sydney Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis

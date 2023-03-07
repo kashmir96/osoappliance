@@ -1,7 +1,7 @@
 ---
 title: Graham Greene TV Greenes Television Services
 keywords: Graham Greene TV Greenes Television Services Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

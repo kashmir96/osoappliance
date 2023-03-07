@@ -1,7 +1,7 @@
 ---
 title: Target Appliance Repair Sherman Oaks Los Angeles
 keywords: Target Appliance Repair Sherman Oaks Los Angeles Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

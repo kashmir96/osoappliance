@@ -1,7 +1,7 @@
 ---
 title: Tech1 TV Appliance Repair Centre Canberra
 keywords: Tech1 TV Appliance Repair Centre Canberra Appliance Repair Technician Canberra Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Canberra"]
 author: Curtis

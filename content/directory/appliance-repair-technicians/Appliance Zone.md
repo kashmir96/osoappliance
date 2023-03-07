@@ -1,7 +1,7 @@
 ---
 title: Appliance Zone
 keywords: Appliance Zone Appliance Repair Technician Wolverhampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis

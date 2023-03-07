@@ -1,7 +1,7 @@
 ---
 title: Ves Plumbing and Gas
 keywords: Ves Plumbing and Gas Appliance Repair Technician Toowoomba Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis

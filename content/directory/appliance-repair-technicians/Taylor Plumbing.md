@@ -1,7 +1,7 @@
 ---
 title: Taylor Plumbing
 keywords: Taylor Plumbing Appliance Repair Technician Leicester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Media Service Solutions
 keywords: Media Service Solutions Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

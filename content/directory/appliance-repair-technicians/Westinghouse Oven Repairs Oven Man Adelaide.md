@@ -1,7 +1,7 @@
 ---
 title: Westinghouse Oven Repairs Oven Man Adelaide
 keywords: Westinghouse Oven Repairs Oven Man Adelaide Appliance Repair Technician Adelaide Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis

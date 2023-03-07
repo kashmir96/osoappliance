@@ -1,7 +1,7 @@
 ---
 title: GT Solutions NT
 keywords: GT Solutions NT Appliance Repair Technician Darwin Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis

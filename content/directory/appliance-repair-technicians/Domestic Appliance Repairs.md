@@ -1,7 +1,7 @@
 ---
 title: Domestic Appliance Repairs
 keywords: Domestic Appliance Repairs Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

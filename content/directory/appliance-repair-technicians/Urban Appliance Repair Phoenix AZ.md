@@ -1,7 +1,7 @@
 ---
 title: Urban Appliance Repair Phoenix AZ
 keywords: Urban Appliance Repair Phoenix AZ Appliance Repair Technician Phoenix United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis

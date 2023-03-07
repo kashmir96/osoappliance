@@ -1,7 +1,7 @@
 ---
 title: Patriot Appliance Air Conditioning Repair Service
 keywords: Patriot Appliance Air Conditioning Repair Service Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

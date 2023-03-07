@@ -1,7 +1,7 @@
 ---
 title: Swift Cooker Repair
 keywords: Swift Cooker Repair Appliance Repair Technician Sheffield United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis

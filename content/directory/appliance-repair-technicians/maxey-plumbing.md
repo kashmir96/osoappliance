@@ -1,7 +1,7 @@
 ---
 title: Maxey Plumbing
 keywords: "New Zealand Wellington"
-type: "Appliance Repair Technician, Installation"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis

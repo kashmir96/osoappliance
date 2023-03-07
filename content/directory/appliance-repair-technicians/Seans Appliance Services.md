@@ -1,7 +1,7 @@
 ---
 title: Seans Appliance Services
 keywords: Seans Appliance Services Appliance Repair Technician Bendigo Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Jims Antennas Ballarat
 keywords: Jims Antennas Ballarat Appliance Repair Technician Ballarat Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Ballarat"]
 author: Curtis

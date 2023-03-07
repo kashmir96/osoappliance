@@ -1,7 +1,7 @@
 ---
 title: Jims After Hours Appliance Repair
 keywords: Jims After Hours Appliance Repair Appliance Repair Technician San Antonio United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Antonio"]
 author: Curtis

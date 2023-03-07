@@ -1,7 +1,7 @@
 ---
 title: J Essex Plumbing and Bathroom Specialists
 keywords: J Essex Plumbing and Bathroom Specialists Appliance Repair Technician Coventry United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: One Stop Appliance Repairs
 keywords: One Stop Appliance Repairs Appliance Repair Technician Washington United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Washington"]
 author: Curtis

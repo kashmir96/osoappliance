@@ -1,7 +1,7 @@
 ---
 title: Same Day Appliance Repairs Nottingham
 keywords: Same Day Appliance Repairs Nottingham Appliance Repair Technician Nottingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Nottingham"]
 author: Curtis

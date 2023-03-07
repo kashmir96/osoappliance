@@ -1,7 +1,7 @@
 ---
 title: Smyths Living
 keywords: "New Zealand Dunedin"
-type: "Appliance Repair Technician, Parts, Installation, Second hand appliances, New Appliances"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Dunedin"]
 author: Curtis

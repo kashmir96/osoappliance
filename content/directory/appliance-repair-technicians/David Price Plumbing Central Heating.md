@@ -1,7 +1,7 @@
 ---
 title: David Price Plumbing Central Heating
 keywords: David Price Plumbing Central Heating Appliance Repair Technician Sheffield United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Sheffield"]
 author: Curtis

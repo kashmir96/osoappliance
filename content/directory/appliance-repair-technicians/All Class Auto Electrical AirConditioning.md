@@ -1,7 +1,7 @@
 ---
 title: All Class Auto Electrical AirConditioning
 keywords: All Class Auto Electrical AirConditioning Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

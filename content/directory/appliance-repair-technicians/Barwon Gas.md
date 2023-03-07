@@ -1,7 +1,7 @@
 ---
 title: Barwon Gas
 keywords: Barwon Gas Appliance Repair Technician Geelong Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis

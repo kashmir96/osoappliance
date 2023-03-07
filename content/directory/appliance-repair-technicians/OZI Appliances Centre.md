@@ -1,7 +1,7 @@
 ---
 title: OZI Appliances Centre
 keywords: OZI Appliances Centre Appliance Repair Technician Perth Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis

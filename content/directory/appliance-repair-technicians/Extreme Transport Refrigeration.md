@@ -1,7 +1,7 @@
 ---
 title: Extreme Transport Refrigeration
 keywords: Extreme Transport Refrigeration Appliance Repair Technician Rockhampton Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Rockhampton"]
 author: Curtis

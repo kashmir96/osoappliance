@@ -1,7 +1,7 @@
 ---
 title: SJE PLUMBING AND GAS
 keywords: SJE PLUMBING AND GAS Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

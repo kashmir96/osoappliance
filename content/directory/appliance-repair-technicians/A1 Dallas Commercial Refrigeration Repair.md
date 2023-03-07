@@ -1,7 +1,7 @@
 ---
 title: A1 Dallas Commercial Refrigeration Repair
 keywords: A1 Dallas Commercial Refrigeration Repair Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

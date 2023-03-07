@@ -1,7 +1,7 @@
 ---
 title: Admire Appliance Repair
 keywords: Admire Appliance Repair Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

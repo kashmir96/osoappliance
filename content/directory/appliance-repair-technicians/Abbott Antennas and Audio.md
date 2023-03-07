@@ -1,7 +1,7 @@
 ---
 title: Abbott Antennas and Audio
 keywords: Abbott Antennas and Audio Appliance Repair Technician Hervey-Bay Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis

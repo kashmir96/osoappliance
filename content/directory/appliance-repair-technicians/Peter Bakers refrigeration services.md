@@ -1,7 +1,7 @@
 ---
 title: Peter Bakers refrigeration services
 keywords: Peter Bakers refrigeration services Appliance Repair Technician Liverpool United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis

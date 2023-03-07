@@ -1,7 +1,7 @@
 ---
 title: Washco Appliance Repairs
 keywords: Washco Appliance Repairs Appliance Repair Technician Bristol United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis

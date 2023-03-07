@@ -1,7 +1,7 @@
 ---
 title: Appliance Warehouse
 keywords: "New Zealand Auckland"
-type: "New Appliances, Installation, Delivery"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis

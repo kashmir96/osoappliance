@@ -1,7 +1,7 @@
 ---
 title: EllnLoch Pty Ltd
 keywords: EllnLoch Pty Ltd Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Breaking Point Appliance Repair
 keywords: Breaking Point Appliance Repair Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: RPM Engine Reconditioning And Mechanical
 keywords: RPM Engine Reconditioning And Mechanical Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

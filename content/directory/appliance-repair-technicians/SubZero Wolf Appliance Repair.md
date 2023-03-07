@@ -1,7 +1,7 @@
 ---
 title: SubZero Wolf Appliance Repair
 keywords: SubZero Wolf Appliance Repair Appliance Repair Technician Chicago United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: A1 APPLIANCE REPAIR INC
 keywords: A1 APPLIANCE REPAIR INC Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

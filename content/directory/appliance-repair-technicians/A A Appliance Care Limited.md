@@ -1,7 +1,7 @@
 ---
 title: A A Appliance Care Limited
 keywords: A A Appliance Care Limited Appliance Repair Technician Birmingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Steves Washing Machine Appliance Repairs
 keywords: Steves Washing Machine Appliance Repairs Appliance Repair Technician Adelaide Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis

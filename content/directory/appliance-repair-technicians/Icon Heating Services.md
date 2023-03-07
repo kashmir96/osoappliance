@@ -1,7 +1,7 @@
 ---
 title: Icon Heating Services
 keywords: Icon Heating Services Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

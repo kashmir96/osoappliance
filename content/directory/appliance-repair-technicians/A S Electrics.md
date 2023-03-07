@@ -1,7 +1,7 @@
 ---
 title: A S Electrics
 keywords: A S Electrics Appliance Repair Technician Glasgow United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis

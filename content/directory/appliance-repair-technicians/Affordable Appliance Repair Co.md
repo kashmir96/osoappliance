@@ -1,7 +1,7 @@
 ---
 title: Affordable Appliance Repair Co
 keywords: Affordable Appliance Repair Co Appliance Repair Technician Phoenix United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Queensland Appliance Repair
 keywords: Queensland Appliance Repair Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

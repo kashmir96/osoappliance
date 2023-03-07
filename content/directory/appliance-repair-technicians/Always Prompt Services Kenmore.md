@@ -1,7 +1,7 @@
 ---
 title: Always Prompt Services Kenmore
 keywords: Always Prompt Services Kenmore Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

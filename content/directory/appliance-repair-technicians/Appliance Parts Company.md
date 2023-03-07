@@ -1,7 +1,7 @@
 ---
 title: Appliance Parts Company
 keywords: Appliance Parts Company Appliance Repair Technician San Jose United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis

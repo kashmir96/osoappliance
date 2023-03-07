@@ -1,7 +1,7 @@
 ---
 title: Modern Appliance Services Epping
 keywords: Modern Appliance Services Epping Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

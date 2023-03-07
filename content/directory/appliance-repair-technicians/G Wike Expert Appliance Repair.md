@@ -1,7 +1,7 @@
 ---
 title: G Wike Expert Appliance Repair
 keywords: G Wike Expert Appliance Repair Appliance Repair Technician Jacksonville United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: AJs Appliance Service Repair
 keywords: AJs Appliance Service Repair Appliance Repair Technician Houston United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Houston"]
 author: Curtis

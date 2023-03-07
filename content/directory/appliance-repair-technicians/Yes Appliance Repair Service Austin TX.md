@@ -1,7 +1,7 @@
 ---
 title: Yes Appliance Repair Service Austin TX
 keywords: Yes Appliance Repair Service Austin TX Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

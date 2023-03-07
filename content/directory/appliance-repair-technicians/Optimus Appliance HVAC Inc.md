@@ -1,7 +1,7 @@
 ---
 title: Optimus Appliance HVAC Inc
 keywords: Optimus Appliance HVAC Inc Appliance Repair Technician San Diego United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis

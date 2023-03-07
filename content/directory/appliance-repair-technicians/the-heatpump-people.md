@@ -1,7 +1,7 @@
 ---
 title: The Heatpump People
 keywords: "New Zealand Christchurch"
-type: "Appliance Repair Technician, New Appliances, Installation"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: BNR Refrigeration Air Conditioning
 keywords: BNR Refrigeration Air Conditioning Appliance Repair Technician Toowoomba Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Toowoomba"]
 author: Curtis

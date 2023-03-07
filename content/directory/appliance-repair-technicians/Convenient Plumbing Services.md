@@ -1,7 +1,7 @@
 ---
 title: Convenient Plumbing Services
 keywords: Convenient Plumbing Services Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

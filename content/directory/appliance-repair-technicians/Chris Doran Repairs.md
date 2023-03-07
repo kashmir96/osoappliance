@@ -1,7 +1,7 @@
 ---
 title: Chris Doran Repairs
 keywords: Chris Doran Repairs Appliance Repair Technician Liverpool United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis

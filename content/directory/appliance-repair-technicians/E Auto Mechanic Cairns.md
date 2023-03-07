@@ -1,7 +1,7 @@
 ---
 title: E Auto Mechanic Cairns
 keywords: E Auto Mechanic Cairns Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

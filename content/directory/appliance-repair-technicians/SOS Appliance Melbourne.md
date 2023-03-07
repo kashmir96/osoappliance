@@ -1,7 +1,7 @@
 ---
 title: SOS Appliance Melbourne
 keywords: SOS Appliance Melbourne Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

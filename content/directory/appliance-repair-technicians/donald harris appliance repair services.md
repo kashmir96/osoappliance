@@ -1,7 +1,7 @@
 ---
 title: donald harris appliance repair services
 keywords: donald harris appliance repair services Appliance Repair Technician Jacksonville United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis

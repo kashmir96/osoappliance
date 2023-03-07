@@ -1,7 +1,7 @@
 ---
 title: Morris Waddell Electrical
 keywords: "New Zealand Timaru"
-type: "Appliance Repair Technicians"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Timaru"]
 author: Curtis

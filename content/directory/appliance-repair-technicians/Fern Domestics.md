@@ -1,7 +1,7 @@
 ---
 title: Fern Domestics
 keywords: Fern Domestics Appliance Repair Technician Glasgow United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis

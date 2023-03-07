@@ -1,7 +1,7 @@
 ---
 title: Kennedys ElectricalSpare Parts Service
 keywords: Kennedys ElectricalSpare Parts Service Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

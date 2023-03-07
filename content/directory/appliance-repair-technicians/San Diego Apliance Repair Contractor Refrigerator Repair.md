@@ -1,7 +1,7 @@
 ---
 title: San Diego Apliance Repair Contractor Refrigerator Repair
 keywords: San Diego Apliance Repair Contractor Refrigerator Repair Appliance Repair Technician San Diego United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Diego"]
 author: Curtis

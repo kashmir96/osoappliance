@@ -1,7 +1,7 @@
 ---
 title: Oven Repair Specialist Glasgow and Edinburgh
 keywords: Oven Repair Specialist Glasgow and Edinburgh Appliance Repair Technician Glasgow United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis

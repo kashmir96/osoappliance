@@ -1,7 +1,7 @@
 ---
 title: Control Heating
 keywords: Control Heating Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

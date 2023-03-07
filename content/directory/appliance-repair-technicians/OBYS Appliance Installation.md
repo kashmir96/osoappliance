@@ -1,7 +1,7 @@
 ---
 title: OBYS Appliance Installation
 keywords: OBYS Appliance Installation Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

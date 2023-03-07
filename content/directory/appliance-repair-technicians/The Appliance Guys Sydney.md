@@ -1,7 +1,7 @@
 ---
 title: The Appliance Guys Sydney
 keywords: The Appliance Guys Sydney Appliance Repair Technician Sydney Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis

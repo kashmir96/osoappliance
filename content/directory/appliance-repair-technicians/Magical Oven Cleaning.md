@@ -1,7 +1,7 @@
 ---
 title: Magical Oven Cleaning
 keywords: Magical Oven Cleaning Appliance Repair Technician Launceston Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis

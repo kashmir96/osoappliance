@@ -1,7 +1,7 @@
 ---
 title: Electromart Appliance Repairs and Spares
 keywords: Electromart Appliance Repairs and Spares Appliance Repair Technician Liverpool United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis

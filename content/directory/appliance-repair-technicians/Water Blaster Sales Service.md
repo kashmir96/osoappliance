@@ -1,7 +1,7 @@
 ---
 title: Water Blaster Sales Service
 keywords: Water Blaster Sales Service Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

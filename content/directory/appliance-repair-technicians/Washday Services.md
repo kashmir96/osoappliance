@@ -1,7 +1,7 @@
 ---
 title: Washday Services
 keywords: Washday Services Appliance Repair Technician Portsmouth United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis

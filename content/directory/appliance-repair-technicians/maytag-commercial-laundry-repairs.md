@@ -1,7 +1,7 @@
 ---
 title: MayTag Commercial Laundry Repairs
 keywords: "New Zealand Christchurch"
-type: "Appliance Repair Technician, Second hand appliances, New Appliances"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis

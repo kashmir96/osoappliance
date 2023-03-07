@@ -1,7 +1,7 @@
 ---
 title: AJS Domestic Appliances Ltd
 keywords: AJS Domestic Appliances Ltd Appliance Repair Technician Bristol United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Bristol"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Abbey Road Electrical Services
 keywords: Abbey Road Electrical Services Appliance Repair Technician Liverpool United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis

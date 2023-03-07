@@ -1,7 +1,7 @@
 ---
 title: Ct Appliance Repairs Limited
 keywords: Ct Appliance Repairs Limited Appliance Repair Technician Leicester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis

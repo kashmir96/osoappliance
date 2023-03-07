@@ -1,7 +1,7 @@
 ---
 title: Domestic Appliance Services
 keywords: Domestic Appliance Services Appliance Repair Technician Glasgow United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis

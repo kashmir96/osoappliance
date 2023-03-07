@@ -1,7 +1,7 @@
 ---
 title: SJ Appliance Servicing Limited
 keywords: SJ Appliance Servicing Limited Appliance Repair Technician Belfast United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis

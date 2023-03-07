@@ -1,7 +1,7 @@
 ---
 title: Oven Appliance Fixer Repairs Installs Melbourne
 keywords: Oven Appliance Fixer Repairs Installs Melbourne Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

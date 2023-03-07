@@ -1,7 +1,7 @@
 ---
 title: Graeme Kent Electrical Appliance Geelong Service Pty Ltd
 keywords: Graeme Kent Electrical Appliance Geelong Service Pty Ltd Appliance Repair Technician Geelong Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis

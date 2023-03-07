@@ -1,7 +1,7 @@
 ---
 title: Optimal Plumbing and Heating Ltd
 keywords: Optimal Plumbing and Heating Ltd Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

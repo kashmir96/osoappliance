@@ -1,7 +1,7 @@
 ---
 title: Plumb Plus Victoria Plumbing and Gas Specialist
 keywords: Plumb Plus Victoria Plumbing and Gas Specialist Appliance Repair Technician Bendigo Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: P J W Services
 keywords: P J W Services Appliance Repair Technician Leicester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Appliance World
 keywords: Appliance World Appliance Repair Technician Gold-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Todd Petrie Plumbing Sunshine Coast Plumber
 keywords: Todd Petrie Plumbing Sunshine Coast Plumber Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Hae Home Appliance Engineers
 keywords: Hae Home Appliance Engineers Appliance Repair Technician Glasgow United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Glasgow"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Mr Appliance of Highland Park
 keywords: Mr Appliance of Highland Park Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

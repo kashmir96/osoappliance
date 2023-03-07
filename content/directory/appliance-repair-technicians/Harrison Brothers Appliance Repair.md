@@ -1,7 +1,7 @@
 ---
 title: Harrison Brothers Appliance Repair
 keywords: Harrison Brothers Appliance Repair Appliance Repair Technician Jacksonville United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis

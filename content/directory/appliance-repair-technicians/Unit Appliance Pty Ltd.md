@@ -1,7 +1,7 @@
 ---
 title: Unit Appliance Pty Ltd
 keywords: Unit Appliance Pty Ltd Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

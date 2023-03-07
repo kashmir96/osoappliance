@@ -1,7 +1,7 @@
 ---
 title: Neu Appliance Outlet
 keywords: Neu Appliance Outlet Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

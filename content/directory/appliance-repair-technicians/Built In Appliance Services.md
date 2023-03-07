@@ -1,7 +1,7 @@
 ---
 title: Built In Appliance Services
 keywords: Built In Appliance Services Appliance Repair Technician Manchester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis

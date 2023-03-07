@@ -1,7 +1,7 @@
 ---
 title: Swift Boiler Repair Leicester
 keywords: Swift Boiler Repair Leicester Appliance Repair Technician Leicester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis

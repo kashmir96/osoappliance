@@ -1,7 +1,7 @@
 ---
 title: 1 Appliance Pros
 keywords: "New Zealand Wanganui"
-type: "Appliance Repair Technicians"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wanganui"]
 author: Curtis

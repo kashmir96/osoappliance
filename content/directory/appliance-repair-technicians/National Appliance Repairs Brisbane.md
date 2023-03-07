@@ -1,7 +1,7 @@
 ---
 title: National Appliance Repairs Brisbane
 keywords: National Appliance Repairs Brisbane Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

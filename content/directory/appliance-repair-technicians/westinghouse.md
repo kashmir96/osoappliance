@@ -1,7 +1,7 @@
 ---
 title: Westinghouse, Auckland
 keywords: "New Zealand Wellington, Auckland"
-type: "Manufacturer, Appliance Repair Technician, New Appliances"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington, Auckland"]
 author: Curtis

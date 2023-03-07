@@ -1,7 +1,7 @@
 ---
 title: Fix It Right Appliance Repair Refrigerator Repair Washing Machine Repair Dishwasher Repair
 keywords: Fix It Right Appliance Repair Refrigerator Repair Washing Machine Repair Dishwasher Repair Appliance Repair Technician San Jose United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Jose"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Vc appliances
 keywords: Vc appliances Appliance Repair Technician Philadelphia United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis

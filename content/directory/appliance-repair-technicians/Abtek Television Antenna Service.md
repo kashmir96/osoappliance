@@ -1,7 +1,7 @@
 ---
 title: Abtek Television Antenna Service
 keywords: Abtek Television Antenna Service Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

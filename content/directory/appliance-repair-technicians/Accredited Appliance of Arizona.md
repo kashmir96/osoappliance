@@ -1,7 +1,7 @@
 ---
 title: Accredited Appliance of Arizona
 keywords: Accredited Appliance of Arizona Appliance Repair Technician Phoenix United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis

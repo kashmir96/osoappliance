@@ -1,7 +1,7 @@
 ---
 title: Sunshine Coast AirCon Cleaning
 keywords: Sunshine Coast AirCon Cleaning Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: JB HiFi Albury Mates Centre
 keywords: JB HiFi Albury Mates Centre Appliance Repair Technician Albury Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis

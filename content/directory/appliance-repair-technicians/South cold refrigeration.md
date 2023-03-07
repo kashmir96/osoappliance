@@ -1,7 +1,7 @@
 ---
 title: South cold refrigeration
 keywords: South cold refrigeration Appliance Repair Technician Southampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis

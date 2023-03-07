@@ -1,7 +1,7 @@
 ---
 title: The Appliance Specialist at Glenelg
 keywords: The Appliance Specialist at Glenelg Appliance Repair Technician Adelaide Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Adelaide"]
 author: Curtis

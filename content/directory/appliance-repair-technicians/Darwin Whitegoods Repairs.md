@@ -1,7 +1,7 @@
 ---
 title: Darwin Whitegoods Repairs
 keywords: Darwin Whitegoods Repairs Appliance Repair Technician Darwin Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis

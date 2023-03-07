@@ -1,7 +1,7 @@
 ---
 title: Glotech Kitchens Appliances and Repairs St Albans Hertfordshire
 keywords: Glotech Kitchens Appliances and Repairs St Albans Hertfordshire Appliance Repair Technician Leeds United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leeds"]
 author: Curtis

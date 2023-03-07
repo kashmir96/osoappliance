@@ -1,7 +1,7 @@
 ---
 title: PJ Gates and Automation
 keywords: PJ Gates and Automation Appliance Repair Technician Belfast United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis

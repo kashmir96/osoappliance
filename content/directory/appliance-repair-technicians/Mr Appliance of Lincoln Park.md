@@ -1,7 +1,7 @@
 ---
 title: Mr Appliance of Lincoln Park
 keywords: Mr Appliance of Lincoln Park Appliance Repair Technician Chicago United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Chicago"]
 author: Curtis

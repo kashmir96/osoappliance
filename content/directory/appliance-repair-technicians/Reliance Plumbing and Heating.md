@@ -1,7 +1,7 @@
 ---
 title: Reliance Plumbing and Heating
 keywords: Reliance Plumbing and Heating Appliance Repair Technician Portsmouth United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Portsmouth"]
 author: Curtis

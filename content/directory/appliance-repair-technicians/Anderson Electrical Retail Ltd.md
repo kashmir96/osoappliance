@@ -1,7 +1,7 @@
 ---
 title: Anderson Electrical Retail Ltd
 keywords: Anderson Electrical Retail Ltd Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

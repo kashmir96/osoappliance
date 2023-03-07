@@ -1,7 +1,7 @@
 ---
 title: Mr Appliance of River Oaks
 keywords: Mr Appliance of River Oaks Appliance Repair Technician Houston United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Houston"]
 author: Curtis

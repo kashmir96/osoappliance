@@ -1,7 +1,7 @@
 ---
 title: Big and Square Appliance Repair
 keywords: Big and Square Appliance Repair Appliance Repair Technician Fort Worth United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Fort Worth"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Asko Dishwasher And Washing Machine Service And Repair
 keywords: Asko Dishwasher And Washing Machine Service And Repair Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

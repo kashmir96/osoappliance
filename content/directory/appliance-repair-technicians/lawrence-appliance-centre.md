@@ -1,7 +1,7 @@
 ---
 title: Lawrence Appliance Centre
 keywords: "New Zealand Hamilton"
-type: "Appliance Repair Technicians"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Hamilton"]
 author: Curtis

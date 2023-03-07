@@ -1,7 +1,7 @@
 ---
 title: Carolina Appliance Service LLC
 keywords: Carolina Appliance Service LLC Appliance Repair Technician Charlotte United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Charlotte"]
 author: Curtis

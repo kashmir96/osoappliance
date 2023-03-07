@@ -1,7 +1,7 @@
 ---
 title: Jlm plumbing heating repairs
 keywords: Jlm plumbing heating repairs Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

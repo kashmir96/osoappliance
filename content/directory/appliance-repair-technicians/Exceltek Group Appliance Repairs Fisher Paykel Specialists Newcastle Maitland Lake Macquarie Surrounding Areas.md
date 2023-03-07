@@ -1,7 +1,7 @@
 ---
 title: Exceltek Group Appliance Repairs Fisher Paykel Specialists Newcastle Maitland Lake Macquarie Surrounding Areas
 keywords: Exceltek Group Appliance Repairs Fisher Paykel Specialists Newcastle Maitland Lake Macquarie Surrounding Areas Appliance Repair Technician Newcastle Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Newcastle"]
 author: Curtis

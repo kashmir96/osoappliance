@@ -1,7 +1,7 @@
 ---
 title: CJM Washer Services Ltd Washing Machine Tumble Dryer Repairs
 keywords: CJM Washer Services Ltd Washing Machine Tumble Dryer Repairs Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

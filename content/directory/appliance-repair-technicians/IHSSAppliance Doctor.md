@@ -1,7 +1,7 @@
 ---
 title: IHSSAppliance Doctor
 keywords: IHSSAppliance Doctor Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

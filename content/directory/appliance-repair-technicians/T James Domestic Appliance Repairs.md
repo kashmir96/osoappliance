@@ -1,7 +1,7 @@
 ---
 title: T James Domestic Appliance Repairs
 keywords: T James Domestic Appliance Repairs Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

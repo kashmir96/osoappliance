@@ -1,7 +1,7 @@
 ---
 title: Quality Appliance Repair San Francisco LLC
 keywords: Quality Appliance Repair San Francisco LLC Appliance Repair Technician San Francisco United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["San Francisco"]
 author: Curtis

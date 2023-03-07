@@ -1,7 +1,7 @@
 ---
 title: Merseyside Domestic Appliances Washing Machines Dryers Cookers Oven Dishwasher Spares Repairs
 keywords: Merseyside Domestic Appliances Washing Machines Dryers Cookers Oven Dishwasher Spares Repairs Appliance Repair Technician Liverpool United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis

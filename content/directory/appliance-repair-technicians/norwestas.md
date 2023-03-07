@@ -1,7 +1,7 @@
 ---
 title: Norwestas
 keywords: "New Zealand Auckland"
-type: "Appliance Repair Technician, New Appliances, Parts"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Auckland"]
 author: Curtis

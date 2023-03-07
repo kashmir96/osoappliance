@@ -1,7 +1,7 @@
 ---
 title: Denvers Best SubZero Wolf Repair Greenwood Village
 keywords: Denvers Best SubZero Wolf Repair Greenwood Village Appliance Repair Technician Denver United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Denver"]
 author: Curtis

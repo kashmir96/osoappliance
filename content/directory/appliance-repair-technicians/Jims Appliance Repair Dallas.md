@@ -1,7 +1,7 @@
 ---
 title: Jims Appliance Repair Dallas
 keywords: Jims Appliance Repair Dallas Appliance Repair Technician Dallas United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Dallas"]
 author: Curtis

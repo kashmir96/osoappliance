@@ -1,7 +1,7 @@
 ---
 title: Monk Appliances
 keywords: "New Zealand Wellington"
-type: "Parts, Appliance Repair Technician"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Wellington"]
 author: Curtis

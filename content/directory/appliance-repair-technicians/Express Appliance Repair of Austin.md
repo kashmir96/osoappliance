@@ -1,7 +1,7 @@
 ---
 title: Express Appliance Repair of Austin
 keywords: Express Appliance Repair of Austin Appliance Repair Technician Austin United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Austin"]
 author: Curtis

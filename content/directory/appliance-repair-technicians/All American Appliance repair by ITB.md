@@ -1,7 +1,7 @@
 ---
 title: All American Appliance repair by ITB
 keywords: All American Appliance repair by ITB Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

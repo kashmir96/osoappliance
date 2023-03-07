@@ -1,7 +1,7 @@
 ---
 title: AJ Appliance Inc
 keywords: AJ Appliance Inc Appliance Repair Technician Philadelphia United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis

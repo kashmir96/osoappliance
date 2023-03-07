@@ -1,7 +1,7 @@
 ---
 title: Atlantic Coast Appliance
 keywords: Atlantic Coast Appliance Appliance Repair Technician Jacksonville United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis

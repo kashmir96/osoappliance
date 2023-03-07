@@ -1,7 +1,7 @@
 ---
 title: Acacia Plumbing
 keywords: Acacia Plumbing Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

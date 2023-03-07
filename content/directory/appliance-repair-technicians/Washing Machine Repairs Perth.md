@@ -1,7 +1,7 @@
 ---
 title: Washing Machine Repairs Perth
 keywords: Washing Machine Repairs Perth Appliance Repair Technician Perth Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Perth"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Ian Black Domestic Appliances
 keywords: Ian Black Domestic Appliances Appliance Repair Technician Kingston upon Hull United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis

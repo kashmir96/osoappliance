@@ -1,7 +1,7 @@
 ---
 title: Heating Solutions NI Heating Engineer Belfast Boiler Service Belfast Boiler Repair
 keywords: Heating Solutions NI Heating Engineer Belfast Boiler Service Belfast Boiler Repair Appliance Repair Technician Belfast United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis

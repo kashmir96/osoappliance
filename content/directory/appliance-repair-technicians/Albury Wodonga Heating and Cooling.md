@@ -1,7 +1,7 @@
 ---
 title: Albury Wodonga Heating and Cooling
 keywords: Albury Wodonga Heating and Cooling Appliance Repair Technician Albury Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Albury"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Thompson Plumbing Heating Specialists
 keywords: Thompson Plumbing Heating Specialists Appliance Repair Technician Southampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: SH Appliances Repairs London
 keywords: SH Appliances Repairs London Appliance Repair Technician London United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis

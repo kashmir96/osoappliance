@@ -1,7 +1,7 @@
 ---
 title: Cairns Aircon Electrical
 keywords: Cairns Aircon Electrical Appliance Repair Technician Cairns Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Cairns"]
 author: Curtis

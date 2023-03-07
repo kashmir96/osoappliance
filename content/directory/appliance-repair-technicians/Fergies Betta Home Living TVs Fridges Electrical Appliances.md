@@ -1,7 +1,7 @@
 ---
 title: Fergies Betta Home Living TVs Fridges Electrical Appliances
 keywords: Fergies Betta Home Living TVs Fridges Electrical Appliances Appliance Repair Technician Launceston Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis

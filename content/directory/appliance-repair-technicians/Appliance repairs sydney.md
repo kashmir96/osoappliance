@@ -1,7 +1,7 @@
 ---
 title: Appliance repairs sydney
 keywords: Appliance repairs sydney Appliance Repair Technician Sydney Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis

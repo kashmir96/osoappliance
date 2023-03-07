@@ -1,7 +1,7 @@
 ---
 title: Homefix Appliance Repair Ltd
 keywords: Homefix Appliance Repair Ltd Appliance Repair Technician London United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis

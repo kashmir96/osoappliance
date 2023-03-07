@@ -1,7 +1,7 @@
 ---
 title: Goddard T A
 keywords: Goddard T A Appliance Repair Technician Manchester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis

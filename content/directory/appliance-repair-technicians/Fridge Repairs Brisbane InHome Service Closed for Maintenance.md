@@ -1,7 +1,7 @@
 ---
 title: Fridge Repairs Brisbane InHome Service Closed for Maintenance
 keywords: Fridge Repairs Brisbane InHome Service Closed for Maintenance Appliance Repair Technician Brisbane Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Brisbane"]
 author: Curtis

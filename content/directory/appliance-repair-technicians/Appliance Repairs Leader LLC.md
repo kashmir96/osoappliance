@@ -1,7 +1,7 @@
 ---
 title: Appliance Repairs Leader LLC
 keywords: Appliance Repairs Leader LLC Appliance Repair Technician Washington United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Washington"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Leppard Electrical Appliance Services
 keywords: Leppard Electrical Appliance Services Appliance Repair Technician Belfast United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis

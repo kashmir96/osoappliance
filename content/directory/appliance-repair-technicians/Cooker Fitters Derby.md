@@ -1,7 +1,7 @@
 ---
 title: Cooker Fitters Derby
 keywords: Cooker Fitters Derby Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

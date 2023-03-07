@@ -1,7 +1,7 @@
 ---
 title: Calescent Gas Heating Services Ltd
 keywords: Calescent Gas Heating Services Ltd Appliance Repair Technician Edinburgh United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Edinburgh"]
 author: Curtis

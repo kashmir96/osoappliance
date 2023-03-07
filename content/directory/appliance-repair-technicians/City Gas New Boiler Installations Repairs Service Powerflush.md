@@ -1,7 +1,7 @@
 ---
 title: City Gas New Boiler Installations Repairs Service Powerflush
 keywords: City Gas New Boiler Installations Repairs Service Powerflush Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

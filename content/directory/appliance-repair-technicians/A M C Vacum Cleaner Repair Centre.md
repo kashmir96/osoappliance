@@ -1,7 +1,7 @@
 ---
 title: A M C Vacum Cleaner Repair Centre
 keywords: A M C Vacum Cleaner Repair Centre Appliance Repair Technician Belfast United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis

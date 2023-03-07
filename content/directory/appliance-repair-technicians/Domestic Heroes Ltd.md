@@ -1,7 +1,7 @@
 ---
 title: Domestic Heroes Ltd
 keywords: Domestic Heroes Ltd Appliance Repair Technician Coventry United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Coventry"]
 author: Curtis

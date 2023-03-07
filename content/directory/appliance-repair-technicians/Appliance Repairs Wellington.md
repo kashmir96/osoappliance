@@ -1,7 +1,7 @@
 ---
 title: Appliance Repairs Wellington
 keywords: Appliance Repairs Wellington Appliance Repair Technician Belfast United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Belfast"]
 author: Curtis

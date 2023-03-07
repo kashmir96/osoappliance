@@ -1,7 +1,7 @@
 ---
 title: Doug Smith Appliance Parts
 keywords: Doug Smith Appliance Parts Appliance Repair Technician Gold-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis

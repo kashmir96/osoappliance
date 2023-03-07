@@ -1,7 +1,7 @@
 ---
 title: Advanced Appliance Care Washing Machine Dishwasher Repairs Eastleigh Chandlers Ford
 keywords: Advanced Appliance Care Washing Machine Dishwasher Repairs Eastleigh Chandlers Ford Appliance Repair Technician Southampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis

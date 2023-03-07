@@ -1,7 +1,7 @@
 ---
 title: OBrien Plumbing Maroochydore
 keywords: OBrien Plumbing Maroochydore Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

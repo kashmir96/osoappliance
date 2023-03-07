@@ -1,7 +1,7 @@
 ---
 title: A1 Technicare
 keywords: A1 Technicare Appliance Repair Technician Birmingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis

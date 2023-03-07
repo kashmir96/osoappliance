@@ -1,7 +1,7 @@
 ---
 title: A HIGGINS COOKER REPAIRS LIVERPOOL
 keywords: A HIGGINS COOKER REPAIRS LIVERPOOL Appliance Repair Technician Liverpool United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Liverpool"]
 author: Curtis

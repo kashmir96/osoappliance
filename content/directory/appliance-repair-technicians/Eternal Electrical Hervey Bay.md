@@ -1,7 +1,7 @@
 ---
 title: Eternal Electrical Hervey Bay
 keywords: Eternal Electrical Hervey Bay Appliance Repair Technician Hervey-Bay Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis

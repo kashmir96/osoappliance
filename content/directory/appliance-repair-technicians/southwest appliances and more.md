@@ -1,7 +1,7 @@
 ---
 title: southwest appliances and more
 keywords: southwest appliances and more Appliance Repair Technician Philadelphia United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Philadelphia"]
 author: Curtis

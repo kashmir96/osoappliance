@@ -1,7 +1,7 @@
 ---
 title: Solar Hot Water and Hot Water Repairs
 keywords: Solar Hot Water and Hot Water Repairs Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

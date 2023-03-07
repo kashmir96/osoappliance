@@ -1,7 +1,7 @@
 ---
 title: Writes Appliance Repairs
 keywords: "New Zealand Christchurch"
-type: "Appliance Repair Technician, Delivery"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Christchurch"]
 author: Curtis

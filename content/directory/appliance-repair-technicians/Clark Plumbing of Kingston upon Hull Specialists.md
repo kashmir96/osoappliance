@@ -1,7 +1,7 @@
 ---
 title: Clark Plumbing of Kingston upon Hull Specialists
 keywords: Clark Plumbing of Kingston upon Hull Specialists Appliance Repair Technician Kingston upon Hull United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis

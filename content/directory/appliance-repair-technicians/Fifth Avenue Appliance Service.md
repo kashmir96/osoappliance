@@ -1,7 +1,7 @@
 ---
 title: Fifth Avenue Appliance Service
 keywords: Fifth Avenue Appliance Service Appliance Repair Technician New York City United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["New York City"]
 author: Curtis

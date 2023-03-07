@@ -1,7 +1,7 @@
 ---
 title: Air Mr Refrigeration Air Conditioning Refrigeration Installation Repairs Services
 keywords: Air Mr Refrigeration Air Conditioning Refrigeration Installation Repairs Services Appliance Repair Technician Hervey-Bay Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Hervey-Bay"]
 author: Curtis

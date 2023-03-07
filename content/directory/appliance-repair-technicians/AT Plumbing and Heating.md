@@ -1,7 +1,7 @@
 ---
 title: AT Plumbing and Heating
 keywords: AT Plumbing and Heating Appliance Repair Technician Manchester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Manchester"]
 author: Curtis

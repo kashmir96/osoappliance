@@ -1,7 +1,7 @@
 ---
 title: CLR Electrical Refrigeration
 keywords: CLR Electrical Refrigeration Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

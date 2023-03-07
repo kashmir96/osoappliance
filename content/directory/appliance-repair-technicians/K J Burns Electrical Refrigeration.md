@@ -1,7 +1,7 @@
 ---
 title: K J Burns Electrical Refrigeration
 keywords: K J Burns Electrical Refrigeration Appliance Repair Technician Darwin Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Darwin"]
 author: Curtis

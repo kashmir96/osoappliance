@@ -1,7 +1,7 @@
 ---
 title: Gosforth Service Centre
 keywords: Gosforth Service Centre Appliance Repair Technician Newcastle United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Newcastle"]
 author: Curtis

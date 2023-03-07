@@ -1,7 +1,7 @@
 ---
 title: DR Appliance Repairs Solihull
 keywords: DR Appliance Repairs Solihull Appliance Repair Technician Birmingham United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Birmingham"]
 author: Curtis

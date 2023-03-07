@@ -1,7 +1,7 @@
 ---
 title: SealAFridge Sunshine Coast
 keywords: SealAFridge Sunshine Coast Appliance Repair Technician Sunshine-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sunshine-Coast"]
 author: Curtis

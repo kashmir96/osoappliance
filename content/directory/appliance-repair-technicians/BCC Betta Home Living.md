@@ -1,7 +1,7 @@
 ---
 title: BCC Betta Home Living
 keywords: BCC Betta Home Living Appliance Repair Technician Geelong Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Geelong"]
 author: Curtis

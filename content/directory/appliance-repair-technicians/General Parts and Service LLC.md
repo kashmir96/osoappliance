@@ -1,7 +1,7 @@
 ---
 title: General Parts and Service LLC
 keywords: General Parts and Service LLC Appliance Repair Technician Phoenix United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Phoenix"]
 author: Curtis

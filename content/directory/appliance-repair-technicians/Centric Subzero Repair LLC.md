@@ -1,7 +1,7 @@
 ---
 title: Centric Subzero Repair LLC
 keywords: Centric Subzero Repair LLC Appliance Repair Technician Washington United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Washington"]
 author: Curtis

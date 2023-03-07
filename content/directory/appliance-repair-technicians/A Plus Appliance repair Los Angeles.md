@@ -1,7 +1,7 @@
 ---
 title: A Plus Appliance repair Los Angeles
 keywords: A Plus Appliance repair Los Angeles Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

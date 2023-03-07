@@ -1,7 +1,7 @@
 ---
 title: Launceston Plumbing and Gas
 keywords: Launceston Plumbing and Gas Appliance Repair Technician Launceston Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Launceston"]
 author: Curtis

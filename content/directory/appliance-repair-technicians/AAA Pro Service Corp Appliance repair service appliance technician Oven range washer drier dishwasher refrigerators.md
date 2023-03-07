@@ -1,7 +1,7 @@
 ---
 title: AAA Pro Service Corp Appliance repair service appliance technician Oven range washer drier dishwasher refrigerators
 keywords: AAA Pro Service Corp Appliance repair service appliance technician Oven range washer drier dishwasher refrigerators Appliance Repair Technician Jacksonville United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Jacksonville"]
 author: Curtis

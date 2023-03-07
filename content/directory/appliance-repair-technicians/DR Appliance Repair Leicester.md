@@ -1,7 +1,7 @@
 ---
 title: DR Appliance Repair Leicester
 keywords: DR Appliance Repair Leicester Appliance Repair Technician Leicester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Ray Appliance repair and service
 keywords: Ray Appliance repair and service Appliance Repair Technician Melbourne Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Melbourne"]
 author: Curtis

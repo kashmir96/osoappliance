@@ -1,7 +1,7 @@
 ---
 title: APPLIANCE REPAIR SPECIALIST
 keywords: APPLIANCE REPAIR SPECIALIST Appliance Repair Technician Sydney Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Sydney"]
 author: Curtis

@@ -1,7 +1,7 @@
 ---
 title: Edge Plumbing and Heating
 keywords: Edge Plumbing and Heating Appliance Repair Technician Wolverhampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Wolverhampton"]
 author: Curtis

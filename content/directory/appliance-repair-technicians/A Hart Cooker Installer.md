@@ -1,7 +1,7 @@
 ---
 title: A Hart Cooker Installer
 keywords: A Hart Cooker Installer Appliance Repair Technician Kingston upon Hull United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Kingston upon Hull"]
 author: Curtis

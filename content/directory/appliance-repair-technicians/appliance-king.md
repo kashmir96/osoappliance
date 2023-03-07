@@ -1,7 +1,7 @@
 ---
 title: Appliance King
 keywords: "New Zealand Dunedin"
-type: "Appliance Repair Technician, Installation, Delivery"
+type: "Appliance Repair Technician"
 categories: ["New Zealand"]
 tags: ["Dunedin"]
 author: Curtis

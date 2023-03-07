@@ -1,7 +1,7 @@
 ---
 title: Air Conditioning Service Installations Derby
 keywords: Air Conditioning Service Installations Derby Appliance Repair Technician Derby United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Derby"]
 author: Curtis

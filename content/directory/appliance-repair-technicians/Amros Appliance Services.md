@@ -1,7 +1,7 @@
 ---
 title: Amros Appliance Services
 keywords: Amros Appliance Services Appliance Repair Technician Indianapolis United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Indianapolis"]
 author: Curtis

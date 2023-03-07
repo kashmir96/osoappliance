@@ -1,7 +1,7 @@
 ---
 title: Delta Appliance Repairs
 keywords: Delta Appliance Repairs Appliance Repair Technician Gold-Coast Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Gold-Coast"]
 author: Curtis

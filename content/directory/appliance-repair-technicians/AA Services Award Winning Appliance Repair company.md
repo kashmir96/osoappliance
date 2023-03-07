@@ -1,7 +1,7 @@
 ---
 title: AA Services Award Winning Appliance Repair company
 keywords: AA Services Award Winning Appliance Repair company Appliance Repair Technician London United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["London"]
 author: Curtis

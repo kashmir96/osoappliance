@@ -1,7 +1,7 @@
 ---
 title: THINK GAS HEATING SERVICES LTD
 keywords: THINK GAS HEATING SERVICES LTD Appliance Repair Technician Southampton United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Southampton"]
 author: Curtis

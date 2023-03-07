@@ -1,7 +1,7 @@
 ---
 title: Ajax Electric Co Inc
 keywords: Ajax Electric Co Inc Appliance Repair Technician Seattle United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Seattle"]
 author: Curtis

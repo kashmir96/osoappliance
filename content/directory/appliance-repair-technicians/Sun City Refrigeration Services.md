@@ -1,7 +1,7 @@
 ---
 title: Sun City Refrigeration Services
 keywords: Sun City Refrigeration Services Appliance Repair Technician Townsville Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Townsville"]
 author: Curtis

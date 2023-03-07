@@ -1,7 +1,7 @@
 ---
 title: Leicester car regas
 keywords: Leicester car regas Appliance Repair Technician Leicester United Kingdom 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United Kingdom"]
 tags: ["Leicester"]
 author: Curtis

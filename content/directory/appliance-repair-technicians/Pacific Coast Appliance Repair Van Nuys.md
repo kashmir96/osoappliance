@@ -1,7 +1,7 @@
 ---
 title: Pacific Coast Appliance Repair Van Nuys
 keywords: Pacific Coast Appliance Repair Van Nuys Appliance Repair Technician Los Angeles United States 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["United States"]
 tags: ["Los Angeles"]
 author: Curtis

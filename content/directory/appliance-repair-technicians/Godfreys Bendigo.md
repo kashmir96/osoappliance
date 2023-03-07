@@ -1,7 +1,7 @@
 ---
 title: Godfreys Bendigo
 keywords: Godfreys Bendigo Appliance Repair Technician Bendigo Australia 
-type: Appliance Repair Technician 
+type: "Appliance Repair Technician"
 categories: ["Australia"]
 tags: ["Bendigo"]
 author: Curtis
