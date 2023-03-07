@@ -17,3 +17,4 @@ They primarily offer Commercial Appliances, renting Washing Machines, Clothes Dr
 If you're in Queenstown and are interested in hiring Washing Machines, Clothes Dryer, you can check their website out with the url below: 
 
 budgetappliances.co.nz
+
