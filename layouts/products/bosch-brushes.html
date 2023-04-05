@@ -1,0 +1,84 @@
+{{ define "main" }}
+
+<style> .main { padding:0px !important; }</style>
+
+  <div class="product-container">
+    <div class="product-images-full">  
+      <img src="/img/products/brushes/1.webp" alt="Product Image 1" class="active">
+      <img src="/video/ring-demo-square.gif" alt="Product Gif" load="lazy">
+      <img src="/img/products/brushes/2.webp" alt="Product Image 2" load="lazy">
+      <img src="/img/products/brushes/3.webp" alt="Brushes next to motor" load="lazy">
+      <img src="/img/products/brushes/4.webp" alt="Bosch washing machine" load="lazy">
+      <img src="/img/products/brushes/5.webp" alt="Bosch machine, motor" load="lazy">
+      <img src="/img/products/brushes/6.webp" alt="Brushes on bosch washing machine" load="lazy">
+
+    </div>    
+    <div class="product-info">
+      <h1 class="product-title">Genuine Carbon Washing Machine Motor Brushes for Bosch Front Loader</h1>
+      <p>Bring new life to your Bosch washing machine with a new set of carbon motor brushes.</p>
+      
+      <p class="product-price">$18.99</p>
+      <ul class="no-decoration">
+        <li> Free shipping</li>
+        <li> Factory direct</li>
+        <li> Quality guaranteed</li>
+        </ul>
+      <a href="https://buy.stripe.com/eVadTU0sBf08apq3cf" style="margin:20px auto 50px;" class="btn btn-primary">Buy Now</a>
+      
+      <div class="product-description">
+      <h2>Don't send your washing machine to the grave early if it's just an easy fix.</h2>
+      <img class="mobile-only" src="/video/ring-demo-square.gif" alt="Product Gif" load="lazy">
+
+        <ul>
+          <li><strong>Easy install: </strong>Cut your keychain clutter and never waste time hunting for your RFID door key again. Swap out your bulky key fobs or easily lost access cards for a ceramic RFID key ring and open doors in style. </li>
+          <li><strong>Long lasting: </strong>These RFID keys are made from a simplistic epoxy coated ceramic and look like a stylish piece of Jewellery. People will think you’ve got super powers opening your door with a wave of your hand and will think you’re wearing a key on your finger.</li>
+          <li><strong>Best value for money: </strong>These RFID key rings work on any access control system that utilises MiFare RFID technology, the most secure and common RFID technology on the market. Use it on lockers, gates, doors for your gym, office, pool, sauna or any other.</li>
+        </ul>
+        <a href="https://buy.stripe.com/eVadTU0sBf08apq3cf" style="margin:20px auto 50px;" class="btn btn-primary">Buy Now</a>
+
+
+        <h2>What Our Customers Are Saying:</h2>
+          <div class="review">
+            <blockquote>"Since I started using my Ecofobs ceramic RFID finger ring, I never have to worry about forgetting my gym key again. People always do a double take when I open the door with a karate chop instead of grabbing my card out my wallet” <br>- Jenna H., Gym Member</blockquote>
+          </div>
+          <div class="review">
+            <blockquote>“As a swimmer, it’s always been a pain keeping my RFID key fob close by to keep my belongings safe in the locker. This ring has been a game changer, I never lose it, and I’m never left hunting for it when I’m cold and dripping with water.” <br>- Mark S., Avid Swimmer</blockquote>
+          </div>
+
+          <div>
+            <h2>What are you waiting for?</h2>
+            <p>Make the switch to a more convenient, streamlined lifestyle and save your mental space for more important things than door access.</p>
+            <a href="https://buy.stripe.com/eVadTU0sBf08apq3cf" style="margin:20px auto 50px;" class="btn btn-primary">Buy Now</a>
+          </div>
+        
+        <h2>Specifications & Compatibility</h2>
+        <p>These rings operate at 13.56MHz and use Mifare RFID technology.</p>
+        <p>These rings work on any Mifare RFID reader, but it often requires the RFID key being logged into the system for the access provider. Please sure to check with your provider to ensure they allow alternative keys before purchasing as we don’t guarantee they will allow you to assign third party keys into their system.</p>
+        
+        <h2>How to install</h2>
+    <p>It’s as easy as unplugging the machine, leaning it over onto a mat, pull off the belt, using a 10mm socket to take out the motor, flick the tab holding the motor brush spring to the side and pull out the old brush. Put the brush in, test spinning the motor (if it’s noisy you may need to take out and put it back in). Repeat the process in reverse to install.</p>
+    <a href="https://buy.stripe.com/eVadTU0sBf08apq3cf" style="margin:20px auto 50px;" class="btn btn-primary">Buy Now</a>
+
+  </div>
+        
+      </div>
+    </div>
+    <script>
+        const images = document.querySelectorAll('.product-images img');
+        const activeImage = document.querySelector('.product-images img.active');
+        
+        images.forEach(image => {
+          image.addEventListener('click', () => {
+            activeImage.classList.remove('active');
+            activeImage = image;
+            activeImage.classList.add('active');
+            const imageUrl = activeImage.getAttribute('src');
+            const productImage = document.querySelector('.product-images-full img');
+            productImage.setAttribute('src', imageUrl);
+          });
+        });
+
+      </script> 
+   
+      
+{{ end }}

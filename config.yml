@@ -74,8 +74,6 @@ menu:
       url: /contact
       weight: 80
 
-
-
 markup:
   goldmark:
     renderer:
