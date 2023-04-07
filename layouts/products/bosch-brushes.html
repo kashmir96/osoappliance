@@ -46,8 +46,6 @@
             <blockquote>“I'm stoked to have saved over $200 by replacing my Bosch washing machine motor brushes myself<br>- Michael, Teacher</blockquote>
           </div>
 
-
-
           <div>
             <h2>What are you waiting for?</h2>
             <p>Order now and lets get your washing machine back to life so you can put your time and energy into things that really matter</p>
@@ -82,6 +80,13 @@
         });
 
       </script> 
+      <script>
+        document.querySelectorAll('.btn-primary').forEach(item => {
+            item.addEventListener('click', event => {
+                fathom.trackGoal('IRCIZ9GD', 0);
+            });
+        });
+        </script>
    
       
 {{ end }}
