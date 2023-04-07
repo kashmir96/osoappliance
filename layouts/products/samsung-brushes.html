@@ -1,0 +1,86 @@
+{{ define "main" }}
+
+<style> .main { padding:0px !important; }</style>
+
+  <div class="product-container">
+    <div class="product-images-full">  
+      <img src="/img/products/brushes/samsung/1.webp" alt="Product Image 1" class="active">
+      <img src="/img/products/brushes/samsung/2.webp" alt="Product Image 2" load="lazy">
+      <img src="/img/products/brushes/samsung/3.webp" alt="Brushes next to motor" load="lazy">
+      <img src="/img/products/brushes/samsung/4.webp" alt="Samsung washing machine" load="lazy">
+      <img src="/img/products/brushes/samsung/5.webp" alt="Samsung machine, motor" load="lazy">
+    </div>    
+    <div class="product-info">
+      <h1 class="product-title">Genuine Carbon Washing Machine Motor Brushes for Samsung Front Loader</h1>
+      <p>Bring new life to your Samsung washing machine with a new set of carbon motor brushes.</p>
+      
+      <p class="product-price">$18.99</p>
+      <ul class="no-decoration">
+        <li> Free shipping</li>
+        <li> Factory direct</li>
+        <li> Quality guaranteed</li>
+        </ul>
+      <a href="https://buy.stripe.com/aEU1780sB8BK69a8wG" style="margin:20px auto 50px;" class="btn btn-primary">Buy Now</a>
+      
+      <div class="product-description">
+      <h2>Don't send your washing machine to the grave early if it's just an easy fix.</h2>
+      <img class="mobile-only" src="/img/products/brushes/samsung/6.webp" alt="Brushes on Samsung washing machine" load="lazy">
+
+        <ul>
+          <li><strong>Easy install: </strong>Swapping out motor brushes is an easy appliance fix, following online guides it should take only 10 minutes and save you hundreds of dollars getting someone else to do it!</li>
+          <li><strong>Long lasting: </strong>Made from high quality carbon, these motor brushes will keep your Samsung washing machine spinning for years to come.</li>
+          <li><strong>Best value for money: </strong>These carbon motor brushes for Samsung washing machines are high quality and factory direct, meaning you get the same quality without paying for the Samsung brand name. </li>
+        </ul>
+        <a href="https://buy.stripe.com/aEU1780sB8BK69a8wG" style="margin:20px auto 50px;" class="btn btn-primary">Buy Now</a>
+
+
+        <h2>What Our Customers Are Saying:</h2>
+        <div class="review">
+          <blockquote>"As a busy doctor, I don't have time for appliance repairs. But replacing the motor brushes in my Samsung washing machine was surprisingly easy, and it saved me from having to buy a new one. Thanks for the quality product!"<br>- Dr. Smith, Physician</blockquote>
+        </div>
+        <div class="review">
+          <blockquote>"As a stay-at-home mom, I'm always looking for ways to save money. When my Samsung washing machine started acting up, I was hesitant to call a repairman. But after a couple quick videos online it didn't look too hard so I thought I'd give it a crack, I was able to fix it myself and save a bundle. It's amazing what a little DIY can do!"<br>- Sarah, Homemaker</blockquote>
+        </div>
+
+          <div>
+            <h2>What are you waiting for?</h2>
+            <p>Order now and lets get your washing            machine back to life so you can put your time and energy into things that really matter</p>
+            <a href="https://buy.stripe.com/aEU1780sB8BK69a8wG" style="margin:20px auto 50px;" class="btn btn-primary">Buy Now</a>
+          </div>
+        
+        <h2>Specifications & Compatibility</h2>
+        <p>Made for Samsung Front Loading washing machines</p>
+          <p>Fits various Samsung machine models, please check compatibility with your specific model before purchasing. </p> 
+        
+          <h2>How to install</h2>
+    <p>It’s as easy as unplugging the machine, leaning it over onto a mat, pull off the belt, using a 10mm socket to take out the motor, flick the tab holding the motor brush spring to the side and pull out the old brush. Put the brush in, test spinning the motor (if it’s noisy you may need to take out and put it back in). Repeat the process in reverse to install.</p>
+    <a href="https://buy.stripe.com/aEU1780sB8BK69a8wG" style="margin:20px auto 50px;" class="btn btn-primary">Buy Now</a>
+
+  </div>
+        
+      </div>
+    </div>
+    <script>
+        const images = document.querySelectorAll('.product-images img');
+        const activeImage = document.querySelector('.product-images img.active');
+        
+        images.forEach(image => {
+          image.addEventListener('click', () => {
+            activeImage.classList.remove('active');
+            activeImage = image;
+            activeImage.classList.add('active');
+            const imageUrl = activeImage.getAttribute('src');
+            const productImage = document.querySelector('.product-images-full img');
+            productImage.setAttribute('src', imageUrl);
+          });
+        });
+
+      </script> 
+      <script>
+        document.querySelectorAll('.btn-primary').forEach(item => {
+            item.addEventListener('click', event => {
+                fathom.trackGoal('IRCIZ9GD', 0);
+            });
+        });
+        </script>
+{{ end }}

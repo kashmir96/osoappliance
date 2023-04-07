@@ -388,7 +388,7 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 .mobile-only {
   display:none;
 }
-.container {
+.product-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -472,7 +472,7 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
  
   
 @media (max-width: 600px) {
-    .container {
+    .product-container {
       flex-direction: column;
     }
   
@@ -520,7 +520,7 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
   }
   /* Small screens (up to 600px) */
 @media (max-width: 600px) {
-    .container {
+    .product-container {
       display: flex;
       flex-direction: column;
     }
@@ -551,6 +551,30 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 
   }
  
+/* Style radio buttons as buttons */
+input[type="radio"] {
+  display: none;
+}
+
+label[for^="size"] {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 8px 16px;
+  border: 2px solid #333;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Style selected radio button */
+input[type="radio"]:checked + label[for^="size"] {
+  background-color: #333;
+  color: #fff;
+}
+
+
 
 
 
