@@ -16,5 +16,5 @@ gtag('event', 'conversion', {'send_to': 'AW-11064141022/sur-COeN_5UYEN7J5Zsp'});
 
 // Fathom event 
 window.addEventListener('load', (event) => {
-    fathom.trackGoal('6PX4Y5YF', 6200);
+    fathom.trackGoal('6PX4Y5YF', 1899);
 });
