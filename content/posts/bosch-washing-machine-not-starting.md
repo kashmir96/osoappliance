@@ -24,6 +24,9 @@ If your Bosch washing machine won't start, it could be due to a variety of reaso
 
 5. Motor: The motor on a Bosch washing machine powers the machine. If the motor is not working properly, the machine will not start. You may need to replace the motor brushes or the motor itself if it is not working.
 
+Are you experiencing problems with your washing machine spinning or making strange noises? If you suspect that worn-out motor brushes are the culprit, we have you covered. Our online store offers high-quality replacement brushes that are specifically designed to fit your Bosch washing machine. And the best part? You don't have to break the bank to get them. We offer affordable prices and fast shipping, making it easy and convenient for you to get the replacement [`Bosch motor brushes`](/products/bosch-brushes) you need. So why wait? Visit us now to get your washing machine back to its optimal performance.
+
+
 If none of these solutions solve the problem, you may need to contact a professional repair technician to diagnose and repair the machine.
 
 Make your life easier with a list of <a href="/pages/appliance-repair-technicians/">appliance repair technicians in christchurch</a> can help you renew them with energy.

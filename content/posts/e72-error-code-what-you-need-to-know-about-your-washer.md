@@ -46,3 +46,5 @@ If the error persists after replacement of components, contact a licensed profes
 3. A qualified appliance repair technician can assist with identifying and fixing more complex issues. 
 4. Replacing the motor may be necessary if the problem persists. 
 5. With proper diagnosis, repair and help from a qualified technician, your washer can be back in working condition shortly.
+
+Is your washing machine making unusual sounds or struggling to spin? If you suspect that worn-out motor brushes may be the cause, don't delay – order replacement brushes today from our online store. If you have a Bosch washing machine, visit our [Bosch motor brushes page](/products/bosch-brushes) for high-quality replacement brushes designed specifically for your machine. If you have a Samsung washing machine, check out our [Samsung motor brushes page](/products/samsung-brushes) for affordable, reliable replacement brushes. We offer fast shipping and excellent customer service, so you can get your washing machine back to optimal performance in no time. Don't wait – visit us now to get the motor brushes you need for your washing machine!

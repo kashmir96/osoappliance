@@ -26,6 +26,9 @@ Over time the timer of a washing machine can become faulty. This can cause the m
 ###Motor
 The washing machine motor runs the drum/agitator and can become worn over time. This can lead to inefficient washing or even a complete breakdown of the machine. If the motor is suspected of being faulty then it should be checked and, if necessary, replaced as soon as possible.
 
+Is your washing machine making unusual sounds or struggling to spin? If you suspect that worn-out motor brushes may be the cause, don't delay – order replacement brushes today from our online store. If you have a Bosch washing machine, visit our Bosch motor brushes page at `/products/bosch-brushes`. For Samsung washing machine owners, check out our Samsung motor brushes page at `/products/samsung-brushes`. We offer high-quality replacement brushes designed specifically to fit your washing machine brand, with affordable prices and fast shipping. So why wait? Visit us now to get your washing machine back to its optimal performance!
+
+
 By conducting regular checks and maintenance, these common faults can be avoided or identified quickly and resolved, saving you the hassle and expense of major repairs. To find a reliable appliance repair technician to diagnose and fix your washing machine mishap, turn to our [Directory of Appliance Repair Technicians](./pages/appliance-repair-technicians) to receive quotes from reputable professionals in your area.
 
 ## Troubleshooting Frequently Asked Questions

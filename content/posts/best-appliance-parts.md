@@ -21,3 +21,5 @@ For washing machines and dryers, one of the most important replacement parts is 
 When it comes to restoring old appliances with new parts there are plenty of options available; just make sure you know exactly what needs replacing first before taking on any repairs yourself!
 
 Find the best <a href="/pages/appliance-parts-suppliers/">appliance parts supplier in your area by clicking here</a> to view suppliers nearby.
+
+Is your washing machine making unusual sounds or struggling to spin? If you suspect that worn-out motor brushes may be the cause, don't delay – order replacement brushes today from our online store. If you have a Bosch washing machine, visit our Bosch motor brushes page at `/products/bosch-brushes`. For Samsung washing machine owners, check out our Samsung motor brushes page at `/products/samsung-brushes`. We offer high-quality replacement brushes designed specifically to fit your washing machine brand, with affordable prices and fast shipping. So why wait? Visit us now to get your washing machine back to its optimal performance!

@@ -30,6 +30,9 @@ Another common symptom of a faulty washing machine is if it's not spinning or dr
 ### 3. Not Agitating or Spinning
 If your washing machine is not agitating or spinning, it could be due to a range of issues, including a damaged motor, a broken belt, or a malfunctioning transmission. This is another symptom that needs to be addressed quickly, as it could cause your clothes to become damaged. 
 
+Is your washing machine making unusual sounds or struggling to spin? If you suspect that worn-out motor brushes may be the cause, don't delay – order replacement brushes today from our online store. If you have a Bosch washing machine, visit our Bosch motor brushes page at `/products/bosch-brushes`. For Samsung washing machine owners, check out our Samsung motor brushes page at `/products/samsung-brushes`. We offer high-quality replacement brushes designed specifically to fit your washing machine brand, with affordable prices and fast shipping. So why wait? Visit us now to get your washing machine back to its optimal performance!
+
+
 ### 4. Clothes Still Wet After Draining
 Finally, if you're experiencing clothes that are still wet after draining, it could be due to a range of issues, including a clogged drain hose, a damaged pump, or a faulty control board. This is another symptom that needs to be addressed quickly, as it can cause mold growth and a bad odor. 
 
